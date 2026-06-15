@@ -125,8 +125,12 @@ async function syncBoxOfficeData() {
                     slug: slug,
                     releaseDate: new Date(),
                     year: new Date().getFullYear(),
+                    tmdbId: Math.floor(Math.random() * -1000000) - 1, // Dummy TMDB ID
+                    metadata: {}, // Empty metadata JSON
                 }).onConflictDoNothing();
-            } catch(e) { }
+            } catch(e) { 
+                console.error(`Failed to insert movie ${title}:`, e);
+            }
         }
         // Refresh dbMovies with the newly added ones
         const newDbMovies = await db.select().from(movies);

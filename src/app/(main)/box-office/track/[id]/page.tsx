@@ -7,6 +7,7 @@ import { eq } from 'drizzle-orm';
 
 interface PageProps {
   params: Promise<{ id: string }>;
+  searchParams: Promise<{ date?: string }>;
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -30,8 +31,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default async function TrackPage({ params }: PageProps) {
+export default async function TrackPage({ params, searchParams }: PageProps) {
   const { id } = await params;
+  const { date } = await searchParams;
   const movieId = Number(id);
 
   if (isNaN(movieId)) {
@@ -43,7 +45,7 @@ export default async function TrackPage({ params }: PageProps) {
     );
   }
 
-  const data = await getMovieBoxOfficeDetails(movieId);
+  const data = await getMovieBoxOfficeDetails(movieId, date);
 
   if (!data) {
     return (

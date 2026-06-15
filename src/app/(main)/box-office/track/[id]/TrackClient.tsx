@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import {
   ArrowLeft, RefreshCw, Copy, Share2, Search,
   ChevronRight, MapPin, Building2, Tv, Flame,
@@ -10,6 +10,7 @@ import {
 import Link from 'next/link';
 import Image from 'next/image';
 import { AreaChart, Area, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
+import { Star } from 'lucide-react';
 
 // ─── TYPES ───
 interface TrackClientProps {
@@ -30,6 +31,8 @@ interface TrackClientProps {
     rawShows: any[];
     picStats: { gross: number; sold: number };
     lastUpdated: string;
+    availableDates?: Date[];
+    tmdbDetails?: any;
   };
 }
 
@@ -103,7 +106,10 @@ function DataRow({
 // ─── MAIN COMPONENT ───
 export default function TrackClient({ initialData }: TrackClientProps) {
   const router = useRouter();
-  const { movie, stats, statusCounts, stateSummary, citySummary, chainSummary, venueSummary, timeSlotSummary, sourceSplit, rawShows, trends, picStats, lastUpdated } = initialData;
+  const searchParams = useSearchParams();
+  const dateParam = searchParams.get('date');
+
+  const { movie, stats, statusCounts, trends, stateSummary, citySummary, chainSummary, venueSummary, sourceSplit, rawShows, picStats, lastUpdated, timeSlotSummary, availableDates = [], tmdbDetails } = initialData;
 
   const [copied, setCopied] = useState(false);
 
@@ -150,6 +156,34 @@ export default function TrackClient({ initialData }: TrackClientProps) {
         <button onClick={() => router.refresh()} className="flex items-center gap-1.5 px-3 py-1.5 bg-white/[0.03] border border-white/[0.05] rounded-lg text-xs text-zinc-400 hover:text-white hover:bg-white/[0.05] transition-all">
           <RefreshCw className="w-3.5 h-3.5" /> Refresh Live Data
         </button>
+      </div>
+
+      {/* ─── DAY-WISE TABS ─── */}
+      <div className="flex items-center gap-2 mb-8 overflow-x-auto pb-2 scrollbar-hide">
+        <Link 
+          href={`?date=Lifetime`}
+          className={`px-5 py-2 rounded-full text-xs font-bold tracking-wide whitespace-nowrap transition-all ${dateParam === 'Lifetime' ? 'bg-gradient-to-r from-emerald-500 to-emerald-400 text-black shadow-[0_0_15px_rgba(52,211,153,0.3)]' : 'bg-white/[0.03] text-zinc-400 hover:text-white border border-white/[0.05]'}`}
+        >
+          LIFETIME
+        </Link>
+        
+        {Array.from(new Set(availableDates.map(d => new Date(d).toISOString().split('T')[0])))
+          .sort()
+          .map((dateStr, idx, arr) => {
+            const isLatest = idx === arr.length - 1;
+            const isSelected = dateParam === dateStr || (!dateParam && isLatest && dateParam !== 'Lifetime');
+            
+            return (
+              <Link
+                key={dateStr}
+                href={`?date=${dateStr}`}
+                className={`px-5 py-2 rounded-full text-xs font-bold tracking-wide whitespace-nowrap transition-all ${isSelected ? 'bg-gradient-to-r from-rose-500 to-orange-400 text-white shadow-[0_0_15px_rgba(244,63,94,0.3)]' : 'bg-white/[0.03] text-zinc-400 hover:text-white border border-white/[0.05]'}`}
+              >
+                DAY {idx + 1}
+                <span className="font-normal opacity-70 ml-1.5 hidden sm:inline-block">({dateStr})</span>
+              </Link>
+            );
+          })}
       </div>
 
       {/* ─── HERO HEADER ─── */}
@@ -335,8 +369,61 @@ export default function TrackClient({ initialData }: TrackClientProps) {
           </section>
         </div>
 
-        {/* Right Col: Velocity & Top Chains */}
+        {/* Right Col: Velocity & Top Chains & TMDB */}
         <div className="space-y-6">
+
+          {/* ─── TMDB SIDEBAR ─── */}
+          {tmdbDetails && (
+            <section className="bg-black/20 border border-white/[0.05] rounded-xl p-5">
+              <h3 className="text-sm font-medium text-white flex items-center gap-2 mb-4">
+                <Star className="w-4 h-4 text-amber-400" /> Movie Info
+              </h3>
+              
+              <div className="grid grid-cols-2 gap-3 mb-5">
+                <div className="p-3 bg-white/[0.02] border border-white/[0.05] rounded-lg">
+                   <div className="text-[10px] text-zinc-500 mb-1 tracking-wide uppercase">Budget</div>
+                   <div className="font-mono text-sm text-zinc-200">{tmdbDetails.budget ? `$${(tmdbDetails.budget / 1000000).toFixed(1)}M` : 'N/A'}</div>
+                </div>
+                <div className="p-3 bg-white/[0.02] border border-white/[0.05] rounded-lg">
+                   <div className="text-[10px] text-zinc-500 mb-1 tracking-wide uppercase">TMDB Rating</div>
+                   <div className="font-mono text-sm text-amber-400 flex items-center gap-1">
+                      {tmdbDetails.vote_average?.toFixed(1) || '0.0'}
+                      <span className="text-[10px] text-zinc-500">({tmdbDetails.vote_count || 0})</span>
+                   </div>
+                </div>
+              </div>
+
+              <div className="space-y-4">
+                <div>
+                  <div className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5">Director</div>
+                  <div className="text-sm text-zinc-200">
+                    {tmdbDetails.credits?.crew?.filter((c: any) => c.job === 'Director').map((c: any) => c.name).join(', ') || 'Unknown'}
+                  </div>
+                </div>
+                <div>
+                  <div className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5">Top Cast</div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {tmdbDetails.credits?.cast?.slice(0, 5).map((actor: any, idx: number) => (
+                      <span key={idx} className="px-2 py-1 bg-white/[0.03] text-zinc-300 text-[11px] rounded-md border border-white/[0.05]">
+                        {actor.name}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+                <div>
+                  <div className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5">Genres</div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {tmdbDetails.genres?.map((g: any, idx: number) => (
+                      <span key={idx} className="px-2 py-1 text-[10px] font-medium text-emerald-400/80 bg-emerald-500/10 border border-emerald-500/20 rounded-md">
+                        {g.name}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </section>
+          )}
+
           {/* Velocity Chart */}
           <section className="bg-black/20 border border-white/[0.05] rounded-xl p-5">
             <h3 className="text-sm font-medium text-white flex items-center gap-2 mb-4">

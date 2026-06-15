@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync:box-office": "tsx --env-file=.env.local scripts/sync-box-office.ts",
     "dev": "NODE_OPTIONS='--max-old-space-size=2048' next dev --hostname 0.0.0.0 --webpack",
     "build": "next build",
     "start": "next start",

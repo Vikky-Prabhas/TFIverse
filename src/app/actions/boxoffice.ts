@@ -256,7 +256,7 @@ export async function getBoxOfficeHubData() {
     }
 }
 
-export async function getMovieBoxOfficeDetails(movieId: number, source?: 'BMS' | 'PAYTM' | 'ALL') {
+export async function getMovieBoxOfficeDetails(movieId: number, dateStr?: string, source?: 'BMS' | 'PAYTM' | 'ALL') {
     try {
         const filterSource = source && source !== 'ALL' ? source : undefined;
 
@@ -266,9 +266,41 @@ export async function getMovieBoxOfficeDetails(movieId: number, source?: 'BMS' |
 
         if (!movie) return null;
 
+        // Fetch TMDB Detailed info (Credits, Budget, etc)
+        let tmdbDetails = null;
+        if (movie.tmdbId && process.env.NEXT_PUBLIC_TMDB_API_KEY) {
+            try {
+                const tmdbRes = await fetch(`https://api.themoviedb.org/3/movie/${movie.tmdbId}?api_key=${process.env.NEXT_PUBLIC_TMDB_API_KEY}&append_to_response=credits`);
+                if (tmdbRes.ok) {
+                    tmdbDetails = await tmdbRes.json();
+                }
+            } catch (e) {
+                console.warn('Failed to fetch TMDB details for sidebar', e);
+            }
+        }
+
+        // Fetch available tracking dates
+        const availableDatesRaw = await db.select({
+            showDate: realtimeSessions.showDate,
+        })
+        .from(realtimeSessions)
+        .where(eq(realtimeSessions.movieId, movieId))
+        .groupBy(realtimeSessions.showDate)
+        .orderBy(desc(realtimeSessions.showDate));
+
+        const availableDates = availableDatesRaw.map(r => r.showDate);
+
         // Build session filter
         const sessionConditions = [eq(realtimeSessions.movieId, movieId)];
         if (filterSource) sessionConditions.push(eq(realtimeSessions.source, filterSource));
+
+        // Date filtering
+        if (dateStr && dateStr !== 'Lifetime') {
+            sessionConditions.push(eq(realtimeSessions.showDate, new Date(dateStr)));
+        } else if (!dateStr && availableDates.length > 0) {
+            // Default to the latest available day if no date is specified
+            sessionConditions.push(eq(realtimeSessions.showDate, availableDates[0]));
+        }
 
         // Get aggregate totals + unique counts for hero KPIs
         const aggregate = await db.select({
@@ -479,6 +511,8 @@ export async function getMovieBoxOfficeDetails(movieId: number, source?: 'BMS' |
                 sold: picAggregate[0]?.totalSold || 0,
             },
             lastUpdated: new Date(),
+            availableDates,
+            tmdbDetails,
         };
 
     } catch (error) {
