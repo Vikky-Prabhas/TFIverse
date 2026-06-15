@@ -101,7 +101,38 @@ async function syncBoxOfficeData() {
     console.log("💾 Upserting sessions into Local PostgreSQL Database...");
     
     // Cache ALL active movies for quick ID lookup
+    console.log("🔍 Running Auto-Discovery for missing movies...");
     const dbMovies = await db.select().from(movies);
+    const missingMoviesMap = new Map<string, string>();
+    
+    for (const session of finalSessions) {
+        const title = cleanMovieTitle(session.rawTitle);
+        const match = dbMovies.find(m => m.title.toLowerCase().includes(title.toLowerCase()) || title.toLowerCase().includes(m.title.toLowerCase()));
+        if (!match) {
+            const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+            if (!missingMoviesMap.has(slug)) {
+                missingMoviesMap.set(slug, title);
+            }
+        }
+    }
+    
+    if (missingMoviesMap.size > 0) {
+        console.log(`🆕 Found ${missingMoviesMap.size} untracked movies! Adding them dynamically...`);
+        for (const [slug, title] of missingMoviesMap.entries()) {
+            try {
+                await db.insert(movies).values({
+                    title: title,
+                    slug: slug,
+                    releaseDate: new Date(),
+                    year: new Date().getFullYear(),
+                }).onConflictDoNothing();
+            } catch(e) { }
+        }
+        // Refresh dbMovies with the newly added ones
+        const newDbMovies = await db.select().from(movies);
+        dbMovies.length = 0;
+        dbMovies.push(...newDbMovies);
+    }
 
     let successCount = 0;
     const chunkSize = 1000;
