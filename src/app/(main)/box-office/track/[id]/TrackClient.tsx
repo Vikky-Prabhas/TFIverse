@@ -173,14 +173,25 @@ export default function TrackClient({ initialData }: TrackClientProps) {
             const isLatest = idx === arr.length - 1;
             const isSelected = dateParam === dateStr || (!dateParam && isLatest && dateParam !== 'Lifetime');
             
+            let dayNum = idx + 1;
+            const [y, m, d] = dateStr.split('-');
+            const displayDate = `${d}/${m}/${y}`;
+            if (movie.releaseDate) {
+              const releaseTime = new Date(movie.releaseDate).getTime();
+              // Create local midnight time for dateStr to avoid timezone shift
+              const showTime = new Date(Number(y), Number(m) - 1, Number(d)).getTime();
+              const diffDays = Math.floor((showTime - releaseTime) / (1000 * 60 * 60 * 24)) + 1;
+              if (diffDays > 0) dayNum = diffDays;
+            }
+            
             return (
               <Link
                 key={dateStr}
                 href={`?date=${dateStr}`}
                 className={`px-5 py-2 rounded-full text-xs font-bold tracking-wide whitespace-nowrap transition-all ${isSelected ? 'bg-gradient-to-r from-rose-500 to-orange-400 text-white shadow-[0_0_15px_rgba(244,63,94,0.3)]' : 'bg-white/[0.03] text-zinc-400 hover:text-white border border-white/[0.05]'}`}
               >
-                DAY {idx + 1}
-                <span className="font-normal opacity-70 ml-1.5 hidden sm:inline-block">({dateStr})</span>
+                DAY {dayNum}
+                <span className="font-normal opacity-70 ml-1.5 hidden sm:inline-block">({displayDate})</span>
               </Link>
             );
           })}

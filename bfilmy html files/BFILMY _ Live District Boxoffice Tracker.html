@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://bfilmy.pages.dev/District%20Boxoffice/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0">
+  <!-- Primary Meta Tags -->
+  <title>BFILMY | Live District Boxoffice Tracker</title>
+  <meta name="title" content="Track Advance Box Office | BFilmy">
+  <meta name="description" content="Live Advance Tracking | Updated daily with real-time gross, show count and details">
+		<!-- ======================================================
+GOOGLE ANALYTICS
+====================================================== -->
+		<script src="./BFILMY _ Live District Boxoffice Tracker_files/f.txt"></script><script async="" src="./BFILMY _ Live District Boxoffice Tracker_files/js"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+
+		  function gtag() {
+		    dataLayer.push(arguments);
+		  }
+		  gtag('js', new Date());
+		  gtag('config', 'G-H6317WSB0J', {
+		    anonymize_ip: true
+		  });
+		</script>
+		<!-- ======================================================
+ADSENSE
+====================================================== -->
+		<meta name="google-adsense-account" content="ca-pub-9348936590334154">
+		<script async="" src="./BFILMY _ Live District Boxoffice Tracker_files/f(1).txt" crossorigin="anonymous" data-checked-head="true"></script>  <!-- Favicons -->
+  <link rel="icon" href="https://bfilmy.pages.dev/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://bfilmy.pages.dev/logo192.png">
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bfilmy.pages.dev/District Boxoffice">
+  <meta property="og:title" content="Track Advance Box Office | BFilmy">
+  <meta property="og:description" content="Live Advance Tracking | Updated daily with real-time gross, show count and details">
+  <meta property="og:image" content="https://bfilmy.pages.dev/banner.jpg">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Track Live Advance Box Office | BFilmy">
+  <meta name="twitter:description" content="Live Advance Tracking | Updated daily with real-time gross, show count and details">
+  <meta name="twitter:image" content="https://bfilmy.pages.dev/banner.jpg">
+  <!-- Additional SEO -->
+  <meta name="keywords" content=" Advance Booking, Live Box Office, Bfilmy Pages, Box Office, live tracking, BFilmy, premiere show data, gross collections, movie advance report">
+  <meta name="author" content="BFilmy Team">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Fonts -->
+  <link href="./BFILMY _ Live District Boxoffice Tracker_files/css2" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f7fb;
+      --card: #ffffff;
+      --border: #e4e4e7;
+      --border-soft: #e5e7eb;
+      --text: #111827;
+      --muted: #6b7280;
+      --primary: #d81f26;
+      --primary-dark: #b0161c;
+      --accent-soft: rgba(216, 31, 38, 0.06);
+      --radius: 14px;
+      --shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
+      --shadow-sm: 0 3px 10px rgba(15, 23, 42, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Poppins", system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", sans-serif;
+      background:
+        radial-gradient(1000px 700px at -10% -10%, #ffe3e5 0%, transparent 60%),
+        radial-gradient(1100px 700px at 110% 10%, #e3ebff 0%, transparent 60%),
+        var(--bg);
+      color: var(--text);
+      padding: 8px;
+    }
+
+    .wrap {
+      max-width: 1280px;
+      margin: 0 auto 28px;
+      padding: 0 4px;
+    }
+
+
+    /* Heading */
+    #page-title {
+      font-size: clamp(1.5rem, 3.4vw, 2.2rem);
+      font-weight: 800;
+      text-align: center;
+      margin: 14px 0 4px;
+      background: linear-gradient(90deg, #b0161c, #d81f26, #ff6b6b);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      position: relative;
+    }
+
+    #page-title::after {
+      content: "";
+      display: block;
+      margin: 7px auto 0;
+      width: 68px;
+      height: 3px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #b0161c, #ff4b4b);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    header small {
+      display: block;
+      text-align: center;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 8px;
+    }
+
+    #lastUpdatedTop {
+      font-weight: 600;
+      color: #374151;
+    }
+
+    /* Controls */
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 8px;
+    }
+
+    .controls input[type="date"],
+    .controls input[type="text"],
+    .controls select {
+      font-family: inherit;
+      padding: 7px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border-soft);
+      background: var(--card);
+      font-size: 12px;
+      min-width: 120px;
+      outline: none;
+      color: var(--text);
+      transition: border 0.15s, box-shadow 0.15s, background 0.15s;
+    }
+
+    .controls input[type="text"] {
+      min-width: min(230px, 60vw);
+    }
+
+    .controls input:focus,
+    .controls select:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 1px rgba(216, 31, 38, 0.35);
+    }
+
+    .icon-btn {
+      border-radius: 999px;
+      border: 1px solid var(--border-soft);
+      padding: 6px 9px;
+      background: var(--card);
+      cursor: pointer;
+      font-size: 11.5px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      color: var(--muted);
+      transition: background 0.2s, transform 0.1s, box-shadow 0.2s;
+      white-space: nowrap;
+    }
+
+    .icon-btn:hover {
+      background: #fff;
+      transform: translateY(-1px);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .hide-sm {
+      display: inline;
+    }
+
+    @media (max-width: 640px) {
+      .hide-sm {
+        display: none;
+      }
+    }
+
+    /* Metrics row */
+    .metrics-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .metric-card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 7px 9px;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .metric-label {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+
+    .metric-value {
+      font-size: 15px;
+      font-weight: 700;
+      font-family: "Inter", system-ui, sans-serif;
+    }
+
+    .metric-sub {
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+/* ===== BFILMY REPEATING DIAGONAL WATERMARK (VISIBLE FIX) ===== */
+.watermarked {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Put watermark ABOVE card background but BELOW text */
+.watermarked::before {
+  content: "";
+  position: absolute;
+  inset: -80px;
+
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='70'%3E%3Ctext x='0' y='50' fill='%23d81f26' font-family='Poppins,system-ui,sans-serif' font-size='22' font-weight='350' stroke='%23d81f26' stroke-width='0.7'%3EBFILMY%3C/text%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 160px 70px;
+
+  transform: rotate(-30deg);
+  transform-origin: center;
+  opacity: 0.15;
+
+  pointer-events: none;
+  user-select: none;
+
+  z-index: 1;          /* ✅ ABOVE white card */
+}
+
+/* ✅ Force all real content above the watermark */
+.watermarked > * {
+  position: relative;
+  z-index: 2;
+}
+
+
+
+
+    /* Tables */
+    .table-wrap {
+      width: 100%;
+      background: var(--card);
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      position: relative;
+      margin-top: 6px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: "Inter", system-ui, sans-serif;
+    }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      padding: 6px 6px;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      background: linear-gradient(180deg, #ffffff, #f9fafb);
+      border-bottom: 1px solid var(--border);
+      text-align: center;
+      cursor: pointer;
+      white-space: nowrap;
+      color: #6b7280;
+    }
+
+    tbody td {
+      padding: 5px 5px;
+      border-bottom: 1px solid rgba(228, 228, 231, 0.95);
+      font-size: 11px;
+      text-align: center;
+      white-space: nowrap;
+      background: rgba(255, 255, 255, 0.96);
+      font-weight: 400;
+    }
+
+    td.movie-cell {
+      text-align: left;
+      max-width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-weight: 600;
+      font-family: "Poppins", system-ui, sans-serif;
+    }
+
+    tr.summary-row {
+      cursor: pointer;
+      transition: background 0.16s ease, transform 0.08s ease, box-shadow 0.12s;
+    }
+
+    tr.summary-row:hover {
+      background: var(--accent-soft);
+      transform: translateY(-0.5px);
+      box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
+    }
+
+    .arrow {
+      display: inline-block;
+      width: 13px;
+      margin-right: 5px;
+      color: var(--primary-dark);
+      transition: transform 0.18s ease;
+    }
+
+    .arrow.down {
+      transform: rotate(90deg);
+    }
+
+    .child-row td {
+      padding: 5px 8px 7px;
+      background: rgba(255, 255, 255, 0.98);
+    }
+
+    .sub-wrap.watermarked {
+      border-radius: 10px;
+      padding: 6px;
+      margin-bottom: 6px;
+    }
+
+    .sub-wrap h4 {
+      margin: 2px 0 6px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #111827;
+    }
+
+    .sub-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 10.5px;
+      background: transparent;
+    }
+
+    .sub-table th,
+    .sub-table td {
+      padding: 4px 3px;
+      border-bottom: 1px solid rgba(212, 212, 216, 0.95);
+      text-align: center;
+      white-space: nowrap;
+      background: transparent;
+    }
+
+    .occ-high {
+      color: #16a34a;
+      font-weight: 700;
+    }
+
+    .occ-mid {
+      color: #f59e0b;
+      font-weight: 700;
+    }
+
+    .occ-low {
+      color: #dc2626;
+      font-weight: 700;
+    }
+
+    #lastUpdatedBottom {
+      text-align: right;
+      font-size: 10.5px;
+      margin-top: 4px;
+      color: var(--muted);
+    }
+
+    .total-row {
+      font-weight: 700;
+      background: #f3f4f6;
+    }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%) translateY(40px);
+      background: #111827;
+      color: white;
+      padding: 9px 18px;
+      border-radius: 999px;
+      font-size: 12.5px;
+      opacity: 0;
+      transition: all 0.35s ease;
+      box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.2);
+      z-index: 9999;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* Mobile tweaks */
+    @media (max-width: 670px) {
+      table {
+        min-width: 100% !important;
+      }
+
+      thead th,
+      tbody td {
+        padding: 4px 4px !important;
+        font-size: 10px !important;
+      }
+
+      td.movie-cell {
+        white-space: normal !important;
+        line-height: 1.2;
+        font-size: 10px !important;
+        max-width: 140px;
+      }
+    }
+
+    /* Hide heavy columns on small screens */
+    @media (max-width: 670px) {
+
+      #summaryTable thead th:nth-child(6),
+      #summaryTable thead th:nth-child(7),
+      #summaryTable thead th:nth-child(8),
+      #summaryTable tbody td:nth-child(6),
+      #summaryTable tbody td:nth-child(7),
+      #summaryTable tbody td:nth-child(8) {
+        display: none !important;
+      }
+    }
+
+    /* ===== Subtable Professional Compact Fix ===== */
+    .sub-table {
+      table-layout: fixed;
+    }
+
+    .sub-table th,
+    .sub-table td {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Long State Name Control */
+    .sub-table th.state-col,
+    .sub-table td.state-col {
+      max-width: 140px;
+      width: 140px;
+    }
+
+    /* City column tighter */
+    .sub-table th.city-col,
+    .sub-table td.city-col {
+      max-width: 110px;
+      width: 110px;
+    }
+
+    /* Mobile tightening */
+    @media (max-width: 670px) {
+
+      .sub-table th,
+      .sub-table td {
+        font-size: 9.5px;
+        padding: 3px 2px;
+      }
+
+      .sub-table th.state-col,
+      .sub-table td.state-col {
+        max-width: 90px;
+        width: 90px;
+      }
+
+      .sub-table th.city-col,
+      .sub-table td.city-col {
+        max-width: 80px;
+        width: 80px;
+      }
+    }
+
+    /* ✅ MOBILE HAMBURGER VISIBILITY FIX */
+    @media (max-width: 1300px) {
+      .menu-btn {
+        display: inline-flex;
+        color: #ffffff !important;
+        z-index: 10001;
+      }
+
+      .nav-links {
+        z-index: 10000;
+      }
+    }
+  </style>
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body>
+  <link rel="stylesheet" href="./BFILMY _ Live District Boxoffice Tracker_files/navbar.css"><ins class="adsbygoogle adsbygoogle-noablate" data-ad-hi="true" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="./BFILMY _ Live District Boxoffice Tracker_files/ads.html" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins>
+  <script src="./BFILMY _ Live District Boxoffice Tracker_files/navbar.js"></script>
+  <!-- 🌟 Enhanced Navbar -->
+  <nav id="mainNavbar" class="navbar glassy">
+    <div class="nav-left">
+      <button id="menuBtn" class="menu-btn" aria-label="Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" y1="6" x2="20" y2="6"></line>
+          <line x1="4" y1="12" x2="20" y2="12"></line>
+          <line x1="4" y1="18" x2="20" y2="18"></line>
+        </svg>
+      </button>
+      <span class="brand-name" id="siteTitle">BFILMY LIVE</span>
+    </div>
+    <div class="nav-links" id="navLinks"><a href="https://bfilmy.pages.dev/">Home</a><a href="https://bfilmy.pages.dev/Live%20Boxoffice/">Live Boxoffice</a><a href="https://bfilmy.pages.dev/Daily%20Advance/">Live Advance</a><a href="https://bfilmy.pages.dev/PVR-INOX-CINEPOLIS/">PIC Live Advance</a><a href="https://bfilmy.pages.dev/articles/">Articles</a><a href="https://bfilmy.pages.dev/District%20Boxoffice/">District Boxoffice</a><a href="https://bfilmy.pages.dev/District%20Advance/">District Advance</a><a href="https://bfilmy.pages.dev/Overseas/">Overseas</a><a href="https://bfilmy.pages.dev/app/">Download App</a><button class="share-btn" id="shareBtn" aria-label="Share This Site">🔗 Share</button></div>
+  </nav>
+  <!-- ✅ Load JS AFTER navbar exists -->
+  <div class="wrap">
+    <header>
+      <h1 id="page-title">India District Boxoffice Tracker</h1>
+      <small> National &amp; Regional Boxoffice • <span id="lastUpdatedTop" aria-live="polite">Last updated: 05:42 PM, 08 June 2026</span> </small>
+      <div class="controls">
+        <input type="date" id="datePicker" min="2025-01-01" max="2026-06-11">
+        <input type="text" id="searchInput" placeholder="Search movie..." aria-label="Search movie">
+        <button class="icon-btn" id="refreshBtn">🔄 <span class="hide-sm">Refresh</span></button>
+        <button class="icon-btn" id="csvBtn">📄 <span class="hide-sm">Export CSV</span></button>
+      </div>
+    </header>
+    <!-- Metrics -->
+    <div class="metrics-row">
+      <div class="metric-card">
+        <div class="metric-label">Top Movie (Tickets)</div>
+        <div class="metric-value" id="metricTopMovie">Peddi | Telugu</div>
+        <div class="metric-sub" id="metricTopMovieSub">118,568 tickets • ₹ 2.76CR</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Total Tickets (Day)</div>
+        <div class="metric-value" id="metricTotalTickets">416,369</div>
+        <div class="metric-sub" id="metricTotalShows">12,560 shows</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Total Gross (Day)</div>
+        <div class="metric-value" id="metricTotalGross">₹ 8.26CR</div>
+        <div class="metric-sub" id="metricAvgOcc">14.79% avg occ</div>
+      </div>
+    </div>
+    <!-- Daily Table -->
+    <div class="table-wrap watermarked" id="summaryTableWrap">
+      <table id="summaryTable" aria-label="Daily movie boxoffice summary">
+        <thead>
+          <tr>
+            <th scope="col" data-sort="label">Movie</th>
+            <th scope="col" data-sort="sold">Tickets</th>
+            <th scope="col" data-sort="gross">Gross</th>
+            <th scope="col" data-sort="occ">Occ%</th>
+            <th scope="col" data-sort="shows">Shows</th>
+            <th scope="col" data-sort="venues">Venues</th>
+            <th scope="col" data-sort="fastfilling">FF</th>
+            <th scope="col" data-sort="housefull">HF</th>
+          </tr>
+        </thead>
+        <tbody><tr class="summary-row"><td class="movie-cell"><span class="arrow down">▶</span> Peddi | Telugu</td><td>118,568</td><td>₹ 2.76CR</td><td class="occ-mid">29.02%</td><td>1,272</td><td>536</td><td>233</td><td>5</td></tr><tr class="child-row"><td colspan="8"><div class="sub-wrap watermarked"><h4>Hourly Trend (Logs)</h4><table class="sub-table"><thead><tr><th style="cursor: pointer;">Time</th><th style="cursor: pointer;">Tickets</th><th style="cursor: pointer;">Gross</th><th style="cursor: pointer;">Occ%</th><th style="cursor: pointer;">Shows</th></tr></thead><tbody><tr><td>7AM</td><td data-val="3412">3,412</td><td data-val="873395">₹ 8.73L</td><td class="occ-low" data-val="10.55">10.55%</td><td data-val="141">141</td></tr><tr><td>12PM</td><td data-val="56149">56,149</td><td data-val="12671566.92">₹ 1.27CR</td><td class="occ-mid" data-val="25.48">25.48%</td><td data-val="687">687</td></tr><tr><td>5PM</td><td data-val="118568">118,568</td><td data-val="27559144.26">₹ 2.76CR</td><td class="occ-mid" data-val="29.02">29.02%</td><td data-val="1272">1,272</td></tr></tbody></table></div><div class="sub-wrap watermarked"><h4>City-wise (Top 10)</h4><table class="sub-table"><thead><tr><th class="city-col" style="cursor: pointer;">City</th><th style="cursor: pointer;">Tickets</th><th style="cursor: pointer;">Gross</th><th style="cursor: pointer;">Occ%</th><th style="cursor: pointer;">Shows</th><th style="cursor: pointer;">Venues</th><th style="cursor: pointer;">FF</th><th style="cursor: pointer;">HF</th></tr></thead><tbody id="cityBody"><tr><td class="city-col">Hyderabad</td><td data-val="20532">20,532</td><td data-val="5820514">₹ 58.21L</td><td class="occ-mid" data-val="23.44">23.44%</td><td data-val="282">282</td><td data-val="58">58</td><td data-val="24">24</td><td data-val="0">0</td></tr><tr><td class="city-col">Bengaluru</td><td data-val="14477">14,477</td><td data-val="3378960">₹ 33.79L</td><td class="occ-mid" data-val="35.46">35.46%</td><td data-val="161">161</td><td data-val="47">47</td><td data-val="28">28</td><td data-val="0">0</td></tr><tr><td class="city-col">Vizag (Visakhapatnam)</td><td data-val="7352">7,352</td><td data-val="1955527">₹ 19.56L</td><td class="occ-mid" data-val="43.81">43.81%</td><td data-val="59">59</td><td data-val="14">14</td><td data-val="21">21</td><td data-val="0">0</td></tr><tr><td class="city-col">Vijayawada</td><td data-val="2740">2,740</td><td data-val="901198">₹ 9.01L</td><td class="occ-mid" data-val="27">27.00%</td><td data-val="34">34</td><td data-val="8">8</td><td data-val="5">5</td><td data-val="0">0</td></tr><tr><td class="city-col">Kakinada</td><td data-val="3044">3,044</td><td data-val="807882">₹ 8.08L</td><td class="occ-high" data-val="59.53">59.53%</td><td data-val="15">15</td><td data-val="5">5</td><td data-val="11">11</td><td data-val="0">0</td></tr><tr><td class="city-col">Nellore</td><td data-val="2558">2,558</td><td data-val="731679">₹ 7.32L</td><td class="occ-mid" data-val="40.76">40.76%</td><td data-val="18">18</td><td data-val="4">4</td><td data-val="7">7</td><td data-val="0">0</td></tr><tr><td class="city-col">Srikakulam</td><td data-val="2806">2,806</td><td data-val="652718">₹ 6.53L</td><td class="occ-high" data-val="70.34">70.34%</td><td data-val="9">9</td><td data-val="5">5</td><td data-val="7">7</td><td data-val="0">0</td></tr><tr><td class="city-col">Guntur</td><td data-val="2563">2,563</td><td data-val="649234">₹ 6.49L</td><td class="occ-mid" data-val="31.52">31.52%</td><td data-val="26">26</td><td data-val="9">9</td><td data-val="7">7</td><td data-val="0">0</td></tr><tr><td class="city-col">Anantapur</td><td data-val="2175">2,175</td><td data-val="542220">₹ 5.42L</td><td class="occ-mid" data-val="36.73">36.73%</td><td data-val="11">11</td><td data-val="5">5</td><td data-val="4">4</td><td data-val="0">0</td></tr><tr><td class="city-col">Kurnool</td><td data-val="1889">1,889</td><td data-val="527031">₹ 5.27L</td><td class="occ-mid" data-val="43.55">43.55%</td><td data-val="13">13</td><td data-val="3">3</td><td data-val="5">5</td><td data-val="0">0</td></tr></tbody></table><div style="text-align:center;margin-top:6px;"><button class="icon-btn" id="loadMoreCities">Load More</button> <button class="icon-btn" id="loadAllCities">Load All</button></div></div><div class="sub-wrap watermarked"><h4>Major Chains Performance</h4><table class="sub-table chain-table"><thead><tr><th style="cursor: pointer;">Chain</th><th style="cursor: pointer;">Tickets</th><th style="cursor: pointer;">Gross</th><th style="cursor: pointer;">Occ%</th><th style="cursor: pointer;">Shows</th><th style="cursor: pointer;">Venues</th><th style="cursor: pointer;">Mkt%</th></tr></thead><tbody><tr><td>PVR</td><td data-val="3360">3,360</td><td data-val="1095155.99">₹ 10.95L</td><td class="occ-low" data-val="11.99">11.99%</td><td data-val="139">139</td><td data-val="60">60</td><td data-val="34.822297017564075">34.82%</td></tr><tr><td>INOX</td><td data-val="3078">3,078</td><td data-val="966432.72">₹ 9.66L</td><td class="occ-low" data-val="12.13">12.13%</td><td data-val="114">114</td><td data-val="49">49</td><td data-val="30.72932763060753">30.73%</td></tr><tr><td>Cinepolis</td><td data-val="1643">1,643</td><td data-val="529745.21">₹ 5.30L</td><td class="occ-low" data-val="14.39">14.39%</td><td data-val="55">55</td><td data-val="27">27</td><td data-val="16.844125599177755">16.84%</td></tr><tr><td>Asian Mukta</td><td data-val="684">684</td><td data-val="185774">₹ 1.86L</td><td class="occ-low" data-val="17.16">17.16%</td><td data-val="10">10</td><td data-val="6">6</td><td data-val="5.906991757531226">5.91%</td></tr><tr><td>Miraj Cinemas</td><td data-val="532">532</td><td data-val="165694">₹ 1.66L</td><td class="occ-low" data-val="6.16">6.16%</td><td data-val="28">28</td><td data-val="9">9</td><td data-val="5.268514928205125">5.27%</td></tr><tr><td>MovieMax</td><td data-val="242">242</td><td data-val="84605">₹ 84.6K</td><td class="occ-low" data-val="8.91">8.91%</td><td data-val="11">11</td><td data-val="6">6</td><td data-val="2.690155983323443">2.69%</td></tr><tr><td>Mythri Cinemas</td><td data-val="207">207</td><td data-val="71918">₹ 71.9K</td><td class="occ-mid" data-val="26.44">26.44%</td><td data-val="4">4</td><td data-val="1">1</td><td data-val="2.2867518232806026">2.29%</td></tr><tr><td>Movietime Cinemas</td><td data-val="100">100</td><td data-val="42438">₹ 42.4K</td><td class="occ-low" data-val="4.4">4.40%</td><td data-val="12">12</td><td data-val="4">4</td><td data-val="1.3493864383934788">1.35%</td></tr><tr><td>Rajhans Cinemas</td><td data-val="31">31</td><td data-val="3222">₹ 3.2K</td><td class="occ-low" data-val="6.95">6.95%</td><td data-val="2">2</td><td data-val="2">2</td><td data-val="0.10244882191676773">0.10%</td></tr><tr><td>Wave Cinemas</td><td data-val="0">0</td><td data-val="0">₹ 0</td><td class="occ-low" data-val="0">0.00%</td><td data-val="1">1</td><td data-val="1">1</td><td data-val="0">0.00%</td></tr><tr class="total-row"><td>Total</td><td data-val="9877">9,877</td><td data-val="3144984.92">₹ 31.45L</td><td data-val="0">–</td><td data-val="376">376</td><td data-val="165">165</td><td data-val="100">100.00%</td></tr></tbody></table></div><div class="sub-wrap watermarked"><h4>State-wise Performance</h4><table class="sub-table"><thead><tr><th class="state-col" style="cursor: pointer;">State</th><th style="cursor: pointer;">Tickets</th><th style="cursor: pointer;">Gross</th><th style="cursor: pointer;">Occ%</th><th style="cursor: pointer;">Shows</th><th style="cursor: pointer;">Venues</th><th style="cursor: pointer;">FF</th><th style="cursor: pointer;">HF</th></tr></thead><tbody><tr><td class="state-col">Andhra Pradesh</td><td data-val="61457">61,457</td><td data-val="14468504">₹ 1.45CR</td><td class="occ-mid" data-val="38.19598537044276">38.20%</td><td data-val="456">456</td><td data-val="188">188</td><td data-val="147">147</td><td data-val="5">5</td></tr><tr><td class="state-col">Telangana</td><td data-val="35640">35,640</td><td data-val="8404556">₹ 84.05L</td><td class="occ-mid" data-val="25.428998661927494">25.43%</td><td data-val="393">393</td><td data-val="113">113</td><td data-val="47">47</td><td data-val="0">0</td></tr><tr><td class="state-col">Karnataka</td><td data-val="16325">16,325</td><td data-val="3767790">₹ 37.68L</td><td class="occ-mid" data-val="30.306169871600027">30.31%</td><td data-val="210">210</td><td data-val="69">69</td><td data-val="31">31</td><td data-val="0">0</td></tr><tr><td class="state-col">Tamil Nadu</td><td data-val="2567">2,567</td><td data-val="385614.26000000007">₹ 3.86L</td><td class="occ-low" data-val="19.513718015870822">19.51%</td><td data-val="51">51</td><td data-val="35">35</td><td data-val="3">3</td><td data-val="0">0</td></tr><tr><td class="state-col">Maharashtra</td><td data-val="592">592</td><td data-val="127630">₹ 1.28L</td><td class="occ-low" data-val="6.192074197387683">6.19%</td><td data-val="48">48</td><td data-val="37">37</td><td data-val="1">1</td><td data-val="0">0</td></tr><tr><td class="state-col">Odisha</td><td data-val="589">589</td><td data-val="115650">₹ 1.16L</td><td class="occ-low" data-val="16.981784928825746">16.98%</td><td data-val="8">8</td><td data-val="5">5</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Andaman And Nicobar Islands</td><td data-val="373">373</td><td data-val="73870">₹ 73.9K</td><td class="occ-high" data-val="57.56">57.56%</td><td data-val="4">4</td><td data-val="2">2</td><td data-val="4">4</td><td data-val="0">0</td></tr><tr><td class="state-col">Gujarat</td><td data-val="319">319</td><td data-val="61852">₹ 61.9K</td><td class="occ-low" data-val="6.496946161587457">6.50%</td><td data-val="31">31</td><td data-val="25">25</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Chhattisgarh</td><td data-val="267">267</td><td data-val="56360">₹ 56.4K</td><td class="occ-mid" data-val="32.84034119961425">32.84%</td><td data-val="5">5</td><td data-val="5">5</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Delhi</td><td data-val="69">69</td><td data-val="17264">₹ 17.3K</td><td class="occ-low" data-val="3.56">3.56%</td><td data-val="9">9</td><td data-val="7">7</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Uttar Pradesh</td><td data-val="50">50</td><td data-val="12620">₹ 12.6K</td><td class="occ-low" data-val="2.4389782170690797">2.44%</td><td data-val="13">13</td><td data-val="11">11</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Jharkhand</td><td data-val="57">57</td><td data-val="11590">₹ 11.6K</td><td class="occ-low" data-val="6.758286428549534">6.76%</td><td data-val="4">4</td><td data-val="4">4</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Kerala</td><td data-val="42">42</td><td data-val="9370">₹ 9.4K</td><td class="occ-low" data-val="6.08360091502092">6.08%</td><td data-val="4">4</td><td data-val="3">3</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Haryana</td><td data-val="42">42</td><td data-val="9210">₹ 9.2K</td><td class="occ-low" data-val="2.260464271318842">2.26%</td><td data-val="11">11</td><td data-val="9">9</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Goa</td><td data-val="36">36</td><td data-val="8250">₹ 8.3K</td><td class="occ-low" data-val="3.56">3.56%</td><td data-val="4">4</td><td data-val="4">4</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Assam</td><td data-val="34">34</td><td data-val="7770">₹ 7.8K</td><td class="occ-low" data-val="9.88">9.88%</td><td data-val="2">2</td><td data-val="2">2</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Madhya Pradesh</td><td data-val="30">30</td><td data-val="5634">₹ 5.6K</td><td class="occ-low" data-val="3.391395592864638">3.39%</td><td data-val="6">6</td><td data-val="5">5</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Puducherry</td><td data-val="32">32</td><td data-val="5360">₹ 5.4K</td><td class="occ-low" data-val="17.49">17.49%</td><td data-val="1">1</td><td data-val="1">1</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Chandigarh</td><td data-val="17">17</td><td data-val="3090">₹ 3.1K</td><td class="occ-low" data-val="6.12">6.12%</td><td data-val="1">1</td><td data-val="1">1</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">West Bengal</td><td data-val="14">14</td><td data-val="3070">₹ 3.1K</td><td class="occ-low" data-val="2.588831835686778">2.59%</td><td data-val="3">3</td><td data-val="3">3</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Rajasthan</td><td data-val="7">7</td><td data-val="1950">₹ 1.9K</td><td class="occ-low" data-val="2.25">2.25%</td><td data-val="2">2</td><td data-val="2">2</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Punjab</td><td data-val="8">8</td><td data-val="1900">₹ 1.9K</td><td class="occ-low" data-val="3.1882139253279513">3.19%</td><td data-val="3">3</td><td data-val="3">3</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">Uttarakhand</td><td data-val="1">1</td><td data-val="240">₹ 240</td><td class="occ-low" data-val="1.04">1.04%</td><td data-val="1">1</td><td data-val="1">1</td><td data-val="0">0</td><td data-val="0">0</td></tr><tr><td class="state-col">The Dadra And Nagar Haveli And Daman And Diu</td><td data-val="0">0</td><td data-val="0">₹ 0</td><td class="occ-low" data-val="0">0.00%</td><td data-val="2">2</td><td data-val="1">1</td><td data-val="0">0</td><td data-val="0">0</td></tr></tbody></table></div></td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Obsession | English</td><td>54,180</td><td>₹ 1.32CR</td><td class="occ-low">14.37%</td><td>1,810</td><td>497</td><td>101</td><td>5</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Hai Jawani Toh Ishq Hona Hai | Hindi</td><td>60,645</td><td>₹ 1.19CR</td><td class="occ-low">8.75%</td><td>3,212</td><td>977</td><td>103</td><td>11</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Peddi | Hindi</td><td>27,551</td><td>₹ 49.87L</td><td class="occ-low">10.84%</td><td>1,306</td><td>688</td><td>59</td><td>8</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Blast | Tamil</td><td>19,184</td><td>₹ 26.36L</td><td class="occ-low">14.85%</td><td>419</td><td>239</td><td>16</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Deool Band 2 | Marathi</td><td>11,129</td><td>₹ 25.05L</td><td class="occ-low">13.58%</td><td>332</td><td>136</td><td>16</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Parimala and Co | Tamil</td><td>17,347</td><td>₹ 22.15L</td><td class="occ-low">16.85%</td><td>338</td><td>215</td><td>17</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Blast Zone | Telugu</td><td>14,876</td><td>₹ 15.62L</td><td class="occ-mid">26.40%</td><td>169</td><td>100</td><td>24</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Tumbadchi Manjula | Marathi</td><td>6,813</td><td>₹ 15.54L</td><td class="occ-low">12.93%</td><td>246</td><td>120</td><td>9</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Karuppu | Tamil</td><td>11,265</td><td>₹ 13.30L</td><td class="occ-low">15.16%</td><td>236</td><td>161</td><td>8</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> He-Man and the Masters of the Universe | English</td><td>3,781</td><td>₹ 12.01L</td><td class="occ-low">5.84%</td><td>395</td><td>279</td><td>4</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Bandar | Hindi</td><td>4,737</td><td>₹ 11.81L</td><td class="occ-low">6.99%</td><td>424</td><td>319</td><td>10</td><td>2</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Peddi | Kannada</td><td>7,451</td><td>₹ 10.59L</td><td class="occ-mid">47.05%</td><td>44</td><td>28</td><td>12</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> He-Man and the Masters of the Universe | Hindi</td><td>4,957</td><td>₹ 9.07L</td><td class="occ-low">6.67%</td><td>407</td><td>320</td><td>16</td><td>2</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Mango Pachcha | Kannada</td><td>7,251</td><td>₹ 8.96L</td><td class="occ-mid">35.45%</td><td>77</td><td>49</td><td>14</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Mollywood Times | Malayalam</td><td>4,199</td><td>₹ 8.45L</td><td class="occ-low">11.70%</td><td>189</td><td>120</td><td>8</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> He-Man and the Masters of the Universe | Telugu</td><td>6,167</td><td>₹ 7.27L</td><td class="occ-mid">20.75%</td><td>91</td><td>52</td><td>13</td><td>2</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Chand Mera Dil | Hindi</td><td>2,270</td><td>₹ 5.99L</td><td class="occ-low">11.43%</td><td>141</td><td>126</td><td>3</td><td>5</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Pati Patni Aur Woh Do | Hindi</td><td>2,630</td><td>₹ 5.43L</td><td class="occ-low">7.83%</td><td>212</td><td>171</td><td>11</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Drishyam 3 | Malayalam</td><td>2,974</td><td>₹ 5.17L</td><td class="occ-low">10.18%</td><td>131</td><td>75</td><td>4</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Peddi | Tamil</td><td>3,838</td><td>₹ 4.51L</td><td class="occ-low">12.46%</td><td>107</td><td>80</td><td>3</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Michael | English</td><td>1,130</td><td>₹ 4.20L</td><td class="occ-low">15.67%</td><td>58</td><td>50</td><td>5</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Krishnavataram Part 1: The Heart [Hridayam] | Hindi</td><td>2,025</td><td>₹ 4.20L</td><td class="occ-low">9.34%</td><td>135</td><td>111</td><td>1</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Phool Pishi O Edward | Bengali</td><td>2,344</td><td>₹ 3.84L</td><td class="occ-mid">22.12%</td><td>56</td><td>27</td><td>4</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Veerabhadrudu | Telugu</td><td>3,929</td><td>₹ 3.78L</td><td class="occ-mid">27.71%</td><td>43</td><td>29</td><td>7</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Bhooth Bangla | Hindi</td><td>1,573</td><td>₹ 3.43L</td><td class="occ-low">9.89%</td><td>107</td><td>95</td><td>4</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Saptadingar Guptodhon | Bengali</td><td>2,760</td><td>₹ 3.33L</td><td class="occ-mid">21.51%</td><td>57</td><td>33</td><td>4</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> The Sheep Detectives | English</td><td>685</td><td>₹ 2.40L</td><td class="occ-low">14.62%</td><td>45</td><td>39</td><td>5</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Mayaru Bhauji 2 | Chhattisgarhi</td><td>1,578</td><td>₹ 2.20L</td><td class="occ-mid">40.62%</td><td>23</td><td>14</td><td>9</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> War of Shera | Punjabi</td><td>696</td><td>₹ 1.43L</td><td class="occ-low">5.86%</td><td>77</td><td>46</td><td>3</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Return Of The Jungle | Hindi</td><td>611</td><td>₹ 1.42L</td><td class="occ-low">18.05%</td><td>29</td><td>23</td><td>3</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Rabb Da Radio 3 | Punjabi</td><td>554</td><td>₹ 1.09L</td><td class="occ-low">7.59%</td><td>41</td><td>21</td><td>2</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Phera | Bengali</td><td>381</td><td>₹ 1.00L</td><td class="occ-high">59.07%</td><td>5</td><td>5</td><td>1</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Raja Shivaji | Marathi</td><td>413</td><td>₹ 86.5K</td><td class="occ-low">19.81%</td><td>11</td><td>11</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Dhurandhar The Revenge | Hindi</td><td>208</td><td>₹ 77.6K</td><td class="occ-low">9.39%</td><td>21</td><td>20</td><td>2</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Ramani Kalyanam | Telugu</td><td>702</td><td>₹ 70.2K</td><td class="occ-high">76.47%</td><td>2</td><td>1</td><td>2</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Jurassic Attack | Telugu</td><td>590</td><td>₹ 69.8K</td><td class="occ-high">78.46%</td><td>2</td><td>1</td><td>2</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> The Devil Wears Prada 2 | English</td><td>100</td><td>₹ 67.8K</td><td class="occ-low">10.11%</td><td>14</td><td>14</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> He-Man and the Masters of the Universe | Tamil</td><td>485</td><td>₹ 55.7K</td><td class="occ-low">12.32%</td><td>21</td><td>18</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Sahariya | Nagpuri</td><td>221</td><td>₹ 52.9K</td><td class="occ-high">99.10%</td><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Sargam | Gujarati</td><td>176</td><td>₹ 44.4K</td><td class="occ-low">9.06%</td><td>17</td><td>14</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> KD | Kannada</td><td>336</td><td>₹ 33.6K</td><td class="occ-high">52.09%</td><td>3</td><td>2</td><td>2</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Mantra Muugdha | Odia</td><td>140</td><td>₹ 32.9K</td><td class="occ-low">18.42%</td><td>5</td><td>5</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Project Hail Mary | English</td><td>83</td><td>₹ 28.1K</td><td class="occ-mid">20.96%</td><td>4</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Dharpakad | Gujarati</td><td>195</td><td>₹ 27.9K</td><td class="occ-low">5.56%</td><td>25</td><td>22</td><td>0</td><td>1</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Athiradi | Malayalam</td><td>127</td><td>₹ 27.6K</td><td class="occ-low">18.76%</td><td>4</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Peddi | Malayalam</td><td>195</td><td>₹ 27.4K</td><td class="occ-low">5.68%</td><td>12</td><td>8</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> The Super Mario Galaxy Movie | English</td><td>99</td><td>₹ 27.3K</td><td class="occ-low">12.82%</td><td>10</td><td>9</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Raakaasa | Telugu</td><td>468</td><td>₹ 24.4K</td><td class="occ-mid">47.56%</td><td>2</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Jawaak | Punjabi</td><td>144</td><td>₹ 21.0K</td><td class="occ-low">11.32%</td><td>8</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Sannidhanam P.O | Tamil</td><td>154</td><td>₹ 20.8K</td><td class="occ-low">7.91%</td><td>6</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Drishyam 3  | Tamil</td><td>146</td><td>₹ 20.0K</td><td class="occ-mid">21.86%</td><td>4</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Gajanana Cricketers | Tulu</td><td>108</td><td>₹ 19.7K</td><td class="occ-low">7.21%</td><td>6</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Drishyam 3 | Telugu</td><td>97</td><td>₹ 19.6K</td><td class="occ-low">11.18%</td><td>7</td><td>6</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Hokum | English</td><td>49</td><td>₹ 18.5K</td><td class="occ-mid">28.82%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Murabi | Odia</td><td>67</td><td>₹ 17.7K</td><td class="occ-high">57.26%</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> The Great Grand Superhero - Aliens Ka Aagman | Hindi</td><td>53</td><td>₹ 16.7K</td><td class="occ-low">6.79%</td><td>8</td><td>8</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Star Wars: The Mandalorian and Grogu | English</td><td>35</td><td>₹ 15.9K</td><td class="occ-low">19.13%</td><td>3</td><td>3</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Hoppers | English</td><td>45</td><td>₹ 15.5K</td><td class="occ-low">10.98%</td><td>6</td><td>6</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> He-Man and the Masters of the Universe | Malayalam</td><td>53</td><td>₹ 14.4K</td><td class="occ-low">9.08%</td><td>5</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Toxench Zanv | Konkani</td><td>52</td><td>₹ 11.5K</td><td class="occ-low">13.65%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Bhojpuriya Raja | Bhojpuri</td><td>108</td><td>₹ 10.0K</td><td class="occ-low">5.58%</td><td>3</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Shubh Mangal Dhamal | Gujarati</td><td>53</td><td>₹ 9.2K</td><td class="occ-low">8.56%</td><td>7</td><td>6</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Kabanda | Gujarati</td><td>62</td><td>₹ 8.7K</td><td class="occ-low">11.13%</td><td>4</td><td>4</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Sakshi | Hindi</td><td>168</td><td>₹ 8.4K</td><td class="occ-high">100.00%</td><td>2</td><td>1</td><td>0</td><td>2</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Shah Shani | Dogri</td><td>25</td><td>₹ 7.4K</td><td class="occ-mid">21.93%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Homework | Assamese</td><td>48</td><td>₹ 7.4K</td><td class="occ-low">4.13%</td><td>6</td><td>5</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Drishyam 3 | Kannada</td><td>38</td><td>₹ 7.1K</td><td class="occ-low">6.73%</td><td>3</td><td>3</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Demon Slayer - Kimetsu no Yaiba - The Movie: Infinity Castle | Japanese</td><td>50</td><td>₹ 5.3K</td><td class="occ-high">90.91%</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Dhabkaaro | Gujarati</td><td>33</td><td>₹ 4.7K</td><td class="occ-low">1.38%</td><td>15</td><td>14</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Sasural Mai Nahi Jaungi | Bhojpuri</td><td>22</td><td>₹ 3.9K</td><td class="occ-low">17.05%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Raja Shivaji | Hindi</td><td>17</td><td>₹ 3.8K</td><td class="occ-low">2.14%</td><td>4</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Passenger | English</td><td>8</td><td>₹ 3.3K</td><td class="occ-low">2.14%</td><td>6</td><td>6</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Irattaiyar | Tamil</td><td>27</td><td>₹ 2.8K</td><td class="occ-low">16.98%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Shape of Momo | Nepali</td><td>12</td><td>₹ 2.5K</td><td class="occ-low">1.92%</td><td>3</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Kattalan | Malayalam</td><td>19</td><td>₹ 2.1K</td><td class="occ-low">4.39%</td><td>3</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Moromor Deuta | Assamese</td><td>7</td><td>₹ 2.0K</td><td class="occ-low">1.92%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Pratyabartan | Bengali</td><td>12</td><td>₹ 1.9K</td><td class="occ-low">11.65%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Lee Cronin's The Mummy | Hindi</td><td>12</td><td>₹ 1.2K</td><td class="occ-low">15.79%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Karakkam | Malayalam</td><td>5</td><td>₹ 950</td><td class="occ-low">3.76%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Daadi Ki Shaadi | Hindi</td><td>4</td><td>₹ 840</td><td class="occ-low">3.70%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Ek Din | Hindi</td><td>2</td><td>₹ 800</td><td class="occ-low">6.67%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Main Tera Hero | Hindi</td><td>2</td><td>₹ 798</td><td class="occ-low">4.76%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Zootopia 2 | English</td><td>7</td><td>₹ 735</td><td class="occ-low">14.00%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> The Super Mario Galaxy Movie | Hindi</td><td>3</td><td>₹ 660</td><td class="occ-low">1.97%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Lee Cronin's The Mummy | English</td><td>2</td><td>₹ 600</td><td class="occ-low">1.68%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Jeena Dil Se | Hindi</td><td>2</td><td>₹ 380</td><td class="occ-low">0.27%</td><td>4</td><td>4</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> NRI Dulhan | Gujarati</td><td>1</td><td>₹ 300</td><td class="occ-low">0.04%</td><td>18</td><td>16</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Alexander | Kannada</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Bhamardo | Gujarati</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Godari Gattupaina | Telugu</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>6</td><td>3</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Hoppers | Hindi</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Kattalan | Hindi</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>3</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Licence | Haryanvi</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>4</td><td>3</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Obsess | Hindi</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr class="summary-row"><td class="movie-cell"><span class="arrow">▶</span> Zootopia 2 | Hindi</td><td>0</td><td>₹ 0</td><td class="occ-low">0.00%</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></tbody>
+      </table>
+    </div>
+    <div id="lastUpdatedBottom">Last updated: 05:42 PM, 08 June 2026</div>
+  </div>
+  <div class="toast"></div>
+
+  <script>
+var _0x50031a=_0x1e08;(function(_0x50f911,_0x2a7f71){var _0x1670fd=_0x1e08,_0x205b03=_0x50f911();while(!![]){try{var _0x100118=parseInt(_0x1670fd(0x20c))/0x1*(parseInt(_0x1670fd(0x1d9))/0x2)+-parseInt(_0x1670fd(0x23f))/0x3+parseInt(_0x1670fd(0x281))/0x4*(-parseInt(_0x1670fd(0x226))/0x5)+parseInt(_0x1670fd(0x284))/0x6+parseInt(_0x1670fd(0x2da))/0x7*(parseInt(_0x1670fd(0x205))/0x8)+-parseInt(_0x1670fd(0x2ee))/0x9*(-parseInt(_0x1670fd(0x2fe))/0xa)+-parseInt(_0x1670fd(0x27b))/0xb;if(_0x100118===_0x2a7f71)break;else _0x205b03['push'](_0x205b03['shift']());}catch(_0x2a0b91){_0x205b03['push'](_0x205b03['shift']());}}}(_0x7190,0xdf5f2));var _0x2fff77=(function(){var _0x5c14f1=!![];return function(_0x2b79e4,_0x192c44){var _0x5d83e0=_0x5c14f1?function(){var _0x4c3fdb=_0x1e08;if(_0x192c44){var _0x38545b=_0x192c44[_0x4c3fdb(0x203)](_0x2b79e4,arguments);return _0x192c44=null,_0x38545b;}}:function(){};return _0x5c14f1=![],_0x5d83e0;};}()),_0x3df33f=_0x2fff77(this,function(){var _0x412efa=_0x1e08;return _0x3df33f['toString']()['search']('(((.+)+)+)+$')[_0x412efa(0x1fc)]()[_0x412efa(0x2e6)](_0x3df33f)[_0x412efa(0x290)](_0x412efa(0x1c7));});_0x3df33f();var _0x1c4e35=(function(){var _0x2571d7=!![];return function(_0x3bb69b,_0x1955e2){var _0x7cc925=_0x2571d7?function(){var _0x264a67=_0x1e08;if(_0x264a67(0x1d7)==='eCLIC'){if(_0x1955e2){if('SxncZ'!=='mTgkF'){var _0x3bb427=_0x1955e2[_0x264a67(0x203)](_0x3bb69b,arguments);return _0x1955e2=null,_0x3bb427;}else _0x7ad126['push'](_0x108db4(_0x1b9904)['then'](function(_0x9e50b){_0x1619e5=_0x9e50b,_0x398240=_0x3350b6;})[_0x264a67(0x211)](function(_0x11ce6b){var _0x2a3c86=_0x264a67;_0x13b9f1[_0x2a3c86(0x1fe)](_0x2a3c86(0x2b7),_0x11ce6b['message']),_0x4c43f5=null;}));}}else _0x2da30f(!![]),_0x3a8703(_0x264a67(0x2b0));}:function(){};return _0x2571d7=![],_0x7cc925;};}()),_0x42a83b=_0x1c4e35(this,function(){var _0x5d7fe8=_0x1e08,_0x150cac=typeof window!==_0x5d7fe8(0x274)?window:typeof process===_0x5d7fe8(0x1c5)&&typeof require==='function'&&typeof global===_0x5d7fe8(0x1c5)?global:this,_0x2c01ae=new RegExp(_0x5d7fe8(0x262),'g'),_0x57c070=_0x5d7fe8(0x2b4)[_0x5d7fe8(0x231)](_0x2c01ae,'')[_0x5d7fe8(0x1de)](';'),_0x10f806,_0x238ed2,_0x569e0f,_0x5726a0,_0x4ce48f=function(_0x45f398,_0x1b8417,_0x2a0830){var _0x2f3fb6=_0x5d7fe8;if('bHFfL'!=='bHFfL'){var _0x1efada=_0x445cbc[_0x2db1e4],_0x4142c6=_0x1efada[0x0]===_0x4c95f4[_0x2f3fb6(0x1cd)](0x2e)?_0x1efada[_0x2f3fb6(0x283)](0x1):_0x1efada,_0x38e08f=_0x4e990b['length']-_0x4142c6[_0x2f3fb6(0x27e)],_0x5246b3=_0x455896[_0x2f3fb6(0x286)](_0x4142c6,_0x38e08f),_0x57b27d=_0x5246b3!==-0x1&&_0x5246b3===_0x38e08f;_0x57b27d&&((_0x55956e['length']==_0x1efada[_0x2f3fb6(0x27e)]||_0x1efada['indexOf']('.')===0x0)&&(_0x1053c2=!![]));}else{if(_0x45f398[_0x2f3fb6(0x27e)]!=_0x1b8417)return![];for(var _0x536206=0x0;_0x536206<_0x1b8417;_0x536206++){if(_0x2f3fb6(0x267)===_0x2f3fb6(0x267))for(var _0x4ec3ab=0x0;_0x4ec3ab<_0x2a0830['length'];_0x4ec3ab+=0x2){if(_0x536206==_0x2a0830[_0x4ec3ab]&&_0x45f398[_0x2f3fb6(0x222)](_0x536206)!=_0x2a0830[_0x4ec3ab+0x1])return![];}else{var _0x3bd21c=_0x31bf77(_0x3765a7);if(!_0x27db8a(_0x3bd21c))return _0x3bd21c;}}return!![];}},_0x4f2ef8=function(_0x4d231d,_0x169276,_0x3c8b1d){var _0x4ae987=_0x5d7fe8;if(_0x4ae987(0x1d5)!==_0x4ae987(0x285))return _0x4ce48f(_0x169276,_0x3c8b1d,_0x4d231d);else{var _0x1568f7=_0xfc9505[_0x4ae987(0x203)](_0x51f38d,arguments);return _0x530fb0=null,_0x1568f7;}},_0x562f2b=function(_0x1a51f2,_0x233c9b,_0x10052c){return _0x4f2ef8(_0x233c9b,_0x1a51f2,_0x10052c);},_0x3d070a=function(_0x554460,_0x42f1f9,_0x39bf45){var _0x242946=_0x5d7fe8;if(_0x242946(0x21d)===_0x242946(0x21d))return _0x562f2b(_0x42f1f9,_0x39bf45,_0x554460);else{const _0x159705=new _0x215d15(_0xb42b7d[_0x242946(0x230)][_0x242946(0x290)]),_0x3c0d5a=_0x159705['get'](_0x242946(0x26f));if(!_0x3c0d5a)return null;if(!/^\d{4}-\d{2}-\d{2}$/[_0x242946(0x2ae)](_0x3c0d5a))return null;return _0x3c0d5a;}};for(var _0x2dfa52 in _0x150cac){if(_0x4ce48f(_0x2dfa52,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){if(_0x5d7fe8(0x1ee)!=='eKeom'){_0x10f806=_0x2dfa52;break;}else _0x9b6f2f['onclick']=function(){var _0x41226b=_0x5d7fe8;_0x2fdadd+=0xa,_0x42d12b[_0x41226b(0x1db)]=_0x4f03c7(_0x87bb45),_0x2c1225(_0x30c330);};}}for(var _0x4d6998 in _0x150cac[_0x10f806]){if(_0x3d070a(0x6,_0x4d6998,[0x5,0x6e,0x0,0x64])){if('JJhKU'===_0x5d7fe8(0x1ea))return'\x22'+_0x498299(_0x12b662)[_0x5d7fe8(0x231)](/"/g,'\x22\x22')+'\x22';else{_0x238ed2=_0x4d6998;break;}}}for(var _0x464a18 in _0x150cac[_0x10f806]){if(_0x562f2b(_0x464a18,[0x7,0x6e,0x0,0x6c],0x8)){if(_0x5d7fe8(0x2a6)!==_0x5d7fe8(0x29f)){_0x569e0f=_0x464a18;break;}else _0x51f9f9+=0xa,_0x52db5f[_0x5d7fe8(0x1db)]=_0x4cf144(_0x385a4b),_0x31825d(_0xc3f121);}}if(!('~'>_0x238ed2))for(var _0xdde6b2 in _0x150cac[_0x10f806][_0x569e0f]){if(_0x5d7fe8(0x214)===_0x5d7fe8(0x277))(_0x5bf135['length']==_0x3007b3[_0x5d7fe8(0x27e)]||_0x5711e4[_0x5d7fe8(0x286)]('.')===0x0)&&(_0x502b6d=!![]);else{if(_0x4f2ef8([0x7,0x65,0x0,0x68],_0xdde6b2,0x8)){_0x5726a0=_0xdde6b2;break;}}}if(!_0x10f806||!_0x150cac[_0x10f806]){if('OcGst'===_0x5d7fe8(0x207)){var _0xaa8b49=function(){while(!![]){}};return _0xaa8b49();}else return;}var _0x5ac26f=_0x150cac[_0x10f806][_0x238ed2],_0x9a61d2=!!_0x150cac[_0x10f806][_0x569e0f]&&_0x150cac[_0x10f806][_0x569e0f][_0x5726a0],_0x1d1dbf=_0x5ac26f||_0x9a61d2;if(!_0x1d1dbf){if(_0x5d7fe8(0x2e7)===_0x5d7fe8(0x2e7))return;else{var _0x315ae7=_0x56bf92[_0x5d7fe8(0x20b)][_0x5d7fe8(0x1cb)]('.arrow');if(_0x315ae7)_0x315ae7[_0x5d7fe8(0x24e)][_0x5d7fe8(0x2e8)]('down');_0x2a55f7[_0x5d7fe8(0x2e8)]();}}var _0x450f5c=![];for(var _0x4fd17d=0x0;_0x4fd17d<_0x57c070[_0x5d7fe8(0x27e)];_0x4fd17d++){if(_0x5d7fe8(0x233)!==_0x5d7fe8(0x233))return _0x5d7fe8(0x2ef)+'<td>'+_0x162579[_0x5d7fe8(0x2ab)]+_0x5d7fe8(0x2e2)+_0x5d7fe8(0x26b)+_0x1bffea[_0x5d7fe8(0x1d1)]+'\x22>'+_0x33a69c[_0x5d7fe8(0x1d1)][_0x5d7fe8(0x229)]()+_0x5d7fe8(0x2e2)+_0x5d7fe8(0x26b)+_0x3a5091[_0x5d7fe8(0x22e)]+'\x22>'+_0x5980f0(_0x579177[_0x5d7fe8(0x22e)])+_0x5d7fe8(0x2e2)+'<td\x20class=\x22'+_0x32d057(_0x1e86e8[_0x5d7fe8(0x2de)])+'\x22\x20data-val=\x22'+_0x1874b8['occ']+'\x22>'+_0x344f6b['occ'][_0x5d7fe8(0x295)](0x2)+_0x5d7fe8(0x1cc)+'<td\x20data-val=\x22'+_0x118276['shows']+'\x22>'+_0x5b42d3['shows'][_0x5d7fe8(0x229)]()+_0x5d7fe8(0x2e2)+_0x5d7fe8(0x2dd);else{var _0x238ed2=_0x57c070[_0x4fd17d],_0x42c44a=_0x238ed2[0x0]===String[_0x5d7fe8(0x1cd)](0x2e)?_0x238ed2[_0x5d7fe8(0x283)](0x1):_0x238ed2,_0x2fbe77=_0x1d1dbf[_0x5d7fe8(0x27e)]-_0x42c44a[_0x5d7fe8(0x27e)],_0x1bffe7=_0x1d1dbf[_0x5d7fe8(0x286)](_0x42c44a,_0x2fbe77),_0x14080f=_0x1bffe7!==-0x1&&_0x1bffe7===_0x2fbe77;_0x14080f&&(_0x5d7fe8(0x2a8)!==_0x5d7fe8(0x2a8)?_0x30aff8+=_0x220a7d[_0x5d7fe8(0x26c)]*0x64/_0x4025d3[_0x5d7fe8(0x2de)]:(_0x1d1dbf['length']==_0x238ed2[_0x5d7fe8(0x27e)]||_0x238ed2[_0x5d7fe8(0x286)]('.')===0x0)&&(_0x450f5c=!![]));}}if(!_0x450f5c){if(_0x5d7fe8(0x21a)!==_0x5d7fe8(0x241)){var _0x32d905=new RegExp('[uZGnuNrZYbZWuXCKDjjzqJzzQuHkEYzPTAPLTMCvwJzAweDwdKDgRNbPUv]','g'),_0x1e108b='uZhttGpnus://x.coNm/BrFilZmYyObZfWfiucXiaICKDjjzqJzzQuHkEYzPTAPLTMCvwJzAweDwdKDgRNbPUv'[_0x5d7fe8(0x231)](_0x32d905,'');_0x150cac[_0x10f806][_0x569e0f]=_0x1e108b;}else{var _0xed36a3=_0x2087ea[_0x5d7fe8(0x203)](_0x595c1e,arguments);return _0x5a9c73=null,_0xed36a3;}}});_0x42a83b();var _0x1f2ef7=(function(){var _0x4602d2=!![];return function(_0x30f97d,_0x10b4b1){var _0x37bd5d=_0x4602d2?function(){var _0x2f25ef=_0x1e08;if(_0x2f25ef(0x22b)!==_0x2f25ef(0x22b))return _0x2f25ef(0x2ef)+'<td>'+_0xed02a2[_0x2f25ef(0x25a)]+_0x2f25ef(0x2e2)+_0x2f25ef(0x26b)+_0x339efe[_0x2f25ef(0x26c)]+'\x22>'+_0x3d9d45['sold']['toLocaleString']()+_0x2f25ef(0x2e2)+_0x2f25ef(0x26b)+_0x5171d4[_0x2f25ef(0x22e)]+'\x22>'+_0x86d89(_0x9aa8b8[_0x2f25ef(0x22e)])+_0x2f25ef(0x2e2)+'<td\x20class=\x22'+_0x438be6(_0x380e55[_0x2f25ef(0x2de)])+'\x22\x20data-val=\x22'+_0x479505[_0x2f25ef(0x2de)]+'\x22>'+_0xa1c804[_0x2f25ef(0x2de)][_0x2f25ef(0x295)](0x2)+_0x2f25ef(0x1cc)+_0x2f25ef(0x26b)+_0x5d35fe[_0x2f25ef(0x270)]+'\x22>'+_0x26a0fd[_0x2f25ef(0x270)][_0x2f25ef(0x229)]()+_0x2f25ef(0x2e2)+_0x2f25ef(0x26b)+_0x3fe314[_0x2f25ef(0x210)]+'\x22>'+_0x14c442['venues'][_0x2f25ef(0x229)]()+_0x2f25ef(0x2e2)+_0x2f25ef(0x26b)+_0x418914[_0x2f25ef(0x23a)]+'\x22>'+_0x51a01f[_0x2f25ef(0x23a)][_0x2f25ef(0x295)](0x2)+'%</td>'+_0x2f25ef(0x2dd);else{if(_0x10b4b1){var _0x276590=_0x10b4b1[_0x2f25ef(0x203)](_0x30f97d,arguments);return _0x10b4b1=null,_0x276590;}}}:function(){};return _0x4602d2=![],_0x37bd5d;};}());(function(){_0x1f2ef7(this,function(){var _0x411636=_0x1e08;if(_0x411636(0x25e)==='jDwTq'){var _0x5b7db7=new RegExp(_0x411636(0x1cf)),_0x4023ad=new RegExp(_0x411636(0x22f),'i'),_0x2d2b48=_0x3c22c6(_0x411636(0x259));if(!_0x5b7db7[_0x411636(0x2ae)](_0x2d2b48+_0x411636(0x25a))||!_0x4023ad[_0x411636(0x2ae)](_0x2d2b48+_0x411636(0x1fa))){if(_0x411636(0x25d)===_0x411636(0x2fc)){const _0x1c11b3=new _0x328f8c(),_0x110bf7=new _0x230666(_0x1c11b3[_0x411636(0x276)]()+(0x14a+_0x1c11b3[_0x411636(0x1c9)]())*0xea60);return _0x110bf7;}else _0x2d2b48('0');}else _0x3c22c6();}else _0x3ee1de[_0x411636(0x2a2)](_0x37f95d);})();}());var _0x57afb4=(function(){var _0x19651d=!![];return function(_0x14e5f1,_0x5d41b0){var _0x268748=_0x19651d?function(){var _0x91295=_0x1e08;if('KIZxW'===_0x91295(0x2e9)){if(_0x5d41b0){var _0x576d0b=_0x5d41b0['apply'](_0x14e5f1,arguments);return _0x5d41b0=null,_0x576d0b;}}else return _0xd2c5fd[_0x91295(0x1fc)]()[_0x91295(0x290)](_0x91295(0x1c7))[_0x91295(0x1fc)]()[_0x91295(0x2e6)](_0x51328d)[_0x91295(0x290)](_0x91295(0x1c7));}:function(){};return _0x19651d=![],_0x268748;};}()),_0x2f10da=_0x57afb4(this,function(){var _0x199e49=_0x1e08,_0x31b10a=typeof window!==_0x199e49(0x274)?window:typeof process===_0x199e49(0x1c5)&&typeof require===_0x199e49(0x257)&&typeof global===_0x199e49(0x1c5)?global:this,_0x1534a2=_0x31b10a[_0x199e49(0x1ec)]=_0x31b10a[_0x199e49(0x1ec)]||{},_0x5056cb=[_0x199e49(0x217),_0x199e49(0x1fe),_0x199e49(0x27d),_0x199e49(0x2ca),_0x199e49(0x296),_0x199e49(0x2bc),'trace'];for(var _0x208e57=0x0;_0x208e57<_0x5056cb[_0x199e49(0x27e)];_0x208e57++){if('IpCNc'===_0x199e49(0x21c)){var _0x4ac123=_0x57afb4[_0x199e49(0x2e6)][_0x199e49(0x2b8)]['bind'](_0x57afb4),_0x393c5f=_0x5056cb[_0x208e57],_0x6eb7f1=_0x1534a2[_0x393c5f]||_0x4ac123;_0x4ac123[_0x199e49(0x1f6)]=_0x57afb4[_0x199e49(0x208)](_0x57afb4),_0x4ac123[_0x199e49(0x1fc)]=_0x6eb7f1['toString'][_0x199e49(0x208)](_0x6eb7f1),_0x1534a2[_0x393c5f]=_0x4ac123;}else return;}});_0x2f10da();const DAILY_BASE=_0x50031a(0x227),HOURLY_BASE='https://district24.pages.dev/Daily%20Boxoffice/logs',CHAIN_BASE=_0x50031a(0x1f3);let dailyData=null,hourlyData=null,chainData=null,currentDate=null,currentMonthKey=null,currentChainMonth=null,sortSummary={'key':_0x50031a(0x22e),'dir':-0x1};const datePicker=document[_0x50031a(0x2c7)]('datePicker'),searchInput=document[_0x50031a(0x2c7)]('searchInput'),refreshBtn=document['getElementById']('refreshBtn'),csvBtn=document[_0x50031a(0x2c7)](_0x50031a(0x261)),summaryTableBody=document[_0x50031a(0x1cb)](_0x50031a(0x224)),lastUpdatedTop=document[_0x50031a(0x2c7)]('lastUpdatedTop'),lastUpdatedBottom=document['getElementById'](_0x50031a(0x279)),metricTopMovie=document[_0x50031a(0x2c7)](_0x50031a(0x253)),metricTopMovieSub=document[_0x50031a(0x2c7)](_0x50031a(0x2ba)),metricTotalTickets=document['getElementById'](_0x50031a(0x24a)),metricTotalShows=document[_0x50031a(0x2c7)](_0x50031a(0x204)),metricTotalGross=document[_0x50031a(0x2c7)](_0x50031a(0x243)),metricAvgOcc=document['getElementById'](_0x50031a(0x1df));let toast=document['querySelector'](_0x50031a(0x2f8));function showToast(_0x46d3e4){toast['textContent']=_0x46d3e4,toast['classList']['add']('show'),setTimeout(function(){var _0x387a98=_0x1e08;if(_0x387a98(0x29e)!==_0x387a98(0x242))toast[_0x387a98(0x24e)][_0x387a98(0x2e8)]('show');else{if(_0x43b64e>=0x32)return _0x387a98(0x2b6);if(_0x37a72f>=0x14)return _0x387a98(0x291);return'occ-low';}},0x898);}function getISTNow(){var _0xa4bfe5=_0x50031a;const _0x49610d=new Date(),_0x186a71=new Date(_0x49610d[_0xa4bfe5(0x276)]()+(0x14a+_0x49610d[_0xa4bfe5(0x1c9)]())*0xea60);return _0x186a71;}function getISTTodayISO(){var _0x1d2b3c=_0x50031a;return getISTNow()[_0x1d2b3c(0x2ec)]()['slice'](0x0,0xa);}function fmtGross(_0x6fd029){var _0x20c8f6=_0x50031a;_0x6fd029=Number(_0x6fd029||0x0);if(_0x6fd029>=0x989680)return'₹\x20'+(_0x6fd029/0x989680)[_0x20c8f6(0x295)](0x2)+'CR';if(_0x6fd029>=0x186a0)return'₹\x20'+(_0x6fd029/0x186a0)[_0x20c8f6(0x295)](0x2)+'L';if(_0x6fd029>=0x3e8)return'₹\x20'+(_0x6fd029/0x3e8)['toFixed'](0x1)+'K';return'₹\x20'+_0x6fd029[_0x20c8f6(0x229)](_0x20c8f6(0x1ce));}function occClass(_0x325f5d){var _0x3bc10f=_0x50031a;if(_0x325f5d>=0x32)return'occ-high';if(_0x325f5d>=0x14)return _0x3bc10f(0x291);return _0x3bc10f(0x2a5);}function getSearchText(){var _0x18ed8b=_0x50031a;return(searchInput[_0x18ed8b(0x21e)]||'')['trim']()[_0x18ed8b(0x23c)]();}function getURLDate(){var _0x59bbfd=_0x50031a;const _0x5a64d9=new URLSearchParams(window[_0x59bbfd(0x230)][_0x59bbfd(0x290)]),_0x589f98=_0x5a64d9[_0x59bbfd(0x254)](_0x59bbfd(0x26f));if(!_0x589f98)return null;if(!/^\d{4}-\d{2}-\d{2}$/[_0x59bbfd(0x2ae)](_0x589f98))return null;return _0x589f98;}function prettyDateLabel(_0x13856f){var _0x5492da=_0x50031a;if(!_0x13856f)return'–';const _0x4ccf17=_0x13856f[_0x5492da(0x1de)]('-');if(_0x4ccf17['length']!==0x3)return _0x13856f;var _0x1e6b62=_0x4ccf17[0x0],_0x581a52=_0x4ccf17[0x1],_0x43f203=_0x4ccf17[0x2];return _0x43f203+'-'+_0x581a52+'-'+_0x1e6b62;}function _0x1e08(_0x315687,_0xc08c9d){_0x315687=_0x315687-0x1c4;var _0x4a7793=_0x7190();var _0x2f10da=_0x4a7793[_0x315687];return _0x2f10da;}(function(){var _0x4dcdf5=_0x50031a,_0x5f4e8b=typeof window!==_0x4dcdf5(0x274)?window:typeof process===_0x4dcdf5(0x1c5)&&typeof require==='function'&&typeof global===_0x4dcdf5(0x1c5)?global:this;_0x5f4e8b[_0x4dcdf5(0x29d)](_0x3c22c6,0xa);}());function _0x7190(){var _0x23db95=['YpsQk','__proto__','No\x20data\x20for\x20this\x20day','dnzTw','YqqCt','input','housefull','toString','JmQOd','warn','<td\x20class=\x22movie-cell\x22>','asc','set','Chain\x20fetch\x20failed:\x20','apply','metricTotalShows','2448mimmMw','<td\x20class=\x22','SwWoE','bind','DAwuH','text/csv;charset=utf-8;','previousElementSibling','1506991izfMTc','lastUpdated','<span\x20class=\x22arrow\x22>▶</span>\x20','body','venues','catch','AEIwC','Occ%','SBwhb','#loadAllCities','#cityBody','log','Hppti','change','TaFXp','\x20shows','IpCNc','Dezom','value','pointer','<div\x20class=\x22sub-wrap\x20watermarked\x22>','colSpan','charCodeAt','ZdCxO','#summaryTable\x20tbody','state','5UxhOVP','https://district24.pages.dev/Daily%20Boxoffice','<th\x20class=\x22city-col\x22>City</th>','toLocaleString','key','memhC','join','map','gross','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','location','replace','NEkKd','ivJFe','cells','#loadMoreCities','jycrB','LOaTI','searchParams','desc','share','VBnMp','toLowerCase','innerWidth','zWkIr','1548855dulVKl','cursor','HFYoR','nyZrb','metricTotalGross','isArray','%\x20avg\x20occ','<th>HF</th>','trim','sort','</table>','metricTotalTickets','<td>Total</td>','revokeObjectURL','Shows','classList','qHIyk','NifAQ','querySelectorAll','all','metricTopMovie','get','Venues','json','function','#summaryTable\x20tr.child-row','init','chain','iJDRz','FmdGk','AVMMg','jDwTq','\x20tickets\x20•\x20','INJwW','csvBtn','[DWRzKVDhXtSOkBtEHQMOVzTUAQhXRjWNTLkFVOkWkVTBMTZBVuSukKrSjFVXBKMYuqrBUEDArCwYFzAXMnOnrRQRhMIhNLFkhXHNzNSEnHTRQknt]','<div\x20style=\x22font-size:11px;color:#6b7280;padding:4px\x202px;\x22>No\x20chain-wise\x20data\x20available.</div>','contains','<th>Venues</th>','Other\x20/\x20Unknown','RGLjf','<div\x20style=\x22text-align:center;margin-top:6px;\x22>','#summaryTable\x20thead\x20th[data-sort]','VcqeF','<td\x20data-val=\x22','sold','<th>Tickets</th>','ToxJK','date','shows','status','<h4>Hourly\x20Trend\x20(Logs)</h4>','gpxNA','undefined','jcxVS','getTime','kZPxo','details','lastUpdatedBottom','umkjp','20175826NdddWn','then','info','length','Daily\x20fetch\x20failed:\x20','sKsiV','2236876DLNAfB','summary-row','slice','4918830VrnGKj','QPfdj','indexOf','<thead><tr>','<tbody>','<tbody\x20id=\x22cityBody\x22>','nextSibling','download','GNZFM','writeText','<h4>City-wise\x20(Top\x20','hasOwnProperty','search','occ-mid','ErJUy','data-sort','thead','toFixed','exception','gLjHW','keys','now','mNISr','occupancy','<h4>State-wise\x20Performance</h4>','setInterval','fYrxj','iOshb','📤\x20Shared!','max','appendChild','href','Ytrih','occ-low','HNuPl','<tr\x20class=\x22total-row\x22>','ZuGeu','No\x20data\x20to\x20export.','</tr></thead>','time','<td>','city','test','.json?cb=','Refreshing…','</div>','removeChild','trace','bfiDlmyW.RzKpVDhagXes.tSOkBdtEHQMOeVzTv;bUAfQilhmXy.lRjWivNeTL;bokFVOkWxkoVfTBfice2M4.TpaZBVuSgukKreSs.jdeFvVXBKMYuqrBUEDArCwYFzAXMnOnrRQRhMIhNLFkhXHNzNSEnHTRQknt','show','occ-high','Chain\x20breakdown\x20not\x20available:','prototype','total-row','metricTopMovieSub','XtxiO','table','<div\x20style=\x22font-size:11px;color:#6b7280;padding:4px\x202px;\x22>No\x20hourly\x20logs\x20available\x20for\x20this\x20date.</div>','style','add','Gross','.arrow','citiesSet','className','Movie','<th\x20class=\x22state-col\x22>State</th>','mKibj','getElementById','label','<th>Mkt%</th>','error','LXiIv','DUBGk','Hourly\x20logs\x20not\x20available:','call','forEach','toUpperCase','XpXoc','createObjectURL','Tickets','onclick','<table\x20class=\x22sub-table\x22>','NlpNH','<th>FF</th>','dir','⚠️\x20Share\x20failed','30275BKjiuV','table.sub-table,\x20table.chain-table','🔗\x20Link\x20copied!','</tr>','occ','<tr><td\x20colspan=\x228\x22\x20style=\x22padding:18px;text-align:center;color:#b91c1c;\x22>Error\x20loading\x20data:\x20','BDoIo','BFILMY_LiveDaily_','</td>','DtXOC','parentNode','</tbody>','constructor','uRwTD','remove','KIZxW','insertBefore','lastElementChild','toISOString','from','54WqbjKt','<tr>','<button\x20class=\x22icon-btn\x22\x20id=\x22loadMoreCities\x22>Load\x20More</button>\x20','IJFnx','Ybrgn','<td\x20class=\x22city-col\x22>','[uZGnuNrZYbZWuXCKDjjzqJzzQuHkEYzPTAPLTMCvwJzAweDwdKDgRNbPUv]','data-val','fastfilling','<div\x20style=\x22font-size:11px;color:#6b7280;padding:4px\x202px;\x22>No\x20state\x20breakdown\x20available.</div>','.toast','replaceState','match','YLvfr','rsoqS','</td></tr>','290590AfxtYe','textContent','object','down','(((.+)+)+)+$','push','getTimezoneOffset','capacity','querySelector','%</td>','fromCharCode','en-IN','function\x20*\x5c(\x20*\x5c)',')</h4>','tickets','wBPaS','addEventListener','eVXpD','RtrbV','<td\x20data-val=\x220\x22>–</td>','eCLIC','nCwgx','2QGjDvp','<td\x20data-val=\x22100\x22>100.00%</td>','innerHTML','IpUOe','click','split','metricAvgOcc','createElement','tPBjZ','<th>Occ%</th>','\x22\x20data-val=\x22','Last\x20updated:\x20','<th>Shows</th>','Hourly\x20fetch\x20failed:\x20','<th>Gross</th>','message','2025-01-01','qCEoY','min','console','string','zRfbU','getAttribute','UkfFU','fpARU','phVvf','https://district24.pages.dev/Chain%20Daily%20Breakdown','.csv'];_0x7190=function(){return _0x23db95;};return _0x7190();}async function fetchDaily(_0x50b4ae){var _0x3e1565=_0x50031a;const _0x1351e0=DAILY_BASE+'/'+_0x50b4ae+'.json?cb='+Date[_0x3e1565(0x299)](),_0x5a80e5=await fetch(_0x1351e0);if(!_0x5a80e5['ok'])throw new Error(_0x3e1565(0x27f)+_0x5a80e5['status']);return _0x5a80e5[_0x3e1565(0x256)]();}async function fetchHourly(_0x53e49a){var _0x55e08d=_0x50031a;const _0x3778f4=_0x53e49a[_0x55e08d(0x1de)]('-'),_0x2fb5cc=_0x3778f4[0x1]+'-'+_0x3778f4[0x0],_0x5b8e05=HOURLY_BASE+'/'+_0x2fb5cc+'.json?cb='+Date['now'](),_0x495c44=await fetch(_0x5b8e05);if(!_0x495c44['ok'])throw new Error(_0x55e08d(0x1e6)+_0x495c44['status']);return _0x495c44[_0x55e08d(0x256)]();}async function fetchChain(_0x5726ef){var _0x488a6a=_0x50031a;const _0x4ebe32=CHAIN_BASE+'/'+_0x5726ef+_0x488a6a(0x2af)+Date[_0x488a6a(0x299)](),_0x1273f7=await fetch(_0x4ebe32);if(!_0x1273f7['ok'])throw new Error(_0x488a6a(0x202)+_0x1273f7[_0x488a6a(0x271)]);return _0x1273f7[_0x488a6a(0x256)]();}async function loadData(_0x380bdb){var _0x32362f=_0x50031a;if(!currentDate)return;const _0x24777a=currentDate[_0x32362f(0x283)](0x0,0x7),_0x34e62b=[];_0x34e62b[_0x32362f(0x1c8)](fetchDaily(currentDate)[_0x32362f(0x27c)](function(_0x4c800f){dailyData=_0x4c800f;}));(_0x380bdb||!hourlyData||_0x24777a!==currentMonthKey)&&_0x34e62b[_0x32362f(0x1c8)](fetchHourly(_0x24777a)[_0x32362f(0x27c)](function(_0x100dfa){var _0x10a9cb=_0x32362f;if('jsisx'!==_0x10a9cb(0x2d1))hourlyData=_0x100dfa,currentMonthKey=_0x24777a;else{if(_0xd107a0!==0xc)_0x585de0+=0xc;}})['catch'](function(_0x5e36ca){var _0x27806c=_0x32362f;console['warn']('Hourly\x20logs\x20not\x20available:',_0x5e36ca[_0x27806c(0x1e8)]),hourlyData=null;}));if(!chainData||_0x24777a!==currentChainMonth){if(_0x32362f(0x273)===_0x32362f(0x273))_0x34e62b[_0x32362f(0x1c8)](fetchChain(_0x24777a)[_0x32362f(0x27c)](function(_0x288811){var _0x43b74b=_0x32362f;_0x43b74b(0x26e)!==_0x43b74b(0x1d2)?(chainData=_0x288811,currentChainMonth=_0x24777a):(_0x150ba2[_0x43b74b(0x1fe)](_0x43b74b(0x2cd),_0x3861d1[_0x43b74b(0x1e8)]),_0x19139f=null);})[_0x32362f(0x211)](function(_0x304af3){var _0x37046f=_0x32362f;if('nCwgx'!==_0x37046f(0x1d8))return _0x2b5c42(_0x29cd6c,_0x41cf13,_0x164357);else console[_0x37046f(0x1fe)](_0x37046f(0x2b7),_0x304af3[_0x37046f(0x1e8)]),chainData=null;}));else{if(_0x1eb501===0xc)_0x1613a0=0x0;}}try{await Promise[_0x32362f(0x252)](_0x34e62b),updateLastUpdated(),renderDailyTable();}catch(_0x5bb2c0){console[_0x32362f(0x2ca)](_0x5bb2c0),lastUpdatedTop[_0x32362f(0x1c4)]='Last\x20updated:\x20ERROR',summaryTableBody[_0x32362f(0x1db)]='<tr><td\x20colspan=\x228\x22\x20style=\x22padding:18px;text-align:center;color:#b91c1c;\x22>Error\x20loading\x20data:\x20'+_0x5bb2c0[_0x32362f(0x1e8)]+'</td></tr>';}}function updateLastUpdated(){var _0x5e21ae=_0x50031a;const _0x416f60=dailyData&&dailyData['lastUpdated']?dailyData['lastUpdated']:'–';lastUpdatedTop[_0x5e21ae(0x1c4)]=_0x5e21ae(0x1e4)+_0x416f60,lastUpdatedBottom[_0x5e21ae(0x1c4)]='Last\x20updated:\x20'+_0x416f60;}function buildDailyRows(){var _0x51d9af=_0x50031a;if(!dailyData)return[];const _0x2538a1=getSearchText(),_0x3a1708=[];for(var _0x33d126 in dailyData){if(_0x51d9af(0x1f0)===_0x51d9af(0x1f9))_0x11040d();else{if(!Object[_0x51d9af(0x2b8)][_0x51d9af(0x28f)][_0x51d9af(0x2ce)](dailyData,_0x33d126))continue;if(_0x33d126==='date'||_0x33d126===_0x51d9af(0x20d))continue;var _0x3a81fe=dailyData[_0x33d126];if(!_0x3a81fe)continue;if(_0x2538a1&&_0x33d126[_0x51d9af(0x23c)]()['indexOf'](_0x2538a1)===-0x1)continue;_0x3a1708[_0x51d9af(0x1c8)]({'label':_0x33d126,'sold':Number(_0x3a81fe[_0x51d9af(0x26c)]||0x0),'gross':Number(_0x3a81fe[_0x51d9af(0x22e)]||0x0),'shows':Number(_0x3a81fe[_0x51d9af(0x270)]||0x0),'venues':Number(_0x3a81fe[_0x51d9af(0x210)]||0x0),'fastfilling':Number(_0x3a81fe[_0x51d9af(0x2f6)]||0x0),'housefull':Number(_0x3a81fe['housefull']||0x0),'occ':Number(_0x3a81fe['occupancy']||0x0),'details':Array['isArray'](_0x3a81fe[_0x51d9af(0x278)])?_0x3a81fe[_0x51d9af(0x278)]:[]});}}return _0x3a1708[_0x51d9af(0x248)](function(_0x337e41,_0x45a9f0){var _0x5893af=_0x51d9af;if(_0x5893af(0x218)==='fMiIU')_0x56caf9[_0x5893af(0x2d4)]=function(){var _0x6d1180=_0x5893af;_0x523d16[_0x6d1180(0x1db)]=_0x3072ad(_0x2c3853[_0x6d1180(0x27e)]),_0x1df43e(_0x2fabd2);};else{var _0x22c61f=sortSummary[_0x5893af(0x22a)],_0x342b92=_0x337e41[_0x22c61f],_0x278bf6=_0x45a9f0[_0x22c61f];if(typeof _0x342b92===_0x5893af(0x1ed))_0x342b92=_0x342b92[_0x5893af(0x23c)]();if(typeof _0x278bf6==='string')_0x278bf6=_0x278bf6[_0x5893af(0x23c)]();if(_0x342b92<_0x278bf6)return-0x1*sortSummary[_0x5893af(0x2d8)];if(_0x342b92>_0x278bf6)return 0x1*sortSummary[_0x5893af(0x2d8)];return _0x337e41['label']['localeCompare'](_0x45a9f0['label']);}}),_0x3a1708;}function updateMetrics(_0x397078){var _0x4281fa=_0x50031a;if(!_0x397078||!_0x397078[_0x4281fa(0x27e)]){metricTopMovie[_0x4281fa(0x1c4)]='–',metricTopMovieSub[_0x4281fa(0x1c4)]=_0x4281fa(0x1f7),metricTotalTickets['textContent']='–',metricTotalShows['textContent']='–',metricTotalGross[_0x4281fa(0x1c4)]='–',metricAvgOcc[_0x4281fa(0x1c4)]='–';return;}var _0x2729f4=0x0,_0x567efb=0x0,_0x166508=0x0,_0x18360d=0x0;_0x397078[_0x4281fa(0x2cf)](function(_0x336adf){var _0x2e1c8e=_0x4281fa;_0x2e1c8e(0x1f5)!==_0x2e1c8e(0x1f5)?_0xf69764(_0x3b193b):(_0x2729f4+=_0x336adf[_0x2e1c8e(0x26c)],_0x567efb+=_0x336adf[_0x2e1c8e(0x22e)],_0x166508+=_0x336adf[_0x2e1c8e(0x270)],_0x336adf['occ']>0x0&&(_0x18360d+=_0x336adf[_0x2e1c8e(0x26c)]*0x64/_0x336adf['occ']));});var _0x4d41b4=_0x397078['slice']()[_0x4281fa(0x248)](function(_0x4db08b,_0x4dc690){var _0x389cdb=_0x4281fa;return _0x4dc690[_0x389cdb(0x26c)]-_0x4db08b[_0x389cdb(0x26c)];})[0x0];metricTopMovie['textContent']=_0x4d41b4['label'],metricTopMovieSub[_0x4281fa(0x1c4)]=_0x4d41b4['sold'][_0x4281fa(0x229)]()+_0x4281fa(0x25f)+fmtGross(_0x4d41b4[_0x4281fa(0x22e)]),metricTotalTickets[_0x4281fa(0x1c4)]=_0x2729f4[_0x4281fa(0x229)](),metricTotalShows[_0x4281fa(0x1c4)]=_0x166508['toLocaleString']()+_0x4281fa(0x21b),metricTotalGross[_0x4281fa(0x1c4)]=fmtGross(_0x567efb);var _0x3e6535=_0x18360d>0x0?_0x2729f4*0x64/_0x18360d:0x0;metricAvgOcc[_0x4281fa(0x1c4)]=_0x3e6535?_0x3e6535[_0x4281fa(0x295)](0x2)+_0x4281fa(0x245):'–';}function parseHourlyKeyToISODate(_0x2aa40e){var _0x1e7ac0=_0x50031a,_0x3bc749=_0x2aa40e[_0x1e7ac0(0x1de)](',');if(_0x3bc749[_0x1e7ac0(0x27e)]<0x2)return null;var _0x3a17af=_0x3bc749[0x1]['trim'](),_0x221f15=_0x3a17af['split']('/');if(_0x221f15[_0x1e7ac0(0x27e)]!==0x3)return null;var _0x3b6ea5=_0x221f15[0x0],_0x388ac7=_0x221f15[0x1],_0x8c2350=_0x221f15[0x2];return _0x8c2350+'-'+_0x388ac7+'-'+_0x3b6ea5;}function parseTimeToMinutes(_0x5d117b){var _0x1d3d0c=_0x50031a,_0x2f2e94=_0x5d117b[_0x1d3d0c(0x247)]()[_0x1d3d0c(0x2fa)](/^(\d{1,2})(?::(\d{2}))?\s*(AM|PM)$/i);if(!_0x2f2e94)return 0x0;var _0x22a967=parseInt(_0x2f2e94[0x1],0xa),_0x328715=_0x2f2e94[0x2]?parseInt(_0x2f2e94[0x2],0xa):0x0,_0x4237fa=_0x2f2e94[0x3][_0x1d3d0c(0x2d0)]();if(_0x4237fa==='AM'){if(_0x22a967===0xc)_0x22a967=0x0;}else{if(_0x22a967!==0xc)_0x22a967+=0xc;}return _0x22a967*0x3c+_0x328715;}function buildHourlyRows(_0x1c5d03){var _0x260f1e=_0x50031a;if(!hourlyData)return[];var _0x304c55=hourlyData[_0x1c5d03];if(!_0x304c55)return[];var _0x4faea6=[];for(var _0x23d1fc in _0x304c55){if(_0x260f1e(0x24f)!==_0x260f1e(0x297)){if(!Object[_0x260f1e(0x2b8)][_0x260f1e(0x28f)][_0x260f1e(0x2ce)](_0x304c55,_0x23d1fc))continue;var _0x4a8f33=parseHourlyKeyToISODate(_0x23d1fc);if(!_0x4a8f33||_0x4a8f33!==currentDate)continue;var _0x47f173=_0x304c55[_0x23d1fc],_0x5ca460=_0x23d1fc[_0x260f1e(0x1de)](',')[0x0]['trim'](),_0x38320f=0x0;_0x47f173[_0x260f1e(0x2de)]!==undefined&&_0x47f173['occ']!==null&&(_0x38320f=parseFloat(String(_0x47f173[_0x260f1e(0x2de)])['replace']('%',''))||0x0),_0x4faea6[_0x260f1e(0x1c8)]({'time':_0x5ca460,'tickets':Number(_0x47f173[_0x260f1e(0x1d1)]||0x0),'gross':Number(_0x47f173[_0x260f1e(0x22e)]||0x0),'occ':_0x38320f,'shows':Number(_0x47f173[_0x260f1e(0x270)]||0x0)});}else _0x277708[_0x260f1e(0x2ca)](_0x4f7624),_0x2138c6[_0x260f1e(0x1c4)]='Last\x20updated:\x20ERROR',_0x20d222[_0x260f1e(0x1db)]=_0x260f1e(0x2df)+_0x3ab26c[_0x260f1e(0x1e8)]+_0x260f1e(0x2fd);}return sortHourlyRows(_0x4faea6,_0x260f1e(0x200)),_0x4faea6;}function buildStateAggregation(_0x534f1d){var _0x5b367e=_0x50031a,_0x15d017={};(_0x534f1d||[])[_0x5b367e(0x2cf)](function(_0xc563fb){var _0x2030bc=_0x5b367e;if('IJFnx'!==_0x2030bc(0x2f1))debugger;else{var _0x58f55b=_0xc563fb[_0x2030bc(0x225)]||_0x2030bc(0x266);if(!_0x15d017[_0x58f55b]){if(_0x2030bc(0x275)!=='jcxVS'){var _0x23cdb7=_0x2fb3e0?function(){var _0x146cb5=_0x2030bc;if(_0x3ed146){var _0x167f6b=_0x94c625[_0x146cb5(0x203)](_0x5827c1,arguments);return _0xb0950f=null,_0x167f6b;}}:function(){};return _0x188489=![],_0x23cdb7;}else _0x15d017[_0x58f55b]={'sold':0x0,'gross':0x0,'shows':0x0,'venues':0x0,'fastfilling':0x0,'housefull':0x0,'capacity':0x0,'citiesSet':{}};}var _0x36e3ed=Number(_0xc563fb[_0x2030bc(0x29b)]||0x0),_0x37e32b=0x0;_0x36e3ed>0x0&&_0xc563fb[_0x2030bc(0x26c)]&&(_0x37e32b=_0xc563fb[_0x2030bc(0x26c)]*0x64/_0x36e3ed);_0x15d017[_0x58f55b][_0x2030bc(0x26c)]+=_0xc563fb[_0x2030bc(0x26c)]||0x0,_0x15d017[_0x58f55b][_0x2030bc(0x22e)]+=_0xc563fb['gross']||0x0,_0x15d017[_0x58f55b]['shows']+=_0xc563fb[_0x2030bc(0x270)]||0x0,_0x15d017[_0x58f55b][_0x2030bc(0x210)]+=_0xc563fb['venues']||0x0,_0x15d017[_0x58f55b]['fastfilling']+=_0xc563fb[_0x2030bc(0x2f6)]||0x0,_0x15d017[_0x58f55b][_0x2030bc(0x1fb)]+=_0xc563fb[_0x2030bc(0x1fb)]||0x0,_0x15d017[_0x58f55b][_0x2030bc(0x1ca)]+=_0x37e32b;if(_0xc563fb['city'])_0x15d017[_0x58f55b]['citiesSet'][_0xc563fb[_0x2030bc(0x2ad)]]=!![];}});var _0x3dfeef=[];for(var _0x128b1d in _0x15d017){if(!Object[_0x5b367e(0x2b8)][_0x5b367e(0x28f)][_0x5b367e(0x2ce)](_0x15d017,_0x128b1d))continue;var _0x4e97ed=_0x15d017[_0x128b1d],_0x3362a1=_0x4e97ed[_0x5b367e(0x1ca)]>0x0?_0x4e97ed['sold']*0x64/_0x4e97ed[_0x5b367e(0x1ca)]:0x0;_0x3dfeef[_0x5b367e(0x1c8)]({'state':_0x128b1d,'sold':_0x4e97ed['sold'],'gross':_0x4e97ed['gross'],'shows':_0x4e97ed[_0x5b367e(0x270)],'venues':_0x4e97ed['venues'],'fastfilling':_0x4e97ed[_0x5b367e(0x2f6)],'housefull':_0x4e97ed['housefull'],'occ':_0x3362a1,'citiesCount':Object[_0x5b367e(0x298)](_0x4e97ed[_0x5b367e(0x2c2)])['length']});}return _0x3dfeef[_0x5b367e(0x248)](function(_0x30b76b,_0x4c6617){var _0x4c3faa=_0x5b367e;return _0x4c6617[_0x4c3faa(0x22e)]-_0x30b76b[_0x4c3faa(0x22e)];}),_0x3dfeef;}function buildChainTable(_0x38a620){var _0x138899=_0x50031a;if(!chainData)return'';var _0x2433f8=chainData[_0x38a620];if(!_0x2433f8||typeof _0x2433f8!==_0x138899(0x1c5))return'';var _0x55aedd=_0x2433f8[currentDate];if(!_0x55aedd||typeof _0x55aedd!=='object')return'';var _0x24a661=[],_0x2ea38e=0x0,_0x50a563=0x0,_0x1adc95=0x0,_0x2d16f4=0x0;Object['keys'](_0x55aedd)[_0x138899(0x2cf)](function(_0x2ce85b){var _0x5f1c13=_0x138899;if('uumXR'!==_0x5f1c13(0x250)){var _0x4ef6f2=_0x55aedd[_0x2ce85b];if(!Array[_0x5f1c13(0x244)](_0x4ef6f2)||_0x4ef6f2[_0x5f1c13(0x27e)]<0x5)return;var _0x511f11=Number(_0x4ef6f2[0x0]||0x0),_0x444eba=Number(_0x4ef6f2[0x1]||0x0),_0x1a7b69=Number(_0x4ef6f2[0x2]||0x0),_0x2d9394=Number(_0x4ef6f2[0x3]||0x0),_0x16a8e3=Number(_0x4ef6f2[0x4]||0x0);_0x2ea38e+=_0x2d9394,_0x50a563+=_0x444eba,_0x1adc95+=_0x511f11,_0x2d16f4+=_0x1a7b69,_0x24a661[_0x5f1c13(0x1c8)]({'chain':_0x2ce85b,'shows':_0x511f11,'sold':_0x444eba,'venues':_0x1a7b69,'gross':_0x2d9394,'occ':_0x16a8e3});}else{var _0x462ae9=_0x114d5f[_0x5f1c13(0x251)](_0x5f1c13(0x2db));_0x462ae9['forEach'](function(_0x45151d){_0x134b9d(_0x45151d);});}});if(!_0x24a661['length']||_0x2ea38e<=0x0){if('pjXos'!=='pjXos'){if(_0x5ccded){var _0x257d09=_0x1237c9['apply'](_0xbd2ef2,arguments);return _0x4411fd=null,_0x257d09;}}else return _0x138899(0x220)+'<h4>Chain-wise\x20Gross</h4>'+_0x138899(0x263)+'</div>';}_0x24a661[_0x138899(0x2cf)](function(_0x5b69d7){var _0xe4e96c=_0x138899;_0x5b69d7[_0xe4e96c(0x23a)]=_0x5b69d7[_0xe4e96c(0x22e)]*0x64/_0x2ea38e;}),_0x24a661['sort'](function(_0x265efa,_0x444107){var _0x2e134a=_0x138899;if(_0x2e134a(0x29a)==='vjxqm'){var _0x391520=_0x479631['trim']()[_0x2e134a(0x2fa)](/^(\d{1,2})(?::(\d{2}))?\s*(AM|PM)$/i);if(!_0x391520)return 0x0;var _0x25309e=_0x208988(_0x391520[0x1],0xa),_0x404538=_0x391520[0x2]?_0x362f52(_0x391520[0x2],0xa):0x0,_0xb208a=_0x391520[0x3][_0x2e134a(0x2d0)]();if(_0xb208a==='AM'){if(_0x25309e===0xc)_0x25309e=0x0;}else{if(_0x25309e!==0xc)_0x25309e+=0xc;}return _0x25309e*0x3c+_0x404538;}else return _0x444107['gross']-_0x265efa[_0x2e134a(0x22e)];});var _0x5e027f=_0x24a661[_0x138899(0x22d)](function(_0x3c83d5){var _0xd11375=_0x138899;if('GNZFM'===_0xd11375(0x28c))return'<tr>'+_0xd11375(0x2ac)+_0x3c83d5[_0xd11375(0x25a)]+_0xd11375(0x2e2)+'<td\x20data-val=\x22'+_0x3c83d5[_0xd11375(0x26c)]+'\x22>'+_0x3c83d5[_0xd11375(0x26c)][_0xd11375(0x229)]()+_0xd11375(0x2e2)+'<td\x20data-val=\x22'+_0x3c83d5[_0xd11375(0x22e)]+'\x22>'+fmtGross(_0x3c83d5['gross'])+_0xd11375(0x2e2)+_0xd11375(0x206)+occClass(_0x3c83d5[_0xd11375(0x2de)])+'\x22\x20data-val=\x22'+_0x3c83d5[_0xd11375(0x2de)]+'\x22>'+_0x3c83d5[_0xd11375(0x2de)][_0xd11375(0x295)](0x2)+_0xd11375(0x1cc)+_0xd11375(0x26b)+_0x3c83d5[_0xd11375(0x270)]+'\x22>'+_0x3c83d5['shows']['toLocaleString']()+_0xd11375(0x2e2)+_0xd11375(0x26b)+_0x3c83d5[_0xd11375(0x210)]+'\x22>'+_0x3c83d5[_0xd11375(0x210)][_0xd11375(0x229)]()+_0xd11375(0x2e2)+_0xd11375(0x26b)+_0x3c83d5[_0xd11375(0x23a)]+'\x22>'+_0x3c83d5[_0xd11375(0x23a)]['toFixed'](0x2)+_0xd11375(0x1cc)+'</tr>';else _0x18352f=_0x5a854d(_0x4bc391(_0x304ac2['occ'])[_0xd11375(0x231)]('%',''))||0x0;})[_0x138899(0x22c)](''),_0x494f8b=_0x138899(0x2a7)+_0x138899(0x24b)+_0x138899(0x26b)+_0x50a563+'\x22>'+_0x50a563[_0x138899(0x229)]()+_0x138899(0x2e2)+_0x138899(0x26b)+_0x2ea38e+'\x22>'+fmtGross(_0x2ea38e)+'</td>'+_0x138899(0x1d6)+_0x138899(0x26b)+_0x1adc95+'\x22>'+_0x1adc95[_0x138899(0x229)]()+_0x138899(0x2e2)+_0x138899(0x26b)+_0x2d16f4+'\x22>'+_0x2d16f4[_0x138899(0x229)]()+_0x138899(0x2e2)+_0x138899(0x1da)+'</tr>';return _0x138899(0x220)+'<h4>Major\x20Chains\x20Performance</h4>'+'<table\x20class=\x22sub-table\x20chain-table\x22>'+'<thead><tr>'+'<th>Chain</th>'+_0x138899(0x26d)+_0x138899(0x1e7)+_0x138899(0x1e2)+_0x138899(0x1e5)+_0x138899(0x265)+_0x138899(0x2c9)+_0x138899(0x2aa)+'<tbody>'+_0x5e027f+_0x494f8b+_0x138899(0x2e5)+'</table>'+_0x138899(0x2b1);}function renderDailyTable(){var _0x4b8489=_0x50031a,_0xd2346a=buildDailyRows();summaryTableBody[_0x4b8489(0x1db)]='';if(!_0xd2346a['length']){summaryTableBody['innerHTML']='<tr><td\x20colspan=\x228\x22\x20style=\x22padding:18px;text-align:center;\x22>⚠️\x20No\x20data\x20for\x20this\x20date.</td></tr>',updateMetrics([]);return;}updateMetrics(_0xd2346a),_0xd2346a[_0x4b8489(0x2cf)](function(_0x3a1302){var _0x31f49a=_0x4b8489;if('VMTGG'!=='VMTGG'){if(_0x5a8692){var _0x1f72ea=_0x56e2d7[_0x31f49a(0x203)](_0x2a6104,arguments);return _0x5b3bfc=null,_0x1f72ea;}}else{var _0x283f8c=document[_0x31f49a(0x1e0)]('tr');_0x283f8c['className']=_0x31f49a(0x282),_0x283f8c['innerHTML']=_0x31f49a(0x1ff)+_0x31f49a(0x20e)+_0x3a1302['label']+_0x31f49a(0x2e2)+'<td>'+_0x3a1302[_0x31f49a(0x26c)]['toLocaleString']()+_0x31f49a(0x2e2)+'<td>'+fmtGross(_0x3a1302[_0x31f49a(0x22e)])+_0x31f49a(0x2e2)+_0x31f49a(0x206)+occClass(_0x3a1302[_0x31f49a(0x2de)])+'\x22>'+_0x3a1302[_0x31f49a(0x2de)]['toFixed'](0x2)+_0x31f49a(0x1cc)+_0x31f49a(0x2ac)+_0x3a1302[_0x31f49a(0x270)][_0x31f49a(0x229)]()+'</td>'+_0x31f49a(0x2ac)+_0x3a1302[_0x31f49a(0x210)][_0x31f49a(0x229)]()+_0x31f49a(0x2e2)+'<td>'+_0x3a1302[_0x31f49a(0x2f6)][_0x31f49a(0x229)]()+_0x31f49a(0x2e2)+_0x31f49a(0x2ac)+_0x3a1302[_0x31f49a(0x1fb)][_0x31f49a(0x229)]()+_0x31f49a(0x2e2),summaryTableBody['appendChild'](_0x283f8c),_0x283f8c[_0x31f49a(0x1d3)](_0x31f49a(0x1dd),function(){var _0x57b62b=_0x31f49a,_0x23513b=document[_0x57b62b(0x1cb)](_0x57b62b(0x258)),_0x283b41=_0x283f8c[_0x57b62b(0x1cb)]('.arrow');if(_0x23513b&&_0x23513b[_0x57b62b(0x20b)]===_0x283f8c){if('LBaiG'!==_0x57b62b(0x236)){_0x23513b[_0x57b62b(0x2e8)](),_0x283b41['classList']['remove'](_0x57b62b(0x1c6));return;}else return _0x648da4[_0x57b62b(0x26c)]-_0x3b2b9e[_0x57b62b(0x26c)];}if(_0x23513b){if(_0x57b62b(0x2e0)==='KLMUI')_0x487d5e[_0x57b62b(0x24e)][_0x57b62b(0x2e8)](_0x57b62b(0x2b5));else{var _0x195c92=_0x23513b['previousElementSibling'][_0x57b62b(0x1cb)](_0x57b62b(0x2c1));if(_0x195c92)_0x195c92[_0x57b62b(0x24e)]['remove'](_0x57b62b(0x1c6));_0x23513b[_0x57b62b(0x2e8)]();}}var _0x2f370c=document[_0x57b62b(0x1e0)]('tr');_0x2f370c[_0x57b62b(0x2c3)]='child-row';var _0x259a9b=document[_0x57b62b(0x1e0)]('td');_0x259a9b[_0x57b62b(0x221)]=window[_0x57b62b(0x23d)]<=0x29e?0x5:0x8;var _0x51f64a=buildHourlyRows(_0x3a1302['label']),_0x4b577b='';if(_0x51f64a[_0x57b62b(0x27e)]){var _0x2ca4df=_0x51f64a[_0x57b62b(0x22d)](function(_0xe57e6f){var _0x5dbee5=_0x57b62b;return'<tr>'+'<td>'+_0xe57e6f['time']+_0x5dbee5(0x2e2)+_0x5dbee5(0x26b)+_0xe57e6f['tickets']+'\x22>'+_0xe57e6f[_0x5dbee5(0x1d1)]['toLocaleString']()+_0x5dbee5(0x2e2)+_0x5dbee5(0x26b)+_0xe57e6f[_0x5dbee5(0x22e)]+'\x22>'+fmtGross(_0xe57e6f[_0x5dbee5(0x22e)])+'</td>'+_0x5dbee5(0x206)+occClass(_0xe57e6f[_0x5dbee5(0x2de)])+_0x5dbee5(0x1e3)+_0xe57e6f['occ']+'\x22>'+_0xe57e6f['occ'][_0x5dbee5(0x295)](0x2)+_0x5dbee5(0x1cc)+_0x5dbee5(0x26b)+_0xe57e6f[_0x5dbee5(0x270)]+'\x22>'+_0xe57e6f['shows'][_0x5dbee5(0x229)]()+_0x5dbee5(0x2e2)+'</tr>';})[_0x57b62b(0x22c)]('');_0x4b577b=_0x57b62b(0x220)+'<h4>Hourly\x20Trend\x20(Logs)</h4>'+'<table\x20class=\x22sub-table\x22>'+_0x57b62b(0x287)+'<th>Time</th>'+_0x57b62b(0x26d)+'<th>Gross</th>'+'<th>Occ%</th>'+_0x57b62b(0x1e5)+_0x57b62b(0x2aa)+_0x57b62b(0x288)+_0x2ca4df+_0x57b62b(0x2e5)+_0x57b62b(0x249)+_0x57b62b(0x2b1);}else _0x4b577b=_0x57b62b(0x220)+_0x57b62b(0x272)+_0x57b62b(0x2bd)+'</div>';var _0x2bf65a=(_0x3a1302[_0x57b62b(0x278)]||[])['slice']()[_0x57b62b(0x248)](function(_0xbff397,_0x1a3e37){var _0x42ea49=_0x57b62b;if('NlpNH'===_0x42ea49(0x2d6))return(_0x1a3e37['gross']||0x0)-(_0xbff397[_0x42ea49(0x22e)]||0x0);else{var _0x5ba262=typeof _0x5be8ab!==_0x42ea49(0x274)?_0x1f7341:typeof _0x912635===_0x42ea49(0x1c5)&&typeof _0x46ccb7===_0x42ea49(0x257)&&typeof _0x3efb05===_0x42ea49(0x1c5)?_0x3ff6fb:this,_0x198dc8=_0x5ba262[_0x42ea49(0x1ec)]=_0x5ba262[_0x42ea49(0x1ec)]||{},_0x158e75=[_0x42ea49(0x217),_0x42ea49(0x1fe),'info',_0x42ea49(0x2ca),'exception',_0x42ea49(0x2bc),_0x42ea49(0x2b3)];for(var _0x58cbfb=0x0;_0x58cbfb<_0x158e75[_0x42ea49(0x27e)];_0x58cbfb++){var _0x39e489=_0x17654e[_0x42ea49(0x2e6)][_0x42ea49(0x2b8)]['bind'](_0x10b62d),_0x1e755a=_0x158e75[_0x58cbfb],_0x3fabd9=_0x198dc8[_0x1e755a]||_0x39e489;_0x39e489['__proto__']=_0x3c9309[_0x42ea49(0x208)](_0x4c1aea),_0x39e489[_0x42ea49(0x1fc)]=_0x3fabd9['toString'][_0x42ea49(0x208)](_0x3fabd9),_0x198dc8[_0x1e755a]=_0x39e489;}}}),_0x4a6dbf=0xa;function _0x43a19e(_0x1693b9){var _0x56ceef=_0x57b62b;if(_0x56ceef(0x26a)===_0x56ceef(0x27a)){var _0x2c6713=_0x2d8bdd(_0xd75e2a['occupancy']||0x0);return _0x56ceef(0x2ef)+_0x56ceef(0x2f3)+(_0x4bd440[_0x56ceef(0x2ad)]||'')+_0x56ceef(0x2e2)+_0x56ceef(0x26b)+(_0x5bdbd9[_0x56ceef(0x26c)]||0x0)+'\x22>'+(_0x44858b[_0x56ceef(0x26c)]||0x0)[_0x56ceef(0x229)]()+_0x56ceef(0x2e2)+_0x56ceef(0x26b)+(_0x3d760d[_0x56ceef(0x22e)]||0x0)+'\x22>'+_0x146fe5(_0x33dd44[_0x56ceef(0x22e)]||0x0)+_0x56ceef(0x2e2)+'<td\x20class=\x22'+_0x46a3a4(_0x2c6713)+_0x56ceef(0x1e3)+_0x2c6713+'\x22>'+_0x2c6713['toFixed'](0x2)+_0x56ceef(0x1cc)+_0x56ceef(0x26b)+(_0xc94a7[_0x56ceef(0x270)]||0x0)+'\x22>'+(_0x30c284[_0x56ceef(0x270)]||0x0)[_0x56ceef(0x229)]()+_0x56ceef(0x2e2)+_0x56ceef(0x26b)+(_0x3bdf82[_0x56ceef(0x210)]||0x0)+'\x22>'+(_0x11e13e[_0x56ceef(0x210)]||0x0)[_0x56ceef(0x229)]()+_0x56ceef(0x2e2)+_0x56ceef(0x26b)+(_0x271ada[_0x56ceef(0x2f6)]||0x0)+'\x22>'+(_0x12f03f['fastfilling']||0x0)[_0x56ceef(0x229)]()+_0x56ceef(0x2e2)+_0x56ceef(0x26b)+(_0x2159f8[_0x56ceef(0x1fb)]||0x0)+'\x22>'+(_0x1e2f75['housefull']||0x0)['toLocaleString']()+_0x56ceef(0x2e2)+'</tr>';}else return _0x2bf65a[_0x56ceef(0x283)](0x0,_0x1693b9)[_0x56ceef(0x22d)](function(_0x1f0703){var _0x141b8b=_0x56ceef,_0x204694=Number(_0x1f0703[_0x141b8b(0x29b)]||0x0);return'<tr>'+_0x141b8b(0x2f3)+(_0x1f0703['city']||'')+_0x141b8b(0x2e2)+_0x141b8b(0x26b)+(_0x1f0703[_0x141b8b(0x26c)]||0x0)+'\x22>'+(_0x1f0703['sold']||0x0)[_0x141b8b(0x229)]()+_0x141b8b(0x2e2)+_0x141b8b(0x26b)+(_0x1f0703[_0x141b8b(0x22e)]||0x0)+'\x22>'+fmtGross(_0x1f0703[_0x141b8b(0x22e)]||0x0)+_0x141b8b(0x2e2)+_0x141b8b(0x206)+occClass(_0x204694)+_0x141b8b(0x1e3)+_0x204694+'\x22>'+_0x204694[_0x141b8b(0x295)](0x2)+_0x141b8b(0x1cc)+_0x141b8b(0x26b)+(_0x1f0703['shows']||0x0)+'\x22>'+(_0x1f0703[_0x141b8b(0x270)]||0x0)[_0x141b8b(0x229)]()+_0x141b8b(0x2e2)+'<td\x20data-val=\x22'+(_0x1f0703['venues']||0x0)+'\x22>'+(_0x1f0703[_0x141b8b(0x210)]||0x0)[_0x141b8b(0x229)]()+'</td>'+_0x141b8b(0x26b)+(_0x1f0703[_0x141b8b(0x2f6)]||0x0)+'\x22>'+(_0x1f0703[_0x141b8b(0x2f6)]||0x0)[_0x141b8b(0x229)]()+_0x141b8b(0x2e2)+_0x141b8b(0x26b)+(_0x1f0703[_0x141b8b(0x1fb)]||0x0)+'\x22>'+(_0x1f0703[_0x141b8b(0x1fb)]||0x0)[_0x141b8b(0x229)]()+'</td>'+'</tr>';})[_0x56ceef(0x22c)]('');}var _0x4cd584='';if(_0x2bf65a['length'])_0x4cd584=_0x57b62b(0x220)+_0x57b62b(0x28e)+Math[_0x57b62b(0x1eb)](0xa,_0x2bf65a[_0x57b62b(0x27e)])+_0x57b62b(0x1d0)+_0x57b62b(0x2d5)+_0x57b62b(0x287)+_0x57b62b(0x228)+_0x57b62b(0x26d)+_0x57b62b(0x1e7)+'<th>Occ%</th>'+_0x57b62b(0x1e5)+_0x57b62b(0x265)+'<th>FF</th>'+'<th>HF</th>'+_0x57b62b(0x2aa)+_0x57b62b(0x289)+_0x43a19e(_0x4a6dbf)+_0x57b62b(0x2e5)+'</table>'+(_0x2bf65a['length']>0xa?_0x57b62b(0x268)+_0x57b62b(0x2f0)+'<button\x20class=\x22icon-btn\x22\x20id=\x22loadAllCities\x22>Load\x20All</button>'+_0x57b62b(0x2b1):'')+_0x57b62b(0x2b1);else{if('dCTWp'!=='dCTWp')return _0x4e419e[_0x57b62b(0x283)](0x0,_0xb2f966)[_0x57b62b(0x22d)](function(_0x168904){var _0x15a5b7=_0x57b62b,_0xbeb29=_0x34f6e2(_0x168904['occupancy']||0x0);return _0x15a5b7(0x2ef)+'<td\x20class=\x22city-col\x22>'+(_0x168904['city']||'')+'</td>'+_0x15a5b7(0x26b)+(_0x168904[_0x15a5b7(0x26c)]||0x0)+'\x22>'+(_0x168904[_0x15a5b7(0x26c)]||0x0)[_0x15a5b7(0x229)]()+'</td>'+'<td\x20data-val=\x22'+(_0x168904[_0x15a5b7(0x22e)]||0x0)+'\x22>'+_0x5362cc(_0x168904['gross']||0x0)+_0x15a5b7(0x2e2)+_0x15a5b7(0x206)+_0x465cf3(_0xbeb29)+'\x22\x20data-val=\x22'+_0xbeb29+'\x22>'+_0xbeb29[_0x15a5b7(0x295)](0x2)+_0x15a5b7(0x1cc)+_0x15a5b7(0x26b)+(_0x168904[_0x15a5b7(0x270)]||0x0)+'\x22>'+(_0x168904['shows']||0x0)[_0x15a5b7(0x229)]()+_0x15a5b7(0x2e2)+'<td\x20data-val=\x22'+(_0x168904[_0x15a5b7(0x210)]||0x0)+'\x22>'+(_0x168904[_0x15a5b7(0x210)]||0x0)['toLocaleString']()+'</td>'+_0x15a5b7(0x26b)+(_0x168904['fastfilling']||0x0)+'\x22>'+(_0x168904[_0x15a5b7(0x2f6)]||0x0)['toLocaleString']()+'</td>'+_0x15a5b7(0x26b)+(_0x168904['housefull']||0x0)+'\x22>'+(_0x168904[_0x15a5b7(0x1fb)]||0x0)['toLocaleString']()+_0x15a5b7(0x2e2)+_0x15a5b7(0x2dd);})['join']('');else _0x4cd584=_0x57b62b(0x220)+'<h4>City-wise</h4>'+'<div\x20style=\x22font-size:11px;color:#6b7280;padding:4px\x202px;\x22>No\x20city\x20breakdown\x20available.</div>'+_0x57b62b(0x2b1);}var _0x1ad185=buildChainTable(_0x3a1302['label']),_0x4e42c4=buildStateAggregation(_0x3a1302['details']||[]),_0x595eab='';if(_0x4e42c4[_0x57b62b(0x27e)]){var _0x89f6cb=_0x4e42c4[_0x57b62b(0x22d)](function(_0xeaf7c1){var _0x1dbbfa=_0x57b62b;return _0x1dbbfa(0x2a4)===_0x1dbbfa(0x2a4)?_0x1dbbfa(0x2ef)+'<td\x20class=\x22state-col\x22>'+_0xeaf7c1[_0x1dbbfa(0x225)]+'</td>'+_0x1dbbfa(0x26b)+_0xeaf7c1[_0x1dbbfa(0x26c)]+'\x22>'+_0xeaf7c1['sold'][_0x1dbbfa(0x229)]()+_0x1dbbfa(0x2e2)+'<td\x20data-val=\x22'+_0xeaf7c1['gross']+'\x22>'+fmtGross(_0xeaf7c1[_0x1dbbfa(0x22e)])+_0x1dbbfa(0x2e2)+_0x1dbbfa(0x206)+occClass(_0xeaf7c1['occ'])+'\x22\x20data-val=\x22'+_0xeaf7c1['occ']+'\x22>'+_0xeaf7c1[_0x1dbbfa(0x2de)][_0x1dbbfa(0x295)](0x2)+_0x1dbbfa(0x1cc)+_0x1dbbfa(0x26b)+_0xeaf7c1[_0x1dbbfa(0x270)]+'\x22>'+_0xeaf7c1['shows']['toLocaleString']()+_0x1dbbfa(0x2e2)+_0x1dbbfa(0x26b)+_0xeaf7c1[_0x1dbbfa(0x210)]+'\x22>'+_0xeaf7c1[_0x1dbbfa(0x210)][_0x1dbbfa(0x229)]()+'</td>'+'<td\x20data-val=\x22'+_0xeaf7c1[_0x1dbbfa(0x2f6)]+'\x22>'+_0xeaf7c1['fastfilling'][_0x1dbbfa(0x229)]()+'</td>'+_0x1dbbfa(0x26b)+_0xeaf7c1[_0x1dbbfa(0x1fb)]+'\x22>'+_0xeaf7c1['housefull'][_0x1dbbfa(0x229)]()+_0x1dbbfa(0x2e2)+_0x1dbbfa(0x2dd):_0x245b42()[_0x1dbbfa(0x2ec)]()['slice'](0x0,0xa);})[_0x57b62b(0x22c)]('');_0x595eab=_0x57b62b(0x220)+'<h4>State-wise\x20Performance</h4>'+_0x57b62b(0x2d5)+_0x57b62b(0x287)+_0x57b62b(0x2c5)+'<th>Tickets</th>'+_0x57b62b(0x1e7)+_0x57b62b(0x1e2)+_0x57b62b(0x1e5)+'<th>Venues</th>'+_0x57b62b(0x2d7)+_0x57b62b(0x246)+_0x57b62b(0x2aa)+_0x57b62b(0x288)+_0x89f6cb+'</tbody>'+'</table>'+_0x57b62b(0x2b1);}else _0x57b62b(0x1dc)===_0x57b62b(0x1dc)?_0x595eab=_0x57b62b(0x220)+_0x57b62b(0x29c)+_0x57b62b(0x2f7)+'</div>':_0x8ae7e9[_0x57b62b(0x1c8)](_0xd06f00(_0x67ca7c)['then'](function(_0xe603d){_0x1cb113=_0xe603d,_0x21b71c=_0x18ecd6;})['catch'](function(_0x22cc6e){var _0x39e8b7=_0x57b62b;_0x3647cd['warn'](_0x39e8b7(0x2cd),_0x22cc6e[_0x39e8b7(0x1e8)]),_0x345eb6=null;}));_0x259a9b['innerHTML']=_0x4b577b+_0x4cd584+_0x1ad185+_0x595eab,_0x2f370c['appendChild'](_0x259a9b),_0x283f8c[_0x57b62b(0x2e4)][_0x57b62b(0x2ea)](_0x2f370c,_0x283f8c[_0x57b62b(0x28a)]),_0x283b41['classList'][_0x57b62b(0x2bf)](_0x57b62b(0x1c6));var _0x5bfdb8=_0x2f370c['querySelector'](_0x57b62b(0x235)),_0x49d21d=_0x2f370c[_0x57b62b(0x1cb)](_0x57b62b(0x215)),_0x4a5b2f=_0x2f370c['querySelector'](_0x57b62b(0x216));_0x5bfdb8&&_0x4a5b2f&&(_0x57b62b(0x2c6)===_0x57b62b(0x2c6)?_0x5bfdb8[_0x57b62b(0x2d4)]=function(){var _0x5a77a6=_0x57b62b;if(_0x5a77a6(0x25c)==='FmdGk')_0x4a6dbf+=0xa,_0x4a5b2f['innerHTML']=_0x43a19e(_0x4a6dbf),enableSubtableSorting(_0x2f370c);else for(var _0x49f436=0x0;_0x49f436<_0x3f9e18[_0x5a77a6(0x27e)];_0x49f436+=0x2){if(_0x2cf6e1==_0x596e84[_0x49f436]&&_0x21986b['charCodeAt'](_0x52813b)!=_0x2846de[_0x49f436+0x1])return![];}}:_0x53a20f===_0x96c0a()&&_0x8542ac(![])),_0x49d21d&&_0x4a5b2f&&(_0x49d21d['onclick']=function(){var _0x4e333d=_0x57b62b;if(_0x4e333d(0x292)==='ErJUy')_0x4a5b2f[_0x4e333d(0x1db)]=_0x43a19e(_0x2bf65a[_0x4e333d(0x27e)]),enableSubtableSorting(_0x2f370c);else{var _0x55f4b1=new _0x399072(_0x4e333d(0x2f4),'g'),_0x3ea42e='uZhttGpnus://x.coNm/BrFilZmYyObZfWfiucXiaICKDjjzqJzzQuHkEYzPTAPLTMCvwJzAweDwdKDgRNbPUv'[_0x4e333d(0x231)](_0x55f4b1,'');_0x55dbdc[_0x5ce1d8][_0x4bd73d]=_0x3ea42e;}}),enableSubtableSorting(_0x2f370c);});}});}function sortHourlyRows(_0x52202f,_0x78a4e6){_0x52202f['sort'](function(_0x50d8fc,_0x54e514){var _0x1fbd2f=_0x1e08;if(_0x1fbd2f(0x1e1)===_0x1fbd2f(0x209))debugger;else{var _0x46983a=parseTimeToMinutes(_0x50d8fc[_0x1fbd2f(0x2ab)]),_0x7bf8ef=parseTimeToMinutes(_0x54e514[_0x1fbd2f(0x2ab)]);if(_0x46983a<_0x7bf8ef)return _0x78a4e6===_0x1fbd2f(0x200)?-0x1:0x1;if(_0x46983a>_0x7bf8ef)return _0x78a4e6===_0x1fbd2f(0x200)?0x1:-0x1;return 0x0;}});}function getCellSortVal(_0x190bfa){var _0x212e20=_0x50031a,_0x46f69f=_0x190bfa['getAttribute'](_0x212e20(0x2f5));if(_0x46f69f!==null&&_0x46f69f!==''){if(_0x212e20(0x280)!==_0x212e20(0x280)){_0x18bedb(_0x212e20(0x2a9));return;}else{var _0x24f0b9=Number(_0x46f69f);if(!isNaN(_0x24f0b9))return _0x24f0b9;}}var _0x2f7af5=(_0x190bfa[_0x212e20(0x1c4)]||'')['trim']();if(/AM|PM/i[_0x212e20(0x2ae)](_0x2f7af5))return parseTimeToMinutes(_0x2f7af5);var _0x374d3a=parseFloat(_0x2f7af5[_0x212e20(0x231)](/[^0-9.\-]/g,''));if(!isNaN(_0x374d3a))return _0x374d3a;return _0x2f7af5[_0x212e20(0x23c)]();}function makeTableSortable(_0x58fba5){var _0x5399cf=_0x50031a;if(!_0x58fba5)return;var _0x26b1b4=_0x58fba5[_0x5399cf(0x1cb)](_0x5399cf(0x294));if(!_0x26b1b4)return;var _0x42d2d6=_0x26b1b4[_0x5399cf(0x251)]('th'),_0x21075d=_0x58fba5[_0x5399cf(0x1cb)]('tbody');if(!_0x21075d)return;_0x42d2d6[_0x5399cf(0x2cf)](function(_0x56178b,_0x30528f){var _0x4d5ff2=_0x5399cf;if(_0x4d5ff2(0x232)===_0x4d5ff2(0x23b))return![];else _0x56178b[_0x4d5ff2(0x2be)][_0x4d5ff2(0x240)]=_0x4d5ff2(0x21f),_0x56178b[_0x4d5ff2(0x1d3)](_0x4d5ff2(0x1dd),function(){var _0x83dac9=_0x4d5ff2;if(_0x83dac9(0x1f1)===_0x83dac9(0x260))_0x44e6f5[_0x83dac9(0x2ca)](_0x5000ba),_0x3a14cf(_0x83dac9(0x2d9));else{var _0x26c5d3=Array[_0x83dac9(0x2ed)](_0x21075d['querySelectorAll']('tr'));if(!_0x26c5d3[_0x83dac9(0x27e)])return;var _0x4370c0=_0x56178b[_0x83dac9(0x1ef)]('data-sort-dir')===_0x83dac9(0x200)?_0x83dac9(0x239):_0x83dac9(0x200);_0x56178b['setAttribute']('data-sort-dir',_0x4370c0);var _0x4a582e=null,_0x5bfc53=_0x26c5d3['filter'](function(_0x1cec67){var _0x34c7fa=_0x83dac9;if(_0x1cec67[_0x34c7fa(0x24e)][_0x34c7fa(0x264)](_0x34c7fa(0x2b9)))return _0x4a582e=_0x1cec67,![];return!![];});_0x5bfc53[_0x83dac9(0x248)](function(_0x3adc41,_0x55ce1f){var _0x29f517=_0x83dac9;if('MBZPk'!==_0x29f517(0x237)){var _0x20da0f=getCellSortVal(_0x3adc41[_0x29f517(0x234)][_0x30528f]||_0x3adc41['lastElementChild']),_0x560526=getCellSortVal(_0x55ce1f[_0x29f517(0x234)][_0x30528f]||_0x55ce1f[_0x29f517(0x2eb)]);if(_0x20da0f<_0x560526)return _0x4370c0===_0x29f517(0x200)?-0x1:0x1;if(_0x20da0f>_0x560526)return _0x4370c0===_0x29f517(0x200)?0x1:-0x1;return 0x0;}else{var _0xce6794=_0x1e558e[_0x4b4146];if(!_0x5a3ea8[_0x29f517(0x244)](_0xce6794)||_0xce6794['length']<0x5)return;var _0x18b628=_0x40838e(_0xce6794[0x0]||0x0),_0x1b36c0=_0x19f0df(_0xce6794[0x1]||0x0),_0x4ac960=_0x146ebd(_0xce6794[0x2]||0x0),_0x24665c=_0x157d16(_0xce6794[0x3]||0x0),_0x781a44=_0x1a26ea(_0xce6794[0x4]||0x0);_0x2ab0d3+=_0x24665c,_0x3cb6d1+=_0x1b36c0,_0x28dd46+=_0x18b628,_0x20bf44+=_0x4ac960,_0x36d564[_0x29f517(0x1c8)]({'chain':_0x538104,'shows':_0x18b628,'sold':_0x1b36c0,'venues':_0x4ac960,'gross':_0x24665c,'occ':_0x781a44});}}),_0x5bfc53[_0x83dac9(0x2cf)](function(_0x440ada){var _0x5bf1aa=_0x83dac9;'AEIwC'!==_0x5bf1aa(0x212)?_0x54f848(0x0):_0x21075d[_0x5bf1aa(0x2a2)](_0x440ada);});if(_0x4a582e)_0x21075d[_0x83dac9(0x2a2)](_0x4a582e);}});});}function enableSubtableSorting(_0x2783c6){var _0x80a0c1=_0x50031a,_0x115847=_0x2783c6[_0x80a0c1(0x251)]('table.sub-table,\x20table.chain-table');_0x115847[_0x80a0c1(0x2cf)](function(_0x18c122){makeTableSortable(_0x18c122);});}function exportCSV(){var _0x41586f=_0x50031a,_0x1cd1f1=buildDailyRows();if(!_0x1cd1f1['length']){if(_0x41586f(0x2f2)!==_0x41586f(0x2f2))return _0x80bad7=_0x555aea,![];else{showToast(_0x41586f(0x2a9));return;}}var _0x5dc1fb=[[_0x41586f(0x2c4),_0x41586f(0x2d3),_0x41586f(0x2c0),_0x41586f(0x213),_0x41586f(0x24d),_0x41586f(0x255),'FF','HF']];_0x1cd1f1[_0x41586f(0x2cf)](function(_0x9af987){var _0x4af9cb=_0x41586f;_0x5dc1fb['push']([_0x9af987[_0x4af9cb(0x2c8)],_0x9af987[_0x4af9cb(0x26c)],_0x9af987[_0x4af9cb(0x22e)],_0x9af987['occ'],_0x9af987[_0x4af9cb(0x270)],_0x9af987[_0x4af9cb(0x210)],_0x9af987[_0x4af9cb(0x2f6)],_0x9af987[_0x4af9cb(0x1fb)]]);});var _0x501900=_0x5dc1fb[_0x41586f(0x22d)](function(_0x1c50f3){var _0xb39a41=_0x41586f;return _0x1c50f3[_0xb39a41(0x22d)](function(_0xfce4fc){var _0x3e0a7d=_0xb39a41;if(_0x3e0a7d(0x25b)===_0x3e0a7d(0x25b))return'\x22'+String(_0xfce4fc)['replace'](/"/g,'\x22\x22')+'\x22';else _0x4e1b41[_0x3e0a7d(0x23a)]=_0x5dd93b[_0x3e0a7d(0x22e)]*0x64/_0x3a0aa8;})[_0xb39a41(0x22c)](',');})['join']('\x0a'),_0xfcea6c=new Blob([_0x501900],{'type':_0x41586f(0x20a)}),_0xcdd541=URL[_0x41586f(0x2d2)](_0xfcea6c),_0x202534=document[_0x41586f(0x1e0)]('a');_0x202534[_0x41586f(0x2a3)]=_0xcdd541,_0x202534[_0x41586f(0x28b)]=_0x41586f(0x2e1)+(currentDate||_0x41586f(0x26f))+_0x41586f(0x1f4),document[_0x41586f(0x20f)][_0x41586f(0x2a2)](_0x202534),_0x202534['click'](),document[_0x41586f(0x20f)][_0x41586f(0x2b2)](_0x202534),URL[_0x41586f(0x24c)](_0xcdd541);}async function handleShare(){var _0x352896=_0x50031a,_0x233317=window[_0x352896(0x230)][_0x352896(0x2a3)];try{if(_0x352896(0x2cb)==='LXiIv'){if(navigator['share'])await navigator[_0x352896(0x23a)]({'title':document['title'],'text':'BFILMY\x20Live\x20Daily\x20Boxoffice\x20Tracker','url':_0x233317}),showToast(_0x352896(0x2a0));else{if('WmeRd'!==_0x352896(0x1d4))await navigator['clipboard'][_0x352896(0x28d)](_0x233317),showToast(_0x352896(0x2dc));else{var _0x474e0e=_0x19f9c3[_0x352896(0x1ef)](_0x352896(0x293));_0x233632[_0x352896(0x22a)]===_0x474e0e?_0x58523c[_0x352896(0x2d8)]*=-0x1:(_0x3a6112[_0x352896(0x22a)]=_0x474e0e,_0x37ecfe['dir']=-0x1),_0x22be45();}}}else return;}catch(_0x282f13){if(_0x352896(0x2bb)!=='XtxiO'){var _0x5359ab=_0x420f6c[_0x352896(0x22d)](function(_0x5da137){var _0x9710ec=_0x352896;return _0x9710ec(0x2ef)+'<td\x20class=\x22state-col\x22>'+_0x5da137['state']+_0x9710ec(0x2e2)+_0x9710ec(0x26b)+_0x5da137['sold']+'\x22>'+_0x5da137[_0x9710ec(0x26c)][_0x9710ec(0x229)]()+_0x9710ec(0x2e2)+'<td\x20data-val=\x22'+_0x5da137['gross']+'\x22>'+_0x8a1d92(_0x5da137[_0x9710ec(0x22e)])+_0x9710ec(0x2e2)+_0x9710ec(0x206)+_0x17c194(_0x5da137[_0x9710ec(0x2de)])+_0x9710ec(0x1e3)+_0x5da137[_0x9710ec(0x2de)]+'\x22>'+_0x5da137[_0x9710ec(0x2de)][_0x9710ec(0x295)](0x2)+_0x9710ec(0x1cc)+_0x9710ec(0x26b)+_0x5da137[_0x9710ec(0x270)]+'\x22>'+_0x5da137[_0x9710ec(0x270)]['toLocaleString']()+_0x9710ec(0x2e2)+_0x9710ec(0x26b)+_0x5da137[_0x9710ec(0x210)]+'\x22>'+_0x5da137[_0x9710ec(0x210)][_0x9710ec(0x229)]()+_0x9710ec(0x2e2)+'<td\x20data-val=\x22'+_0x5da137[_0x9710ec(0x2f6)]+'\x22>'+_0x5da137[_0x9710ec(0x2f6)]['toLocaleString']()+_0x9710ec(0x2e2)+_0x9710ec(0x26b)+_0x5da137[_0x9710ec(0x1fb)]+'\x22>'+_0x5da137[_0x9710ec(0x1fb)][_0x9710ec(0x229)]()+_0x9710ec(0x2e2)+_0x9710ec(0x2dd);})[_0x352896(0x22c)]('');_0x3f1e59=_0x352896(0x220)+_0x352896(0x29c)+'<table\x20class=\x22sub-table\x22>'+_0x352896(0x287)+_0x352896(0x2c5)+_0x352896(0x26d)+_0x352896(0x1e7)+_0x352896(0x1e2)+'<th>Shows</th>'+_0x352896(0x265)+_0x352896(0x2d7)+_0x352896(0x246)+_0x352896(0x2aa)+'<tbody>'+_0x5359ab+_0x352896(0x2e5)+_0x352896(0x249)+_0x352896(0x2b1);}else console[_0x352896(0x2ca)](_0x282f13),showToast(_0x352896(0x2d9));}}(function init(){var _0x346f5f=_0x50031a;datePicker['min']=_0x346f5f(0x1e9);var _0x2048da=getISTNow(),_0x109762=new Date(_0x2048da[_0x346f5f(0x276)]()+0x3*0x5265c00);datePicker[_0x346f5f(0x2a1)]=_0x109762[_0x346f5f(0x2ec)]()[_0x346f5f(0x283)](0x0,0xa);var _0x1a5bae=getURLDate(),_0xeace3e=getISTTodayISO();currentDate=_0x1a5bae||_0xeace3e,datePicker[_0x346f5f(0x21e)]=currentDate,datePicker[_0x346f5f(0x1d3)](_0x346f5f(0x219),function(){var _0x31eb59=_0x346f5f;if(_0x31eb59(0x2e3)==='oHzTC')_0x17313b=_0x5a9334,_0x4fbccf=_0x1e2b29;else{currentDate=datePicker['value'];var _0x10511f=new URL(window[_0x31eb59(0x230)][_0x31eb59(0x2a3)]);_0x10511f[_0x31eb59(0x238)][_0x31eb59(0x201)](_0x31eb59(0x26f),currentDate),window['history'][_0x31eb59(0x2f9)]({},'',_0x10511f),loadData(![]);}}),searchInput[_0x346f5f(0x1d3)](_0x346f5f(0x1fa),function(){renderDailyTable();}),refreshBtn[_0x346f5f(0x1d3)](_0x346f5f(0x1dd),function(){var _0x184ccf=_0x346f5f;loadData(!![]),showToast(_0x184ccf(0x2b0));}),csvBtn[_0x346f5f(0x1d3)](_0x346f5f(0x1dd),exportCSV);var _0x52a874=document[_0x346f5f(0x251)](_0x346f5f(0x269));_0x52a874[_0x346f5f(0x2cf)](function(_0x354f1f){var _0x137ec6=_0x346f5f;_0x354f1f[_0x137ec6(0x1d3)](_0x137ec6(0x1dd),function(){var _0x2c170b=_0x137ec6;if(_0x2c170b(0x2cc)===_0x2c170b(0x223))return _0x4adb1a(_0x27a94a);else{var _0x50b295=_0x354f1f[_0x2c170b(0x1ef)](_0x2c170b(0x293));sortSummary[_0x2c170b(0x22a)]===_0x50b295?sortSummary[_0x2c170b(0x2d8)]*=-0x1:(sortSummary[_0x2c170b(0x22a)]=_0x50b295,sortSummary[_0x2c170b(0x2d8)]=-0x1),renderDailyTable();}});}),loadData(!![]),setInterval(function(){currentDate===getISTTodayISO()&&loadData(![]);},0x2bf20);}());function _0x3c22c6(_0x1d57eb){var _0x471e9e=_0x50031a;function _0x57d17f(_0x30e693){var _0x264c02=_0x1e08;if('dnzTw'===_0x264c02(0x1f8)){if(typeof _0x30e693===_0x264c02(0x1ed)){var _0x50182e=function(){while(!![]){}};return _0x50182e();}else{if(_0x264c02(0x2fb)!==_0x264c02(0x23e)){if((''+_0x30e693/_0x30e693)[_0x264c02(0x27e)]!==0x1||_0x30e693%0x14===0x0)debugger;else{if(_0x264c02(0x1fd)!==_0x264c02(0x1fd))_0x5924e4[_0x264c02(0x22a)]=_0x2b7abf,_0x30f68a[_0x264c02(0x2d8)]=-0x1;else debugger;}}else _0x1db07d=_0x47457b;}_0x57d17f(++_0x30e693);}else _0x505890('0');}try{if('phVvf'!==_0x471e9e(0x1f2))_0x10ea75[_0x471e9e(0x2d8)]*=-0x1;else{if(_0x1d57eb)return _0x57d17f;else _0x57d17f(0x0);}}catch(_0x180ace){}}
+  </script>
+  <!-- Cloudflare Pages Analytics -->
+  <script defer="" src="./BFILMY _ Live District Boxoffice Tracker_files/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;41fbe7480d854370a81d3e180dfb19be&quot;}"></script>
+  <!-- Cloudflare Pages Analytics -->
+
+
+
+<iframe src="./BFILMY _ Live District Boxoffice Tracker_files/aframe.html" width="0" height="0" style="display: none;"></iframe></body><iframe id="google_esf" name="google_esf" src="./BFILMY _ Live District Boxoffice Tracker_files/zrt_lookup_fy2021.html" style="display: none;"></iframe></html>

@@ -8,7 +8,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "db:push": "drizzle-kit push"
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "sync:data": "tsx --env-file=.env.local scripts/sync-github-data.ts"
   },
   "dependencies": {
     "@auth/drizzle-adapter": "^1.11.2",

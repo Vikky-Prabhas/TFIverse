@@ -7,9 +7,9 @@ import { movies } from '../src/lib/schema/content';
 import { realtimeSessions, hourlyTrendingLogs } from '../src/lib/schema/tracking';
 import { eq, or, sql } from 'drizzle-orm';
 
-const MOVIES_DATA_URL = 'https://raw.githubusercontent.com/TFIverse/tfiverse-data-engine/main/data/movies.json';
-const BMS_DATA_URL = 'https://raw.githubusercontent.com/TFIverse/tfiverse-data-engine/main/data/latest_bms_data.json';
-const PAYTM_DATA_URL = 'https://raw.githubusercontent.com/TFIverse/tfiverse-data-engine/main/data/latest_paytm_data.json';
+const MOVIES_DATA_URL = 'file:///home/pepper-salt/.gemini/antigravity-ide/scratch/tfiverse-data-engine/data/movies.json';
+const BMS_DATA_URL = 'file:///home/pepper-salt/.gemini/antigravity-ide/scratch/tfiverse-data-engine/data/latest_bms_data.json';
+const PAYTM_DATA_URL = 'file:///home/pepper-salt/.gemini/antigravity-ide/scratch/tfiverse-data-engine/data/latest_paytm_data.json';
 
 function cleanMovieTitle(title: string): string {
     return title.replace(/\[.*?\]/g, '').replace(/\(.*?\)/g, '').replace(/\s+/g, ' ').trim();
@@ -106,12 +106,13 @@ async function syncBoxOfficeData() {
     const missingMoviesMap = new Map<string, string>();
     
     for (const session of finalSessions) {
-        const title = cleanMovieTitle(session.rawTitle);
-        const match = dbMovies.find(m => m.title.toLowerCase().includes(title.toLowerCase()) || title.toLowerCase().includes(m.title.toLowerCase()));
+        // Use the language-aware title (e.g. "Peddi | Telugu") for separation
+        const fullTitle = session.movie;
+        const match = dbMovies.find(m => m.title.toLowerCase() === fullTitle.toLowerCase());
         if (!match) {
-            const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+            const slug = fullTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-');
             if (!missingMoviesMap.has(slug)) {
-                missingMoviesMap.set(slug, title);
+                missingMoviesMap.set(slug, fullTitle);
             }
         }
     }
@@ -145,7 +146,8 @@ async function syncBoxOfficeData() {
     const validRowsMap = new Map<string, any>();
     
     finalSessions.forEach(session => {
-        const dbMovie = dbMovies.find(m => m.title.toLowerCase().includes(cleanMovieTitle(session.rawTitle).toLowerCase()) || session.rawTitle.toLowerCase().includes(m.title.toLowerCase()));
+        const fullTitle = session.movie;
+        const dbMovie = dbMovies.find(m => m.title.toLowerCase() === fullTitle.toLowerCase());
         if (!dbMovie) return;
         
         // Ensure showDate is purely the date part to help UI grouping

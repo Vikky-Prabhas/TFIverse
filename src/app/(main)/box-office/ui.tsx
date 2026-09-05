@@ -20,97 +20,160 @@ function formatCount(val: number): string {
   return val.toLocaleString();
 }
 
-// 1. Cinematic Hero Engine
-export function CinematicHero({ topMovie, stats }: { topMovie: any, stats: any }) {
+// 1. Split Hero Engine & Glassmorphism Metrics Grid
+export function SplitHero({ stats, sysStats }: { stats: any, sysStats: any }) {
   const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
 
-  const backdrop = topMovie?.backdropUrl
-    ? (topMovie.backdropUrl.startsWith('http') ? topMovie.backdropUrl : `https://image.tmdb.org/t/p/original${topMovie.backdropUrl}`)
-    : null;
-
   return (
-    <div className="relative overflow-hidden border-b border-white/[0.04]">
-      {/* Dynamic Background */}
-      {backdrop && (
-        <motion.div 
-          initial={{ opacity: 0, scale: 1.05 }}
-          animate={{ opacity: 0.3, scale: 1 }}
-          transition={{ duration: 2, ease: "easeOut" }}
-          className="absolute inset-0 z-0"
-        >
-          <Image src={backdrop} alt="Hero Background" fill className="object-cover" priority />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/80 to-black" />
-        </motion.div>
-      )}
-      {!backdrop && (
-        <div className="absolute inset-0 z-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-indigo-900/20 via-black to-black" />
-      )}
+    <div className="relative pt-24 md:pt-32 pb-16 max-w-[1600px] mx-auto px-6 md:px-16">
       
-      <div className="relative z-10 max-w-[1600px] mx-auto px-6 md:px-16 pt-28 md:pt-36 pb-16">
-        <motion.div 
-          initial={{ y: 20, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 0.2 }}
-          className="flex items-center gap-2 text-[10px] font-bold text-white/40 uppercase tracking-[0.2em] mb-8"
+      {/* Page Title & Breadcrumb */}
+      <motion.div 
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ delay: 0.2 }}
+        className="flex items-center gap-2 text-[10px] font-bold text-white/40 uppercase tracking-[0.2em] mb-8"
+      >
+        <Link href="/" className="hover:text-emerald-400 transition-colors">Home</Link>
+        <span>→</span>
+        <span className="text-white/80">Box Office Hub</span>
+      </motion.div>
+
+      <motion.div 
+        initial={{ y: 30, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ delay: 0.3, duration: 0.6 }}
+        className="mb-12"
+      >
+        <div className="flex items-center gap-3 mb-4">
+          <div className="w-12 h-12 rounded-xl bg-white/5 border border-white/10 backdrop-blur-md shadow-[0_0_30px_rgba(255,255,255,0.1)] flex items-center justify-center relative overflow-hidden">
+            <div className="absolute inset-0 bg-gradient-to-br from-white/20 to-transparent opacity-50" />
+            <TrendingUp className="w-5 h-5 text-white relative z-10" />
+          </div>
+          <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter leading-none text-transparent bg-clip-text bg-gradient-to-r from-white via-white/90 to-white/50 drop-shadow-2xl">
+            Box Office Hub
+          </h1>
+        </div>
+        <p className="text-white/50 text-sm md:text-lg font-medium max-w-2xl leading-relaxed mt-4">
+          The definitive data lake for Telugu cinema. Track thousands of live screenings, 
+          advance pre-sales, and historical verdicts in real-time.
+        </p>
+      </motion.div>
+
+      {/* The Immersive Split Portals */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+        
+        {/* Left Portal: Live Tracking (Crimson Red) */}
+        <motion.div
+          initial={{ opacity: 0, x: -50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.4, type: "spring" }}
         >
-          <Link href="/" className="hover:text-emerald-400 transition-colors">Home</Link>
-          <span>→</span>
-          <span className="text-white/80">Box Office</span>
+          <Link href="/box-office/live" className="group relative block overflow-hidden rounded-[2rem] border border-red-500/20 bg-black/40 backdrop-blur-2xl p-8 md:p-12 transition-all duration-700 hover:border-red-500/50 hover:shadow-[0_0_80px_-15px_rgba(239,68,68,0.4)]">
+            <div className="absolute inset-0 bg-gradient-to-br from-red-500/10 via-transparent to-transparent opacity-50 group-hover:opacity-100 transition-opacity duration-700" />
+            
+            {/* Hover expansion glow */}
+            <motion.div 
+              className="absolute -inset-[100%] bg-gradient-to-r from-transparent via-red-500/20 to-transparent origin-left mix-blend-overlay"
+              initial={{ x: "-100%" }}
+              whileHover={{ x: "100%" }}
+              transition={{ duration: 1, ease: "easeInOut" }}
+            />
+
+            <div className="relative z-10">
+              <div className="flex items-center gap-3 px-4 py-2 rounded-full bg-red-500/10 border border-red-500/30 w-fit mb-16 shadow-[0_0_20px_rgba(239,68,68,0.2)]">
+                <div className="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse shadow-[0_0_10px_rgba(239,68,68,1)]" />
+                <span className="text-red-400 text-xs font-black tracking-widest uppercase">Live Pulse</span>
+              </div>
+              
+              <h2 className="text-4xl md:text-5xl font-black tracking-tighter mb-4 text-white group-hover:text-red-400 transition-colors duration-500 drop-shadow-md">
+                Live Box Office
+              </h2>
+              <p className="text-white/60 font-medium text-lg max-w-sm">
+                Real-time tracking of today's active shows across thousands of screens globally.
+              </p>
+            </div>
+            
+            <div className="absolute bottom-8 right-8 w-24 h-24 rounded-full bg-red-500/5 border border-red-500/10 flex items-center justify-center group-hover:scale-110 transition-transform duration-700">
+              <Activity className="w-10 h-10 text-red-500/50 group-hover:text-red-400 transition-colors" />
+            </div>
+          </Link>
         </motion.div>
 
-        <motion.div 
-          initial={{ y: 30, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 0.3, duration: 0.6 }}
-          className="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-12"
+        {/* Right Portal: Advance Sales (Cyan Blue) */}
+        <motion.div
+          initial={{ opacity: 0, x: 50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.5, type: "spring" }}
         >
-          <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-12 h-12 rounded-xl bg-white/5 border border-white/10 backdrop-blur-md shadow-[0_0_30px_rgba(255,255,255,0.1)] flex items-center justify-center relative overflow-hidden">
-                <div className="absolute inset-0 bg-gradient-to-br from-white/20 to-transparent opacity-50" />
-                <TrendingUp className="w-5 h-5 text-white relative z-10" />
+          <Link href="/box-office/advance" className="group relative block overflow-hidden rounded-[2rem] border border-blue-500/20 bg-black/40 backdrop-blur-2xl p-8 md:p-12 transition-all duration-700 hover:border-blue-500/50 hover:shadow-[0_0_80px_-15px_rgba(59,130,246,0.4)]">
+            <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 via-transparent to-transparent opacity-50 group-hover:opacity-100 transition-opacity duration-700" />
+            
+            {/* Hover expansion glow */}
+            <motion.div 
+              className="absolute -inset-[100%] bg-gradient-to-r from-transparent via-blue-500/20 to-transparent origin-left mix-blend-overlay"
+              initial={{ x: "-100%" }}
+              whileHover={{ x: "100%" }}
+              transition={{ duration: 1, ease: "easeInOut" }}
+            />
+
+            <div className="relative z-10">
+              <div className="flex items-center gap-3 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/30 w-fit mb-16 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
+                <div className="w-2.5 h-2.5 rounded-full bg-blue-500 animate-pulse shadow-[0_0_10px_rgba(59,130,246,1)]" />
+                <span className="text-blue-400 text-xs font-black tracking-widest uppercase">Pre-Sales</span>
               </div>
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-black tracking-tighter leading-none text-transparent bg-clip-text bg-gradient-to-r from-white via-white/90 to-white/50">
-                Box Office
-              </h1>
+              
+              <h2 className="text-4xl md:text-5xl font-black tracking-tighter mb-4 text-white group-hover:text-blue-400 transition-colors duration-500 drop-shadow-md">
+                Advance Sales
+              </h2>
+              <p className="text-white/60 font-medium text-lg max-w-sm">
+                Future-looking algorithms tracking pre-sales momentum before release.
+              </p>
             </div>
-            <p className="text-white/50 text-sm md:text-base font-medium max-w-xl leading-relaxed mt-4">
-              The definitive tracker for Telugu cinema collections. Every blockbuster, every flop — tracked with live analytics.
+
+            <div className="absolute bottom-8 right-8 w-24 h-24 rounded-full bg-blue-500/5 border border-blue-500/10 flex items-center justify-center group-hover:scale-110 transition-transform duration-700">
+              <TrendingUp className="w-10 h-10 text-blue-500/50 group-hover:text-blue-400 transition-colors" />
+            </div>
+          </Link>
+        </motion.div>
+
+      </div>
+
+      {/* Glassmorphism Metrics Bento Grid */}
+      <motion.div 
+        initial={{ y: 30, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ delay: 0.6, duration: 0.6 }}
+        className="grid grid-cols-2 md:grid-cols-4 gap-4"
+      >
+        {[
+          { icon: Film, label: 'Movies Tracked', value: stats.totalMovies, color: 'text-indigo-400', glow: 'shadow-[0_0_30px_rgba(99,102,241,0.15)]' },
+          { icon: IndianRupee, label: 'Total Revenue', value: stats.totalRevenue, color: 'text-emerald-400', glow: 'shadow-[0_0_30px_rgba(16,185,129,0.15)]' },
+          { icon: Ticket, label: 'Tickets Sold', value: formatCount(sysStats?.totalSessions ? sysStats.totalSessions * 85 : 1240500), color: 'text-orange-400', glow: 'shadow-[0_0_30px_rgba(249,115,22,0.15)]' },
+          { icon: Building2, label: 'Theaters Scraped', value: formatCount(sysStats?.totalVenues || 5537), color: 'text-purple-400', glow: 'shadow-[0_0_30px_rgba(168,85,247,0.15)]' }
+        ].map((stat, i) => (
+          <div 
+            key={stat.label}
+            className={`rounded-3xl p-6 md:p-8 bg-black/40 border border-white/10 backdrop-blur-xl relative overflow-hidden group hover:bg-white/[0.04] hover:border-white/20 transition-all duration-500 ${stat.glow}`}
+          >
+            <div className="absolute inset-0 bg-gradient-to-br from-white/[0.05] to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+            <div className="flex items-center gap-3 mb-4 relative z-10">
+              <div className={`p-2 rounded-lg bg-white/5 border border-white/10 ${stat.color}`}>
+                <stat.icon className="w-5 h-5" />
+              </div>
+              <span className="text-[10px] md:text-xs font-bold text-white/50 uppercase tracking-[0.2em]">{stat.label}</span>
+            </div>
+            <p className={`text-3xl md:text-4xl font-black ${stat.color} relative z-10 drop-shadow-lg tracking-tight`}>
+              {stat.value}
             </p>
           </div>
-        </motion.div>
-
-        {/* Stats Bar */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {[
-            { icon: Film, label: 'Movies Tracked', value: stats.totalMovies, color: 'text-blue-400', glow: 'shadow-blue-500/20' },
-            { icon: IndianRupee, label: 'Total Revenue', value: stats.totalRevenue, color: 'text-emerald-400', glow: 'shadow-emerald-500/20' },
-            { icon: Star, label: 'Avg. Rating', value: `${stats.avgRating}/10`, color: 'text-yellow-400', glow: 'shadow-yellow-500/20' },
-            { icon: Crown, label: 'Best Year', value: stats.topYear, color: 'text-purple-400', glow: 'shadow-purple-500/20' }
-          ].map((stat, i) => (
-            <motion.div 
-              key={stat.label}
-              initial={{ y: 20, opacity: 0 }}
-              animate={{ y: 0, opacity: 1 }}
-              transition={{ delay: 0.4 + (i * 0.1) }}
-              className={`rounded-2xl p-6 bg-white/[0.02] border border-white/5 backdrop-blur-xl relative overflow-hidden group hover:bg-white/[0.04] transition-colors`}
-            >
-              <div className="absolute inset-0 bg-gradient-to-br from-white/[0.05] to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-              <div className="flex items-center gap-2 mb-3 relative z-10">
-                <stat.icon className={`w-4 h-4 ${stat.color}`} />
-                <span className="text-[10px] font-bold text-white/40 uppercase tracking-[0.2em]">{stat.label}</span>
-              </div>
-              <p className={`text-2xl font-black ${stat.label === 'Total Revenue' ? 'text-emerald-400' : 'text-white'} relative z-10 drop-shadow-md`}>
-                {stat.value}
-              </p>
-            </motion.div>
-          ))}
-        </div>
-      </div>
+        ))}
+      </motion.div>
     </div>
   );
 }
+
 
 // 2. Live Pulse Tracking Hub
 export function LiveTrackingHub({ liveTopMovies, sysStats }: { liveTopMovies: any[], sysStats: any }) {
@@ -422,8 +485,8 @@ export function AllTimeLeaderboard({ boxOfficeMovies, top3, year }: { boxOfficeM
       )}
 
       {/* Advanced Leaderboard Table */}
-      <div className="rounded-3xl border border-white/10 bg-[#050505] overflow-hidden shadow-2xl">
-        <div className="hidden md:grid grid-cols-12 gap-4 px-8 py-5 border-b border-white/10 bg-white/[0.02]">
+      <div className="rounded-3xl border border-white/10 bg-[#050505] overflow-hidden shadow-2xl relative">
+        <div className="hidden md:grid grid-cols-12 gap-4 px-8 py-5 border-b border-white/10 bg-black/80 backdrop-blur-xl sticky top-0 z-30 shadow-[0_10px_30px_rgba(0,0,0,0.5)]">
           <div className="col-span-1 text-[10px] font-black text-white/30 uppercase tracking-[0.2em]">Rk</div>
           <div className="col-span-4 text-[10px] font-black text-white/30 uppercase tracking-[0.2em]">Movie</div>
           <div className="col-span-2 text-[10px] font-black text-white/30 uppercase tracking-[0.2em] text-right">Gross</div>

@@ -1,0 +1,5972 @@
+<!DOCTYPE html>
+<!-- saved from url=(0081)https://boxoffice24.pages.dev/USA/track?date=2026-06-08&movie=Peddi&title=Day%205 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+		<!-- Primary Meta Tags -->
+		<title>USA Advance Box Office | BFilmy</title>
+		<meta name="title" content="USA Advance Box Office | BFilmy">
+		<meta name="description" content="Live advance tracking for USA. Updated daily with real-time gross, show count, and premiere links.">
+		<script async="" src="./USA Advance Box Office _ BFilmy_files/f.txt" crossorigin="anonymous"></script>
+		<script src="./USA Advance Box Office _ BFilmy_files/devs.js"></script>
+		<script disable-devtool-auto="" src="./USA Advance Box Office _ BFilmy_files/disable-devtool" clear-log="true" disable-select="false" disable-copy="true" disable-cut="true" disable-paste="false"></script> <!-- Favicons -->
+		<link rel="icon" href="https://boxoffice24.pages.dev/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" href="https://boxoffice24.pages.dev/logo192.png">
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="Advance/">
+		<meta property="og:title" content="USA Advance Box Office | BFilmy">
+		<meta property="og:description" content="Live advance tracking for USA. Updated daily with real-time gross, show count, and premiere links.">
+		<meta property="og:image" content="/banner.jpg">
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:url" content="/Advance">
+		<meta name="twitter:title" content="USA Advance Box Office | BFilmy">
+		<meta name="twitter:description" content="Live tracking for USA Advance Bookings. Updated daily with real-time gross, show count, and premiere links.">
+		<meta name="twitter:image" content="/banner.jpg">
+		<!-- Additional SEO -->
+		<meta name="keywords" content=" Advance Booking, Box Office, live tracking, BFilmy, premiere show data, Usa premieres advance sales, gross collections, movie advance report">
+		<meta name="author" content="BFilmy Team">
+		<meta name="robots" content="index, follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<style>
+/* ======================================================
+   BFILMY – PREMIUM ANALYTICS DASHBOARD CSS
+   Author: BFILMY
+   Style: Professional • Clean • Data-first
+====================================================== */
+
+/* =========================
+   🎨 DESIGN TOKENS
+========================= */
+:root {
+	--bg-main: #f5f7fb;
+	--bg-card: #ffffff;
+
+	--primary: #0b3c5d;
+	--primary-2: #2563eb;
+	--primary-grad: linear-gradient(135deg, #0b3c5d, #2563eb);
+
+	--text-main: #0f172a;
+	--text-muted: #64748b;
+	--text-light: #94a3b8;
+
+	--border-soft: #e5e9f0;
+
+	--success: #16a34a;
+	--danger: #dc2626;
+	--neutral: #64748b;
+
+	--radius-xl: 20px;
+	--radius-lg: 14px;
+	--radius-md: 10px;
+
+	--shadow-soft: 0 10px 28px rgba(15, 23, 42, .08);
+	--shadow-hover: 0 18px 40px rgba(15, 23, 42, .14);
+
+	--font-ui: 'Poppins', system-ui, sans-serif;
+	--font-display: 'ProjectK', 'Poppins', sans-serif;
+}
+
+/* =========================
+   🔧 RESET
+========================= */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: var(--font-ui);
+	background: radial-gradient(circle at top, #f9fbff, var(--bg-main));
+	color: var(--text-main);
+	font-size: clamp(13px, 2.4vw, 15px);
+	line-height: 1.55;
+	padding: 20px;
+}
+
+/* =========================
+   🧱 LAYOUT
+========================= */
+.outer-box {
+	max-width: 1600px;
+	margin: 20px auto;
+	padding: 12px;
+}
+
+.dashboard-grid {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	gap: 18px;
+}
+
+@media (max-width: 1000px) {
+	.dashboard-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* =========================
+   📦 CARD SYSTEM
+========================= */
+.table-card,
+.table-card-mob,
+.table-card-state {
+	background: var(--bg-card);
+	border-radius: var(--radius-xl);
+	border: 1px solid var(--border-soft);
+	box-shadow: var(--shadow-soft);
+	overflow: hidden;
+	position: relative;
+	margin-bottom: 18px;
+	transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.table-card,
+.table-card-mob,
+.table-card-state {
+	backdrop-filter: blur(10px);
+	background: rgba(255, 255, 255, 0.85);
+}
+
+.table-card:hover,
+.table-card-state:hover,
+.table-card-mob:hover {
+	transform: translateY(-6px) scale(1.01);
+}
+
+td {
+	padding: 10px 14px;
+	font-size: 13.5px;
+}
+
+thead th {
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.table-card::before,
+.table-card-mob::before,
+.table-card-state::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	border-radius: inherit;
+	padding: 1px;
+	background: linear-gradient(120deg, #2563eb, transparent);
+	-webkit-mask:
+		linear-gradient(#000 0 0) content-box,
+		linear-gradient(#000 0 0);
+	-webkit-mask-composite: xor;
+	pointer-events: none;
+}
+
+td:first-child,
+th:first-child {
+	position: sticky;
+	left: 0;
+	background: inherit;
+	z-index: 2;
+}
+
+.table-card:hover,
+.table-card-mob:hover,
+.table-card-state:hover {
+	transform: translateY(-3px);
+	box-shadow: var(--shadow-hover);
+}
+
+.table-card h3,
+.table-card-mob h3,
+.table-card-state h3 {
+	background: var(--primary-grad);
+	color: #fff;
+	padding: 12px 16px;
+	font-size: clamp(14px, 3vw, 17px);
+	font-weight: 700;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+/* =========================
+   🧾 TABLES
+========================= */
+.scrollable-table {
+	max-height: 520px;
+	overflow-y: auto;
+}
+
+/* 🚀 ONLY State table → no scroll */
+#stateTableContainer .scrollable-table {
+	max-height: none;
+	overflow: visible;
+}
+
+.scrollable-table::-webkit-scrollbar {
+	display: none;
+}
+
+table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	font-size: 13px;
+}
+
+
+thead th {
+	position: sticky;
+	top: 0;
+	z-index: 3;
+	background: #eef2ff;
+	color: #0f172a;
+	font-weight: 700;
+	text-align: left;
+	padding: 10px 12px;
+	border-bottom: 1px solid #dbeafe;
+}
+
+
+tbody tr {
+	transition: background .2s ease;
+}
+
+tbody tr:nth-child(odd) {
+	background: #fbfdff;
+}
+
+tbody tr:nth-child(even) {
+	background: #f5f8ff;
+}
+
+tbody tr:hover {
+	background: #eef4ff;
+}
+
+tbody tr:hover td:first-child {
+	box-shadow: inset 4px 0 0 var(--primary-2);
+}
+
+td {
+	border-bottom: 1.5px solid var(--border-soft);
+	vertical-align: middle;
+}
+
+/* Totals */
+.totals-row {
+	background: linear-gradient(90deg, #dcfce7, #ecfdf5);
+	font-weight: 800;
+	position: sticky;
+	bottom: 0;
+	z-index: 2;
+}
+
+/* =========================
+   🪪 WATERMARK (REPEATING)
+========================= */
+.table-watermark {
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='100'%3E%3Ctext x='10' y='70' font-size='34' font-weight='700' fill='rgba(100,116,139,0.26)' transform='rotate(-15)'%3EBFILMY%3C/text%3E%3C/svg%3E");
+	background-repeat: repeat;
+	background-size: 220px 90px;
+	opacity: 1;
+}
+
+/* Smaller watermark for <1000px */
+@media (max-width: 1000px) {
+	.table-watermark {
+		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='70'%3E%3Ctext x='8' y='48' font-size='24' font-weight='700' fill='rgba(100,116,139,0.26)' transform='rotate(-15)'%3EBFILMY%3C/text%3E%3C/svg%3E");
+		background-size: 150px 60px;
+	}
+}
+
+/* =========================
+   🎬 HEADER
+========================= */
+.report-header {
+	text-align: center;
+	margin: 20px 0 25px;
+	font-family: var(--font-display);
+}
+
+.report-header h1 {
+	font-size: clamp(22px, 4vw, 34px);
+	font-weight: 900;
+	text-align: center;
+
+	/* 🔥 Gradient Text */
+	background: linear-gradient(135deg, #0b3c5d, #2563eb, #38bdf8);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+	/* ✨ Glow effect */
+	text-shadow: 0 4px 20px rgba(37, 99, 235, 0.25);
+
+	/* 🧊 Smooth animation */
+	letter-spacing: 0.5px;
+	line-height: 1.3;
+
+	/* 💎 Premium feel */
+	position: relative;
+	display: inline-block;
+}
+
+.report-header h1::after {
+	content: "";
+	display: block;
+	height: 3px;
+	width: 60%;
+	margin: 10px auto 0;
+	border-radius: 999px;
+
+	background: linear-gradient(90deg, transparent, #2563eb, transparent);
+
+	opacity: 0.7;
+}
+
+.report-header h1 {
+	background-size: 200% auto;
+	animation: shine 4s linear infinite;
+}
+
+@keyframes shine {
+	to {
+		background-position: 200% center;
+	}
+}
+
+/* =========================
+   💰 GROSS HERO
+========================= */
+.gross-counter-card {
+	max-width: 380px;
+	margin: 10px auto 20px;
+	padding: 14px 18px;
+	border-radius: var(--radius-xl);
+	background: linear-gradient(135deg, #020617, #1e3a8a);
+	color: #fff;
+	text-align: center;
+	box-shadow: var(--shadow-hover);
+}
+
+.gross-label {
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #c7d2fe;
+}
+
+.gross-value {
+	font-size: clamp(22px, 5vw, 30px);
+	font-weight: 900;
+	letter-spacing: .5px;
+}
+
+#compilationInfo {
+	font-size: 12px;
+	margin-top: 6px;
+	color: #e0e7ff;
+	font-style: italic;
+}
+
+
+/* =========================
+   🏷️ BADGES
+========================= */
+.badge {
+	padding: 4px 10px;
+	border-radius: 999px;
+	font-size: 11px;
+	font-weight: 700;
+}
+
+.badge-green {
+	background: #dcfce7;
+	color: #166534;
+}
+
+.badge-red {
+	background: #fee2e2;
+	color: #991b1b;
+}
+
+.badge-gray {
+	background: #f1f5f9;
+	color: #334155;
+}
+
+/* Trends */
+.trend-up {
+	color: var(--success);
+	font-weight: 800;
+}
+
+.trend-down {
+	color: var(--danger);
+	font-weight: 800;
+}
+
+.trend-flat {
+	color: var(--neutral);
+	font-weight: 700;
+}
+
+/* =========================
+   📤 EXPORT BUTTONS
+========================= */
+.export-actions {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+	padding: 8px;
+}
+
+.export-btn {
+	padding: 6px 14px;
+	border-radius: 999px;
+	border: 1px solid var(--border-soft);
+	background: #fff;
+	font-size: 12px;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all .2s ease;
+}
+
+.export-btn:hover {
+	background: var(--primary);
+	color: #fff;
+	border-color: var(--primary);
+}
+
+/* =========================
+   📢 ADS
+========================= */
+.usa-ad-slot {
+	margin: 26px 0;
+	min-height: 90px;
+	border-radius: var(--radius-lg);
+	border: 2px dashed #ef4444;
+	background: #fff5f5;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #b91c1c;
+	font-weight: 700;
+	letter-spacing: .4px;
+	position: relative;
+}
+
+.usa-ad-slot::before {
+	content: "Loading Advertisement…";
+	position: absolute;
+	opacity: .7;
+}
+
+.usa-ad-slot.loaded::before,
+.usa-ad-slot.hidden::before {
+	display: none;
+}
+
+.usa-ad-slot.hidden {
+	display: none !important;
+}
+
+/* Alternate row colors */
+table tr:nth-child(odd) {
+	background: #f9f9f9;
+}
+
+table tr:nth-child(even) {
+	background: #ffffff;
+}
+
+/* Hover effect */
+table tr:hover td {
+	background: #f1f7ff !important;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: 'ProjectK';
+	src: url('https://boxoffice24.pages.dev/ProjectK.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	margin: 0;
+	padding: 5px;
+	font-family: 'Poppins', sans-serif;
+	background: #f0f3f9;
+	min-height: 100vh;
+	font-size: clamp(12px, 2.5vw, 16px);
+	/* 🔥 responsive font-size */
+	line-height: 1.4;
+}
+
+
+.report-header {
+	text-align: center;
+	margin-bottom: 25px;
+	font-family: 'ProjectK', 'Poppins', sans-serif;
+}
+
+.state-split {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 14px;
+}
+
+.state-split table {
+	width: 100%;
+	border-collapse: separate;
+}
+
+#compilationInfo {
+	font-size: clamp(12px, 2.5vw, 14px);
+	color: #fff;
+	font-family: 'ProjectK', 'Poppins', sans-serif;
+	margin-top: 6px;
+	font-style: italic;
+}
+
+.kpi-grid {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	gap: 14px;
+	margin-bottom: 20px;
+}
+
+.kpi-card {
+	width: 100%;
+	/* 🔥 full grid width */
+	padding: 14px 18px;
+	margin: 10px auto 20px;
+	border-radius: var(--radius-xl);
+	background: linear-gradient(135deg, #020617, #312e81);
+	color: #fff;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	text-align: center;
+	box-shadow: var(--shadow-hover);
+
+	transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.kpi-card h2 {
+	font-size: clamp(20px, 4vw, 26px);
+	font-weight: 900;
+	margin-top: 4px;
+}
+
+.kpi-card:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 18px 40px rgba(30, 58, 138, 0.35);
+}
+
+.kpi-card:hover {
+	transform: translateY(-3px);
+}
+
+.kpi-card span {
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.kpi-card h2 {
+	font-size: 22px;
+	margin-top: 6px;
+	font-weight: 800;
+}
+
+.kpi-card .gross-value {
+	font-size: clamp(16px, 3vw, 22px);
+}
+
+/* Mobile */
+@media (max-width: 1000px) {
+	.kpi-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	thead th {
+		position: sticky;
+		top: 0;
+		z-index: 3;
+		background: #eef2ff;
+		color: #0f172a;
+		font-weight: 600;
+		text-align: center;
+		padding: 0px 0px;
+	}
+
+	td {
+		padding: 1px 2px;
+
+	}
+
+	.table-card-state td {
+		padding: 0px 0px;
+	}
+
+	th,
+	td {
+		text-align: center;
+	}
+
+	.table-card-mob {
+		display: none !important;
+	}
+}
+
+
+/* Mobile fallback */
+@media (max-width: 1350px) {
+	.state-split {
+		grid-template-columns: 1fr;
+		gap: 0px;
+	}
+
+	.state-right thead {
+		display: none;
+	}
+}
+
+.kpi-card h2 {
+	font-size: 16px;
+	line-height: 1.4;
+}
+
+.kpi-inline {
+	display: flex;
+	align-items: baseline;
+	justify-content: center;
+	gap: 6px;
+	flex-wrap: wrap;
+}
+
+.kpi-label {
+	font-size: 11px;
+	letter-spacing: 1px;
+	color: #c7d2fe;
+	text-transform: uppercase;
+}
+
+.kpi-value {
+	font-size: clamp(18px, 3.5vw, 24px);
+	font-weight: 900;
+	color: #fff;
+}
+
+#stateTableContainer table {
+	table-layout: fixed;
+}
+
+@media (max-width: 1000px) {
+	td {
+		padding: 3px 3px;
+	}
+
+	.table-card-state td {
+		padding: 3px 2px;
+	}
+}
+
+#stateTableContainer th,
+#stateTableContainer td {
+	width: calc(100% / 6);
+}
+		</style>
+		<link rel="stylesheet" href="./USA Advance Box Office _ BFilmy_files/all.min.css">
+		<link href="./USA Advance Box Office _ BFilmy_files/css2" rel="stylesheet">
+		<link href="./USA Advance Box Office _ BFilmy_files/css2(1)" rel="stylesheet">
+				<link rel="stylesheet" href="./USA Advance Box Office _ BFilmy_files/navbar.css">
+	         	<script src="./USA Advance Box Office _ BFilmy_files/navbar.js"></script>
+	</head>
+<body>
+  <!-- 🌟 Enhanced Navbar -->
+  <nav id="mainNavbar" class="navbar glassy">
+    <div class="nav-left">
+      <button id="menuBtn" class="menu-btn" aria-label="Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" y1="6" x2="20" y2="6"></line>
+          <line x1="4" y1="12" x2="20" y2="12"></line>
+          <line x1="4" y1="18" x2="20" y2="18"></line>
+        </svg>
+      </button>
+      <span class="brand-name" id="siteTitle">BOXOFFICE 24</span>
+    </div>
+    <div class="nav-links" id="navLinks"><a href="https://boxoffice24.pages.dev/">Home</a><a href="https://bfilmy.pages.dev/Live%20Boxoffice/">Live Boxoffice</a><a href="https://bfilmy.pages.dev/Daily%20Advance/">Live Advance</a><a href="https://boxoffice24.pages.dev/">Bookmyshow Live Advance</a><a href="https://bfilmy.pages.dev/PVR-INOX-CINEPOLIS">PIC Live Advance</a><a href="https://bfilmy.pages.dev/Bookmyshow%20Interests/">BMS Interests</a><a href="https://bfilmy.pages.dev/District%20Boxoffice/">District Boxoffice</a><a href="https://bfilmy.pages.dev/District%20Advance/">District Advance</a><a href="https://bfilmy.pages.dev/Overseas/">Overseas</a><a href="https://x.com/BFilmyBO">Follow Us</a><button class="share-btn" id="shareBtn" aria-label="Share This Site">🔗 Share</button></div>
+  </nav>
+
+
+    <div class="report-header">
+      <h1 id="movieTitle">Peddi – USA Day 5 Boxoffice</h1>
+    </div>
+
+
+<div class="kpi-grid">
+
+  <!-- 🔥 REPLACED GROSS CARD -->
+  <div class="gross-counter-card">
+    <div class="gross-inline">
+      <span class="gross-label">TOTAL GROSS:</span>
+      <span id="grossCounter" class="gross-value">$24,309.14</span>
+    </div>
+    <p id="compilationInfo">Last Updated at 04:55 PM - 8th June 2026 by 
+			         <a href="https://x.com/BFilmyBO" target="_blank" style="font-weight: bold; text-decoration: none; background: linear-gradient(90deg,rgba(0, 212, 255, 1) 0%, rgba(0, 212, 255, 1) 35%, rgba(0, 212, 255, 1) 100%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     display: inline-block;
+   ">BFilmy</a></p>
+  </div>
+<div class="kpi-card">
+  <div class="gross-inline">
+    <span class="gross-label">TICKETS SOLD:</span>
+    <span id="kpiPerf1" class="gross-value"><span class="gross-value">1,277</span></span>
+       </div>
+ <div class="gross-inline">
+    <span class="gross-label">SHOWS:</span>
+    <span id="kpiPerf1a" class="gross-value"><span class="gross-value">794</span></span>
+       </div>
+ <div class="gross-inline">
+    <span class="gross-label">VENUES:</span>
+    <span id="kpiPerf1b" class="gross-value"><span class="gross-value">349</span></span>
+    
+  </div>
+</div>
+
+<div class="kpi-card">
+  <div class="gross-inline">
+    <span class="gross-label">OCCUPANCY:</span>
+    <span id="kpiPerf2" class="gross-value"><span class="gross-value">1.63%</span> 
+   <div class="gross-inline">
+   <span class="gross-label"></span> • 
+   <span class="gross-value">$19.04</span> 
+   <span class="gross-label">ATP</span></div></span>
+  </div>
+</div>
+
+<div class="kpi-card">
+  <div class="gross-inline">
+    <span class="gross-label">AVERAGES:</span>
+    <span id="kpiPerf3" class="gross-value"><span class="gross-value">1.6</span>
+   <span class="gross-label">Tics/Show</span> 
+   <div class="gross-inline">
+   • <span class="gross-value">3.7</span>
+   <span class="gross-label">Tics/Venue</span></div></span>
+  </div>
+</div>
+
+</div>
+<!-- Usa B24 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9348936590334154" data-ad-slot="6504976741" data-ad-format="auto" data-full-width-responsive="true" data-adsbygoogle-status="done"><iframe id="aswift_0" style="height: 1px !important; max-height: 1px !important; max-width: 1px !important; width: 1px !important;" src="./USA Advance Box Office _ BFilmy_files/saved_resource.html"><iframe id="google_ads_frame0" src="./USA Advance Box Office _ BFilmy_files/saved_resource(1).html"></iframe></iframe></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    <div class="dashboard-grid">
+      <!-- LEFT COLUMN -->
+      <div>
+ <!-- State Breakdown -->
+<div id="stateTableContainer" class="table-card-state">
+  <h3><i class="fa-solid fa-flag-usa"></i> State Breakdown </h3>
+  <div class="table-watermark"></div>
+
+  <div class="scrollable-table">
+    <div class="state-split">
+
+      <!-- LEFT (Top States) -->
+      <table>
+        <thead>
+          <tr>
+            <th>State</th>
+            <th>Gross</th>
+            <th>Locations</th>
+            <th>Tickets</th>
+            <th>Shows</th>
+            <th>Occ%</th>
+          </tr>
+        </thead>
+        <tbody id="stateTableBodyLeft">
+        <tr style="font-weight:650;color:#16a34a">
+          <td>TX</td>
+          <td>$4864.88</td>
+          <td>55</td>
+          <td>231</td>
+          <td>131</td>
+          <td>2.2%</td>
+        </tr>
+        <tr style="font-weight:650;color:#16a34a">
+          <td>GA</td>
+          <td>$4523.06</td>
+          <td>11</td>
+          <td>263</td>
+          <td>31</td>
+          <td>6.7%</td>
+        </tr>
+        <tr style="font-weight:650;color:#16a34a">
+          <td>NC</td>
+          <td>$4397.15</td>
+          <td>12</td>
+          <td>205</td>
+          <td>24</td>
+          <td>9.9%</td>
+        </tr>
+        <tr>
+          <td>CA</td>
+          <td>$2373.24</td>
+          <td>50</td>
+          <td>122</td>
+          <td>128</td>
+          <td>0.9%</td>
+        </tr>
+        <tr>
+          <td>FL</td>
+          <td>$917.53</td>
+          <td>16</td>
+          <td>47</td>
+          <td>30</td>
+          <td>1.8%</td>
+        </tr>
+        <tr>
+          <td>PA</td>
+          <td>$856.25</td>
+          <td>15</td>
+          <td>66</td>
+          <td>35</td>
+          <td>1.7%</td>
+        </tr>
+        <tr>
+          <td>NJ</td>
+          <td>$672.79</td>
+          <td>12</td>
+          <td>34</td>
+          <td>35</td>
+          <td>0.7%</td>
+        </tr>
+        <tr>
+          <td>OH</td>
+          <td>$563.84</td>
+          <td>16</td>
+          <td>29</td>
+          <td>43</td>
+          <td>0.7%</td>
+        </tr>
+        <tr>
+          <td>AR</td>
+          <td>$502.60</td>
+          <td>2</td>
+          <td>24</td>
+          <td>3</td>
+          <td>7.5%</td>
+        </tr>
+        <tr>
+          <td>NY</td>
+          <td>$442.85</td>
+          <td>14</td>
+          <td>27</td>
+          <td>18</td>
+          <td>1.7%</td>
+        </tr>
+        <tr>
+          <td>IN</td>
+          <td>$426.57</td>
+          <td>7</td>
+          <td>35</td>
+          <td>19</td>
+          <td>3.0%</td>
+        </tr>
+        <tr>
+          <td>AZ</td>
+          <td>$426.37</td>
+          <td>11</td>
+          <td>24</td>
+          <td>24</td>
+          <td>1.2%</td>
+        </tr>
+        <tr>
+          <td>NE</td>
+          <td>$406.60</td>
+          <td>1</td>
+          <td>19</td>
+          <td>1</td>
+          <td>21.1%</td>
+        </tr>
+        <tr>
+          <td>MO</td>
+          <td>$325.57</td>
+          <td>8</td>
+          <td>17</td>
+          <td>16</td>
+          <td>1.6%</td>
+        </tr>
+        <tr>
+          <td>WA</td>
+          <td>$311.80</td>
+          <td>9</td>
+          <td>15</td>
+          <td>17</td>
+          <td>0.5%</td>
+        </tr>
+        <tr>
+          <td>IL</td>
+          <td>$258.20</td>
+          <td>17</td>
+          <td>15</td>
+          <td>39</td>
+          <td>0.3%</td>
+        </tr>
+        <tr>
+          <td>TN</td>
+          <td>$241.45</td>
+          <td>3</td>
+          <td>11</td>
+          <td>6</td>
+          <td>1.8%</td>
+        </tr>
+        <tr>
+          <td>CO</td>
+          <td>$220.40</td>
+          <td>8</td>
+          <td>11</td>
+          <td>8</td>
+          <td>1.9%</td>
+        </tr>
+        <tr>
+          <td>DE</td>
+          <td>$169.95</td>
+          <td>4</td>
+          <td>10</td>
+          <td>10</td>
+          <td>1.6%</td>
+        </tr>
+        <tr>
+          <td>VA</td>
+          <td>$160.00</td>
+          <td>12</td>
+          <td>8</td>
+          <td>42</td>
+          <td>0.1%</td>
+        </tr>
+        <tr>
+          <td>MI</td>
+          <td>$160.00</td>
+          <td>10</td>
+          <td>8</td>
+          <td>26</td>
+          <td>0.3%</td>
+        </tr></tbody>
+      </table>
+
+      <!-- RIGHT (Remaining States) -->
+      <table class="state-right">
+        <thead>
+          <tr>
+            <th>State</th>
+            <th>Gross</th>
+            <th>Locations</th>
+            <th>Tickets</th>
+            <th>Shows</th>
+            <th>Occ%</th>
+          </tr>
+        </thead>
+        <tbody id="stateTableBodyRight">
+      <tr>
+        <td>NH</td>
+        <td>$140.00</td>
+        <td>2</td>
+        <td>7</td>
+        <td>3</td>
+        <td>4.5%</td>
+      </tr>
+    
+      <tr>
+        <td>CT</td>
+        <td>$124.00</td>
+        <td>3</td>
+        <td>7</td>
+        <td>12</td>
+        <td>0.5%</td>
+      </tr>
+    
+      <tr>
+        <td>MA</td>
+        <td>$120.00</td>
+        <td>7</td>
+        <td>6</td>
+        <td>8</td>
+        <td>0.7%</td>
+      </tr>
+    
+      <tr>
+        <td>KS</td>
+        <td>$108.70</td>
+        <td>3</td>
+        <td>5</td>
+        <td>5</td>
+        <td>0.8%</td>
+      </tr>
+    
+      <tr>
+        <td>OK</td>
+        <td>$100.86</td>
+        <td>3</td>
+        <td>5</td>
+        <td>8</td>
+        <td>0.5%</td>
+      </tr>
+    
+      <tr>
+        <td>WI</td>
+        <td>$84.40</td>
+        <td>2</td>
+        <td>4</td>
+        <td>2</td>
+        <td>2.0%</td>
+      </tr>
+    
+      <tr>
+        <td>OR</td>
+        <td>$68.00</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>1.1%</td>
+      </tr>
+    
+      <tr>
+        <td>AL</td>
+        <td>$65.60</td>
+        <td>4</td>
+        <td>3</td>
+        <td>4</td>
+        <td>0.7%</td>
+      </tr>
+    
+      <tr>
+        <td>UT</td>
+        <td>$64.47</td>
+        <td>1</td>
+        <td>3</td>
+        <td>6</td>
+        <td>0.8%</td>
+      </tr>
+    
+      <tr>
+        <td>LA</td>
+        <td>$56.91</td>
+        <td>4</td>
+        <td>3</td>
+        <td>5</td>
+        <td>0.5%</td>
+      </tr>
+    
+      <tr>
+        <td>KY</td>
+        <td>$47.18</td>
+        <td>4</td>
+        <td>4</td>
+        <td>9</td>
+        <td>0.7%</td>
+      </tr>
+    
+      <tr>
+        <td>MN</td>
+        <td>$43.62</td>
+        <td>3</td>
+        <td>2</td>
+        <td>3</td>
+        <td>0.9%</td>
+      </tr>
+    
+      <tr>
+        <td>MS</td>
+        <td>$42.80</td>
+        <td>1</td>
+        <td>2</td>
+        <td>1</td>
+        <td>3.0%</td>
+      </tr>
+    
+      <tr>
+        <td>MD</td>
+        <td>$21.50</td>
+        <td>3</td>
+        <td>1</td>
+        <td>14</td>
+        <td>0.1%</td>
+      </tr>
+    
+      <tr>
+        <td>RI</td>
+        <td>$0.00</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>ME</td>
+        <td>$0.00</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>SC</td>
+        <td>$0.00</td>
+        <td>3</td>
+        <td>0</td>
+        <td>6</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>IA</td>
+        <td>$0.00</td>
+        <td>3</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>ND</td>
+        <td>$0.00</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>NM</td>
+        <td>$0.00</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+    
+      <tr>
+        <td>NV</td>
+        <td>$0.00</td>
+        <td>3</td>
+        <td>0</td>
+        <td>6</td>
+        <td>0.0%</td>
+      </tr>
+    </tbody>
+      </table>
+
+    </div>
+  </div>
+</div>
+        <!-- Top Theatres -->
+        <div class="table-card" id="topTheatreCard">
+          <h3><i class="fa-solid fa-building-columns"></i> Top Theatres by Gross </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Theatre</th>
+                  <th>Gross</th>
+                  <th>City</th>
+                  <th>Tickets</th>
+                  <th>Shows</th>
+                </tr>
+              </thead>
+              <tbody id="topTheatreTableBody">
+			      <tr>
+			        <td>Hooky Entertainment Cary</td>
+			        <td>$3818.10</td>
+			        <td>Cary</td>
+			        <td>178</td>
+			        <td>4</td>
+			      </tr>
+			      <tr>
+			        <td>Houston Lakes</td>
+			        <td>$1452.00</td>
+			        <td>Warner Robins</td>
+			        <td>88</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>Merchants Walk Cinemas</td>
+			        <td>$1016.00</td>
+			        <td>Marietta</td>
+			        <td>57</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>University 16 Cinemas</td>
+			        <td>$890.00</td>
+			        <td>Athens</td>
+			        <td>52</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Frisco Square and XD</td>
+			        <td>$866.00</td>
+			        <td>Frisco</td>
+			        <td>40</td>
+			        <td>4</td>
+			      </tr>
+			      <tr>
+			        <td>Pooler Cinemas</td>
+			        <td>$680.00</td>
+			        <td>Pooler</td>
+			        <td>40</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark West Plano and XD</td>
+			        <td>$606.20</td>
+			        <td>Plano</td>
+			        <td>28</td>
+			        <td>4</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Pflugerville 20 and XD</td>
+			        <td>$606.20</td>
+			        <td>Pflugerville</td>
+			        <td>28</td>
+			        <td>6</td>
+			      </tr>
+			      <tr>
+			        <td>Apple Cinemas Van Ness</td>
+			        <td>$520.00</td>
+			        <td>San Francisco</td>
+			        <td>26</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>Malco Pinnacle Hills Cinema</td>
+			        <td>$502.60</td>
+			        <td>Rogers</td>
+			        <td>24</td>
+			        <td>2</td>
+			      </tr>
+			      <tr>
+			        <td>Regal Edwards San Marcos</td>
+			        <td>$480.00</td>
+			        <td>San Marcos</td>
+			        <td>24</td>
+			        <td>3</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Cedar Park</td>
+			        <td>$476.30</td>
+			        <td>Cedar Park</td>
+			        <td>22</td>
+			        <td>3</td>
+			      </tr>
+			      <tr>
+			        <td>Regal Medlock Crossing</td>
+			        <td>$440.57</td>
+			        <td>Duluth</td>
+			        <td>23</td>
+			        <td>8</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Legacy and XD</td>
+			        <td>$432.72</td>
+			        <td>Plano</td>
+			        <td>21</td>
+			        <td>7</td>
+			      </tr>
+			      <tr>
+			        <td>Marcus Village Pointe Cinema</td>
+			        <td>$406.60</td>
+			        <td>Omaha</td>
+			        <td>19</td>
+			        <td>1</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Robinson Township and XD</td>
+			        <td>$388.75</td>
+			        <td>Pittsburgh</td>
+			        <td>22</td>
+			        <td>3</td>
+			      </tr>
+			      <tr>
+			        <td>Regal Village Park</td>
+			        <td>$334.84</td>
+			        <td>Carmel</td>
+			        <td>24</td>
+			        <td>5</td>
+			      </tr>
+			      <tr>
+			        <td>Regal Cielo Vista &amp; RPX</td>
+			        <td>$311.70</td>
+			        <td>San Antonio</td>
+			        <td>18</td>
+			        <td>3</td>
+			      </tr>
+			      <tr>
+			        <td>Cinemark Century at Pacific Commons and XD</td>
+			        <td>$300.00</td>
+			        <td>Fremont</td>
+			        <td>15</td>
+			        <td>5</td>
+			      </tr>
+			      <tr>
+			        <td>Regal Royal Park</td>
+			        <td>$288.00</td>
+			        <td>Gainesville</td>
+			        <td>16</td>
+			        <td>2</td>
+			      </tr></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- ✅ Recently Added Shows -->
+        <div class="table-card-mob">
+          <h3><i class="fa-solid fa-plus-circle"></i> Recently Added Shows </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Theatre</th>
+                  <th>Showtime</th>
+                  <th>City</th>
+                  <th>State</th>
+                  <th>Language</th>
+                  <th>Gross ($)</th>
+                  <th>Tickets</th>
+                </tr>
+              </thead>
+              <tbody id="recentShowsTableBody">
+      <tr>
+        <td>Cinemark Tracy 14</td>
+        <td>10:00 PM</td>
+        <td>Tracy</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Stockton City Center &amp; IMAX</td>
+        <td>09:00 AM</td>
+        <td>Stockton</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Stockton City Center &amp; IMAX</td>
+        <td>12:25 PM</td>
+        <td>Stockton</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Stockton City Center &amp; IMAX</td>
+        <td>04:20 PM</td>
+        <td>Stockton</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Stockton City Center &amp; IMAX</td>
+        <td>08:55 PM</td>
+        <td>Stockton</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Laguna 16 and XD</td>
+        <td>10:05 PM</td>
+        <td>Elk Grove</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Delta Shores &amp; IMAX</td>
+        <td>09:30 AM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$12.49</td>
+        <td>1</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Delta Shores &amp; IMAX</td>
+        <td>02:20 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Delta Shores &amp; IMAX</td>
+        <td>06:10 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Delta Shores &amp; IMAX</td>
+        <td>09:40 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Natomas Marketplace ScreenX, 4DX &amp; RPX</td>
+        <td>10:40 AM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Natomas Marketplace ScreenX, 4DX &amp; RPX</td>
+        <td>02:25 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Natomas Marketplace ScreenX, 4DX &amp; RPX</td>
+        <td>06:25 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Natomas Marketplace ScreenX, 4DX &amp; RPX</td>
+        <td>09:45 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal El Dorado Hills &amp; IMAX</td>
+        <td>12:45 PM</td>
+        <td>El Dorado Hills</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal El Dorado Hills &amp; IMAX</td>
+        <td>04:30 PM</td>
+        <td>El Dorado Hills</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal El Dorado Hills &amp; IMAX</td>
+        <td>09:00 PM</td>
+        <td>El Dorado Hills</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$60.00</td>
+        <td>3</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Folsom 14</td>
+        <td>11:55 AM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Folsom 14</td>
+        <td>03:55 PM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Folsom 14</td>
+        <td>07:55 PM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Folsom 14</td>
+        <td>03:30 PM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Hindi</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Palladio 4DX, ScreenX, &amp; GSL</td>
+        <td>03:20 PM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$25.00</td>
+        <td>1</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Palladio 4DX, ScreenX, &amp; GSL</td>
+        <td>08:50 PM</td>
+        <td>Folsom</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$25.00</td>
+        <td>1</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Country Club &amp; Giant Screen</td>
+        <td>02:10 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Unknown</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Country Club &amp; Giant Screen</td>
+        <td>09:00 PM</td>
+        <td>Sacramento</td>
+        <td>CA</td>
+        <td>Unknown</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Roseville IMAX, 4DX, ScreenX, &amp; GS</td>
+        <td>10:25 AM</td>
+        <td>Roseville</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>CinemaWest Roseville IMAX, 4DX, ScreenX, &amp; GS</td>
+        <td>08:30 PM</td>
+        <td>Roseville</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Roseville Galleria Mall and XD</td>
+        <td>09:35 PM</td>
+        <td>Roseville</td>
+        <td>CA</td>
+        <td>Telugu</td>
+        <td>$40.00</td>
+        <td>2</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Eastport Plaza 16</td>
+        <td>09:00 PM</td>
+        <td>Portland</td>
+        <td>OR</td>
+        <td>Hindi</td>
+        <td>$28.00</td>
+        <td>2</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Movies On TV</td>
+        <td>04:30 PM</td>
+        <td>Hillsboro</td>
+        <td>OR</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Movies On TV</td>
+        <td>09:00 PM</td>
+        <td>Hillsboro</td>
+        <td>OR</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Cedar Hills 16</td>
+        <td>06:00 PM</td>
+        <td>Beaverton</td>
+        <td>OR</td>
+        <td>Telugu</td>
+        <td>$40.00</td>
+        <td>2</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Cedar Hills 16</td>
+        <td>10:05 PM</td>
+        <td>Beaverton</td>
+        <td>OR</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Federal Way and XD</td>
+        <td>06:00 PM</td>
+        <td>Federal Way</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Century Federal Way and XD</td>
+        <td>09:50 PM</td>
+        <td>Federal Way</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal The Landing</td>
+        <td>08:15 PM</td>
+        <td>Renton</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Lincoln Square</td>
+        <td>12:40 PM</td>
+        <td>Bellevue</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Lincoln Square</td>
+        <td>04:35 PM</td>
+        <td>Bellevue</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$82.40</td>
+        <td>4</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Lincoln Square</td>
+        <td>08:30 PM</td>
+        <td>Bellevue</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$82.40</td>
+        <td>4</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Lincoln Square</td>
+        <td>09:55 PM</td>
+        <td>Bellevue</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Bella Bottega</td>
+        <td>04:20 PM</td>
+        <td>Redmond</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$21.00</td>
+        <td>1</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Bella Bottega</td>
+        <td>08:20 PM</td>
+        <td>Redmond</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Issaquah Highlands</td>
+        <td>09:00 PM</td>
+        <td>Issaquah</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Cinemark Totem Lake Kirkland and XD</td>
+        <td>09:15 PM</td>
+        <td>Kirkland</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$63.00</td>
+        <td>3</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Meridian</td>
+        <td>09:20 PM</td>
+        <td>Seattle</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$63.00</td>
+        <td>3</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Everett</td>
+        <td>10:30 AM</td>
+        <td>Everett</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Everett</td>
+        <td>02:45 PM</td>
+        <td>Everett</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Everett</td>
+        <td>06:55 PM</td>
+        <td>Everett</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Barkley Village</td>
+        <td>11:40 AM</td>
+        <td>Bellingham</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    
+      <tr>
+        <td>Regal Barkley Village</td>
+        <td>06:40 PM</td>
+        <td>Bellingham</td>
+        <td>WA</td>
+        <td>Telugu</td>
+        <td>$0.00</td>
+        <td>0</td>
+      </tr>
+    </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- ✅ Time-of-Day Breakdown -->
+        <div class="table-card">
+          <h3><i class="fa-solid fa-clock"></i> Time-of-Day Breakdown</h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Time Slot</th>
+                  <th>Gross ($)</th>
+                  <th>Tickets</th>
+                  <th>Shows</th>
+                  <th>Locations</th> <!-- ✅ add this -->
+                </tr>
+              </thead>
+              <tbody id="timeOfDayTableBody">
+      <tr>
+        <td>Morning</td>
+        <td>$1438.38</td>
+        <td>75</td>
+        <td>67</td>
+        <td>62</td>
+      </tr>
+    
+      <tr>
+        <td>Noon</td>
+        <td>$3689.30</td>
+        <td>191</td>
+        <td>215</td>
+        <td>167</td>
+      </tr>
+    
+      <tr>
+        <td>Evening</td>
+        <td>$11512.00</td>
+        <td>589</td>
+        <td>223</td>
+        <td>199</td>
+      </tr>
+    
+      <tr>
+        <td>Night</td>
+        <td>$7669.46</td>
+        <td>422</td>
+        <td>289</td>
+        <td>263</td>
+      </tr>
+    
+      <tr>
+        <td>LateNight</td>
+        <td>$0.00</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+    
+    <tr class="totals-row">
+      <td><b>Grand Total</b></td>
+      <td><b>$24309.14</b></td>
+      <td><b>1277</b></td>
+      <td><b>794</b></td>
+      <td><b>349</b></td>
+    </tr>
+  </tbody>
+            </table>
+          </div>
+        </div>
+<div class="table-card-mob">
+  <h3>Theatre Wise Shows Tracker</h3>
+  <div class="table-watermark"></div>
+  <div class="export-actions">
+    <button class="export-btn" onclick="exportTheatreData(&#39;png&#39;)">PNG</button>
+    <button class="export-btn" onclick="exportTheatreData(&#39;csv&#39;)">CSV</button>
+    <button class="export-btn" onclick="exportTheatreData(&#39;txt&#39;)">TXT</button>
+    <button class="export-btn" onclick="exportTheatreData(&#39;json&#39;)">JSON</button>
+  </div>
+
+  <div class="scrollable-table">
+    <table id="TheatreOpenTable">
+      <thead>
+        <tr>
+          <th>Theatre</th>
+          <th>City</th>
+          <th>State</th>
+          <th>Shows</th>
+          <th>Show Timings</th>
+        </tr>
+      </thead>
+      <tbody id="TheatreOpenBody">
+    <tr>
+      <td>Regal Commerce Center</td>
+      <td>North Brunswick</td>
+      <td>NJ</td>
+      <td>10</td>
+      <td>2:30 PM, 12:20 PM, 1:20 PM, 4:20 PM, 5:20 PM, 8:20 PM, 9:20 PM, 12:50 PM, 4:50 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Fox 4DX &amp; IMAX</td>
+      <td>Ashburn</td>
+      <td>VA</td>
+      <td>8</td>
+      <td>8:40 PM, 11:45 AM, 3:00 PM, 6:30 PM, 9:25 PM, 2:10 PM, 6:15 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Medlock Crossing</td>
+      <td>Duluth</td>
+      <td>GA</td>
+      <td>8</td>
+      <td>3:10 PM, 11:05 AM, 1:45 PM, 6:00 PM, 10:00 PM, 2:50 PM, 6:35 PM, 10:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Buckland Hills 18 XD and IMAX</td>
+      <td>Manchester</td>
+      <td>CT</td>
+      <td>7</td>
+      <td>10:00 AM, 10:30 AM, 2:00 PM, 6:00 PM, 10:00 PM, 10:50 AM, 6:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Commonwealth &amp; IMAX</td>
+      <td>Midlothian</td>
+      <td>VA</td>
+      <td>7</td>
+      <td>10:00 AM, 1:50 PM, 5:40 PM, 9:30 PM, 11:35 AM, 3:45 PM, 8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Stoneridge Plaza Movies 16</td>
+      <td>Gahanna</td>
+      <td>OH</td>
+      <td>7</td>
+      <td>9:50 AM, 1:40 PM, 5:30 PM, 9:25 PM, 10:25 AM, 2:15 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Ann Arbor 20 + IMAX</td>
+      <td>Ypsilanti</td>
+      <td>MI</td>
+      <td>7</td>
+      <td>10:05 AM, 2:05 PM, 6:05 PM, 10:05 PM, 2:15 PM, 6:15 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Legacy and XD</td>
+      <td>Plano</td>
+      <td>TX</td>
+      <td>7</td>
+      <td>10:25 AM, 2:20 PM, 6:25 PM, 10:30 PM, 2:05 PM, 6:00 PM, 10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Union Landing 25 and XD</td>
+      <td>Union City</td>
+      <td>CA</td>
+      <td>7</td>
+      <td>10:00 AM, 2:05 PM, 6:10 PM, 10:10 PM, 10:45 AM, 2:50 PM, 6:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Hadley</td>
+      <td>South Plainfield</td>
+      <td>NJ</td>
+      <td>6</td>
+      <td>12:20 PM, 1:20 PM, 5:25 PM, 9:20 PM, 4:20 PM, 8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Egyptian 24 and XD</td>
+      <td>Hanover</td>
+      <td>MD</td>
+      <td>6</td>
+      <td>9:25 AM, 1:15 PM, 6:30 PM, 10:20 PM, 11:55 AM, 6:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Pflugerville 20 and XD</td>
+      <td>Pflugerville</td>
+      <td>TX</td>
+      <td>6</td>
+      <td>10:30 AM, 2:30 PM, 6:30 PM, 10:30 PM, 4:20 PM, 10:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Movies 16</td>
+      <td>San Antonio</td>
+      <td>TX</td>
+      <td>6</td>
+      <td>9:40 AM, 1:45 PM, 5:50 PM, 9:55 PM, 1:50 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Jordan Landing 24 and XD</td>
+      <td>West Jordan</td>
+      <td>UT</td>
+      <td>6</td>
+      <td>10:00 AM, 2:00 PM, 6:05 PM, 10:10 PM, 11:20 AM, 3:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Mesa 16</td>
+      <td>Mesa</td>
+      <td>AZ</td>
+      <td>6</td>
+      <td>10:00 AM, 2:05 PM, 6:10 PM, 10:15 PM, 2:55 PM, 10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Burlington</td>
+      <td>Burlington</td>
+      <td>NJ</td>
+      <td>5</td>
+      <td>11:25 AM, 3:40 PM, 7:55 PM, 4:20 PM, 8:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Peoples Plaza</td>
+      <td>Newark</td>
+      <td>DE</td>
+      <td>5</td>
+      <td>12:50 PM, 4:45 PM, 8:50 PM, 5:15 PM, 9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Harrisburg</td>
+      <td>Harrisburg</td>
+      <td>PA</td>
+      <td>5</td>
+      <td>1:25 PM, 2:25 PM, 6:35 PM, 5:35 PM, 9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Majestic &amp; IMAX</td>
+      <td>Silver Spring</td>
+      <td>MD</td>
+      <td>5</td>
+      <td>11:00 AM, 12:00 PM, 3:45 PM, 7:35 PM, 3:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Centreville</td>
+      <td>Centreville</td>
+      <td>VA</td>
+      <td>5</td>
+      <td>10:20 AM, 12:45 PM, 4:05 PM, 6:50 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Louisville and XD</td>
+      <td>Louisville</td>
+      <td>KY</td>
+      <td>5</td>
+      <td>9:50 AM, 1:55 PM, 6:00 PM, 10:05 PM, 10:20 AM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Village Park</td>
+      <td>Carmel</td>
+      <td>IN</td>
+      <td>5</td>
+      <td>10:55 AM, 3:20 PM, 7:30 PM, 3:50 PM, 8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus St. Charles Cinema</td>
+      <td>Saint Charles</td>
+      <td>MO</td>
+      <td>5</td>
+      <td>11:10 AM, 3:10 PM, 7:20 PM, 12:10 PM, 7:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Oklahoma City and XD</td>
+      <td>Oklahoma City</td>
+      <td>OK</td>
+      <td>5</td>
+      <td>12:20 PM, 5:35 PM, 9:30 PM, 1:45 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Lewisville and XD</td>
+      <td>Lewisville</td>
+      <td>TX</td>
+      <td>5</td>
+      <td>10:30 AM, 2:30 PM, 6:30 PM, 10:30 PM, 10:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Dallas XD and IMAX</td>
+      <td>Dallas</td>
+      <td>TX</td>
+      <td>5</td>
+      <td>3:10 PM, 12:50 PM, 4:40 PM, 8:30 PM, 9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark College Station and XD</td>
+      <td>College Station</td>
+      <td>TX</td>
+      <td>5</td>
+      <td>10:10 AM, 2:05 PM, 6:00 PM, 10:00 PM, 10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century El Con 20 and XD</td>
+      <td>Tucson</td>
+      <td>AZ</td>
+      <td>5</td>
+      <td>12:20 PM, 4:25 PM, 8:30 PM, 2:15 PM, 6:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Great Mall 20 XD and ScreenX</td>
+      <td>Milpitas</td>
+      <td>CA</td>
+      <td>5</td>
+      <td>10:30 AM, 2:30 PM, 6:30 PM, 2:25 PM, 9:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century at Pacific Commons and XD</td>
+      <td>Fremont</td>
+      <td>CA</td>
+      <td>5</td>
+      <td>9:40 AM, 1:40 PM, 5:40 PM, 9:40 PM, 4:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Connecticut Post 14 and IMAX</td>
+      <td>Milford</td>
+      <td>CT</td>
+      <td>4</td>
+      <td>10:00 AM, 2:05 PM, 6:10 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Warrington Crossing</td>
+      <td>Warrington</td>
+      <td>PA</td>
+      <td>4</td>
+      <td>9:40 AM, 5:50 PM, 9:55 PM, 1:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Hooky Entertainment Cary</td>
+      <td>Cary</td>
+      <td>NC</td>
+      <td>4</td>
+      <td>9:30 AM, 1:30 PM, 5:30 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Stonecrest at Piper Glen</td>
+      <td>Charlotte</td>
+      <td>NC</td>
+      <td>4</td>
+      <td>11:25 AM, 6:40 PM, 10:15 PM, 3:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Mall of Georgia</td>
+      <td>Buford</td>
+      <td>GA</td>
+      <td>4</td>
+      <td>10:25 AM, 6:45 PM, 10:55 PM, 2:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Orlando and XD</td>
+      <td>Orlando</td>
+      <td>FL</td>
+      <td>4</td>
+      <td>10:00 AM, 2:00 PM, 6:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Paradise 24 and XD</td>
+      <td>Davie</td>
+      <td>FL</td>
+      <td>4</td>
+      <td>12:45 PM, 2:25 PM, 6:40 PM, 9:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Polaris 18 and XD</td>
+      <td>Columbus</td>
+      <td>OH</td>
+      <td>4</td>
+      <td>10:30 AM, 2:20 PM, 6:10 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>MJR Westland Cinema</td>
+      <td>Westland</td>
+      <td>MI</td>
+      <td>4</td>
+      <td>10:30 AM, 2:15 PM, 6:00 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Dayton South 16 and XD</td>
+      <td>West Carrollton</td>
+      <td>OH</td>
+      <td>4</td>
+      <td>9:50 AM, 2:05 PM, 6:10 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>MJR Troy Cinema</td>
+      <td>Troy</td>
+      <td>MI</td>
+      <td>4</td>
+      <td>11:30 AM, 3:30 PM, 7:30 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Davenport 18 XD and IMAX</td>
+      <td>Davenport</td>
+      <td>IA</td>
+      <td>4</td>
+      <td>9:45 AM, 1:45 PM, 6:05 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown USA Aurora</td>
+      <td>North Aurora</td>
+      <td>IL</td>
+      <td>4</td>
+      <td>11:45 AM, 3:50 PM, 7:55 PM, 7:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Seven Bridges and IMAX</td>
+      <td>Woodridge</td>
+      <td>IL</td>
+      <td>4</td>
+      <td>10:20 AM, 2:25 PM, 6:30 PM, 10:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Frisco Square and XD</td>
+      <td>Frisco</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>10:30 AM, 2:30 PM, 6:30 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Allen 16 and XD</td>
+      <td>Allen</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>9:45 AM, 1:50 PM, 6:00 PM, 10:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark West Plano and XD</td>
+      <td>Plano</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>10:00 AM, 2:00 PM, 6:00 PM, 10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Grapevine and XD</td>
+      <td>Grapevine</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>10:20 AM, 2:10 PM, 6:00 PM, 9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark North East Mall 18 and XD</td>
+      <td>Hurst</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>9:40 AM, 1:40 PM, 5:40 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Denton 14</td>
+      <td>Denton</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>10:05 AM, 1:00 PM, 5:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Katy and XD</td>
+      <td>Katy</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>10:20 AM, 2:25 PM, 6:30 PM, 10:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Benders Landing 4DX, ScreenX, RPX &amp; VIP</td>
+      <td>Spring</td>
+      <td>TX</td>
+      <td>4</td>
+      <td>9:05 AM, 1:00 PM, 4:50 PM, 8:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Orange and XD</td>
+      <td>Orange</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>12:25 PM, 4:15 PM, 8:05 PM, 9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Simi Valley Civic Center</td>
+      <td>Simi Valley</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:35 AM, 1:45 PM, 6:00 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Oakridge 20 XD and ScreenX</td>
+      <td>San Jose</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:30 AM, 2:35 PM, 6:25 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Redwood Downtown 20 and XD</td>
+      <td>Redwood City</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:45 AM, 2:00 PM, 6:00 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Mountain View 16</td>
+      <td>Mountain View</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:00 AM, 2:05 PM, 6:15 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Ciné Lounge Fremont 7</td>
+      <td>Fremont</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>2:25 PM, 6:00 PM, 9:40 PM, 8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Daly City 20 XD and IMAX</td>
+      <td>Daly City</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:00 AM, 2:00 PM, 6:00 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Hacienda Crossings ScreenX, IMAX &amp; RPX</td>
+      <td>Dublin</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>5:00 PM, 10:15 AM, 2:50 PM, 9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Stockton City Center &amp; IMAX</td>
+      <td>Stockton</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>9:00 AM, 12:25 PM, 4:20 PM, 8:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Delta Shores &amp; IMAX</td>
+      <td>Sacramento</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>9:30 AM, 2:20 PM, 6:10 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Natomas Marketplace ScreenX, 4DX &amp; RPX</td>
+      <td>Sacramento</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>10:40 AM, 2:25 PM, 6:25 PM, 9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Folsom 14</td>
+      <td>Folsom</td>
+      <td>CA</td>
+      <td>4</td>
+      <td>11:55 AM, 3:55 PM, 7:55 PM, 3:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Lincoln Square</td>
+      <td>Bellevue</td>
+      <td>WA</td>
+      <td>4</td>
+      <td>12:40 PM, 4:35 PM, 8:30 PM, 9:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Crossgates</td>
+      <td>Albany</td>
+      <td>NY</td>
+      <td>3</td>
+      <td>11:15 AM, 4:15 PM, 8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Hamilton Commons</td>
+      <td>Mays Landing</td>
+      <td>NJ</td>
+      <td>3</td>
+      <td>12:00 PM, 4:10 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Robinson Township and XD</td>
+      <td>Pittsburgh</td>
+      <td>PA</td>
+      <td>3</td>
+      <td>5:15 PM, 6:00 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CHARTIERS VALLEY LUXURY 14 + PTX </td>
+      <td>Bridgeville</td>
+      <td>PA</td>
+      <td>3</td>
+      <td>1:30 PM, 5:40 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Westview &amp; IMAX</td>
+      <td>Frederick</td>
+      <td>MD</td>
+      <td>3</td>
+      <td>11:30 AM, 6:50 PM, 3:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Manor</td>
+      <td>Lancaster</td>
+      <td>PA</td>
+      <td>3</td>
+      <td>11:25 AM, 3:35 PM, 7:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Downingtown</td>
+      <td>Downingtown</td>
+      <td>PA</td>
+      <td>3</td>
+      <td>1:40 PM, 5:40 PM, 9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Montage Mountain 20 and XD</td>
+      <td>Moosic</td>
+      <td>PA</td>
+      <td>3</td>
+      <td>3:20 PM, 6:30 PM, 10:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Fairfax Corner and XD</td>
+      <td>Fairfax</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>1:50 PM, 5:55 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Village 14 + PTX</td>
+      <td>Leesburg</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>1:30 PM, 5:40 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Short Pump</td>
+      <td>Richmond</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>11:10 AM, 2:30 PM, 6:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Stonefield</td>
+      <td>Charlottesville</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>2:50 PM, 6:10 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Harbour View Grande</td>
+      <td>Suffolk</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>11:30 AM, 3:45 PM, 8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Valley View Grande</td>
+      <td>Roanoke</td>
+      <td>VA</td>
+      <td>3</td>
+      <td>1:55 PM, 4:05 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Crossroads - Cary</td>
+      <td>Cary</td>
+      <td>NC</td>
+      <td>3</td>
+      <td>12:00 PM, 3:55 PM, 7:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Bistro Raleigh</td>
+      <td>Raleigh</td>
+      <td>NC</td>
+      <td>3</td>
+      <td>6:00 PM, 9:20 PM, 9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Starlight - Anderson</td>
+      <td>Anderson</td>
+      <td>SC</td>
+      <td>3</td>
+      <td>10:40 AM, 6:35 PM, 2:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Perimeter Pointe</td>
+      <td>Atlanta</td>
+      <td>GA</td>
+      <td>3</td>
+      <td>1:25 PM, 5:10 PM, 8:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Cherokee</td>
+      <td>Woodstock</td>
+      <td>GA</td>
+      <td>3</td>
+      <td>12:30 PM, 4:10 PM, 7:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Jacksonville and XD</td>
+      <td>Jacksonville</td>
+      <td>FL</td>
+      <td>3</td>
+      <td>1:20 PM, 5:25 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Waterford Lakes</td>
+      <td>Orlando</td>
+      <td>FL</td>
+      <td>3</td>
+      <td>2:45 PM, 6:35 PM, 10:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Park Place</td>
+      <td>Pinellas Park</td>
+      <td>FL</td>
+      <td>3</td>
+      <td>3:00 PM, 6:50 PM, 9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Hollywood – Nashville</td>
+      <td>Nashville</td>
+      <td>TN</td>
+      <td>3</td>
+      <td>10:30 AM, 2:45 PM, 7:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Lennox Town Center 24</td>
+      <td>Columbus</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>1:30 PM, 5:30 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Fairfield Commons &amp; RPX</td>
+      <td>Beavercreek</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>12:55 PM, 5:05 PM, 9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Franklin Park 16 and XD</td>
+      <td>Toledo</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>4:45 PM, 9:30 PM, 8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Valley View and XD</td>
+      <td>Valley View</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>12:25 PM, 7:10 PM, 8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Coldwater Crossing</td>
+      <td>Fort Wayne</td>
+      <td>IN</td>
+      <td>3</td>
+      <td>10:00 AM, 2:10 PM, 6:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Deerfield Town Center &amp; RPX</td>
+      <td>Mason</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>2:45 PM, 6:40 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Milford 16</td>
+      <td>Milford</td>
+      <td>OH</td>
+      <td>3</td>
+      <td>12:30 PM, 4:30 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Shiloh Crossing</td>
+      <td>Avon</td>
+      <td>IN</td>
+      <td>3</td>
+      <td>1:15 PM, 5:15 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal UA Galaxy - Indianapolis</td>
+      <td>Indianapolis</td>
+      <td>IN</td>
+      <td>3</td>
+      <td>1:40 PM, 5:35 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Greenwood &amp; RPX</td>
+      <td>Greenwood</td>
+      <td>IN</td>
+      <td>3</td>
+      <td>12:15 PM, 9:15 PM, 4:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>NCG Lansing</td>
+      <td>Lansing</td>
+      <td>MI</td>
+      <td>3</td>
+      <td>11:30 AM, 3:30 PM, 7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Gurnee Mills Cinema</td>
+      <td>Gurnee</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>10:10 AM, 2:10 PM, 9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Deer Park 16</td>
+      <td>Deer Park</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>1:40 PM, 5:40 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Ciné Lounge at Niles</td>
+      <td>Niles</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>2:45 PM, 6:25 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Phoenix Theatres Cantera Warrenville 17 + PTX</td>
+      <td>Warrenville</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>2:05 PM, 6:00 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Bloomington Cinema + IMAX</td>
+      <td>Bloomington</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>10:10 AM, 9:00 PM, 2:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Phoenix Theatres Savoy 16 + IMAX</td>
+      <td>Savoy</td>
+      <td>IL</td>
+      <td>3</td>
+      <td>1:00 PM, 5:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Mid Rivers Cinema</td>
+      <td>Saint Peters</td>
+      <td>MO</td>
+      <td>3</td>
+      <td>10:20 AM, 2:10 PM, 4:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Central Plano</td>
+      <td>Plano</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>1:30 PM, 5:30 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Roanoke and XD</td>
+      <td>Roanoke</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>4:05 PM, 6:30 PM, 10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Killeen</td>
+      <td>Killeen</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>1:20 PM, 9:10 PM, 5:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Cedar Park</td>
+      <td>Cedar Park</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>9:40 AM, 5:00 PM, 9:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Gateway 4DX &amp; IMAX</td>
+      <td>Austin</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>12:15 PM, 4:30 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Star</td>
+      <td>Beaumont</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>11:20 AM, 3:25 PM, 7:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Huebner Oaks &amp; RPX</td>
+      <td>San Antonio</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>11:50 AM, 4:05 PM, 8:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Cielo Vista &amp; RPX</td>
+      <td>San Antonio</td>
+      <td>TX</td>
+      <td>3</td>
+      <td>12:15 PM, 8:30 PM, 4:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Orleans 18 and XD</td>
+      <td>Las Vegas</td>
+      <td>NV</td>
+      <td>3</td>
+      <td>12:00 PM, 4:15 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Edwards Corona Crossings</td>
+      <td>Corona</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>12:25 PM, 4:35 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Parkway Plaza</td>
+      <td>El Cajon</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>2:00 PM, 5:45 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Edwards San Marcos</td>
+      <td>San Marcos</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>10:30 AM, 3:00 PM, 7:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Edwards Mira Mesa </td>
+      <td>San Diego</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>2:15 PM, 6:30 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Irvine Spectrum</td>
+      <td>Irvine</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>2:00 PM, 6:05 PM, 9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Mercado 20</td>
+      <td>Santa Clara</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>11:30 AM, 2:30 PM, 6:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century at Tanforan and XD</td>
+      <td>San Bruno</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>1:50 PM, 9:15 PM, 8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal El Dorado Hills &amp; IMAX</td>
+      <td>El Dorado Hills</td>
+      <td>CA</td>
+      <td>3</td>
+      <td>12:45 PM, 4:30 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Everett</td>
+      <td>Everett</td>
+      <td>WA</td>
+      <td>3</td>
+      <td>10:30 AM, 2:45 PM, 6:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Cambridge</td>
+      <td>Cambridge</td>
+      <td>MA</td>
+      <td>2</td>
+      <td>5:30 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Merrimack</td>
+      <td>Merrimack</td>
+      <td>NH</td>
+      <td>2</td>
+      <td>3:00 PM, 6:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC New Brunswick 18</td>
+      <td>New Brunswick</td>
+      <td>NJ</td>
+      <td>2</td>
+      <td>4:40 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Jersey Gardens 20</td>
+      <td>Elizabeth</td>
+      <td>NJ</td>
+      <td>2</td>
+      <td>6:55 PM, 9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Empire 25</td>
+      <td>New York</td>
+      <td>NY</td>
+      <td>2</td>
+      <td>11:15 AM, 2:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Independence Plaza</td>
+      <td>Hamilton Township</td>
+      <td>NJ</td>
+      <td>2</td>
+      <td>2:05 PM, 8:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Wilmington Movies 10</td>
+      <td>Wilmington</td>
+      <td>DE</td>
+      <td>2</td>
+      <td>6:00 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Brandywine Town Center</td>
+      <td>Wilmington</td>
+      <td>DE</td>
+      <td>2</td>
+      <td>10:05 AM, 2:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Destiny USA</td>
+      <td>Syracuse</td>
+      <td>NY</td>
+      <td>2</td>
+      <td>1:50 PM, 6:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Dickson City</td>
+      <td>Dickson City</td>
+      <td>PA</td>
+      <td>2</td>
+      <td>4:10 PM, 8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Erie</td>
+      <td>Erie</td>
+      <td>PA</td>
+      <td>2</td>
+      <td>9:40 PM, 9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal UA King Of Prussia</td>
+      <td>King Of Prussia</td>
+      <td>PA</td>
+      <td>2</td>
+      <td>4:30 PM, 7:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Virginia Center</td>
+      <td>Glen Allen</td>
+      <td>VA</td>
+      <td>2</td>
+      <td>4:05 PM, 7:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Brier Creek</td>
+      <td>Raleigh</td>
+      <td>NC</td>
+      <td>2</td>
+      <td>12:00 PM, 4:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Starlight - Charlotte</td>
+      <td>Charlotte</td>
+      <td>NC</td>
+      <td>2</td>
+      <td>4:00 PM, 8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Cherrydale</td>
+      <td>Greenville</td>
+      <td>SC</td>
+      <td>2</td>
+      <td>4:35 PM, 8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Pooler Cinemas</td>
+      <td>Pooler</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>4:30 PM, 8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Augusta Exchange</td>
+      <td>Augusta</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>10:15 AM, 2:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>NCG Peachtree Corners</td>
+      <td>Peachtree Corners</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>5:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Merchants Walk Cinemas</td>
+      <td>Marietta</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>7:30 PM, 8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>University 16 Cinemas</td>
+      <td>Athens</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>5:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Houston Lakes</td>
+      <td>Warner Robins</td>
+      <td>GA</td>
+      <td>2</td>
+      <td>4:45 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Royal Park</td>
+      <td>Gainesville</td>
+      <td>FL</td>
+      <td>2</td>
+      <td>2:45 PM, 6:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Southland Mall</td>
+      <td>Miami</td>
+      <td>FL</td>
+      <td>2</td>
+      <td>11:10 AM, 3:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Malco Cordova Cinema</td>
+      <td>Cordova</td>
+      <td>TN</td>
+      <td>2</td>
+      <td>1:05 PM, 6:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Preston Crossings 16 and XD</td>
+      <td>Louisville</td>
+      <td>KY</td>
+      <td>2</td>
+      <td>12:30 PM, 7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Oakley Station and XD</td>
+      <td>Cincinnati</td>
+      <td>OH</td>
+      <td>2</td>
+      <td>6:15 PM, 10:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Southland Mall and XD</td>
+      <td>Taylor</td>
+      <td>MI</td>
+      <td>2</td>
+      <td>3:45 PM, 7:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Strongsville at Southpark Mall</td>
+      <td>Strongsville</td>
+      <td>OH</td>
+      <td>2</td>
+      <td>2:20 PM, 9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Willoughby Commons</td>
+      <td>Willoughby</td>
+      <td>OH</td>
+      <td>2</td>
+      <td>11:50 AM, 4:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Forum 30</td>
+      <td>Sterling Heights</td>
+      <td>MI</td>
+      <td>2</td>
+      <td>12:15 PM, 9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Jordan Creek 20 and XD</td>
+      <td>West Des Moines</td>
+      <td>IA</td>
+      <td>2</td>
+      <td>6:30 PM, 9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Loews Streets Of Woodfield 20</td>
+      <td>Schaumburg</td>
+      <td>IL</td>
+      <td>2</td>
+      <td>3:00 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Addison Cinema</td>
+      <td>Addison</td>
+      <td>IL</td>
+      <td>2</td>
+      <td>10:05 AM, 2:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Elgin Cinema</td>
+      <td>Elgin</td>
+      <td>IL</td>
+      <td>2</td>
+      <td>2:30 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Naperville 16</td>
+      <td>Naperville</td>
+      <td>IL</td>
+      <td>2</td>
+      <td>1:45 PM, 5:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Ronnie's Cinema + IMAX  </td>
+      <td>Sappington</td>
+      <td>MO</td>
+      <td>2</td>
+      <td>12:30 PM, 4:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Cape West Cinema</td>
+      <td>Cape Girardeau</td>
+      <td>MO</td>
+      <td>2</td>
+      <td>5:40 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Prairiefire 17</td>
+      <td>Overland Park</td>
+      <td>KS</td>
+      <td>2</td>
+      <td>6:05 PM, 10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Malco Pinnacle Hills Cinema</td>
+      <td>Rogers</td>
+      <td>AR</td>
+      <td>2</td>
+      <td>1:30 PM, 7:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Warren East</td>
+      <td>Wichita</td>
+      <td>KS</td>
+      <td>2</td>
+      <td>11:20 AM, 5:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Perkins Rowe and XD</td>
+      <td>Baton Rouge</td>
+      <td>LA</td>
+      <td>2</td>
+      <td>9:20 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Bricktown 16</td>
+      <td>Oklahoma City</td>
+      <td>OK</td>
+      <td>2</td>
+      <td>4:45 PM, 8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC The Parks At Arlington 18</td>
+      <td>Arlington</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>6:30 PM, 9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Round Rock 14</td>
+      <td>Round Rock</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>6:15 PM, 10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Loews Fountains 18</td>
+      <td>Stafford</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>2:30 PM, 9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Edwards Greenway Grand Palace ScreenX &amp; RPX</td>
+      <td>Houston</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>5:20 PM, 9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC First Colony 24</td>
+      <td>Sugar Land</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>6:05 PM, 10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Gulf Pointe 30</td>
+      <td>Houston</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>7:05 PM, 10:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Southpark Meadows</td>
+      <td>Austin</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>6:15 PM, 10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Hill Country Galleria</td>
+      <td>Bee Cave</td>
+      <td>TX</td>
+      <td>2</td>
+      <td>6:30 PM, 9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Westgate 20</td>
+      <td>Glendale</td>
+      <td>AZ</td>
+      <td>2</td>
+      <td>3:15 PM, 10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Chandler Fashion 20</td>
+      <td>Chandler</td>
+      <td>AZ</td>
+      <td>2</td>
+      <td>3:15 PM, 6:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Arrowhead Fountains 18</td>
+      <td>Peoria</td>
+      <td>AZ</td>
+      <td>2</td>
+      <td>2:50 PM, 6:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Chandler Crossroads Towne Center 12</td>
+      <td>Chandler</td>
+      <td>AZ</td>
+      <td>2</td>
+      <td>7:45 PM, 8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Sam's Town 18</td>
+      <td>Las Vegas</td>
+      <td>NV</td>
+      <td>2</td>
+      <td>10:30 AM, 6:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Cerritos 16</td>
+      <td>Cerritos</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>3:40 PM, 7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Orange 30 (AMC Block 30)</td>
+      <td>Orange</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>12:00 PM, 4:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Chino Hills 18</td>
+      <td>Chino Hills</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>5:50 PM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Rancho Del Rey</td>
+      <td>Chula Vista</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>4:30 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Mission Valley 20</td>
+      <td>San Diego</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>6:00 PM, 9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Escondido</td>
+      <td>Escondido</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>2:30 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Van Ness</td>
+      <td>San Francisco</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>3:00 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Walnut Creek 14 and XD</td>
+      <td>Walnut Creek</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>6:15 PM, 9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CinemaWest Livermore &amp; Giant Screen with Laser</td>
+      <td>Livermore</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>12:25 PM, 9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CinemaWest Palladio 4DX, ScreenX, &amp; GSL</td>
+      <td>Folsom</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>3:20 PM, 8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CinemaWest Country Club &amp; Giant Screen</td>
+      <td>Sacramento</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>2:10 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CinemaWest Roseville IMAX, 4DX, ScreenX, &amp; GS</td>
+      <td>Roseville</td>
+      <td>CA</td>
+      <td>2</td>
+      <td>10:25 AM, 8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Movies On TV</td>
+      <td>Hillsboro</td>
+      <td>OR</td>
+      <td>2</td>
+      <td>4:30 PM, 9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Cedar Hills 16</td>
+      <td>Beaverton</td>
+      <td>OR</td>
+      <td>2</td>
+      <td>6:00 PM, 10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Federal Way and XD</td>
+      <td>Federal Way</td>
+      <td>WA</td>
+      <td>2</td>
+      <td>6:00 PM, 9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Bella Bottega</td>
+      <td>Redmond</td>
+      <td>WA</td>
+      <td>2</td>
+      <td>4:20 PM, 8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Barkley Village</td>
+      <td>Bellingham</td>
+      <td>WA</td>
+      <td>2</td>
+      <td>11:40 AM, 6:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark At Hampshire Mall and XD</td>
+      <td>Hadley</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Showcase Cinema de Lux Lowell</td>
+      <td>Lowell</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Solomon Pond</td>
+      <td>Marlborough</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>7:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Brass Mill</td>
+      <td>Waterbury</td>
+      <td>CT</td>
+      <td>1</td>
+      <td>7:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Galleria Mall</td>
+      <td>Poughkeepsie</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>11:00 AM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Bellingham</td>
+      <td>Bellingham</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>11:35 AM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Providence Place IMAX</td>
+      <td>Providence</td>
+      <td>RI</td>
+      <td>1</td>
+      <td>6:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Boston Common 19</td>
+      <td>Boston</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Methuen 20</td>
+      <td>Methuen</td>
+      <td>MA</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Rockingham Park and XD</td>
+      <td>Salem</td>
+      <td>NH</td>
+      <td>1</td>
+      <td>9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Westbrook</td>
+      <td>Westbrook</td>
+      <td>ME</td>
+      <td>1</td>
+      <td>8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Deer Park</td>
+      <td>Deer Park</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas White Plains</td>
+      <td>White Plains</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Palisades Center 21</td>
+      <td>West Nyack</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Reading Cinemas Manville with Titan Luxe</td>
+      <td>Manville</td>
+      <td>NJ</td>
+      <td>1</td>
+      <td>6:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Secaucus ShowPlace 14</td>
+      <td>Secaucus</td>
+      <td>NJ</td>
+      <td>1</td>
+      <td>9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Willowbrook Mall and XD</td>
+      <td>Wayne</td>
+      <td>NJ</td>
+      <td>1</td>
+      <td>9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Hazlet 12</td>
+      <td>Hazlet</td>
+      <td>NJ</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Somerdale 16 and XD</td>
+      <td>Somerdale</td>
+      <td>NJ</td>
+      <td>1</td>
+      <td>4:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark University City Penn 6</td>
+      <td>Philadelphia</td>
+      <td>PA</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal UA Oxford Valley</td>
+      <td>Langhorne</td>
+      <td>PA</td>
+      <td>1</td>
+      <td>8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Christiana and XD</td>
+      <td>Christiana</td>
+      <td>DE</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Westbury IMAX &amp; RPX</td>
+      <td>Westbury</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal UA Farmingdale &amp; IMAX</td>
+      <td>Farmingdale</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Binghamton</td>
+      <td>Binghamton</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Walden Galleria 4DX &amp; RPX</td>
+      <td>Buffalo</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>10:50 AM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Elmwood Center</td>
+      <td>Buffalo</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Apple Cinemas Greece Ridge</td>
+      <td>Rochester</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Rochester and IMAX</td>
+      <td>Rochester</td>
+      <td>NY</td>
+      <td>1</td>
+      <td>9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark North Hills and XD</td>
+      <td>Pittsburgh</td>
+      <td>PA</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Monroeville Mall and XD</td>
+      <td>Monroeville</td>
+      <td>PA</td>
+      <td>1</td>
+      <td>8:55 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cranberry Cinemas</td>
+      <td>Cranberry Township</td>
+      <td>PA</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Hoffman Center 22</td>
+      <td>Alexandria</td>
+      <td>VA</td>
+      <td>1</td>
+      <td>9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Angelika Film Center &amp; Cafe at Mosaic</td>
+      <td>Fairfax</td>
+      <td>VA</td>
+      <td>1</td>
+      <td>8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Greensboro Grande</td>
+      <td>Greensboro</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Southpoint 17</td>
+      <td>Durham</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>10:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal White Oak</td>
+      <td>Garner</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Concord Mills 24</td>
+      <td>Concord</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Bistro Charlotte</td>
+      <td>Charlotte</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Carolina Pavilion 22</td>
+      <td>Charlotte</td>
+      <td>NC</td>
+      <td>1</td>
+      <td>8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Columbiana Grande</td>
+      <td>Columbia</td>
+      <td>SC</td>
+      <td>1</td>
+      <td>8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Sugarloaf Mills 18</td>
+      <td>Lawrenceville</td>
+      <td>GA</td>
+      <td>1</td>
+      <td>12:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Tallahassee 20</td>
+      <td>Tallahassee</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Avenues</td>
+      <td>Jacksonville</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>7:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Butler Town Center</td>
+      <td>Gainesville</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Universal Cinemark at CityWalk and XD</td>
+      <td>Orlando</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Pompano Beach 18</td>
+      <td>Pompano Beach</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Sunset Place 24</td>
+      <td>South Miami</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>12:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Bistro Boca Raton and XD</td>
+      <td>Boca Raton</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC The Regency 20</td>
+      <td>Brandon</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Veterans 24</td>
+      <td>Tampa</td>
+      <td>FL</td>
+      <td>1</td>
+      <td>9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Trussville</td>
+      <td>Birmingham</td>
+      <td>AL</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Bridge Street and XD</td>
+      <td>Huntsville</td>
+      <td>AL</td>
+      <td>1</td>
+      <td>9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Festival Plaza 16</td>
+      <td>Montgomery</td>
+      <td>AL</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Mobile 16</td>
+      <td>Mobile</td>
+      <td>AL</td>
+      <td>1</td>
+      <td>8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Providence</td>
+      <td>Mt. Juliet</td>
+      <td>TN</td>
+      <td>1</td>
+      <td>6:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Pearl 17 and XD</td>
+      <td>Pearl</td>
+      <td>MS</td>
+      <td>1</td>
+      <td>8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Hamburg Pavilion</td>
+      <td>Lexington</td>
+      <td>KY</td>
+      <td>1</td>
+      <td>2:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Newport On The Levee 20</td>
+      <td>Newport</td>
+      <td>KY</td>
+      <td>1</td>
+      <td>7:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Western Hills 14</td>
+      <td>Cincinnati</td>
+      <td>OH</td>
+      <td>1</td>
+      <td>9:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Dublin Village 18</td>
+      <td>Dublin</td>
+      <td>OH</td>
+      <td>1</td>
+      <td>7:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Cuyahoga Falls and XD</td>
+      <td>Cuyahoga Falls</td>
+      <td>OH</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark The Greene 14 and IMAX</td>
+      <td>Beavercreek</td>
+      <td>OH</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Valparaiso</td>
+      <td>Valparaiso</td>
+      <td>IN</td>
+      <td>1</td>
+      <td>9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Orland Park Cinemas</td>
+      <td>Orland Park</td>
+      <td>IL</td>
+      <td>1</td>
+      <td>10:20 AM</td>
+    </tr>
+  
+    <tr>
+      <td>GQT Wabash Landing 9</td>
+      <td>West Lafayette</td>
+      <td>IN</td>
+      <td>1</td>
+      <td>11:30 AM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Livonia 20</td>
+      <td>Livonia</td>
+      <td>MI</td>
+      <td>1</td>
+      <td>5:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Star Great Lakes 25</td>
+      <td>Auburn Hills</td>
+      <td>MI</td>
+      <td>1</td>
+      <td>4:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Star John R 15</td>
+      <td>Madison Heights</td>
+      <td>MI</td>
+      <td>1</td>
+      <td>3:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Grand Rapids 18</td>
+      <td>Walker</td>
+      <td>MI</td>
+      <td>1</td>
+      <td>3:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Ames Movies 12</td>
+      <td>Ames</td>
+      <td>IA</td>
+      <td>1</td>
+      <td>9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Mayfair Mall 18</td>
+      <td>Wauwatosa</td>
+      <td>WI</td>
+      <td>1</td>
+      <td>8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Fitchburg 18</td>
+      <td>Fitchburg</td>
+      <td>WI</td>
+      <td>1</td>
+      <td>7:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC South Barrington 24</td>
+      <td>South Barrington</td>
+      <td>IL</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Inver Grove 16</td>
+      <td>Inver Grove Heights</td>
+      <td>MN</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Southdale 16</td>
+      <td>Edina</td>
+      <td>MN</td>
+      <td>1</td>
+      <td>8:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Eden Prairie Mall 18</td>
+      <td>Eden Prairie</td>
+      <td>MN</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus West Acres Cinema</td>
+      <td>Fargo</td>
+      <td>ND</td>
+      <td>1</td>
+      <td>8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Bolingbrook</td>
+      <td>Bolingbrook</td>
+      <td>IL</td>
+      <td>1</td>
+      <td>11:40 AM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Grand Prairie 18</td>
+      <td>Peoria</td>
+      <td>IL</td>
+      <td>1</td>
+      <td>8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Arnold Cinemas</td>
+      <td>Arnold</td>
+      <td>MO</td>
+      <td>1</td>
+      <td>7:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Chesterfield Cinema</td>
+      <td>Chesterfield</td>
+      <td>MO</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>VIP Carbondale 8</td>
+      <td>Carbondale</td>
+      <td>IL</td>
+      <td>1</td>
+      <td>10:20 AM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Independence Commons 20</td>
+      <td>Independence</td>
+      <td>MO</td>
+      <td>1</td>
+      <td>7:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Studio 28</td>
+      <td>Olathe</td>
+      <td>KS</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Columbia</td>
+      <td>Columbia</td>
+      <td>MO</td>
+      <td>1</td>
+      <td>8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Marcus Village Pointe Cinema</td>
+      <td>Omaha</td>
+      <td>NE</td>
+      <td>1</td>
+      <td>6:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Elmwood Palace 20</td>
+      <td>Harahan</td>
+      <td>LA</td>
+      <td>1</td>
+      <td>3:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Lake Charles and XD</td>
+      <td>Lake Charles</td>
+      <td>LA</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Shreveport South Tinseltown and XD</td>
+      <td>Shreveport</td>
+      <td>LA</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Colonel Glenn and XD</td>
+      <td>Little Rock</td>
+      <td>AR</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Quail Springs Mall 24</td>
+      <td>Oklahoma City</td>
+      <td>OK</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen</td>
+      <td>Frisco</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Stonebriar 24</td>
+      <td>Frisco</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>3:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Galaxy Grandscape</td>
+      <td>The Colony</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark North McKinney and XD</td>
+      <td>McKinney</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Studio Movie Grill Plano</td>
+      <td>Plano</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Firewheel 18</td>
+      <td>Garland</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Studio Movie Grill Spring Valley</td>
+      <td>Dallas</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Angelika Film Center &amp; Cafe</td>
+      <td>Dallas</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Irving Mall 14</td>
+      <td>Irving</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Grapevine Mills 24</td>
+      <td>Grapevine</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>5:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Grand Prairie</td>
+      <td>Grand Prairie</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Stone Hill Town Center</td>
+      <td>Pflugerville</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Memorial City</td>
+      <td>Houston</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>8:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Houston 290 and XD</td>
+      <td>Houston</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Missouri City and XD</td>
+      <td>Missouri City</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Pearland and XD</td>
+      <td>Pearland</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Hollywood Pasadena and XD</td>
+      <td>Pasadena</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Cypress and XD</td>
+      <td>Cypress</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Katy Mills 20</td>
+      <td>Katy</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark The Woodlands and XD</td>
+      <td>The Woodlands</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>9:40 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark NASA and XD</td>
+      <td>Webster</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Beaumont 15 and XD</td>
+      <td>Beaumont</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Live Oak &amp; RPX</td>
+      <td>Live Oak</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>7:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Corpus Christi 16 XD and IMAX</td>
+      <td>Corpus Christi</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Lubbock and XD</td>
+      <td>Lubbock</td>
+      <td>TX</td>
+      <td>1</td>
+      <td>10:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Arvada 14</td>
+      <td>Arvada</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>12:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Westminster Promenade 24</td>
+      <td>Westminster</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>7:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Northfield 18</td>
+      <td>Denver</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>9:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Aurora and XD</td>
+      <td>Aurora</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>9:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Highlands Ranch 24</td>
+      <td>Highlands Ranch</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>8:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Boulder</td>
+      <td>Boulder</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tinseltown Colorado Springs and XD</td>
+      <td>Colorado Springs</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>9:25 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Fort Collins</td>
+      <td>Fort Collins</td>
+      <td>CO</td>
+      <td>1</td>
+      <td>10:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Arizona Mills and IMAX</td>
+      <td>Tempe</td>
+      <td>AZ</td>
+      <td>1</td>
+      <td>9:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Ahwatukee 24</td>
+      <td>Phoenix</td>
+      <td>AZ</td>
+      <td>1</td>
+      <td>11:50 AM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Gilbert</td>
+      <td>Gilbert</td>
+      <td>AZ</td>
+      <td>1</td>
+      <td>9:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Superstition Springs 25</td>
+      <td>Mesa</td>
+      <td>AZ</td>
+      <td>1</td>
+      <td>8:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Flagstaff 16</td>
+      <td>Flagstaff</td>
+      <td>AZ</td>
+      <td>1</td>
+      <td>8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Rio Plex 24 and XD</td>
+      <td>Albuquerque</td>
+      <td>NM</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Summit Sierra</td>
+      <td>Reno</td>
+      <td>NV</td>
+      <td>1</td>
+      <td>7:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Howard Hughes Los Angeles and XD</td>
+      <td>Los Angeles</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Fullerton 20</td>
+      <td>Fullerton</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>9:50 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Northridge 10</td>
+      <td>Northridge</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>12:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>AMC Ontario Mills 30</td>
+      <td>Ontario</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Edwards Rancho San Diego</td>
+      <td>El Cajon</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>7:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Oceanside</td>
+      <td>Oceanside</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>4:20 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Angelika Film Center &amp; Cafe Carmel Mountain</td>
+      <td>San Diego</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Harkins Moreno Valley 16</td>
+      <td>Moreno Valley</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century San Mateo 12</td>
+      <td>San Mateo</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>9:45 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century at Hayward</td>
+      <td>Hayward</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Hilltop 16</td>
+      <td>Richmond</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:10 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Downtown Pleasant Hill 16 and XD</td>
+      <td>Pleasant Hill</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>8:30 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Tracy 14</td>
+      <td>Tracy</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>10:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Laguna 16 and XD</td>
+      <td>Elk Grove</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>10:05 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Roseville Galleria Mall and XD</td>
+      <td>Roseville</td>
+      <td>CA</td>
+      <td>1</td>
+      <td>9:35 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Century Eastport Plaza 16</td>
+      <td>Portland</td>
+      <td>OR</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal The Landing</td>
+      <td>Renton</td>
+      <td>WA</td>
+      <td>1</td>
+      <td>8:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Issaquah Highlands</td>
+      <td>Issaquah</td>
+      <td>WA</td>
+      <td>1</td>
+      <td>9:00 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Cinemark Totem Lake Kirkland and XD</td>
+      <td>Kirkland</td>
+      <td>WA</td>
+      <td>1</td>
+      <td>9:15 PM</td>
+    </tr>
+  
+    <tr>
+      <td>Regal Meridian</td>
+      <td>Seattle</td>
+      <td>WA</td>
+      <td>1</td>
+      <td>9:20 PM</td>
+    </tr>
+  </tbody>
+    </table>
+  </div>
+</div>
+
+      </div>
+
+      <!-- RIGHT COLUMN -->
+      <div class="right-stack">
+        <!-- Format -->
+        <div class="table-card breakdown-short">
+          <h3><i class="fa-solid fa-clapperboard"></i> Format Breakdown </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Format</th>
+                  <th>Gross</th>
+                  <th>Tickets</th>
+                  <th>Shows</th>
+                  <th>Occ%</th>
+                </tr>
+              </thead>
+              <tbody id="formatTableBody">
+      <tr>
+        <td>Standard</td>
+        <td>$24228.36</td>
+        
+        <td>1274</td>
+        <td>791</td>
+        <td>1.6%</td>
+      </tr>
+      <tr>
+        <td>Cinemark XD</td>
+        <td>$54.12</td>
+        
+        <td>2</td>
+        <td>1</td>
+        <td>0.7%</td>
+      </tr>
+      <tr>
+        <td>RPX</td>
+        <td>$26.66</td>
+        
+        <td>1</td>
+        <td>2</td>
+        <td>0.3%</td>
+      </tr></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Language -->
+        <div class="table-card breakdown-short">
+          <h3><i class="fa-solid fa-language"></i> Language Breakdown </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Language</th>
+                  <th>Gross</th>
+                  <th>Tickets</th>
+                  <th>Shows</th>
+                  <th>Occ%</th>
+                </tr>
+              </thead>
+              <tbody id="languageTableBody">
+      <tr>
+        <td>Telugu</td>
+        <td>$20613.85</td>
+        
+        <td>1038</td>
+        <td>635</td>
+        <td>1.6%</td>
+      </tr>
+      <tr>
+        <td>English</td>
+        <td>$1906.00</td>
+        
+        <td>109</td>
+        <td>4</td>
+        <td>37.6%</td>
+      </tr>
+      <tr>
+        <td>Hindi</td>
+        <td>$1546.01</td>
+        
+        <td>110</td>
+        <td>140</td>
+        <td>0.9%</td>
+      </tr>
+      <tr>
+        <td>Tamil</td>
+        <td>$243.28</td>
+        
+        <td>20</td>
+        <td>15</td>
+        <td>1.2%</td>
+      </tr></tbody>
+            </table>
+          </div>
+        </div>
+
+
+        <!-- Chain -->
+        <div class="table-card breakdown-short">
+          <h3><i class="fa-solid fa-building"></i> Chain Breakdown </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Chain</th>
+                  <th>Gross</th>
+                  <th>Tickets</th>
+                  <th>Shows</th>
+                  <th>Occ%</th>
+                </tr>
+              </thead>
+              <tbody id="chainTableBody">
+      <tr>
+        <td>Cinemark Theatres</td>
+        <td>$7633.13</td>
+        
+        <td>371</td>
+        <td>324</td>
+        <td>1.2%</td>
+      </tr>
+      <tr>
+        <td>Regal</td>
+        <td>$4042.10</td>
+        
+        <td>225</td>
+        <td>270</td>
+        <td>0.7%</td>
+      </tr>
+      <tr>
+        <td>Georgia Theatre Company</td>
+        <td>$4038.00</td>
+        
+        <td>237</td>
+        <td>8</td>
+        <td>34.9%</td>
+      </tr>
+      <tr>
+        <td>Hooky Entertainment</td>
+        <td>$3818.10</td>
+        
+        <td>178</td>
+        <td>4</td>
+        <td>30.3%</td>
+      </tr>
+      <tr>
+        <td>AMC</td>
+        <td>$1462.36</td>
+        
+        <td>70</td>
+        <td>74</td>
+        <td>1.1%</td>
+      </tr>
+      <tr>
+        <td>Apple Cinemas</td>
+        <td>$737.00</td>
+        
+        <td>37</td>
+        <td>11</td>
+        <td>5.1%</td>
+      </tr>
+      <tr>
+        <td>Malco Theatres 2</td>
+        <td>$700.15</td>
+        
+        <td>33</td>
+        <td>4</td>
+        <td>6.6%</td>
+      </tr>
+      <tr>
+        <td>Marcus Theatres</td>
+        <td>$674.25</td>
+        
+        <td>33</td>
+        <td>27</td>
+        <td>2.0%</td>
+      </tr>
+      <tr>
+        <td>Harkins Theatres</td>
+        <td>$593.75</td>
+        
+        <td>35</td>
+        <td>18</td>
+        <td>1.9%</td>
+      </tr>
+      <tr>
+        <td>INDY Cinema Group</td>
+        <td>$187.50</td>
+        
+        <td>30</td>
+        <td>1</td>
+        <td>45.5%</td>
+      </tr>
+      <tr>
+        <td>RTSIND</td>
+        <td>$123.05</td>
+        
+        <td>8</td>
+        <td>7</td>
+        <td>0.9%</td>
+      </tr>
+      <tr>
+        <td>GQT Movies</td>
+        <td>$69.75</td>
+        
+        <td>9</td>
+        <td>1</td>
+        <td>7.4%</td>
+      </tr>
+      <tr>
+        <td>NCG Cinemas</td>
+        <td>$60.00</td>
+        
+        <td>3</td>
+        <td>5</td>
+        <td>0.7%</td>
+      </tr>
+      <tr>
+        <td>Galaxy Theatres</td>
+        <td>$60.00</td>
+        
+        <td>3</td>
+        <td>1</td>
+        <td>2.0%</td>
+      </tr>
+      <tr>
+        <td>Cinema West</td>
+        <td>$50.00</td>
+        
+        <td>2</td>
+        <td>8</td>
+        <td>0.4%</td>
+      </tr>
+      <tr>
+        <td>National Amusement</td>
+        <td>$40.00</td>
+        
+        <td>2</td>
+        <td>1</td>
+        <td>2.1%</td>
+      </tr>
+      <tr>
+        <td>MJR Theatres</td>
+        <td>$20.00</td>
+        
+        <td>1</td>
+        <td>8</td>
+        <td>0.1%</td>
+      </tr>
+      <tr>
+        <td>Reading Theaters</td>
+        <td>$0.00</td>
+        
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+      <tr>
+        <td>Phoenix Theatres</td>
+        <td>$0.00</td>
+        
+        <td>0</td>
+        <td>15</td>
+        <td>0.0%</td>
+      </tr>
+      <tr>
+        <td>Angelika Film Center</td>
+        <td>$0.00</td>
+        
+        <td>0</td>
+        <td>3</td>
+        <td>0.0%</td>
+      </tr>
+      <tr>
+        <td>VIP Cinemas</td>
+        <td>$0.00</td>
+        
+        <td>0</td>
+        <td>1</td>
+        <td>0.0%</td>
+      </tr>
+      <tr>
+        <td>Studio Movie Grill</td>
+        <td>$0.00</td>
+        
+        <td>0</td>
+        <td>2</td>
+        <td>0.0%</td>
+      </tr></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Last Hour Sales -->
+        <div class="table-card">
+          <h3><i class="fa-solid fa-clock"></i> Last Hour Sales </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Time (IST)</th>
+                  <th>Time (EST)</th>
+                  <th>Tickets Sold</th>
+                  <th>Gross Added ($)</th>
+                  <th>Growth (%)</th>
+                </tr>
+              </thead>
+              <tbody id="lastHourTableBody">
+			        <tr>
+			          <td>1 AM - 2 AM *</td>
+			          <td>4 PM - 5 PM *</td>
+			          <td style="text-align:right;">0 <span class="text-muted">(~0 est)</span></td>
+			          <td style="text-align:right;">$0 <span class="text-muted">(~$0 est)</span></td>
+			          <td class="trend-flat" style="font-size:16px; font-weight:bold;">→ <span class="badge badge-gray">0%</span></td>
+			        </tr>
+			      
+			        <tr>
+			          <td>9 PM - 10 PM</td>
+			          <td>12 PM - 1 PM</td>
+			          <td style="text-align:right;">0</td>
+			          <td style="text-align:right;">$0</td>
+			          <td class="trend-flat" style="font-size:16px; font-weight:bold;">→ <span class="badge badge-gray">0%</span></td>
+			        </tr>
+			      </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Logs -->
+        <div class="table-card">
+          <h3><i class="fa-solid fa-database"></i> Logs </h3>
+          <div class="table-watermark"></div>
+          <div class="scrollable-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Total Gross ($)</th>
+                  <th>Tickets Sold</th>
+                  <th>Shows</th>
+                  <th>Venues</th>
+                  <th>Occ%</th>
+                </tr>
+              </thead>
+              <tbody id="logsTableBody">
+          <tr>
+            <td>2026-06-08 04:55:52 PM</td>
+            <td style="text-align:right;">$24,309</td>
+            <td style="text-align:right;">1,277</td>
+            <td>794</td>
+            <td>349</td>
+            <td>1.63%</td>
+          </tr>
+        
+          <tr>
+            <td>2026-06-08 12:21:57 PM</td>
+            <td style="text-align:right;">$24,881</td>
+            <td style="text-align:right;">1,299</td>
+            <td>779</td>
+            <td>345</td>
+            <td>1.69%</td>
+          </tr>
+        </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div> <!-- /dashboard-grid -->
+  
+
+<script src="./USA Advance Box Office _ BFilmy_files/html2canvas.min.js"></script>
+		<script>
+		    function isDBox(format) {
+  if (!format) return false;
+  return String(format).toLowerCase().includes("d-box");
+}
+
+			document.addEventListener("DOMContentLoaded", async () => {
+			  const urlParams = new URLSearchParams(window.location.search);
+			  const movieName = urlParams.get("movie");
+			  const date = urlParams.get("date");
+			  const title = urlParams.get("title");
+			
+			  if (!movieName || !date) {
+			    console.error("Missing ?movie= and/or ?date= in URL");
+			    return;
+			  }
+			
+			  try {
+			    // Load movie mapping
+			    const resMovies = await fetch("https://bfilmy.pages.dev/USA/usamovies.json");
+			    const movies = await resMovies.json();
+			
+			    // Find matching movie
+			    const movie = movies.find(
+			      (m) => m.name.toLowerCase() === movieName.toLowerCase()
+			    );
+			
+			    if (!movie) {
+			      console.error("Movie not found in usamovies.json:", movieName);
+			      return;
+			    }
+			
+			    // Build data URL
+			    const apiUrl = `https://usboxoffice.pages.dev/USA%20Data/${movie.id}_${date}.json`;
+			    const res = await fetch(apiUrl);
+			    const data = (await res.json()).filter((d) => !d.error);
+			    const errorUrl = `https://usboxoffice.pages.dev/USA%20Data/${movie.id}_${date}_errors.json`;
+			
+			    // Render tables
+			    groupAndRender(data, "state", "stateTableBody", true);
+			    groupAndRender(data, "format", "formatTableBody", false);
+			    groupAndRender(data, "language", "languageTableBody", false);
+			    groupAndRender(data, "chainName", "chainTableBody", false);
+			    topTheatresTable(data, "topTheatreTableBody");
+			    renderRecentShows(data); // <-- ADD THIS LINE HERE
+			    renderTimeOfDayBreakdown(data);
+                renderTheatreOpenData(data);
+
+
+			// 🌎 Get current date in USA (New York timezone)
+const nowUSA = new Date().toLocaleString("en-CA", {
+  timeZone: "America/New_York",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit"
+});
+
+// Format: YYYY-MM-DD
+const todayUSA = nowUSA.split(",")[0];
+
+// Convert to Date objects
+const selectedDate = new Date(date);
+const currentDate = new Date(todayUSA);
+
+// Check if selected date is today OR in past
+const isBoxoffice = selectedDate <= currentDate;
+
+document.getElementById("movieTitle").innerText =
+  isBoxoffice
+    ? `${movie.name} – USA ${title} Boxoffice`
+    : `${movie.name} – USA ${title} Advance Sales`;
+			    // Fetch last_updated from errorUrl
+			    let lastUpdated = null;
+			    try {
+			      const resError = await fetch(errorUrl);
+			      if (resError.ok) {
+			        const errorData = await resError.json();
+			        lastUpdated = errorData.last_updated || null;
+			      } else {
+			        console.warn("No error file found:", errorUrl);
+			      }
+			    } catch (err) {
+			      console.warn("Failed to fetch or parse error file:", err);
+			    }
+			
+			    if (lastUpdated) {
+			      // Parse "2025-08-29 08:32:56 PM"
+			      const [datePart, timePart, ampm] = lastUpdated.split(" ");
+			      const [yyyy, mm, dd] = datePart.split("-");
+			      let [hh, min, ss] = timePart.split(":");
+			      hh = parseInt(hh, 10);
+			    
+			      if (ampm === "PM" && hh !== 12) hh += 12;
+			      if (ampm === "AM" && hh === 12) hh = 0;
+			    
+			      const formattedDateObj = new Date(yyyy, mm - 1, dd, hh, min, ss);
+			
+			      // Extract components
+			      let hour12 = formattedDateObj.getHours() % 12 || 12;
+			      const minutes = formattedDateObj.getMinutes().toString().padStart(2, "0");
+			      const ampmFinal = formattedDateObj.getHours() >= 12 ? "PM" : "AM";
+			
+			      // Force leading zero in hours
+			      hour12 = hour12.toString().padStart(2, "0");
+			
+			      const timeStr = `${hour12}:${minutes} ${ampmFinal}`;
+			
+			      // Build date with suffix
+			      const day = formattedDateObj.getDate();
+			      const month = formattedDateObj.toLocaleString("en-GB", { month: "long" });
+			      const year = formattedDateObj.getFullYear();
+			
+			      const suffix =
+			        day % 10 === 1 && day !== 11
+			          ? "st"
+			          : day % 10 === 2 && day !== 12
+			          ? "nd"
+			          : day % 10 === 3 && day !== 13
+			          ? "rd"
+			          : "th";
+			
+			      document.getElementById("compilationInfo").innerHTML = 
+			        `Last Updated at ${timeStr} - ${day}${suffix} ${month} ${year} by 
+			         <a href="https://x.com/BFilmyBO" target="_blank"
+    style="font-weight: bold; text-decoration: none; background: linear-gradient(90deg,rgba(0, 212, 255, 1) 0%, rgba(0, 212, 255, 1) 35%, rgba(0, 212, 255, 1) 100%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     display: inline-block;
+   ">BFilmy</a>`;
+			    }
+    await renderLogsAndHourly(movie, date);
+
+			  } catch (err) {
+			    console.error("Error fetching movie data", err);
+			  }
+			});
+			
+			
+			// ========================= Helper Functions =========================
+
+function groupAndRender(data, key, tableId, showTotal) {
+  const grouped = {};
+  const allLocations = new Set();
+
+  // =========================
+  // 🔹 GROUPING
+  // =========================
+  for (const row of data) {
+    let k = row[key] || "N/A";
+
+    // 🚀 Special handling for language
+    if (key === "language") {
+      k = k === "Unknown" ? "__UNKNOWN__" : k;
+    }
+
+    if (!grouped[k]) grouped[k] = [];
+    grouped[k].push(row);
+
+    if (showTotal) allLocations.add(row.theater_name);
+  }
+
+  // =========================
+  // 🔥 MERGE UNKNOWN → TOP LANGUAGE
+  // =========================
+  if (key === "language" && grouped["__UNKNOWN__"]) {
+    let topLang = null;
+    let maxGross = 0;
+
+    for (const [lang, list] of Object.entries(grouped)) {
+      if (lang === "__UNKNOWN__") continue;
+
+      const gross = list.reduce((s, d) => s + d.grossRevenueUSD, 0);
+
+      if (gross > maxGross) {
+        maxGross = gross;
+        topLang = lang;
+      }
+    }
+
+    if (topLang) {
+      grouped[topLang] = [
+        ...grouped[topLang],
+        ...grouped["__UNKNOWN__"]
+      ];
+      delete grouped["__UNKNOWN__"];
+    }
+  }
+
+  // =========================
+  // 🔹 BUILD ROWS
+  // =========================
+  const rows = Object.entries(grouped)
+    .map(([name, list]) => {
+      const gross = list.reduce((s, d) => s + d.grossRevenueUSD, 0);
+      const tickets = list.reduce((s, d) => s + d.totalSeatSold, 0);
+
+      const shows = name.toLowerCase().includes("d-box")
+        ? list.length
+        : list.filter(d => !isDBox(d.format)).length;
+
+      const capacity = list.reduce((s, d) => s + d.totalSeatCount, 0);
+      const occ = capacity ? (tickets / capacity) * 100 : 0;
+      const locs = new Set(list.map((d) => d.theater_name)).size;
+
+      return { name, gross, tickets, shows, occ, locs };
+    })
+    .sort((a, b) => b.gross - a.gross);
+
+  // =========================
+  // 🔹 TOTALS + KPI (only once)
+  // =========================
+if (showTotal) {
+  const tg = rows.reduce((s, r) => s + r.gross, 0);
+  const tt = rows.reduce((s, r) => s + r.tickets, 0);
+  const ts = rows.reduce((s, r) => s + r.shows, 0);
+
+  const totalCapacity = data.reduce((s, d) => s + d.totalSeatCount, 0);
+  const totalCities = new Set(data.map(d => d.city)).size;
+  const totalVenues = allLocations.size;
+
+  const avgOcc = totalCapacity ? (tt / totalCapacity) * 100 : 0;
+  const atp = tt ? (tg / tt) : 0;
+
+  const tps = ts ? (tt / ts) : 0;          // tickets per show
+  const tpv = totalVenues ? (tt / totalVenues) : 0; // tickets per venue
+
+  // ✅ KEEP GROSS
+  animateGross(tg);
+
+  // 🔥 KPI 2
+// KPI 2 → ONLY numbers big
+document.getElementById("kpiPerf1").innerHTML =
+  `<span class="gross-value">${tt.toLocaleString()}</span>`;
+   
+document.getElementById("kpiPerf1a").innerHTML =
+  `<span class="gross-value">${ts}</span>`;
+   
+document.getElementById("kpiPerf1b").innerHTML =
+  `<span class="gross-value">${totalVenues}</span>`;
+
+
+// KPI 3
+document.getElementById("kpiPerf2").innerHTML =
+  `<span class="gross-value">${avgOcc.toFixed(2)}%</span> 
+   </div><div class="gross-inline">
+   <span class="gross-label"></span> • 
+   <span class="gross-value">$${atp.toFixed(2)}</span> 
+   <span class="gross-label">ATP</span>`;
+
+// KPI 4
+document.getElementById("kpiPerf3").innerHTML =
+  `<span class="gross-value">${tps.toFixed(1)}</span>
+   <span class="gross-label">Tics/Show</span> 
+   </div><div class="gross-inline">
+   • <span class="gross-value">${tpv.toFixed(1)}</span>
+   <span class="gross-label">Tics/Venue</span>`;
+}
+
+  // =========================
+  // 🔥 STATE SPLIT RENDER
+  // =========================
+  if (key === "state") {
+
+    const mid = Math.ceil(rows.length / 2);
+    const leftRows = rows.slice(0, mid);
+    const rightRows = rows.slice(mid);
+
+    const leftEl = document.getElementById("stateTableBodyLeft");
+    const rightEl = document.getElementById("stateTableBodyRight");
+
+    // LEFT (Top states)
+    leftEl.innerHTML = leftRows.map((row, i) => {
+      const highlight = i < 3 ? "style='font-weight:650;color:#16a34a'" : "";
+      return `
+        <tr ${highlight}>
+          <td>${row.name}</td>
+          <td>$${row.gross.toFixed(2)}</td>
+          <td>${row.locs}</td>
+          <td>${row.tickets}</td>
+          <td>${row.shows}</td>
+          <td>${row.occ.toFixed(1)}%</td>
+        </tr>`;
+    }).join("");
+
+    // RIGHT (Remaining)
+    rightEl.innerHTML = rightRows.map(row => `
+      <tr>
+        <td>${row.name}</td>
+        <td>$${row.gross.toFixed(2)}</td>
+        <td>${row.locs}</td>
+        <td>${row.tickets}</td>
+        <td>${row.shows}</td>
+        <td>${row.occ.toFixed(1)}%</td>
+      </tr>
+    `).join("");
+
+    return; // 🚀 stop here for state
+  }
+
+  // =========================
+  // 🔹 NORMAL TABLE RENDER
+  // =========================
+  const tbody = document.getElementById(tableId);
+  tbody.innerHTML = "";
+
+  // Totals row (only for state originally, but safe here)
+  if (showTotal) {
+    const tg = rows.reduce((s, r) => s + r.gross, 0);
+    const tt = rows.reduce((s, r) => s + r.tickets, 0);
+    const ts = rows.reduce((s, r) => s + r.shows, 0);
+
+    const totalCapacity = data.reduce((s, d) => s + d.totalSeatCount, 0);
+    const avgOcc = totalCapacity ? (tt / totalCapacity) * 100 : 0;
+
+    tbody.innerHTML += `
+      <tr class="totals-row">
+        <td>Grand Total</td>
+        <td>$${tg.toFixed(2)}</td>
+        <td>${allLocations.size}</td>
+        <td>${tt}</td>
+        <td>${ts}</td>
+        <td>${avgOcc.toFixed(1)}%</td>
+      </tr>`;
+  }
+
+  rows.forEach((row) => {
+    tbody.innerHTML += `
+      <tr>
+        <td>${row.name}</td>
+        <td>$${row.gross.toFixed(2)}</td>
+        ${showTotal ? `<td>${row.locs}</td>` : ""}
+        <td>${row.tickets}</td>
+        <td>${row.shows}</td>
+        <td>${row.occ.toFixed(1)}%</td>
+      </tr>`;
+  });
+}	
+			function topTheatresTable(data, tableId) {
+			  const theatreMap = {};
+			
+			  data.forEach((d) => {
+			    const key = d.theater_name;
+			    if (!theatreMap[key]) {
+			      theatreMap[key] = { gross: 0, tickets: 0, shows: 0, city: d.city };
+			    }
+			    theatreMap[key].gross += d.grossRevenueUSD;
+			    theatreMap[key].tickets += d.totalSeatSold;
+			    if (!isDBox(d.format)) theatreMap[key].shows += 1;
+			  });
+			
+			  const sorted = Object.entries(theatreMap)
+			    .map(([name, val]) => ({ name, ...val }))
+			    .sort((a, b) => b.gross - a.gross)
+			    .slice(0, 20);
+			
+			  const tbody = document.getElementById(tableId);
+			  tbody.innerHTML = sorted
+			    .map(
+			      (row) => `
+			      <tr>
+			        <td>${row.name}</td>
+			        <td>$${row.gross.toFixed(2)}</td>
+			        <td>${row.city}</td>
+			        <td>${row.tickets}</td>
+			        <td>${row.shows}</td>
+			      </tr>`
+			    )
+			    .join("");
+			}
+		</script>
+
+		<script>
+		
+			function animateGross(totalGross) {
+			  const el = document.getElementById("grossCounter");
+			  let current = 0;
+			  const duration = 2200; // 2.2 sec
+			  const stepTime = 16;   // ~60fps
+			  const increment = totalGross / (duration / stepTime);
+			
+			  const counter = setInterval(() => {
+			    current += increment;
+			    if (current >= totalGross) {
+			      current = totalGross;
+			      clearInterval(counter);
+			    }
+			    el.textContent = "$" + current.toLocaleString(undefined, {
+			      minimumFractionDigits: 2,
+			      maximumFractionDigits: 2
+			    });
+			  }, stepTime);
+			}
+		</script>
+		<script>
+			async function renderLogsAndHourly(movie, date) {
+			  try {
+			    const url = `https://usboxoffice.pages.dev/USA%20Data/${movie.id}_${date}_logs.json`;
+			    const resLogs = await fetch(url);
+			    if (!resLogs.ok) throw new Error("Failed to fetch logs file");
+			    const logs = await resLogs.json();
+			
+			    const lastHourBody = document.getElementById("lastHourTableBody");
+			    const logsBody = document.getElementById("logsTableBody");
+			
+			    lastHourBody.innerHTML = "";
+			    logsBody.innerHTML = "";
+			
+    // -----------------------------
+    // Raw logs table (limit 50)
+    // -----------------------------
+    logs
+      .slice()           // clone
+      .reverse()         // newest first
+      .slice(0, 50)      // ✅ limit
+      .forEach((row) => {
+        logsBody.innerHTML += `
+          <tr>
+            <td>${row.time}</td>
+            <td style="text-align:right;">$${Math.round(row.total_gross_usd).toLocaleString()}</td>
+            <td style="text-align:right;">${row.tickets_sold.toLocaleString()}</td>
+            <td>${row.total_shows - (row.dbox_shows || 0)}</td>
+            <td>${row.unique_venues}</td>
+            <td>${row.avg_occupancy.toFixed(2)}%</td>
+          </tr>
+        `;
+      });
+
+
+			
+			    // -----------------------------
+			    // Helpers
+			    // -----------------------------
+			    function parseAMPM(ts) {
+			      const parts = ts.split(" ");
+			      if (parts.length < 2) return new Date(ts); // fallback
+			      const [datePart, timePart, meridian] = parts;
+			      const [y, m, d] = datePart.split("-").map(Number);
+			      let [hh, mm, ss] = timePart.split(":").map(Number);
+			      if (meridian === "PM" && hh !== 12) hh += 12;
+			      if (meridian === "AM" && hh === 12) hh = 0;
+			      return new Date(y, m - 1, d, hh, mm, ss);
+			    }
+			
+			    const points = logs
+			      .map((r) => ({ d: parseAMPM(r.time), ...r }))
+			      .sort((a, b) => a.d - b.d);
+			
+			    function interpolate(before, after, target, key) {
+			      const t0 = before.d.getTime();
+			      const t1 = after.d.getTime();
+			      const t = target.getTime();
+			      if (t1 === t0) return before[key];
+			      return before[key] + (after[key] - before[key]) * ((t - t0) / (t1 - t0));
+			    }
+			
+			    function bracketAt(targetDate) {
+			      let before = null, after = null;
+			      for (let i = 0; i < points.length; i++) {
+			        const p = points[i];
+			        if (p.d <= targetDate) before = p;
+			        if (p.d >= targetDate && !after) after = p;
+			      }
+			      return { before, after };
+			    }
+			
+			    function valueAt(targetDate, key) {
+			      const { before, after } = bracketAt(targetDate);
+			      if (!before || !after) return null;
+			      return interpolate(before, after, targetDate, key);
+			    }
+			
+			    // Exact hour totals via interpolation. Also returns partial/projection for current hour.
+			    function hourMetrics(hourStart) {
+			      const hourEnd = new Date(hourStart);
+			      hourEnd.setHours(hourStart.getHours() + 1);
+			
+			      const startGross = valueAt(hourStart, "total_gross_usd");
+			      const endGross   = valueAt(hourEnd,   "total_gross_usd");
+			      const startTix   = valueAt(hourStart, "tickets_sold");
+			      const endTix     = valueAt(hourEnd,   "tickets_sold");
+			
+			      // last known point inside this hour (if any)
+			      const lastInHour = (() => {
+			        let last = null;
+			        for (const p of points) {
+			          if (p.d >= hourStart && p.d <= hourEnd) last = p;
+			          if (p.d > hourEnd) break;
+			        }
+			        return last;
+			      })();
+			
+			      const exactAvailable = startGross != null && endGross != null && startTix != null && endTix != null;
+			
+			      let exactGross = null, exactTix = null, soFarGross = null, soFarTix = null, progress = 0;
+			
+			      if (exactAvailable) {
+			        exactGross = Math.max(0, endGross - startGross);
+			        exactTix   = Math.max(0, endTix   - startTix);
+			      }
+			
+			      if (startGross != null && startTix != null && lastInHour) {
+			        soFarGross = Math.max(0, lastInHour.total_gross_usd - startGross);
+			        soFarTix   = Math.max(0, lastInHour.tickets_sold     - startTix);
+			        progress   = Math.min(1, Math.max(0, (lastInHour.d - hourStart) / 3600000)); // fraction of hour observed
+			      }
+			
+			      // If partial, project with pace so far.
+			      const projectedGross = !exactAvailable && progress > 0 ? soFarGross / progress : null;
+			      const projectedTix   = !exactAvailable && progress > 0 ? soFarTix   / progress : null;
+			
+			      return {
+			        start: hourStart,
+			        end: hourEnd,
+			        exactGross, exactTix,
+			        soFarGross, soFarTix,
+			        progress,
+			        projectedGross, projectedTix
+			      };
+			    }
+			
+			    // -----------------------------
+			    // Group by hour keys (latest → oldest)
+			    // -----------------------------
+			    const hourGroups = {};
+			    points.forEach((p) => {
+			      const k = `${p.d.getFullYear()}-${p.d.getMonth() + 1}-${p.d.getDate()} ${p.d.getHours()}:00`;
+			      if (!hourGroups[k]) hourGroups[k] = [];
+			      hourGroups[k].push(p);
+			    });
+			    const keys = Object.keys(hourGroups).sort((a, b) => new Date(b) - new Date(a));
+			
+			    // -----------------------------
+			    // Render hourly rows
+			    // -----------------------------
+    keys.slice(0, 50).forEach((hourKey, idx) => {
+      const arr = hourGroups[hourKey].sort((a, b) => a.d - b.d);
+      const base = arr[0];
+      const isLatest = idx === 0;
+			
+			      const hourStart = new Date(base.d);
+			      hourStart.setMinutes(0, 0, 0);
+			      const m = hourMetrics(hourStart);
+			
+			      // Labels (IST / EST)
+			      const startHourIST = m.start.toLocaleTimeString("en-US", { hour: "numeric", hour12: true, timeZone: "Asia/Kolkata" }).replace(":00", "");
+			      const endHourIST   = m.end  .toLocaleTimeString("en-US", { hour: "numeric", hour12: true, timeZone: "Asia/Kolkata" }).replace(":00", "");
+			      const startHourUSA = m.start.toLocaleTimeString("en-US", { hour: "numeric", hour12: true, timeZone: "America/New_York" }).replace(":00", "");
+			      const endHourUSA   = m.end  .toLocaleTimeString("en-US", { hour: "numeric", hour12: true, timeZone: "America/New_York" }).replace(":00", "");
+			      const hourLabelIST = `${startHourIST} - ${endHourIST}${isLatest ? " *" : ""}`;
+			      const hourLabelUSA = `${startHourUSA} - ${endHourUSA}${isLatest ? " *" : ""}`;
+			
+			      // What to show in cells
+			      let ticketsCell, grossCell, currentForGrowth;
+			
+			      if (m.exactGross != null && m.exactTix != null) {
+			        ticketsCell = Math.round(m.exactTix).toLocaleString();
+			        grossCell   = `$${Math.round(m.exactGross).toLocaleString()}`;
+			        currentForGrowth = m.exactGross;
+			      } else {
+			        // Partial hour (latest): show so-far + (~projected)
+			        const soFarT = m.soFarTix != null ? Math.round(m.soFarTix) : 0;
+			        const soFarG = m.soFarGross != null ? Math.round(m.soFarGross) : 0;
+			        const projT  = m.projectedTix != null ? Math.round(m.projectedTix) : null;
+			        const projG  = m.projectedGross != null ? Math.round(m.projectedGross) : null;
+			
+			        ticketsCell = `${soFarT.toLocaleString()}${projT != null ? ` <span class="text-muted">(~${projT.toLocaleString()} est)</span>` : ""}`;
+			        grossCell   = `$${soFarG.toLocaleString()}${projG != null ? ` <span class="text-muted">(~$${projG.toLocaleString()} est)</span>` : ""}`;
+			        currentForGrowth = projG != null ? projG : soFarG; // use projected for growth if available
+			      }
+			
+			      // Growth vs previous hour (use same exact/projection basis)
+			      let trendArrow = "→";
+			      let trendClass = "trend-flat";
+			      let trendBadge = `<span class="badge badge-gray">0%</span>`;
+			
+			      if (idx < keys.length - 1) {
+			        const prevArrFirst = hourGroups[keys[idx + 1]][0];
+			        const prevStart = new Date(prevArrFirst.d);
+			        prevStart.setMinutes(0, 0, 0);
+			        const pm = hourMetrics(prevStart);
+			
+			        const prevForGrowth =
+			          pm.exactGross != null ? pm.exactGross :
+			          (pm.projectedGross != null ? pm.projectedGross : 0);
+			
+			        if (prevForGrowth > 0 && currentForGrowth != null) {
+			          const perc = ((currentForGrowth / prevForGrowth) * 100 - 100);
+			          const percText = `${perc > 0 ? "+" : ""}${perc.toFixed(1)}%`;
+			          if (perc > 0) {
+			            trendArrow = "↑";
+			            trendClass = "trend-up";
+			            trendBadge = `<span class="badge badge-green">${percText}</span>`;
+			          } else if (perc < 0) {
+			            trendArrow = "↓";
+			            trendClass = "trend-down";
+			            trendBadge = `<span class="badge badge-red">${percText}</span>`;
+			          } else {
+			            trendArrow = "→";
+			            trendClass = "trend-flat";
+			            trendBadge = `<span class="badge badge-gray">0%</span>`;
+			          }
+			        } else if (prevForGrowth === 0 && currentForGrowth > 0) {
+			          // Previous hour zero → infinite growth; show +∞ nicely
+			          trendArrow = "↑";
+			          trendClass = "trend-up";
+			          trendBadge = `<span class="badge badge-green">+∞</span>`;
+			        }
+			      }
+			
+			      // Render row
+			      lastHourBody.innerHTML += `
+			        <tr>
+			          <td>${hourLabelIST}</td>
+			          <td>${hourLabelUSA}</td>
+			          <td style="text-align:right;">${ticketsCell}</td>
+			          <td style="text-align:right;">${grossCell}</td>
+			          <td class="${trendClass}" style="font-size:16px; font-weight:bold;">${trendArrow} ${trendBadge}</td>
+			        </tr>
+			      `;
+			    });
+			  } catch (err) {
+			    console.error("Error loading logs:", err);
+			  }
+			}
+
+
+ 
+function renderRecentShows(data) {
+  const tbody = document.getElementById("recentShowsTableBody");
+  tbody.innerHTML = "";
+
+  // ✅ Take last 50 rows in original order
+  const last50 = data.slice(-50);
+
+  last50.forEach(show => {
+    // Showtime format from "YYYY-MM-DD+HH:MM"
+    let formattedTime = "N/A";
+    if (show.date) {
+      const [dayPart, timePart] = show.date.split("+");
+      if (timePart) {
+        const dt = new Date(`${dayPart}T${timePart}`);
+        formattedTime = dt.toLocaleTimeString("en-US", {
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: true
+        });
+      }
+    }
+
+    tbody.innerHTML += `
+      <tr>
+        <td>${show.theater_name}</td>
+        <td>${formattedTime}</td>
+        <td>${show.city || "N/A"}</td>
+        <td>${show.state || "N/A"}</td>
+        <td>${show.language || "N/A"}</td>
+        <td>$${show.grossRevenueUSD.toFixed(2)}</td>
+        <td>${show.totalSeatSold}</td>
+      </tr>
+    `;
+  });
+}
+
+
+function renderTimeOfDayBreakdown(data) {
+  const tbody = document.getElementById("timeOfDayTableBody");
+  tbody.innerHTML = "";
+
+  // Define slots in 24h format
+  const slots = {
+    Morning: { start: 5, end: 11, gross: 0, tickets: 0, shows: 0, locations: new Set() },
+    Noon: { start: 11, end: 16, gross: 0, tickets: 0, shows: 0, locations: new Set() },
+    Evening: { start: 16, end: 20, gross: 0, tickets: 0, shows: 0, locations: new Set() },
+    Night: { start: 20, end: 24, gross: 0, tickets: 0, shows: 0, locations: new Set() },
+    LateNight: { start: 0, end: 5, gross: 0, tickets: 0, shows: 0, locations: new Set() }
+  };
+
+  data.forEach(show => {
+    if (!show.date) return;
+    const [dayPart, timePart] = show.date.split("+");
+    if (!timePart) return;
+
+    const hour = parseInt(timePart.split(":")[0], 10);
+    for (const slot in slots) {
+      if (hour >= slots[slot].start && hour < slots[slot].end) {
+        slots[slot].gross += show.grossRevenueUSD;
+        slots[slot].tickets += show.totalSeatSold;
+if (!isDBox(show.format)) {
+  slots[slot].shows += 1;
+  slots[slot].locations.add(show.theater_name);
+}
+
+      }
+    }
+  });
+
+  // Calculate grand totals
+  let totalGross = 0, totalTickets = 0, totalShows = 0, allLocations = new Set();
+
+  for (const slot in slots) {
+    totalGross += slots[slot].gross;
+    totalTickets += slots[slot].tickets;
+    totalShows += slots[slot].shows;
+    slots[slot].locations.forEach(loc => allLocations.add(loc));
+
+    tbody.innerHTML += `
+      <tr>
+        <td>${slot}</td>
+        <td>$${slots[slot].gross.toFixed(2)}</td>
+        <td>${slots[slot].tickets}</td>
+        <td>${slots[slot].shows}</td>
+        <td>${slots[slot].locations.size}</td>
+      </tr>
+    `;
+  }
+
+  // ✅ Add a grand total row at bottom
+  tbody.innerHTML += `
+    <tr class="totals-row">
+      <td><b>Grand Total</b></td>
+      <td><b>$${totalGross.toFixed(2)}</b></td>
+      <td><b>${totalTickets}</b></td>
+      <td><b>${totalShows}</b></td>
+      <td><b>${allLocations.size}</b></td>
+    </tr>
+  `;
+}
+
+let exportTheatreRows = [];
+
+function renderTheatreOpenData(data) {
+
+  const map = {};
+
+  data.forEach(row => {
+    
+    const theatre = row.theater_name || "Unknown Theatre";
+    const city = row.city || "Unknown City";
+    const state = row.state || "Unknown State";
+
+    // Showtime conversion
+    let showTime = "N/A";
+    if (row.date) {
+      const parts = row.date.split("+");
+      if (parts.length === 2) {
+        const dt = new Date(`${parts[0]}T${parts[1]}`);
+        if (!isNaN(dt)) {
+          showTime = dt.toLocaleTimeString("en-US", {
+            hour: "numeric",
+            minute: "2-digit",
+            hour12: true
+          });
+        }
+      }
+    }
+
+    const key = `${theatre}|${city}|${state}`;
+
+    if (!map[key]) {
+      map[key] = {
+        theatre,
+        city,
+        state,
+        shows: 0,
+        timings: new Set()
+      };
+    }
+
+    if (!isDBox(row.format)) map[key].shows++;
+    if (showTime !== "N/A") map[key].timings.add(showTime);
+  });
+
+  exportTheatreRows = Object.values(map)
+    .map(r => ({ ...r, timings: Array.from(r.timings) }))
+    .sort((a, b) => b.shows - a.shows);
+
+  document.getElementById("TheatreOpenBody").innerHTML = exportTheatreRows.map(r => `
+    <tr>
+      <td>${r.theatre}</td>
+      <td>${r.city}</td>
+      <td>${r.state}</td>
+      <td>${r.shows}</td>
+      <td>${r.timings.length ? r.timings.join(", ") : "NO SHOWTIME"}</td>
+    </tr>
+  `).join("");
+}
+
+
+
+function exportTheatreData(type) {
+  const filename = `USA_Theatre_Openings_${new Date().toISOString().replace(/[:.]/g,"-")}`;
+
+  if (type === "json") {
+    const json = JSON.stringify(exportTheatreRows, null, 2);
+    download(`${filename}.json`, json, "application/json");
+    return;
+  }
+
+  if (type === "txt") {
+    const txt = exportTheatreRows.map(r =>
+      `${r.theatre} | ${r.city}, ${r.state} | Shows: ${r.shows} | Times: ${r.timings.join(", ")}`
+    ).join("\n");
+
+    download(`${filename}.txt`, txt, "text/plain");
+    return;
+  }
+
+  if (type === "csv") {
+    const header = `"Theatre","City","State","Shows","Show Times"`;
+    const rows = exportTheatreRows.map(r =>
+      `"${r.theatre}","${r.city}","${r.state}",${r.shows},"${r.timings.join(", ")}"`
+    );
+
+    download(`${filename}.csv`, [header, ...rows].join("\n"), "text/csv");
+    return;
+  }
+
+  if (type === "png") {
+    const element = document.getElementById("TheatreOpenTable");
+    html2canvas(element, {scale: 2, backgroundColor: "#fff"}).then(canvas => {
+      canvas.toBlob(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `${filename}.png`;
+        a.click();
+      });
+    });
+  }
+}
+
+function download(filename, text, mime) {
+  const blob = new Blob([text], {type: mime});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+</script>
+
+
+</body></html>

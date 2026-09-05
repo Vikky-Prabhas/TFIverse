@@ -161,8 +161,15 @@ export async function getLiveBoxOfficeSummary(source?: 'BMS' | 'PAYTM' | 'ALL') 
 // ============================================================================
 // HUB LANDING PAGE DATA
 // ============================================================================
-export async function getBoxOfficeHubData() {
+export async function getBoxOfficeHubData(mode: 'LIVE' | 'ADVANCE' | 'ALL' = 'ALL') {
     try {
+        const sessionConditions = [];
+        if (mode === 'LIVE') {
+            sessionConditions.push(eq(sql`date_trunc('day', ${realtimeSessions.showDate})`, sql`current_date`));
+        } else if (mode === 'ADVANCE') {
+            sessionConditions.push(gt(sql`date_trunc('day', ${realtimeSessions.showDate})`, sql`current_date`));
+        }
+
         // 1. Top movies by gross revenue
         const topMoviesRaw = await db.select({
             movieId: realtimeSessions.movieId,
@@ -175,6 +182,7 @@ export async function getBoxOfficeHubData() {
             uniqueStates: sql<number>`count(distinct ${realtimeSessions.state})`.mapWith(Number),
         })
         .from(realtimeSessions)
+        .where(sessionConditions.length > 0 ? and(...sessionConditions) : undefined)
         .groupBy(realtimeSessions.movieId)
         .orderBy(desc(sum(realtimeSessions.grossRevenue)))
         .limit(20);
@@ -215,6 +223,7 @@ export async function getBoxOfficeHubData() {
             shows: count(),
         })
         .from(realtimeSessions)
+        .where(sessionConditions.length > 0 ? and(...sessionConditions) : undefined)
         .groupBy(realtimeSessions.venueName, realtimeSessions.city, realtimeSessions.state, realtimeSessions.chainName)
         .having(sql`sum(${realtimeSessions.totalSeats}) > 0`)
         .orderBy(desc(sql`cast(sum(${realtimeSessions.soldSeats}) as float) / nullif(cast(sum(${realtimeSessions.totalSeats}) as float), 0)`))
@@ -230,7 +239,8 @@ export async function getBoxOfficeHubData() {
             totalGross: sum(realtimeSessions.grossRevenue).mapWith(Number),
             totalSold: sum(realtimeSessions.soldSeats).mapWith(Number),
         })
-        .from(realtimeSessions);
+        .from(realtimeSessions)
+        .where(sessionConditions.length > 0 ? and(...sessionConditions) : undefined);
 
         // 4. Last updated time
         const lastUpdate = await db.select({
@@ -482,9 +492,25 @@ export async function getMovieBoxOfficeDetails(movieId: number, dateStr?: string
         const picAggregate = await db.select({
             totalGross: sum(realtimeSessions.grossRevenue).mapWith(Number),
             totalSold: sum(realtimeSessions.soldSeats).mapWith(Number),
+            totalSeats: sum(realtimeSessions.totalSeats).mapWith(Number),
+            shows: count(),
+            hfCount: sql<number>`count(*) filter (where ${realtimeSessions.availableSeats} = 0)`.mapWith(Number),
+            ffCount: sql<number>`count(*) filter (where ${realtimeSessions.availableSeats} > 0 and cast(${realtimeSessions.availableSeats} as float) / nullif(cast(${realtimeSessions.totalSeats} as float), 0) < 0.10)`.mapWith(Number),
         })
         .from(realtimeSessions)
         .where(and(...picConditions));
+
+        if (picAggregate[0]?.shows > 0) {
+            chainSummary.unshift({
+                chain: 'PIC TOTAL',
+                shows: picAggregate[0].shows,
+                sold: picAggregate[0].totalSold,
+                totalSeats: picAggregate[0].totalSeats,
+                gross: picAggregate[0].totalGross,
+                ffCount: picAggregate[0].ffCount,
+                hfCount: picAggregate[0].hfCount,
+            });
+        }
 
         return {
             movie,

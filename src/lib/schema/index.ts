@@ -10,6 +10,7 @@ export * from './relations';
 export * from './moderation';
 export * from './tracking';
 export * from './sync';
+export * from './venues';
 
 
 
