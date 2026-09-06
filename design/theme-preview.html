@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TFIverse — Theme Proposal: SINGLE SCREEN</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* ── surface & ink ─────────────────────────────── */
+  --lac:        #17100E;  /* base. auditorium, lights down */
+  --lac-raise:  #221715;  /* raised surface. a TONE, not an alpha */
+  --lac-deep:   #0C0807;  /* recessed / behind media */
+  --bone:       #EDE6DA;  /* ticket stock. primary ink + inverted surfaces */
+  --bone-mute:  #A79C8E;  /* secondary ink */
+  --bone-faint: #8F8477;  /* tertiary ink, rules */
+  --ink-mute:   #665A4E;  /* secondary ink ON bone surfaces */
+  /* ── status colour. never decoration ───────────── */
+  --gold:       #C89A3C;  /* identity, ledger rules, ornament */
+  --marigold:   #E8862B;  /* heat: rising, trending, live */
+  --kumkum:     #A81F2D;  /* negative: fills + borders only */
+  --kumkum-lit: #E0666E;  /* negative TEXT on dark surfaces */
+
+  --r-data: 0px;   /* data surfaces: no radius */
+  --r-act:  4px;   /* interactive: 4px. radius = you can touch it */
+  --r-media:2px;
+
+  --tier-a: 160px; --tier-b: 96px; --tier-c: 48px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--lac); color:var(--bone);
+  font-family:'Instrument Sans',system-ui,sans-serif;
+  font-size:15px; line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+/* ── type roles ─────────────────────────────────── */
+.d-xl,.d-l,.d-m,.num{
+  font-family:'Fraunces',Georgia,serif;
+  font-variation-settings:'SOFT' 0,'WONK' 1;
+}
+.d-xl{font-size:clamp(3.5rem,11vw,9rem);font-weight:900;letter-spacing:-.045em;line-height:.82}
+.d-l {font-size:clamp(2rem,4.6vw,3.75rem);font-weight:800;letter-spacing:-.03em;line-height:.94}
+.d-m {font-size:1.5rem;font-weight:700;letter-spacing:-.02em;line-height:1.15}
+.num {font-weight:900;letter-spacing:-.03em;font-variant-numeric:tabular-nums;line-height:.9}
+.body-l{font-size:1.0625rem;line-height:1.65;max-width:62ch;color:var(--bone-mute)}
+.body  {font-size:.9375rem;line-height:1.6;max-width:68ch;color:var(--bone-mute)}
+.meta  {font-size:.8125rem;font-weight:500;color:var(--bone-faint);letter-spacing:0}
+
+/* ── the section label. replaces 437 all-caps tracked eyebrows.
+      small-caps + index numeral + short rule: it tells you WHERE you
+      are in the page instead of just sitting there looking designed. */
+.ledger-label{
+  display:flex; align-items:baseline; gap:14px;
+  font-size:.9375rem; font-weight:600;
+  font-variant-caps:all-small-caps; letter-spacing:.06em;
+  color:var(--gold); margin-bottom:28px;
+}
+.ledger-label i{
+  font-family:'Fraunces',serif; font-style:normal; font-weight:700;
+  font-size:.75rem; font-variant-numeric:tabular-nums;
+  color:var(--bone-faint);
+}
+.ledger-label s{flex:1; height:1px; background:var(--gold); opacity:.22; text-decoration:none}
+
+/* ── rules: ledger, not broadsheet. tied to rows of numbers. ── */
+.rule{height:1px;background:var(--gold);opacity:.16;border:0}
+.rule-strong{height:2px;background:var(--gold);opacity:.5;border:0;width:48px}
+
+/* ── layout ─────────────────────────────────────── */
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+.tier-a{padding:var(--tier-a) 0}
+.tier-b{padding:var(--tier-b) 0}
+.tier-c{padding:var(--tier-c) 0}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:28px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+
+/* ── THE SIGNATURE ELEMENT: the FDFS stub ───────────
+   The box-office engine's atomic unit is one showtime:
+   venue, seats, price. So the site's one bold object is
+   the ticket. Hard offset shadow — a physical stub on a
+   counter — is the only shadow in the entire system. */
+.stub{
+  display:grid;grid-template-columns:1fr auto;
+  background:var(--bone); color:var(--lac);
+  box-shadow:5px 5px 0 rgba(0,0,0,.55);
+  border-radius:var(--r-data);
+  position:relative; overflow:hidden;
+}
+.stub-main{padding:22px 24px}
+.stub-tear{
+  border-left:2px dashed rgba(23,16,14,.28);
+  padding:22px 20px; display:flex; flex-direction:column;
+  justify-content:space-between; align-items:center; text-align:center;
+  min-width:104px; background:rgba(23,16,14,.035);
+}
+.stub-k{font-size:.75rem;font-variant-caps:all-small-caps;letter-spacing:.07em;
+  font-weight:600;color:var(--ink-mute)}
+.stub-v{font-family:'Fraunces',serif;font-weight:800;letter-spacing:-.01em;
+  font-variant-numeric:tabular-nums}
+.stub-row{display:flex;gap:34px;margin-top:16px}
+.stamp{
+  display:inline-block;padding:5px 12px 4px;border:2px solid var(--kumkum);
+  color:var(--kumkum);font-weight:700;font-size:.8125rem;
+  font-variant-caps:all-small-caps;letter-spacing:.1em;
+  transform:rotate(-4deg);border-radius:2px;
+}
+.stamp.hit{border-color:#1E6B3A;color:#1E6B3A}
+
+/* ── ledger row: the box-office register ────────── */
+.ledger{border-top:1px solid rgba(200,154,60,.16)}
+.lrow{
+  display:grid;grid-template-columns:34px 1fr 116px 92px;
+  align-items:center;gap:16px;padding:15px 4px;
+  border-bottom:1px solid rgba(200,154,60,.16);
+}
+.lrow:hover{background:var(--lac-raise)}
+.lrank{font-family:'Fraunces',serif;font-weight:700;font-size:.9375rem;
+  color:var(--bone-faint);font-variant-numeric:tabular-nums}
+.lname{font-weight:600;color:var(--bone)}
+.lname span{display:block;font-size:.8125rem;font-weight:400;color:var(--bone-faint)}
+.lnum{font-family:'Fraunces',serif;font-weight:800;font-size:1.25rem;
+  font-variant-numeric:tabular-nums;text-align:right;letter-spacing:-.02em}
+.ldelta{text-align:right;font-size:.875rem;font-weight:600;font-variant-numeric:tabular-nums}
+.up{color:var(--marigold)} .down{color:var(--kumkum-lit)}
+.live{display:inline-flex;align-items:center;gap:7px;font-size:.75rem;font-weight:600;
+  font-variant-caps:all-small-caps;letter-spacing:.08em;color:var(--marigold)}
+.live b{width:6px;height:6px;border-radius:99px;background:var(--marigold);
+  animation:beat 2s ease-in-out infinite}
+@keyframes beat{0%,100%{opacity:1}50%{opacity:.25}}
+a:focus-visible,button:focus-visible{outline:2px solid var(--marigold);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ── nav: transparent over media, tone after scroll ── */
+.nav{display:flex;align-items:center;justify-content:space-between;
+  padding:16px 28px;border-bottom:1px solid rgba(200,154,60,.16);background:var(--lac)}
+.nav a{color:var(--bone-mute);text-decoration:none;font-size:.9375rem;font-weight:500}
+.nav a:hover{color:var(--bone)}
+.nav nav{display:flex;gap:26px;align-items:center;flex-wrap:wrap}
+.mark{font-family:'Fraunces',serif;font-weight:900;font-size:1.375rem;
+  letter-spacing:-.04em;color:var(--bone)}
+.mark em{font-style:normal;color:var(--gold)}
+.btn{background:var(--gold);color:#1A1207;font-weight:600;font-size:.875rem;
+  padding:9px 18px;border-radius:var(--r-act);text-decoration:none;border:0;cursor:pointer}
+.btn-ghost{border:1px solid rgba(237,230,218,.28);color:var(--bone);background:none;
+  font-weight:500;font-size:.875rem;padding:8px 17px;border-radius:var(--r-act);text-decoration:none}
+
+/* ── swatches ───────────────────────────────────── */
+.sw{display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));gap:2px}
+.swx{padding:20px 16px 16px;min-height:132px;display:flex;flex-direction:column;
+  justify-content:flex-end}
+.swx b{display:block;font-family:'Fraunces',serif;font-size:1rem;font-weight:700}
+.swx code{font-size:.75rem;font-family:'Instrument Sans';opacity:.7}
+.swx i{font-style:normal;font-size:.8125rem;display:block;margin-top:5px;opacity:.75}
+
+/* ── before/after comparison ────────────────────── */
+.cmp{display:grid;grid-template-columns:1fr 1fr;gap:2px;border:1px solid rgba(200,154,60,.16)}
+@media(max-width:820px){.cmp{grid-template-columns:1fr}}
+.cmp>div{padding:26px}
+.cmp-old{background:#000}
+.cmp-tag{font-size:.75rem;font-variant-caps:all-small-caps;letter-spacing:.09em;
+  font-weight:600;margin-bottom:18px;display:block}
+.cmp-old .cmp-tag{color:var(--bone-faint)}
+.cmp-new .cmp-tag{color:var(--gold)}
+
+/* the current site's card, reproduced honestly for comparison */
+.old-card{background:linear-gradient(135deg,rgba(255,255,255,.03),rgba(255,255,255,.01));
+  border:1px solid rgba(255,255,255,.08);border-radius:1rem;padding:28px;
+  box-shadow:0 8px 32px rgba(0,0,0,.4);font-family:'Instrument Sans'}
+.old-chip{width:40px;height:40px;border-radius:.75rem;background:rgba(255,255,255,.03);
+  border:1px solid rgba(255,255,255,.08);margin-bottom:16px}
+.old-lbl{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.2em;
+  color:rgba(255,255,255,.3)}
+.old-h{font-size:1.125rem;font-weight:700;color:#fff;margin:6px 0}
+
+/* new equivalent: no card. rule + type + one number. */
+.new-item{border-top:2px solid rgba(200,154,60,.5);padding-top:16px}
+.callout{background:var(--bone);color:var(--lac);padding:34px 30px}
+.callout .body-l{color:#4A4038}
+footer.foot{border-top:1px solid rgba(200,154,60,.16);padding:44px 0 64px;
+  color:var(--bone-faint);font-size:.875rem}
+</style>
+</head>
+<body>
+
+<!-- ══ NAV: real routes exposed, box office promoted to marquee ══ -->
+<header class="nav">
+  <a href="#" class="mark">TFI<em>verse</em></a>
+  <nav>
+    <a href="#">Icons</a>
+    <a href="#">Movies</a>
+    <a href="#" style="color:var(--bone)">Box&nbsp;Office <span class="live"><b></b>live</span></a>
+    <a href="#">Upcoming</a>
+    <a href="#">On&nbsp;OTT</a>
+    <a href="#">Memes</a>
+    <a href="#">Tier&nbsp;Lists</a>
+  </nav>
+  <span style="display:flex;gap:12px;align-items:center">
+    <a href="#" class="btn-ghost">Sign in</a>
+    <a href="#" class="btn">Create account</a>
+  </span>
+</header>
+
+<!-- ══ TIER A — the one marquee moment ══ -->
+<section class="tier-a" style="background:
+    radial-gradient(120% 90% at 50% 0%,#2A1A14 0%,var(--lac) 58%,var(--lac-deep) 100%)">
+  <div class="wrap" style="text-align:center">
+    <h1 class="d-xl">TFI<span style="color:var(--gold)">verse</span></h1>
+    <hr class="rule-strong" style="margin:34px auto 26px">
+    <p class="body-l" style="margin:0 auto 40px;text-align:center">
+      Every collection, every record, every argument — settled. The Telugu
+      film register, kept properly.
+    </p>
+    <a href="#" class="btn" style="padding:13px 26px;font-size:.9375rem">Open today’s register</a>
+  </div>
+</section>
+<!-- ══ THE SIGNATURE OBJECT ══ -->
+<section class="tier-b">
+  <div class="wrap">
+    <div class="ledger-label"><i>01</i> the one bold object <s></s></div>
+    <div class="grid2" style="align-items:start">
+      <div>
+        <h2 class="d-l">The stub.</h2>
+        <p class="body" style="margin-top:20px">
+          The scraper’s smallest unit is a single showtime — venue, seats,
+          price. That is already a ticket. So the ticket becomes the site’s
+          one loud object, and everything else stays quiet.
+        </p>
+        <p class="body" style="margin-top:14px">
+          It carries the hard offset shadow — the only shadow in the whole
+          system. No soft grey blur under anything else, ever.
+        </p>
+      </div>
+      <div class="stub">
+        <div class="stub-main">
+          <span class="stub-k">Prasads Multiplex · Hyderabad</span>
+          <div class="d-m" style="margin:7px 0 4px">Devara Part 2</div>
+          <span class="stamp hit">housefull</span>
+          <div class="stub-row">
+            <span><span class="stub-k">Seats</span>
+              <div class="stub-v">312 / 312</div></span>
+            <span><span class="stub-k">Nett</span>
+              <div class="stub-v">₹4.11 L</div></span>
+          </div>
+        </div>
+        <div class="stub-tear">
+          <span class="stub-k">Screen 3</span>
+          <div class="stub-v" style="font-size:1.5rem">09:00</div>
+          <span class="stub-k">FDFS</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ══ PALETTE ══ -->
+<section class="tier-b" style="background:var(--lac-deep)">
+  <div class="wrap">
+    <div class="ledger-label"><i>02</i> palette — every token has a job <s></s></div>
+    <div class="sw">
+      <div class="swx" style="background:#17100E;border:1px solid rgba(200,154,60,.16)">
+        <b>lac</b><code>#17100E</code><i>base. warm, not #000</i></div>
+      <div class="swx" style="background:#221715">
+        <b>lac-raise</b><code>#221715</code><i>raised surface</i></div>
+      <div class="swx" style="background:#EDE6DA;color:#17100E">
+        <b>bone</b><code>#EDE6DA</code><i>ink + ticket stock</i></div>
+      <div class="swx" style="background:#C89A3C;color:#1A1207">
+        <b>gold</b><code>#C89A3C</code><i>identity, rules</i></div>
+      <div class="swx" style="background:#E8862B;color:#1A1207">
+        <b>marigold</b><code>#E8862B</code><i>rising · live · trending</i></div>
+      <div class="swx" style="background:#A81F2D">
+        <b>kumkum</b><code>#A81F2D</code><i>flop · alert · fills only</i></div>
+      <div class="swx" style="background:#17100E;color:#E0666E;
+           border:1px solid rgba(224,102,110,.35)">
+        <b>kumkum-lit</b><code>#E0666E</code><i>negative text on dark</i></div>
+    </div>
+    <p class="body" style="margin-top:26px">
+      Colour is status, never decoration. If a number is orange it is because
+      it went up. If a badge is red it is because the film lost money. Nothing
+      is tinted to look nice — so when colour appears, it means something.
+    </p>
+    <p class="meta" style="margin-top:12px">
+      Contrast, measured: bone 15.2:1 · gold 7.3:1 · marigold 7.1:1 ·
+      bone-faint 5.1:1, all on lac. Deep kumkum is 2.6:1 so it never carries
+      text on dark — it is a fill with bone on top (5.8:1) or a stamp border,
+      and kumkum-lit (5.6:1) does the falling-number text instead.
+    </p>
+  </div>
+</section>
+<!-- ══ TYPE ══ -->
+<section class="tier-b">
+  <div class="wrap">
+    <div class="ledger-label"><i>03</i> two families, four jobs <s></s></div>
+    <div style="display:grid;gap:38px">
+      <div>
+        <p class="meta">Fraunces 900 · display + wordmark · SOFT 0 WONK 1 · tracking −.045em</p>
+        <div class="d-xl" style="margin-top:6px">Mahesh</div>
+      </div>
+      <hr class="rule">
+      <div>
+        <p class="meta">Fraunces 800 · section heads · −.03em</p>
+        <div class="d-l" style="margin-top:6px">A legacy, kept on the books</div>
+      </div>
+      <hr class="rule">
+      <div>
+        <p class="meta">Fraunces 900 · tabular figures · the number is the hero</p>
+        <div class="num" style="font-size:clamp(2.5rem,7vw,5.5rem);margin-top:4px">
+          ₹1,247.60<span style="font-size:.32em;color:var(--bone-faint);letter-spacing:0"> cr ww</span>
+        </div>
+      </div>
+      <hr class="rule">
+      <div>
+        <p class="meta">Instrument Sans 400/500/600 · everything you actually read</p>
+        <p class="body-l" style="margin-top:8px">
+          Chiselled serif for anything that behaves like a title card. A plain,
+          slightly odd grotesque for anything that behaves like information.
+          Nothing set in Geist, which is the font every generated site ships with.
+        </p>
+        <p class="body-l" style="font-family:'Noto Sans Telugu',serif;margin-top:12px">
+          తెలుగు సినిమా — Noto Sans Telugu stays, for script only.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ══ LEDGER ══ -->
+<section class="tier-b" style="background:var(--lac-deep)">
+  <div class="wrap">
+    <div class="ledger-label"><i>04</i> the register <s></s>
+      <span class="live"><b></b>updated 11 min ago</span></div>
+    <div class="ledger">
+      <div class="lrow"><span class="lrank">1</span>
+        <span class="lname">Devara Part 2 <span>Day 4 · 3,411 shows</span></span>
+        <span class="lnum">₹41.20<span style="font-size:.6em;color:var(--bone-faint)"> cr</span></span>
+        <span class="ldelta up">+18.4%</span></div>
+      <div class="lrow"><span class="lrank">2</span>
+        <span class="lname">Kubera <span>Day 11 · 1,982 shows</span></span>
+        <span class="lnum">₹12.85<span style="font-size:.6em;color:var(--bone-faint)"> cr</span></span>
+        <span class="ldelta up">+3.1%</span></div>
+      <div class="lrow"><span class="lrank">3</span>
+        <span class="lname">Mirai <span>Day 18 · 604 shows</span></span>
+        <span class="lnum">₹2.06<span style="font-size:.6em;color:var(--bone-faint)"> cr</span></span>
+        <span class="ldelta down">−22.7%</span></div>
+    </div>
+    <p class="body" style="margin-top:26px">
+      No cards. A rule per row, rank in serif, the figure in tabular numerals so
+      the decimal points line up down the column. This is where the product
+      actually competes, so it gets the clearest treatment on the site.
+    </p>
+  </div>
+</section>
+<!-- ══ BEFORE / AFTER ══ -->
+<section class="tier-b">
+  <div class="wrap">
+    <div class="ledger-label"><i>05</i> same content, both systems <s></s></div>
+    <div class="cmp">
+      <div class="cmp-old">
+        <span class="cmp-tag">now — glass-premium + glow-card</span>
+        <div class="old-card">
+          <div class="old-chip"></div>
+          <div class="old-lbl">Explore</div>
+          <div class="old-h">Box Office</div>
+          <div style="font-size:.875rem;color:rgba(255,255,255,.3)">
+            Live collections &amp; tracking</div>
+        </div>
+        <p style="font-size:.8125rem;color:var(--bone-faint);margin-top:18px;line-height:1.55">
+          One radius, one border, one shadow, one grey chip, one all-caps
+          eyebrow — repeated nine times down the page with identical padding
+          and the same fade-up on entry.
+        </p>
+      </div>
+      <div class="cmp-new">
+        <span class="cmp-tag">proposed — rule + type + a real number</span>
+        <div class="new-item">
+          <div class="d-m">Box Office</div>
+          <p class="meta" style="margin-top:5px">3 films tracking · 5,537 venues</p>
+          <div class="num" style="font-size:2.25rem;margin-top:14px;color:var(--bone)">₹56.11
+            <span style="font-size:.36em;color:var(--bone-faint);letter-spacing:0">cr today</span></div>
+        </div>
+        <p style="font-size:.8125rem;color:var(--bone-faint);margin-top:18px;line-height:1.55">
+          The chrome is gone and the tile now says something true. A section
+          earns a card only when it carries a poster.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ══ RULES ══ -->
+<section class="tier-b" style="background:var(--lac-deep)">
+  <div class="wrap">
+    <div class="ledger-label"><i>06</i> the rules, so the site stays one thing <s></s></div>
+    <div class="grid2">
+      <div class="callout">
+        <div class="d-m">Radius means touchable</div>
+        <p class="body-l" style="margin-top:10px">
+          0px on data surfaces and ledger rows. 4px on anything you can click.
+          2px on posters. Round only on avatars. Right now everything is
+          <code>rounded-2xl</code>, so radius tells you nothing.
+        </p>
+      </div>
+      <div class="callout">
+        <div class="d-m">Depth by tone, not by alpha</div>
+        <p class="body-l" style="margin-top:10px">
+          Surfaces step lac-deep → lac → lac-raise. No more stacking
+          <code>white/[0.03]</code> on <code>white/[0.02]</code>, which is why
+          the current page looks flat in bright light and muddy in the dark.
+        </p>
+      </div>
+      <div class="callout">
+        <div class="d-m">Three section weights</div>
+        <p class="body-l" style="margin-top:10px">
+          160px for the one marquee, 96px for standard sections, 48px for
+          scroll rails that bleed off the right edge. Nine sections at
+          identical <code>py-8</code> is why nothing reads as important.
+        </p>
+      </div>
+      <div class="callout">
+        <div class="d-m">One orchestrated motion</div>
+        <p class="body-l" style="margin-top:10px">
+          Keep the 222-frame scroll sequence — it is the best thing on the site.
+          Then delete every per-section <code>whileInView</code> fade and every
+          card hover-lift. Motion after that only answers a tap.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+    <span class="mark" style="font-size:1.125rem">TFI<em>verse</em></span>
+    <p class="meta" style="margin-top:10px">
+      Theme proposal · SINGLE SCREEN · not yet applied to the app
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

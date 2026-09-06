@@ -1,6 +1,6 @@
 import { getBoxOfficeHubData } from '@/app/actions/boxoffice';
 import { Suspense } from 'react';
-import { CinematicHero, LiveTrackingHub, TrendingTheaters } from '../ui';
+import { LiveTrackingHub, TrendingTheaters } from '../ui';
 import Link from 'next/link';
 import { ArrowLeftIcon } from 'lucide-react';
 

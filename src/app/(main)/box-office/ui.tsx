@@ -176,7 +176,7 @@ export function SplitHero({ stats, sysStats }: { stats: any, sysStats: any }) {
 
 
 // 2. Live Pulse Tracking Hub
-export function LiveTrackingHub({ liveTopMovies, sysStats }: { liveTopMovies: any[], sysStats: any }) {
+export function LiveTrackingHub({ liveTopMovies, sysStats, title }: { liveTopMovies: any[], sysStats: any, title?: string }) {
   if (!liveTopMovies || liveTopMovies.length === 0) return null;
 
   return (
@@ -192,7 +192,7 @@ export function LiveTrackingHub({ liveTopMovies, sysStats }: { liveTopMovies: an
             />
           </div>
           <h2 className="text-sm font-black uppercase tracking-[0.3em] text-white/90 drop-shadow-[0_0_10px_rgba(255,255,255,0.3)]">
-            Live Pulse Tracker
+            {title ?? "Live Pulse Tracker"}
           </h2>
         </div>
         {sysStats && (

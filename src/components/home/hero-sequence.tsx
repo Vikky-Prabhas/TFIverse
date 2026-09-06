@@ -44,7 +44,7 @@ export default function HeroSequence({ isAuthenticated }: HeroSequenceProps) {
 
   if (!mounted) return (
     <div className="h-screen bg-black flex items-center justify-center">
-      <span className="text-white/5 text-[10px] uppercase tracking-[0.5em] animate-pulse">Loading Experience</span>
+      <span className="text-white/60 text-[10px] uppercase tracking-[0.5em] animate-pulse">Loading Experience</span>
     </div>
   );
 
@@ -92,12 +92,8 @@ function StaticHero({ isAuthenticated, onEnableSequence }: { isAuthenticated: bo
           <span className="bg-gradient-to-b from-white via-white/80 to-white/20 bg-clip-text text-transparent">verse</span>
         </h1>
 
-        <p className="text-white/40 text-sm md:text-base mb-4 leading-relaxed max-w-md mx-auto">
+        <p className="text-white/70 text-sm md:text-base mb-10 leading-relaxed max-w-md mx-auto">
           The definitive Telugu cinema experience. Heroes. Films. Culture. All in one universe.
-        </p>
-
-        <p className="text-white/20 text-[11px] tracking-[0.3em] uppercase font-bold mb-10">
-          Welcome to the TFI Community
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
@@ -106,8 +102,8 @@ function StaticHero({ isAuthenticated, onEnableSequence }: { isAuthenticated: bo
               <Link href="/register" className="px-10 py-4 bg-white text-black font-bold text-[13px] uppercase tracking-[0.2em] rounded-full transition-all duration-500 hover:shadow-[0_0_50px_rgba(255,255,255,0.2)] active:scale-[0.97]">
                 Get Started
               </Link>
-              <Link href="/login" className="px-10 py-4 text-white/50 hover:text-white text-[13px] font-semibold uppercase tracking-[0.2em] transition-colors duration-300">
-                Sign In →
+              <Link href="/login" className="px-10 py-4 text-white/70 hover:text-white text-[13px] font-semibold uppercase tracking-[0.2em] transition-colors duration-300">
+                Sign In
               </Link>
             </>
           ) : (
@@ -125,15 +121,15 @@ function StaticHero({ isAuthenticated, onEnableSequence }: { isAuthenticated: bo
         transition={{ delay: 1.5 }}
         className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3"
       >
-        <span className="text-white/20 text-[9px] tracking-[0.4em] uppercase font-bold">Scroll Down</span>
-        <div className="w-px h-10 bg-gradient-to-b from-white/40 to-transparent animate-pulse" />
+        <span className="text-white/60 text-[9px] tracking-[0.4em] uppercase font-bold">Scroll Down</span>
+        <div className="w-px h-10 bg-gradient-to-b from-white/55 to-transparent animate-pulse" />
       </motion.div>
 
       {/* Enable Cinematic Toggle — Desktop only */}
       {onEnableSequence && (
         <button
           onClick={onEnableSequence}
-          className="absolute top-24 right-6 text-[10px] text-white/20 hover:text-white/50 uppercase tracking-widest font-bold transition-colors border border-white/[0.06] hover:border-white/20 px-4 py-2 rounded-full z-20"
+          className="absolute top-24 right-6 text-[10px] text-white/60 hover:text-white uppercase tracking-widest font-bold transition-colors border border-white/[0.12] hover:border-white/30 px-4 py-2 rounded-full z-20"
         >
           ▶ Cinematic Mode
         </button>
@@ -285,7 +281,7 @@ function ScrollSequence({ isAuthenticated, onSkip }: { isAuthenticated: boolean;
             <span className="text-white drop-shadow-[0_0_60px_rgba(255,255,255,0.15)]">TFI</span>
             <span className="bg-gradient-to-b from-white via-white/80 to-white/20 bg-clip-text text-transparent">verse</span>
           </h1>
-          <p className="text-white/40 text-[11px] tracking-[0.3em] uppercase font-bold">Scroll to Experience</p>
+          <p className="text-white/65 text-[11px] tracking-[0.3em] uppercase font-bold">Scroll to Experience</p>
         </motion.div>
 
         {/* Enter CTA (bottom) */}
@@ -295,7 +291,7 @@ function ScrollSequence({ isAuthenticated, onSkip }: { isAuthenticated: boolean;
         >
           <button
             onClick={() => window.scrollTo({ top: window.innerHeight * 6, behavior: "smooth" })}
-            className="mb-8 px-6 py-3 rounded-full bg-white/[0.03] hover:bg-white/[0.08] transition-colors backdrop-blur-md text-[10px] font-bold tracking-[0.5em] uppercase text-white flex items-center gap-3 border border-white/[0.08] cursor-pointer"
+            className="mb-8 px-6 py-3 rounded-full bg-white/[0.06] hover:bg-white/[0.12] transition-colors backdrop-blur-md text-[10px] font-bold tracking-[0.5em] uppercase text-white flex items-center gap-3 border border-white/20 hover:border-white/40 cursor-pointer"
           >
             <span className="relative flex h-1.5 w-1.5">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-40" />
@@ -319,7 +315,7 @@ function ScrollSequence({ isAuthenticated, onSkip }: { isAuthenticated: boolean;
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-black/5 to-transparent translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-[1.5s]" />
                 <span className="relative z-10">Get Started</span>
               </button>
-              <Link href="/login" className="px-10 py-5 text-white/50 hover:text-white text-[13px] font-semibold uppercase tracking-[0.2em] transition-colors duration-300">Sign In →</Link>
+              <Link href="/login" className="px-10 py-5 text-white/70 hover:text-white text-[13px] font-semibold uppercase tracking-[0.2em] transition-colors duration-300">Sign In</Link>
             </div>
           ) : (
             <button onClick={() => window.scrollTo({ top: window.innerHeight * 6, behavior: "smooth" })} className="px-10 py-5 bg-white text-black font-bold text-[13px] uppercase tracking-[0.2em] rounded-full transition-all duration-500 hover:shadow-[0_0_50px_rgba(255,255,255,0.2)] active:scale-[0.97]">Enter Universe</button>
@@ -329,7 +325,7 @@ function ScrollSequence({ isAuthenticated, onSkip }: { isAuthenticated: boolean;
         {/* Skip Toggle */}
         <button
           onClick={onSkip}
-          className="absolute top-24 right-6 text-[10px] text-white/20 hover:text-white/50 uppercase tracking-widest font-bold transition-colors border border-white/[0.06] hover:border-white/20 px-4 py-2 rounded-full z-30"
+          className="absolute top-24 right-6 text-[10px] text-white/60 hover:text-white uppercase tracking-widest font-bold transition-colors border border-white/[0.12] hover:border-white/30 px-4 py-2 rounded-full z-30"
         >
           ✕ Skip Cinematic
         </button>
