@@ -13,8 +13,8 @@
   "original_language": "te",
   "original_title": "బంగారు కొడుకు",
   "overview": "",
-  "popularity": 0.0479,
-  "poster_path": null,
+  "popularity": 1.7787,
+  "poster_path": "/8ymHM7frR4WUAkgh3NxB59rFb4t.jpg",
   "production_companies": [
     {
       "id": 284528,
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Jamuna",
         "original_name": "Jamuna",
-        "popularity": 0.1634,
+        "popularity": 0.913,
         "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
         "cast_id": 3,
         "character": "",
@@ -97,8 +97,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "6950dfcdd721a2cf0fc37539",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 13,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "6950dfdcbf210200927c6da9",
         "department": "Writing",
@@ -140,7 +140,7 @@
         "known_for_department": "Directing",
         "name": "K. S. R. Das",
         "original_name": "K. S. R. Das",
-        "popularity": 0.2238,
+        "popularity": 0.7173,
         "profile_path": "/enTQqKU9aRTkcjLBNGA7dDIZxq0.jpg",
         "credit_id": "6950dfeb61c4436c704ace9f",
         "department": "Directing",
@@ -153,7 +153,7 @@
         "known_for_department": "Production",
         "name": "NN Bhat",
         "original_name": "NN Bhat",
-        "popularity": 0.0071,
+        "popularity": 0.2798,
         "profile_path": null,
         "credit_id": "6950e0025e13fdf58dcbceac",
         "department": "Production",
@@ -166,7 +166,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "6950e0169ddde4d93588da18",
         "department": "Sound",
@@ -179,7 +179,7 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.1238,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "6950e0258e4bcaaa7a4acf47",
         "department": "Writing",
@@ -191,8 +191,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "6950e02c8e4bcaaa7a4acf4a",
         "department": "Sound",
@@ -205,7 +205,7 @@
         "known_for_department": "Sound",
         "name": "S. Janaki",
         "original_name": "S. Janaki",
-        "popularity": 0.1323,
+        "popularity": 0.3872,
         "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
         "credit_id": "6950e037bf210200927c6dc1",
         "department": "Sound",
@@ -218,7 +218,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "6950e0401f0671291ec3747d",
         "department": "Sound",
@@ -253,13 +253,24 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
-    "posters": []
-  },
-  "keywords": {
-    "keywords": []
+    "posters": [
+      {
+        "aspect_ratio": 0.715,
+        "height": 1013,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8ymHM7frR4WUAkgh3NxB59rFb4t.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 724
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

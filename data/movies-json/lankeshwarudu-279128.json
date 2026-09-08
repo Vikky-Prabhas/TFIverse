@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "లంకేశ్వరుడు",
   "overview": "Shankar decides to leave behind his life as a gangster and lead a normal life. However, when his brother-in-law's life is at stake, he decides to rethink his decision.",
-  "popularity": 0.2255,
+  "popularity": 2.5669,
   "poster_path": "/fOt2Ckvc3Hf9rMtbRXkkpIgrq76.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Shankar",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Radha",
         "original_name": "Radha",
-        "popularity": 0.856,
+        "popularity": 1.4479,
         "profile_path": "/7oVE51UtIsbkkriBF7fOiJ52zDJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Revathi",
         "original_name": "Revathi",
-        "popularity": 1.3509,
+        "popularity": 2.2245,
         "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
         "cast_id": 5,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 6,
         "character": "",
@@ -112,8 +112,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 8,
         "character": "",
@@ -140,8 +140,8 @@
         "id": 237697,
         "known_for_department": "Acting",
         "name": "Raghuvaran",
-        "original_name": "Raghuvaran",
-        "popularity": 1.4436,
+        "original_name": "ரகுவரன்",
+        "popularity": 1.8797,
         "profile_path": "/z6IJ61kEaU6cjBHVX2eqxL2nnMx.jpg",
         "cast_id": 9,
         "character": "",
@@ -157,7 +157,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5097,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "53af0bc60e0a265975004e4c",
         "department": "Directing",
@@ -170,7 +170,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "53af0bc7c3a3682eea003ddf",
         "department": "Sound",
@@ -183,7 +183,7 @@
         "known_for_department": "Production",
         "name": "Vadde Ramesh",
         "original_name": "Vadde Ramesh",
-        "popularity": 0.0646,
+        "popularity": 0.3746,
         "profile_path": null,
         "credit_id": "53af0bcdc3a3682edf003b73",
         "department": "Production",
@@ -197,6 +197,12 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -214,9 +220,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -263,8 +266,5 @@
         "type": ""
       }
     ]
-  },
-  "videos": {
-    "results": []
   }
 }

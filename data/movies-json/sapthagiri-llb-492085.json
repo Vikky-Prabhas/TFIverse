@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Sapthagiri LLB",
   "overview": "Sapthagiri, a small time lawyer from Chittoor dreams of making it big. He decides to get a high profile case reopened, taking on the finest lawyer in the country, in the process. Sapthagiri's life and justice will never be the same again.",
-  "popularity": 0.562,
+  "popularity": 0.9306,
   "poster_path": "/mKvygOcIiIwfs2APL0FD6Qg9LOY.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.377,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 0,
         "character": "Sapthagiri",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kumar",
         "original_name": "Sai Kumar",
-        "popularity": 0.4687,
+        "popularity": 1.2911,
         "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
         "cast_id": 1,
         "character": "Rajpal",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Jhansi",
         "original_name": "Jhansi",
-        "popularity": 0.2463,
+        "popularity": 0.7242,
         "profile_path": "/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg",
         "cast_id": 6,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Kashish Vohra",
         "original_name": "Kashish Vohra",
-        "popularity": 0.0416,
+        "popularity": 0.4416,
         "profile_path": "/4fmMqA5bbtYJp4UnqA5v4rhRiOO.jpg",
         "cast_id": 7,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1469,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 2,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 3,
         "character": "Cameo",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 4,
         "character": "Cameo",
@@ -166,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 5,
         "character": "",
@@ -182,7 +182,7 @@
         "known_for_department": "Camera",
         "name": "Suresh Sarangam",
         "original_name": "Suresh Sarangam",
-        "popularity": 0.1121,
+        "popularity": 0.3123,
         "profile_path": null,
         "credit_id": "61924d8df85958008fc620cc",
         "department": "Camera",
@@ -195,7 +195,7 @@
         "known_for_department": "Directing",
         "name": "Charan Lakkakula",
         "original_name": "Charan Lakkakula",
-        "popularity": 0.0261,
+        "popularity": 0.3871,
         "profile_path": null,
         "credit_id": "5a2e446bc3a3680b9d14d727",
         "department": "Writing",
@@ -204,28 +204,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 230438,
-        "known_for_department": "Writing",
-        "name": "Subhash Kapoor",
-        "original_name": "Subhash Kapoor",
-        "popularity": 0.2845,
-        "profile_path": "/sja9jnnZ9RwCxqVzaTT15Ypx3LK.jpg",
-        "credit_id": "5a2e44a2c3a3680b881624db",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1939042,
         "known_for_department": "Directing",
         "name": "Charan Lakkakula",
         "original_name": "Charan Lakkakula",
-        "popularity": 0.0261,
+        "popularity": 0.3871,
         "profile_path": null,
         "credit_id": "5a2e445f925141032c1607d3",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230438,
+        "known_for_department": "Writing",
+        "name": "Subhash Kapoor",
+        "original_name": "Subhash Kapoor",
+        "popularity": 0.8936,
+        "profile_path": "/sja9jnnZ9RwCxqVzaTT15Ypx3LK.jpg",
+        "credit_id": "5a2e44a2c3a3680b881624db",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
@@ -234,7 +234,7 @@
         "known_for_department": "Sound",
         "name": "Vijai Bulganin",
         "original_name": "Vijai Bulganin",
-        "popularity": 0.072,
+        "popularity": 0.4591,
         "profile_path": "/jeikiKr6DwQXDHQIzETSm9AVsm3.jpg",
         "credit_id": "5a2e45c7c3a3680b8d15d11c",
         "department": "Sound",
@@ -242,15 +242,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt9729774",
     "wikidata_id": "Q48671332",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -266,6 +266,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Saptagiri LLB",
+        "type": ""
       }
     ]
   },
@@ -305,15 +314,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Saptagiri LLB",
-        "type": ""
       }
     ]
   }

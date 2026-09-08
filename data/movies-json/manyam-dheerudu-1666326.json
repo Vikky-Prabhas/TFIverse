@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Manyam Dheerudu",
   "overview": "Manyam Dheerudu tells the true story of the legendary freedom fighter Alluri Sitarama Raju, who rose from the forests to lead a fearless armed rebellion against British rule.",
-  "popularity": 0.0911,
+  "popularity": 0.425,
   "poster_path": "/z63llJCjdLuMZDtIROSO0mR4jdy.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "RVV Satyanarayana",
         "original_name": "RVV Satyanarayana",
-        "popularity": 0.0545,
+        "popularity": 0.2559,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Directing",
         "name": "Naresh Dekkala",
         "original_name": "Naresh Dekkala",
-        "popularity": 0.0859,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69d6c959516200ff1c1c0fe7",
         "department": "Directing",
@@ -90,9 +90,6 @@
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt33081325",
@@ -122,5 +119,8 @@
         "width": 500
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

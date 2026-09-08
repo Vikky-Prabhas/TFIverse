@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Kishore Kumar",
   "overview": "Kishore and Kumar's hunt for pot during a wet and stormy monsoon downpour in Hyderabad.",
-  "popularity": 0.0988,
+  "popularity": 1.2042,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,16 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
   },
@@ -65,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kiran Yadav",
         "original_name": "Sai Kiran Yadav",
-        "popularity": 0,
+        "popularity": 0.5015,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -81,7 +71,7 @@
         "known_for_department": "Directing",
         "name": "Rohit Penumatsa",
         "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
+        "popularity": 0.4299,
         "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
         "credit_id": "63316503cede69009234dc62",
         "department": "Directing",
@@ -94,13 +84,21 @@
         "known_for_department": "Directing",
         "name": "Camp Sasi",
         "original_name": "Camp Sasi",
-        "popularity": 0.0935,
+        "popularity": 0.475,
         "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
         "credit_id": "63316511d38b580092a8ce9f",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -119,10 +117,12 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

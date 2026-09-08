@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Aghora",
   "overview": "",
-  "popularity": 0.2855,
+  "popularity": 0.6628,
   "poster_path": "/k8wAYIhqBkEJEGDSRyhJF3GChag.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5935,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 0,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Ponnambalam",
         "original_name": "Ponnambalam",
-        "popularity": 0.6952,
+        "popularity": 1.9124,
         "profile_path": "/x4Y8MqXrxcxxEXME4CgifzbwiW6.jpg",
         "cast_id": 1,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Yuvaraj Rajeti",
         "original_name": "Yuvaraj Rajeti",
-        "popularity": 0.0143,
+        "popularity": 0.365,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "Rao Durga",
         "original_name": "Rao Durga",
-        "popularity": 0.0143,
+        "popularity": 0.3147,
         "profile_path": null,
         "credit_id": "5b40494ac3a368409c00151a",
         "department": "Directing",
@@ -112,14 +112,21 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/k8wAYIhqBkEJEGDSRyhJF3GChag.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -138,20 +145,13 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/k8wAYIhqBkEJEGDSRyhJF3GChag.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   }
 }

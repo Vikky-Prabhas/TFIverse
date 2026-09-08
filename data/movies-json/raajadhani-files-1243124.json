@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "రాజధాని Files",
   "overview": "Based on the conflict of the farmers fighting with the government after selflessly giving their land to build the states capital.",
-  "popularity": 0.1228,
+  "popularity": 0.7862,
   "poster_path": "/7WUJLNpmfz4Fp0wjIPwsu3RWMKo.jpg",
   "production_companies": [
     {
@@ -51,6 +51,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt31186842",
+    "wikidata_id": "Q124537360",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Akilan",
         "original_name": "Akilan",
-        "popularity": 0.1524,
+        "popularity": 0.3848,
         "profile_path": "/zUbRRXt3KoPQn2iDq8VLS5Bgi0i.jpg",
         "cast_id": 8,
         "character": "Goutham",
@@ -74,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Vishal Patni",
         "original_name": "Vishal Patni",
-        "popularity": 0,
+        "popularity": 0.3357,
         "profile_path": null,
         "cast_id": 5,
         "character": "Chief Minister",
@@ -88,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Vinod Kumar",
         "original_name": "Vinod Kumar",
-        "popularity": 0.1835,
+        "popularity": 0.6566,
         "profile_path": "/72Sz1EH0Me4MIG7qbvQFsxU6oDA.jpg",
         "cast_id": 4,
         "character": "Farmer",
@@ -102,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Vani Viswanath",
         "original_name": "Vani Viswanath",
-        "popularity": 0.786,
+        "popularity": 2.0145,
         "profile_path": "/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg",
         "cast_id": 1,
         "character": "Farmer",
@@ -116,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Veena Panchaparvala",
         "original_name": "Veena Panchaparvala",
-        "popularity": 0.0256,
+        "popularity": 0.3646,
         "profile_path": null,
         "cast_id": 7,
         "character": "Aishwarya",
@@ -130,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Rathnam",
         "original_name": "Ajay Rathnam",
-        "popularity": 0.2551,
+        "popularity": 1.8558,
         "profile_path": "/rp3JaGD554QTNzd7fAoKg742nq2.jpg",
         "cast_id": 2,
         "character": "",
@@ -144,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Varma",
         "original_name": "Varma",
-        "popularity": 0.0533,
+        "popularity": 0.2781,
         "profile_path": null,
         "cast_id": 20,
         "character": "MLA Nani",
@@ -158,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Amrutha Chowdhary",
         "original_name": "Amrutha Chowdhary",
-        "popularity": 0,
+        "popularity": 0.2598,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -172,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Ankita Thakur",
         "original_name": "Ankita Thakur",
-        "popularity": 0.0214,
+        "popularity": 0.3982,
         "profile_path": null,
         "cast_id": 9,
         "character": "Special Appearance",
@@ -188,7 +195,7 @@
         "known_for_department": "Directing",
         "name": "Bhanu",
         "original_name": "Bhanu",
-        "popularity": 0.0683,
+        "popularity": 0.3604,
         "profile_path": null,
         "credit_id": "65c7347f9451e701497a0314",
         "department": "Directing",
@@ -197,63 +204,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4528436,
-        "known_for_department": "Crew",
-        "name": "Himabindu",
-        "original_name": "Himabindu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "65c734a0ce6c4c017cb8ea64",
-        "department": "Crew",
-        "job": "Presenter"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4528434,
-        "known_for_department": "Directing",
-        "name": "Bhanu",
-        "original_name": "Bhanu",
-        "popularity": 0.0683,
-        "profile_path": null,
-        "credit_id": "65c73494266778017c57ce11",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4528438,
-        "known_for_department": "Art",
-        "name": "Gandhi",
-        "original_name": "Gandhi",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "65c7350c9451e701847ad9a7",
-        "department": "Art",
-        "job": "Art Direction"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1492799,
-        "known_for_department": "Writing",
-        "name": "Suddala Ashok Teja",
-        "original_name": "Suddala Ashok Teja",
-        "popularity": 0.0437,
-        "profile_path": null,
-        "credit_id": "65c734cf54a098016300f084",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4528435,
         "known_for_department": "Writing",
         "name": "Anil Acchugatla",
         "original_name": "Anil Acchugatla",
-        "popularity": 0,
+        "popularity": 0.267,
         "profile_path": null,
         "credit_id": "65c7348b98f1f10148d6055e",
         "department": "Writing",
@@ -262,28 +217,41 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4528437,
-        "known_for_department": "Production",
-        "name": "Kantamneni Ravi Shankar",
-        "original_name": "Kantamneni Ravi Shankar",
-        "popularity": 0,
+        "id": 4528434,
+        "known_for_department": "Directing",
+        "name": "Bhanu",
+        "original_name": "Bhanu",
+        "popularity": 0.3604,
         "profile_path": null,
-        "credit_id": "65c734aca93d2501634b05fb",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "65c73494266778017c57ce11",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 2117453,
-        "known_for_department": "Camera",
-        "name": "Ramesh",
-        "original_name": "Ramesh",
-        "popularity": 0.0887,
+        "id": 4528436,
+        "known_for_department": "Crew",
+        "name": "Himabindu",
+        "original_name": "Himabindu",
+        "popularity": 0.2586,
         "profile_path": null,
-        "credit_id": "65c734df4350110183e80dd1",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "65c734a0ce6c4c017cb8ea64",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4528437,
+        "known_for_department": "Production",
+        "name": "Kantamneni Ravi Shankar",
+        "original_name": "Kantamneni Ravi Shankar",
+        "popularity": 0.2586,
+        "profile_path": null,
+        "credit_id": "65c734aca93d2501634b05fb",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -292,7 +260,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.3339,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "65c734b7ce6c4c017cb8ea79",
         "department": "Sound",
@@ -305,26 +273,75 @@
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2372,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "65c734c4ce6c4c017cb8ea83",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1492799,
+        "known_for_department": "Writing",
+        "name": "Suddala Ashok Teja",
+        "original_name": "Suddala Ashok Teja",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "credit_id": "65c734cf54a098016300f084",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2117453,
+        "known_for_department": "Camera",
+        "name": "Ramesh",
+        "original_name": "Ramesh",
+        "popularity": 0.2652,
+        "profile_path": null,
+        "credit_id": "65c734df4350110183e80dd1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4528438,
+        "known_for_department": "Art",
+        "name": "Gandhi",
+        "original_name": "Gandhi",
+        "popularity": 0.2288,
+        "profile_path": null,
+        "credit_id": "65c7350c9451e701847ad9a7",
+        "department": "Art",
+        "job": "Art Direction"
       }
     ]
   },
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt31186842",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-02-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -374,23 +391,6 @@
         "iso_3166_1": "IN",
         "title": "Raajdhani Files",
         "type": ""
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2024-02-15T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

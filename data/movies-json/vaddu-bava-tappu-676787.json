@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Vaddu Bava Tappu",
   "overview": "AVS is a rich man and wants rich husbands for his daughters - Manju (Ravali) and Indraja. Manju falls in love with Raja (Rajendra Prasad), a bright unemployed youth and marries him. AVS has a heart attack when he hears about her marriage. When AVS goes to visit Manju, he mistakes their friend Satish to be her husband, and Raja as the cook and Manju continues the lie to keep her father safe. Confusions arise with Satish liking Indraja, and she liking the cook",
-  "popularity": 0.2465,
+  "popularity": 0.7384,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -36,8 +36,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Raja",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Ravali",
         "original_name": "Ravali",
-        "popularity": 0.4794,
+        "popularity": 1.2375,
         "profile_path": "/2AH7K8wNaHTOTHrU56QqYqSsgJu.jpg",
         "cast_id": 2,
         "character": "Manju",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Indraja",
         "original_name": "Indraja",
-        "popularity": 0.4271,
+        "popularity": 1.4897,
         "profile_path": "/p9MJgtbY0N32nI2ugjBPDpIsqRi.jpg",
         "cast_id": 3,
         "character": "Priya",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.3566,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 4,
         "character": "",
@@ -93,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.198,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 5,
         "character": "Simhachalam",
@@ -105,21 +105,6 @@
   },
   "videos": {
     "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1764728",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -138,7 +123,22 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1764728",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

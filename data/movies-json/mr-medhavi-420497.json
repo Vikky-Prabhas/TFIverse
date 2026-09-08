@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మిస్టర్ మేధావి",
   "overview": "A young Vishwak meets Sweta and falls in love with her. Their relationship begins to dwindle when Vishwak becomes increasingly manipulative and selfish to succeed in life.",
-  "popularity": 0.1431,
+  "popularity": 1.1409,
   "poster_path": "/u0EKkByrRkAb8F4MLZTFp9sne1F.jpg",
   "production_companies": [
     {
@@ -55,6 +55,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt1185256",
+    "wikidata_id": "Q6928908",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Genelia D'Souza",
         "original_name": "Genelia D'Souza",
-        "popularity": 1.0316,
+        "popularity": 1.3405,
         "profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
         "cast_id": 0,
         "character": "Swetha",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Raja",
         "original_name": "Raja",
-        "popularity": 0.1666,
+        "popularity": 1.1919,
         "profile_path": "/ibHIlBmK6GLEKQPQd43YX0i9C8d.jpg",
         "cast_id": 1,
         "character": "Vishwak",
@@ -92,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Sonu Sood",
         "original_name": "Sonu Sood",
-        "popularity": 0.9437,
+        "popularity": 2.2374,
         "profile_path": "/rkgASPKqB0PGYfTkfjFOL6fb1RL.jpg",
         "cast_id": 2,
         "character": "",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.5024,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 3,
         "character": "",
@@ -118,9 +128,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 4,
         "character": "",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 5,
         "character": "",
@@ -148,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.4202,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 6,
         "character": "",
@@ -161,8 +171,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -176,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Hema",
         "original_name": "Hema",
-        "popularity": 0.3148,
+        "popularity": 0.9583,
         "profile_path": "/4s1Kiq09KI4p7RFjmclEelLnyV8.jpg",
         "cast_id": 9,
         "character": "",
@@ -190,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 16,
         "character": "",
@@ -204,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Bhargavi",
         "original_name": "Bhargavi",
-        "popularity": 0.075,
+        "popularity": 0.4513,
         "profile_path": "/eiJvGjMDdHDQosJywFwnIR70E8p.jpg",
         "cast_id": 17,
         "character": "Sheela",
@@ -218,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Sudha",
         "original_name": "Sudha",
-        "popularity": 0.4601,
+        "popularity": 1.5384,
         "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
         "cast_id": 19,
         "character": "",
@@ -232,7 +242,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Sudarshan",
         "original_name": "Gundu Sudarshan",
-        "popularity": 0.2765,
+        "popularity": 0.7857,
         "profile_path": "/cuOnqGLUlO3A3bkhilC8B2xTqkC.jpg",
         "cast_id": 20,
         "character": "",
@@ -246,7 +256,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.3014,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 21,
         "character": "",
@@ -260,7 +270,7 @@
         "known_for_department": "Acting",
         "name": "Randhir Gatla",
         "original_name": "Randhir Gatla",
-        "popularity": 0.0935,
+        "popularity": 0.4556,
         "profile_path": "/8P98Lb7olC38roppGpSNO6sN0pr.jpg",
         "cast_id": 22,
         "character": "",
@@ -276,7 +286,7 @@
         "known_for_department": "Production",
         "name": "RamaRao Bodduluri",
         "original_name": "RamaRao Bodduluri",
-        "popularity": 0.0071,
+        "popularity": 0.2694,
         "profile_path": null,
         "credit_id": "57fb511bc3a3683ac6006a6a",
         "department": "Production",
@@ -289,7 +299,7 @@
         "known_for_department": "Directing",
         "name": "G. Neelakanta Reddy",
         "original_name": "G. Neelakanta Reddy",
-        "popularity": 0.1349,
+        "popularity": 0.5813,
         "profile_path": "/abQKnDU7W4FpYk7vwLoLWowoO0u.jpg",
         "credit_id": "57fb50ff92514144ac006d9f",
         "department": "Directing",
@@ -302,7 +312,7 @@
         "known_for_department": "Production",
         "name": "Gopichand Lagadapati",
         "original_name": "Gopichand Lagadapati",
-        "popularity": 0.0071,
+        "popularity": 0.2788,
         "profile_path": null,
         "credit_id": "57fb5126c3a3683ac6006a7b",
         "department": "Production",
@@ -315,7 +325,7 @@
         "known_for_department": "Directing",
         "name": "G. Neelakanta Reddy",
         "original_name": "G. Neelakanta Reddy",
-        "popularity": 0.1349,
+        "popularity": 0.5813,
         "profile_path": "/abQKnDU7W4FpYk7vwLoLWowoO0u.jpg",
         "credit_id": "57fb513892514144a0006e51",
         "department": "Writing",
@@ -328,7 +338,7 @@
         "known_for_department": "Camera",
         "name": "Suneel L Reddy",
         "original_name": "Suneel L Reddy",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "68e0226e9d0ff4633e6b8804",
         "department": "Crew",
@@ -341,7 +351,7 @@
         "known_for_department": "Sound",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.2011,
+        "popularity": 0.4244,
         "profile_path": "/3GwwP1DbitIrJiP60RECDf9TwQC.jpg",
         "credit_id": "68e0227ef8da57d808932192",
         "department": "Sound",
@@ -349,18 +359,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1185256",
-    "wikidata_id": "Q6928908",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -378,6 +378,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": [
       {
@@ -394,8 +397,5 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

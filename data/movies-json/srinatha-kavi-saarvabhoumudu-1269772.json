@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "శ్రీనాథ కవి సార్వభౌముడు",
   "overview": "Born to Bhimamba and Marayya, Srinatha earns the title Kavi Sarvabhowma. He dedicates many of his works to kings in exchange for gifts and leads a luxurious life as a courtier.",
-  "popularity": 0.5103,
+  "popularity": 0.6357,
   "poster_path": "/oN0dLD7AIwyUmvXg5nilSmqV6Hb.jpg",
   "production_companies": [
     {
@@ -55,6 +55,16 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0156074",
+    "wikidata_id": "Q17069955",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Srinatha",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 2,
         "character": "Sridevi",
@@ -91,8 +101,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 3,
         "character": "Raja Vallabha Devudu / Nala",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 4,
         "character": "Gowda Dindima Bhattu",
@@ -120,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Mikkilineni",
         "original_name": "Mikkilineni",
-        "popularity": 0.2719,
+        "popularity": 1.1035,
         "profile_path": "/hixximPs8FRe2pHlBjqyi01ZwyY.jpg",
         "cast_id": 5,
         "character": "Pedakomati Vema Reddy",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 6,
         "character": "Ram Somga Bhupala",
@@ -148,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 7,
         "character": "Kanamam Nagaiah",
@@ -162,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.198,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 8,
         "character": "Tamil Poet",
@@ -176,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Sudarshan",
         "original_name": "Gundu Sudarshan",
-        "popularity": 0.3579,
+        "popularity": 0.7857,
         "profile_path": "/cuOnqGLUlO3A3bkhilC8B2xTqkC.jpg",
         "cast_id": 9,
         "character": "Ganapati",
@@ -190,8 +200,8 @@
         "known_for_department": "Acting",
         "name": "Aamani",
         "original_name": "Aamani",
-        "popularity": 0.5489,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
         "cast_id": 10,
         "character": "Damayanti",
         "credit_id": "660f80eefd6300017d1a804d",
@@ -203,8 +213,8 @@
         "id": 584398,
         "known_for_department": "Acting",
         "name": "Disco Shanti",
-        "original_name": "Disco Shanti",
-        "popularity": 0.4806,
+        "original_name": "டிஸ்கோ சாந்தி",
+        "popularity": 2.0628,
         "profile_path": "/qma0bZivm3ce61LbI0U32AeCKv5.jpg",
         "cast_id": 11,
         "character": "Special Appearance",
@@ -215,38 +225,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1988034,
-        "known_for_department": "Sound",
-        "name": "Pukazhenthi",
-        "original_name": "Pukazhenthi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "660f81cfde11e501492a6dde",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1025757,
-        "known_for_department": "Directing",
-        "name": "Bapu",
-        "original_name": "Bapu",
-        "popularity": 0.423,
-        "profile_path": null,
-        "credit_id": "660f8135de11e501492a6d97",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 584606,
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1694,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "660f81b988c659017c9c93e3",
         "department": "Sound",
@@ -259,24 +243,11 @@
         "known_for_department": "Writing",
         "name": "C. Narayana Reddy",
         "original_name": "C. Narayana Reddy",
-        "popularity": 0.0495,
+        "popularity": 0.2676,
         "profile_path": null,
         "credit_id": "660f81ec3f8ede0163e2e4b6",
         "department": "Writing",
         "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584585,
-        "known_for_department": "Sound",
-        "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
-        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
-        "credit_id": "660f81ff74d6c0017cd91e90",
-        "department": "Sound",
-        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -285,7 +256,7 @@
         "known_for_department": "Writing",
         "name": "Srinori Narasimha Sastry",
         "original_name": "Srinori Narasimha Sastry",
-        "popularity": 0.0071,
+        "popularity": 0.2976,
         "profile_path": null,
         "credit_id": "660f8151fd6300017d1a80be",
         "department": "Writing",
@@ -294,37 +265,11 @@
       {
         "adult": false,
         "gender": 1,
-        "id": 1661887,
-        "known_for_department": "Sound",
-        "name": "S.P. Sailaja",
-        "original_name": "S.P. Sailaja",
-        "popularity": 0.1659,
-        "profile_path": null,
-        "credit_id": "660f8209078e4e0132959b5f",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1003933,
-        "known_for_department": "Acting",
-        "name": "N.T. Rama Rao",
-        "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
-        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
-        "credit_id": "660f822674d6c0017cd91eda",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
         "id": 1998883,
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0796,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "660f821274d6c0017cd91eaf",
         "department": "Sound",
@@ -333,11 +278,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1660480,
+        "known_for_department": "Writing",
+        "name": "Mullapudi Venkata Ramana",
+        "original_name": "Venkata Ramana Mullapoodi",
+        "popularity": 1.0149,
+        "profile_path": null,
+        "credit_id": "660f817974d6c0017cd91df5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1337571,
         "known_for_department": "Production",
         "name": "Nandamuri Ramakrishna",
         "original_name": "Nandamuri Ramakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.2929,
         "profile_path": null,
         "credit_id": "660f819088c659017c9c93bd",
         "department": "Production",
@@ -345,50 +303,68 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1660480,
-        "known_for_department": "Writing",
-        "name": "Mullapudi Venkata Ramana",
-        "original_name": "Venkata Ramana Mullapoodi",
-        "popularity": 0.1593,
+        "gender": 2,
+        "id": 1025757,
+        "known_for_department": "Directing",
+        "name": "Bapu",
+        "original_name": "Bapu",
+        "popularity": 1.3469,
         "profile_path": null,
-        "credit_id": "660f817974d6c0017cd91df5",
-        "department": "Writing",
-        "job": "Screenplay"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0156074",
-    "wikidata_id": "Q17069955",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 5565,
-        "name": "biography"
+        "credit_id": "660f8135de11e501492a6d97",
+        "department": "Directing",
+        "job": "Director"
       },
       {
-        "id": 237612,
-        "name": "14th century"
+        "adult": false,
+        "gender": 2,
+        "id": 1003933,
+        "known_for_department": "Acting",
+        "name": "N.T. Rama Rao",
+        "original_name": "N.T. Rama Rao",
+        "popularity": 1.799,
+        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
+        "credit_id": "660f822674d6c0017cd91eda",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
-        "id": 330906,
-        "name": "sreenaatha"
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "660f81ff74d6c0017cd91e90",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
-        "id": 330907,
-        "name": "srinaathadu"
+        "adult": false,
+        "gender": 0,
+        "id": 1988034,
+        "known_for_department": "Sound",
+        "name": "Pukazhenthi",
+        "original_name": "Pukazhenthi",
+        "popularity": 0.261,
+        "profile_path": null,
+        "credit_id": "660f81cfde11e501492a6dde",
+        "department": "Sound",
+        "job": "Music Director"
       },
       {
-        "id": 330909,
-        "name": "srinaatha"
+        "adult": false,
+        "gender": 1,
+        "id": 1661887,
+        "known_for_department": "Sound",
+        "name": "S.P. Sailaja",
+        "original_name": "S.P. Sailaja",
+        "popularity": 0.502,
+        "profile_path": "/saFBDylbonCq0d6YhPo5fOEtc3J.jpg",
+        "credit_id": "660f8209078e4e0132959b5f",
+        "department": "Sound",
+        "job": "Playback Singer"
       }
     ]
   },
@@ -427,5 +403,29 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 237612,
+        "name": "14th century"
+      },
+      {
+        "id": 330906,
+        "name": "sreenaatha"
+      },
+      {
+        "id": 330907,
+        "name": "srinaathadu"
+      },
+      {
+        "id": 330909,
+        "name": "srinaatha"
+      }
+    ]
   }
 }

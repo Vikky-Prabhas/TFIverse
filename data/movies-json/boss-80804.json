@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "బాస్",
   "overview": "Boss is a 2006 Telugu film directed by V. N. Aditya. It stars Akkineni Nagarjuna, Nayantara, Poonam Bajwa, and Shriya Saran. The film's score and soundtrack is composed by Kalyani Malik and Harry Anand. Cinematography for the movie is handled by Siva Kumar while editing is being handled by Marthand K. Venkatesh. The film was released on September 27, 2006. The film is dubbed into Malayalam as Boss: I Love You and into Hindi as Yeh Kaisa Karz with Gopala Krishna changed to Gaurav Khanna.",
-  "popularity": 0.7239,
+  "popularity": 2.1063,
   "poster_path": "/kvLfvCYinnXha7aix9isoYBzJsb.jpg",
   "production_companies": [],
   "production_countries": [
@@ -47,7 +47,17 @@
   "title": "Boss",
   "video": false,
   "vote_average": 4,
-  "vote_count": 7,
+  "vote_count": 8,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0843327",
+    "wikidata_id": "Q13003980",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -57,8 +67,8 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.2798,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 1003,
         "character": "Gopal 'GK' Krishna",
         "credit_id": "52fe47df9251416c91078937",
@@ -70,9 +80,9 @@
         "id": 91548,
         "known_for_department": "Acting",
         "name": "Nayanthara",
-        "original_name": "Nayanthara",
-        "popularity": 1.9303,
-        "profile_path": "/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg",
+        "original_name": "நயன்தாரா",
+        "popularity": 6.7282,
+        "profile_path": "/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg",
         "cast_id": 1004,
         "character": "Anuradha",
         "credit_id": "52fe47df9251416c9107893b",
@@ -85,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Poonam Bajwa",
         "original_name": "Poonam Bajwa",
-        "popularity": 0.4036,
+        "popularity": 1.1843,
         "profile_path": "/glwKn3JZWaGghDHzI8yIDD3cshc.jpg",
         "cast_id": 1005,
         "character": "Shruti Ramprakash",
@@ -98,8 +108,8 @@
         "id": 145628,
         "known_for_department": "Acting",
         "name": "Shriya Saran",
-        "original_name": "Shriya Saran",
-        "popularity": 1.4249,
+        "original_name": "శ్రియా శరణ్",
+        "popularity": 3.4266,
         "profile_path": "/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg",
         "cast_id": 1007,
         "character": "Sanjana G. Khanna",
@@ -113,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.7272,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 1008,
         "character": "S.R.K.",
@@ -127,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4637,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 1009,
         "character": "",
@@ -141,8 +151,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.5892,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 1010,
         "character": "",
         "credit_id": "57671ad3925141337e00086d",
@@ -153,9 +163,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 1011,
         "character": "",
@@ -169,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 1012,
         "character": "",
@@ -183,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.393,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 1013,
         "character": "",
@@ -197,8 +207,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.87,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 1014,
         "character": "",
         "credit_id": "57671c33c3a36807220002f8",
@@ -210,8 +220,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1015,
         "character": "",
@@ -223,9 +233,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 1017,
         "character": "",
@@ -239,7 +249,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 1018,
         "character": "",
@@ -252,8 +262,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 1019,
         "character": "",
@@ -267,7 +277,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.3832,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 1020,
         "character": "",
@@ -281,7 +291,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 1021,
         "character": "",
@@ -295,8 +305,8 @@
         "known_for_department": "Acting",
         "name": "Kondavalasa Lakshmana Rao",
         "original_name": "Kondavalasa Lakshmana Rao",
-        "popularity": 0.235,
-        "profile_path": null,
+        "popularity": 1.0621,
+        "profile_path": "/4HAKwW1DMX9ENRCiDQSxoZNtGwv.jpg",
         "cast_id": 1022,
         "character": "",
         "credit_id": "5767418dc3a3683f71000543",
@@ -309,7 +319,7 @@
         "known_for_department": "Acting",
         "name": "Saloni Aswani",
         "original_name": "Saloni Aswani",
-        "popularity": 0.2036,
+        "popularity": 1.5766,
         "profile_path": "/gCNy6jJWoQFPgE3df9Tmw2sFKJI.jpg",
         "cast_id": 1023,
         "character": "Special Appearance",
@@ -323,7 +333,7 @@
         "known_for_department": "Acting",
         "name": "Hema",
         "original_name": "Hema",
-        "popularity": 0.367,
+        "popularity": 0.9583,
         "profile_path": "/4s1Kiq09KI4p7RFjmclEelLnyV8.jpg",
         "cast_id": 1029,
         "character": "",
@@ -337,8 +347,8 @@
         "known_for_department": "Acting",
         "name": "Teja Sajja",
         "original_name": "Teja Sajja",
-        "popularity": 0.2525,
-        "profile_path": "/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg",
+        "popularity": 1.3075,
+        "profile_path": "/7MhRbb4VTRpk199CsX4vnYqQRd2.jpg",
         "cast_id": 1031,
         "character": "Young G.K.",
         "credit_id": "659f9223907f26012220dbe0",
@@ -353,7 +363,7 @@
         "known_for_department": "Writing",
         "name": "Chintapally Ramana",
         "original_name": "Chintapally Ramana",
-        "popularity": 0.167,
+        "popularity": 0.6352,
         "profile_path": null,
         "credit_id": "52fe47df9251416c9107892d",
         "department": "Writing",
@@ -366,7 +376,7 @@
         "known_for_department": "Directing",
         "name": "V. N. Aditya",
         "original_name": "V. N. Aditya",
-        "popularity": 0.2529,
+        "popularity": 0.7122,
         "profile_path": null,
         "credit_id": "594d87d8925141312702a03d",
         "department": "Directing",
@@ -379,7 +389,7 @@
         "known_for_department": "Directing",
         "name": "V. N. Aditya",
         "original_name": "V. N. Aditya",
-        "popularity": 0.2529,
+        "popularity": 0.7122,
         "profile_path": null,
         "credit_id": "594d87e6c3a368326502e288",
         "department": "Writing",
@@ -392,22 +402,9 @@
         "known_for_department": "Sound",
         "name": "Kalyani Malik",
         "original_name": "Kalyani Malik",
-        "popularity": 0.184,
+        "popularity": 0.3685,
         "profile_path": null,
         "credit_id": "5c5f3f900e0a2659ab67d9f3",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1001826,
-        "known_for_department": "Sound",
-        "name": "Anup Rubens",
-        "original_name": "Anup Rubens",
-        "popularity": 0.1109,
-        "profile_path": "/yfAPR7VRlZp4deOLNtESUd6uhSY.jpg",
-        "credit_id": "5c5f3fa7c3a3683a468e1e70",
         "department": "Sound",
         "job": "Music"
       },
@@ -418,9 +415,22 @@
         "known_for_department": "Sound",
         "name": "Harry Anand",
         "original_name": "Harry Anand",
-        "popularity": 0.1337,
+        "popularity": 0.3269,
         "profile_path": null,
         "credit_id": "5c5f3f9c0e0a261de16a7cce",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001826,
+        "known_for_department": "Sound",
+        "name": "Anup Rubens",
+        "original_name": "Anup Rubens",
+        "popularity": 0.3792,
+        "profile_path": "/yfAPR7VRlZp4deOLNtESUd6uhSY.jpg",
+        "credit_id": "5c5f3fa7c3a3683a468e1e70",
         "department": "Sound",
         "job": "Music"
       },
@@ -431,7 +441,7 @@
         "known_for_department": "Directing",
         "name": "Siva",
         "original_name": "Siva",
-        "popularity": 0.1632,
+        "popularity": 0.8599,
         "profile_path": "/6pArAp7MVb6PlpaEcNqqsQqKJ1W.jpg",
         "credit_id": "6034eab1c6006d003cbae0d3",
         "department": "Camera",
@@ -439,18 +449,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0843327",
-    "wikidata_id": "Q13003980",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -466,6 +466,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Yeh Kaisa Karz",
+        "type": "Hindi title"
       }
     ]
   },
@@ -493,15 +502,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1200
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Yeh Kaisa Karz",
-        "type": "Hindi title"
       }
     ]
   }

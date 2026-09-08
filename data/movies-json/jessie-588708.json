@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "జెస్సీ",
   "overview": "Set in an abandoned house, the film follows a team of professional ghost hunters trying to conduct a paranormal investigation to unveil the mystery of two sisters, Jessie and Amy, where Amy shows unusual mental and physical behaviour.",
-  "popularity": 0.6687,
+  "popularity": 1.0735,
   "poster_path": "/6KTlPb2UM6JQfinRU4nT93VVXdK.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -45,8 +45,15 @@
   "tagline": "",
   "title": "Jessie",
   "video": false,
-  "vote_average": 4.4,
-  "vote_count": 6,
+  "vote_average": 4.6,
+  "vote_count": 7,
+  "external_ids": {
+    "imdb_id": "tt9903716",
+    "wikidata_id": "Q115087958",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -56,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Ashima Narwal",
         "original_name": "Ashima Narwal",
-        "popularity": 0.1232,
+        "popularity": 0.7636,
         "profile_path": "/dxGyBSS1Weadt1ydfcZL3qBdzis.jpg",
         "cast_id": 2,
         "character": "Jessie",
@@ -70,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Pavani Gangireddy",
         "original_name": "Pavani Gangireddy",
-        "popularity": 0.2986,
+        "popularity": 0.7823,
         "profile_path": "/r454n0MTbEQq9OOlphJWQrd1ADb.jpg",
         "cast_id": 1,
         "character": "Shalini",
@@ -84,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Archana",
         "original_name": "Archana",
-        "popularity": 0.3872,
+        "popularity": 1.4919,
         "profile_path": "/yD6PQ2jJ9KAObSP4LJFpxovkexS.jpg",
         "cast_id": 8,
         "character": "Sameera",
@@ -98,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Kabir Duhan Singh",
         "original_name": "Kabir Duhan Singh",
-        "popularity": 0.4665,
+        "popularity": 1.2201,
         "profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
         "cast_id": 3,
         "character": "The exorcist",
@@ -112,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "Atul Kulkarni",
         "original_name": "Atul Kulkarni",
-        "popularity": 0.8354,
+        "popularity": 1.395,
         "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
         "cast_id": 4,
         "character": "Inspector Ramesh Narayana",
@@ -126,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Sudharani",
         "original_name": "Sudharani",
-        "popularity": 0.3206,
+        "popularity": 1.2658,
         "profile_path": "/wimgv7IpKtoEWqLJuJQfXn5jr8T.jpg",
         "cast_id": 9,
         "character": "Dr. Aradhya",
@@ -140,7 +147,7 @@
         "known_for_department": "Acting",
         "name": "Sritha Chandana",
         "original_name": "Sritha Chandana",
-        "popularity": 0.0286,
+        "popularity": 0.2861,
         "profile_path": null,
         "cast_id": 7,
         "character": "Amy",
@@ -154,7 +161,7 @@
         "known_for_department": "Acting",
         "name": "Abhinav Gomatam",
         "original_name": "Abhinav Gomatam",
-        "popularity": 0.3336,
+        "popularity": 0.816,
         "profile_path": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg",
         "cast_id": 5,
         "character": "Abhi",
@@ -168,7 +175,7 @@
         "known_for_department": "Acting",
         "name": "Abhishek Maharshi",
         "original_name": "Abhishek Maharshi",
-        "popularity": 0.0702,
+        "popularity": 0.3292,
         "profile_path": null,
         "cast_id": 6,
         "character": "Mojo",
@@ -182,7 +189,7 @@
         "known_for_department": "Acting",
         "name": "Vimal Krishna",
         "original_name": "Vimal Krishna",
-        "popularity": 0.0214,
+        "popularity": 0.4619,
         "profile_path": null,
         "cast_id": 20,
         "character": "Rajeev",
@@ -196,7 +203,7 @@
         "known_for_department": "Acting",
         "name": "Sameer Hasan",
         "original_name": "Sameer Hasan",
-        "popularity": 0.3075,
+        "popularity": 0.9723,
         "profile_path": "/mNKhHh2OSejWrEXNzPVkF7pnWRr.jpg",
         "cast_id": 29,
         "character": "Doctor",
@@ -210,7 +217,7 @@
         "known_for_department": "Acting",
         "name": "Victoria Paige Watkins",
         "original_name": "Victoria Paige Watkins",
-        "popularity": 0.3341,
+        "popularity": 0.9562,
         "profile_path": "/jcMeJdkppAv3o4nxb1lhGxU9W1.jpg",
         "cast_id": 30,
         "character": "Child (uncredited)",
@@ -221,25 +228,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 2098998,
-        "known_for_department": "Editing",
-        "name": "Garry BH",
-        "original_name": "Garry BH",
-        "popularity": 0.2797,
-        "profile_path": null,
-        "credit_id": "5d46c4b72d1e403b46c1ac7a",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
         "gender": 1,
         "id": 1982901,
         "known_for_department": "Acting",
         "name": "Shweta Singh",
         "original_name": "Shweta Singh",
-        "popularity": 0.0214,
+        "popularity": 0.2734,
         "profile_path": "/x3eZeSesTECT4q3iLdktseY7D2T.jpg",
         "credit_id": "5d46c1462d1e403b44c1d7d0",
         "department": "Production",
@@ -252,7 +246,7 @@
         "known_for_department": "Sound",
         "name": "Sricharan Pakala",
         "original_name": "Sricharan Pakala",
-        "popularity": 0.1149,
+        "popularity": 0.3297,
         "profile_path": null,
         "credit_id": "5d46c1530f2fbd0fa0efc4e9",
         "department": "Sound",
@@ -261,11 +255,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2098998,
+        "known_for_department": "Editing",
+        "name": "Garry BH",
+        "original_name": "Garry BH",
+        "popularity": 0.3913,
+        "profile_path": null,
+        "credit_id": "5d46c4b72d1e403b46c1ac7a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1765046,
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "5d46c5c62d1e403b46c1adb6",
         "department": "Crew",
@@ -278,7 +285,7 @@
         "known_for_department": "Directing",
         "name": "V. Aswani Kumar",
         "original_name": "V. Aswani Kumar",
-        "popularity": 0.0214,
+        "popularity": 0.4927,
         "profile_path": null,
         "credit_id": "5d92abeb7cffda0019fbaefe",
         "department": "Directing",
@@ -291,24 +298,11 @@
         "known_for_department": "Directing",
         "name": "V. Aswani Kumar",
         "original_name": "V. Aswani Kumar",
-        "popularity": 0.0214,
+        "popularity": 0.4927,
         "profile_path": null,
-        "credit_id": "5d92ac12af2da8002351a748",
+        "credit_id": "5d92abf5168ea3002e943bbb",
         "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1668653,
-        "known_for_department": "Art",
-        "name": "Kiran Kumar Manne",
-        "original_name": "Kiran Kumar Manne",
-        "popularity": 0.0565,
-        "profile_path": null,
-        "credit_id": "5d92ad9ac0348b00243fc256",
-        "department": "Art",
-        "job": "Art Direction"
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -317,7 +311,7 @@
         "known_for_department": "Directing",
         "name": "V. Aswani Kumar",
         "original_name": "V. Aswani Kumar",
-        "popularity": 0.0214,
+        "popularity": 0.4927,
         "profile_path": null,
         "credit_id": "5d92abfd7cffda002cfbb649",
         "department": "Writing",
@@ -330,24 +324,24 @@
         "known_for_department": "Directing",
         "name": "V. Aswani Kumar",
         "original_name": "V. Aswani Kumar",
-        "popularity": 0.0214,
+        "popularity": 0.4927,
         "profile_path": null,
-        "credit_id": "5d92abf5168ea3002e943bbb",
+        "credit_id": "5d92ac12af2da8002351a748",
         "department": "Writing",
-        "job": "Dialogue"
+        "job": "Story"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 2115634,
-        "known_for_department": "Production",
-        "name": "Uday Bhanu Avirineni",
-        "original_name": "Uday Bhanu Avirineni",
-        "popularity": 0.1608,
-        "profile_path": "/ismwIRDqhYiylM85KUCSBO5PZio.jpg",
-        "credit_id": "604453f384f249005a53e404",
-        "department": "Production",
-        "job": "Publicist"
+        "id": 1668653,
+        "known_for_department": "Art",
+        "name": "Kiran Kumar Manne",
+        "original_name": "Kiran Kumar Manne",
+        "popularity": 0.3294,
+        "profile_path": null,
+        "credit_id": "5d92ad9ac0348b00243fc256",
+        "department": "Art",
+        "job": "Art Direction"
       },
       {
         "adult": false,
@@ -356,9 +350,22 @@
         "known_for_department": "Production",
         "name": "Anil Kumar Vanga",
         "original_name": "Anil Kumar Vanga",
-        "popularity": 0.1968,
+        "popularity": 0.3913,
         "profile_path": "/mqIQhCGeraDOvhrCt1b6ucxSFa4.jpg",
         "credit_id": "604453e70102c90044ed691b",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115634,
+        "known_for_department": "Production",
+        "name": "Uday Bhanu Avirineni",
+        "original_name": "Uday Bhanu Avirineni",
+        "popularity": 0.4243,
+        "profile_path": "/ismwIRDqhYiylM85KUCSBO5PZio.jpg",
+        "credit_id": "604453f384f249005a53e404",
         "department": "Production",
         "job": "Publicist"
       },
@@ -369,7 +376,7 @@
         "known_for_department": "Camera",
         "name": "Sunil Kumar",
         "original_name": "Sunil Kumar",
-        "popularity": 0.0739,
+        "popularity": 0.3552,
         "profile_path": null,
         "credit_id": "604454700102c90059d19e95",
         "department": "Camera",
@@ -377,35 +384,11 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt9903716",
-    "wikidata_id": "Q115087958",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2019-03-15T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -591,6 +574,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1624
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2019-03-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

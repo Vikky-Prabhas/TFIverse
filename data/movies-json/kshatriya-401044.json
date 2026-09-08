@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "క్షత్రియ",
   "overview": "London-born Madhu (Kunkum) comes to India to settle down here. With the help of her relatives, she manages to uprise her house. Dawood (Jaya Prakash Reddy) appoints Srikanth to follow Madhu. Meanwhile, her grandfather (Kota Srinivas Rao) plans to kill Madhu by kshudra Pooja. Due to which Madhu faces hard time in her home. As she doesn’t believe in these kind of incidents, she meets up with a psychiatrist (Rao Ramesh) where she finds out some interesting facts about the incidents happening around her. Will Srikanth help her? Who is Dawood? Why did Madhu’s Grandfather plan to kill her forms the rest of the storyline.",
-  "popularity": 0.3226,
+  "popularity": 1.5217,
   "poster_path": null,
   "production_companies": [
     {
@@ -55,6 +55,16 @@
   "video": false,
   "vote_average": 4.5,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.7734,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 0,
         "character": "",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Kumkum",
         "original_name": "Kumkum",
-        "popularity": 0.0286,
+        "popularity": 0.261,
         "profile_path": null,
         "cast_id": 1,
         "character": "Madhu",
@@ -91,9 +101,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 2,
         "character": "Madhu's Grandfather",
         "credit_id": "5755dfeac3a3684d6d0003f0",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 3,
         "character": "Dawood",
@@ -119,8 +129,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 4,
         "character": "Psychiatrist",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Narsing Yadav",
         "original_name": "Narsing Yadav",
-        "popularity": 0.2226,
+        "popularity": 0.8676,
         "profile_path": "/6XXilySySycI5Zf6jhGQgHzHgEz.jpg",
         "cast_id": 14,
         "character": "",
@@ -148,8 +158,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 16,
         "character": "",
         "credit_id": "576ad809c3a36823ea0000fb",
@@ -162,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 20,
         "character": "",
@@ -176,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Jenny",
         "original_name": "Jenny",
-        "popularity": 0.1869,
+        "popularity": 0.7158,
         "profile_path": "/fejSGfZwZtar4pES1rDMg9SYHlG.jpg",
         "cast_id": 21,
         "character": "",
@@ -190,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Sameer Hasan",
         "original_name": "Sameer Hasan",
-        "popularity": 0.3075,
+        "popularity": 0.9723,
         "profile_path": "/mNKhHh2OSejWrEXNzPVkF7pnWRr.jpg",
         "cast_id": 22,
         "character": "",
@@ -202,50 +212,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1631580,
-        "known_for_department": "Production",
-        "name": "V. Mahender",
-        "original_name": "V. Mahender",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5755e1e19251412d610005dd",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1631576,
         "known_for_department": "Writing",
         "name": "K. Uday Chandu",
         "original_name": "K. Uday Chandu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5755e1409251412d630005f8",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1631584,
-        "known_for_department": "Editing",
-        "name": "Shanker",
-        "original_name": "Shanker",
-        "popularity": 0.077,
-        "profile_path": null,
-        "credit_id": "5755e2ea9251412d67000640",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1631576,
-        "known_for_department": "Writing",
-        "name": "K. Uday Chandu",
-        "original_name": "K. Uday Chandu",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "5755e0d99251412d630005e6",
         "department": "Directing",
@@ -258,7 +229,7 @@
         "known_for_department": "Writing",
         "name": "K. Uday Chandu",
         "original_name": "K. Uday Chandu",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "5755e110c3a36838d4000629",
         "department": "Writing",
@@ -267,15 +238,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1631579,
-        "known_for_department": "Production",
-        "name": "Jayender Reddy",
-        "original_name": "Jayender Reddy",
-        "popularity": 0,
+        "id": 1631576,
+        "known_for_department": "Writing",
+        "name": "K. Uday Chandu",
+        "original_name": "K. Uday Chandu",
+        "popularity": 0.2705,
         "profile_path": null,
-        "credit_id": "5755e1abc3a36838dc000609",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "5755e1409251412d630005f8",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -284,7 +255,7 @@
         "known_for_department": "Writing",
         "name": "K. Uday Chandu",
         "original_name": "K. Uday Chandu",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "5755e15e9251412d5f000552",
         "department": "Writing",
@@ -293,15 +264,54 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1631579,
+        "known_for_department": "Production",
+        "name": "Jayender Reddy",
+        "original_name": "Jayender Reddy",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "5755e1abc3a36838dc000609",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1631580,
+        "known_for_department": "Production",
+        "name": "V. Mahender",
+        "original_name": "V. Mahender",
+        "popularity": 0.2729,
+        "profile_path": null,
+        "credit_id": "5755e1e19251412d610005dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1631581,
         "known_for_department": "Sound",
         "name": "Vishwa",
         "original_name": "Vishwa",
-        "popularity": 0.0071,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "5755e2109251412d6b000654",
         "department": "Sound",
         "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1631584,
+        "known_for_department": "Editing",
+        "name": "Shanker",
+        "original_name": "Shanker",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "5755e2ea9251412d67000640",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -310,7 +320,7 @@
         "known_for_department": "Camera",
         "name": "Raju Thota",
         "original_name": "Raju Thota",
-        "popularity": 0.0806,
+        "popularity": 0.2906,
         "profile_path": null,
         "credit_id": "6035aebea14e10003dd014f7",
         "department": "Camera",
@@ -318,21 +328,13 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -351,9 +353,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "alternative_titles": {
+    "titles": []
   }
 }

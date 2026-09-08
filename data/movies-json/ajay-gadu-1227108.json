@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ajay Gadu",
   "overview": "Ajay Gadu is a Telugu romantic action entertainer movie directed by Team A. The movie casts Ajay Kumar Kathurvar, Shweta Mehta, and Bhanu Sri in the main lead roles. The music was composed by Karthik Kodakandla, Manizena, Sumanth Babu & Pratheik while the cinematography was done by Ajay Nag and the film is produced by Ajay Kumar Kathurvar, Chandana Koppisetti under Ajay Kumar Productions banner.",
-  "popularity": 0.1423,
+  "popularity": 1.4099,
   "poster_path": "/haHQawORtGjaqUuTGSLhsHk5LwM.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Bhanu Sree",
         "original_name": "Bhanu Sree",
-        "popularity": 0.1542,
+        "popularity": 0.801,
         "profile_path": "/z0gDcfYojZDt5WpR45onfMjKS54.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Mehta",
         "original_name": "Shweta Mehta",
-        "popularity": 0.0071,
+        "popularity": 0.2874,
         "profile_path": "/vRdsPRLxKeUUiYAHJwuY8tuQQ4L.jpg",
         "cast_id": 2,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Kumar Kathurvar",
         "original_name": "Ajay Kumar Kathurvar",
-        "popularity": 0.0481,
+        "popularity": 0.41,
         "profile_path": "/vAR7Zv4eQ2ObUYV2oETSMnjPzaQ.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Camera",
         "name": "Ajay Nag",
         "original_name": "Ajay Nag",
-        "popularity": 0.0311,
+        "popularity": 0.2684,
         "profile_path": "/rpWePFhDd1x1o8umHdetbOU72rd.jpg",
         "cast_id": 4,
         "character": "",
@@ -94,6 +94,13 @@
       }
     ],
     "crew": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31216055",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -114,13 +121,6 @@
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": "tt31216055",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -135,15 +135,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "ajaygadu",
-        "type": ""
       }
     ]
   },
@@ -191,6 +182,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 853
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "ajaygadu",
+        "type": ""
       }
     ]
   }

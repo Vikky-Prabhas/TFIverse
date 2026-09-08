@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "బుచ్చి నాయుడు కండ్రిగ",
   "overview": "Balu (Munna) and Swapna (Drishika Chander) are adolescents who live in a tiny village called Buchinaidu Kandriga in Chittor district, Andhra Pradesh. Their infatuation turns into love and the couple decide to run away from Swapna’s casteist father (Ravi Varma). What happens when Swapna’s father now looks for retribution",
-  "popularity": 0.1531,
+  "popularity": 1.2428,
   "poster_path": "/2kEqwSc9wAmXJZwrOK5uaHyePi3.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Drishka Chander",
         "original_name": "Drishka Chander",
-        "popularity": 0,
+        "popularity": 0.3533,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma Adduri",
         "original_name": "Ravi Varma Adduri",
-        "popularity": 0.0985,
+        "popularity": 0.4214,
         "profile_path": "/uWlqKGOgjXj9YOAXKcAcuo2bimw.jpg",
         "cast_id": 4,
         "character": "",
@@ -85,29 +85,29 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 544993,
-        "known_for_department": "Editing",
-        "name": "Marthand K Venkatesh",
-        "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
-        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
-        "credit_id": "5f4d031565e0a2003252b04a",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 2761623,
         "known_for_department": "Directing",
         "name": "Poluri Krishna",
         "original_name": "Poluri Krishna",
-        "popularity": 0,
+        "popularity": 0.2742,
         "profile_path": null,
         "credit_id": "5f4d027e65e0a20034507e10",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544993,
+        "known_for_department": "Editing",
+        "name": "Marthand K Venkatesh",
+        "original_name": "Marthand K Venkatesh",
+        "popularity": 0.4927,
+        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
+        "credit_id": "5f4d031565e0a2003252b04a",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },
@@ -134,6 +134,9 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "keywords": {
+    "keywords": []
+  },
   "release_dates": {
     "results": [
       {
@@ -151,18 +154,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Buchinaidu Kandriga",
-        "type": ""
-      }
-    ]
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -176,6 +167,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Buchinaidu Kandriga",
+        "type": ""
       }
     ]
   }

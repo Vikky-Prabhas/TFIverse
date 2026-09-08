@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "యువరాజు",
   "overview": "A young man and his classmate fall in love with each other and decide to get married; everything goes smoothly till an unknown woman lands up at their engagement ceremony; soon the truth about his past is revealed.",
-  "popularity": 0.6175,
+  "popularity": 1.1479,
   "poster_path": "/z0yV54aUPFteEw55YO8BbjnIppc.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,13 @@
   "video": false,
   "vote_average": 7.8,
   "vote_count": 4,
+  "external_ids": {
+    "imdb_id": "tt1575719",
+    "wikidata_id": "Q11016436",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Babu",
         "original_name": "Mahesh Babu",
-        "popularity": 3.6251,
+        "popularity": 2.406,
         "profile_path": "/fcxgYi1h6vywacUg8asM6S0IIhf.jpg",
         "cast_id": 1,
         "character": "Srinivas",
@@ -70,8 +77,8 @@
         "id": 141705,
         "known_for_department": "Acting",
         "name": "Simran",
-        "original_name": "Simran",
-        "popularity": 1.9414,
+        "original_name": "சிம்ரன்",
+        "popularity": 3.5238,
         "profile_path": "/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
         "cast_id": 2,
         "character": "Srilatha",
@@ -83,9 +90,9 @@
         "gender": 1,
         "id": 584753,
         "known_for_department": "Acting",
-        "name": "Sakshi Shivananda",
+        "name": "Sakshi Shivanand",
         "original_name": "Sakshi Shivananda",
-        "popularity": 0.2391,
+        "popularity": 1.2678,
         "profile_path": "/9kbWgYYvbGUCkz6eem5SL9l00FQ.jpg",
         "cast_id": 3,
         "character": "Srivalli",
@@ -99,8 +106,8 @@
         "known_for_department": "Acting",
         "name": "Teja Sajja",
         "original_name": "Teja Sajja",
-        "popularity": 0.2525,
-        "profile_path": "/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg",
+        "popularity": 1.3075,
+        "profile_path": "/7MhRbb4VTRpk199CsX4vnYqQRd2.jpg",
         "cast_id": 15,
         "character": "Teja",
         "credit_id": "6266c05e7390c00066dc8481",
@@ -113,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.3832,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 6,
         "character": "Sehgal Baba",
@@ -125,9 +132,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 4,
         "character": "Baba Sehgal",
@@ -137,16 +144,30 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2032898,
+        "known_for_department": "Acting",
+        "name": "Venkat",
+        "original_name": "Venkat",
+        "popularity": 0.7194,
+        "profile_path": "/5dDtSWDsCQtj0IzzCgurGQ9s9BY.jpg",
+        "cast_id": 35,
+        "character": "Vamsi",
+        "credit_id": "6a911e00ec81740c3bf7e1ab",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 935915,
         "known_for_department": "Acting",
         "name": "Sivaji Sontineni",
         "original_name": "Sivaji Sontineni",
-        "popularity": 1.2267,
+        "popularity": 1.1302,
         "profile_path": "/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg",
         "cast_id": 14,
         "character": "Sivaji",
         "credit_id": "6266c04e4ccc500065152db8",
-        "order": 6
+        "order": 7
       },
       {
         "adult": false,
@@ -154,27 +175,27 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "52fe4e00c3a36847f8278ac7",
-        "order": 7
+        "order": 8
       },
       {
         "adult": false,
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "5767308e92514165870004df",
-        "order": 8
+        "order": 9
       },
       {
         "adult": false,
@@ -183,12 +204,12 @@
         "known_for_department": "Acting",
         "name": "Sri Divya",
         "original_name": "Sri Divya",
-        "popularity": 0.2338,
+        "popularity": 2.3576,
         "profile_path": "/1RfBSAJEBrH19i1GQT0ZyOoNBbH.jpg",
         "cast_id": 16,
         "character": "Kalpana",
         "credit_id": "6266c0767cffda004f66b8bb",
-        "order": 9
+        "order": 10
       },
       {
         "adult": false,
@@ -197,12 +218,12 @@
         "known_for_department": "Acting",
         "name": "Varsha",
         "original_name": "Varsha",
-        "popularity": 0.0962,
+        "popularity": 0.3922,
         "profile_path": "/ugQGELIFwg5GQNlUK2qGBus7EC4.jpg",
         "cast_id": 17,
         "character": "",
         "credit_id": "65a37fea7d5f4b00c8b7d48c",
-        "order": 10
+        "order": 11
       },
       {
         "adult": false,
@@ -211,12 +232,12 @@
         "known_for_department": "Acting",
         "name": "Bandla Ganesh",
         "original_name": "Bandla Ganesh",
-        "popularity": 0.4823,
+        "popularity": 0.8209,
         "profile_path": "/874gkTlQBZRawZbvF28bslX09KJ.jpg",
         "cast_id": 18,
         "character": "",
         "credit_id": "692815ff295252278524579e",
-        "order": 11
+        "order": 12
       },
       {
         "adult": false,
@@ -225,12 +246,12 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.198,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 19,
         "character": "",
         "credit_id": "69281615f8346e1b67eaa2f7",
-        "order": 12
+        "order": 13
       },
       {
         "adult": false,
@@ -239,12 +260,12 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 20,
         "character": "",
         "credit_id": "6928161cfc9c528ad7245995",
-        "order": 13
+        "order": 14
       }
     ],
     "crew": [
@@ -255,7 +276,7 @@
         "known_for_department": "Directing",
         "name": "Y. V. S. Chowdary",
         "original_name": "Y. V. S. Chowdary",
-        "popularity": 0.3344,
+        "popularity": 0.6085,
         "profile_path": "/c0xdgpZPpSPEs09ABVBZAC5bYY6.jpg",
         "credit_id": "52fe4e00c3a36847f8278ad5",
         "department": "Directing",
@@ -268,7 +289,7 @@
         "known_for_department": "Production",
         "name": "Burugupalli Shiva Rama Krishna",
         "original_name": "Burugupalli Shiva Rama Krishna",
-        "popularity": 0.0338,
+        "popularity": 0.3209,
         "profile_path": "/gP8bV6zgG8tM7kZO2m9RiZaQpM1.jpg",
         "credit_id": "612501145346610045300b55",
         "department": "Production",
@@ -281,7 +302,7 @@
         "known_for_department": "Camera",
         "name": "Ajayan Vincent",
         "original_name": "Ajayan Vincent",
-        "popularity": 0.0571,
+        "popularity": 0.3951,
         "profile_path": "/5bDLEPkMDnGpKJMXHVlmGqzckw1.jpg",
         "credit_id": "6189825175f1ad00274afe55",
         "department": "Camera",
@@ -294,7 +315,7 @@
         "known_for_department": "Writing",
         "name": "Chintapalli Ramana",
         "original_name": "Chintapalli Ramana",
-        "popularity": 0.2451,
+        "popularity": 0.6413,
         "profile_path": null,
         "credit_id": "6928164fb104c22865eaa2dc",
         "department": "Writing",
@@ -306,8 +327,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "692816e5afa676d3c52492a3",
         "department": "Sound",
@@ -320,7 +341,7 @@
         "known_for_department": "Sound",
         "name": "K. S. Chithra",
         "original_name": "K. S. Chithra",
-        "popularity": 0.1883,
+        "popularity": 0.413,
         "profile_path": "/qutkAK4SPBY07n0cBSlS0PuVVNd.jpg",
         "credit_id": "692816f1e2c79ac5ffc1227d",
         "department": "Sound",
@@ -333,7 +354,7 @@
         "known_for_department": "Sound",
         "name": "Ramana Gogula",
         "original_name": "Ramana Gogula",
-        "popularity": 0.055,
+        "popularity": 0.301,
         "profile_path": null,
         "credit_id": "69281703c578854951c123d7",
         "department": "Sound",
@@ -346,7 +367,7 @@
         "known_for_department": "Sound",
         "name": "Ramana Gogula",
         "original_name": "Ramana Gogula",
-        "popularity": 0.055,
+        "popularity": 0.301,
         "profile_path": null,
         "credit_id": "6928172498bc74bb14eaa29b",
         "department": "Sound",
@@ -359,7 +380,7 @@
         "known_for_department": "Crew",
         "name": "Ajay Vincent",
         "original_name": "Ajay Vincent",
-        "popularity": 0.0071,
+        "popularity": 0.421,
         "profile_path": null,
         "credit_id": "69281737f64734b2c4248f26",
         "department": "Camera",
@@ -372,7 +393,7 @@
         "known_for_department": "Sound",
         "name": "Hariharan",
         "original_name": "Hariharan",
-        "popularity": 0.0727,
+        "popularity": 0.4864,
         "profile_path": "/uuIitARpqW9tQyeN9YdS1SQ8cww.jpg",
         "credit_id": "6928174f0c1ed72ae8a75c32",
         "department": "Sound",
@@ -385,7 +406,7 @@
         "known_for_department": "Sound",
         "name": "Shankar Mahadevan",
         "original_name": "Shankar Mahadevan",
-        "popularity": 0.3525,
+        "popularity": 0.4942,
         "profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
         "credit_id": "69281761995b42381930d1bc",
         "department": "Sound",
@@ -398,7 +419,7 @@
         "known_for_department": "Sound",
         "name": "Udit Narayan",
         "original_name": "Udit Narayan",
-        "popularity": 0.2098,
+        "popularity": 0.6547,
         "profile_path": "/2LYPkxyTqlIluiKzYnDMgM5o1Wq.jpg",
         "credit_id": "6928176c976816fb2c26bdd8",
         "department": "Sound",
@@ -411,7 +432,7 @@
         "known_for_department": "Sound",
         "name": "Anuradha Sriram",
         "original_name": "Anuradha Sriram",
-        "popularity": 0.2701,
+        "popularity": 0.476,
         "profile_path": "/eTzC68JPJuT2pXcVSq7ciSHtBpI.jpg",
         "credit_id": "692817787f3ee4609126c2dd",
         "department": "Sound",
@@ -424,8 +445,8 @@
         "known_for_department": "Acting",
         "name": "Raghava Lawrence",
         "original_name": "Raghava Lawrence",
-        "popularity": 7.0645,
-        "profile_path": "/eEY77s1tI9U4b3UCH7T3AZ4EI5K.jpg",
+        "popularity": 2.8323,
+        "profile_path": "/vFeHxXlJsqEH2NOTRqiFZ0VRZen.jpg",
         "credit_id": "6928187061f6ba2bf1a75c41",
         "department": "Crew",
         "job": "Choreographer"
@@ -437,7 +458,7 @@
         "known_for_department": "Crew",
         "name": "Raju Sundaram",
         "original_name": "Raju Sundaram",
-        "popularity": 0.5074,
+        "popularity": 1.8892,
         "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
         "credit_id": "6928187ee92f3841ada75b6b",
         "department": "Crew",
@@ -450,7 +471,7 @@
         "known_for_department": "Sound",
         "name": "Sunitha Upadrashta",
         "original_name": "Sunitha Upadrashta",
-        "popularity": 0.1098,
+        "popularity": 0.5075,
         "profile_path": "/52q2RvD7fRpKVku8VNyae9H7iNs.jpg",
         "credit_id": "69281ee0c9c5d096c024616c",
         "department": "Sound",
@@ -460,13 +481,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1575719",
-    "wikidata_id": "Q11016436",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -529,20 +543,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Ek Aur Rajkumar",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Ek Aur Rajkumar - Khatron Ke Khiladi",
-        "type": "Hindi Dubbed"
-      }
-    ]
-  },
   "images": {
     "backdrops": [
       {
@@ -588,6 +588,20 @@
         "vote_average": 1.75,
         "vote_count": 2,
         "width": 689
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Ek Aur Rajkumar",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Ek Aur Rajkumar - Khatron Ke Khiladi",
+        "type": "Hindi Dubbed"
       }
     ]
   }

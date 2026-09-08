@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "A Night on the Footpath",
   "overview": "A thought-provoking story about the struggles and strength of a transgender individual navigating life through challenging circumstances.",
-  "popularity": 0.0214,
+  "popularity": 0.4,
   "poster_path": "/imiVcwATVeOgzyCGqCXDRBQPzvA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,36 +34,11 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5447645,
-        "known_for_department": "Writing",
-        "name": "Bharat Duvvada",
-        "original_name": "Bharat Duvvada",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "682a8a4fda43493afddb2954",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5447645,
-        "known_for_department": "Writing",
-        "name": "Bharat Duvvada",
-        "original_name": "Bharat Duvvada",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "682a8a555ca7f2b329e24981",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -71,18 +46,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -99,5 +62,42 @@
         "width": 500
       }
     ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447645,
+        "known_for_department": "Writing",
+        "name": "Bharat Duvvada",
+        "original_name": "Bharat Duvvada",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "682a8a4fda43493afddb2954",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447645,
+        "known_for_department": "Writing",
+        "name": "Bharat Duvvada",
+        "original_name": "Bharat Duvvada",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "682a8a555ca7f2b329e24981",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

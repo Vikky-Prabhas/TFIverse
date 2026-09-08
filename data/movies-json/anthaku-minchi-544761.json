@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Anthaku Minchi",
   "overview": "A couple gets paid 5 crores to live in a supposedly haunted house, to prove to people that ghosts don't exist. Unfortunately, the place is actually haunted by a spirit who makes it difficult for them to continue their stay.",
-  "popularity": 0.2084,
+  "popularity": 1.0126,
   "poster_path": "/x7R13nhW3AF9f7pznleOo0P4xDQ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Rashmi Gautham",
         "original_name": "Rashmi Gautham",
-        "popularity": 0.3691,
+        "popularity": 0.8132,
         "profile_path": "/novS7imC1HXjXiazaBI3jrrLNLx.jpg",
         "cast_id": 0,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4544,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 1,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Jai",
         "original_name": "Jai",
-        "popularity": 0,
+        "popularity": 0.2882,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -101,7 +101,7 @@
         "known_for_department": "Directing",
         "name": "Jhony",
         "original_name": "Jhony",
-        "popularity": 0,
+        "popularity": 0.2913,
         "profile_path": null,
         "credit_id": "5b82cbbf92514159ea026a85",
         "department": "Directing",
@@ -109,18 +109,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -139,8 +133,11 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -168,5 +165,8 @@
         "width": 1228
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

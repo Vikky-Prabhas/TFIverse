@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "జయం మనదే",
   "overview": "Once upon a time in a kingdom, a young man named Prathap decides to teach a lesson to the army chief Prachanda who oppresses the people in the kingdom.",
-  "popularity": 0.2496,
+  "popularity": 0.5698,
   "poster_path": "/qadpPsqyuqTUWnORWVjw8eJqgUx.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 3,
         "character": "Pratap",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2088,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 4,
         "character": "Shobha Devi",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 5,
         "character": "Maharaju",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1796,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 6,
         "character": "Joogulu",
@@ -122,7 +122,7 @@
         "known_for_department": "Writing",
         "name": "K. Pratyagatma",
         "original_name": "K. Pratyagatma",
-        "popularity": 0.0431,
+        "popularity": 0.3793,
         "profile_path": null,
         "credit_id": "660808eda6ddcb017c476bba",
         "department": "Writing",
@@ -135,7 +135,7 @@
         "known_for_department": "Directing",
         "name": "Tatineni Prakash Rao",
         "original_name": "Tatineni Prakash Rao",
-        "popularity": 0.2528,
+        "popularity": 0.7237,
         "profile_path": null,
         "credit_id": "5e8a62b9d363e50015b7556f",
         "department": "Directing",
@@ -153,6 +153,32 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1956-05-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Vetri Veeran (Tamil)",
+        "type": ""
+      }
+    ]
+  },
   "keywords": {
     "keywords": []
   },
@@ -169,32 +195,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 743
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Vetri Veeran (Tamil)",
-        "type": ""
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1956-05-04T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

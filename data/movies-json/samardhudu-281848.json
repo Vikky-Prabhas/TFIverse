@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Samardhudu",
   "overview": "",
-  "popularity": 0.2805,
+  "popularity": 0.5994,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,13 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -59,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Raja",
         "original_name": "Raja",
-        "popularity": 0.2891,
+        "popularity": 1.1919,
         "profile_path": "/ibHIlBmK6GLEKQPQd43YX0i9C8d.jpg",
         "cast_id": 0,
         "character": "",
@@ -73,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Sanjjanaa Galrani",
         "original_name": "Sanjjanaa Galrani",
-        "popularity": 0.4639,
+        "popularity": 0.7917,
         "profile_path": "/5rmQMy5BqfqK0LICwQIlQrZkTui.jpg",
         "cast_id": 5,
         "character": "",
@@ -87,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Krishnam Raju",
         "original_name": "Krishnam Raju",
-        "popularity": 0.351,
+        "popularity": 2.9074,
         "profile_path": "/bvZLQkr6U1kNNWmHZsRnPXOpg4J.jpg",
         "cast_id": 1,
         "character": "",
@@ -100,8 +93,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -117,7 +110,7 @@
         "known_for_department": "Directing",
         "name": "Arjun",
         "original_name": "Arjun",
-        "popularity": 0.0286,
+        "popularity": 0.2698,
         "profile_path": null,
         "credit_id": "53c38962c3a3684cec00924a",
         "department": "Directing",
@@ -130,7 +123,7 @@
         "known_for_department": "Crew",
         "name": "Nixon Cruz Master",
         "original_name": "Nixon Cruz Master",
-        "popularity": 0.1809,
+        "popularity": 0.3617,
         "profile_path": null,
         "credit_id": "62d7632b77e1f600558b805b",
         "department": "Crew",
@@ -141,22 +134,12 @@
   "videos": {
     "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Samardhudu",
-        "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -174,5 +157,22 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Samardhudu",
+        "type": ""
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

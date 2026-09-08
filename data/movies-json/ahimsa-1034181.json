@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "టీజ‌ర్‌",
   "overview": "Raghu (Abhiram Daggubati) is a farmer in a remote village and a follower of the principle of Ahimsa (non-violence) taught by Mahatma Gandhi, so much so that even when his girlfriend Ahalya (Geethika Tiwary) — who also happens to be his first cousin — calls for help after being molested, he delivers a moral lesson to the perpetrator in the importance of respecting women.",
-  "popularity": 0.432,
+  "popularity": 0.6351,
   "poster_path": "/uPVS5dGVjKV11EKZRwo41iFLhe8.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Abhiram Daggubati",
         "original_name": "Abhiram Daggubati",
-        "popularity": 0.0261,
+        "popularity": 0.2857,
         "profile_path": null,
         "cast_id": 1,
         "character": "Raghu",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Geethika Tiwary",
         "original_name": "Geethika Tiwary",
-        "popularity": 0.1977,
+        "popularity": 0.4207,
         "profile_path": "/6pI9dly3HufHk4ul7zzkyhpmB6x.jpg",
         "cast_id": 2,
         "character": "Ahalya",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Sadha",
         "original_name": "Sadha",
-        "popularity": 0.4305,
+        "popularity": 1.0222,
         "profile_path": "/odbgKzeByn3Zq5LysHkiXPezElx.jpg",
         "cast_id": 3,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2375,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 4,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Rajat Bedi",
         "original_name": "Rajat Bedi",
-        "popularity": 0.4896,
+        "popularity": 1.661,
         "profile_path": "/h6hJw3QLAoJjZBvdxHF2QhTR3PO.jpg",
         "cast_id": 5,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Kale",
         "original_name": "Ravi Kale",
-        "popularity": 0.2527,
+        "popularity": 1.9253,
         "profile_path": "/7QWF6ine4pE2RdCHJpXa2shQVCK.jpg",
         "cast_id": 6,
         "character": "",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Manoj Singh Tiger",
         "original_name": "Manoj Singh Tiger",
-        "popularity": 0.0286,
+        "popularity": 0.5308,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -166,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Kalpalatha",
         "original_name": "Kalpalatha",
-        "popularity": 0.3378,
+        "popularity": 0.8977,
         "profile_path": "/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg",
         "cast_id": 8,
         "character": "",
@@ -180,7 +180,7 @@
         "known_for_department": "Directing",
         "name": "Devi Prasad",
         "original_name": "Devi Prasad",
-        "popularity": 0.5866,
+        "popularity": 1.3359,
         "profile_path": "/l63FZ8rFIc5jLz8dAzoKcLfKBQb.jpg",
         "cast_id": 9,
         "character": "",
@@ -191,29 +191,16 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 441339,
-        "known_for_department": "Directing",
-        "name": "Teja",
-        "original_name": "Teja",
-        "popularity": 0.3214,
-        "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
-        "credit_id": "6344e5d025b955007a8bc732",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 0,
-        "id": 424246,
+        "id": 1107258,
         "known_for_department": "Directing",
-        "name": "R. P. Patnaik",
-        "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
+        "name": "B.V. Ramana",
+        "original_name": "B.V. Ramana",
+        "popularity": 0.3608,
         "profile_path": null,
-        "credit_id": "6344e7499c97bd00796dc767",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "credit_id": "6344e6e3cffeed007949310a",
+        "department": "Directing",
+        "job": "Action Director"
       },
       {
         "adult": false,
@@ -222,7 +209,7 @@
         "known_for_department": "Art",
         "name": "Supriya Battepati",
         "original_name": "Supriya Battepati",
-        "popularity": 0.0071,
+        "popularity": 0.2582,
         "profile_path": null,
         "credit_id": "6344e6d2d34eb3007e7b17d2",
         "department": "Art",
@@ -231,80 +218,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 558302,
-        "known_for_department": "Camera",
-        "name": "Sameer Reddy",
-        "original_name": "Sameer Reddy",
-        "popularity": 0.2846,
-        "profile_path": null,
-        "credit_id": "6344e6a9f3b49a007c94dc75",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2200190,
-        "known_for_department": "Crew",
-        "name": "Vamsi Shekar",
-        "original_name": "Vamsi Shekar",
-        "popularity": 0.2716,
-        "profile_path": null,
-        "credit_id": "6344e71b6a300b007d21412f",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2450182,
-        "known_for_department": "Writing",
-        "name": "Chandrabose",
-        "original_name": "Chandrabose",
-        "popularity": 0.14,
-        "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
-        "credit_id": "6344e6b6d6c3000082188c0e",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107258,
+        "id": 424246,
         "known_for_department": "Directing",
-        "name": "B.V. Ramana",
-        "original_name": "B.V. Ramana",
-        "popularity": 0.0468,
+        "name": "R. P. Patnaik",
+        "original_name": "R. P. Patnaik",
+        "popularity": 0.3934,
         "profile_path": null,
-        "credit_id": "6344e6e3cffeed007949310a",
-        "department": "Directing",
-        "job": "Action Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 441339,
-        "known_for_department": "Directing",
-        "name": "Teja",
-        "original_name": "Teja",
-        "popularity": 0.3214,
-        "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
-        "credit_id": "6344e6819bcd0f007d315e0a",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1488793,
-        "known_for_department": "Editing",
-        "name": "Kotagiri Venkateswara Rao",
-        "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
-        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
-        "credit_id": "6344e69cd6c300007f5f42ed",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "6344e7499c97bd00796dc767",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -313,11 +235,24 @@
         "known_for_department": "Writing",
         "name": "Anil Achugatla",
         "original_name": "Anil Achugatla",
-        "popularity": 0.0143,
+        "popularity": 0.2775,
         "profile_path": null,
         "credit_id": "6344e690d55c3d007a1a6c91",
         "department": "Writing",
         "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2450182,
+        "known_for_department": "Writing",
+        "name": "Chandrabose",
+        "original_name": "Chandrabose",
+        "popularity": 1.0259,
+        "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
+        "credit_id": "6344e6b6d6c3000082188c0e",
+        "department": "Writing",
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -326,7 +261,7 @@
         "known_for_department": "Visual Effects",
         "name": "Nikhil Koduru",
         "original_name": "Nikhil Koduru",
-        "popularity": 0.0563,
+        "popularity": 0.3011,
         "profile_path": null,
         "credit_id": "6344e72cb7a1540090c3f13e",
         "department": "Visual Effects",
@@ -335,24 +270,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2041626,
-        "known_for_department": "Crew",
-        "name": "Real Satheesh",
-        "original_name": "Real Satheesh",
-        "popularity": 0.1136,
-        "profile_path": "/u0FGgcilK4kBFZ2YHNv4uKEixGM.jpg",
-        "credit_id": "6344e6ecc3bffe0079421211",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 441339,
         "known_for_department": "Directing",
         "name": "Teja",
         "original_name": "Teja",
-        "popularity": 0.3214,
+        "popularity": 0.8923,
         "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
         "credit_id": "6344e67b7a97ab007a9cead7",
         "department": "Writing",
@@ -361,11 +283,89 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "6344e69cd6c300007f5f42ed",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 441339,
+        "known_for_department": "Directing",
+        "name": "Teja",
+        "original_name": "Teja",
+        "popularity": 0.8923,
+        "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
+        "credit_id": "6344e5d025b955007a8bc732",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 441339,
+        "known_for_department": "Directing",
+        "name": "Teja",
+        "original_name": "Teja",
+        "popularity": 0.8923,
+        "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
+        "credit_id": "6344e6819bcd0f007d315e0a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 558302,
+        "known_for_department": "Camera",
+        "name": "Sameer Reddy",
+        "original_name": "Sameer Reddy",
+        "popularity": 0.3607,
+        "profile_path": null,
+        "credit_id": "6344e6a9f3b49a007c94dc75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041626,
+        "known_for_department": "Crew",
+        "name": "Real Satheesh",
+        "original_name": "Real Satheesh",
+        "popularity": 0.4056,
+        "profile_path": "/u0FGgcilK4kBFZ2YHNv4uKEixGM.jpg",
+        "credit_id": "6344e6ecc3bffe0079421211",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2200190,
+        "known_for_department": "Crew",
+        "name": "Vamsi Shekar",
+        "original_name": "Vamsi Shekar",
+        "popularity": 0.4059,
+        "profile_path": null,
+        "credit_id": "6344e71b6a300b007d21412f",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 3266129,
         "known_for_department": "Production",
         "name": "P. Uday Kiran",
         "original_name": "P. Uday Kiran",
-        "popularity": 0.0143,
+        "popularity": 0.2775,
         "profile_path": null,
         "credit_id": "6344e99ecffeed0081823933",
         "department": "Production",
@@ -376,12 +376,32 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt17057430",
-    "wikidata_id": null,
+    "wikidata_id": "Q121337995",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-06-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -438,26 +458,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 920
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-06-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

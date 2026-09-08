@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Artificial",
   "overview": "A 2012 Telugu short film.",
-  "popularity": 0.0521,
+  "popularity": 0.4531,
   "poster_path": "/6vHZWVvRoRTzoQA8X9UxLck3U7e.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,36 +34,27 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
+  "external_ids": {
+    "imdb_id": "tt2223558",
+    "wikidata_id": "Q16246788",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 1378575,
-        "known_for_department": "Acting",
-        "name": "Abhinav Gomatam",
-        "original_name": "Abhinav Gomatam",
-        "popularity": 0.3441,
-        "profile_path": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg",
-        "cast_id": 0,
-        "character": "",
-        "credit_id": "5b70bfbd92514140541684ce",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2105880,
-        "known_for_department": "Directing",
-        "name": "Vijay Vemuri",
-        "original_name": "Vijay Vemuri",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b70bfd4c3a36818861cb716",
-        "department": "Directing",
-        "job": "Director"
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2012-04-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -86,30 +77,6 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2012-04-27T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt2223558",
-    "wikidata_id": "Q16246788",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "alternative_titles": {
     "titles": []
   },
@@ -126,6 +93,39 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 776
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378575,
+        "known_for_department": "Acting",
+        "name": "Abhinav Gomatam",
+        "original_name": "Abhinav Gomatam",
+        "popularity": 0.816,
+        "profile_path": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "5b70bfbd92514140541684ce",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2105880,
+        "known_for_department": "Directing",
+        "name": "Vijay Vemuri",
+        "original_name": "Vijay Vemuri",
+        "popularity": 0.2626,
+        "profile_path": null,
+        "credit_id": "5b70bfd4c3a36818861cb716",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   }

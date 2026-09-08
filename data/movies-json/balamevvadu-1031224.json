@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "బలమెవ్వడు",
   "overview": "Satyanarayana, an insurance agent falls in love with Parnika, a dance student. In the following events, he unintentionally rescues her from an assault, and after multiple meetings, they eventually fall in love. But their world is shaken when Parnika is diagnosed with cancer. Is she really suffering from cancer, or is there a cynical medical mafia behind it?",
-  "popularity": 0.2078,
+  "popularity": 1.745,
   "poster_path": "/uESegTpq5HorPGrbjrA4r1vtRqW.jpg",
   "production_companies": [
     {
@@ -55,9 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -67,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Dhruvan Katakam",
         "original_name": "Dhruvan Katakam",
-        "popularity": 0,
+        "popularity": 0.5554,
         "profile_path": null,
         "cast_id": 1,
         "character": "Satyanarayana",
@@ -81,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Nia Tripathi",
         "original_name": "Nia Tripathi",
-        "popularity": 0.0143,
+        "popularity": 0.4124,
         "profile_path": "/2Qq0n8sn8IQaJe8mhAUNl5xWwyR.jpg",
         "cast_id": 2,
         "character": "Parnika",
@@ -95,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Babloo Prithiveeraj",
         "original_name": "Babloo Prithiveeraj",
-        "popularity": 0.6323,
+        "popularity": 1.6581,
         "profile_path": "/lnRXcRebSmfJaSaRqTt91o1vkhE.jpg",
         "cast_id": 3,
         "character": "Dr. Phani Bhushan",
@@ -109,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "Dr. Yashoda",
@@ -123,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4019,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 5,
         "character": "Dr. James",
@@ -137,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "I Dream Anjali",
         "original_name": "I Dream Anjali",
-        "popularity": 0.399,
+        "popularity": 0.84,
         "profile_path": "/hJRA2lNyInl7pc0PAEEQVt7NjD2.jpg",
         "cast_id": 6,
         "character": "",
@@ -151,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Vivek Trivedi",
         "original_name": "Vivek Trivedi",
-        "popularity": 0.0547,
+        "popularity": 0.3778,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -165,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Apparao",
         "original_name": "Jabardasth Apparao",
-        "popularity": 0.2119,
+        "popularity": 0.6076,
         "profile_path": "/khtIs6OXTTAVTdca4ujbZxVESV0.jpg",
         "cast_id": 8,
         "character": "",
@@ -176,12 +173,64 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 3725019,
+        "known_for_department": "Directing",
+        "name": "Satya Rachakonda",
+        "original_name": "Satya Rachakonda",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "633a7bbfe4c9eb007c8f3bd6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725019,
+        "known_for_department": "Directing",
+        "name": "Satya Rachakonda",
+        "original_name": "Satya Rachakonda",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "633a7bc92b113d007ae81453",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725019,
+        "known_for_department": "Directing",
+        "name": "Satya Rachakonda",
+        "original_name": "Satya Rachakonda",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "633a7bcf481382007d4a400c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725019,
+        "known_for_department": "Directing",
+        "name": "Satya Rachakonda",
+        "original_name": "Satya Rachakonda",
+        "popularity": 0.404,
+        "profile_path": null,
+        "credit_id": "633a7bd687f3f2007a2fe290",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 225317,
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.2979,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "633a7be44cbe12007c39d88e",
         "department": "Sound",
@@ -194,24 +243,11 @@
         "known_for_department": "Editing",
         "name": "M. Jesvin Prabu",
         "original_name": "M. Jesvin Prabu",
-        "popularity": 0.0598,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "633a7cac481382007d4a4075",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725019,
-        "known_for_department": "Directing",
-        "name": "Satya Rachakonda",
-        "original_name": "Satya Rachakonda",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "633a7bbfe4c9eb007c8f3bd6",
-        "department": "Directing",
-        "job": "Director"
       },
       {
         "adult": false,
@@ -220,89 +256,11 @@
         "known_for_department": "Writing",
         "name": "Kalyan Chakravarthy",
         "original_name": "Kalyan Chakravarthy",
-        "popularity": 0.1625,
+        "popularity": 0.3181,
         "profile_path": null,
         "credit_id": "633a7cd4cfe48f007eabd98e",
         "department": "Writing",
         "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725019,
-        "known_for_department": "Directing",
-        "name": "Satya Rachakonda",
-        "original_name": "Satya Rachakonda",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "633a7bcf481382007d4a400c",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725020,
-        "known_for_department": "Camera",
-        "name": "P. Giri",
-        "original_name": "P. Giri",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "633a7f2223bcf4009181a4c4",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725019,
-        "known_for_department": "Directing",
-        "name": "Satya Rachakonda",
-        "original_name": "Satya Rachakonda",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "633a7bd687f3f2007a2fe290",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3311360,
-        "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
-        "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1184,
-        "profile_path": null,
-        "credit_id": "633a7f8ee4c9eb007f2f1f25",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725023,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Harsha Rachakonda",
-        "original_name": "Harsha Rachakonda",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "633a7fcfb0ba7e007c39f802",
-        "department": "Costume & Make-Up",
-        "job": "Costume Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3725019,
-        "known_for_department": "Directing",
-        "name": "Satya Rachakonda",
-        "original_name": "Satya Rachakonda",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "633a7bc92b113d007ae81453",
-        "department": "Writing",
-        "job": "Story"
       },
       {
         "adult": false,
@@ -311,11 +269,50 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "633a7cde1750510084c46fee",
         "department": "Sound",
         "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770025,
+        "known_for_department": "Sound",
+        "name": "Anurag Kulkarni",
+        "original_name": "Anurag Kulkarni",
+        "popularity": 0.3319,
+        "profile_path": null,
+        "credit_id": "633a7ce72b113d0082d96cfb",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1861344,
+        "known_for_department": "Camera",
+        "name": "Santhosh Shakthi",
+        "original_name": "Santhosh Shakthi",
+        "popularity": 0.2618,
+        "profile_path": null,
+        "credit_id": "633a7ed62b113d007fb43672",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3725020,
+        "known_for_department": "Camera",
+        "name": "P. Giri",
+        "original_name": "P. Giri",
+        "popularity": 0.2818,
+        "profile_path": null,
+        "credit_id": "633a7f2223bcf4009181a4c4",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -324,7 +321,7 @@
         "known_for_department": "Production",
         "name": "R. B. Markandeyulu",
         "original_name": "R. B. Markandeyulu",
-        "popularity": 0,
+        "popularity": 0.3103,
         "profile_path": null,
         "credit_id": "633a7f4b4f33ad007d46d484",
         "department": "Production",
@@ -337,7 +334,7 @@
         "known_for_department": "Crew",
         "name": "Shivaraj",
         "original_name": "Shivaraj",
-        "popularity": 0.0168,
+        "popularity": 0.3343,
         "profile_path": null,
         "credit_id": "633a7f6a2b113d0082d96e04",
         "department": "Crew",
@@ -346,28 +343,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1861344,
-        "known_for_department": "Camera",
-        "name": "Santhosh Shakthi",
-        "original_name": "Santhosh Shakthi",
-        "popularity": 0.0143,
+        "id": 3311360,
+        "known_for_department": "Crew",
+        "name": "Sai Satish",
+        "original_name": "Sai Sathish Parvathaneni",
+        "popularity": 0.4145,
         "profile_path": null,
-        "credit_id": "633a7ed62b113d007fb43672",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1770025,
-        "known_for_department": "Sound",
-        "name": "Anurag Kulkarni",
-        "original_name": "Anurag Kulkarni",
-        "popularity": 0.1933,
-        "profile_path": null,
-        "credit_id": "633a7ce72b113d0082d96cfb",
-        "department": "Sound",
-        "job": "Playback Singer"
+        "credit_id": "633a7f8ee4c9eb007f2f1f25",
+        "department": "Crew",
+        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -376,7 +360,7 @@
         "known_for_department": "Production",
         "name": "Dhani Aelay",
         "original_name": "Dhani Aelay",
-        "popularity": 0.1763,
+        "popularity": 0.3889,
         "profile_path": null,
         "credit_id": "633a7f994cbe1200906f8cc6",
         "department": "Production",
@@ -385,17 +369,43 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3725023,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harsha Rachakonda",
+        "original_name": "Harsha Rachakonda",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "633a7fcfb0ba7e007c39f802",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3725024,
         "known_for_department": "Directing",
         "name": "Ramesh Mylaram",
         "original_name": "Ramesh Mylaram",
-        "popularity": 0,
+        "popularity": 0.2887,
         "profile_path": null,
         "credit_id": "633a7fe323bcf4007d6d7091",
         "department": "Directing",
         "job": "Co-Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt21076374",
+    "wikidata_id": "Q116244940",
+    "facebook_id": null,
+    "instagram_id": "balamevvadu",
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -414,15 +424,24 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt21076374",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": "balamevvadu",
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Balamevadu",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Balamevvudu",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Balamevudu",
+        "type": "Alternate"
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -468,25 +487,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 808
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Balamevadu",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Balamevvudu",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Balamevudu",
-        "type": "Alternate"
       }
     ]
   }

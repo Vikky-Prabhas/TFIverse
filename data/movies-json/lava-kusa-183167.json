@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "లవకుశ",
   "overview": "This movie deals with the later part of Ramayana written by Valmiki Maharshi and depicts the lives of the sons of Rama & Sita.",
-  "popularity": 0.4556,
+  "popularity": 1.4235,
   "poster_path": "/4VPobiXQIhXZML6eSh86iJnU0SF.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 16,
         "character": "Lord Rama",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2662,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 12,
         "character": "Goddess Sita",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.1879,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 17,
         "character": "Laxmana",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 19,
         "character": "Bharata",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.5473,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 18,
         "character": "Shatrughna",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Ramana Reddy",
         "original_name": "Ramana Reddy",
-        "popularity": 0.91,
+        "popularity": 0.7405,
         "profile_path": "/nYN6YoA9pbjQE0J8b9jS496YjP6.jpg",
         "cast_id": 20,
         "character": "Valmiki's disciple",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 13,
         "character": "Valmiki disciple's wife",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "P. Kannamba",
         "original_name": "P. Kannamba",
-        "popularity": 0.1294,
+        "popularity": 0.666,
         "profile_path": "/3AR3UCv7zE7FNnfjTYVaReJ3cW7.jpg",
         "cast_id": 21,
         "character": "Kousalya",
@@ -162,16 +162,29 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1166346,
+        "gender": 0,
+        "id": 1208888,
         "known_for_department": "Directing",
-        "name": "Chittajalu Pullayya",
-        "original_name": "Chittajalu Pullayya",
-        "popularity": 0.0475,
+        "name": "Chittajallu Srinivasa Rao",
+        "original_name": "Chittajallu Srinivasa Rao",
+        "popularity": 0.5581,
         "profile_path": null,
-        "credit_id": "52fe4c989251416c7511f55b",
+        "credit_id": "52fe4c989251416c7511f58f",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208890,
+        "known_for_department": "Production",
+        "name": "Allareddy Shankar Reddy",
+        "original_name": "Allareddy Shankar Reddy",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "52fe4c989251416c7511f5a1",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -180,7 +193,7 @@
         "known_for_department": "Writing",
         "name": "Balijepalli Lakshmikantha Kavi",
         "original_name": "Balijepalli Lakshmikantha Kavi",
-        "popularity": 0.0261,
+        "popularity": 0.4533,
         "profile_path": null,
         "credit_id": "52fe4c989251416c7511f561",
         "department": "Writing",
@@ -188,14 +201,14 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1208888,
+        "gender": 2,
+        "id": 1166346,
         "known_for_department": "Directing",
-        "name": "Chittajallu Srinivasa Rao",
-        "original_name": "Chittajallu Srinivasa Rao",
-        "popularity": 0.1152,
+        "name": "Chittajalu Pullayya",
+        "original_name": "Chittajalu Pullayya",
+        "popularity": 0.3187,
         "profile_path": null,
-        "credit_id": "52fe4c989251416c7511f58f",
+        "credit_id": "52fe4c989251416c7511f55b",
         "department": "Directing",
         "job": "Director"
       },
@@ -206,7 +219,7 @@
         "known_for_department": "Writing",
         "name": "Samudrala Raghavacharya",
         "original_name": "Samudrala Raghavacharya",
-        "popularity": 0.091,
+        "popularity": 0.4441,
         "profile_path": null,
         "credit_id": "52fe4c989251416c7511f595",
         "department": "Writing",
@@ -215,24 +228,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1208890,
-        "known_for_department": "Production",
-        "name": "Allareddy Shankar Reddy",
-        "original_name": "Allareddy Shankar Reddy",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "52fe4c989251416c7511f5a1",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1139299,
         "known_for_department": "Sound",
         "name": "Ghantasala",
         "original_name": "Ghantasala",
-        "popularity": 0.1147,
+        "popularity": 0.3387,
         "profile_path": null,
         "credit_id": "6483790699259c00c5b40ab4",
         "department": "Sound",
@@ -245,7 +245,7 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1694,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "64837918c9dbf900ad453f28",
         "department": "Sound",
@@ -258,31 +258,11 @@
         "known_for_department": "Writing",
         "name": "Samudrala Raghavacharya",
         "original_name": "Samudrala Raghavacharya",
-        "popularity": 0.091,
+        "popularity": 0.4441,
         "profile_path": null,
         "credit_id": "6483792ee272600128794970",
         "department": "Writing",
         "job": "Lyricist"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 2035,
-        "name": "mythology"
-      },
-      {
-        "id": 4344,
-        "name": "musical"
-      },
-      {
-        "id": 11001,
-        "name": "religion"
-      },
-      {
-        "id": 156195,
-        "name": "family feud"
       }
     ]
   },
@@ -292,6 +272,22 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "ntr scene 2 in ntr lavakusa",
+        "key": "XbX80L9Y_lI",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": false,
+        "id": "533ec708c3a368544800a5b5",
+        "published_at": "2008-09-15T08:48:22.000Z"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -315,6 +311,26 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2035,
+        "name": "mythology"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 11001,
+        "name": "religion"
+      },
+      {
+        "id": 156195,
+        "name": "family feud"
       }
     ]
   },
@@ -386,22 +402,6 @@
         "iso_3166_1": "IN",
         "title": "Lavakusha",
         "type": "alternate spelling"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "ntr scene 2 in ntr lavakusa",
-        "key": "XbX80L9Y_lI",
-        "site": "YouTube",
-        "size": 720,
-        "type": "Clip",
-        "official": false,
-        "id": "533ec708c3a368544800a5b5",
-        "published_at": "2008-09-15T08:48:22.000Z"
       }
     ]
   }

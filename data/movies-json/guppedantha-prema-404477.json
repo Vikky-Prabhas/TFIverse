@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/g5fUF2jBnnFLec5wd1NhkUhBoRh.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -24,10 +24,10 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Guppedantha Prema",
+  "original_title": "గుప్పెడంత ప్రేమ",
   "overview": "Yuvan (Sai Ronak) is an university student who looses his parents in an accident. He always dreams of a love marriage because his parents also had one. Yuvan befriends Sandy (Aditi Singh) and soon their friendship blossoms into love. Twist in the tale arisis when the young couple gets separated. A heartbroken Yuvan pens a book titled Tholi Prema as an ode to Sandy. After reading the book, a girl named Swara (Aishwarya) falls in love with Yuvan. Destiny has other plans as Sandy comes back into Yuvan’s life. Rest of the story is as to whom Yuvan chooses and ends up with finally.",
-  "popularity": 0.0624,
-  "poster_path": null,
+  "popularity": 1.6619,
+  "poster_path": "/74n9u5qTR0hfBayM9KAfNJVrYdK.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2016-06-17",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Sai Ronak",
         "original_name": "Sai Ronak",
-        "popularity": 0.245,
+        "popularity": 0.5711,
         "profile_path": "/4jJGpJmNkAtXKS3fRJBf3hDtfPy.jpg",
         "cast_id": 0,
         "character": "",
@@ -65,13 +65,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1643943,
         "known_for_department": "Acting",
         "name": "Aditi Singh",
         "original_name": "Aditi Singh",
-        "popularity": 0.0286,
-        "profile_path": null,
+        "popularity": 0.6388,
+        "profile_path": "/y2jWPlU670n1GCHLJtQ6y7ThHPn.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "5776b1849251415d250001f6",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Aishwarya",
         "original_name": "Aishwarya",
-        "popularity": 0.0071,
+        "popularity": 0.3059,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Abhilash",
         "original_name": "Abhilash",
-        "popularity": 0.0286,
+        "popularity": 0.3782,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Noel Sean",
         "original_name": "Noel Sean",
-        "popularity": 0.2314,
+        "popularity": 0.4203,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -128,11 +128,37 @@
         "known_for_department": "Directing",
         "name": "Vinod Lingala",
         "original_name": "Vinod Lingala",
-        "popularity": 0.0071,
+        "popularity": 0.3374,
         "profile_path": null,
         "credit_id": "5776b20cc3a36873a10002bb",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653868,
+        "known_for_department": "Editing",
+        "name": "Basava Peddireddy",
+        "original_name": "Basava Peddireddy",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "5a5abeaec3a36867d30166d5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1441740,
+        "known_for_department": "Camera",
+        "name": "Sanjay Loknath",
+        "original_name": "Sanjay Loknath",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "5a5abea10e0a267fd3016d21",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -141,7 +167,7 @@
         "known_for_department": "Directing",
         "name": "Vinod Lingala",
         "original_name": "Vinod Lingala",
-        "popularity": 0.0071,
+        "popularity": 0.3374,
         "profile_path": null,
         "credit_id": "5a5abe84c3a36867de016325",
         "department": "Writing",
@@ -154,37 +180,11 @@
         "known_for_department": "Sound",
         "name": "Navneet Sundar",
         "original_name": "Navneet Sundar",
-        "popularity": 0.0261,
+        "popularity": 0.2862,
         "profile_path": null,
         "credit_id": "5a5abe940e0a267fdd017053",
         "department": "Sound",
         "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1441740,
-        "known_for_department": "Camera",
-        "name": "Sanjay Loknath",
-        "original_name": "Sanjay Loknath",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5a5abea10e0a267fd3016d21",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1653868,
-        "known_for_department": "Editing",
-        "name": "Basava Peddireddy",
-        "original_name": "Basava Peddireddy",
-        "popularity": 0.1031,
-        "profile_path": null,
-        "credit_id": "5a5abeaec3a36867d30166d5",
-        "department": "Editing",
-        "job": "Editor"
       }
     ]
   },
@@ -195,8 +195,38 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/g5fUF2jBnnFLec5wd1NhkUhBoRh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 1920,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/74n9u5qTR0hfBayM9KAfNJVrYdK.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1296
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -215,15 +245,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

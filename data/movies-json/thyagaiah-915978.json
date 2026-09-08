@@ -22,10 +22,15 @@
   "original_language": "te",
   "original_title": "త్యాగయ్య",
   "overview": "Thyagaraja, a saint and a poet, overcomes many hurdles in his life, including grinding poverty to emerge as the greatest Carnatic music composers of all time.",
-  "popularity": 0.1211,
+  "popularity": 1.5915,
   "poster_path": null,
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "1946-11-01",
   "revenue": 0,
   "runtime": 186,
@@ -43,81 +48,25 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
-  "credits": {
-    "cast": [
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 1122103,
-        "known_for_department": "Acting",
-        "name": "Chittoor V. Nagayya",
-        "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
-        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
-        "cast_id": 1,
-        "character": "Tyagayya",
-        "credit_id": "61b8f75ba6fdaa0063c8fa1a",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1268414,
-        "known_for_department": "Acting",
-        "name": "B. Jayamma",
-        "original_name": "B. Jayamma",
-        "popularity": 0.0588,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Dharmamba",
-        "credit_id": "61b8f78fa6fdaa00a1981fd0",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1122103,
-        "known_for_department": "Acting",
-        "name": "Chittoor V. Nagayya",
-        "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
-        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
-        "credit_id": "61b8f7ffa3d027001d31da7d",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1122103,
-        "known_for_department": "Acting",
-        "name": "Chittoor V. Nagayya",
-        "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
-        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
-        "credit_id": "61b8f7d61c63290041110e9c",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1122103,
-        "known_for_department": "Acting",
-        "name": "Chittoor V. Nagayya",
-        "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
-        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
-        "credit_id": "697ce7538f87532f2f0d1a71",
-        "department": "Writing",
-        "job": "Writer"
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1946-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0246277",
@@ -126,8 +75,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -148,20 +97,76 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
+  "credits": {
+    "cast": [
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1946-11-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "adult": false,
+        "gender": 2,
+        "id": 1122103,
+        "known_for_department": "Acting",
+        "name": "Chittoor V. Nagayya",
+        "original_name": "Chittoor V. Nagayya",
+        "popularity": 1.3122,
+        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
+        "cast_id": 1,
+        "character": "Tyagayya",
+        "credit_id": "61b8f75ba6fdaa0063c8fa1a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268414,
+        "known_for_department": "Acting",
+        "name": "B. Jayamma",
+        "original_name": "B. Jayamma",
+        "popularity": 0.398,
+        "profile_path": "/t7MHlfMrUnadIUo3iwpZj8RoQoA.jpg",
+        "cast_id": 2,
+        "character": "Dharmamba",
+        "credit_id": "61b8f78fa6fdaa00a1981fd0",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122103,
+        "known_for_department": "Acting",
+        "name": "Chittoor V. Nagayya",
+        "original_name": "Chittoor V. Nagayya",
+        "popularity": 1.3122,
+        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
+        "credit_id": "61b8f7ffa3d027001d31da7d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122103,
+        "known_for_department": "Acting",
+        "name": "Chittoor V. Nagayya",
+        "original_name": "Chittoor V. Nagayya",
+        "popularity": 1.3122,
+        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
+        "credit_id": "61b8f7d61c63290041110e9c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122103,
+        "known_for_department": "Acting",
+        "name": "Chittoor V. Nagayya",
+        "original_name": "Chittoor V. Nagayya",
+        "popularity": 1.3122,
+        "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
+        "credit_id": "697ce7538f87532f2f0d1a71",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
   }

@@ -1,0 +1,412 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1696820,
+  "imdb_id": "tt6915172",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "సేవకుడు",
+  "overview": "An honest policeman wants his son to become an IPS officer, though the latter is least interested. But after the officer gets killed, his enraged son decides to set things right.",
+  "popularity": 1.4342,
+  "poster_path": "/vUAXC8cmzf3iZqBjQoDByMqQgum.jpg",
+  "production_companies": [
+    {
+      "id": 298796,
+      "logo_path": null,
+      "name": "Sri Venkata Ramana Art Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2013-01-04",
+  "revenue": 0,
+  "runtime": 154,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sevakudu",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003981,
+        "known_for_department": "Acting",
+        "name": "Srikanth",
+        "original_name": "శ్రీకాంత్",
+        "popularity": 3.4944,
+        "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+        "cast_id": 1,
+        "character": "Surya",
+        "credit_id": "6a0981cb8874079926ee429d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470750,
+        "known_for_department": "Acting",
+        "name": "Krishna",
+        "original_name": "Krishna",
+        "popularity": 1.4125,
+        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
+        "cast_id": 2,
+        "character": "Krishna Prasad",
+        "credit_id": "6a0981da111e90879a29369e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 592512,
+        "known_for_department": "Acting",
+        "name": "Charmy Kaur",
+        "original_name": "చార్మీ కౌర్",
+        "popularity": 2.5614,
+        "profile_path": "/5BIGQIuyylSpKrQVhYEEY6GfaUw.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a0981e3718e047022293638",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1267547,
+        "known_for_department": "Production",
+        "name": "Manjula Ghattamaneni",
+        "original_name": "Manjula Ghattamaneni",
+        "popularity": 0.6969,
+        "profile_path": "/lapSXVQQnXdrsvEzu9CMU1FbuMV.jpg",
+        "cast_id": 4,
+        "character": "Manjula",
+        "credit_id": "6a0981f3718e04702229363c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 5,
+        "character": "Bramhi",
+        "credit_id": "6a098202cde9faa717767b47",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130111,
+        "known_for_department": "Acting",
+        "name": "Nassar",
+        "original_name": "Nassar",
+        "popularity": 1.8165,
+        "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+        "cast_id": 6,
+        "character": "Ramachandrayya",
+        "credit_id": "6a09822e718e047022293649",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584887,
+        "known_for_department": "Acting",
+        "name": "Pradeep Ram Singh Rawat",
+        "original_name": "Pradeep Ram Singh Rawat",
+        "popularity": 2.5977,
+        "profile_path": "/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg",
+        "cast_id": 7,
+        "character": "Balram Jadoo",
+        "credit_id": "6a098246718e047022293658",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585576,
+        "known_for_department": "Acting",
+        "name": "Vijayachander",
+        "original_name": "Vijayachander",
+        "popularity": 0.9327,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6a098254a0e344d88edb2956",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1064957,
+        "known_for_department": "Acting",
+        "name": "Srinivasa Reddy",
+        "original_name": "Srinivasa Reddy",
+        "popularity": 1.3572,
+        "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
+        "cast_id": 9,
+        "character": "Raju; Surya's friend",
+        "credit_id": "6a09826b1c83901c73dfaa59",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585567,
+        "known_for_department": "Acting",
+        "name": "Shivaji Raja",
+        "original_name": "Shivaji Raja",
+        "popularity": 1.7055,
+        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6a098279e26e9cdd2cd5fde0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335957,
+        "known_for_department": "Acting",
+        "name": "Tirupati Prakash",
+        "original_name": "Tirupati Prakash",
+        "popularity": 0.6318,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6a098288c815470171f9e55e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029021,
+        "known_for_department": "Acting",
+        "name": "Chitti Babu",
+        "original_name": "Chitti Babu",
+        "popularity": 0.5265,
+        "profile_path": "/b6aLLm1y2Hi9SrmpqOEfGwJBlkF.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6a098295210f5048f2db2a06",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148052,
+        "known_for_department": "Acting",
+        "name": "M. S. Narayana",
+        "original_name": "M. S. Narayana",
+        "popularity": 2.238,
+        "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
+        "cast_id": 13,
+        "character": "Narayana",
+        "credit_id": "6a0982a7a8bbbd5b706d9bdd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107227,
+        "known_for_department": "Acting",
+        "name": "Ahuti Prasad",
+        "original_name": "Ahuti Prasad",
+        "popularity": 2.2596,
+        "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6a0982b18874079926ee42a4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585270,
+        "known_for_department": "Acting",
+        "name": "Chalapathi Rao",
+        "original_name": "Chalapathi Rao",
+        "popularity": 2.1919,
+        "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "6a0982bf1756a4f9aedb2a7d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1152889,
+        "known_for_department": "Acting",
+        "name": "Sangeeta",
+        "original_name": "சங்கீதா",
+        "popularity": 1.7206,
+        "profile_path": "/L4VIyvk9pQajUFc2TmV6iuR6L0.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6a0982cd310ed73d971e6b93",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 591152,
+        "known_for_department": "Acting",
+        "name": "Hema",
+        "original_name": "Hema",
+        "popularity": 0.9583,
+        "profile_path": "/4s1Kiq09KI4p7RFjmclEelLnyV8.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a0982d5b20c409e676d9b87",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661313,
+        "known_for_department": "Acting",
+        "name": "Jenny",
+        "original_name": "Jenny",
+        "popularity": 0.7158,
+        "profile_path": "/fejSGfZwZtar4pES1rDMg9SYHlG.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a0982e7f38e8d8c77ee41a0",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335989,
+        "known_for_department": "Directing",
+        "name": "V. Samudra",
+        "original_name": "V. Samudra",
+        "popularity": 1.2206,
+        "profile_path": "/bjQdpgt6a5Xf6Hho8scpvmWopA.jpg",
+        "credit_id": "6a09830091d13ed8a8db2a00",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6219840,
+        "known_for_department": "Production",
+        "name": "Muttineni Satyanarayana",
+        "original_name": "Muttineni Satyanarayana",
+        "popularity": 0.2892,
+        "profile_path": null,
+        "credit_id": "6a098315cb689f3f8bdfaa4a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001825,
+        "known_for_department": "Production",
+        "name": "N. Sudhakar Reddy",
+        "original_name": "N. Sudhakar Reddy",
+        "popularity": 0.3709,
+        "profile_path": "/iJddkhx5i37jySOH20VIGgOWAJr.jpg",
+        "credit_id": "6a098329c7e43c3aaef9e6df",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85526,
+        "known_for_department": "Sound",
+        "name": "Srikanth Deva",
+        "original_name": "Srikanth Deva",
+        "popularity": 0.4662,
+        "profile_path": "/9iheoifmA3XDbVikJVaoWOlhex7.jpg",
+        "credit_id": "6a098338ff4652560f767b09",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt6915172",
+    "wikidata_id": "Q101245165",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vUAXC8cmzf3iZqBjQoDByMqQgum.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-01-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

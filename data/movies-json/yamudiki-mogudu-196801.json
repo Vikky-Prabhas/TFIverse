@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Yamudiki Mogudu",
   "overview": "Yamudiki Mogudu: Ee Nela Thakkuvodu is a 2012 released Telugu socio-fantasy and comedy film directed by E. Satti Babu.",
-  "popularity": 0.3599,
+  "popularity": 1.7374,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -42,8 +42,8 @@
   "tagline": "",
   "title": "Yamudiki Mogudu",
   "video": false,
-  "vote_average": 4.2,
-  "vote_count": 5,
+  "vote_average": 4.333,
+  "vote_count": 6,
   "credits": {
     "cast": [
       {
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Allari Naresh",
         "original_name": "Allari Naresh",
-        "popularity": 0.647,
+        "popularity": 1.9234,
         "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
         "cast_id": 3,
         "character": "Naresh",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Richa Panai",
         "original_name": "Richa Panai",
-        "popularity": 0.164,
+        "popularity": 2.1457,
         "profile_path": "/bCedYYPFk7Ea9daOdQ6yqDxefiP.jpg",
         "cast_id": 4,
         "character": "Yamaja",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.6919,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 5,
         "character": "Yama",
@@ -95,8 +95,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.2012,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 6,
         "character": "Yama's wife Ayyo",
         "credit_id": "52fe4d3a9251416c9110efb5",
@@ -111,7 +111,7 @@
         "known_for_department": "Directing",
         "name": "E. Sathi Babu",
         "original_name": "E. Sathi Babu",
-        "popularity": 0.1476,
+        "popularity": 0.9464,
         "profile_path": null,
         "credit_id": "52fe4d3a9251416c9110efa5",
         "department": "Writing",
@@ -124,23 +124,11 @@
         "known_for_department": "Directing",
         "name": "E. Sathi Babu",
         "original_name": "E. Sathi Babu",
-        "popularity": 0.1476,
+        "popularity": 0.9464,
         "profile_path": null,
         "credit_id": "52fe4d3a9251416c9110ef9f",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 6155,
-        "name": "afterlife"
-      },
-      {
-        "id": 4116,
-        "name": "heaven"
       }
     ]
   },
@@ -154,17 +142,15 @@
   "videos": {
     "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": [
+  "keywords": {
+    "keywords": [
       {
-        "iso_3166_1": "IN",
-        "title": "Yamudiki Mogudu: Ee Nela Thakkuvodu",
-        "type": "Alternative Long Title"
+        "id": 6155,
+        "name": "afterlife"
+      },
+      {
+        "id": 4116,
+        "name": "heaven"
       }
     ]
   },
@@ -182,6 +168,20 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Yamudiki Mogudu: Ee Nela Thakkuvodu",
+        "type": "Alternative Long Title"
       }
     ]
   }

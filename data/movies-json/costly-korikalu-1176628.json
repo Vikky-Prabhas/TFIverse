@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Costly Korikalu",
   "overview": "“Based on a true story” a poor velding worker (subash) got a upcoming all new 2000rs money bag in a trash . after he went to his own village & he face so many problems with village members & money.",
-  "popularity": 0.0071,
+  "popularity": 0.4222,
   "poster_path": "/3TQ21DMq18eE5jEEACSpG5bDIEq.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -38,32 +38,11 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": "tt29539773",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-07-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "keywords": {
     "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -92,8 +71,29 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-07-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt29539773",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

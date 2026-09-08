@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అరవింద్ 2",
   "overview": "A movie production crew sets out to shoot a film in the Dandeli Forest. The hero (Kamal Kamaraju), second hero (Sri), Heroine (Adonika), Director (Srinivas Avasarala) and Producer (Anchor Vijay) rent out a guest house and wait for their backup crew to arrive.  A psychotic masked killer roams around in the forest with the sole aim of killing anyone that crosses his path. And now the production crew crossed his path.",
-  "popularity": 0.1603,
+  "popularity": 1.325,
   "poster_path": "/fmzoiHk9t1CgbEt9kzODizDhhN1.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,16 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt8616938",
+    "wikidata_id": "Q4784507",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Mangam Srinivas",
         "original_name": "Mangam Srinivas",
-        "popularity": 0.0858,
+        "popularity": 0.461,
         "profile_path": null,
         "cast_id": 17,
         "character": "Aravind",
@@ -71,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Madhavi Latha",
         "original_name": "Madhavi Latha",
-        "popularity": 0.2849,
+        "popularity": 0.6723,
         "profile_path": "/xmN4ppEuDqWiML2YyuXIvBzACtM.jpg",
         "cast_id": 10,
         "character": "Priya",
@@ -85,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Adonica",
         "original_name": "Adonica",
-        "popularity": 0.0795,
+        "popularity": 0.3274,
         "profile_path": null,
         "cast_id": 14,
         "character": "Lead Actress",
@@ -99,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2519,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 8,
         "character": "Rishi",
@@ -113,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 7,
         "character": "Filmmaker",
@@ -127,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Sri Reddy",
         "original_name": "Sri Reddy",
-        "popularity": 1.1327,
+        "popularity": 0.5521,
         "profile_path": "/80TyK1easOttxp5lvd1dNfSaesT.jpg",
         "cast_id": 16,
         "character": "Film Crew",
@@ -141,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Pokiri Vijay",
         "original_name": "Pokiri Vijay",
-        "popularity": 0.0071,
+        "popularity": 0.563,
         "profile_path": null,
         "cast_id": 19,
         "character": "Producer",
@@ -155,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Bala Prasad",
         "original_name": "Bala Prasad",
-        "popularity": 0,
+        "popularity": 0.5554,
         "profile_path": null,
         "cast_id": 20,
         "character": "Co-director",
@@ -169,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Surya Bhagawan Das",
         "original_name": "Surya Bhagawan Das",
-        "popularity": 0.4717,
+        "popularity": 2.0323,
         "profile_path": "/fflRAfFuyvM4QIGkS3EVcqIjVm1.jpg",
         "cast_id": 18,
         "character": "Priya's Father",
@@ -183,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 15,
         "character": "A Man",
@@ -199,7 +209,7 @@
         "known_for_department": "Directing",
         "name": "Shekar Suri",
         "original_name": "Shekar Suri",
-        "popularity": 0.0286,
+        "popularity": 0.4688,
         "profile_path": null,
         "credit_id": "52fe4eb2c3a36847f82a207b",
         "department": "Directing",
@@ -208,37 +218,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1333786,
-        "known_for_department": "Sound",
-        "name": "Vijay Kurakula",
-        "original_name": "Vijay Kurakula",
-        "popularity": 0.0806,
-        "profile_path": null,
-        "credit_id": "53a89e560e0a2614450064f6",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1333787,
-        "known_for_department": "Production",
-        "name": "Phanindra",
-        "original_name": "Phanindra",
-        "popularity": 0.0168,
-        "profile_path": null,
-        "credit_id": "53a89e58c3a3687a40005beb",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1333790,
         "known_for_department": "Writing",
         "name": "Bala",
         "original_name": "Bala",
-        "popularity": 0.0661,
+        "popularity": 0.3898,
         "profile_path": null,
         "credit_id": "53a89f8bc3a3687a34005bfa",
         "department": "Writing",
@@ -247,11 +231,37 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1333787,
+        "known_for_department": "Production",
+        "name": "Phanindra",
+        "original_name": "Phanindra",
+        "popularity": 0.2794,
+        "profile_path": null,
+        "credit_id": "53a89e58c3a3687a40005beb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1333786,
+        "known_for_department": "Sound",
+        "name": "Vijay Kurakula",
+        "original_name": "Vijay Kurakula",
+        "popularity": 0.2735,
+        "profile_path": null,
+        "credit_id": "53a89e560e0a2614450064f6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1333791,
         "known_for_department": "Writing",
         "name": "Surendra Krishna",
         "original_name": "Surendra Krishna",
-        "popularity": 0.0705,
+        "popularity": 0.4193,
         "profile_path": null,
         "credit_id": "53a89f96c3a3687a34005bff",
         "department": "Writing",
@@ -259,8 +269,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -278,16 +288,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8616938",
-    "wikidata_id": "Q4784507",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [

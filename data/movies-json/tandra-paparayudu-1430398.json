@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "తాండ్ర పాపారాయుడు",
   "overview": "The story of an Indian Freedom fighter who fought the French even before the British could establish their authority in India",
-  "popularity": 0.2923,
+  "popularity": 0.9344,
   "poster_path": "/atMZrEqS6kVDSao3BpYIcbRCq6q.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Krishnam Raju",
         "original_name": "Krishnam Raju",
-        "popularity": 0.2038,
+        "popularity": 2.9074,
         "profile_path": "/bvZLQkr6U1kNNWmHZsRnPXOpg4J.jpg",
         "cast_id": 1,
         "character": "Tandrapaparayudu",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 2,
         "character": "Vijayarama Raju",
@@ -82,9 +82,9 @@
         "gender": 2,
         "id": 110085,
         "known_for_department": "Acting",
-        "name": "Pran Sikand",
+        "name": "Pran",
         "original_name": "Pran Sikand",
-        "popularity": 1.3365,
+        "popularity": 1.3297,
         "profile_path": "/aTI9CC8ktetco0VKQGDtdSQBuuJ.jpg",
         "cast_id": 3,
         "character": "General Bussi",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 4,
         "character": "Mallamma",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Ramakrishna",
         "original_name": "Ramakrishna",
-        "popularity": 0.1497,
+        "popularity": 2.0207,
         "profile_path": "/4NPxq8VFzu6qMU0JNQMA9nAETNR.jpg",
         "cast_id": 5,
         "character": "Rangarayadu",
@@ -126,8 +126,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.6452,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 6,
         "character": "Subhadra",
         "credit_id": "67a5a1c7f196a73ae7670b20",
@@ -140,8 +140,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7694,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "67a5a1cef196a73ae7670b23",
@@ -154,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.1551,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 8,
         "character": "",
@@ -167,9 +167,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "67a5a1e1f196a73ae7670b32",
@@ -184,7 +184,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "67a5a1fddf336f38ab85dc9b",
         "department": "Directing",
@@ -197,7 +197,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "67a5a207df336f38ab85dca2",
         "department": "Writing",
@@ -205,15 +205,27 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0253784",
-    "wikidata_id": "Q16948397",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.698,
+        "height": 799,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/atMZrEqS6kVDSao3BpYIcbRCq6q.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 558
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -232,25 +244,6 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.698,
-        "height": 799,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/atMZrEqS6kVDSao3BpYIcbRCq6q.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 558
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
   "alternative_titles": {
     "titles": [
       {
@@ -259,5 +252,12 @@
         "type": ""
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0253784",
+    "wikidata_id": "Q16948397",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

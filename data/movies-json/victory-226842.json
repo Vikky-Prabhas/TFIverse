@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Victory",
   "overview": "",
-  "popularity": 0.2914,
+  "popularity": 3.4282,
   "poster_path": "/nBnJtWF1vNt1WZQ2FW7CBr0IxCN.jpg",
   "production_companies": [],
   "production_countries": [
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 1.7752,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 1,
         "character": "VIjay Chandra",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Mamta Mohandas",
         "original_name": "Mamta Mohandas",
-        "popularity": 0.6783,
+        "popularity": 8.9966,
         "profile_path": "/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg",
         "cast_id": 2,
         "character": "",
@@ -87,8 +87,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 5,
         "character": "",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Sindhu Tolani",
         "original_name": "Sindhu Tolani",
-        "popularity": 0.2805,
+        "popularity": 0.6753,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -129,8 +129,8 @@
         "id": 86508,
         "known_for_department": "Acting",
         "name": "Ashutosh Rana",
-        "original_name": "Ashutosh Rana",
-        "popularity": 0.994,
+        "original_name": "आशुतोष राना",
+        "popularity": 3.1976,
         "profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
         "cast_id": 7,
         "character": "",
@@ -144,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 8,
         "character": "",
@@ -158,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4098,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 9,
         "character": "",
@@ -170,9 +170,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 10,
         "character": "",
@@ -188,7 +188,7 @@
         "known_for_department": "Directing",
         "name": "Ravi C. Kumar",
         "original_name": "Ravi C. Kumar",
-        "popularity": 0.0801,
+        "popularity": 0.4784,
         "profile_path": null,
         "credit_id": "639ef257688cd0007e5333d8",
         "department": "Directing",
@@ -201,7 +201,7 @@
         "known_for_department": "Sound",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.2225,
+        "popularity": 0.4244,
         "profile_path": "/3GwwP1DbitIrJiP60RECDf9TwQC.jpg",
         "credit_id": "639ef26b4f33ad008455d466",
         "department": "Sound",
@@ -214,13 +214,23 @@
         "known_for_department": "Acting",
         "name": "Mamta Mohandas",
         "original_name": "Mamta Mohandas",
-        "popularity": 0.6783,
+        "popularity": 8.9966,
         "profile_path": "/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg",
         "credit_id": "639ef2cb688cd000935d3ead",
         "department": "Sound",
         "job": "Playback Singer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1583396",
+    "wikidata_id": "Q7927443",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -248,16 +258,6 @@
         "width": 559
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1583396",
-    "wikidata_id": "Q7927443",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [

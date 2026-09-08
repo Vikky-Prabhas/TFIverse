@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఏం చేసుౖన్నావ్",
   "overview": "How far will you go to achieve what you want. EM CHESTHUNNAV? is the story of a confused yet clear B. TECH graduate who doesn't have a clarity about his life.",
-  "popularity": 0.0953,
+  "popularity": 0.4229,
   "poster_path": "/vS9ct90ID4KChc2kvfqNGHyWqe3.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,13 +47,6 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": "tt28672582",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": [
       {
@@ -67,6 +60,33 @@
         "official": false,
         "id": "65f1dd24470ead017e9d9330",
         "published_at": "2023-08-21T13:29:37.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt28672582",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-08-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -108,27 +128,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-08-25T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

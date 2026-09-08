@@ -1,9 +1,18 @@
 {
   "adult": false,
-  "backdrop_path": "/o9Sv8FrL0zkJzqTVnjnaExkau2h.jpg",
+  "backdrop_path": "/aVvwXYurwO645lRAfv4PTHDreW9.jpg",
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
   "homepage": "",
   "id": 82196,
   "imdb_id": "tt1202362",
@@ -12,10 +21,17 @@
   ],
   "original_language": "te",
   "original_title": "నవ వసంతం",
-  "overview": "After facing rejection from his uncle, Ganesh comes across his three friends living in hardship and supports them in pursuing their goals.",
-  "popularity": 0.2918,
-  "poster_path": "/3L9uNA0b3WxAWL5r4wPIWcrDXuK.jpg",
-  "production_companies": [],
+  "overview": "Follows Ganesh, who faces rejection from his uncle when trying to marry his cousin, and his bond with three struggling friends in Hyderabad.",
+  "popularity": 1.3849,
+  "poster_path": "/ztFUo7pGKEXQWBIDHNipPyCHyvA.jpg",
+  "production_companies": [
+    {
+      "id": 16427,
+      "logo_path": null,
+      "name": "Super Good Films",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
@@ -39,72 +55,6 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1107197,
-        "known_for_department": "Acting",
-        "name": "Priyamani",
-        "original_name": "Priyamani",
-        "popularity": 0.8018,
-        "profile_path": "/zB365nF9wec5KBczviUTAX9MwHj.jpg",
-        "cast_id": 2,
-        "character": "Anjali aka Ammu",
-        "credit_id": "6499270f6f43ec00c5c722d8",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584669,
-        "known_for_department": "Acting",
-        "name": "Tarun",
-        "original_name": "Tarun",
-        "popularity": 1.4296,
-        "profile_path": "/nv8fB5YH0nvgrA2eM9klpN707eP.jpg",
-        "cast_id": 3,
-        "character": "Ganesh",
-        "credit_id": "6499272962f33500ad0150cf",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 581077,
-        "known_for_department": "Sound",
-        "name": "S A Rajkumar",
-        "original_name": "S A Rajkumar",
-        "popularity": 0.1233,
-        "profile_path": null,
-        "credit_id": "64992944b3440900e272b1f3",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2987270,
-        "known_for_department": "Directing",
-        "name": "K. Shahjahan",
-        "original_name": "K. Shahjahan",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "60343de697eab40041d0f2bb",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -122,16 +72,383 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584669,
+        "known_for_department": "Acting",
+        "name": "Tarun",
+        "original_name": "Tarun",
+        "popularity": 1.2443,
+        "profile_path": "/nv8fB5YH0nvgrA2eM9klpN707eP.jpg",
+        "cast_id": 3,
+        "character": "Ganesh",
+        "credit_id": "6499272962f33500ad0150cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107197,
+        "known_for_department": "Acting",
+        "name": "Priyamani",
+        "original_name": "ప్రియమణి",
+        "popularity": 2.1143,
+        "profile_path": "/i1sZtQcphZWJij3LoR9M6QY9i4z.jpg",
+        "cast_id": 2,
+        "character": "Anjali aka Ammu",
+        "credit_id": "6499270f6f43ec00c5c722d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4152886,
+        "known_for_department": "Acting",
+        "name": "Rohit",
+        "original_name": "Rohit",
+        "popularity": 0.3115,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Raja",
+        "credit_id": "6a6c354bb3c4d3df651ff63e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1021599,
+        "known_for_department": "Acting",
+        "name": "Jai Akash",
+        "original_name": "Jai Akash",
+        "popularity": 0.9466,
+        "profile_path": "/rNTtovSHRp1fUaszszrDCoEQh52.jpg",
+        "cast_id": 6,
+        "character": "Prasad",
+        "credit_id": "6a6c355fcb0c2401296b4b8a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213428,
+        "known_for_department": "Acting",
+        "name": "Sunil Varma",
+        "original_name": "Sunil Varma",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
+        "cast_id": 7,
+        "character": "Vijay",
+        "credit_id": "6a6c356de880954d424dfe70",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 590460,
+        "known_for_department": "Acting",
+        "name": "Ankitha",
+        "original_name": "Ankitha",
+        "popularity": 1.3498,
+        "profile_path": "/scmSJXLgR6gtWO9N33wgV7hx4Lc.jpg",
+        "cast_id": 8,
+        "character": "Priya",
+        "credit_id": "6a6c35820cc9d3b4911ff623",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141695,
+        "known_for_department": "Acting",
+        "name": "Kota Srinivasa Rao",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6a6c358fc0f10ecbdc771570",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107490,
+        "known_for_department": "Acting",
+        "name": "Vamsi Krishna",
+        "original_name": "Vamsi Krishna",
+        "popularity": 1.7797,
+        "profile_path": "/zilAgIIQdNJ4fdsmzcze7KCX6B0.jpg",
+        "cast_id": 10,
+        "character": "Rajesh",
+        "credit_id": "6a6c35aab0247ae358aa22b3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107227,
+        "known_for_department": "Acting",
+        "name": "Ahuti Prasad",
+        "original_name": "Ahuti Prasad",
+        "popularity": 2.2596,
+        "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
+        "cast_id": 11,
+        "character": "Anjali's Father",
+        "credit_id": "6a6c35bdc1c5251f6dd5d2b0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1137651,
+        "known_for_department": "Acting",
+        "name": "Sana",
+        "original_name": "Sana",
+        "popularity": 0.977,
+        "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
+        "cast_id": 12,
+        "character": "Anjali's Mother",
+        "credit_id": "6a6c35d0275497e10765e333",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 544889,
+        "known_for_department": "Acting",
+        "name": "Sudha",
+        "original_name": "Sudha",
+        "popularity": 1.5384,
+        "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
+        "cast_id": 13,
+        "character": "Ganesh's Mother",
+        "credit_id": "6a6c35dea8b2bb26626312b7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332692,
+        "known_for_department": "Acting",
+        "name": "L. B. Sriram",
+        "original_name": "L. B. Sriram",
+        "popularity": 1.3224,
+        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6a6c35e9e880954d424dfe74",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "cast_id": 15,
+        "character": "Raja's Father",
+        "credit_id": "6a6c35fa77b820e7ca1ff742",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341487,
+        "known_for_department": "Acting",
+        "name": "Telangana Shakuntala",
+        "original_name": "Telangana Sakuntala",
+        "popularity": 1.5871,
+        "profile_path": "/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg",
+        "cast_id": 16,
+        "character": "Prasad's Step-mother",
+        "credit_id": "6a6c360c614d1d2b4e6b4a6a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146145,
+        "known_for_department": "Acting",
+        "name": "Jeeva",
+        "original_name": "Jeeva",
+        "popularity": 1.6793,
+        "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
+        "cast_id": 17,
+        "character": "Vijay's Father",
+        "credit_id": "6a6c361bf61ccb53d122b927",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584675,
+        "known_for_department": "Acting",
+        "name": "Babu Mohan",
+        "original_name": "Babu Mohan",
+        "popularity": 1.6288,
+        "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a6c36258428e29e58d5d293",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4221230,
+        "known_for_department": "Acting",
+        "name": "Visweswara Rao",
+        "original_name": "Garimalla Visweswara Rao",
+        "popularity": 0.2306,
+        "profile_path": "/28oEs46Sjdr6sMJNI5Y9m1s1ecy.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6a6c3635edf89c6a9f6311ff",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584511,
+        "known_for_department": "Acting",
+        "name": "Mallikarjuna Rao",
+        "original_name": "Mallikarjuna Rao",
+        "popularity": 1.233,
+        "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6a6c3642291adce9bd631175",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6a6c364e8428e29e58d5d296",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334885,
+        "known_for_department": "Acting",
+        "name": "Amanchi Venkata Subrahmanyam",
+        "original_name": "Amanchi Venkata Subrahmanyam",
+        "popularity": 1.7342,
+        "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6a6c3655e3baee02641ff70d",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 581077,
+        "known_for_department": "Sound",
+        "name": "S A Rajkumar",
+        "original_name": "எஸ். ஏ. ராஜ்குமார்",
+        "popularity": 0.7503,
+        "profile_path": "/6EZcj7sWMhxThGpyWVTgiJm2jHO.jpg",
+        "credit_id": "64992944b3440900e272b1f3",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2987270,
+        "known_for_department": "Directing",
+        "name": "K. Shahjahan",
+        "original_name": "K. Shahjahan",
+        "popularity": 0.6612,
+        "profile_path": null,
+        "credit_id": "60343de697eab40041d0f2bb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584694,
+        "known_for_department": "Production",
+        "name": "R. B. Choudary",
+        "original_name": "R. B. Choudary",
+        "popularity": 0.4506,
+        "profile_path": "/cbFHtH5DqklViuOt3xlgOis0SND.jpg",
+        "credit_id": "6a6c3670c8d4efd5fb22b9e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 581178,
+        "known_for_department": "Camera",
+        "name": "R. Madhi",
+        "original_name": "R. Madhi",
+        "popularity": 0.3069,
+        "profile_path": null,
+        "credit_id": "6a6c3684b0247ae358aa22d2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1336602,
+        "known_for_department": "Editing",
+        "name": "V. Jaishankar",
+        "original_name": "V. Jaishankar",
+        "popularity": 0.2919,
+        "profile_path": null,
+        "credit_id": "6a6c3695dc8e560f6165e2ec",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
   "images": {
     "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/aVvwXYurwO645lRAfv4PTHDreW9.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
       {
         "aspect_ratio": 1.778,
         "height": 720,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
         "file_path": "/o9Sv8FrL0zkJzqTVnjnaExkau2h.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 1280
       }
     ],
@@ -139,15 +456,28 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ztFUo7pGKEXQWBIDHNipPyCHyvA.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 750,
         "iso_3166_1": null,
         "iso_639_1": null,
         "file_path": "/3L9uNA0b3WxAWL5r4wPIWcrDXuK.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "external_ids": {
     "imdb_id": "tt1202362",
@@ -155,8 +485,5 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

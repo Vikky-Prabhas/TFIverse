@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "లక్కీ ఛాన్స్",
   "overview": "Bose learns of an inheritance to the male heir of his family. A marriage of convenience between him and Bhanu follows. As their siblings join the race for having a child, they all learn a life lesson.",
-  "popularity": 0.1943,
+  "popularity": 1.7724,
   "poster_path": "/oDT77STqIHR2YXkA2ZPWqP8pFYy.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -47,8 +50,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 0,
         "character": "",
@@ -61,8 +64,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1,
         "character": "",
@@ -76,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Kanchan",
         "original_name": "Kanchan",
-        "popularity": 0.1655,
+        "popularity": 0.5727,
         "profile_path": "/sGHP9Nz7L7TCkwrVSl2HXUNv0pT.jpg",
         "cast_id": 2,
         "character": "",
@@ -89,9 +92,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "5717acf4c3a368016000130a",
@@ -104,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +123,7 @@
         "known_for_department": "Directing",
         "name": "Siva Nageshwara Rao",
         "original_name": "Siva Nageshwara Rao",
-        "popularity": 0.1878,
+        "popularity": 0.8078,
         "profile_path": null,
         "credit_id": "57a4cf2e9251411b76004db6",
         "department": "Directing",
@@ -128,15 +131,27 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
-  "external_ids": {
-    "imdb_id": "tt0268429",
-    "wikidata_id": "Q24905563",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2250,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oDT77STqIHR2YXkA2ZPWqP8pFYy.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1500
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -155,26 +170,11 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 2250,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/oDT77STqIHR2YXkA2ZPWqP8pFYy.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt0268429",
+    "wikidata_id": "Q24905563",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

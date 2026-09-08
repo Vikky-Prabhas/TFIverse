@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "సారీ",
   "overview": "A photographer's obsession with a young woman escalates to dangerous heights.",
-  "popularity": 0.2524,
+  "popularity": 0.6912,
   "poster_path": "/5Q94u10VJF75uyctLmqw5CL2S1d.jpg",
   "production_companies": [
     {
@@ -59,121 +59,6 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5361341,
-        "known_for_department": "Acting",
-        "name": "Satya Yadu",
-        "original_name": "Satya Yadu",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "Kittu",
-        "credit_id": "67f75c5d1bc639566ad96105",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 5361343,
-        "known_for_department": "Acting",
-        "name": "Aaradhya Devi",
-        "original_name": "Aaradhya Devi",
-        "popularity": 0.0214,
-        "profile_path": "/6shfVGcB08YBI5BNEbzG0KIqb4Q.jpg",
-        "cast_id": 5,
-        "character": "Aaradhya",
-        "credit_id": "67f75c6d7b43bdce20ae0820",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2187316,
-        "known_for_department": "Acting",
-        "name": "Darbha Appaji Ambarisha",
-        "original_name": "Darbha Appaji Ambarisha",
-        "popularity": 0.1516,
-        "profile_path": "/xloua8ADzktCAq4BVTC6XvLEfjE.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "67f75c7bde5e4dec62ad16ec",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2489504,
-        "known_for_department": "Acting",
-        "name": "Kalpalatha",
-        "original_name": "Kalpalatha",
-        "popularity": 0.3378,
-        "profile_path": "/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg",
-        "cast_id": 7,
-        "character": "Aaradhya's Mother",
-        "credit_id": "67f75c88d4c444a1cc996158",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5361345,
-        "known_for_department": "Acting",
-        "name": "Sahil Sambyal",
-        "original_name": "Sahil Sambyal",
-        "popularity": 0.0407,
-        "profile_path": null,
-        "cast_id": 8,
-        "character": "Raj",
-        "credit_id": "67f75c956c3583c97599f80e",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5361336,
-        "known_for_department": "Directing",
-        "name": "Giri Krishna Kamal",
-        "original_name": "Giri Krishna Kamal",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "67f75bd57b43bdce20ae0811",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 76813,
-        "known_for_department": "Directing",
-        "name": "Ram Gopal Varma",
-        "original_name": "Ram Gopal Varma",
-        "popularity": 0.7367,
-        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
-        "credit_id": "67f75be731775276d6d954ad",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5361338,
-        "known_for_department": "Production",
-        "name": "Ravi Shankar Varma",
-        "original_name": "Ravi Shankar Varma",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "67f75c096c3583c97599f7f3",
-        "department": "Production",
-        "job": "Producer"
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -189,6 +74,128 @@
         "published_at": "2025-03-26T05:56:05.000Z"
       }
     ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5361341,
+        "known_for_department": "Acting",
+        "name": "Satya Yadu",
+        "original_name": "Satya Yadu",
+        "popularity": 0.2769,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kittu",
+        "credit_id": "67f75c5d1bc639566ad96105",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5361343,
+        "known_for_department": "Acting",
+        "name": "Aaradhya Devi",
+        "original_name": "Aaradhya Devi",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Aaradhya",
+        "credit_id": "67f75c6d7b43bdce20ae0820",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2187316,
+        "known_for_department": "Acting",
+        "name": "Darbha Appaji Ambarisha",
+        "original_name": "Darbha Appaji Ambarisha",
+        "popularity": 0.8271,
+        "profile_path": "/xloua8ADzktCAq4BVTC6XvLEfjE.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "67f75c7bde5e4dec62ad16ec",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2489504,
+        "known_for_department": "Acting",
+        "name": "Kalpalatha",
+        "original_name": "Kalpalatha",
+        "popularity": 0.8977,
+        "profile_path": "/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg",
+        "cast_id": 7,
+        "character": "Aaradhya's Mother",
+        "credit_id": "67f75c88d4c444a1cc996158",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5361345,
+        "known_for_department": "Acting",
+        "name": "Sahil Sambyal",
+        "original_name": "Sahil Sambyal",
+        "popularity": 0.2809,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Raj",
+        "credit_id": "67f75c956c3583c97599f80e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5361336,
+        "known_for_department": "Directing",
+        "name": "Giri Krishna Kamal",
+        "original_name": "Giri Krishna Kamal",
+        "popularity": 0.2732,
+        "profile_path": null,
+        "credit_id": "67f75bd57b43bdce20ae0811",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76813,
+        "known_for_department": "Directing",
+        "name": "Ram Gopal Varma",
+        "original_name": "Ram Gopal Varma",
+        "popularity": 2.0455,
+        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
+        "credit_id": "67f75be731775276d6d954ad",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5361338,
+        "known_for_department": "Production",
+        "name": "Ravi Shankar Varma",
+        "original_name": "Ravi Shankar Varma",
+        "popularity": 0.2839,
+        "profile_path": null,
+        "credit_id": "67f75c096c3583c97599f7f3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt31587690",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -284,13 +291,6 @@
         "width": 900
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt31587690",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

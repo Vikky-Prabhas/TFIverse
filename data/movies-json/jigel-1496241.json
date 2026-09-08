@@ -30,7 +30,7 @@
   "original_language": "te",
   "original_title": "Jigel",
   "overview": "Jigel is a romantic comedy thriller. The hero Nandu is an expert 'locker technician' who cracks anylocker or safe in his own inimitable style. His character is very stylishly mountedwith all new and old gimmicks.",
-  "popularity": 0.1207,
+  "popularity": 1.2299,
   "poster_path": "/oP2G9JxUMt0Rbt3b4iCk7zPDtAA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -51,6 +51,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt35946578",
+    "wikidata_id": "Q132881977",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Thrigun",
         "original_name": "Thrigun",
-        "popularity": 0.3202,
+        "popularity": 2.6089,
         "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Megha Chowdhury",
         "original_name": "Megha Chowdhury",
-        "popularity": 0.1837,
+        "popularity": 0.5918,
         "profile_path": "/hvn2Wj3rsM5gaKlvsrJ5KP83ATL.jpg",
         "cast_id": 2,
         "character": "",
@@ -88,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Avinash Mukku",
         "original_name": "Avinash Mukku",
-        "popularity": 0.0973,
+        "popularity": 0.3927,
         "profile_path": "/n0fWkVqEFl4XJ2dwB8PPAJGaV17.jpg",
         "cast_id": 3,
         "character": "",
@@ -101,8 +111,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 4,
         "character": "",
@@ -116,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 5,
         "character": "",
@@ -130,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Meka Rama Krishna",
         "original_name": "Meka Rama Krishna",
-        "popularity": 0,
+        "popularity": 0.3888,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -143,8 +153,8 @@
         "id": 584262,
         "known_for_department": "Acting",
         "name": "Nalini",
-        "original_name": "Nalini",
-        "popularity": 0.2068,
+        "original_name": "நளினி",
+        "popularity": 1.2675,
         "profile_path": "/lAmQw49ccScJ9jBY8rtNTfXAC1H.jpg",
         "cast_id": 7,
         "character": "",
@@ -153,13 +163,6 @@
       }
     ],
     "crew": []
-  },
-  "external_ids": {
-    "imdb_id": "tt35946578",
-    "wikidata_id": "Q132881977",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -180,12 +183,6 @@
         ]
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -213,5 +210,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

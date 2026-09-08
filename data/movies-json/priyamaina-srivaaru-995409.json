@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/wp3Jl1S75aIo6jCCVvtQYOIM7CY.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -18,8 +18,8 @@
   "original_language": "te",
   "original_title": "Priyamaina Srivaaru",
   "overview": "Raja and Sandhya are in love, but Sandhya is killed while protecting her sister. This leads Raja into the murky world of a corrupt politician, including the past of Sandhya and her family.",
-  "popularity": 0.2049,
-  "poster_path": null,
+  "popularity": 0.6365,
+  "poster_path": "/AGKTcU2xx5Um3eBq6ONEzXwTcG.jpg",
   "production_companies": [],
   "production_countries": [
     {
@@ -44,28 +44,6 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
-  "external_ids": {
-    "imdb_id": "tt0490200",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Priyamaina Sreevaru",
-        "type": ""
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -75,8 +53,8 @@
         "known_for_department": "Acting",
         "name": "Aamani",
         "original_name": "Aamani",
-        "popularity": 0.3229,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "62c1e818dd47e1004e231d47",
@@ -87,9 +65,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 2,
         "character": "",
@@ -103,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Sanghavi",
         "original_name": "Sanghavi",
-        "popularity": 0.5948,
+        "popularity": 1.3031,
         "profile_path": "/9b3ui7wmI4gSk7MZiLayzRns6Cp.jpg",
         "cast_id": 3,
         "character": "",
@@ -117,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Ravali",
         "original_name": "Ravali",
-        "popularity": 0.4229,
+        "popularity": 1.2375,
         "profile_path": "/2AH7K8wNaHTOTHrU56QqYqSsgJu.jpg",
         "cast_id": 4,
         "character": "",
@@ -128,25 +106,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1343070,
-        "known_for_department": "Sound",
-        "name": "Vandemataram Srinivas",
-        "original_name": "Vandemataram Srinivas",
-        "popularity": 0.055,
-        "profile_path": null,
-        "credit_id": "62c1e86c81383100599325cc",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 3279654,
         "known_for_department": "Directing",
         "name": "Boyina Subba Rao",
         "original_name": "Boyina Subba Rao",
-        "popularity": 0.07,
+        "popularity": 0.4596,
         "profile_path": null,
         "credit_id": "62c1e8483a48c50059c419bc",
         "department": "Directing",
@@ -159,13 +124,39 @@
         "known_for_department": "Camera",
         "name": "V Prathap",
         "original_name": "V Prathap",
-        "popularity": 0.0071,
+        "popularity": 0.283,
         "profile_path": null,
         "credit_id": "62c1e860924ce6129b5b1c24",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1343070,
+        "known_for_department": "Sound",
+        "name": "Vandemataram Srinivas",
+        "original_name": "Vandemataram Srinivas",
+        "popularity": 0.3568,
+        "profile_path": null,
+        "credit_id": "62c1e86c81383100599325cc",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0490200",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -184,9 +175,40 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Priyamaina Sreevaru",
+        "type": ""
+      }
+    ]
+  },
   "images": {
-    "backdrops": [],
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/wp3Jl1S75aIo6jCCVvtQYOIM7CY.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
     "logos": [],
-    "posters": []
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/AGKTcU2xx5Um3eBq6ONEzXwTcG.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
   }
 }

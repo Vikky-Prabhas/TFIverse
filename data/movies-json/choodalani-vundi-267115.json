@@ -5,8 +5,16 @@
   "budget": 0,
   "genres": [
     {
+      "id": 28,
+      "name": "Action"
+    },
+    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ],
   "homepage": "",
@@ -17,17 +25,24 @@
   ],
   "original_language": "te",
   "original_title": "చూడాలని వుంది",
-  "overview": "Ramakrishna (Chiranjeevi) is a mechanic whose life changes when he meets Priya (Anjala Zaveri) at a train station. She sees him and feels some inexplicable connection and runs away with him to flee her father, Mahendra's (Prakash Raj) goons. They end up living in the forest with their son, but her father, who is an underworld don, kidnaps her so that he can marry her off to another don's son. Ramakrishna confronts her father and in the ensueing struggle Priya takes the bullet shot at her husband and dies. Their son, because of the shock, loses his voice and Ramakrishna is jailed. Mahendra takes the boy away to Kolkata, where the story originally started. Rama Krishna with the help of Padmavathi (Soundarya) reunites with his son.",
-  "popularity": 0.6099,
+  "overview": "Ramakrishna arrives in Kolkata and takes up residence in Padmavathi's housing colony. While at first he seems happy and easy-going, soon his real reason for returning to Kolkata is revealed. He wants revenge!",
+  "popularity": 1.6808,
   "poster_path": "/eps7UYs7gry5HCP6qCFsOUjC38Z.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 80065,
+      "logo_path": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+      "name": "Vyjayanthi Movies",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
       "name": "India"
     }
   ],
-  "release_date": "1998-09-11",
+  "release_date": "1998-08-27",
   "revenue": 0,
   "runtime": 148,
   "softcore": false,
@@ -42,10 +57,17 @@
   "tagline": "",
   "title": "Choodalani Vundi",
   "video": false,
-  "vote_average": 5.833,
-  "vote_count": 9,
+  "vote_average": 6,
+  "vote_count": 10,
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0245835",
+    "wikidata_id": "Q5104735",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "credits": {
     "cast": [
@@ -56,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Ramakrishna",
@@ -70,10 +92,10 @@
         "known_for_department": "Acting",
         "name": "Anjala Zaveri",
         "original_name": "Anjala Zaveri",
-        "popularity": 0.2286,
+        "popularity": 1.1215,
         "profile_path": "/70klVZAmLYUWjcbDJpDPzVChoms.jpg",
         "cast_id": 4,
-        "character": "",
+        "character": "Priya",
         "credit_id": "53a6231ac3a3687a2b0021de",
         "order": 1
       },
@@ -84,10 +106,10 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.3989,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 5,
-        "character": "",
+        "character": "Padmavathi",
         "credit_id": "53a623240e0a26143f0024bc",
         "order": 2
       },
@@ -97,11 +119,11 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 6,
-        "character": "",
+        "character": "Mahendra",
         "credit_id": "53a62325c3a3687a43001fea",
         "order": 3
       },
@@ -112,8 +134,8 @@
         "known_for_department": "Acting",
         "name": "Teja Sajja",
         "original_name": "Teja Sajja",
-        "popularity": 0.3083,
-        "profile_path": "/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg",
+        "popularity": 1.3075,
+        "profile_path": "/7MhRbb4VTRpk199CsX4vnYqQRd2.jpg",
         "cast_id": 16,
         "character": "Ramakrishna's Son",
         "credit_id": "614829f1c2823a0044defb86",
@@ -125,8 +147,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -140,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 9,
         "character": "",
@@ -154,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -168,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.3014,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 11,
         "character": "",
@@ -182,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 12,
         "character": "",
@@ -196,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.393,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 14,
         "character": "",
@@ -210,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.4439,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 15,
         "character": "",
@@ -224,12 +246,96 @@
         "known_for_department": "Acting",
         "name": "Dhulipala",
         "original_name": "Dhulipala",
-        "popularity": 0.1703,
+        "popularity": 0.5462,
         "profile_path": "/ceUGStx786qvd57Vg6JBs402DqA.jpg",
         "cast_id": 13,
         "character": "",
         "credit_id": "59404065c3a368149d004e7a",
         "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334885,
+        "known_for_department": "Acting",
+        "name": "Amanchi Venkata Subrahmanyam",
+        "original_name": "Amanchi Venkata Subrahmanyam",
+        "popularity": 1.7342,
+        "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "69ffa285bf9fa277af1e0835",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2317872,
+        "known_for_department": "Acting",
+        "name": "P. J. Sarma",
+        "original_name": "P. J. Sarma",
+        "popularity": 0.6452,
+        "profile_path": "/zHvUmphRS54ETGzEDpPEkYl225V.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "69ffa29b95f27b8e2679dc15",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053174,
+        "known_for_department": "Acting",
+        "name": "Bandla Ganesh",
+        "original_name": "Bandla Ganesh",
+        "popularity": 0.8209,
+        "profile_path": "/874gkTlQBZRawZbvF28bslX09KJ.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "69ffa2b1d34c1469ad630713",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2619014,
+        "known_for_department": "Acting",
+        "name": "Raghunatha Reddy",
+        "original_name": "Raghunatha Reddy",
+        "popularity": 0.4728,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "69ffa2c1d34c1469ad630718",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341485,
+        "known_for_department": "Acting",
+        "name": "Ananth Babu",
+        "original_name": "Ananth Babu",
+        "popularity": 0.8884,
+        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "69ffa2da59b3a8619a2218cf",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430782,
+        "known_for_department": "Acting",
+        "name": "Chittajalu Lakshmipati",
+        "original_name": "Chittajalu Lakshmipati",
+        "popularity": 0.5902,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "69ffa2e9527b2a0bdf78fcad",
+        "order": 18
       }
     ],
     "crew": [
@@ -240,7 +346,7 @@
         "known_for_department": "Directing",
         "name": "Gunasekhar",
         "original_name": "Gunasekhar",
-        "popularity": 0.3787,
+        "popularity": 1.6189,
         "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
         "credit_id": "53a62304c3a3687a2b0021da",
         "department": "Directing",
@@ -253,7 +359,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.2979,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "53a62305c3a3687a40001fc2",
         "department": "Sound",
@@ -266,20 +372,156 @@
         "known_for_department": "Production",
         "name": "C. Ashwini Dutt",
         "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1645,
+        "popularity": 0.3164,
         "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
         "credit_id": "53a6230f0e0a2614390025e3",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "69ffa0cd168db91cd3f87e7d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139362,
+        "known_for_department": "Camera",
+        "name": "Chota K. Naidu",
+        "original_name": "Chota K. Naidu",
+        "popularity": 0.3377,
+        "profile_path": null,
+        "credit_id": "69ffa0e74003116d83221caf",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007281,
+        "known_for_department": "Art",
+        "name": "Thotta Tharani",
+        "original_name": "Thotta Tharani",
+        "popularity": 0.5036,
+        "profile_path": "/YFMRhWq7qpJpCm4Ls5AYc0tphA.jpg",
+        "credit_id": "69ffa10e95f27b8e2679dbed",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1932061,
+        "known_for_department": "Sound",
+        "name": "Madhusudhan Reddy",
+        "original_name": "Madhusudhan Reddy",
+        "popularity": 0.29,
+        "profile_path": null,
+        "credit_id": "69ffa129b5b2c9c4363172a0",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 516473,
+        "known_for_department": "Acting",
+        "name": "Raghava Lawrence",
+        "original_name": "Raghava Lawrence",
+        "popularity": 2.8323,
+        "profile_path": "/vFeHxXlJsqEH2NOTRqiFZ0VRZen.jpg",
+        "credit_id": "69ffa15f6bc0f3ced5ce2eab",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237968,
+        "known_for_department": "Crew",
+        "name": "Raju Sundaram",
+        "original_name": "Raju Sundaram",
+        "popularity": 1.8892,
+        "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+        "credit_id": "69ffa1795f96a0f0eeed7a8c",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932644,
+        "known_for_department": "Directing",
+        "name": "Gunasekhar",
+        "original_name": "Gunasekhar",
+        "popularity": 1.6189,
+        "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
+        "credit_id": "69ffa196d361c8fec4316fa1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932644,
+        "known_for_department": "Directing",
+        "name": "Gunasekhar",
+        "original_name": "Gunasekhar",
+        "popularity": 1.6189,
+        "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
+        "credit_id": "69ffa1a18c01f7a180ed7b40",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1632999,
+        "known_for_department": "Writing",
+        "name": "Diwakar Babu",
+        "original_name": "Diwakar Babu",
+        "popularity": 0.6247,
+        "profile_path": null,
+        "credit_id": "69ffa1b65f96a0f0eeed7a92",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660553,
+        "known_for_department": "Writing",
+        "name": "Veturi Sundararama Murthy",
+        "original_name": "Veturi Sundararama Murthy",
+        "popularity": 0.3327,
+        "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
+        "credit_id": "69ffa1ca931c8ef79a78fbd5",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2450182,
+        "known_for_department": "Writing",
+        "name": "Chandrabose",
+        "original_name": "Chandrabose",
+        "popularity": 1.0259,
+        "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
+        "credit_id": "69ffa1e321aefa626ace2e8f",
+        "department": "Writing",
+        "job": "Lyricist"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0245835",
-    "wikidata_id": "Q5104735",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -294,12 +536,15 @@
             "descriptors": [],
             "iso_639_1": "",
             "note": "",
-            "release_date": "1998-09-11T00:00:00.000Z",
+            "release_date": "1998-08-27T00:00:00.000Z",
             "type": 3
           }
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -349,27 +594,24 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/eps7UYs7gry5HCP6qCFsOUjC38Z.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 750,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
         "file_path": "/dzuu0qKtdTL59kIr3cDCI8KVnh3.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 500
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/eps7UYs7gry5HCP6qCFsOUjC38Z.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

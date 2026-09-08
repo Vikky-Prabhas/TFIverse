@@ -18,8 +18,8 @@
   "original_language": "te",
   "original_title": "Nawab Cafe",
   "overview": "A family grapples with communication barriers as a father and son circle around conversations they desperately need but cannot bring themselves to have.",
-  "popularity": 0.6696,
-  "poster_path": "/318rq88OAqNFlDhlh1HwWnHBTK4.jpg",
+  "popularity": 2.6809,
+  "poster_path": "/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2026-03-12",
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Kandukuri",
         "original_name": "Shiva Kandukuri",
-        "popularity": 0.2349,
+        "popularity": 0.7075,
         "profile_path": "/AlMXJvZE1Td0KlF2FQCUrQxdEZl.jpg",
         "cast_id": 1,
         "character": "Raja",
@@ -60,9 +60,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 2,
         "character": "Raja's Dad",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Rajkumar Kasireddy",
         "original_name": "Rajkumar Kasireddy",
-        "popularity": 0.2935,
+        "popularity": 1.229,
         "profile_path": "/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Teju Ashwini",
         "original_name": "Teju Ashwini",
-        "popularity": 0.285,
+        "popularity": 0.8107,
         "profile_path": "/lTrsWNHiVOZadgAQYSmkyBWEiKA.jpg",
         "cast_id": 4,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Liam",
         "original_name": "Liam",
-        "popularity": 0.0356,
+        "popularity": 0.4444,
         "profile_path": null,
         "cast_id": 10,
         "character": "Handsome Customer",
@@ -120,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "Pramod Harsha",
         "original_name": "Pramod Harsha",
-        "popularity": 0,
+        "popularity": 0.584,
         "profile_path": null,
         "credit_id": "698f21e235400af7c1109fc4",
         "department": "Directing",
@@ -133,7 +133,7 @@
         "known_for_department": "Writing",
         "name": "Imran Siddique",
         "original_name": "Imran Siddique",
-        "popularity": 0,
+        "popularity": 0.3716,
         "profile_path": null,
         "credit_id": "698f21fc72927cca3cb68d82",
         "department": "Writing",
@@ -146,7 +146,7 @@
         "known_for_department": "Camera",
         "name": "Kranthi Varla",
         "original_name": "Kranthi Varla",
-        "popularity": 0,
+        "popularity": 0.3126,
         "profile_path": null,
         "credit_id": "698f2218f147e081108f5235",
         "department": "Camera",
@@ -159,7 +159,7 @@
         "known_for_department": "Crew",
         "name": "Eshwar Penti",
         "original_name": "Eshwar Penti",
-        "popularity": 0.0614,
+        "popularity": 0.4472,
         "profile_path": null,
         "credit_id": "698f223e6ef06ce3c3591607",
         "department": "Crew",
@@ -172,13 +172,20 @@
         "known_for_department": "Sound",
         "name": "Prashanth R Vihari",
         "original_name": "Prashanth R Vihari",
-        "popularity": 0.1187,
+        "popularity": 0.3159,
         "profile_path": null,
         "credit_id": "698f22bd600c055bb90c2676",
         "department": "Sound",
         "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt37996604",
+    "wikidata_id": "Q138573157",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -196,12 +203,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt37996604",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -231,6 +234,16 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2121,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5co5X3bIwDDRkCjI5wfIQXqicYu.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3771
       }
     ],
     "logos": [],
@@ -244,6 +257,16 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1024
       }
     ]
   },
@@ -260,8 +283,5 @@
         "type": "Telugu"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

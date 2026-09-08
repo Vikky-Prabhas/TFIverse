@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ఆరుగురు పతివ్రతలు",
   "overview": "Six women who were once schoolfriends meet again after six years and discuss their marital lives.",
-  "popularity": 1.0863,
+  "popularity": 0.6244,
   "poster_path": "/hcgs7E6LEz77zDjKAUseDZPHAXl.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.4784,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 2,
         "character": "Teacher",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 3,
         "character": "",
@@ -72,7 +72,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "5e9694232cefc200168dd4c8",
         "department": "Directing",
@@ -80,15 +80,25 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/hcgs7E6LEz77zDjKAUseDZPHAXl.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt8956662",
-    "wikidata_id": null,
+    "wikidata_id": "Q123267375",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -107,6 +117,12 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "release_dates": {
     "results": [
       {
@@ -121,22 +137,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/hcgs7E6LEz77zDjKAUseDZPHAXl.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1000
       }
     ]
   }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "తరువాత ఎవరు",
   "overview": "The twist in the tale arises when the contestants in the reality show keep getting killed one after the other. Rest of the story is as to how Chandu saves Nithya’s life and wins his love back.",
-  "popularity": 0.2338,
+  "popularity": 1.333,
   "poster_path": "/slYaoaxkSeqJttRG3JiiKxSHADQ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt8852388",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2375,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 0,
         "character": "",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Sharma",
         "original_name": "Priyanka Sharma",
-        "popularity": 0.2127,
+        "popularity": 0.75,
         "profile_path": "/euIAfTkvz5yYtMn9TubRjQRoZfL.jpg",
         "cast_id": 1,
         "character": "",
@@ -85,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Bharani Shankar",
         "original_name": "Bharani Shankar",
-        "popularity": 0.1189,
+        "popularity": 0.2715,
         "profile_path": null,
         "cast_id": 18,
         "character": "",
@@ -99,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Manoj",
         "original_name": "Manoj",
-        "popularity": 0.0168,
+        "popularity": 0.2877,
         "profile_path": null,
         "cast_id": 19,
         "character": "",
@@ -111,67 +118,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2102312,
-        "known_for_department": "Production",
-        "name": "K. Lakshmi Reddy",
-        "original_name": "K. Lakshmi Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b6ac0ed0e0a267ef8118528",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2102339,
-        "known_for_department": "Sound",
-        "name": "G. Purushotham Raju",
-        "original_name": "G. Purushotham Raju",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "credit_id": "5b6ad22bc3a3681894143bbe",
-        "department": "Crew",
-        "job": "Special Effects"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2102336,
         "known_for_department": "Writing",
         "name": "Karunakar",
         "original_name": "Karunakar",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b6ad1e7925141406410c160",
         "department": "Writing",
         "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2102325,
-        "known_for_department": "Production",
-        "name": "Rajesh Koduru",
-        "original_name": "Rajesh Koduru",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5b6ad0c50e0a267ef81197ea",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2102333,
-        "known_for_department": "Editing",
-        "name": "Avula Venkatesh",
-        "original_name": "Avula Venkatesh",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b6ad1a9c3a3685375081b0d",
-        "department": "Editing",
-        "job": "Editor"
       },
       {
         "adult": false,
@@ -180,24 +135,11 @@
         "known_for_department": "Directing",
         "name": "G. Krishna Prasad",
         "original_name": "G. Krishna Prasad",
-        "popularity": 0,
+        "popularity": 0.2629,
         "profile_path": null,
-        "credit_id": "5b6ad0e70e0a267ef411258b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2102331,
-        "known_for_department": "Camera",
-        "name": "Rajendar Kesani",
-        "original_name": "Rajendar Kesani",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b6ad193925141034101cf31",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "5b6ad1140e0a267ee7119c01",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -206,7 +148,7 @@
         "known_for_department": "Writing",
         "name": "Chitti Sharma",
         "original_name": "Chitti Sharma",
-        "popularity": 0,
+        "popularity": 0.2694,
         "profile_path": null,
         "credit_id": "5b6ad1c9c3a3685375081b30",
         "department": "Writing",
@@ -214,16 +156,29 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 2102326,
-        "known_for_department": "Directing",
-        "name": "G. Krishna Prasad",
-        "original_name": "G. Krishna Prasad",
-        "popularity": 0,
+        "gender": 0,
+        "id": 2102312,
+        "known_for_department": "Production",
+        "name": "K. Lakshmi Reddy",
+        "original_name": "K. Lakshmi Reddy",
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "5b6ad1140e0a267ee7119c01",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "5b6ac0ed0e0a267ef8118528",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102325,
+        "known_for_department": "Production",
+        "name": "Rajesh Koduru",
+        "original_name": "Rajesh Koduru",
+        "popularity": 0.255,
+        "profile_path": null,
+        "credit_id": "5b6ad0c50e0a267ef81197ea",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -232,7 +187,20 @@
         "known_for_department": "Directing",
         "name": "G. Krishna Prasad",
         "original_name": "G. Krishna Prasad",
-        "popularity": 0,
+        "popularity": 0.2629,
+        "profile_path": null,
+        "credit_id": "5b6ad0e70e0a267ef411258b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2102326,
+        "known_for_department": "Directing",
+        "name": "G. Krishna Prasad",
+        "original_name": "G. Krishna Prasad",
+        "popularity": 0.2629,
         "profile_path": null,
         "credit_id": "5b6ad12192514140560f112a",
         "department": "Writing",
@@ -241,15 +209,54 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2102331,
+        "known_for_department": "Camera",
+        "name": "Rajendar Kesani",
+        "original_name": "Rajendar Kesani",
+        "popularity": 0.2577,
+        "profile_path": null,
+        "credit_id": "5b6ad193925141034101cf31",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2102339,
+        "known_for_department": "Sound",
+        "name": "G. Purushotham Raju",
+        "original_name": "G. Purushotham Raju",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "credit_id": "5b6ad22bc3a3681894143bbe",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1333786,
         "known_for_department": "Sound",
         "name": "Vijay Kurakula",
         "original_name": "Vijay Kurakula",
-        "popularity": 0.0632,
+        "popularity": 0.2735,
         "profile_path": null,
         "credit_id": "5b6ad17ac3a368188f11268b",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102333,
+        "known_for_department": "Editing",
+        "name": "Avula Venkatesh",
+        "original_name": "Avula Venkatesh",
+        "popularity": 0.2901,
+        "profile_path": null,
+        "credit_id": "5b6ad1a9c3a3685375081b0d",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -258,7 +265,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.2716,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "5d40b00e34e1521105eb58fa",
         "department": "Crew",
@@ -271,7 +278,7 @@
         "known_for_department": "Directing",
         "name": "K. Rajesh Reddy",
         "original_name": "K. Rajesh Reddy",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "5da29253e860170012ae6524",
         "department": "Directing",
@@ -284,23 +291,13 @@
         "known_for_department": "Directing",
         "name": "K. Rajesh Reddy",
         "original_name": "K. Rajesh Reddy",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "5da2925e1967570011a951e3",
         "department": "Writing",
         "job": "Story"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8852388",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -321,6 +318,9 @@
         ]
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఇలాంటి సినిమా మీరెప్పుడు చూసుండరు",
   "overview": "A single-shot roller coaster journey of a man racing against time and love, a bold cinematic experiment that captures an unbroken 100-minute ride - with friendship, madness, and raw emotion.",
-  "popularity": 0.1424,
+  "popularity": 0.8706,
   "poster_path": "/bmLlhXlE10KJnEROfz6ebHttRz.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,8 +46,8 @@
   "tagline": "",
   "title": "Ilanti Cinema Meereppudu Chusundaru",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 2,
+  "vote_count": 1,
   "credits": {
     "cast": [
       {
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "cast_id": 1,
         "character": "Raja",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Chandana Palanki",
         "original_name": "Chandana Palanki",
-        "popularity": 0.0143,
+        "popularity": 0.3914,
         "profile_path": null,
         "cast_id": 14,
         "character": "Sai Pallavi",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Vamshi Gone",
         "original_name": "Vamshi Gone",
-        "popularity": 0.0214,
+        "popularity": 0.3034,
         "profile_path": null,
         "cast_id": 2,
         "character": "Vamshi",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Deepti Sanjeev Sivan",
         "original_name": "Deepti Sanjeev Sivan",
-        "popularity": 0.0239,
+        "popularity": 0.604,
         "profile_path": "/cCeR4HqKSMCrj7CVnSHfXcFACcs.jpg",
         "cast_id": 3,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Ramya",
         "original_name": "Ramya",
-        "popularity": 0.0071,
+        "popularity": 0.2963,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -129,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbd898554118d3b5e913d",
         "department": "Writing",
@@ -142,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbd9795ab8b10110a88b7",
         "department": "Directing",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbda799135070accf4ab3",
         "department": "Editing",
@@ -168,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbdbd1473d89c71cf4989",
         "department": "Production",
@@ -181,7 +181,7 @@
         "known_for_department": "Sound",
         "name": "Sidharth Sadasivuni",
         "original_name": "Sidharth Sadasivuni",
-        "popularity": 0.0281,
+        "popularity": 0.3082,
         "profile_path": null,
         "credit_id": "68ccbe4534bfac92d7bd0f67",
         "department": "Sound",
@@ -194,7 +194,7 @@
         "known_for_department": "Sound",
         "name": "Ganesh Gangadharan",
         "original_name": "Ganesh Gangadharan",
-        "popularity": 0.3891,
+        "popularity": 0.3654,
         "profile_path": null,
         "credit_id": "68ccbe64d54886231c4dbb72",
         "department": "Sound",
@@ -207,7 +207,7 @@
         "known_for_department": "Visual Effects",
         "name": "Shyam Vanam",
         "original_name": "Shyam Vanam",
-        "popularity": 0,
+        "popularity": 0.2904,
         "profile_path": null,
         "credit_id": "68ccbef450182cf532382d01",
         "department": "Visual Effects",
@@ -220,7 +220,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbf1099a532d4384dbbe7",
         "department": "Production",
@@ -233,7 +233,7 @@
         "known_for_department": "Acting",
         "name": "Super Raja",
         "original_name": "Super Raja",
-        "popularity": 0.0143,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68ccbf23a8f00ab7d7073da7",
         "department": "Art",
@@ -251,20 +251,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
+  "keywords": {
+    "keywords": [
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 16+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-09-19T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "id": 206921,
+        "name": "single take"
       }
     ]
   },
@@ -295,15 +286,24 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": [
+  "release_dates": {
+    "results": [
       {
-        "id": 206921,
-        "name": "single take"
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-09-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

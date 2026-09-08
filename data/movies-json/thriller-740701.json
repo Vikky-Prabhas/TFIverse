@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "థ్రిల్లర్",
   "overview": "An intriguing drama of an unidentified stranger terrorising a girl",
-  "popularity": 0.1264,
+  "popularity": 1.269,
   "poster_path": "/phRWdPJPpYpek7vgnbu9vqUBtQe.jpg",
   "production_companies": [],
   "production_countries": [
@@ -39,16 +39,6 @@
   "video": false,
   "vote_average": 1,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt12735890",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -58,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Apsara Rani",
         "original_name": "Apsara Rani",
-        "popularity": 0.3145,
+        "popularity": 1.373,
         "profile_path": "/b6VazpsQpAD6aNE2NkTDVXQ6Arm.jpg",
         "cast_id": 3,
         "character": "",
@@ -74,13 +64,23 @@
         "known_for_department": "Directing",
         "name": "Ram Gopal Varma",
         "original_name": "Ram Gopal Varma",
-        "popularity": 0.9651,
+        "popularity": 2.0455,
         "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
         "credit_id": "5f56b4af90dde00036ed4c06",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt12735890",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -98,6 +98,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -117,8 +120,5 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

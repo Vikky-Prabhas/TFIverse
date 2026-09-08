@@ -30,7 +30,7 @@
   "original_language": "te",
   "original_title": "లవ కుశ",
   "overview": "This is the Ramayana story of Seeta (Sriranjani) who retires to the forest and gives birth to twin boys, Lava (Bhimarao) and Kusa (M. Rao). They later take on the might of Rama (Subba Rao) unaware that he is their father.",
-  "popularity": 0.0789,
+  "popularity": 0.5594,
   "poster_path": "/uCQsnQiAgPcuIID1twTyK8Ae4GW.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -61,13 +61,36 @@
         "known_for_department": "Directing",
         "name": "Chittajalu Pullayya",
         "original_name": "Chittajalu Pullayya",
-        "popularity": 0.0475,
+        "popularity": 0.3187,
         "profile_path": null,
         "credit_id": "63c4e04ea672540087189d52",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1934-12-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "videos": {
     "results": []
@@ -94,28 +117,5 @@
         "width": 512
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1934-12-22T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

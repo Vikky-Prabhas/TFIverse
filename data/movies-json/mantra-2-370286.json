@@ -27,7 +27,7 @@
   "original_language": "te",
   "original_title": "Mantra 2",
   "overview": "The movie is about engineer named Mantra, who shifts to Hyderabad after landing a job. When unidentified goons attempt to murder her, she seeks help from her friend.",
-  "popularity": 0.2765,
+  "popularity": 1.7195,
   "poster_path": "/vczDZkCdAEkh4H1swtFeQ0dXE41.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,9 +53,6 @@
   "video": false,
   "vote_average": 3,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -64,8 +61,8 @@
         "id": 592512,
         "known_for_department": "Acting",
         "name": "Charmy Kaur",
-        "original_name": "Charmy Kaur",
-        "popularity": 0.6039,
+        "original_name": "చార్మీ కౌర్",
+        "popularity": 2.5614,
         "profile_path": "/5BIGQIuyylSpKrQVhYEEY6GfaUw.jpg",
         "cast_id": 0,
         "character": "Mantra",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Chethan Cheenu",
         "original_name": "Chethan Cheenu",
-        "popularity": 0.1182,
+        "popularity": 0.762,
         "profile_path": null,
         "cast_id": 1,
         "character": "Vijay",
@@ -93,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 2,
         "character": "Ramarao",
@@ -107,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Delhi Rajeshwari",
         "original_name": "Delhi Rajeshwari",
-        "popularity": 0.1882,
+        "popularity": 0.6184,
         "profile_path": "/d6sGEt3xUOHgmYWC1je9FeSC6Zi.jpg",
         "cast_id": 5,
         "character": "Ramarao's Wife",
@@ -121,8 +118,8 @@
         "known_for_department": "Acting",
         "name": "Rahul Dev",
         "original_name": "Rahul Dev",
-        "popularity": 1.1072,
-        "profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+        "popularity": 1.1473,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
         "cast_id": 6,
         "character": "Ramarao's Brother",
         "credit_id": "650730df42d8a500abb426c7",
@@ -134,8 +131,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 4,
         "character": "",
@@ -151,7 +148,7 @@
         "known_for_department": "Directing",
         "name": "S.V. Suresh",
         "original_name": "S.V. Suresh",
-        "popularity": 0.0143,
+        "popularity": 0.2717,
         "profile_path": null,
         "credit_id": "57a62921c3a3680b7c001895",
         "department": "Directing",
@@ -159,32 +156,18 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt4226854",
-    "wikidata_id": null,
+    "wikidata_id": "Q111949679",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "ta",
-            "note": "",
-            "release_date": "2015-08-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -223,7 +206,24 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "ta",
+            "note": "",
+            "release_date": "2015-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

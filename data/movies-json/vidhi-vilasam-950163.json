@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "విధివిలాసం",
   "overview": "Nirmala is separated from her millionaire father in childhood. Years later, she marries Krishna, but fate separates them when she is pregnant with his child.",
-  "popularity": 0.3015,
+  "popularity": 0.9656,
   "poster_path": "/542bsgoipEFU71o99QZPlW40sQ.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Vyjayanthimala",
         "original_name": "Vyjayanthimala",
-        "popularity": 0.2071,
+        "popularity": 1.0786,
         "profile_path": "/G7WkpjiNFCF4MHokmdvEBewBFk.jpg",
         "cast_id": 3,
         "character": "",
@@ -96,9 +96,9 @@
         "id": 1423167,
         "known_for_department": "Acting",
         "name": "Vijayalalitha",
-        "original_name": "Vijayalalitha",
-        "popularity": 0.1739,
-        "profile_path": null,
+        "original_name": "விஜயலலிதா",
+        "popularity": 0.6471,
+        "profile_path": "/fT1jNft9jbaVpPAmaE3de34wdpO.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "62325d3fdb4ed6001bf1394f",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Nagabhushanam",
         "original_name": "Nagabhushanam",
-        "popularity": 0.0672,
+        "popularity": 0.7024,
         "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
         "cast_id": 5,
         "character": "",
@@ -125,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5226,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 6,
         "character": "",
@@ -139,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Master Ramu",
         "original_name": "Master Ramu",
-        "popularity": 0.0214,
+        "popularity": 0.4136,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 8,
         "character": "",
@@ -167,8 +167,8 @@
         "known_for_department": "Acting",
         "name": "Vijaya Nirmala",
         "original_name": "Vijaya Nirmala",
-        "popularity": 0.077,
-        "profile_path": "/btvKBQPfC4dt0o2FB33TWiYaz53.jpg",
+        "popularity": 1.1907,
+        "profile_path": "/co8yCpSAJV4Ycd6bLqdf2BPeO9b.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "62325dab53866e007e202f7d",
@@ -179,24 +179,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1012424,
-        "known_for_department": "Directing",
-        "name": "Tapi Chanakya",
-        "original_name": "Tapi Chanakya",
-        "popularity": 0.1773,
-        "profile_path": null,
-        "credit_id": "62325dbc03bf84001c6825cf",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1425752,
         "known_for_department": "Camera",
         "name": "Kamal Ghosh",
         "original_name": "Kamal Ghosh",
-        "popularity": 0.0377,
+        "popularity": 0.3072,
         "profile_path": null,
         "credit_id": "62325dd7d18b2400451300b9",
         "department": "Crew",
@@ -205,52 +192,49 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1007016,
-        "known_for_department": "Sound",
-        "name": "Master Venu",
-        "original_name": "Master Venu",
-        "popularity": 0.0538,
-        "profile_path": null,
-        "credit_id": "62325de47ac829001d3a260d",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1660099,
         "known_for_department": "Writing",
         "name": "Appalacharya",
         "original_name": "Appalacharya",
-        "popularity": 0.0379,
+        "popularity": 0.311,
         "profile_path": null,
         "credit_id": "62325df4c525c400461f75e5",
         "department": "Writing",
         "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1012424,
+        "known_for_department": "Directing",
+        "name": "Tapi Chanakya",
+        "original_name": "Tapi Chanakya",
+        "popularity": 0.7847,
+        "profile_path": null,
+        "credit_id": "62325dbc03bf84001c6825cf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007016,
+        "known_for_department": "Sound",
+        "name": "Master Venu",
+        "original_name": "Master Venu",
+        "popularity": 0.3626,
+        "profile_path": null,
+        "credit_id": "62325de47ac829001d3a260d",
+        "department": "Sound",
+        "job": "Music Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 765,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/542bsgoipEFU71o99QZPlW40sQ.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 510
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0158336",
@@ -273,6 +257,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 765,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/542bsgoipEFU71o99QZPlW40sQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 510
       }
     ]
   },

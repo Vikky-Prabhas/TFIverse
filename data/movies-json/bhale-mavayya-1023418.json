@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bhale Mavayya",
   "overview": "Vijay becomes the guardian of his sister's three orphaned kids. Later, the children give shelter to Vaijayanthi, a girl trying to escape an arranged marriage, without their uncle's knowledge.",
-  "popularity": 0.3827,
+  "popularity": 0.6266,
   "poster_path": "/97IjzI3N3w9hvfMPxEgA2pSPKwU.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -35,9 +35,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Malashri",
         "original_name": "Malashri",
-        "popularity": 0.3286,
+        "popularity": 1.1292,
         "profile_path": "/qyQ8ohkrCrkaaVVNGJ8PjkjxCmz.jpg",
         "cast_id": 2,
         "character": "",
@@ -64,8 +64,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 5,
         "character": "",
@@ -93,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 6,
         "character": "",
@@ -107,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3125,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 7,
         "character": "",
@@ -118,21 +118,18 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 3707999,
         "known_for_department": "Directing",
         "name": "Sadasiva Rao",
         "original_name": "Sadasiva Rao",
-        "popularity": 0,
+        "popularity": 0.5144,
         "profile_path": null,
         "credit_id": "63297eb42dffd80091fc83fa",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt1579745",
@@ -143,9 +140,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -164,6 +158,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -179,5 +176,8 @@
         "width": 500
       }
     ]
+  },
+  "videos": {
+    "results": []
   }
 }

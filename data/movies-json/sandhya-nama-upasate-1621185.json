@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Sandhya Nama Upasate",
   "overview": "The war never ends—it only changes its battlefield, from power and pride to wealth, and now to health and humanity. COVID pushed the world into unseen trenches, where survival itself became a daily conflict and solitude a shared emotion.",
-  "popularity": 0.0538,
+  "popularity": 0.4463,
   "poster_path": "/9SJLOSxoPEwtDkdxVTBYt4uBJWG.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,13 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
@@ -57,25 +50,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-01-22T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -104,7 +80,31 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
   }
 }

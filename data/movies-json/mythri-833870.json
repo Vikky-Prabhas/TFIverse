@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Mythri",
   "overview": "Deepu's (Navdeep) dream is to make a music album and become famous. He approaches a channel head Murthy (Brahmanandam) who, impressed by his concept, offers to finance the shooting and also suggests his obese secretary as the heroine. Disappointed first, Deepu takes up the offer as he has no choice and chooses an old bungalow for the shoot at a secluded spot. As work begins, Mythri (Sadha), the owner of the property, arrives for a short stay and Deepu convinces her to be the heroine of the album and removes Murthy's secretary. Meanwhile, the death of a unit member and a series of strange incidents take place. The unit leaves after the work is wrapped up without any doubts. Deepu stays back with Mythri and unravels the mystery of the house. Towards the end of the story, the mystery behind the deaths and the strange incidents is revealed.",
-  "popularity": 0.2737,
+  "popularity": 0.908,
   "poster_path": "/plKKkIVfSe1nDx0CXSHUnASHoNu.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "Navdeep",
         "original_name": "Navdeep",
-        "popularity": 0.5173,
+        "popularity": 1.2722,
         "profile_path": "/zwkvWrtFNxflU3eQrX7xwXZEoZk.jpg",
         "cast_id": 1,
         "character": "Deepu",
@@ -51,7 +54,7 @@
         "known_for_department": "Acting",
         "name": "Sadha",
         "original_name": "Sadha",
-        "popularity": 0.4305,
+        "popularity": 1.0222,
         "profile_path": "/odbgKzeByn3Zq5LysHkiXPezElx.jpg",
         "cast_id": 2,
         "character": "Mythri",
@@ -61,15 +64,8 @@
     ],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": "tt3407320",
-    "wikidata_id": "Q6949255",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -95,6 +91,22 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Mythili",
+        "type": "Tamil"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt3407320",
+    "wikidata_id": "Q6949255",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -122,17 +134,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Mythili",
-        "type": "Tamil"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

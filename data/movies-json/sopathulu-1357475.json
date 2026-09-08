@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Sopathulu",
   "overview": "Two 9 year old friends, chintu & guddu and their adventures for smartphone to attend online classes but more importantly to save their friendship.",
-  "popularity": 0.0338,
+  "popularity": 0.4716,
   "poster_path": "/PF8t06LfgEJWsXYA5F9Y1RuOaL.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,16 +34,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "external_ids": {
     "imdb_id": "tt33291312",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
   },
   "videos": {
     "results": [
@@ -61,6 +61,12 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": [
       {
@@ -77,9 +83,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -117,8 +120,5 @@
         "width": 667
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

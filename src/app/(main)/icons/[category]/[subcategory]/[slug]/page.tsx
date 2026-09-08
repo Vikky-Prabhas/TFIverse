@@ -91,7 +91,10 @@ export default async function IconProfilePage({ params }: PageProps) {
 
   // If the URL category/subcategory doesn't match the DB, redirect to correct URL.
   // This handles category promotions gracefully.
-  if (person.category !== category || person.subcategory !== subcategory) {
+  const decodedCategory = decodeURIComponent(category);
+  const decodedSubcategory = decodeURIComponent(subcategory);
+  
+  if (person.category !== decodedCategory || person.subcategory !== decodedSubcategory) {
     redirect(`/icons/${person.category}/${person.subcategory}/${person.slug}`);
   }
 
@@ -104,8 +107,8 @@ export default async function IconProfilePage({ params }: PageProps) {
     <IconProfileClient
       person={person}
       data={data}
-      category={category}
-      subcategory={subcategory}
+      category={decodedCategory}
+      subcategory={decodedSubcategory}
       filmography={filmography}
     />
   );

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Magic",
   "overview": "Four teenagers come together to compose an original song for their upcoming college fest.",
-  "popularity": 0.2654,
+  "popularity": 0.5961,
   "poster_path": "/xivpvL0outqaSDoVlAb1Ko0m3G0.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Sara Arjun",
         "original_name": "Sara Arjun",
-        "popularity": 1.267,
+        "popularity": 2.302,
         "profile_path": "/uyZIlCL6xwWlor6JYSmIYUiPE7M.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Anmol Kajani",
         "original_name": "Anmol Kajani",
-        "popularity": 0.15,
+        "popularity": 0.4234,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Aakash Srinivas",
         "original_name": "Aakash Srinivas",
-        "popularity": 0.3113,
+        "popularity": 0.469,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Siddarth tanuku",
         "original_name": "Siddarth tanuku",
-        "popularity": 0.0143,
+        "popularity": 0.289,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -113,29 +113,16 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1943117,
-        "known_for_department": "Directing",
-        "name": "Gowtam Tinnanuri",
-        "original_name": "Gowtam Tinnanuri",
-        "popularity": 0.1365,
-        "profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
-        "credit_id": "65b7875b0cd32a00bde5b48c",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1606574,
-        "known_for_department": "Camera",
-        "name": "Girish Gangadharan",
-        "original_name": "Girish Gangadharan",
-        "popularity": 0.2056,
-        "profile_path": "/l0prBtRT58P3uHVYPMivXnJwIFT.jpg",
-        "credit_id": "65b787728741c4014a917e4d",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "gender": 1,
+        "id": 3355377,
+        "known_for_department": "Production",
+        "name": "Sai Soujanya",
+        "original_name": "Sai Soujanya",
+        "popularity": 0.4016,
+        "profile_path": null,
+        "credit_id": "65b78c12d55c3d017cfaf25b",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -144,7 +131,7 @@
         "known_for_department": "Sound",
         "name": "Anirudh Ravichander",
         "original_name": "அனிருத் ரவிச்சந்திரன்",
-        "popularity": 0.8492,
+        "popularity": 1.0746,
         "profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
         "credit_id": "65b78bdf312345017bdbf92e",
         "department": "Sound",
@@ -157,7 +144,7 @@
         "known_for_department": "Directing",
         "name": "Gowtam Tinnanuri",
         "original_name": "Gowtam Tinnanuri",
-        "popularity": 0.1365,
+        "popularity": 0.3727,
         "profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
         "credit_id": "65b78bef5e14e5017baea355",
         "department": "Writing",
@@ -165,55 +152,16 @@
       },
       {
         "adult": false,
-        "gender": 1,
-        "id": 3355377,
-        "known_for_department": "Production",
-        "name": "Sai Soujanya",
-        "original_name": "Sai Soujanya",
-        "popularity": 0.1795,
-        "profile_path": null,
-        "credit_id": "65b78c12d55c3d017cfaf25b",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
         "gender": 2,
-        "id": 2035066,
-        "known_for_department": "Art",
-        "name": "Kolla Avinash",
-        "original_name": "Kolla Avinash",
-        "popularity": 0.4354,
-        "profile_path": "/27Tw9vCcGV1iNE0Y8MIpLY3U5r2.jpg",
-        "credit_id": "65b78c21d55c3d017cfaf270",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1526585,
-        "known_for_department": "Editing",
-        "name": "Naveen Nooli",
-        "original_name": "Naveen Nooli",
-        "popularity": 0.247,
-        "profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
-        "credit_id": "65b78c305e14e5017baea37b",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1873193,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Neeraja Kona",
-        "original_name": "Neeraja Kona",
-        "popularity": 0.2069,
-        "profile_path": null,
-        "credit_id": "65b78c3d0fb17f017b34bc29",
-        "department": "Costume & Make-Up",
-        "job": "Costume Designer"
+        "id": 1943117,
+        "known_for_department": "Directing",
+        "name": "Gowtam Tinnanuri",
+        "original_name": "Gowtam Tinnanuri",
+        "popularity": 0.3727,
+        "profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
+        "credit_id": "65b7875b0cd32a00bde5b48c",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -222,7 +170,7 @@
         "known_for_department": "Writing",
         "name": "Krishna Kanth",
         "original_name": "Krishna Kanth",
-        "popularity": 0.1589,
+        "popularity": 0.4041,
         "profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
         "credit_id": "65b78c6fa284eb017c0bdc4a",
         "department": "Writing",
@@ -231,11 +179,63 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2035066,
+        "known_for_department": "Art",
+        "name": "Kolla Avinash",
+        "original_name": "Kolla Avinash",
+        "popularity": 0.4334,
+        "profile_path": "/27Tw9vCcGV1iNE0Y8MIpLY3U5r2.jpg",
+        "credit_id": "65b78c21d55c3d017cfaf270",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606574,
+        "known_for_department": "Camera",
+        "name": "Girish Gangadharan",
+        "original_name": "Girish Gangadharan",
+        "popularity": 0.3694,
+        "profile_path": "/l0prBtRT58P3uHVYPMivXnJwIFT.jpg",
+        "credit_id": "65b787728741c4014a917e4d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1873193,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Neeraja Kona",
+        "original_name": "Neeraja Kona",
+        "popularity": 0.4357,
+        "profile_path": null,
+        "credit_id": "65b78c3d0fb17f017b34bc29",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1526585,
+        "known_for_department": "Editing",
+        "name": "Naveen Nooli",
+        "original_name": "Naveen Nooli",
+        "popularity": 0.5164,
+        "profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
+        "credit_id": "65b78c305e14e5017baea37b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1790294,
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "6761518fbb15907cd3189853",
         "department": "Production",
@@ -248,7 +248,7 @@
         "known_for_department": "Directing",
         "name": "Shrikaran Beecharaju",
         "original_name": "Shrikaran Beecharaju",
-        "popularity": 0.0505,
+        "popularity": 0.2674,
         "profile_path": "/iWHd7A0CyuKsHMc2ZprEIO0CJE0.jpg",
         "credit_id": "6815b0d74b06fdc4e195933b",
         "department": "Directing",
@@ -261,7 +261,7 @@
         "known_for_department": "Crew",
         "name": "Ganesh Acharya",
         "original_name": "Ganesh Acharya",
-        "popularity": 0.3208,
+        "popularity": 1.0877,
         "profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
         "credit_id": "68bc1f0a7d3a180319069769",
         "department": "Crew",
@@ -274,8 +274,8 @@
         "known_for_department": "Crew",
         "name": "V J Shekar",
         "original_name": "V J Shekar",
-        "popularity": 0.1158,
-        "profile_path": null,
+        "popularity": 0.3846,
+        "profile_path": "/wKlfGf46OHDrw1ZCudyhiK8B3T8.jpg",
         "credit_id": "68bc1f1315d46e657098b77f",
         "department": "Crew",
         "job": "Choreographer"
@@ -287,7 +287,7 @@
         "known_for_department": "Crew",
         "name": "Vijay Binni",
         "original_name": "Vijay Binni",
-        "popularity": 0.6321,
+        "popularity": 1.1135,
         "profile_path": null,
         "credit_id": "68bc1f1ca72100a4704e5853",
         "department": "Crew",
@@ -300,7 +300,7 @@
         "known_for_department": "Editing",
         "name": "Ranga",
         "original_name": "Ranga",
-        "popularity": 0.065,
+        "popularity": 0.2909,
         "profile_path": null,
         "credit_id": "68bc1f2c88213c5ba71bc1f2",
         "department": "Editing",
@@ -313,7 +313,7 @@
         "known_for_department": "Sound",
         "name": "Raghav Ramesh",
         "original_name": "Raghav Ramesh",
-        "popularity": 0.0387,
+        "popularity": 0.4227,
         "profile_path": null,
         "credit_id": "68bc1f49d14b5c8b829bc074",
         "department": "Sound",
@@ -326,7 +326,7 @@
         "known_for_department": "Visual Effects",
         "name": "Vasudeva Rao M.",
         "original_name": "Vasudeva Rao M.",
-        "popularity": 0.0071,
+        "popularity": 0.3273,
         "profile_path": null,
         "credit_id": "68bc1f5ee823ec1c8c9bfddc",
         "department": "Visual Effects",
@@ -339,7 +339,7 @@
         "known_for_department": "Production",
         "name": "Kabilan Chellaiah",
         "original_name": "Kabilan Chellaiah",
-        "popularity": 0.2732,
+        "popularity": 0.466,
         "profile_path": null,
         "credit_id": "68bc1f6bfc53c833ae8ce9e6",
         "department": "Production",
@@ -347,8 +347,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -366,18 +370,8 @@
       }
     ]
   },
-  "release_dates": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -394,5 +388,11 @@
         "width": 1365
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": []
   }
 }

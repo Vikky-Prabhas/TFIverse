@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bangaru Panjaram",
   "overview": "Venu Gopal is an engineer who travels to various places as part of his projects. In his travel he meets a girl Neela. They both fall in love, and get married. But Venu's uncle wants him to marry his daughter. So he makes various plans and creates mis-understanding between Venu and Neela.",
-  "popularity": 0.1116,
+  "popularity": 1.5066,
   "poster_path": "/jCI1JTj8IAzfyHB97tFZO8e79Zh.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.5473,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 11,
         "character": "Venu Gopal",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.6862,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 12,
         "character": "Neela",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Sriranjani",
         "original_name": "Sriranjani",
-        "popularity": 0,
+        "popularity": 0.5158,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Baby Rani",
         "original_name": "Baby Rani",
-        "popularity": 0.1078,
+        "popularity": 0.5156,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Directing",
         "name": "B.N. Reddi",
         "original_name": "B.N. Reddi",
-        "popularity": 0.1642,
+        "popularity": 0.4217,
         "profile_path": null,
         "credit_id": "66f2529ede2d52dfbd8d6b41",
         "department": "Directing",
@@ -126,7 +126,7 @@
         "known_for_department": "Directing",
         "name": "B.N. Reddi",
         "original_name": "B.N. Reddi",
-        "popularity": 0.1642,
+        "popularity": 0.4217,
         "profile_path": null,
         "credit_id": "66f252b37ff2bf57cd26e94a",
         "department": "Writing",
@@ -139,7 +139,7 @@
         "known_for_department": "Writing",
         "name": "Palagummi Padmaraju",
         "original_name": "Palagummi Padmaraju",
-        "popularity": 0.0143,
+        "popularity": 1.0728,
         "profile_path": null,
         "credit_id": "66f252c17300a5ba213bd77c",
         "department": "Writing",
@@ -152,7 +152,7 @@
         "known_for_department": "Directing",
         "name": "B.N. Reddi",
         "original_name": "B.N. Reddi",
-        "popularity": 0.1642,
+        "popularity": 0.4217,
         "profile_path": null,
         "credit_id": "66f252dd7ff2bf57cd26e954",
         "department": "Production",
@@ -165,7 +165,7 @@
         "known_for_department": "Camera",
         "name": "B. N. Konda Reddy",
         "original_name": "B. N. Konda Reddy",
-        "popularity": 0.0404,
+        "popularity": 0.3417,
         "profile_path": null,
         "credit_id": "66f252f7c237258e4c26c994",
         "department": "Crew",
@@ -173,12 +173,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1772923,
         "known_for_department": "Camera",
-        "name": "C.A. S. Mani",
+        "name": "C.A.S. Mani",
         "original_name": "C.A. S. Mani",
-        "popularity": 0,
+        "popularity": 0.2719,
         "profile_path": null,
         "credit_id": "66f253066c3b7a8d648e0e6f",
         "department": "Crew",
@@ -191,7 +191,7 @@
         "known_for_department": "Crew",
         "name": "Madhav Bulbule",
         "original_name": "Madhav Bulbule",
-        "popularity": 0.0261,
+        "popularity": 0.3013,
         "profile_path": null,
         "credit_id": "66f25319c237258e4c26c9a4",
         "department": "Crew",
@@ -204,8 +204,8 @@
         "known_for_department": "Editing",
         "name": "M. S. Mani",
         "original_name": "M. S. Mani",
-        "popularity": 0.1106,
-        "profile_path": null,
+        "popularity": 0.3626,
+        "profile_path": "/m4pGiUlYPujBMt7MsJfhhA76hbf.jpg",
         "credit_id": "66f2532cc237258e4c26c9b2",
         "department": "Editing",
         "job": "Editor"
@@ -217,7 +217,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Rajeswara Rao",
         "original_name": "Saluri Rajeswara Rao",
-        "popularity": 0.1248,
+        "popularity": 0.302,
         "profile_path": "/9qsMNtwJ24NSFEpGnxojcu9pT0z.jpg",
         "credit_id": "66f2538d2d98d59ce13b3ed4",
         "department": "Sound",
@@ -230,7 +230,7 @@
         "known_for_department": "Sound",
         "name": "B. Gopalam",
         "original_name": "B. Gopalam",
-        "popularity": 0,
+        "popularity": 0.2944,
         "profile_path": null,
         "credit_id": "66f2539dc237258e4c26ca27",
         "department": "Sound",
@@ -241,12 +241,24 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0266297",
-    "wikidata_id": "Q4855114",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/jCI1JTj8IAzfyHB97tFZO8e79Zh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -265,24 +277,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/jCI1JTj8IAzfyHB97tFZO8e79Zh.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt0266297",
+    "wikidata_id": "Q4855114",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

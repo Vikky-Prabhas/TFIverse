@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అత్తగారు స్వాగతం",
   "overview": "",
-  "popularity": 0.2156,
+  "popularity": 1.0437,
   "poster_path": null,
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Bhanumathi",
         "original_name": "Bhanumathi",
-        "popularity": 0.3116,
+        "popularity": 0.6397,
         "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Kalyana Chakravarthy",
         "original_name": "Kalyan chakravarthy Nandamuri",
-        "popularity": 0.0071,
+        "popularity": 0.3668,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -88,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Ashwini",
         "original_name": "Ashwini",
-        "popularity": 0.2723,
-        "profile_path": null,
+        "popularity": 0.9126,
+        "profile_path": "/othespCbB1jh1NzWnxfVhQqg3ll.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "639eedb1688cd000935d3b68",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Kanchana",
         "original_name": "Kanchana",
-        "popularity": 0.2614,
+        "popularity": 1.1551,
         "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
         "cast_id": 13,
         "character": "",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Y. Vijaya",
         "original_name": "Y. Vijaya",
-        "popularity": 0.668,
+        "popularity": 2.2151,
         "profile_path": "/zyo1kuf67tOhWtecyn8uGaahDsS.jpg",
         "cast_id": 3,
         "character": "",
@@ -130,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Priya",
         "original_name": "Priya",
-        "popularity": 1.0258,
+        "popularity": 1.0717,
         "profile_path": "/qlUUHYtD6Ccp9mIiJb03mgMp3ai.jpg",
         "cast_id": 4,
         "character": "",
@@ -144,7 +144,7 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "cast_id": 5,
         "character": "",
@@ -155,16 +155,29 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 3835791,
+        "known_for_department": "Production",
+        "name": "Datla Ramakrishnam Raju",
+        "original_name": "Datla Ramakrishnam Raju",
+        "popularity": 0.3194,
+        "profile_path": null,
+        "credit_id": "639eeedd9bcd0f27d6fc675b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
         "gender": 2,
-        "id": 584606,
-        "known_for_department": "Sound",
-        "name": "K. V. Mahadevan",
-        "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
-        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
-        "credit_id": "639eee482f3b170094c9b84a",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "id": 1313273,
+        "known_for_department": "Production",
+        "name": "Vakada Appa Rao",
+        "original_name": "Vakada Appa Rao",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "639eee9e2f3b1700ba03beeb",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -173,7 +186,7 @@
         "known_for_department": "Editing",
         "name": "Tata Suresh",
         "original_name": "Tata Suresh",
-        "popularity": 0.0071,
+        "popularity": 0.2607,
         "profile_path": null,
         "credit_id": "639eee66688cd00084ce589a",
         "department": "Editing",
@@ -186,7 +199,7 @@
         "known_for_department": "Camera",
         "name": "P. Lakshman",
         "original_name": "P. Lakshman",
-        "popularity": 0.0071,
+        "popularity": 0.2757,
         "profile_path": null,
         "credit_id": "639eee8c8ddc34150ee097a7",
         "department": "Camera",
@@ -195,28 +208,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1313273,
-        "known_for_department": "Production",
-        "name": "Vakada Appa Rao",
-        "original_name": "Vakada Appa Rao",
-        "popularity": 0.1283,
-        "profile_path": null,
-        "credit_id": "639eee9e2f3b1700ba03beeb",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3835791,
-        "known_for_department": "Production",
-        "name": "Datla Ramakrishnam Raju",
-        "original_name": "Datla Ramakrishnam Raju",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "639eeedd9bcd0f27d6fc675b",
-        "department": "Production",
-        "job": "Producer"
+        "id": 584606,
+        "known_for_department": "Sound",
+        "name": "K. V. Mahadevan",
+        "original_name": "K. V. Mahadevan",
+        "popularity": 0.3367,
+        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
+        "credit_id": "639eee482f3b170094c9b84a",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -225,7 +225,7 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "639eeee9223e20007d3ced08",
         "department": "Directing",
@@ -238,11 +238,31 @@
         "known_for_department": "Writing",
         "name": "M. V. S. Haranatha Rao",
         "original_name": "M. V. S. Haranatha Rao",
-        "popularity": 0.0614,
+        "popularity": 0.4589,
         "profile_path": "/s1AusagRF2MsBh2mi9hrAgGZDWL.jpg",
         "credit_id": "694106460470929eca2ca1ae",
         "department": "Writing",
         "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -253,8 +273,13 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": [
@@ -274,30 +299,5 @@
         "type": "Alternate title"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1986-08-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Chinnari Papalu",
   "overview": "It tells the story of a rich man falling in love with a tribal girl, and how the pair face challenges in life when they separate.",
-  "popularity": 0.2393,
+  "popularity": 1.1076,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -39,107 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335686,
-        "known_for_department": "Acting",
-        "name": "Kongara Jaggayya",
-        "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
-        "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5d18fa4b8a84d25b6ecc329a",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1166378,
-        "known_for_department": "Acting",
-        "name": "Savitri",
-        "original_name": "Savitri",
-        "popularity": 0.3868,
-        "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5d18fa59126ec30018116daa",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1034831,
-        "known_for_department": "Acting",
-        "name": "Jamuna",
-        "original_name": "Jamuna",
-        "popularity": 0.2678,
-        "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5d18fa72126ec30021117cb3",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1003966,
-        "known_for_department": "Acting",
-        "name": "S. V. Ranga Rao",
-        "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
-        "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "5d18fa7e006eee001e8cb429",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1166378,
-        "known_for_department": "Acting",
-        "name": "Savitri",
-        "original_name": "Savitri",
-        "popularity": 0.3868,
-        "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
-        "credit_id": "5d18f9ec006eee001b8ca428",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2028339,
-        "known_for_department": "Sound",
-        "name": "P. Leela",
-        "original_name": "P. Leela",
-        "popularity": 0.0596,
-        "profile_path": null,
-        "credit_id": "5d18fa9a126ec30018116e13",
-        "department": "Sound",
-        "job": "Music"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -157,8 +56,109 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335686,
+        "known_for_department": "Acting",
+        "name": "Kongara Jaggayya",
+        "original_name": "Kongara Jaggayya",
+        "popularity": 1.183,
+        "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5d18fa4b8a84d25b6ecc329a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166378,
+        "known_for_department": "Acting",
+        "name": "Savitri",
+        "original_name": "Savitri",
+        "popularity": 1.2492,
+        "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5d18fa59126ec30018116daa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034831,
+        "known_for_department": "Acting",
+        "name": "Jamuna",
+        "original_name": "Jamuna",
+        "popularity": 0.913,
+        "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5d18fa72126ec30021117cb3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003966,
+        "known_for_department": "Acting",
+        "name": "S. V. Ranga Rao",
+        "original_name": "S. V. Ranga Rao",
+        "popularity": 1.0671,
+        "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5d18fa7e006eee001e8cb429",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2028339,
+        "known_for_department": "Sound",
+        "name": "P. Leela",
+        "original_name": "P. Leela",
+        "popularity": 0.2541,
+        "profile_path": "/8E0DiVQQfWVkp2nwBxBEofLZJV5.jpg",
+        "credit_id": "5d18fa9a126ec30018116e13",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166378,
+        "known_for_department": "Acting",
+        "name": "Savitri",
+        "original_name": "Savitri",
+        "popularity": 1.2492,
+        "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
+        "credit_id": "5d18f9ec006eee001b8ca428",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],

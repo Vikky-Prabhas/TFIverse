@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ప్రేమంటే",
   "overview": "A new bride's happiness is put to the test when she notices her husband's suspicious behaviour.",
-  "popularity": 1.0021,
+  "popularity": 2.2169,
   "poster_path": "/qjEGEjsbj7Y5xyge5YA1YW0ZPfk.jpg",
   "production_companies": [
     {
@@ -53,7 +53,7 @@
   "title": "Premante",
   "video": false,
   "vote_average": 6,
-  "vote_count": 2,
+  "vote_count": 3,
   "credits": {
     "cast": [
       {
@@ -63,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.5618,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 1,
         "character": "Madhusudhan \"Madhi\" Rao",
@@ -77,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Anandhi",
         "original_name": "Anandhi",
-        "popularity": 0.6705,
+        "popularity": 1.0609,
         "profile_path": "/2pGgJ8TowhQfFG6So3pdbN6QCXT.jpg",
         "cast_id": 2,
         "character": "Ramya",
@@ -90,8 +90,8 @@
         "id": 1510675,
         "known_for_department": "Acting",
         "name": "Suma Kanakala",
-        "original_name": "Suma Kanakala",
-        "popularity": 0.4259,
+        "original_name": "సుమ కనకాల",
+        "popularity": 1.1415,
         "profile_path": "/74fkLfyqnhyTwUiek8HI4xM8Y9g.jpg",
         "cast_id": 3,
         "character": "Asha Mary",
@@ -105,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 18,
         "character": "Sampath Kumar",
@@ -119,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "Hyper Adhi",
         "original_name": "Hyper Adhi",
-        "popularity": 0.1651,
+        "popularity": 0.6728,
         "profile_path": "/qKFNVomWgVPNTi69kqwTk8z3Y9Q.jpg",
         "cast_id": 22,
         "character": "",
@@ -133,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Aruna Bhikshu",
         "original_name": "Aruna Bhikshu",
-        "popularity": 0.0557,
+        "popularity": 0.5691,
         "profile_path": "/yMaPEClHhUdwfWAKR31cTTnUVOq.jpg",
         "cast_id": 23,
         "character": "",
@@ -147,12 +147,26 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Ramprasad",
         "original_name": "Jabardasth Ramprasad",
-        "popularity": 0.3747,
+        "popularity": 1.9622,
         "profile_path": "/ud7ejWOdrED63N8tMCFQUmirftZ.jpg",
         "cast_id": 24,
         "character": "",
         "credit_id": "695230c2b8a402732f7c72a1",
         "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5266501,
+        "known_for_department": "Acting",
+        "name": "Bheemala Revanth Pavan Sai Subhash",
+        "original_name": "Bheemala Revanth Pavan Sai Subhash",
+        "popularity": 0.3816,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Chitti Chinthan",
+        "credit_id": "6a4de14dd638feef71c80a1e",
+        "order": 7
       }
     ],
     "crew": [
@@ -163,7 +177,7 @@
         "known_for_department": "Production",
         "name": "Puskur Ram Mohan Rao",
         "original_name": "Puskur Ram Mohan Rao",
-        "popularity": 0.0934,
+        "popularity": 0.2956,
         "profile_path": null,
         "credit_id": "67990b353a72b25b642ae42d",
         "department": "Production",
@@ -175,9 +189,9 @@
         "id": 215910,
         "known_for_department": "Acting",
         "name": "Rana Daggubati",
-        "original_name": "Rana Daggubati",
-        "popularity": 1.1535,
-        "profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+        "original_name": "రానా దగ్గుబాటి",
+        "popularity": 2.5345,
+        "profile_path": "/q0Rw0e9RogMD0zJ0Heq0GotDYoy.jpg",
         "credit_id": "67cc792acb18486ea15b863a",
         "department": "Crew",
         "job": "Presenter"
@@ -189,7 +203,7 @@
         "known_for_department": "Camera",
         "name": "Vishwanath Reddy Chelumalla",
         "original_name": "Vishwanath Reddy",
-        "popularity": 0.0975,
+        "popularity": 0.2959,
         "profile_path": null,
         "credit_id": "69073ec5783661a1262fe9cf",
         "department": "Camera",
@@ -202,7 +216,7 @@
         "known_for_department": "Art",
         "name": "Arvind Mule",
         "original_name": "Arvind Mule",
-        "popularity": 0.0143,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "69073ee43573ef1480464220",
         "department": "Art",
@@ -215,7 +229,7 @@
         "known_for_department": "Editing",
         "name": "Raghavendra Thirun",
         "original_name": "Raghavendra Thirun",
-        "popularity": 0.056,
+        "popularity": 0.2963,
         "profile_path": null,
         "credit_id": "69073ef88a4d1a5e35081358",
         "department": "Editing",
@@ -228,7 +242,7 @@
         "known_for_department": "Crew",
         "name": "Gauri Naidu",
         "original_name": "Gauri Naidu",
-        "popularity": 0,
+        "popularity": 0.3335,
         "profile_path": null,
         "credit_id": "69073f0eb52e69099f08151a",
         "department": "Costume & Make-Up",
@@ -241,7 +255,7 @@
         "known_for_department": "Directing",
         "name": "Karthik Thupurani",
         "original_name": "Karthik Thupurani",
-        "popularity": 0.0071,
+        "popularity": 0.3222,
         "profile_path": null,
         "credit_id": "69073f404c98c7e154597fce",
         "department": "Writing",
@@ -254,7 +268,7 @@
         "known_for_department": "Crew",
         "name": "Wing Chun Anji",
         "original_name": "Wing Chun Anji",
-        "popularity": 0.1079,
+        "popularity": 0.289,
         "profile_path": null,
         "credit_id": "69073f55f0dff3c3572fe991",
         "department": "Crew",
@@ -267,7 +281,7 @@
         "known_for_department": "Writing",
         "name": "Kasarla Shyam",
         "original_name": "Kasarla Shyam",
-        "popularity": 0.1601,
+        "popularity": 0.4009,
         "profile_path": null,
         "credit_id": "69073f7d769fb3352ee12be9",
         "department": "Writing",
@@ -280,7 +294,7 @@
         "known_for_department": "Directing",
         "name": "E. Ramaswamy",
         "original_name": "E. Ramaswamy",
-        "popularity": 0.0143,
+        "popularity": 0.2831,
         "profile_path": null,
         "credit_id": "69073f9dd466743a1ce129ca",
         "department": "Directing",
@@ -293,7 +307,7 @@
         "known_for_department": "Sound",
         "name": "Leon James",
         "original_name": "Leon James",
-        "popularity": 0.0638,
+        "popularity": 0.3665,
         "profile_path": "/kenu25DL1IiASnsk1f5MptCj5qH.jpg",
         "credit_id": "69073fc367bc2b2051463bf6",
         "department": "Sound",
@@ -306,7 +320,7 @@
         "known_for_department": "Production",
         "name": "Jhanvi Narang",
         "original_name": "Jhanvi Narang",
-        "popularity": 0.0071,
+        "popularity": 0.2699,
         "profile_path": null,
         "credit_id": "690740fbe652daef7a4c837f",
         "department": "Production",
@@ -319,7 +333,7 @@
         "known_for_department": "Writing",
         "name": "Sree Mani",
         "original_name": "Sree Mani",
-        "popularity": 0.0959,
+        "popularity": 0.395,
         "profile_path": "/9zCz1XWtxEZKo3xpBVvHJnIFhlf.jpg",
         "credit_id": "6907419e31e4358f41081326",
         "department": "Writing",
@@ -332,7 +346,7 @@
         "known_for_department": "Directing",
         "name": "Navaneeth Sriram",
         "original_name": "Navaneeth Sriram",
-        "popularity": 0.0143,
+        "popularity": 0.2771,
         "profile_path": null,
         "credit_id": "6922193b79126194e1b74328",
         "department": "Directing",
@@ -345,7 +359,7 @@
         "known_for_department": "Directing",
         "name": "Navaneeth Sriram",
         "original_name": "Navaneeth Sriram",
-        "popularity": 0.0143,
+        "popularity": 0.2771,
         "profile_path": null,
         "credit_id": "6945477d60f3dcc4528cd7b4",
         "department": "Writing",
@@ -358,7 +372,7 @@
         "known_for_department": "Sound",
         "name": "Sachin Sudhakaran",
         "original_name": "Sachin Sudhakaran",
-        "popularity": 0.448,
+        "popularity": 0.5601,
         "profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
         "credit_id": "69454790c4780926b20726ec",
         "department": "Sound",
@@ -371,7 +385,7 @@
         "known_for_department": "Camera",
         "name": "Vallapatla Satish",
         "original_name": "Vallapatla Satish",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "694547b0244c5cf7e1154745",
         "department": "Camera",
@@ -409,30 +423,10 @@
   },
   "external_ids": {
     "imdb_id": "tt32237099",
-    "wikidata_id": null,
+    "wikidata_id": "Q136868678",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-11-21T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -534,5 +528,25 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-11-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

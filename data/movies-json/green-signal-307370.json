@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Green Signal",
   "overview": "Telugu film from director Vijay Maddhala.",
-  "popularity": 0.3078,
+  "popularity": 0.7748,
   "poster_path": "/age8NEPl9MwhHgnXTu43SnjJ53r.jpg",
   "production_companies": [],
   "production_countries": [
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Revanth",
         "original_name": "Revanth",
-        "popularity": 0.095,
+        "popularity": 0.3724,
         "profile_path": null,
         "cast_id": 1,
         "character": "Naidu",
@@ -62,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Manas",
         "original_name": "Manas",
-        "popularity": 0.076,
+        "popularity": 0.286,
         "profile_path": null,
         "cast_id": 2,
         "character": "Sandeep Kumar (Sandy)",
@@ -76,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Gopal Sai",
         "original_name": "Gopal Sai",
-        "popularity": 0.0286,
+        "popularity": 0.2632,
         "profile_path": null,
         "cast_id": 3,
         "character": "Google",
@@ -90,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Ashutosh",
         "original_name": "Ashutosh",
-        "popularity": 0.0071,
+        "popularity": 0.2613,
         "profile_path": null,
         "cast_id": 4,
         "character": "Prem",
@@ -104,7 +107,7 @@
         "known_for_department": "Sound",
         "name": "Shilpi Sharma",
         "original_name": "Shilpi Sharma",
-        "popularity": 0.0617,
+        "popularity": 0.6618,
         "profile_path": "/yopSGRtFhS4c7icmSQ5l1pNE40g.jpg",
         "cast_id": 5,
         "character": "Devika",
@@ -118,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Anandhi",
         "original_name": "Anandhi",
-        "popularity": 0.6319,
+        "popularity": 1.0609,
         "profile_path": "/2pGgJ8TowhQfFG6So3pdbN6QCXT.jpg",
         "cast_id": 6,
         "character": "Jessie",
@@ -132,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Manali Rathod",
         "original_name": "Manali Rathod",
-        "popularity": 0.1077,
+        "popularity": 0.7375,
         "profile_path": "/b3crDY8sBb8NwnMDmLGt9v7tVZm.jpg",
         "cast_id": 7,
         "character": "Sweety",
@@ -146,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Dimple Chopade",
         "original_name": "Dimple Chopade",
-        "popularity": 0.211,
+        "popularity": 0.6401,
         "profile_path": "/yWuKRA1qH7JgRP3bGGNhX2ffhs6.jpg",
         "cast_id": 8,
         "character": "Meera",
@@ -160,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Chammak Chandra",
         "original_name": "Chammak Chandra",
-        "popularity": 0.2707,
+        "popularity": 1.3289,
         "profile_path": "/xEtdW0GJozV3rIi2ZLJo4na7piE.jpg",
         "cast_id": 9,
         "character": "Leena",
@@ -174,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Raja Sreedhar",
         "original_name": "Raja Sreedhar",
-        "popularity": 0.0071,
+        "popularity": 0.3297,
         "profile_path": null,
         "cast_id": 10,
         "character": "Mahesh",
@@ -188,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "Nyra Banerjee",
         "original_name": "Nyra Banerjee",
-        "popularity": 0.3914,
+        "popularity": 1.3609,
         "profile_path": "/gCv3m2KccpwNMRyv1FHKiLNCkvd.jpg",
         "cast_id": 11,
         "character": "",
@@ -202,7 +205,7 @@
         "known_for_department": "Acting",
         "name": "Shravya",
         "original_name": "Shravya",
-        "popularity": 0.1502,
+        "popularity": 0.7753,
         "profile_path": "/c6D0WpyGeIxs4gyRABQkIqxsh4o.jpg",
         "cast_id": 12,
         "character": "",
@@ -216,7 +219,7 @@
         "known_for_department": "Acting",
         "name": "Kiran Yadav",
         "original_name": "Kiran Yadav",
-        "popularity": 0.0143,
+        "popularity": 0.2911,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -230,7 +233,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Yadav",
         "original_name": "Lavanya Yadav",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -241,12 +244,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 1998657,
+        "known_for_department": "Directing",
+        "name": "Vijay Maddhala",
+        "original_name": "Vijay Maddhala",
+        "popularity": 0.2819,
+        "profile_path": null,
+        "credit_id": "5aaa2ef89251410570009002",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1998658,
         "known_for_department": "Production",
         "name": "Rudrapati Ramana Rao",
         "original_name": "Rudrapati Ramana Rao",
-        "popularity": 0.0286,
+        "popularity": 0.2666,
         "profile_path": "/wQeFAeAwGtO51PbuGEkbT9seqbL.jpg",
         "credit_id": "5aaa2f060e0a266508008f07",
         "department": "Production",
@@ -255,15 +271,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1998657,
-        "known_for_department": "Directing",
-        "name": "Vijay Maddhala",
-        "original_name": "Vijay Maddhala",
-        "popularity": 0.0286,
+        "id": 1998659,
+        "known_for_department": "Writing",
+        "name": "Satyadeva Sharma",
+        "original_name": "Satyadeva Sharma",
+        "popularity": 0.2638,
         "profile_path": null,
-        "credit_id": "5aaa2ef89251410570009002",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5aaa2f13c3a36851ec008777",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -272,24 +288,11 @@
         "known_for_department": "Crew",
         "name": "Swamy",
         "original_name": "Swamy",
-        "popularity": 0,
+        "popularity": 0.2577,
         "profile_path": null,
         "credit_id": "5aaa2f540e0a266502009ca0",
         "department": "Crew",
         "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1998659,
-        "known_for_department": "Writing",
-        "name": "Satyadeva Sharma",
-        "original_name": "Satyadeva Sharma",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5aaa2f13c3a36851ec008777",
-        "department": "Writing",
-        "job": "Writer"
       },
       {
         "adult": false,
@@ -298,7 +301,7 @@
         "known_for_department": "Sound",
         "name": "Jeevan Babu",
         "original_name": "Jeevan Babu",
-        "popularity": 0.0578,
+        "popularity": 0.316,
         "profile_path": null,
         "credit_id": "6046693b9e458600792ab735",
         "department": "Sound",
@@ -306,11 +309,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt3811012",
+    "wikidata_id": "Q17054003",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -342,12 +346,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt3811012",
-    "wikidata_id": "Q17054003",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],

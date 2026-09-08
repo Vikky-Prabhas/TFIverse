@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఒక చిన్న ప్రేమ కథ",
   "overview": "",
-  "popularity": 0.1151,
+  "popularity": 1.4457,
   "poster_path": "/xObWcQJXU76Sr1UFY9IgEeoLCJ2.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,12 +44,271 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770893,
+        "known_for_department": "Acting",
+        "name": "Sundeep Pagadala",
+        "original_name": "Sundeep Pagadala",
+        "popularity": 0.2473,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5f584cda05a53300381d526c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770894,
+        "known_for_department": "Acting",
+        "name": "Rajeshwari Pamidighantam",
+        "original_name": "Rajeshwari Pamidighantam",
+        "popularity": 0.3572,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5f584cfa7a97ab00349d8158",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770895,
+        "known_for_department": "Acting",
+        "name": "Virat Kapoor",
+        "original_name": "Virat Kapoor",
+        "popularity": 0.4884,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5f584d118c22c00037c9db06",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770896,
+        "known_for_department": "Acting",
+        "name": "Charan Kurugonda",
+        "original_name": "Charan Kurugonda",
+        "popularity": 0.4822,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5f584d2205a53300351c3556",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770897,
+        "known_for_department": "Acting",
+        "name": "Aashika Meka",
+        "original_name": "Aashika Meka",
+        "popularity": 0.615,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5f584d314e6742003729d688",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770899,
+        "known_for_department": "Acting",
+        "name": "Chaitanya Padigala",
+        "original_name": "Chaitanya Padigala",
+        "popularity": 0.3807,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "5f584d3f706b9f003a2acdcb",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770910,
+        "known_for_department": "Directing",
+        "name": "Sandhya Meka",
+        "original_name": "Sandhya Meka",
+        "popularity": 0.4426,
+        "profile_path": null,
+        "credit_id": "5f584e51da10f0003a0e08ba",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3324333,
+        "known_for_department": "Camera",
+        "name": "Viswas Daniel",
+        "original_name": "Viswas Daniel",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "5f584d738c22c00037c9dcca",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770893,
+        "known_for_department": "Acting",
+        "name": "Sundeep Pagadala",
+        "original_name": "Sundeep Pagadala",
+        "popularity": 0.2473,
+        "profile_path": null,
+        "credit_id": "5f584eccd388ae0038514aa9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770902,
+        "known_for_department": "Sound",
+        "name": "Sharon Raavi",
+        "original_name": "Sharon Raavi",
+        "popularity": 0.2652,
+        "profile_path": null,
+        "credit_id": "5f584d9905a53300351c3697",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2770906,
+        "known_for_department": "Art",
+        "name": "Kamal Krishna",
+        "original_name": "Kamal Krishna",
+        "popularity": 0.306,
+        "profile_path": null,
+        "credit_id": "5f584dfa706b9f00392b51d5",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2770904,
+        "known_for_department": "Editing",
+        "name": "Santhosh Kamireddy",
+        "original_name": "Santhosh Kamireddy",
+        "popularity": 0.3987,
+        "profile_path": null,
+        "credit_id": "5f584dbde86017003a03bb93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770908,
+        "known_for_department": "Directing",
+        "name": "Maurya Prathikantham",
+        "original_name": "Maurya Prathikantham",
+        "popularity": 0.3089,
+        "profile_path": null,
+        "credit_id": "5f584e3cda10f0003a0e077d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770907,
+        "known_for_department": "Directing",
+        "name": "Pradeep Kodavati",
+        "original_name": "Pradeep Kodavati",
+        "popularity": 0.281,
+        "profile_path": null,
+        "credit_id": "5f584e295b12400038906d9a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770893,
+        "known_for_department": "Acting",
+        "name": "Sundeep Pagadala",
+        "original_name": "Sundeep Pagadala",
+        "popularity": 0.2473,
+        "profile_path": null,
+        "credit_id": "5f584ea2befb09003555a829",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770895,
+        "known_for_department": "Acting",
+        "name": "Virat Kapoor",
+        "original_name": "Virat Kapoor",
+        "popularity": 0.4884,
+        "profile_path": null,
+        "credit_id": "5f584ebad388ae003750bafc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2099000,
+        "known_for_department": "Editing",
+        "name": "Pankaj Halder",
+        "original_name": "Pankaj Halder",
+        "popularity": 0.2641,
+        "profile_path": null,
+        "credit_id": "5f584f2cda10f000380d03f5",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2020-09-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -77,264 +336,5 @@
         "width": 800
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770893,
-        "known_for_department": "Acting",
-        "name": "Sundeep Pagadala",
-        "original_name": "Sundeep Pagadala",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5f584cda05a53300381d526c",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770894,
-        "known_for_department": "Acting",
-        "name": "Rajeshwari Pamidighantam",
-        "original_name": "Rajeshwari Pamidighantam",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5f584cfa7a97ab00349d8158",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770895,
-        "known_for_department": "Acting",
-        "name": "Virat Kapoor",
-        "original_name": "Virat Kapoor",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5f584d118c22c00037c9db06",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770896,
-        "known_for_department": "Acting",
-        "name": "Charan Kurugonda",
-        "original_name": "Charan Kurugonda",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5f584d2205a53300351c3556",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770897,
-        "known_for_department": "Acting",
-        "name": "Aashika Meka",
-        "original_name": "Aashika Meka",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "5f584d314e6742003729d688",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770899,
-        "known_for_department": "Acting",
-        "name": "Chaitanya Padigala",
-        "original_name": "Chaitanya Padigala",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "5f584d3f706b9f003a2acdcb",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770910,
-        "known_for_department": "Directing",
-        "name": "Sandhya Meka",
-        "original_name": "Sandhya Meka",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5f584e51da10f0003a0e08ba",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3324333,
-        "known_for_department": "Camera",
-        "name": "Viswas Daniel",
-        "original_name": "Viswas Daniel",
-        "popularity": 0.0168,
-        "profile_path": null,
-        "credit_id": "5f584d738c22c00037c9dcca",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770893,
-        "known_for_department": "Acting",
-        "name": "Sundeep Pagadala",
-        "original_name": "Sundeep Pagadala",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584eccd388ae0038514aa9",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770902,
-        "known_for_department": "Sound",
-        "name": "Sharon Raavi",
-        "original_name": "Sharon Raavi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584d9905a53300351c3697",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2770906,
-        "known_for_department": "Art",
-        "name": "Kamal Krishna",
-        "original_name": "Kamal Krishna",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584dfa706b9f00392b51d5",
-        "department": "Art",
-        "job": "Title Designer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2770904,
-        "known_for_department": "Editing",
-        "name": "Santhosh Kamireddy",
-        "original_name": "Santhosh Kamireddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584dbde86017003a03bb93",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770908,
-        "known_for_department": "Directing",
-        "name": "Maurya Prathikantham",
-        "original_name": "Maurya Prathikantham",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5f584e3cda10f0003a0e077d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770907,
-        "known_for_department": "Directing",
-        "name": "Pradeep Kodavati",
-        "original_name": "Pradeep Kodavati",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584e295b12400038906d9a",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770893,
-        "known_for_department": "Acting",
-        "name": "Sundeep Pagadala",
-        "original_name": "Sundeep Pagadala",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f584ea2befb09003555a829",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2770895,
-        "known_for_department": "Acting",
-        "name": "Virat Kapoor",
-        "original_name": "Virat Kapoor",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5f584ebad388ae003750bafc",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2099000,
-        "known_for_department": "Editing",
-        "name": "Pankaj Halder",
-        "original_name": "Pankaj Halder",
-        "popularity": 0.105,
-        "profile_path": null,
-        "credit_id": "5f584f2cda10f000380d03f5",
-        "department": "Editing",
-        "job": "Digital Intermediate"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2020-09-03T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "వెంకటాద్రి ఎక్స్ ప్రెస్",
   "overview": "Ram Murthy is a retired headmaster who does not tolerate mistakes and threatens to banish any family member who makes more than a 100 mistakes. His youngest son Sundeep, who has racked up a score of 99, gets separated from his family when he misses the Venkatadri Express to Tirupati on the way to his brother's wedding. How can he catch up with the train to cover up his mistake and avoid being banished?",
-  "popularity": 0.4364,
+  "popularity": 0.7579,
   "poster_path": "/sT4FNoKPL8WwH7xzwlcdNjGFOhk.jpg",
   "production_companies": [],
   "production_countries": [
@@ -50,8 +50,8 @@
   "tagline": "",
   "title": "Venkatadri Express",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 10,
+  "vote_average": 5.818,
+  "vote_count": 11,
   "credits": {
     "cast": [
       {
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Sundeep Kishan",
         "original_name": "Sundeep Kishan",
-        "popularity": 1.4654,
+        "popularity": 1.5055,
         "profile_path": "/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg",
         "cast_id": 1,
         "character": "Sundeep",
@@ -75,8 +75,8 @@
         "known_for_department": "Acting",
         "name": "Rakul Preet Singh",
         "original_name": "Rakul Preet Singh",
-        "popularity": 0.9941,
-        "profile_path": "/d5OOKtPu9NhlNVMQTAAPff29KMv.jpg",
+        "popularity": 1.5849,
+        "profile_path": "/4n4MmOFNyxKc4qMfzyapglvDDlF.jpg",
         "cast_id": 2,
         "character": "Prarthana",
         "credit_id": "52fe4ec9c3a36847f82a7cbd",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2766,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 3,
         "character": "Ram Murthy",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 4,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3638,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 7,
         "character": "",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 8,
         "character": "",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.377,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 9,
         "character": "",
@@ -159,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Meena Vasu",
         "original_name": "Meena Vasu",
-        "popularity": 0.8052,
+        "popularity": 1.5922,
         "profile_path": "/A7ERtas41T7XvF79R94glLdezBQ.jpg",
         "cast_id": 12,
         "character": "",
@@ -175,7 +175,7 @@
         "known_for_department": "Directing",
         "name": "Merlapaka Gandhi",
         "original_name": "Merlapaka Gandhi",
-        "popularity": 0.2038,
+        "popularity": 0.7229,
         "profile_path": "/vAaGU9Q7Ca6Fp8fWgJ3IRb4ErsK.jpg",
         "credit_id": "613ec6289450fe008ec4b5aa",
         "department": "Directing",
@@ -188,7 +188,7 @@
         "known_for_department": "Directing",
         "name": "Merlapaka Gandhi",
         "original_name": "Merlapaka Gandhi",
-        "popularity": 0.2038,
+        "popularity": 0.7229,
         "profile_path": "/vAaGU9Q7Ca6Fp8fWgJ3IRb4ErsK.jpg",
         "credit_id": "6144ebd31b70ae002b183118",
         "department": "Writing",
@@ -196,15 +196,18 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt3573040",
     "wikidata_id": "Q16346585",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -293,12 +296,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
   "release_dates": {
     "results": [
       {
@@ -315,5 +312,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ratham",
   "overview": "A father who treats his daughter and wife unjustly neglecting them by getting involved in issues which do not concern him. After a due course of time he lands up in jail and stays away from his family and native place for a very long time. He will come to know that his daughter is in love with a personality similar to his when he is out of the jail.",
-  "popularity": 0.1003,
+  "popularity": 0.5745,
   "poster_path": "/nNYrwPbbxzwpm1aKa0Xr9LJ3ySt.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt9889926",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +44,7 @@
         "known_for_department": "Acting",
         "name": "Geetanand",
         "original_name": "Geetanand",
-        "popularity": 0.0143,
+        "popularity": 0.3046,
         "profile_path": "/yXPYTrU3CfvHZMo98t4fskMJz12.jpg",
         "cast_id": 2,
         "character": "",
@@ -51,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Chandni Bhagwanani",
         "original_name": "Chandni Bhagwanani",
-        "popularity": 0,
+        "popularity": 0.2763,
         "profile_path": "/yGYbFmQDcTKLgRYwDV7pQ4N87jO.jpg",
         "cast_id": 1,
         "character": "",
@@ -61,35 +68,11 @@
     ],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": "tt9889926",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2018-10-26T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -119,5 +102,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2018-10-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

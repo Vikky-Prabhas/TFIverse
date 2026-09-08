@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Vikkatakavi - The Movie",
   "overview": "The king of Amaragiri calls upon the detective Ramakrishna to find the cause behind the villager's sudden memory loss. His search leads Rama to a web of political schemes and historical conspiracies.",
-  "popularity": 0.5066,
+  "popularity": 1.5392,
   "poster_path": "/nWZ7jJ9u9esSI5cCibnK1dlRrou.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,6 +41,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt39007657",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -50,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Megha Akash",
         "original_name": "Megha Akash",
-        "popularity": 0.5116,
+        "popularity": 2.6373,
         "profile_path": "/bo7mHzWxGJUYCju0odcd3KZTBFu.jpg",
         "cast_id": 1,
         "character": "",
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Tarak Ponnappa",
         "original_name": "Tarak Ponnappa",
-        "popularity": 0.3759,
+        "popularity": 1.0064,
         "profile_path": "/aDIglGyZgmTbrLbva0vtgy96K3X.jpg",
         "cast_id": 2,
         "character": "",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Teja Nannimala",
         "original_name": "Ravi Teja Nannimala",
-        "popularity": 0.1321,
+        "popularity": 1.096,
         "profile_path": "/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg",
         "cast_id": 3,
         "character": "",
@@ -87,39 +97,6 @@
       }
     ],
     "crew": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt39007657",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 16+",
-            "descriptors": [],
-            "iso_639_1": "ta",
-            "note": "",
-            "release_date": "2025-11-14T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -147,5 +124,28 @@
         "width": 720
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "ta",
+            "note": "",
+            "release_date": "2025-11-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

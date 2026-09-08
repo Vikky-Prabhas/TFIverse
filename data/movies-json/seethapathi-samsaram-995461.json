@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Seethapathi Samsaram",
   "overview": "",
-  "popularity": 0.1473,
+  "popularity": 1.2334,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -51,9 +51,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Prabha",
         "original_name": "Prabha",
-        "popularity": 0.0784,
+        "popularity": 0.7436,
         "profile_path": "/jtI1W48Jr8g8hHmrUEeCRAOQXv9.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Narasimha Raju",
         "original_name": "Narasimha Raju",
-        "popularity": 0.0956,
+        "popularity": 0.8201,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Madhavi",
         "original_name": "Madhavi",
-        "popularity": 0.3395,
+        "popularity": 1.4096,
         "profile_path": "/6ChxtchACMxgImDNB3KnGiymYqb.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,9 +122,9 @@
         "id": 2769936,
         "known_for_department": "Acting",
         "name": "Praveena Bhagyaraj",
-        "original_name": "Praveena Bhagyaraj",
-        "popularity": 0.2949,
-        "profile_path": null,
+        "original_name": "பிரவீணா பாக்கியராஜ்",
+        "popularity": 0.5181,
+        "profile_path": "/fpPXk7isi3UtJTRIHjrzvkdN6im.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "62c2030baf6e941e245514b0",
@@ -135,33 +135,30 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 933605,
-        "known_for_department": "Sound",
-        "name": "K. Chakravarthy",
-        "original_name": "Chakravarthy",
-        "popularity": 0.1741,
-        "profile_path": null,
-        "credit_id": "62c203a06a300b007c283617",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 3610775,
         "known_for_department": "Directing",
         "name": "M. S. Kota Reddy",
         "original_name": "M. S. Kota Reddy",
-        "popularity": 0,
+        "popularity": 0.2964,
         "profile_path": null,
         "credit_id": "62c2032263d713026bc79c30",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "62c203a06a300b007c283617",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt9788068",
@@ -169,18 +166,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Seetapati Samsaram",
-        "type": ""
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -203,5 +188,20 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Seetapati Samsaram",
+        "type": ""
+      }
+    ]
   }
 }

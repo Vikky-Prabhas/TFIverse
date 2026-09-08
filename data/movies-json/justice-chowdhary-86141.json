@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "జస్టస్ చౌదరి",
   "overview": "A court room drama where a blind lawyer attempts to free an innocent defendant.",
-  "popularity": 0.319,
+  "popularity": 1.6926,
   "poster_path": "/qakwvoQAQ2FASueugxH7NOzMbPL.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 2,
         "character": "Justice Chowdhary",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5226,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 3,
         "character": "Rekha",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Sharada",
         "original_name": "Sharada",
-        "popularity": 0.4022,
+        "popularity": 1.7033,
         "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
         "cast_id": 4,
         "character": "Radha",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Jayanthi",
         "original_name": "Jayanthi",
-        "popularity": 0.2966,
+        "popularity": 0.7744,
         "profile_path": "/oiJBjzu8sU6QCyYfrO91AXJEyhw.jpg",
         "cast_id": 5,
         "character": "Janaki",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 6,
         "character": "Janaki",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 7,
         "character": "Papa Rao / Ranga Rao",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 8,
         "character": "Tata Rao",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Nagesh",
         "original_name": "Nagesh",
-        "popularity": 1.3505,
+        "popularity": 2.7008,
         "profile_path": "/1oRsYn07HMjHeeyufK4lw8MDH8L.jpg",
         "cast_id": 9,
         "character": "Anthony",
@@ -171,7 +171,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "56d018e19251413e5f005338",
         "department": "Sound",
@@ -184,16 +184,13 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3837,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "56d018c8c3a3681e3c005f70",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0257824",
@@ -202,17 +199,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Justice Choudhari",
-        "type": ""
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -230,6 +218,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -255,6 +246,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 657
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Justice Choudhari",
+        "type": ""
       }
     ]
   }

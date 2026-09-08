@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1704463,
+  "imdb_id": "tt1579722",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "ఆలీబాబా అద్భుతదీపం",
+  "overview": "",
+  "popularity": 1.3323,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1995-07-14",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alibaba Adhbutha Deepam",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589654,
+        "known_for_department": "Acting",
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
+        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
+        "cast_id": 1,
+        "character": "Alibaba/and twin brother",
+        "credit_id": "6a19bee6b0d5625694328249",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591151,
+        "known_for_department": "Acting",
+        "name": "Gundu Hanumantha Rao",
+        "original_name": "Gundu Hanumantha Rao",
+        "popularity": 0.6514,
+        "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
+        "cast_id": 2,
+        "character": "Gundu",
+        "credit_id": "6a19beffcb66520c5cbab9f1",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1579722",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-07-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  }
+}

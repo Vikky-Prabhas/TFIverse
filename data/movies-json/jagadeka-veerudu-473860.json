@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "జగదేక వీరుడు",
   "overview": "",
-  "popularity": 0.1442,
+  "popularity": 1.2085,
   "poster_path": "/vI4FMAfr8iqVzrMQPH0NP4o7QrC.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.3989,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 2,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 3,
         "character": "",
@@ -80,8 +80,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "Sagar",
         "original_name": "Sagar",
-        "popularity": 0.0297,
+        "popularity": 0.5517,
         "profile_path": null,
         "credit_id": "62c1e106544c41007c7900f1",
         "department": "Directing",
@@ -105,8 +105,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt1579583",
@@ -115,8 +115,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -135,6 +135,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -150,8 +153,5 @@
         "width": 518
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

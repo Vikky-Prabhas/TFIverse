@@ -31,7 +31,7 @@
   "original_language": "te",
   "original_title": "ప్రేమకథ చిత్రం 2",
   "overview": "Her unrequited love for a college mate leads a young woman to take her own life. Things take a dark turn when her spirit returns to haunt those who had caused her heartbreak.",
-  "popularity": 0.1179,
+  "popularity": 2.1266,
   "poster_path": "/vfu7ITIKE6usdiq2b7gCjKXEg1r.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -50,8 +50,11 @@
   "tagline": "Back To Fear",
   "title": "Prema Katha Chitram 2",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 1,
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Nandita Swetha",
         "original_name": "Nandita Swetha",
-        "popularity": 0.2197,
+        "popularity": 0.8079,
         "profile_path": "/yIAQDfZAZrTXlRSvPeBHPnmpWpV.jpg",
         "cast_id": 1,
         "character": "Nandu",
@@ -75,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Sumanth Ashwin",
         "original_name": "Sumanth Ashwin",
-        "popularity": 0.294,
+        "popularity": 0.6441,
         "profile_path": "/kIFjobwqzSKWYAkwj7OcmKPP3b.jpg",
         "cast_id": 2,
         "character": "Sudheer",
@@ -89,8 +92,8 @@
         "known_for_department": "Acting",
         "name": "Siddhi Idnani",
         "original_name": "Siddhi Idnani",
-        "popularity": 0.2647,
-        "profile_path": "/ywLPEBJcRxkNtIQ9FwjzB59kAsJ.jpg",
+        "popularity": 0.7655,
+        "profile_path": "/o33B4YJHbHWsm5W6hhtldG3ErrD.jpg",
         "cast_id": 3,
         "character": "Bindu",
         "credit_id": "5ca6bef10e0a266cf73304d6",
@@ -103,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Teja",
         "original_name": "Krishna Teja",
-        "popularity": 0.1058,
+        "popularity": 0.5156,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -117,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas Sreenu",
         "original_name": "Prabhas Sreenu",
-        "popularity": 0.2807,
+        "popularity": 1.3484,
         "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
         "cast_id": 5,
         "character": "",
@@ -131,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Vidyullekha Raman",
         "original_name": "Vidyullekha Raman",
-        "popularity": 0.3658,
+        "popularity": 0.9545,
         "profile_path": "/shYIb0u7bGOrgxvXJxkZosCCmeW.jpg",
         "cast_id": 6,
         "character": "",
@@ -145,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "N. T. V. Sai",
         "original_name": "N. T. V. Sai",
-        "popularity": 0,
+        "popularity": 0.3816,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -159,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Apoorva Srinivasan",
         "original_name": "Apoorva Srinivasan",
-        "popularity": 0.0338,
+        "popularity": 0.2993,
         "profile_path": null,
         "cast_id": 19,
         "character": "Chitra",
@@ -173,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Manava Koteswara Rao",
         "original_name": "Manava Koteswara Rao",
-        "popularity": 0.2091,
+        "popularity": 0.4314,
         "profile_path": "/ecCtEZvA1gOqqFqE0olnoXNsp3N.jpg",
         "cast_id": 22,
         "character": "",
@@ -189,7 +192,7 @@
         "known_for_department": "Sound",
         "name": "Ramya Behra",
         "original_name": "Ramya Behra",
-        "popularity": 0.0798,
+        "popularity": 0.3162,
         "profile_path": null,
         "credit_id": "61721c895294e7002a362387",
         "department": "Sound",
@@ -202,7 +205,7 @@
         "known_for_department": "Crew",
         "name": "Eluru Srinu",
         "original_name": "Eluru Srinu",
-        "popularity": 0.1071,
+        "popularity": 0.3035,
         "profile_path": null,
         "credit_id": "619a31ff4f9a990067899be9",
         "department": "Crew",
@@ -215,7 +218,7 @@
         "known_for_department": "Directing",
         "name": "Hari Kishan",
         "original_name": "Hari Kishan",
-        "popularity": 0.0071,
+        "popularity": 0.2809,
         "profile_path": null,
         "credit_id": "5ca6c000c3a3681496aa7f68",
         "department": "Directing",
@@ -224,11 +227,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2281373,
+        "known_for_department": "Production",
+        "name": "R. Sudharshan Reddy",
+        "original_name": "R. Sudharshan Reddy",
+        "popularity": 0.2617,
+        "profile_path": null,
+        "credit_id": "5ca6c00f0e0a261f3b332183",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1494974,
         "known_for_department": "Writing",
         "name": "P. Chandrasekhar",
         "original_name": "P. Chandrasekhar",
-        "popularity": 0.0286,
+        "popularity": 0.6609,
         "profile_path": null,
         "credit_id": "5ca6c0280e0a267a7b330799",
         "department": "Writing",
@@ -237,63 +253,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2035077,
-        "known_for_department": "Writing",
-        "name": "Sirivennela Seetharama Sastry",
-        "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
-        "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
-        "credit_id": "5ca6c1399251412585dea5ce",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2281384,
-        "known_for_department": "Sound",
-        "name": "Satya Yamini",
-        "original_name": "Satya Yamini",
-        "popularity": 0.0888,
-        "profile_path": null,
-        "credit_id": "5ca6c1d69251412591dea2ea",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1998588,
-        "known_for_department": "Writing",
-        "name": "Kasarla Shyam",
-        "original_name": "Kasarla Shyam",
-        "popularity": 0.1601,
-        "profile_path": null,
-        "credit_id": "5ca6c11d925141258edea2d2",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2281373,
-        "known_for_department": "Production",
-        "name": "R. Sudharshan Reddy",
-        "original_name": "R. Sudharshan Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5ca6c00f0e0a261f3b332183",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1998660,
         "known_for_department": "Sound",
         "name": "Jeevan Babu",
         "original_name": "Jeevan Babu",
-        "popularity": 0.086,
+        "popularity": 0.316,
         "profile_path": null,
         "credit_id": "5ca6c03a925141258cdea57e",
         "department": "Sound",
@@ -306,7 +270,7 @@
         "known_for_department": "Camera",
         "name": "C. Ramprasad",
         "original_name": "C. Ramprasad",
-        "popularity": 0.1318,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "5ca6c0460e0a267a7b3307ae",
         "department": "Camera",
@@ -319,11 +283,50 @@
         "known_for_department": "Editing",
         "name": "S.B. Uddhav",
         "original_name": "S.B. Uddhav",
-        "popularity": 0.0839,
+        "popularity": 0.2985,
         "profile_path": null,
         "credit_id": "5ca6c10e0e0a266cf7330666",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998588,
+        "known_for_department": "Writing",
+        "name": "Kasarla Shyam",
+        "original_name": "Kasarla Shyam",
+        "popularity": 0.4009,
+        "profile_path": null,
+        "credit_id": "5ca6c11d925141258edea2d2",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035077,
+        "known_for_department": "Writing",
+        "name": "Sirivennela Seetharama Sastry",
+        "original_name": "Sirivennela Seetharama Sastry",
+        "popularity": 0.8118,
+        "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
+        "credit_id": "5ca6c1399251412585dea5ce",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2281384,
+        "known_for_department": "Sound",
+        "name": "Satya Yamini",
+        "original_name": "Satya Yamini",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "5ca6c1d69251412591dea2ea",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -332,16 +335,13 @@
         "known_for_department": "Sound",
         "name": "Rahul Sipligunj",
         "original_name": "Rahul Sipligunj",
-        "popularity": 0.2726,
+        "popularity": 0.4484,
         "profile_path": "/hbEDJZ46z3vAmKBMTycffSOaG9g.jpg",
         "credit_id": "5ca6c1e80e0a261f3e331cc0",
         "department": "Sound",
         "job": "Playback Singer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt9680092",
@@ -352,6 +352,15 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Premakathachitram 2",
+        "type": ""
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -474,15 +483,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Premakathachitram 2",
-        "type": ""
       }
     ]
   }

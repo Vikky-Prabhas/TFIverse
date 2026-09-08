@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కాంబాట్",
   "overview": "\"KOMBAT\" is a mini conceptual action film, produced by Aaron Films, directed by Harsha Relangi and original score by Charak.",
-  "popularity": 0.0521,
+  "popularity": 0.431,
   "poster_path": "/hSeb9Fmqu9hzHmoqqiSeP8sk3I9.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,8 +56,8 @@
         "known_for_department": "Directing",
         "name": "Sathwik Mallela",
         "original_name": "Sathwik Mallela",
-        "popularity": 0.0143,
-        "profile_path": "/crmMMyLCo8T6ewvn99qYaRkzbd9.jpg",
+        "popularity": 0.2844,
+        "profile_path": "/1uyTZUG2DoBhXP2HroObin5LrZ3.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "66bb173ed967ccbd7c1af6bb",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Sriram Jallepalli",
         "original_name": "Sriram Jallepalli",
-        "popularity": 0,
+        "popularity": 0.3034,
         "profile_path": "/jSXbMgwL40TY1WodOqvoHsIs4TE.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Abhiram Reddy",
         "original_name": "Abhiram Reddy",
-        "popularity": 0,
+        "popularity": 0.2858,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Koka Manikanta",
         "original_name": "Koka Manikanta",
-        "popularity": 0,
+        "popularity": 0.2858,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -109,8 +112,8 @@
         "known_for_department": "Acting",
         "name": "Parakala Koushal",
         "original_name": "Parakala Koushal",
-        "popularity": 0,
-        "profile_path": null,
+        "popularity": 0.2856,
+        "profile_path": "/nYAed24OTTVomiqaNHhrXukFJIp.jpg",
         "cast_id": 12,
         "character": "",
         "credit_id": "66bb19e1a265c47d1d3f0ff8",
@@ -123,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "M Phanindra",
         "original_name": "M Phanindra",
-        "popularity": 0.0071,
+        "popularity": 0.2792,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -139,33 +142,7 @@
         "known_for_department": "Directing",
         "name": "Harsha Relangi",
         "original_name": "Harsha Relangi",
-        "popularity": 0.0071,
-        "profile_path": "/6CJmuG5bQWlDUW0pOj01dT2GQea.jpg",
-        "credit_id": "66bb18714a812e8357d791cc",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4882774,
-        "known_for_department": "Sound",
-        "name": "Charak",
-        "original_name": "Charak",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "66bb189b19b2bcf3f9a5c591",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4882773,
-        "known_for_department": "Directing",
-        "name": "Harsha Relangi",
-        "original_name": "Harsha Relangi",
-        "popularity": 0.0071,
+        "popularity": 0.2831,
         "profile_path": "/6CJmuG5bQWlDUW0pOj01dT2GQea.jpg",
         "credit_id": "66bb184c7016621fb073002b",
         "department": "Directing",
@@ -178,7 +155,20 @@
         "known_for_department": "Directing",
         "name": "Harsha Relangi",
         "original_name": "Harsha Relangi",
-        "popularity": 0.0071,
+        "popularity": 0.2831,
+        "profile_path": "/6CJmuG5bQWlDUW0pOj01dT2GQea.jpg",
+        "credit_id": "66bb18714a812e8357d791cc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4882773,
+        "known_for_department": "Directing",
+        "name": "Harsha Relangi",
+        "original_name": "Harsha Relangi",
+        "popularity": 0.2831,
         "profile_path": "/6CJmuG5bQWlDUW0pOj01dT2GQea.jpg",
         "credit_id": "66bb188786d96922c8a5c79b",
         "department": "Crew",
@@ -187,11 +177,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4882774,
+        "known_for_department": "Sound",
+        "name": "Charak Madha",
+        "original_name": "Charak Madha",
+        "popularity": 0.2969,
+        "profile_path": "/u4tF4OQCsuAb7VQWQH3BSA7U3vc.jpg",
+        "credit_id": "66bb189b19b2bcf3f9a5c591",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4882775,
         "known_for_department": "Editing",
         "name": "Bharath Gempala",
         "original_name": "Bharath Gempala",
-        "popularity": 0.0071,
+        "popularity": 0.2792,
         "profile_path": null,
         "credit_id": "66bb18bcabccf76c2aaafca3",
         "department": "Editing",
@@ -204,7 +207,7 @@
         "known_for_department": "Production",
         "name": "Sumaiya Ahshan",
         "original_name": "Sumaiya Ahshan",
-        "popularity": 0,
+        "popularity": 0.2834,
         "profile_path": null,
         "credit_id": "66bb19899c2e19b0d81af8a5",
         "department": "Production",
@@ -217,16 +220,13 @@
         "known_for_department": "Directing",
         "name": "Harsha Relangi",
         "original_name": "Harsha Relangi",
-        "popularity": 0.0071,
+        "popularity": 0.2831,
         "profile_path": "/6CJmuG5bQWlDUW0pOj01dT2GQea.jpg",
         "credit_id": "66bb19aed279ab0e773f1402",
         "department": "Production",
         "job": "Publicist"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -238,21 +238,8 @@
   "keywords": {
     "keywords": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/hSeb9Fmqu9hzHmoqqiSeP8sk3I9.jpg",
-        "vote_average": 0.166,
-        "vote_count": 1,
-        "width": 2000
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -271,7 +258,20 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hSeb9Fmqu9hzHmoqqiSeP8sk3I9.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
   }
 }

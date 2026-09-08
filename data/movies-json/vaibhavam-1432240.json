@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "వైభవం",
   "overview": "Vaibhav, a righteous young man with entrepreneurial dreams, finds himself entwined in a profound mosaic of love, family, and friendships.",
-  "popularity": 0.1147,
+  "popularity": 0.5585,
   "poster_path": "/a6t7bvKvxu8ceXygVWyvyVhVIVD.jpg",
   "production_companies": [
     {
@@ -50,6 +50,92 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5238485,
+        "known_for_department": "Acting",
+        "name": "Ruthvik",
+        "original_name": "Ruthvik",
+        "popularity": 0.3045,
+        "profile_path": "/6g13l99EstnVIRKZkwyFAihssiz.jpg",
+        "cast_id": 1,
+        "character": "Vaibhav",
+        "credit_id": "67aa1bed1ca858ae11061f33",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5241117,
+        "known_for_department": "Acting",
+        "name": "Iqra Idrisi",
+        "original_name": "Iqra Idrisi",
+        "popularity": 0.2069,
+        "profile_path": "/mWEBhEqq9eWmd9mLbzdxXkpSMvF.jpg",
+        "cast_id": 6,
+        "character": "Aarthi",
+        "credit_id": "67aba7f67f2fa9eb79bb2bd1",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5238487,
+        "known_for_department": "Directing",
+        "name": "Sathvik",
+        "original_name": "Sathvik",
+        "popularity": 0.2752,
+        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
+        "credit_id": "67aa1c04f54bc6c5ba0f80aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5238487,
+        "known_for_department": "Directing",
+        "name": "Sathvik",
+        "original_name": "Sathvik",
+        "popularity": 0.2752,
+        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
+        "credit_id": "67aa2c1cd12793743f938d33",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5238485,
+        "known_for_department": "Acting",
+        "name": "Ruthvik",
+        "original_name": "Ruthvik",
+        "popularity": 0.3045,
+        "profile_path": "/6g13l99EstnVIRKZkwyFAihssiz.jpg",
+        "credit_id": "67aa2c326ca81546040f82b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5238487,
+        "known_for_department": "Directing",
+        "name": "Sathvik",
+        "original_name": "Sathvik",
+        "popularity": 0.2752,
+        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
+        "credit_id": "67aa2c3fd15e4f3d94937b45",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
   "videos": {
     "results": [
       {
@@ -82,6 +168,16 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt35683270",
+    "wikidata_id": "Q134547832",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": [
       {
@@ -109,102 +205,6 @@
             "type": 2
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt35683270",
-    "wikidata_id": "Q134547832",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5238485,
-        "known_for_department": "Acting",
-        "name": "Ruthvik",
-        "original_name": "Ruthvik",
-        "popularity": 0.0214,
-        "profile_path": "/6g13l99EstnVIRKZkwyFAihssiz.jpg",
-        "cast_id": 1,
-        "character": "Vaibhav",
-        "credit_id": "67aa1bed1ca858ae11061f33",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5241117,
-        "known_for_department": "Acting",
-        "name": "Iqra Idrisi",
-        "original_name": "Iqra Idrisi",
-        "popularity": 0.0071,
-        "profile_path": "/mWEBhEqq9eWmd9mLbzdxXkpSMvF.jpg",
-        "cast_id": 6,
-        "character": "Aarthi",
-        "credit_id": "67aba7f67f2fa9eb79bb2bd1",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5238487,
-        "known_for_department": "Directing",
-        "name": "Sathvik",
-        "original_name": "Sathvik",
-        "popularity": 0.044,
-        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
-        "credit_id": "67aa1c04f54bc6c5ba0f80aa",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5238487,
-        "known_for_department": "Directing",
-        "name": "Sathvik",
-        "original_name": "Sathvik",
-        "popularity": 0.044,
-        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
-        "credit_id": "67aa2c1cd12793743f938d33",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5238485,
-        "known_for_department": "Acting",
-        "name": "Ruthvik",
-        "original_name": "Ruthvik",
-        "popularity": 0.0214,
-        "profile_path": "/6g13l99EstnVIRKZkwyFAihssiz.jpg",
-        "credit_id": "67aa2c326ca81546040f82b3",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5238487,
-        "known_for_department": "Directing",
-        "name": "Sathvik",
-        "original_name": "Sathvik",
-        "popularity": 0.044,
-        "profile_path": "/bJLq4qpcqd6RSp8AdhMCvEOH3Fl.jpg",
-        "credit_id": "67aa2c3fd15e4f3d94937b45",
-        "department": "Production",
-        "job": "Producer"
       }
     ]
   },

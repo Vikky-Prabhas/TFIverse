@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Charusheela",
   "overview": "Verendranath is the author of the famous novel Charusheela. His fan, Jyotsna, finds her life story similar to that of the book but things take a turn when the author meets with an accident.",
-  "popularity": 0.4393,
+  "popularity": 1.663,
   "poster_path": "/1cQ1Ckzm0MtjYDA3WiIoaZZoddr.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Rashmi Gautham",
         "original_name": "Rashmi Gautham",
-        "popularity": 0.3624,
+        "popularity": 0.8132,
         "profile_path": "/novS7imC1HXjXiazaBI3jrrLNLx.jpg",
         "cast_id": 1,
         "character": "Jyostna",
@@ -60,9 +60,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 7,
         "character": "Yerlagadda Verendranath",
@@ -75,8 +75,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 0,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Raja Goutham",
         "original_name": "Raja Goutham",
-        "popularity": 0.1788,
+        "popularity": 0.7229,
         "profile_path": "/nBhK8R7GUG8HdINuR2WDrmffeGk.jpg",
         "cast_id": 2,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 8,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Getup Srinu",
         "original_name": "Getup Srinu",
-        "popularity": 0.261,
+        "popularity": 1.535,
         "profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
         "cast_id": 3,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Rocket Raghava",
         "original_name": "Rocket Raghava",
-        "popularity": 0.2066,
+        "popularity": 0.598,
         "profile_path": "/bMaXnip45ftfWITveT1aeNr1OjE.jpg",
         "cast_id": 4,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Reddy Vuyyuru",
         "original_name": "Srinivas Reddy Vuyyuru",
-        "popularity": 0.0535,
+        "popularity": 0.6193,
         "profile_path": null,
         "credit_id": "65c48d6d0c27100163778eda",
         "department": "Writing",
@@ -161,7 +161,7 @@
         "known_for_department": "Writing",
         "name": "Stephen King",
         "original_name": "Stephen King",
-        "popularity": 2.1236,
+        "popularity": 4.1024,
         "profile_path": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
         "credit_id": "65c48c440c4c16018502f2fa",
         "department": "Writing",
@@ -174,7 +174,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Reddy Vuyyuru",
         "original_name": "Srinivas Reddy Vuyyuru",
-        "popularity": 0.0535,
+        "popularity": 0.6193,
         "profile_path": null,
         "credit_id": "5c0ce2a6c3a36825180a2c04",
         "department": "Directing",
@@ -204,6 +204,26 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2016-09-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -242,27 +262,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2016-09-16T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "భోగి",
   "overview": "",
-  "popularity": 0.4027,
+  "popularity": 0.7591,
   "poster_path": "/iZohKbCpE79UcpfaieWzyk5Uu08.jpg",
   "production_companies": [
     {
@@ -38,7 +38,7 @@
       "name": "India"
     }
   ],
-  "release_date": "2026-08-28",
+  "release_date": "2026-11-30",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -63,11 +63,11 @@
         "id": 588007,
         "known_for_department": "Acting",
         "name": "Sharwanand",
-        "original_name": "Sharwanand",
-        "popularity": 1.023,
+        "original_name": "శర్వానంద్",
+        "popularity": 1.9284,
         "profile_path": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Ganga",
         "credit_id": "67d8f859ab259e03a7c69fc0",
         "order": 0
       },
@@ -78,8 +78,8 @@
         "known_for_department": "Acting",
         "name": "Anupama Parameswaran",
         "original_name": "Anupama Parameswaran",
-        "popularity": 0.975,
-        "profile_path": "/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg",
+        "popularity": 2.6419,
+        "profile_path": "/k5rCSAtRv8LbKWX65clkPDN66aj.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "67d8f864c5339eabc636526d",
@@ -92,10 +92,10 @@
         "known_for_department": "Acting",
         "name": "Dimple Hayathi",
         "original_name": "Dimple Hayathi",
-        "popularity": 0.5737,
-        "profile_path": "/6vreBkqWxRX5zaJSY2GKBPTFxES.jpg",
+        "popularity": 1.1719,
+        "profile_path": "/nJi5MT8JMdcNiwqKyRMkjyaDIb0.jpg",
         "cast_id": 5,
-        "character": "",
+        "character": "Mandaram",
         "credit_id": "67df657cf6a0fcbd004d86c4",
         "order": 2
       },
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Rohit Pathak",
         "original_name": "Rohit Pathak",
-        "popularity": 0.0793,
+        "popularity": 1.4912,
         "profile_path": "/j2tcAbQxjtErT6gtnWgmh2VQdUt.jpg",
         "cast_id": 14,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Writing",
         "name": "Sampath Nandi",
         "original_name": "Sampath Nandi",
-        "popularity": 0.266,
+        "popularity": 1.05,
         "profile_path": null,
         "credit_id": "67d8f8895f58e32f7e0883a8",
         "department": "Directing",
@@ -135,7 +135,7 @@
         "known_for_department": "Writing",
         "name": "Sampath Nandi",
         "original_name": "Sampath Nandi",
-        "popularity": 0.266,
+        "popularity": 1.05,
         "profile_path": null,
         "credit_id": "68de1af8df3914de19fd20bb",
         "department": "Writing",
@@ -148,7 +148,7 @@
         "known_for_department": "Production",
         "name": "K.K. Radha Mohan",
         "original_name": "K.K. Radha Mohan",
-        "popularity": 0.1176,
+        "popularity": 0.3217,
         "profile_path": null,
         "credit_id": "68de1b118ea7d65b4af73eba",
         "department": "Production",
@@ -161,7 +161,7 @@
         "known_for_department": "Crew",
         "name": "Lakshmi Radhamohan",
         "original_name": "Lakshmi Radhamohan",
-        "popularity": 0,
+        "popularity": 0.2227,
         "profile_path": null,
         "credit_id": "68de1b6989d6a8eecb6a7794",
         "department": "Crew",
@@ -174,7 +174,7 @@
         "known_for_department": "Art",
         "name": "Kiran Kumar Manne",
         "original_name": "Kiran Kumar Manne",
-        "popularity": 0.0565,
+        "popularity": 0.3294,
         "profile_path": null,
         "credit_id": "68de1b7918f5d26654405bdd",
         "department": "Art",
@@ -187,7 +187,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.332,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "68de1b8c18f5d26654405be0",
         "department": "Crew",
@@ -200,7 +200,7 @@
         "known_for_department": "Production",
         "name": "Ramesh Kothapalli",
         "original_name": "Ramesh Kothapalli",
-        "popularity": 0,
+        "popularity": 0.2798,
         "profile_path": null,
         "credit_id": "68de1ba7a43f55e0f06d4f40",
         "department": "Production",
@@ -213,7 +213,7 @@
         "known_for_department": "Camera",
         "name": "A. Kishore Kumar",
         "original_name": "A. Kishore Kumar",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "68de1be13be254572b991873",
         "department": "Camera",
@@ -226,7 +226,7 @@
         "known_for_department": "Sound",
         "name": "Bheems Ceciroleo",
         "original_name": "Bheems Ceciroleo",
-        "popularity": 0.2448,
+        "popularity": 0.4598,
         "profile_path": "/7hvcYmXPX2AvMf8k8xWhNdn9qZe.jpg",
         "credit_id": "699e81319167271624efe728",
         "department": "Sound",
@@ -239,7 +239,7 @@
         "known_for_department": "Crew",
         "name": "Dhilip Subbarayan",
         "original_name": "Dhilip Subbarayan",
-        "popularity": 0.4499,
+        "popularity": 0.5036,
         "profile_path": "/e3d1D4gaGAiopxtIRzktQhEUkik.jpg",
         "credit_id": "699e8241899248a03d04d1ad",
         "department": "Crew",
@@ -252,7 +252,7 @@
         "known_for_department": "Editing",
         "name": "Bikkina Thammiraju",
         "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2835,
+        "popularity": 0.4287,
         "profile_path": null,
         "credit_id": "699e8273a823a06700e9369f",
         "department": "Editing",
@@ -265,7 +265,7 @@
         "known_for_department": "Writing",
         "name": "Chandrabose",
         "original_name": "Chandrabose",
-        "popularity": 0.1385,
+        "popularity": 1.0259,
         "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
         "credit_id": "699e828019b219df48f5c394",
         "department": "Writing",
@@ -278,7 +278,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Ayesha Mariam",
         "original_name": "Ayesha Mariam",
-        "popularity": 0.1113,
+        "popularity": 0.301,
         "profile_path": "/nc0xGmNyh52TB8vSO0RM3J4s4kt.jpg",
         "credit_id": "699e82b40eaa3a864af1fc85",
         "department": "Costume & Make-Up",
@@ -289,22 +289,15 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-08-28T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33056753",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -322,17 +315,24 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt33056753",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-11-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

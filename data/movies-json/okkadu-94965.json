@@ -5,16 +5,16 @@
   "budget": 0,
   "genres": [
     {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
       "id": 28,
       "name": "Action"
     },
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
     }
   ],
   "homepage": "",
@@ -26,8 +26,8 @@
   "original_language": "te",
   "original_title": "ఒక్కడు",
   "overview": "Ajay, a fiery Kabaddi player from Hyderabad, visits Kurnool for a tournament and rescues Swapna from a faction leader Obul Reddy, who wants to force her into marriage. He secretly hides her in his home and assists her in planning her escape abroad for her higher studies. But, fate has other plans.",
-  "popularity": 1.2071,
-  "poster_path": "/anRD9xypdejFlbp0f3eQrSDUtbi.jpg",
+  "popularity": 2.8359,
+  "poster_path": "/nVBa5QWSPrVzFyHK2XWrsruQzyl.jpg",
   "production_companies": [
     {
       "id": 14147,
@@ -57,8 +57,8 @@
   "tagline": "",
   "title": "Okkadu",
   "video": false,
-  "vote_average": 7.682,
-  "vote_count": 44,
+  "vote_average": 7.755,
+  "vote_count": 49,
   "credits": {
     "cast": [
       {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Babu",
         "original_name": "Mahesh Babu",
-        "popularity": 3.8257,
+        "popularity": 2.406,
         "profile_path": "/fcxgYi1h6vywacUg8asM6S0IIhf.jpg",
         "cast_id": 1,
         "character": "Ajay Varma",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Bhumika Chawla",
         "original_name": "Bhumika Chawla",
-        "popularity": 1.1729,
+        "popularity": 2.2098,
         "profile_path": "/bHYS02elIbafREPXW77aTWgN58f.jpg",
         "cast_id": 4,
         "character": "Swapna",
@@ -95,8 +95,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 3,
         "character": "Obul Reddy",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 5,
         "character": "DCP Vijay Varma",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.839,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 6,
         "character": "Vasundhara",
@@ -136,9 +136,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 7,
         "character": "Dasaratharama Reddy",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.7675,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 8,
         "character": "Kumar",
@@ -166,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.5024,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 9,
         "character": "Subramanyam",
@@ -180,7 +180,7 @@
         "known_for_department": "Acting",
         "name": "Rajan P Dev",
         "original_name": "Rajan P Dev",
-        "popularity": 0.6148,
+        "popularity": 3.6482,
         "profile_path": "/AnxJVFT3LnEOMzNhnR90zzASWVW.jpg",
         "cast_id": 10,
         "character": "Siva Reddy",
@@ -194,7 +194,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 11,
         "character": "Priest",
@@ -208,7 +208,7 @@
         "known_for_department": "Acting",
         "name": "Telangana Shakuntala",
         "original_name": "Telangana Sakuntala",
-        "popularity": 0.402,
+        "popularity": 1.5871,
         "profile_path": "/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg",
         "cast_id": 19,
         "character": "Obul Reddy's Mother",
@@ -224,7 +224,7 @@
         "known_for_department": "Directing",
         "name": "Gunasekhar",
         "original_name": "Gunasekhar",
-        "popularity": 0.3787,
+        "popularity": 1.6189,
         "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
         "credit_id": "52fe49719251416c750c8217",
         "department": "Directing",
@@ -237,7 +237,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "credit_id": "627bdcb23af92900a5ed93d8",
         "department": "Writing",
@@ -250,37 +250,11 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.4135,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "627bdcc63af9290065a348f2",
         "department": "Writing",
         "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 237984,
-        "known_for_department": "Production",
-        "name": "M. S. Raju",
-        "original_name": "M. S. Raju",
-        "popularity": 0.3215,
-        "profile_path": null,
-        "credit_id": "5f959c839f51af0034032868",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 932644,
-        "known_for_department": "Directing",
-        "name": "Gunasekhar",
-        "original_name": "Gunasekhar",
-        "popularity": 0.3787,
-        "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
-        "credit_id": "5f959caf52dc7f005f750e6d",
-        "department": "Writing",
-        "job": "Writer"
       },
       {
         "adult": false,
@@ -289,7 +263,7 @@
         "known_for_department": "Editing",
         "name": "Sreekar Prasad",
         "original_name": "Sreekar Prasad",
-        "popularity": 0.3076,
+        "popularity": 0.508,
         "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
         "credit_id": "5f959cddafe2240052c8f533",
         "department": "Editing",
@@ -298,11 +272,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 932644,
+        "known_for_department": "Directing",
+        "name": "Gunasekhar",
+        "original_name": "Gunasekhar",
+        "popularity": 1.6189,
+        "profile_path": "/jTu6CjRyuwG2AKUpnWgtM8eqNr.jpg",
+        "credit_id": "5f959caf52dc7f005f750e6d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 237984,
+        "known_for_department": "Production",
+        "name": "M. S. Raju",
+        "original_name": "M. S. Raju",
+        "popularity": 0.5932,
+        "profile_path": null,
+        "credit_id": "5f959c839f51af0034032868",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 225317,
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.2979,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "6928290277cc5b71672459b9",
         "department": "Sound",
@@ -315,7 +315,7 @@
         "known_for_department": "Camera",
         "name": "Sekhar V. Joseph",
         "original_name": "Sekhar V. Joseph",
-        "popularity": 0.2237,
+        "popularity": 0.3924,
         "profile_path": null,
         "credit_id": "6928291b77cc5b71672459bd",
         "department": "Camera",
@@ -328,7 +328,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.2193,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "6928293eeedb15746e26c30f",
         "department": "Writing",
@@ -341,7 +341,7 @@
         "known_for_department": "Sound",
         "name": "Shankar Mahadevan",
         "original_name": "Shankar Mahadevan",
-        "popularity": 0.2451,
+        "popularity": 0.4942,
         "profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
         "credit_id": "6928294953eef8debf245819",
         "department": "Sound",
@@ -354,8 +354,8 @@
         "known_for_department": "Sound",
         "name": "Shreya Ghoshal",
         "original_name": "Shreya Ghoshal",
-        "popularity": 0.5357,
-        "profile_path": "/4oFjcu7J2jQ6HuNQRzEu685eTyf.jpg",
+        "popularity": 0.8651,
+        "profile_path": "/rTmgSXriOmd6TyQVFXvf3DctYXQ.jpg",
         "credit_id": "692829549cc4c421d92459b6",
         "department": "Sound",
         "job": "Playback Singer"
@@ -367,7 +367,7 @@
         "known_for_department": "Sound",
         "name": "Udit Narayan",
         "original_name": "Udit Narayan",
-        "popularity": 0.2383,
+        "popularity": 0.6547,
         "profile_path": "/2LYPkxyTqlIluiKzYnDMgM5o1Wq.jpg",
         "credit_id": "6928295fe0c4caff91a75d14",
         "department": "Sound",
@@ -380,7 +380,7 @@
         "known_for_department": "Sound",
         "name": "Sujatha Mohan",
         "original_name": "Sujatha Mohan",
-        "popularity": 0.1492,
+        "popularity": 0.4632,
         "profile_path": "/egV4HFjYvsTfcdzlQzVPDgdkuDc.jpg",
         "credit_id": "6928296ca298fb991b30d3c6",
         "department": "Sound",
@@ -393,7 +393,7 @@
         "known_for_department": "Sound",
         "name": "K. S. Chithra",
         "original_name": "K. S. Chithra",
-        "popularity": 0.1253,
+        "popularity": 0.413,
         "profile_path": "/qutkAK4SPBY07n0cBSlS0PuVVNd.jpg",
         "credit_id": "69282976d40012ae11d9cf50",
         "department": "Sound",
@@ -405,8 +405,8 @@
         "id": 2067890,
         "known_for_department": "Sound",
         "name": "Karthik",
-        "original_name": "Karthik",
-        "popularity": 0.1945,
+        "original_name": "கார்த்திக்",
+        "popularity": 0.7145,
         "profile_path": "/52p4kSTUZuw4KqV8pqu5Qr7IKnt.jpg",
         "credit_id": "692829b9e587e7c06a30d0f2",
         "department": "Sound",
@@ -419,7 +419,7 @@
         "known_for_department": "Sound",
         "name": "Hariharan",
         "original_name": "Hariharan",
-        "popularity": 0.0799,
+        "popularity": 0.4864,
         "profile_path": "/uuIitARpqW9tQyeN9YdS1SQ8cww.jpg",
         "credit_id": "692829c6e587e7c06a30d0f5",
         "department": "Sound",
@@ -432,7 +432,7 @@
         "known_for_department": "Art",
         "name": "Ashok Kumar",
         "original_name": "Ashok Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.2704,
         "profile_path": null,
         "credit_id": "692829e5cb3a5c6c26248e6b",
         "department": "Art",
@@ -445,7 +445,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Asmita Marwah",
         "original_name": "Asmita Marwah",
-        "popularity": 0.083,
+        "popularity": 0.2642,
         "profile_path": null,
         "credit_id": "69282a04976816fb2c26bdfb",
         "department": "Costume & Make-Up",
@@ -458,7 +458,7 @@
         "known_for_department": "Visual Effects",
         "name": "Stalin Saravanan",
         "original_name": "Stalin Saravanan",
-        "popularity": 0.1509,
+        "popularity": 0.3455,
         "profile_path": null,
         "credit_id": "69282a2f9ec244520837184b",
         "department": "Visual Effects",
@@ -471,8 +471,8 @@
         "known_for_department": "Acting",
         "name": "Raghava Lawrence",
         "original_name": "Raghava Lawrence",
-        "popularity": 6.7921,
-        "profile_path": "/eEY77s1tI9U4b3UCH7T3AZ4EI5K.jpg",
+        "popularity": 2.8323,
+        "profile_path": "/vFeHxXlJsqEH2NOTRqiFZ0VRZen.jpg",
         "credit_id": "69282a5f2f34c8a5d3a75a3b",
         "department": "Crew",
         "job": "Choreographer"
@@ -484,7 +484,7 @@
         "known_for_department": "Sound",
         "name": "Madhusudhan Reddy",
         "original_name": "Madhusudhan Reddy",
-        "popularity": 0.1658,
+        "popularity": 0.29,
         "profile_path": null,
         "credit_id": "69282ef5cb2c58a363c1248c",
         "department": "Sound",
@@ -494,13 +494,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0366840",
-    "wikidata_id": "Q3524809",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -574,6 +567,13 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt0366840",
+    "wikidata_id": "Q3524809",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "release_dates": {
     "results": [
       {
@@ -621,6 +621,16 @@
         "vote_average": 3.334,
         "vote_count": 2,
         "width": 1424
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cqy03YD4fH3lI4uqUzxcvKUv3Nv.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
       },
       {
         "aspect_ratio": 1.778,
@@ -731,6 +741,16 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1424
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bNj6x5j7AjkKk0TC8CaPn1zVwcs.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
       }
     ],
     "logos": [
@@ -746,6 +766,16 @@
       }
     ],
     "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 800,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/nVBa5QWSPrVzFyHK2XWrsruQzyl.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 533
+      },
       {
         "aspect_ratio": 0.667,
         "height": 1110,
@@ -825,16 +855,6 @@
         "vote_average": 1.31,
         "vote_count": 7,
         "width": 1310
-      },
-      {
-        "aspect_ratio": 0.666,
-        "height": 800,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/nVBa5QWSPrVzFyHK2XWrsruQzyl.jpg",
-        "vote_average": 1.222,
-        "vote_count": 3,
-        "width": 533
       },
       {
         "aspect_ratio": 0.663,

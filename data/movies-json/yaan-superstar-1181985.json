@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Yaan Superstar",
   "overview": "A struggling Padhubidri actor's life is upended by the arrival of a Bangalore superstar.",
-  "popularity": 0.1793,
+  "popularity": 1.5947,
   "poster_path": "/9lA7MYGtxYpjpYr9kXNn0P5WIA6.jpg",
   "production_companies": [
     {
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Dayanand Shetty",
         "original_name": "Dayanand Shetty",
-        "popularity": 0.3523,
+        "popularity": 0.4195,
         "profile_path": "/3wVmr5BpnoQdb5D2adV7be4SB5l.jpg",
         "cast_id": 7,
         "character": "Balakrishna Jr.",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Sal Ballal",
         "original_name": "Sal Ballal",
-        "popularity": 0.0143,
+        "popularity": 0.3526,
         "profile_path": null,
         "cast_id": 8,
         "character": "Shankar Rai",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Naveen D. Padil",
         "original_name": "Naveen D. Padil",
-        "popularity": 0.1013,
+        "popularity": 0.4389,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Bhojraj Vamanjoor",
         "original_name": "Bhojraj Vamanjoor",
-        "popularity": 0.0071,
+        "popularity": 0.6513,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -136,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Harish Vasu Shetty",
         "original_name": "Harish Vasu Shetty",
-        "popularity": 0.0214,
+        "popularity": 0.371,
         "profile_path": "/582nDf42Iuwkvv2xAoCN22sadjl.jpg",
         "cast_id": 12,
         "character": "Virenda Padubidri",
@@ -150,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Ansha Sayed",
         "original_name": "Ansha Sayed",
-        "popularity": 0.2801,
+        "popularity": 0.7662,
         "profile_path": "/yJJ7fB2Mr2vQujTVoojC1Y5DUsY.jpg",
         "cast_id": 14,
         "character": "Ananya",
@@ -166,7 +166,7 @@
         "known_for_department": "Directing",
         "name": "Santosh Shetty",
         "original_name": "Santosh Shetty",
-        "popularity": 0.0621,
+        "popularity": 0.5157,
         "profile_path": null,
         "credit_id": "650d675144ea5400ad7a0651",
         "department": "Directing",
@@ -175,26 +175,26 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2889280,
-        "known_for_department": "Directing",
-        "name": "Santosh Shetty",
-        "original_name": "Santosh Shetty",
-        "popularity": 0.0621,
+        "id": 4284720,
+        "known_for_department": "Crew",
+        "name": "Krishnaraj Kotian",
+        "original_name": "Krishnaraj Kotian",
+        "popularity": 0.2921,
         "profile_path": null,
-        "credit_id": "650d6762b5bc21012cca720e",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "650d67963d7454011b765fbe",
+        "department": "Crew",
+        "job": "Cinematography"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4284719,
-        "known_for_department": "Writing",
-        "name": "Ankana Joshi",
-        "original_name": "Ankana Joshi",
-        "popularity": 0.0071,
+        "id": 2889280,
+        "known_for_department": "Directing",
+        "name": "Santosh Shetty",
+        "original_name": "Santosh Shetty",
+        "popularity": 0.5157,
         "profile_path": null,
-        "credit_id": "650d6775f92532010bb0310b",
+        "credit_id": "650d6762b5bc21012cca720e",
         "department": "Writing",
         "job": "Writer"
       },
@@ -205,7 +205,7 @@
         "known_for_department": "Sound",
         "name": "Sanjay Wandrekar",
         "original_name": "Sanjay Wandrekar",
-        "popularity": 0.1532,
+        "popularity": 0.3486,
         "profile_path": null,
         "credit_id": "650d6787d34eb3011dcba5bd",
         "department": "Sound",
@@ -214,24 +214,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4284720,
-        "known_for_department": "Crew",
-        "name": "Krishnaraj Kotian",
-        "original_name": "Krishnaraj Kotian",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "650d67963d7454011b765fbe",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3946112,
         "known_for_department": "Editing",
         "name": "Rakesh Solanki",
         "original_name": "Rakesh Solanki",
-        "popularity": 0.0143,
+        "popularity": 0.2727,
         "profile_path": null,
         "credit_id": "650d67a6b5bc2100eacb4794",
         "department": "Editing",
@@ -240,11 +227,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4284719,
+        "known_for_department": "Writing",
+        "name": "Ankana Joshi",
+        "original_name": "Ankana Joshi",
+        "popularity": 0.3503,
+        "profile_path": null,
+        "credit_id": "650d6775f92532010bb0310b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1293669,
         "known_for_department": "Sound",
         "name": "V. Manohar",
         "original_name": "V. Manohar",
-        "popularity": 0.087,
+        "popularity": 0.5005,
         "profile_path": null,
         "credit_id": "650d684d2c6b7b00e1231b63",
         "department": "Sound",
@@ -275,6 +275,23 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-09-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -293,22 +310,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-09-22T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

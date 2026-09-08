@@ -21,16 +21,22 @@
   ],
   "original_language": "te",
   "original_title": "Lanka",
-  "overview": "Swathi(Ina Saaha) is a Malayalam superstar who comes down to Hyderabad for her personal work. Right when the time comes for her to get back, she decides to act in a short film. The proceedings move to a guest house which is owned by Rebecca(Raasi). Things become quite tough for Swathi as Rebecca starts troubling her throughout the shoot with telepathy. The twist in the tale arises when Swati goes missing from action and the cops automatically nab Rebecca. Why did Rebecca trouble Swathi? What is the whole telepathy connection? To know answers to these questions, you need to watch the film on the big screen.",
-  "popularity": 0.2559,
-  "poster_path": "/MVrR9kdEijHFYzErWaD0FVG84.jpg",
+  "overview": "Swathi, an actress, comes to Hyderabad to work on a short horror film with a debutant director. But things go awry when they rent a guest house during the shoot and Swathi goes missing.",
+  "popularity": 0.6526,
+  "poster_path": "/eAYRIkMsgKSj83lIYoJvrRCP4Hv.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2017-04-21",
   "revenue": 0,
   "runtime": 132,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Lanka",
@@ -39,6 +45,13 @@
   "vote_count": 1,
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt6708008",
+    "wikidata_id": "Q89187926",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "credits": {
     "cast": [
@@ -49,8 +62,8 @@
         "known_for_department": "Acting",
         "name": "Raasi",
         "original_name": "Raasi",
-        "popularity": 0.5395,
-        "profile_path": "/te4b8v3SbrPYX81qAY4SeJBccVP.jpg",
+        "popularity": 1.3424,
+        "profile_path": "/e3K8Oq0qjzAthJr67ptKUVnaP02.jpg",
         "cast_id": 0,
         "character": "",
         "credit_id": "594c382892514131270172b8",
@@ -63,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Sai Ronak",
         "original_name": "Sai Ronak",
-        "popularity": 0.3006,
+        "popularity": 0.5711,
         "profile_path": "/4jJGpJmNkAtXKS3fRJBf3hDtfPy.jpg",
         "cast_id": 1,
         "character": "",
@@ -77,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Ena Saha",
         "original_name": "Ena Saha",
-        "popularity": 0.224,
+        "popularity": 0.7034,
         "profile_path": "/ni3DdK5cTJ3IK5zwKVebzE24U5c.jpg",
         "cast_id": 2,
         "character": "",
@@ -91,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Supreet",
         "original_name": "Supreet",
-        "popularity": 0.3535,
+        "popularity": 1.6404,
         "profile_path": "/3HZopNIG3zeaSpbGjEvsdmoXjaR.jpg",
         "cast_id": 3,
         "character": "",
@@ -103,6 +116,32 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eAYRIkMsgKSj83lIYoJvrRCP4Hv.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1024
+      },
+      {
+        "aspect_ratio": 0.6,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/MVrR9kdEijHFYzErWaD0FVG84.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 768
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -121,40 +160,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.6,
-        "height": 1280,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/MVrR9kdEijHFYzErWaD0FVG84.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 768
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1536,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/eAYRIkMsgKSj83lIYoJvrRCP4Hv.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1024
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6708008",
-    "wikidata_id": "Q89187926",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

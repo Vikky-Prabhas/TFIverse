@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "త్యాగయ్య",
   "overview": "Thyagaraja was a famous composer in South India. This is his story.",
-  "popularity": 0.2493,
+  "popularity": 2.0994,
   "poster_path": "/lyMMAPthwPTOatym1ntHO3QUnE5.jpg",
   "production_companies": [
     {
@@ -46,16 +46,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 2,
-  "external_ids": {
-    "imdb_id": "tt0156135",
-    "wikidata_id": "Q7859668",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -65,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.1551,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 1,
         "character": "Thyagaraja",
@@ -79,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "K R Vijaya",
         "original_name": "K R Vijaya",
-        "popularity": 0.5397,
+        "popularity": 1.5217,
         "profile_path": "/w4w3vlKbjswuzEJz3WxdyHfstxe.jpg",
         "cast_id": 2,
         "character": "Kamalamba",
@@ -93,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.5446,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 3,
         "character": "Japesam",
@@ -107,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Arja Janardhana Rao",
         "original_name": "Arja Janardhana Rao",
-        "popularity": 0.0777,
+        "popularity": 0.5055,
         "profile_path": null,
         "cast_id": 4,
         "character": "Hanuman",
@@ -116,13 +106,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5cca8f30c3a36836abd88238",
@@ -133,15 +123,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 584606,
-        "known_for_department": "Sound",
-        "name": "K. V. Mahadevan",
-        "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
-        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
-        "credit_id": "5cca8f6e0e0a262fbffe7193",
-        "department": "Writing",
-        "job": "Lyricist"
+        "id": 1025757,
+        "known_for_department": "Directing",
+        "name": "Bapu",
+        "original_name": "Bapu",
+        "popularity": 1.3469,
+        "profile_path": null,
+        "credit_id": "5cca8f4b925141045d24837e",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -150,7 +140,7 @@
         "known_for_department": "Writing",
         "name": "Mullapudi Venkata Ramana",
         "original_name": "Venkata Ramana Mullapoodi",
-        "popularity": 0.1104,
+        "popularity": 1.0149,
         "profile_path": null,
         "credit_id": "5cca8f619251410456247e53",
         "department": "Writing",
@@ -159,17 +149,27 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1025757,
-        "known_for_department": "Directing",
-        "name": "Bapu",
-        "original_name": "Bapu",
-        "popularity": 0.3507,
-        "profile_path": null,
-        "credit_id": "5cca8f4b925141045d24837e",
-        "department": "Directing",
-        "job": "Director"
+        "id": 584606,
+        "known_for_department": "Sound",
+        "name": "K. V. Mahadevan",
+        "original_name": "K. V. Mahadevan",
+        "popularity": 0.3367,
+        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
+        "credit_id": "5cca8f6e0e0a262fbffe7193",
+        "department": "Writing",
+        "job": "Lyricist"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0156135",
+    "wikidata_id": "Q7859668",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [

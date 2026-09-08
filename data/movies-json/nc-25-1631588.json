@@ -1,0 +1,152 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1631588,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "#NC 25",
+  "overview": "",
+  "popularity": 1.3268,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Rumored",
+  "tagline": "",
+  "title": "#NC 25",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237052,
+        "known_for_department": "Acting",
+        "name": "Naga Chaitanya Akkineni",
+        "original_name": "Naga Chaitanya Akkineni",
+        "popularity": 1.1066,
+        "profile_path": "/tV82v41Mj5rkIKWR5ryNFonAQKw.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6988c07104a63e37428c926b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2252714,
+        "known_for_department": "Acting",
+        "name": "Rukmini Vasanth",
+        "original_name": "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "popularity": 3.0613,
+        "profile_path": "/sQrlyh8YSnqFKsZ80E0HUWtx7Um.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6993a3ae4dc463a6f46f713f",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3808465,
+        "known_for_department": "Directing",
+        "name": "Clax",
+        "original_name": "Clax",
+        "popularity": 0.3572,
+        "profile_path": null,
+        "credit_id": "6988c07ed9d0bff4db2ceb20",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933606,
+        "known_for_department": "Production",
+        "name": "Bunny Vas",
+        "original_name": "Bunny Vas",
+        "popularity": 0.3249,
+        "profile_path": "/wuORjl5RorJUpLeWL6UspfC1zak.jpg",
+        "credit_id": "6988c088d6b2f86d295d8ee5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1060280,
+        "known_for_department": "Production",
+        "name": "Supriya Yarlagadda",
+        "original_name": "Supriya Yarlagadda",
+        "popularity": 0.8274,
+        "profile_path": "/oFAgkuUcSuxL1MOo55I8BhWZc0v.jpg",
+        "credit_id": "6988c09bd8c893b7628c9301",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592813,
+        "known_for_department": "Production",
+        "name": "Allu Aravind",
+        "original_name": "Allu Aravind",
+        "popularity": 0.5792,
+        "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
+        "credit_id": "6a934d44b04f0a3bdd4f6c57",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

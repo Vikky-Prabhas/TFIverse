@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Raja",
   "overview": "A story about a petty thief Raja, and how his life changes when he meets Anjali in a robbery gone wrong.",
-  "popularity": 0.3767,
+  "popularity": 2.1909,
   "poster_path": "/inPdpCbRKruQQ8AC1i9QpN0C2zi.jpg",
   "production_companies": [
     {
@@ -49,8 +49,11 @@
   "tagline": "",
   "title": "Raja",
   "video": false,
-  "vote_average": 7.1,
-  "vote_count": 7,
+  "vote_average": 7.556,
+  "vote_count": 9,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 4,
         "character": "",
@@ -74,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 5,
         "character": "",
@@ -88,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Abbas",
         "original_name": "Abbas",
-        "popularity": 0.3227,
+        "popularity": 1.4352,
         "profile_path": "/gxIFUlmgoRHBHdSABjJi2lWxkIJ.jpg",
         "cast_id": 6,
         "character": "",
@@ -102,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 8,
         "character": "",
@@ -115,8 +118,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 9,
         "character": "",
@@ -130,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Y. Vijaya",
         "original_name": "Y. Vijaya",
-        "popularity": 0.9054,
+        "popularity": 2.2151,
         "profile_path": "/zyo1kuf67tOhWtecyn8uGaahDsS.jpg",
         "cast_id": 11,
         "character": "",
@@ -144,7 +147,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 12,
         "character": "",
@@ -158,7 +161,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.198,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 13,
         "character": "",
@@ -170,9 +173,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 14,
         "character": "",
@@ -186,7 +189,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 15,
         "character": "",
@@ -200,7 +203,7 @@
         "known_for_department": "Acting",
         "name": "Sana",
         "original_name": "Sana",
-        "popularity": 0.2615,
+        "popularity": 0.977,
         "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
         "cast_id": 17,
         "character": "Jaya",
@@ -214,7 +217,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "cast_id": 18,
         "character": "Himself",
@@ -226,24 +229,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1543279,
-        "known_for_department": "Camera",
-        "name": "Shyam K. Naidu",
-        "original_name": "Shyam K. Naidu",
-        "popularity": 0.2257,
-        "profile_path": null,
-        "credit_id": "60b332a362e86f0070679d68",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 237968,
         "known_for_department": "Crew",
         "name": "Raju Sundaram",
         "original_name": "Raju Sundaram",
-        "popularity": 0.5074,
+        "popularity": 1.8892,
         "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
         "credit_id": "60b332b1b7b69d0057c498c8",
         "department": "Crew",
@@ -252,41 +242,28 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1543279,
+        "known_for_department": "Camera",
+        "name": "Shyam K. Naidu",
+        "original_name": "Shyam K. Naidu",
+        "popularity": 0.3322,
+        "profile_path": null,
+        "credit_id": "60b332a362e86f0070679d68",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 544993,
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "60b332c3297338005a7e371f",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584694,
-        "known_for_department": "Production",
-        "name": "R. B. Choudary",
-        "original_name": "R. B. Choudary",
-        "popularity": 3.9331,
-        "profile_path": null,
-        "credit_id": "53ad8fdbc3a3682ed8001a1c",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 581077,
-        "known_for_department": "Sound",
-        "name": "S A Rajkumar",
-        "original_name": "S A Rajkumar",
-        "popularity": 0.1701,
-        "profile_path": null,
-        "credit_id": "53ad8feac3a3682ee60019c8",
-        "department": "Sound",
-        "job": "Music"
       },
       {
         "adult": false,
@@ -295,7 +272,7 @@
         "known_for_department": "Directing",
         "name": "Vikraman",
         "original_name": "Vikraman",
-        "popularity": 0.1888,
+        "popularity": 1.1146,
         "profile_path": null,
         "credit_id": "53ad9008c3a3682eee001a0c",
         "department": "Writing",
@@ -304,15 +281,58 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 581077,
+        "known_for_department": "Sound",
+        "name": "S A Rajkumar",
+        "original_name": "எஸ். ஏ. ராஜ்குமார்",
+        "popularity": 0.7503,
+        "profile_path": "/6EZcj7sWMhxThGpyWVTgiJm2jHO.jpg",
+        "credit_id": "53ad8feac3a3682ee60019c8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584694,
+        "known_for_department": "Production",
+        "name": "R. B. Choudary",
+        "original_name": "R. B. Choudary",
+        "popularity": 0.4506,
+        "profile_path": "/cbFHtH5DqklViuOt3xlgOis0SND.jpg",
+        "credit_id": "53ad8fdbc3a3682ed8001a1c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1060283,
         "known_for_department": "Directing",
         "name": "Muppalaneni Shiva",
         "original_name": "Muppalaneni Shiva",
-        "popularity": 0.1375,
+        "popularity": 0.6813,
         "profile_path": null,
         "credit_id": "5b458b7592514168ff001148",
         "department": "Directing",
         "job": "Director"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1999-03-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -381,25 +401,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1999-03-18T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

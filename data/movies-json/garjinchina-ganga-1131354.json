@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Garjinchina Ganga",
   "overview": "When things go wrong for Gangdevi because of her cruel mother-in-law, she has to take the onus of proving her innocence in a terrible crime.",
-  "popularity": 0.0782,
+  "popularity": 1.6569,
   "poster_path": "/wC66kKXyzSY2A98q8ErjzYkkjZb.jpg",
   "production_companies": [],
   "production_countries": [
@@ -56,8 +56,8 @@
         "id": 544977,
         "known_for_department": "Acting",
         "name": "Arjun Sarja",
-        "original_name": "Arjun Sarja",
-        "popularity": 0.9668,
+        "original_name": "அர்ஜூன்",
+        "popularity": 2.3378,
         "profile_path": "/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg",
         "cast_id": 1,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.5311,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 3,
         "character": "",
@@ -101,7 +101,7 @@
         "known_for_department": "Directing",
         "name": "Kommineni Seshagiri Rao",
         "original_name": "Kommineni",
-        "popularity": 0.0071,
+        "popularity": 0.4335,
         "profile_path": null,
         "credit_id": "69982bc8acbc0b2ccdab92b5",
         "department": "Directing",
@@ -113,12 +113,35 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "69982bd531529e534b666784",
         "department": "Sound",
         "job": "Original Music Composer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -128,9 +151,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [],
@@ -164,26 +184,6 @@
         "iso_3166_1": "IN",
         "title": "Thayin Theerppu",
         "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1988-01-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

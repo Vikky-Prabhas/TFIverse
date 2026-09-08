@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bangaru Bullodu",
   "overview": "Prasad is a gold appraiser at a local bank and his grandfather is a goldsmith. Though Prasad is the youngest, he takes care of the whole family. His grandfather lets him in on a secret and how Prasad fulfils his wish forms the story.",
-  "popularity": 0.2032,
+  "popularity": 0.7328,
   "poster_path": "/elO1Ek6sxO62qWqLVI5nRCvPXsR.jpg",
   "production_companies": [],
   "production_countries": [
@@ -37,8 +37,8 @@
   "tagline": "",
   "title": "Bangaru Bullodu",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 1,
+  "vote_average": 5.5,
+  "vote_count": 2,
   "credits": {
     "cast": [
       {
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Allari Naresh",
         "original_name": "Allari Naresh",
-        "popularity": 0.6832,
+        "popularity": 1.9234,
         "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
         "cast_id": 4,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Pooja Jhaveri",
         "original_name": "Pooja Jhaveri",
-        "popularity": 0.1216,
+        "popularity": 0.9711,
         "profile_path": "/fyeeeDP4F4muVCY7P79pzaVatpR.jpg",
         "cast_id": 3,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 2,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 5,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 6,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Bhupal Raju",
         "original_name": "Bhupal Raju",
-        "popularity": 0.1785,
+        "popularity": 0.422,
         "profile_path": "/2Umu3Mj1vPGeJiBPOxI698HZ42G.jpg",
         "cast_id": 7,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Writing",
         "name": "Veligonda Srinivas",
         "original_name": "Veligonda Srinivas",
-        "popularity": 0.1356,
+        "popularity": 0.4397,
         "profile_path": null,
         "credit_id": "600b5c38cc277c003e141546",
         "department": "Directing",
@@ -144,6 +144,30 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11355340",
+    "wikidata_id": "Q104999764",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2021-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -204,30 +228,6 @@
         "width": 1000
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2021-01-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt11355340",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

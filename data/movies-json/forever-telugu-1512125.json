@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Forever (Telugu)",
   "overview": "Set against a backdrop of heartfelt emotions and relatable relationships, *FOREVER* explores  the intertwining stories of love, family, and enduring bonds.",
-  "popularity": 0.1242,
+  "popularity": 0.5108,
   "poster_path": "/mHJ73Cabn55bsS4F083OxRYpBoi.jpg",
   "production_companies": [
     {
@@ -49,6 +49,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -58,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Paruchuri Venu",
         "original_name": "Paruchuri Venu",
-        "popularity": 0.0168,
+        "popularity": 0.2778,
         "profile_path": "/p3zCs79xiZrk8bx5ZKx7nbSdPmL.jpg",
         "cast_id": 1,
         "character": "Anand",
@@ -72,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Swathi Siri",
         "original_name": "Swathi Siri",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": "/4Rsgn10zdI4BIMsyXMKbd3xzdFZ.jpg",
         "cast_id": 2,
         "character": "Mahalakshmi",
@@ -86,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "E. RaviShankar Reddy",
         "original_name": "E. RaviShankar Reddy",
-        "popularity": 0.0453,
+        "popularity": 0.2622,
         "profile_path": "/7RJvqMQ0ZH1qZURweVgWkvJ8cvy.jpg",
         "cast_id": 3,
         "character": "Anand Palaniswamy",
@@ -100,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Roohi. M",
         "original_name": "Roohi. M",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": "/btM4hgbjVSp0vvltucQqMaqrYQn.jpg",
         "cast_id": 4,
         "character": "Mahalakshmi",
@@ -114,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Abhiram",
         "original_name": "Abhiram",
-        "popularity": 0.0071,
+        "popularity": 0.2972,
         "profile_path": "/xKIRbLEvW8SPhlWIdiMLATCMF3p.jpg",
         "cast_id": 5,
         "character": "Surya",
@@ -128,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Shanmukh Kumar Pallava",
         "original_name": "Shanmukh Kumar Pallava",
-        "popularity": 0.0071,
+        "popularity": 0.2569,
         "profile_path": "/g1xUTPjXtnnuJjy4eFVmEiFGNKE.jpg",
         "cast_id": 7,
         "character": "Friend-1",
@@ -144,8 +147,8 @@
         "known_for_department": "Directing",
         "name": "Ramachandran Vishwanathan",
         "original_name": "Ramachandran Vishwanathan",
-        "popularity": 0.0544,
-        "profile_path": null,
+        "popularity": 0.2559,
+        "profile_path": "/yJSGiLlDWJcod7DTbOJXw5ziw5W.jpg",
         "credit_id": "68722a0faf21e0729cba3275",
         "department": "Directing",
         "job": "Director"
@@ -157,7 +160,7 @@
         "known_for_department": "Crew",
         "name": "Bhanu Prakash",
         "original_name": "Bhanu Prakash",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": "/aLCPA1ZwAgj9XEDzUPC6caMxo7t.jpg",
         "credit_id": "68722a56064c4eae466ea0e4",
         "department": "Crew",
@@ -170,7 +173,7 @@
         "known_for_department": "Sound",
         "name": "Praveen Sriram",
         "original_name": "Praveen Sriram",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": "/4gJH15b0tlX2UTgUrxF9myC4Xp4.jpg",
         "credit_id": "68722a69fc7d856bb6a9819b",
         "department": "Sound",
@@ -183,7 +186,7 @@
         "known_for_department": "Editing",
         "name": "Pittala Sai Kumar",
         "original_name": "Pittala Sai Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.2559,
         "profile_path": "/lFJrDfuZl5MLRFiNqhfNud7z7cz.jpg",
         "credit_id": "68722a79bba85b5ba4541bf3",
         "department": "Editing",
@@ -196,7 +199,7 @@
         "known_for_department": "Sound",
         "name": "Akhil",
         "original_name": "Akhil",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": "/3pDjYfmU9BBgYtuijVfMhfDzY2L.jpg",
         "credit_id": "68722a881ad76194c3c090bd",
         "department": "Sound",
@@ -209,7 +212,7 @@
         "known_for_department": "Production",
         "name": "Chandrahaas",
         "original_name": "Chandrahaas",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68722ac4cbfc9031bfc5b547",
         "department": "Production",
@@ -222,7 +225,7 @@
         "known_for_department": "Acting",
         "name": "Paruchuri Venu",
         "original_name": "Paruchuri Venu",
-        "popularity": 0.0168,
+        "popularity": 0.2778,
         "profile_path": "/p3zCs79xiZrk8bx5ZKx7nbSdPmL.jpg",
         "credit_id": "68722aed2d2399db8c541e8a",
         "department": "Production",
@@ -235,7 +238,7 @@
         "known_for_department": "Directing",
         "name": "Sreekar Shanmukha",
         "original_name": "Sreekar Shanmukha",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": "/2ixJXRop2e72CymtLBdtUYFQO1T.jpg",
         "credit_id": "68722b08a8f7fb6de8c5b575",
         "department": "Directing",
@@ -248,7 +251,7 @@
         "known_for_department": "Writing",
         "name": "chaitanya mangipudi",
         "original_name": "chaitanya mangipudi",
-        "popularity": 0.0143,
+        "popularity": 0.261,
         "profile_path": "/8T8CrroD7vq9Hjerynu6djEz2GF.jpg",
         "credit_id": "687787890a9ee950a20523f1",
         "department": "Writing",
@@ -256,24 +259,20 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": [
+  "release_dates": {
+    "results": [
       {
-        "id": 244886,
-        "name": "love story"
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-08-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   },
@@ -313,21 +312,22 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
+  "keywords": {
+    "keywords": [
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-08-07T00:00:00.000Z",
-            "type": 4
-          }
-        ]
+        "id": 244886,
+        "name": "love story"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

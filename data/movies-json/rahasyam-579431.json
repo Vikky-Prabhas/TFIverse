@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "రహస్యం",
   "overview": "A horror thriller film directed by Sagar Shailesh, starring Sagar Shailesh and Sri Rithika in the lead roles.",
-  "popularity": 0.0845,
+  "popularity": 1.0462,
   "poster_path": "/pSJfR83ZlukHVwS3CZ95ME4HrP0.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sagar Sailesh",
         "original_name": "Sagar Sailesh",
-        "popularity": 0.0143,
+        "popularity": 0.597,
         "profile_path": "/o8OlkngsTxWxGEFxDuCwbtLFuTu.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Sri Rithika",
         "original_name": "Sri Rithika",
-        "popularity": 0,
+        "popularity": 0.4089,
         "profile_path": "/zaXoham34n1jxQaEWPxFp1LsyvP.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Apparao",
         "original_name": "Jabardasth Apparao",
-        "popularity": 0.2179,
+        "popularity": 0.6076,
         "profile_path": "/khtIs6OXTTAVTdca4ujbZxVESV0.jpg",
         "cast_id": 16,
         "character": "",
@@ -108,11 +108,37 @@
         "known_for_department": "Acting",
         "name": "Sagar Sailesh",
         "original_name": "Sagar Sailesh",
-        "popularity": 0.0143,
+        "popularity": 0.597,
         "profile_path": "/o8OlkngsTxWxGEFxDuCwbtLFuTu.jpg",
         "credit_id": "5c5409a20e0a2601d6cd950d",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2231784,
+        "known_for_department": "Camera",
+        "name": "Akkinapally Sudhakar",
+        "original_name": "Akkinapally Sudhakar",
+        "popularity": 0.2786,
+        "profile_path": null,
+        "credit_id": "5c5409dbc3a368729084ecd7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2231786,
+        "known_for_department": "Writing",
+        "name": "Janagam Sathish",
+        "original_name": "Janagam Sathish",
+        "popularity": 0.3212,
+        "profile_path": null,
+        "credit_id": "5c5409f2c3a3680b578320b8",
+        "department": "Writing",
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -121,7 +147,7 @@
         "known_for_department": "Acting",
         "name": "Sagar Sailesh",
         "original_name": "Sagar Sailesh",
-        "popularity": 0.0143,
+        "popularity": 0.597,
         "profile_path": "/o8OlkngsTxWxGEFxDuCwbtLFuTu.jpg",
         "credit_id": "5c5409a9c3a36874b98890e6",
         "department": "Writing",
@@ -134,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Sagar Sailesh",
         "original_name": "Sagar Sailesh",
-        "popularity": 0.0143,
+        "popularity": 0.597,
         "profile_path": "/o8OlkngsTxWxGEFxDuCwbtLFuTu.jpg",
         "credit_id": "5c5409b29251415e3463c6c3",
         "department": "Writing",
@@ -147,7 +173,7 @@
         "known_for_department": "Sound",
         "name": "Kabir Rafi",
         "original_name": "Kabir Rafi",
-        "popularity": 0.0071,
+        "popularity": 0.3317,
         "profile_path": null,
         "credit_id": "5c5409fec3a368576a9af861",
         "department": "Sound",
@@ -160,7 +186,7 @@
         "known_for_department": "Crew",
         "name": "V. R. Madhu",
         "original_name": "V. R. Madhu",
-        "popularity": 0.0239,
+        "popularity": 0.3194,
         "profile_path": null,
         "credit_id": "5c540a320e0a2662a4d0cb43",
         "department": "Crew",
@@ -173,7 +199,7 @@
         "known_for_department": "Sound",
         "name": "Kabir Rafi",
         "original_name": "Kabir Rafi",
-        "popularity": 0.0071,
+        "popularity": 0.3317,
         "profile_path": null,
         "credit_id": "5c5409e692514149ab508573",
         "department": "Sound",
@@ -182,24 +208,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2231786,
-        "known_for_department": "Writing",
-        "name": "Janagam Sathish",
-        "original_name": "Janagam Sathish",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5c5409f2c3a3680b578320b8",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 581345,
         "known_for_department": "Crew",
         "name": "Srinivas",
         "original_name": "Srinivas",
-        "popularity": 0.0214,
+        "popularity": 0.3578,
         "profile_path": null,
         "credit_id": "5c540a110e0a26494dddcecb",
         "department": "Crew",
@@ -208,15 +221,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2231784,
-        "known_for_department": "Camera",
-        "name": "Akkinapally Sudhakar",
-        "original_name": "Akkinapally Sudhakar",
-        "popularity": 0.0071,
+        "id": 2231789,
+        "known_for_department": "Editing",
+        "name": "Siva Y. Prasad",
+        "original_name": "Siva Y. Prasad",
+        "popularity": 0.2732,
         "profile_path": null,
-        "credit_id": "5c5409dbc3a368729084ecd7",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "5c540a209251410d9f4e4550",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -225,24 +238,11 @@
         "known_for_department": "Production",
         "name": "Tummalapalli Rama Satyanarayana",
         "original_name": "Tummalapalli Rama Satyanarayana",
-        "popularity": 0.0806,
+        "popularity": 0.382,
         "profile_path": "/r1vpHeX1JojgwUUP4lXKjgSghlZ.jpg",
         "credit_id": "5c54245fc3a36847899aa532",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2231789,
-        "known_for_department": "Editing",
-        "name": "Siva Y. Prasad",
-        "original_name": "Siva Y. Prasad",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "5c540a209251410d9f4e4550",
-        "department": "Editing",
-        "job": "Editor"
       }
     ]
   },
@@ -306,6 +306,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": [
       {
@@ -322,8 +325,5 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అహం రీబూట్",
   "overview": "An aspiring football player turned radio jockey gets a highly unusual call during a live show, from an unidentified girl, stating that she is in danger and pleads with him to rescue her.",
-  "popularity": 0.2787,
+  "popularity": 0.573,
   "poster_path": "/kmb61abThcqBcVLQPr6bopCWr7u.jpg",
   "production_companies": [
     {
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Sumanth",
         "original_name": "Sumanth",
-        "popularity": 0.4526,
+        "popularity": 0.9161,
         "profile_path": "/1KbLdhw6S9A3EBM1dUyGfSOpzXO.jpg",
         "cast_id": 1,
         "character": "",
@@ -82,28 +82,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3526852,
-        "known_for_department": "Sound",
-        "name": "Sriram Maddury",
-        "original_name": "Sriram Maddury",
-        "popularity": 0.0311,
+        "id": 3526849,
+        "known_for_department": "Directing",
+        "name": "Prashanth Sagar Atluri",
+        "original_name": "Prashanth Sagar Atluri",
+        "popularity": 0.3179,
         "profile_path": null,
-        "credit_id": "626a0f76c048a9009c4a369c",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3007487,
-        "known_for_department": "Production",
-        "name": "Srujan Yarabolu",
-        "original_name": "Srujan Yarabolu",
-        "popularity": 0.0954,
-        "profile_path": null,
-        "credit_id": "626a0ee8b7a1540067950c6d",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "626a0e928d2f8d009c6985be",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -112,7 +99,7 @@
         "known_for_department": "Directing",
         "name": "Prashanth Sagar Atluri",
         "original_name": "Prashanth Sagar Atluri",
-        "popularity": 0.0617,
+        "popularity": 0.3179,
         "profile_path": null,
         "credit_id": "626a0e9cb7a15400aa2d7f4e",
         "department": "Writing",
@@ -121,15 +108,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3526849,
-        "known_for_department": "Directing",
-        "name": "Prashanth Sagar Atluri",
-        "original_name": "Prashanth Sagar Atluri",
-        "popularity": 0.0617,
+        "id": 3007487,
+        "known_for_department": "Production",
+        "name": "Srujan Yarabolu",
+        "original_name": "Srujan Yarabolu",
+        "popularity": 0.3149,
         "profile_path": null,
-        "credit_id": "626a0e928d2f8d009c6985be",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "626a0ee8b7a1540067950c6d",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -138,7 +125,7 @@
         "known_for_department": "Camera",
         "name": "Varun Ankarla",
         "original_name": "Varun Ankarla",
-        "popularity": 0.0071,
+        "popularity": 0.27,
         "profile_path": null,
         "credit_id": "626a0f622b1b44016d7c08d7",
         "department": "Camera",
@@ -147,41 +134,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2875201,
+        "id": 3526852,
         "known_for_department": "Sound",
-        "name": "Nagarjuna Thallapalli",
-        "original_name": "Nagarjuna Thallapalli",
-        "popularity": 0.1213,
+        "name": "Sriram Maddury",
+        "original_name": "Sriram Maddury",
+        "popularity": 0.2626,
         "profile_path": null,
-        "credit_id": "626a1a0523168c005245722d",
+        "credit_id": "626a0f76c048a9009c4a369c",
         "department": "Sound",
-        "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3526882,
-        "known_for_department": "Directing",
-        "name": "Krishna Moorari",
-        "original_name": "Krishna Moorari",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "626a1c1f75110d009dabc51f",
-        "department": "Directing",
-        "job": "Co-Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3526885,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Sravan Deverasetty",
-        "original_name": "Sravan Deverasetty",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "626a1c889824c80064232fc3",
-        "department": "Costume & Make-Up",
-        "job": "Costume Designer"
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -190,11 +151,50 @@
         "known_for_department": "Crew",
         "name": "GSK Media-Suresh Kumar",
         "original_name": "GSK Media Kumar",
-        "popularity": 0.0423,
+        "popularity": 0.3746,
         "profile_path": null,
         "credit_id": "626a19018d2f8d004f3280b4",
         "department": "Crew",
         "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2875201,
+        "known_for_department": "Sound",
+        "name": "Nagarjuna Thallapalli",
+        "original_name": "Nagarjuna Thallapalli",
+        "popularity": 0.3469,
+        "profile_path": null,
+        "credit_id": "626a1a0523168c005245722d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2277766,
+        "known_for_department": "Production",
+        "name": "Srinath Raju",
+        "original_name": "Srinath Raju",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "626a1a2657176f0050cc985c",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3526878,
+        "known_for_department": "Art",
+        "name": "A. R. Vamsi",
+        "original_name": "A. R. Vamsi",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "626a1aca57176f0066ad4413",
+        "department": "Art",
+        "job": "Production Design"
       },
       {
         "adult": false,
@@ -203,7 +203,7 @@
         "known_for_department": "Writing",
         "name": "Suma Karthikeya",
         "original_name": "Suma Karthikeya",
-        "popularity": 0.0264,
+        "popularity": 0.2659,
         "profile_path": null,
         "credit_id": "626a1b18489d00009ec19546",
         "department": "Writing",
@@ -216,7 +216,7 @@
         "known_for_department": "Editing",
         "name": "Murali Krishna Manyam",
         "original_name": "Murali Krishna Manyam",
-        "popularity": 0.0071,
+        "popularity": 0.2347,
         "profile_path": null,
         "credit_id": "626a1bd62b1b44016c6ce8fc",
         "department": "Editing",
@@ -224,42 +224,16 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 2277766,
-        "known_for_department": "Production",
-        "name": "Srinath Raju",
-        "original_name": "Srinath Raju",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "626a1a2657176f0050cc985c",
-        "department": "Production",
-        "job": "Publicist"
-      },
-      {
-        "adult": false,
         "gender": 0,
-        "id": 3526886,
-        "known_for_department": "Production",
-        "name": "Raghuveer Goriparthi",
-        "original_name": "Raghuveer Goriparthi",
-        "popularity": 0.0071,
+        "id": 3526882,
+        "known_for_department": "Directing",
+        "name": "Krishna Moorari",
+        "original_name": "Krishna Moorari",
+        "popularity": 0.2541,
         "profile_path": null,
-        "credit_id": "626a1cd29824c8006423307d",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3526878,
-        "known_for_department": "Art",
-        "name": "A. R. Vamsi",
-        "original_name": "A. R. Vamsi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "626a1aca57176f0066ad4413",
-        "department": "Art",
-        "job": "Production Design"
+        "credit_id": "626a1c1f75110d009dabc51f",
+        "department": "Directing",
+        "job": "Co-Director"
       },
       {
         "adult": false,
@@ -268,23 +242,49 @@
         "known_for_department": "Visual Effects",
         "name": "Shashwat Kauraw",
         "original_name": "Shashwat Kauraw",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "626a1c4523168c0068e62267",
         "department": "Visual Effects",
         "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3526885,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sravan Deverasetty",
+        "original_name": "Sravan Deverasetty",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "626a1c889824c80064232fc3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3526886,
+        "known_for_department": "Production",
+        "name": "Raghuveer Goriparthi",
+        "original_name": "Raghuveer Goriparthi",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "626a1cd29824c8006423307d",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt16103372",
-    "wikidata_id": null,
+    "wikidata_id": "Q131613345",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -302,6 +302,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -369,11 +375,5 @@
         "width": 1366
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

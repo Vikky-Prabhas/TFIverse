@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Murder",
   "overview": "After his beloved daughter elopes with an unworthy person, an emotional father chooses the hard path to make the corrections.",
-  "popularity": 0.0261,
+  "popularity": 0.5435,
   "poster_path": "/cQlPMJFmazCfQshH8wBqhHzQ7uw.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -38,7 +41,7 @@
         "known_for_department": "Directing",
         "name": "Anand Chandra",
         "original_name": "Anand Chandra",
-        "popularity": 0.0379,
+        "popularity": 0.3725,
         "profile_path": null,
         "credit_id": "664b8200d6f7d15339963dad",
         "department": "Directing",
@@ -46,15 +49,31 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.701,
+        "height": 911,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cQlPMJFmazCfQshH8wBqhHzQ7uw.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 639
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -75,24 +94,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.701,
-        "height": 911,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/cQlPMJFmazCfQshH8wBqhHzQ7uw.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 639
-      }
-    ]
   }
 }

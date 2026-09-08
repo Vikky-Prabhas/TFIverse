@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "రాం రాం సేఠ్జీ",
   "overview": "Srinikhil Reddy's Upcoming Feature under production, starring Vivek Chary and featuring a score by Bhanu Chaitanya.",
-  "popularity": 0.0143,
+  "popularity": 0.4631,
   "poster_path": "/mNElAO9UEb3XVRVxSu6vifqlC7u.jpg",
   "production_companies": [
     {
@@ -46,6 +46,22 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "videos": {
     "results": []
   },
@@ -58,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Vivek Chary",
         "original_name": "Vivek Chary",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -72,7 +88,7 @@
         "known_for_department": "Production",
         "name": "Manish Thota",
         "original_name": "Manish Thota",
-        "popularity": 0,
+        "popularity": 0.2746,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -88,7 +104,7 @@
         "known_for_department": "Directing",
         "name": "Srinikhil Reddy",
         "original_name": "Srinikhil Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2904,
         "profile_path": null,
         "credit_id": "69fa52e8623b1ea6651d2a37",
         "department": "Directing",
@@ -101,7 +117,7 @@
         "known_for_department": "Directing",
         "name": "Srinikhil Reddy",
         "original_name": "Srinikhil Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2904,
         "profile_path": null,
         "credit_id": "69fa52f8bac65ae126cd098f",
         "department": "Writing",
@@ -114,7 +130,7 @@
         "known_for_department": "Directing",
         "name": "Srinikhil Reddy",
         "original_name": "Srinikhil Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2904,
         "profile_path": null,
         "credit_id": "69fa5a63e25820d3aeec7f20",
         "department": "Production",
@@ -127,16 +143,13 @@
         "known_for_department": "Acting",
         "name": "Tarun Varma",
         "original_name": "Tarun Varma",
-        "popularity": 0.0214,
+        "popularity": 0.2652,
         "profile_path": null,
         "credit_id": "69fa5a7ea272419939367a9a",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "release_dates": {
-    "results": []
   },
   "images": {
     "backdrops": [],
@@ -153,18 +166,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

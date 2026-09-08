@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "దేవుడిచ్చిన కొడుకు",
   "overview": "",
-  "popularity": 0.1033,
+  "popularity": 1.0894,
   "poster_path": null,
   "production_companies": [
     {
@@ -46,6 +46,16 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0186959",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -55,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -69,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 19,
         "character": "",
@@ -97,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2088,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 3,
         "character": "",
@@ -111,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 20,
         "character": "",
@@ -125,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi Jaya Vani",
         "original_name": "Gummadi Jaya Vani",
-        "popularity": 0.0662,
+        "popularity": 0.4293,
         "profile_path": null,
         "cast_id": 21,
         "character": "",
@@ -139,8 +149,8 @@
         "known_for_department": "Acting",
         "name": "Jayamalini",
         "original_name": "Jayamalini",
-        "popularity": 0.2507,
-        "profile_path": "/pnjsF2Uc5xzJzrXhUoVjxOKQcIk.jpg",
+        "popularity": 1.6119,
+        "profile_path": "/jUbgCuJJAHAWQfddrznIZ4XUmmc.jpg",
         "cast_id": 22,
         "character": "",
         "credit_id": "694d37705750eb110e8eaf47",
@@ -153,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 23,
         "character": "",
@@ -167,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Thyagaraju",
         "original_name": "Thyagaraju",
-        "popularity": 0.0214,
+        "popularity": 0.8118,
         "profile_path": null,
         "cast_id": 24,
         "character": "",
@@ -181,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "Jagga Rao",
         "original_name": "Jagga Rao",
-        "popularity": 0.0613,
+        "popularity": 0.5317,
         "profile_path": null,
         "cast_id": 25,
         "character": "",
@@ -195,7 +205,7 @@
         "known_for_department": "Acting",
         "name": "Modhukuri Satyam",
         "original_name": "Modhukuri Satyam",
-        "popularity": 0,
+        "popularity": 0.4911,
         "profile_path": null,
         "cast_id": 26,
         "character": "",
@@ -209,7 +219,7 @@
         "known_for_department": "Acting",
         "name": "G. N. Swamy",
         "original_name": "G. N. Swamy",
-        "popularity": 0,
+        "popularity": 0.3266,
         "profile_path": null,
         "cast_id": 27,
         "character": "",
@@ -223,7 +233,7 @@
         "known_for_department": "Acting",
         "name": "Vanga Apparao",
         "original_name": "Vanga Apparao",
-        "popularity": 0,
+        "popularity": 0.5332,
         "profile_path": null,
         "cast_id": 28,
         "character": "",
@@ -239,7 +249,7 @@
         "known_for_department": "Directing",
         "name": "K. S. R. Das",
         "original_name": "K. S. R. Das",
-        "popularity": 0.2238,
+        "popularity": 0.7173,
         "profile_path": "/enTQqKU9aRTkcjLBNGA7dDIZxq0.jpg",
         "credit_id": "694d34b0da1253e059074454",
         "department": "Directing",
@@ -247,12 +257,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 5897590,
         "known_for_department": "Production",
         "name": "G. Sambasiva Rao",
         "original_name": "G. Sambasiva Rao",
-        "popularity": 0,
+        "popularity": 0.2973,
         "profile_path": null,
         "credit_id": "694d34df5d4fa96ce2156618",
         "department": "Production",
@@ -265,7 +275,7 @@
         "known_for_department": "Directing",
         "name": "B L V Prasad",
         "original_name": "V B L V Prasad",
-        "popularity": 0.0256,
+        "popularity": 0.6362,
         "profile_path": null,
         "credit_id": "694d3513c5689c5d0b1547df",
         "department": "Directing",
@@ -273,12 +283,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 3615877,
-        "known_for_department": "Crew",
+        "known_for_department": "Camera",
         "name": "Pushpala Gopi Krishna",
         "original_name": "Pushpala Gopi Krishna",
-        "popularity": 0,
+        "popularity": 0.2646,
         "profile_path": null,
         "credit_id": "694d357dcb833cc3ac8cd9bd",
         "department": "Camera",
@@ -291,7 +301,7 @@
         "known_for_department": "Editing",
         "name": "N. S. Prakasam",
         "original_name": "N. S. Prakasam",
-        "popularity": 0.0423,
+        "popularity": 0.2632,
         "profile_path": null,
         "credit_id": "694d3586c5689c5d0b1547e2",
         "department": "Editing",
@@ -304,7 +314,7 @@
         "known_for_department": "Editing",
         "name": "D. Venkataratnam",
         "original_name": "D. Venkataratnam",
-        "popularity": 0.0524,
+        "popularity": 0.2588,
         "profile_path": null,
         "credit_id": "694d35930823ea92698cd915",
         "department": "Editing",
@@ -317,7 +327,7 @@
         "known_for_department": "Sound",
         "name": "Chellapilla Satyanarayana Sastry",
         "original_name": "Chellapilla Satyanarayana Sastry",
-        "popularity": 0.0526,
+        "popularity": 0.3275,
         "profile_path": null,
         "credit_id": "694d35a3a9d1a407a2072853",
         "department": "Sound",
@@ -330,7 +340,7 @@
         "known_for_department": "Writing",
         "name": "Arudra",
         "original_name": "Arudra",
-        "popularity": 0.1067,
+        "popularity": 0.4445,
         "profile_path": null,
         "credit_id": "694d35bd6b8e041672072756",
         "department": "Writing",
@@ -343,7 +353,7 @@
         "known_for_department": "Writing",
         "name": "C. Narayana Reddy",
         "original_name": "C. Narayana Reddy",
-        "popularity": 0.0637,
+        "popularity": 0.2676,
         "profile_path": null,
         "credit_id": "694d35c61d7715ba528cd912",
         "department": "Writing",
@@ -356,7 +366,7 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.1238,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "694d35cf76536d42e8b1bf29",
         "department": "Writing",
@@ -369,7 +379,7 @@
         "known_for_department": "Directing",
         "name": "Pothina Doondeswara Rao",
         "original_name": "Doondi",
-        "popularity": 0.0362,
+        "popularity": 0.2728,
         "profile_path": null,
         "credit_id": "694d36a31bcaa8f8890726f2",
         "department": "Crew",
@@ -382,7 +392,7 @@
         "known_for_department": "Writing",
         "name": "Bhamidipati Radhakrishna",
         "original_name": "Bhamidipati Radhakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.5525,
         "profile_path": null,
         "credit_id": "694d36d3d32a61a0b0811874",
         "department": "Writing",
@@ -395,7 +405,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "694d36e570cc74ff92072782",
         "department": "Sound",
@@ -407,8 +417,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "694d370adb2c813d197ab53f",
         "department": "Sound",
@@ -421,13 +431,16 @@
         "known_for_department": "Sound",
         "name": "S. Janaki",
         "original_name": "S. Janaki",
-        "popularity": 0.1323,
+        "popularity": 0.3872,
         "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
         "credit_id": "694d3712fded9b89a6154807",
         "department": "Sound",
         "job": "Playback Singer"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -446,6 +459,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
@@ -461,21 +477,5 @@
     ],
     "logos": [],
     "posters": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0186959",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

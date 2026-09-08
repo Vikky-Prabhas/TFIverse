@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Badmashulu",
   "overview": "Two mischievous middle-aged friends regularly stir up trouble in their village, causing chaos. A police constable tries to keep their antics under control.",
-  "popularity": 0.1336,
+  "popularity": 0.747,
   "poster_path": "/j8IlwRchSiA357Xgh1hMovBMGzJ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,16 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt35714800",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -62,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.3783,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 1,
         "character": "",
@@ -76,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar Reddy",
         "original_name": "Sudhakar Reddy",
-        "popularity": 0.0589,
+        "popularity": 0.6545,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -92,7 +82,7 @@
         "known_for_department": "Directing",
         "name": "Shankar Cheguri",
         "original_name": "Shankar Cheguri",
-        "popularity": 0,
+        "popularity": 0.2949,
         "profile_path": null,
         "credit_id": "685825bcfd3de7e2d8ded9ed",
         "department": "Directing",
@@ -105,13 +95,23 @@
         "known_for_department": "Sound",
         "name": "Teja Kunuru",
         "original_name": "Teja Kunuru",
-        "popularity": 0,
+        "popularity": 0.2694,
         "profile_path": null,
         "credit_id": "685825d371d9e0760bc7b082",
         "department": "Sound",
         "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35714800",
+    "wikidata_id": "Q134732533",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -132,6 +132,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -179,8 +182,5 @@
         "width": 900
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

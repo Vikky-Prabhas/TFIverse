@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "క్షీర సాగర మధనం",
   "overview": "The story is all about human relations and the emotional moments of seven individuals when they face a hard reality.",
-  "popularity": 0.0957,
+  "popularity": 2.0652,
   "poster_path": "/w0KJAcLcJPwQ7GMCINbxUVo1qDj.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Maanas Nagulapalli",
         "original_name": "Maanas Nagulapalli",
-        "popularity": 0.0239,
+        "popularity": 0.5015,
         "profile_path": "/3qb3G8hvg0Ml2aQKnZeGDPufJOg.jpg",
         "cast_id": 2,
         "character": "Rishi",
@@ -57,8 +57,8 @@
         "known_for_department": "Acting",
         "name": "Akshata Sonawane",
         "original_name": "Akshata Sonawane",
-        "popularity": 0.0286,
-        "profile_path": "/cizNPzWi3mIP38ZFGVZeETTAY7Q.jpg",
+        "popularity": 0.7674,
+        "profile_path": "/9hBTLvN0dyzEVTZmyMG5nXmSTXP.jpg",
         "cast_id": 3,
         "character": "Ishitha",
         "credit_id": "613ea708322b2b005fcdd596",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sanjay Rao",
         "original_name": "Sanjay Rao",
-        "popularity": 0.0486,
+        "popularity": 0.3067,
         "profile_path": null,
         "cast_id": 4,
         "character": "Omkar",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Charishma Sreekar",
         "original_name": "Charishma Sreekar",
-        "popularity": 0.0071,
+        "popularity": 0.5494,
         "profile_path": null,
         "cast_id": 5,
         "character": "Viritha",
@@ -101,7 +101,7 @@
         "known_for_department": "Directing",
         "name": "Anil Panguluri",
         "original_name": "Anil Panguluri",
-        "popularity": 0.0071,
+        "popularity": 0.4462,
         "profile_path": null,
         "credit_id": "613ea6bc006b01008de42b25",
         "department": "Directing",
@@ -114,20 +114,13 @@
         "known_for_department": "Sound",
         "name": "Ajay Arasada",
         "original_name": "Ajay Arasada",
-        "popularity": 0.062,
+        "popularity": 0.3419,
         "profile_path": null,
         "credit_id": "6194f053bb1057008e9dabdb",
         "department": "Sound",
         "job": "Original Music Composer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt15147296",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -144,9 +137,6 @@
         "published_at": "2021-07-29T14:38:00.000Z"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -165,8 +155,15 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt15147296",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -183,5 +180,8 @@
         "width": 847
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Xj5Yye4BtxfUJkmg6OHCP9rW7l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1707620,
+  "imdb_id": "tt33674441",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Trikala: Script of God",
+  "overview": "Trikala is a heroic story, one of the many mysteries hidden in Indian Sanatana Dharma.When darkness descends on the world, the light comes to save it, trikala is one of the Illuminator..",
+  "popularity": 0.5088,
+  "poster_path": "/c10lFyPXqQfoN0UgY1w58YsdDI6.jpg",
+  "production_companies": [
+    {
+      "id": 290858,
+      "logo_path": null,
+      "name": "Minerva Pictures",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-05-28",
+  "revenue": 0,
+  "runtime": 127,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Trikala: Script of God",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-05-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "SunNXT",
+            "release_date": "2026-07-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trikala - Release Trailer | Shraddha Das | Master Mahendran | Mani Thellagutie",
+        "key": "U098Oyg8nYo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a4ecfddad06c56909d7bf16",
+        "published_at": "2026-05-22T07:00:06.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33674441",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1078,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8Xj5Yye4BtxfUJkmg6OHCP9rW7l.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1917
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2999,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/c10lFyPXqQfoN0UgY1w58YsdDI6.jpg",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 1999
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nE1eXcTxYQiB4aiJBJUXj7TdfMm.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Idhi Sangathi",
   "overview": "Satyamurthy, a crime reporter, robs a box of diamonds while reporting a train accident. Soon after the news of the missing gems breaks out, a thief, a retired judge, and a team of policemen join the operation of searching for the lost jewels.",
-  "popularity": 0.3623,
+  "popularity": 0.6911,
   "poster_path": "/nnz4p0Rur6cStS7Zw0FbeCpYaNq.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,142 +48,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 85522,
-        "known_for_department": "Acting",
-        "name": "Abbas",
-        "original_name": "Abbas",
-        "popularity": 0.3227,
-        "profile_path": "/gxIFUlmgoRHBHdSABjJi2lWxkIJ.jpg",
-        "cast_id": 2,
-        "character": "Satyamurthy",
-        "credit_id": "62eabd351bf26600602ef18b",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 55062,
-        "known_for_department": "Acting",
-        "name": "Tabu",
-        "original_name": "तबु",
-        "popularity": 2.0671,
-        "profile_path": "/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg",
-        "cast_id": 3,
-        "character": "Swarajyalakshmi",
-        "credit_id": "62eabd4c1bf26600602ef19e",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585270,
-        "known_for_department": "Acting",
-        "name": "Chalapathi Rao",
-        "original_name": "Chalapathi Rao",
-        "popularity": 0.4784,
-        "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "62eabd5f091e62005ae4b613",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1007325,
-        "known_for_department": "Acting",
-        "name": "Venu Madhav",
-        "original_name": "Venu Madhav",
-        "popularity": 0.3832,
-        "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "62eabd72f1b571006135733e",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 237672,
-        "known_for_department": "Acting",
-        "name": "Sameksha Oswal",
-        "original_name": "Sameksha Oswal",
-        "popularity": 0.2938,
-        "profile_path": "/i5sHimDBSdlChw7KEI1uKcCNSh3.jpg",
-        "cast_id": 8,
-        "character": "",
-        "credit_id": "62eabdb4fc5f06005e70a7f3",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 148052,
-        "known_for_department": "Acting",
-        "name": "M. S. Narayana",
-        "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
-        "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "62eabd80af4324005c1a33fe",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 141695,
-        "known_for_department": "Acting",
-        "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "62eabd8c8566d2005a48384a",
-        "order": 6
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107018,
-        "known_for_department": "Directing",
-        "name": "Chandra Siddhartha",
-        "original_name": "Chandra Siddhartha",
-        "popularity": 0.1526,
-        "profile_path": null,
-        "credit_id": "62eabd22af432400599f6b56",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107018,
-        "known_for_department": "Directing",
-        "name": "Chandra Siddhartha",
-        "original_name": "Chandra Siddhartha",
-        "popularity": 0.1526,
-        "profile_path": null,
-        "credit_id": "62eabe00ea84c7005ecef8bf",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt1606247",
     "wikidata_id": "Q77892722",
@@ -191,8 +55,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -210,6 +74,9 @@
         ]
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -235,6 +102,153 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1156
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85522,
+        "known_for_department": "Acting",
+        "name": "Abbas",
+        "original_name": "Abbas",
+        "popularity": 1.4352,
+        "profile_path": "/gxIFUlmgoRHBHdSABjJi2lWxkIJ.jpg",
+        "cast_id": 2,
+        "character": "Satyamurthy",
+        "credit_id": "62eabd351bf26600602ef18b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55062,
+        "known_for_department": "Acting",
+        "name": "Tabu",
+        "original_name": "तबु",
+        "popularity": 2.9823,
+        "profile_path": "/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg",
+        "cast_id": 3,
+        "character": "Swarajyalakshmi",
+        "credit_id": "62eabd4c1bf26600602ef19e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585270,
+        "known_for_department": "Acting",
+        "name": "Chalapathi Rao",
+        "original_name": "Chalapathi Rao",
+        "popularity": 2.1919,
+        "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "62eabd5f091e62005ae4b613",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007325,
+        "known_for_department": "Acting",
+        "name": "Venu Madhav",
+        "original_name": "Venu Madhav",
+        "popularity": 2.0469,
+        "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "62eabd72f1b571006135733e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237672,
+        "known_for_department": "Acting",
+        "name": "Sameksha Oswal",
+        "original_name": "Sameksha Oswal",
+        "popularity": 0.8727,
+        "profile_path": "/i5sHimDBSdlChw7KEI1uKcCNSh3.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "62eabdb4fc5f06005e70a7f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148052,
+        "known_for_department": "Acting",
+        "name": "M. S. Narayana",
+        "original_name": "M. S. Narayana",
+        "popularity": 2.238,
+        "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "62eabd80af4324005c1a33fe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141695,
+        "known_for_department": "Acting",
+        "name": "Kota Srinivasa Rao",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "62eabd8c8566d2005a48384a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107255,
+        "known_for_department": "Acting",
+        "name": "Janardhan",
+        "original_name": "Janardhan",
+        "popularity": 0.6267,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "69fda0ec6416f8816aaa97a8",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107018,
+        "known_for_department": "Directing",
+        "name": "Chandra Siddhartha",
+        "original_name": "Chandra Siddhartha",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "credit_id": "62eabd22af432400599f6b56",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107018,
+        "known_for_department": "Directing",
+        "name": "Chandra Siddhartha",
+        "original_name": "Chandra Siddhartha",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "credit_id": "62eabe00ea84c7005ecef8bf",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
   }

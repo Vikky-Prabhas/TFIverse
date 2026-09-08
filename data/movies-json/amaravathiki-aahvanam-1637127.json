@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అమరావతికి ఆహ్వానం",
   "overview": "When Amaravathi calls, fear answers. This gripping narrative combines spine-tingling visuals and powerful performances into an edge-of-the-seat thriller that explores a chilling summons from the unknown.",
-  "popularity": 0.6029,
+  "popularity": 1.7849,
   "poster_path": "/7ZnhoaSgmm5wMMWfKXStA9MrKd4.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt39954649",
     "wikidata_id": null,
@@ -59,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Ester Noronha",
         "original_name": "Ester Noronha",
-        "popularity": 0.3686,
+        "popularity": 1.5415,
         "profile_path": "/2x2dH5s4sk4td7NS7EXOoK30bRx.jpg",
         "cast_id": 1,
         "character": "",
@@ -73,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Dhanya Balakrishna",
         "original_name": "Dhanya Balakrishna",
-        "popularity": 0.4472,
+        "popularity": 2.073,
         "profile_path": "/yPpzzuuF2zSGquN4iqrCIfrwkZx.jpg",
         "cast_id": 2,
         "character": "",
@@ -87,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Siva Kantamaneni",
         "original_name": "Siva Kantamaneni",
-        "popularity": 0,
+        "popularity": 0.3599,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -101,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Gemini Suresh",
         "original_name": "Gemini Suresh",
-        "popularity": 0.1674,
+        "popularity": 0.4622,
         "profile_path": "/dIrotzgWlftCKrqteFq8n4OVY1h.jpg",
         "cast_id": 4,
         "character": "",
@@ -115,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Bhadram",
         "original_name": "Bhadram",
-        "popularity": 0.1178,
+        "popularity": 0.8678,
         "profile_path": "/6QHbHMBTsysO1vO2liDF25NRQzT.jpg",
         "cast_id": 5,
         "character": "",
@@ -129,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Supritha Bandaru",
         "original_name": "Supritha Bandaru",
-        "popularity": 0.0071,
+        "popularity": 0.2823,
         "profile_path": null,
         "cast_id": 9,
         "character": "Bhargavi",
@@ -145,7 +148,7 @@
         "known_for_department": "Directing",
         "name": "GVK",
         "original_name": "GVK",
-        "popularity": 0.0239,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "69bfc11c75458c5688b336bd",
         "department": "Directing",
@@ -158,7 +161,7 @@
         "known_for_department": "Directing",
         "name": "GVK",
         "original_name": "GVK",
-        "popularity": 0.0239,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "69bfc123cf1ce6f9a71b09a1",
         "department": "Writing",
@@ -171,16 +174,13 @@
         "known_for_department": "Sound",
         "name": "Padmanav Bharadwaj",
         "original_name": "Padmanav Bharadwaj",
-        "popularity": 0.0071,
+        "popularity": 0.3052,
         "profile_path": null,
         "credit_id": "69bfc1a253abdbb5f415e8ac",
         "department": "Sound",
         "job": "Music"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -198,12 +198,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -231,5 +225,11 @@
         "width": 1000
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఎస్. పి. పరశురాం",
   "overview": "S.P.Parshuram is an action oriented movie in which, Parshuram (Chiranjeevi) is a police official who is very rash and is willing to arrest his own family for the sake of the law. Harish, his brother, is caught in a blue film gang, and Sridevi, a common thief, almost becomes a victim but manages to escape. Because she is a witness, she is later assaulted and becomes blind. Rest of the movie is about how Parshuram recues his family from gangsters.",
-  "popularity": 0.3927,
+  "popularity": 0.7725,
   "poster_path": "/pZKcVRMClmvP7GH1ePr4iPrUtNN.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Parshuram",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 4,
         "character": "Rani",
@@ -84,8 +84,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "Parasuram's friend",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8945,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 8,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 9,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Harish Kumar",
         "original_name": "Harish Kumar",
-        "popularity": 0.3366,
+        "popularity": 1.6272,
         "profile_path": "/3s1mSSZxlPSnUHEdGKqfJ30Uc1o.jpg",
         "cast_id": 10,
         "character": "Parshuram's brother",
@@ -143,7 +143,7 @@
         "known_for_department": "Directing",
         "name": "Ravi Raja Pinisetty",
         "original_name": "Ravi Raja Pinisetty",
-        "popularity": 0.4018,
+        "popularity": 1.5645,
         "profile_path": "/9f79yJWicaRTt9dnF4sdUcAx8J3.jpg",
         "credit_id": "53af07550e0a265986004c77",
         "department": "Directing",
@@ -156,7 +156,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "53af075a0e0a265983004d72",
         "department": "Sound",
@@ -165,28 +165,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 592813,
-        "known_for_department": "Production",
-        "name": "Allu Aravind",
-        "original_name": "Allu Aravind",
-        "popularity": 0.3621,
-        "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
-        "credit_id": "65cbd35112970c017bc6c1ab",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 309934,
         "known_for_department": "Directing",
         "name": "P. Vasu",
         "original_name": "P. Vasu",
-        "popularity": 0.4673,
+        "popularity": 1.2482,
         "profile_path": "/riDFi39H2F7rLfBtiRBK7uNTWyd.jpg",
         "credit_id": "65cbd32af925320163c06ed6",
         "department": "Writing",
         "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592813,
+        "known_for_department": "Production",
+        "name": "Allu Aravind",
+        "original_name": "Allu Aravind",
+        "popularity": 0.5792,
+        "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
+        "credit_id": "65cbd35112970c017bc6c1ab",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
@@ -199,6 +199,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -226,18 +229,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "S.P. Parshuram",
-        "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -252,6 +243,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "S.P. Parshuram",
+        "type": ""
       }
     ]
   }

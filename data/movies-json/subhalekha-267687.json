@@ -5,6 +5,10 @@
   "budget": 0,
   "genres": [
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 18,
       "name": "Drama"
     }
@@ -16,10 +20,10 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Subhalekha",
+  "original_title": "శుభలేఖ",
   "overview": "Sujatha, a lecturer, stands up against the dowry system when a rich man comes to her house with a marriage proposal. But she doesn't have the support of her family and her actions have serious consequences.",
-  "popularity": 0.515,
-  "poster_path": "/8QSuVYzr9nWAMtYsHhp9KPFIwXi.jpg",
+  "popularity": 1.1716,
+  "poster_path": "/5MnPodIYT68QY7DGYoQJWV33TcH.jpg",
   "production_companies": [
     {
       "id": 38582,
@@ -51,6 +55,13 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 3,
+  "external_ids": {
+    "imdb_id": "tt0246258",
+    "wikidata_id": "Q16338615",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Narasimha Murthy",
@@ -74,8 +85,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.5892,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 4,
         "character": "Sujatha",
         "credit_id": "53b0cffec3a3682ef100594d",
@@ -88,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.5566,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 5,
         "character": "Murali",
@@ -102,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 6,
         "character": "Ankela Adiseshayya",
@@ -116,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "",
@@ -130,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -139,13 +150,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 584512,
         "known_for_department": "Acting",
         "name": "Nirmalamma",
         "original_name": "Nirmalamma",
-        "popularity": 0.2303,
-        "profile_path": null,
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "53b0d0100e0a2659830071b4",
@@ -158,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Tulasi",
         "original_name": "Tulasi",
-        "popularity": 1.0118,
+        "popularity": 0.9555,
         "profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
         "cast_id": 10,
         "character": "Lakshmi",
@@ -174,7 +185,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "53b0cfe5c3a3682edf00573e",
         "department": "Directing",
@@ -187,7 +198,7 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1694,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "53b0cfe7c3a3682ee2005cec",
         "department": "Sound",
@@ -200,41 +211,11 @@
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3304,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "53b0cfedc3a3682ee60059bf",
         "department": "Production",
         "job": "Producer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0246258",
-    "wikidata_id": "Q16338615",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1982-06-11T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -296,8 +277,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/8QSuVYzr9nWAMtYsHhp9KPFIwXi.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -305,7 +286,30 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1982-06-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

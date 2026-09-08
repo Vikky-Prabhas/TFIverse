@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Edaina Jaragocchu",
   "overview": "Three close friends who are born on April 1 want to change their fate and become millionaires. When one of them gets a new job and falls in love, the trio decide to help her out by making easy money. But what happens when they end up in situations they did not perceive?",
-  "popularity": 0.2588,
+  "popularity": 0.9608,
   "poster_path": "/yT1L4vvY7AI4xNBYcSwQbu44iB9.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,6 +37,13 @@
   "videos": {
     "results": []
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -46,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Bobby Simha",
         "original_name": "Bobby Simha",
-        "popularity": 0.4516,
+        "popularity": 1.1263,
         "profile_path": "/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg",
         "cast_id": 1,
         "character": "Kali",
@@ -60,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5433,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 6,
         "character": "",
@@ -88,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Ghosh",
         "original_name": "Ajay Ghosh",
-        "popularity": 0.3688,
+        "popularity": 1.1781,
         "profile_path": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg",
         "cast_id": 7,
         "character": "",
@@ -102,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Vijay Raja",
         "original_name": "Vijay Raja",
-        "popularity": 0,
+        "popularity": 0.3568,
         "profile_path": null,
         "cast_id": 12,
         "character": "Jay",
@@ -116,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Pooja Solanki",
         "original_name": "Pooja Solanki",
-        "popularity": 0.0168,
+        "popularity": 0.3597,
         "profile_path": null,
         "cast_id": 13,
         "character": "Sasi",
@@ -130,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Sasha Singh",
         "original_name": "Sasha Singh",
-        "popularity": 0.0543,
+        "popularity": 0.3728,
         "profile_path": "/AsIUz9n20GYXHPa273UKmGMcLTw.jpg",
         "cast_id": 14,
         "character": "Baby",
@@ -146,7 +153,7 @@
         "known_for_department": "Directing",
         "name": "K. Ramkanth",
         "original_name": "K. Ramkanth",
-        "popularity": 0.0071,
+        "popularity": 0.3472,
         "profile_path": null,
         "credit_id": "5d8f975c66a7c3000f897e85",
         "department": "Directing",
@@ -159,7 +166,7 @@
         "known_for_department": "Directing",
         "name": "K. Ramkanth",
         "original_name": "K. Ramkanth",
-        "popularity": 0.0071,
+        "popularity": 0.3472,
         "profile_path": null,
         "credit_id": "5d8f979b79b3d400278ce4bd",
         "department": "Production",
@@ -167,15 +174,17 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Edaina Jaragochu",
+        "type": "Alternate"
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -190,15 +199,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 903
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Edaina Jaragochu",
-        "type": "Alternate"
       }
     ]
   },

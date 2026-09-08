@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "విందు భోజనం",
   "overview": "The crux of the story lies in how Anand and Adithya win the cooking battle against Vivek for the restaurant",
-  "popularity": 0.135,
+  "popularity": 0.7337,
   "poster_path": "/zD1qYECNoOdH6mn47Meoy7lkoPW.jpg",
   "production_companies": [
     {
@@ -35,6 +35,13 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 2,
+  "external_ids": {
+    "imdb_id": "tt19767724",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -44,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Anitha Chowdary",
         "original_name": "Anitha Chowdary",
-        "popularity": 0.6018,
+        "popularity": 1.4382,
         "profile_path": "/eKt7WZOpzaoGRgtdt787u6cnucj.jpg",
         "cast_id": 1,
         "character": "Vivek's Mother",
@@ -70,32 +77,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt19767724",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2022-06-24T00:00:00.000Z",
-            "type": 2
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -131,6 +114,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 854
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2022-06-24T00:00:00.000Z",
+            "type": 2
+          }
+        ]
       }
     ]
   },

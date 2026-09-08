@@ -5,12 +5,16 @@
   "budget": 0,
   "genres": [
     {
+      "id": 28,
+      "name": "Action"
+    },
+    {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 28,
-      "name": "Action"
+      "id": 53,
+      "name": "Thriller"
     }
   ],
   "homepage": "",
@@ -22,18 +26,25 @@
   "original_language": "te",
   "original_title": "అంతఃపురం",
   "overview": "When Bhanu and her husband Prakash unexpectedly return to India, Bhanu discovers the true nature of Prakash's family and finds herself stuck in a feudal and violent society.",
-  "popularity": 0.3663,
+  "popularity": 0.5807,
   "poster_path": "/rHCZ6d2mPSpzAKqUNeHHJVbWKkg.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 78302,
+      "logo_path": null,
+      "name": "Anandi Art Creations",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
       "name": "India"
     }
   ],
-  "release_date": "1998-05-12",
+  "release_date": "1998-11-30",
   "revenue": 0,
-  "runtime": 159,
+  "runtime": 137,
   "softcore": false,
   "spoken_languages": [
     {
@@ -46,15 +57,8 @@
   "tagline": "",
   "title": "Anthahpuram",
   "video": false,
-  "vote_average": 6.75,
-  "vote_count": 6,
-  "external_ids": {
-    "imdb_id": "tt0275925",
-    "wikidata_id": "Q4771463",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
+  "vote_average": 7.214,
+  "vote_count": 7,
   "credits": {
     "cast": [
       {
@@ -64,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 5,
         "character": "Bhanumati",
@@ -77,8 +81,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 4,
         "character": "Narasimha",
@@ -92,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 9,
         "character": "Sai",
@@ -106,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kumar",
         "original_name": "Sai Kumar",
-        "popularity": 0.4687,
+        "popularity": 1.2911,
         "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
         "cast_id": 10,
         "character": "Prakash",
@@ -120,7 +124,7 @@
         "known_for_department": "Production",
         "name": "K Ashok Kumar",
         "original_name": "K Ashok Kumar",
-        "popularity": 0.2321,
+        "popularity": 0.5726,
         "profile_path": null,
         "cast_id": 17,
         "character": "",
@@ -134,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Sharada",
         "original_name": "Sharada",
-        "popularity": 0.4022,
+        "popularity": 1.7033,
         "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
         "cast_id": 16,
         "character": "",
@@ -148,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Telangana Shakuntala",
         "original_name": "Telangana Sakuntala",
-        "popularity": 0.4542,
+        "popularity": 1.5871,
         "profile_path": "/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg",
         "cast_id": 15,
         "character": "",
@@ -162,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.3566,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 11,
         "character": "",
@@ -176,7 +180,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 12,
         "character": "",
@@ -190,7 +194,7 @@
         "known_for_department": "Acting",
         "name": "Chinna",
         "original_name": "Chinna",
-        "popularity": 0.1238,
+        "popularity": 0.7175,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -204,53 +208,41 @@
         "known_for_department": "Acting",
         "name": "Heera Rajgopal",
         "original_name": "Heera Rajgopal",
-        "popularity": 0.3437,
+        "popularity": 3.1163,
         "profile_path": "/8ej49i7PVGnSjsZytLXbMfamDek.jpg",
         "cast_id": 18,
         "character": "Special Appearance",
         "credit_id": "579285f0c3a368401200555b",
         "order": 10
-      }
-    ],
-    "crew": [
+      },
       {
         "adult": false,
         "gender": 0,
-        "id": 1281580,
-        "known_for_department": "Crew",
-        "name": "Bhupati",
-        "original_name": "Bhupati",
-        "popularity": 0.0214,
+        "id": 1715496,
+        "known_for_department": "Acting",
+        "name": "G. V. Sudhakar Naidu",
+        "original_name": "G. V. Sudhakar Naidu",
+        "popularity": 0.7532,
         "profile_path": null,
-        "credit_id": "52fe47e39251416c91078fff",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "69ff9734bf9fa277af1e0766",
+        "order": 11
+      }
+    ],
+    "crew": [
       {
         "adult": false,
         "gender": 2,
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "52fe47e39251416c91078ff9",
         "department": "Sound",
         "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1281581,
-        "known_for_department": "Production",
-        "name": "P. Kalyan",
-        "original_name": "P. Kalyan",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "52fe47e39251416c91079011",
-        "department": "Production",
-        "job": "Producer"
       },
       {
         "adult": false,
@@ -259,7 +251,7 @@
         "known_for_department": "Directing",
         "name": "Pasupuleti Krishna Vamsi",
         "original_name": "Pasupuleti Krishna Vamsi",
-        "popularity": 0.2086,
+        "popularity": 0.8728,
         "profile_path": "/2yYVLXYFaoFzRtPaKga0mqamHU6.jpg",
         "credit_id": "5328ece39251413d800007a9",
         "department": "Directing",
@@ -268,24 +260,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1998587,
-        "known_for_department": "Production",
-        "name": "Tammareddy Bharadwaja",
-        "original_name": "Tammareddy Bharadwaja",
-        "popularity": 0.1363,
-        "profile_path": "/8oKKdkip4hzNuoGlrZzWGPNsrtq.jpg",
-        "credit_id": "5c6145010e0a267dfd95afc6",
-        "department": "Production",
-        "job": "Co-Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 932629,
         "known_for_department": "Directing",
         "name": "Pasupuleti Krishna Vamsi",
         "original_name": "Pasupuleti Krishna Vamsi",
-        "popularity": 0.2086,
+        "popularity": 0.8728,
         "profile_path": "/2yYVLXYFaoFzRtPaKga0mqamHU6.jpg",
         "credit_id": "676b11e13260bc061b7eb672",
         "department": "Writing",
@@ -298,13 +277,98 @@
         "known_for_department": "Directing",
         "name": "Pasupuleti Krishna Vamsi",
         "original_name": "Pasupuleti Krishna Vamsi",
-        "popularity": 0.2086,
+        "popularity": 0.8728,
         "profile_path": "/2yYVLXYFaoFzRtPaKga0mqamHU6.jpg",
         "credit_id": "676b11f33260bc061b7eb67b",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225389,
+        "known_for_department": "Directing",
+        "name": "B. V. Nandini Reddy",
+        "original_name": "B. V. Nandini Reddy",
+        "popularity": 0.8892,
+        "profile_path": "/zZkpHZdC19aKXFWHhgxyyozWAfr.jpg",
+        "credit_id": "69ff9592d332cec3cc78fc31",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035077,
+        "known_for_department": "Writing",
+        "name": "Sirivennela Seetharama Sastry",
+        "original_name": "Sirivennela Seetharama Sastry",
+        "popularity": 0.8118,
+        "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
+        "credit_id": "69ff96196c389df17cce2cc9",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2256870,
+        "known_for_department": "Art",
+        "name": "Srinivasa Raju",
+        "original_name": "Srinivasa Raju",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "69ff9637e7124ba25278fc2f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202048,
+        "known_for_department": "Crew",
+        "name": "S. K. Bhupathi",
+        "original_name": "S. K. Bhupathi",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "69ff96705ba946588af8805c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202050,
+        "known_for_department": "Production",
+        "name": "P. Kiran",
+        "original_name": "P. Kiran",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "69ff96c588b2e121ff31785d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3737031,
+        "known_for_department": "Editing",
+        "name": "Shankar",
+        "original_name": "Shankar",
+        "popularity": 0.2646,
+        "profile_path": null,
+        "credit_id": "69ff96e5d332cec3cc78fc49",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0275925",
+    "wikidata_id": "Q4771463",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -325,6 +389,23 @@
   "keywords": {
     "keywords": []
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1998-11-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -338,23 +419,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1998-05-12T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

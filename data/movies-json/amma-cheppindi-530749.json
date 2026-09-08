@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అమ్మ చెప్పింది",
   "overview": "A mentally underdeveloped boy stays with his family; the people who live in his neighbourhood consider him to be less intelligent, until he saves everyone from a bomb threat in a rocket centre during a prominent event.",
-  "popularity": 0.433,
+  "popularity": 1.328,
   "poster_path": "/45sBbM99S7wyUrmjOVnd3j97OLR.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,8 +46,18 @@
   "tagline": "",
   "title": "Amma Cheppindi",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0827695",
+    "wikidata_id": "Q4747088",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -56,8 +66,8 @@
         "id": 588007,
         "known_for_department": "Acting",
         "name": "Sharwanand",
-        "original_name": "Sharwanand",
-        "popularity": 1.023,
+        "original_name": "శర్వానంద్",
+        "popularity": 1.9284,
         "profile_path": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg",
         "cast_id": 1,
         "character": "Bose",
@@ -71,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.7094,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 2,
         "character": "Saraswati, Bose's mother",
@@ -85,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Sriya Reddy",
         "original_name": "Sriya Reddy",
-        "popularity": 1.1683,
+        "popularity": 1.4235,
         "profile_path": "/6AwGUf0uj7Dr6cwZkC53KNihPdj.jpg",
         "cast_id": 7,
         "character": "Razia",
@@ -99,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Pavan Malhotra",
         "original_name": "Pavan Malhotra",
-        "popularity": 0.4972,
+        "popularity": 0.7768,
         "profile_path": "/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg",
         "cast_id": 8,
         "character": "Bose's father",
@@ -113,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5935,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 9,
         "character": "",
@@ -125,9 +135,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 10,
         "character": "Major K. L. Chowdary, the Principal",
@@ -141,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 11,
         "character": "Sattiraju, the cook",
@@ -155,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 12,
         "character": "Saloon Keeper Tirupathi",
@@ -169,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Devadarshini",
         "original_name": "Devadarshini",
-        "popularity": 0.82,
+        "popularity": 1.3654,
         "profile_path": "/gSq4nM6z82LfI4yjL116P1RDkb0.jpg",
         "cast_id": 13,
         "character": "Saraswati's neighbor",
@@ -183,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 14,
         "character": "Paparao",
@@ -197,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Narsing Yadav",
         "original_name": "Narsing Yadav",
-        "popularity": 0.2226,
+        "popularity": 0.8676,
         "profile_path": "/6XXilySySycI5Zf6jhGQgHzHgEz.jpg",
         "cast_id": 15,
         "character": "Goon",
@@ -211,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Sivannarayana Naripeddi",
         "original_name": "Sivannarayana Naripeddi",
-        "popularity": 0.2808,
+        "popularity": 0.8748,
         "profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
         "cast_id": 16,
         "character": "Police officer and friend of Bose",
@@ -225,7 +235,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.4317,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 17,
         "character": "",
@@ -237,24 +247,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1522880,
-        "known_for_department": "Production",
-        "name": "Urmila Gunnam",
-        "original_name": "Urmila Gunnam",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "6671101c383adbaff0e22339",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1522879,
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.2104,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "6671100df3f86c0f0d3f04e8",
         "department": "Writing",
@@ -263,11 +260,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1522880,
+        "known_for_department": "Production",
+        "name": "Urmila Gunnam",
+        "original_name": "Urmila Gunnam",
+        "popularity": 0.268,
+        "profile_path": null,
+        "credit_id": "6671101c383adbaff0e22339",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4781354,
         "known_for_department": "Crew",
         "name": "Sandeep Gunnam",
         "original_name": "Sandeep Gunnam",
-        "popularity": 0.0143,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "6671103a83165047596aa8c0",
         "department": "Crew",
@@ -280,7 +290,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "667110502207f56eac83c7ac",
         "department": "Sound",
@@ -293,23 +303,13 @@
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.2104,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "5b26c76dc3a36841f3014e00",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0827695",
-    "wikidata_id": "Q4747088",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -328,6 +328,32 @@
       {
         "id": 246401,
         "name": "rocket science"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.578,
+        "height": 1123,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6SjGLXmwO4nPT189qQOjB9VGDQ9.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 649
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/45sBbM99S7wyUrmjOVnd3j97OLR.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
       }
     ]
   },
@@ -358,32 +384,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.578,
-        "height": 1123,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/6SjGLXmwO4nPT189qQOjB9VGDQ9.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 649
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/45sBbM99S7wyUrmjOVnd3j97OLR.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },

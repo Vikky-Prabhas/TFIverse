@@ -12,16 +12,22 @@
   ],
   "original_language": "te",
   "original_title": "సీతారత్నంగారి అబ్బాయి",
-  "overview": "Bank manager Vamsi loves Manga. Manga's father objects to the marriage because Vamsi's father's whereabouts are not known. Seetaratnam, who helps everyone in the village, has to find a solution. Manga's father Fixed Her Marriage In Another Then Manga pretends to be pregnant With Vamsi's Child Then ?",
-  "popularity": 0.2612,
-  "poster_path": null,
+  "overview": "Bank manager Vamsi loves Manga. Manga's father objects to the marriage because Vamsi's father's whereabouts are not known. Seetaratnam, who helps everyone in the village, has to find a solution.",
+  "popularity": 0.8516,
+  "poster_path": "/mIqug78ojzaRuVZTQv7U3v8lpGV.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "1992-01-01",
   "revenue": 0,
   "runtime": 158,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Seetharatnam Gari Abbayi",
@@ -37,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Roja Selvamani",
         "original_name": "Roja Selvamani",
-        "popularity": 0.4168,
+        "popularity": 1.5373,
         "profile_path": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg",
         "cast_id": 1,
         "character": "Manga",
@@ -51,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Vinod Kumar",
         "original_name": "Vinod Kumar",
-        "popularity": 0.0496,
+        "popularity": 0.3456,
         "profile_path": null,
         "cast_id": 2,
         "character": "Vamsi",
@@ -65,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.427,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 4,
         "character": "",
@@ -93,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.543,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 5,
         "character": "Seeetharathnamma",
@@ -107,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 6,
         "character": "Veerababu",
@@ -120,8 +126,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "Priest",
@@ -137,7 +143,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.2662,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "66d9c1b6d8e885ab846d079d",
         "department": "Directing",
@@ -150,7 +156,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.2662,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "66d9c1c3d8e885ab846d07a0",
         "department": "Writing",
@@ -163,16 +169,13 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.3337,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "credit_id": "66d9c1e06f04d67799bf7335",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0306060",
@@ -184,13 +187,8 @@
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -208,5 +206,24 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mIqug78ojzaRuVZTQv7U3v8lpGV.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

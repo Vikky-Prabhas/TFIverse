@@ -3,17 +3,26 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
   "homepage": "",
   "id": 1261763,
-  "imdb_id": null,
+  "imdb_id": "tt31841170",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "Don't Trouble The Trouble",
   "overview": "",
-  "popularity": 0.151,
+  "popularity": 2.271,
   "poster_path": "/uuEfTZeDNuzJaXIrpHdryuwwGB5.jpg",
   "production_companies": [
     {
@@ -35,7 +44,7 @@
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2026-10-02",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -46,19 +55,12 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "In Production",
+  "status": "Post Production",
   "tagline": "",
   "title": "Don't Trouble The Trouble",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -68,12 +70,40 @@
         "known_for_department": "Acting",
         "name": "Fahadh Faasil",
         "original_name": "Fahadh Faasil",
-        "popularity": 1.868,
+        "popularity": 7.5279,
         "profile_path": "/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Suri",
         "credit_id": "65f9c98c5ff34e0149b5b750",
         "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6344868,
+        "known_for_department": "Acting",
+        "name": "Ssara Palekar",
+        "original_name": "Ssara Palekar",
+        "popularity": 0.3227,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "6a54a1be8ae2ff5e96e6cda3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353414,
+        "known_for_department": "Acting",
+        "name": "Saurabh Sachdeva",
+        "original_name": "Saurabh Sachdeva",
+        "popularity": 1.1168,
+        "profile_path": "/owFhWHeW4fyc7k6ik8uCvYQCXoy.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "6a54912a854b84b8ec0c99d1",
+        "order": 2
       },
       {
         "adult": false,
@@ -82,12 +112,12 @@
         "known_for_department": "Acting",
         "name": "Venkatesh Kakumanu",
         "original_name": "Venkatesh Kakumanu",
-        "popularity": 0.1621,
+        "popularity": 0.6698,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
         "credit_id": "69ddad0dc30846db0470ae61",
-        "order": 1
+        "order": 3
       }
     ],
     "crew": [
@@ -98,7 +128,7 @@
         "known_for_department": "Directing",
         "name": "Shashank Yeleti",
         "original_name": "Shashank Yeleti",
-        "popularity": 0.0214,
+        "popularity": 0.7428,
         "profile_path": "/upjftoc4hJR4ruzw4swkLmzRT3c.jpg",
         "credit_id": "65f9c9c0bd990c014a229cc0",
         "department": "Directing",
@@ -111,7 +141,7 @@
         "known_for_department": "Directing",
         "name": "Shashank Yeleti",
         "original_name": "Shashank Yeleti",
-        "popularity": 0.0214,
+        "popularity": 0.7428,
         "profile_path": "/upjftoc4hJR4ruzw4swkLmzRT3c.jpg",
         "credit_id": "65f9c9cbbd990c014a229cca",
         "department": "Writing",
@@ -124,7 +154,7 @@
         "known_for_department": "Production",
         "name": "S. S. Karthikeya",
         "original_name": "S S Karthikeya",
-        "popularity": 0.3575,
+        "popularity": 0.5918,
         "profile_path": "/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg",
         "credit_id": "65f9ca1ed0b43401621a4366",
         "department": "Production",
@@ -137,7 +167,7 @@
         "known_for_department": "Production",
         "name": "Shobu Yarlagadda",
         "original_name": "Shobu Yarlagadda",
-        "popularity": 0.1234,
+        "popularity": 0.3484,
         "profile_path": null,
         "credit_id": "65f9c9f8f2cf2501643e2efc",
         "department": "Production",
@@ -150,7 +180,7 @@
         "known_for_department": "Sound",
         "name": "Kaala Bhairava",
         "original_name": "Kaala Bhairava",
-        "popularity": 0.0832,
+        "popularity": 0.4295,
         "profile_path": null,
         "credit_id": "65f9cba61c09fb017d5b55ce",
         "department": "Sound",
@@ -163,7 +193,7 @@
         "known_for_department": "Camera",
         "name": "Brad Francis",
         "original_name": "Brad Francis",
-        "popularity": 0.0763,
+        "popularity": 0.2916,
         "profile_path": null,
         "credit_id": "65f9cad75ff34e0130b5b69b",
         "department": "Camera",
@@ -171,12 +201,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1606145,
         "known_for_department": "Costume & Make-Up",
         "name": "Rama Rajamouli",
         "original_name": "Rama Rajamouli",
-        "popularity": 0.1478,
+        "popularity": 0.3836,
         "profile_path": null,
         "credit_id": "65f9cbb81cfe3a0186f72130",
         "department": "Costume & Make-Up",
@@ -189,7 +219,7 @@
         "known_for_department": "Editing",
         "name": "Praveen Antony",
         "original_name": "Praveen Antony",
-        "popularity": 0.1345,
+        "popularity": 0.4432,
         "profile_path": "/b0rheTZWzPorWCF0wMitfXlMRJu.jpg",
         "credit_id": "65f9caeef2cf2501643e2fe4",
         "department": "Editing",
@@ -201,21 +231,21 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.2185,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "65f9cc4b5ff34e0163b5bf83",
         "department": "Crew",
         "job": "Presenter"
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2119467,
         "known_for_department": "Art",
         "name": "Sandeep Suvarna",
         "original_name": "Sandeep Suvarna",
-        "popularity": 0.166,
+        "popularity": 0.3103,
         "profile_path": null,
         "credit_id": "65f9cb947776f0016312a18b",
         "department": "Art",
@@ -223,12 +253,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2162375,
         "known_for_department": "Crew",
         "name": "King Solomon",
         "original_name": "King Solomon",
-        "popularity": 0.1611,
+        "popularity": 0.3576,
         "profile_path": null,
         "credit_id": "65f9cbdc5ff34e0163b5bf05",
         "department": "Crew",
@@ -241,7 +271,7 @@
         "known_for_department": "Visual Effects",
         "name": "Phani Vihari Gantala",
         "original_name": "Phani Vihari Gantala",
-        "popularity": 0.0256,
+        "popularity": 0.3281,
         "profile_path": null,
         "credit_id": "65f9cc26f2cf2501643e3108",
         "department": "Visual Effects",
@@ -254,22 +284,176 @@
         "known_for_department": "Production",
         "name": "Prasad Devineni",
         "original_name": "Prasad Devineni",
-        "popularity": 0.1445,
+        "popularity": 0.3402,
         "profile_path": null,
         "credit_id": "65f9ca32b84cdd01866c3c11",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2325136,
+        "known_for_department": "Art",
+        "name": "Mohan Bingi",
+        "original_name": "Mohan Bingi",
+        "popularity": 0.4351,
+        "profile_path": null,
+        "credit_id": "6a548ef1ba2dda166edcccb7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4546090,
+        "known_for_department": "Visual Effects",
+        "name": "Shikhar Srivastava",
+        "original_name": "Shikhar Srivastava",
+        "popularity": 0.2843,
+        "profile_path": null,
+        "credit_id": "6a548f178064037b7fb52b59",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6344799,
+        "known_for_department": "Production",
+        "name": "Rahul Shali",
+        "original_name": "Rahul Shali",
+        "popularity": 0.2559,
+        "profile_path": null,
+        "credit_id": "6a548f86ba2dda166edcccc8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6344800,
+        "known_for_department": "Production",
+        "name": "S. S. Shashank",
+        "original_name": "S. S. Shashank",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a548f98179d78d562566bdb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1754154,
+        "known_for_department": "Sound",
+        "name": "Manoj M. Goswami",
+        "original_name": "Manoj M. Goswami",
+        "popularity": 0.3477,
+        "profile_path": null,
+        "credit_id": "6a548fab44d9bdee67dccd74",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1015888,
+        "known_for_department": "Writing",
+        "name": "Hamza Ali",
+        "original_name": "Hamza Ali",
+        "popularity": 0.2629,
+        "profile_path": null,
+        "credit_id": "6a549028e710e1273ede89c8",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151081,
+        "known_for_department": "Writing",
+        "name": "S. S. Kanchi",
+        "original_name": "S.S. Kanchi",
+        "popularity": 0.8276,
+        "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
+        "credit_id": "6a549054d91a386b51347dcc",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2393621,
+        "known_for_department": "Writing",
+        "name": "K.G.R Ashok",
+        "original_name": "K.G.R Ashok",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a54909f8519f9f0d1de89c7",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1765046,
+        "known_for_department": "Crew",
+        "name": "Vamsi Kaka",
+        "original_name": "Vamsi Kaka",
+        "popularity": 0.4537,
+        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+        "credit_id": "6a54945fbd5800e2d3de8a1a",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3480277,
+        "known_for_department": "Production",
+        "name": "Yellowtooths Varun",
+        "original_name": "Yellowtooths",
+        "popularity": 0.5938,
+        "profile_path": null,
+        "credit_id": "6a5494686e95e09d13256f33",
+        "department": "Production",
+        "job": "Publicist"
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt31841170",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "release_dates": {
-    "results": []
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -286,8 +470,5 @@
         "width": 680
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

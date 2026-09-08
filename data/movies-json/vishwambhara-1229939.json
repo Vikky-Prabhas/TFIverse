@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "విశ్వంభర",
   "overview": "",
-  "popularity": 0.4534,
+  "popularity": 0.9373,
   "poster_path": "/ygmxv156YvURmnFN6eG3i2dIg4U.jpg",
   "production_companies": [
     {
@@ -38,7 +38,7 @@
       "name": "India"
     }
   ],
-  "release_date": "2026-07-10",
+  "release_date": "2026-10-16",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -55,9 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -67,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "Vishwambhara 'Vishwa'",
@@ -80,9 +77,9 @@
         "id": 116925,
         "known_for_department": "Acting",
         "name": "Trisha Krishnan",
-        "original_name": "Trisha Krishnan",
-        "popularity": 5.4117,
-        "profile_path": "/jfeAV0VeAQhKONzIv1UEYbklJGn.jpg",
+        "original_name": "த்ரிஷா கிருஷ்ணன்",
+        "popularity": 3.0287,
+        "profile_path": "/8YkgaUlTshiDWHymBOEXZ948Yyn.jpg",
         "cast_id": 10,
         "character": "Avani",
         "credit_id": "65e5562a9979d2017cb3f710",
@@ -91,29 +88,29 @@
       {
         "adult": false,
         "gender": 1,
-        "id": 2015323,
+        "id": 3645630,
         "known_for_department": "Acting",
-        "name": "Ashika Ranganath",
-        "original_name": "Ashika Ranganath",
-        "popularity": 0.7965,
-        "profile_path": "/wzmnd0YpIKSLLa1bjRa7C3Tbww8.jpg",
-        "cast_id": 11,
+        "name": "Isha Chawla",
+        "original_name": "Isha Chawla",
+        "popularity": 0.5088,
+        "profile_path": "/ziYHfxfqYVpIcMOmi5hilYMFaRG.jpg",
+        "cast_id": 15,
         "character": "",
-        "credit_id": "66c88e66a969bc11d7fb8025",
+        "credit_id": "670b20b23bb4557c669b5857",
         "order": 2
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 53675,
+        "gender": 1,
+        "id": 2015323,
         "known_for_department": "Acting",
-        "name": "Kunal Kapoor",
-        "original_name": "Kunal Kapoor",
-        "popularity": 0.36,
-        "profile_path": "/i6NhU7lFjT5BIO8Bb014xnx9W62.jpg",
-        "cast_id": 12,
+        "name": "Ashika Ranganath",
+        "original_name": "Ashika Ranganath",
+        "popularity": 1.3979,
+        "profile_path": "/eZrmfpxV1KCcKPiX6zWCyJLpaOc.jpg",
+        "cast_id": 11,
         "character": "",
-        "credit_id": "66d5ea55d94dffd8f70214af",
+        "credit_id": "66c88e66a969bc11d7fb8025",
         "order": 3
       },
       {
@@ -123,12 +120,40 @@
         "known_for_department": "Acting",
         "name": "Meenakshi Chaudhary",
         "original_name": "Meenakshi Chaudhary",
-        "popularity": 0.6909,
-        "profile_path": "/hUIpX29tedOatiBW5fqtnD9Xi0z.jpg",
+        "popularity": 1.4199,
+        "profile_path": "/hfqnuuaLyz4BM7zc5UXKMhf4lJV.jpg",
         "cast_id": 13,
         "character": "",
         "credit_id": "670b20763bb4557c669b583a",
         "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53675,
+        "known_for_department": "Acting",
+        "name": "Kunal Kapoor",
+        "original_name": "Kunal Kapoor",
+        "popularity": 0.876,
+        "profile_path": "/i6NhU7lFjT5BIO8Bb014xnx9W62.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "66d5ea55d94dffd8f70214af",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110144,
+        "known_for_department": "Acting",
+        "name": "Puneet Issar",
+        "original_name": "Puneet Issar",
+        "popularity": 1.0964,
+        "profile_path": "/6YpwKWExWMBwAV8piUHqj1skoB6.jpg",
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "6a8994b2596f7b74369376ba",
+        "order": 6
       },
       {
         "adult": false,
@@ -137,26 +162,26 @@
         "known_for_department": "Acting",
         "name": "Surbhi",
         "original_name": "Surbhi",
-        "popularity": 0.4855,
+        "popularity": 2.3144,
         "profile_path": "/oVdvoiFu6JFkSnmCgTSPM3KsUXj.jpg",
         "cast_id": 14,
         "character": "",
         "credit_id": "670b2086bbb1a9e81c61cb2b",
-        "order": 5
+        "order": 7
       },
       {
         "adult": false,
-        "gender": 1,
-        "id": 3645630,
+        "gender": 0,
+        "id": 1343152,
         "known_for_department": "Acting",
-        "name": "Isha Chawla",
-        "original_name": "Isha Chawla",
-        "popularity": 0.1834,
-        "profile_path": "/ziYHfxfqYVpIcMOmi5hilYMFaRG.jpg",
-        "cast_id": 15,
+        "name": "Saurav Lokesh",
+        "original_name": "Saurav Lokesh",
+        "popularity": 0.4788,
+        "profile_path": null,
+        "cast_id": 46,
         "character": "",
-        "credit_id": "670b20b23bb4557c669b5857",
-        "order": 6
+        "credit_id": "6a8994bc8f9f9d8930d4adec",
+        "order": 8
       },
       {
         "adult": false,
@@ -165,26 +190,40 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 16,
         "character": "",
         "credit_id": "670b20bc3bb4557c669b585b",
-        "order": 7
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586629,
+        "known_for_department": "Acting",
+        "name": "Rao Ramesh",
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
+        "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "6a462cfc691733724cebc696",
+        "order": 10
       },
       {
         "adult": false,
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.6126,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 17,
         "character": "",
         "credit_id": "671522fb650248b9db628904",
-        "order": 8
+        "order": 11
       },
       {
         "adult": false,
@@ -192,13 +231,13 @@
         "id": 1251224,
         "known_for_department": "Acting",
         "name": "Mouni Roy",
-        "original_name": "Mouni Roy",
-        "popularity": 1.0652,
-        "profile_path": "/cKkVgHMSzJd9swrYQ7k2a1j0LfW.jpg",
+        "original_name": "मौनी राय",
+        "popularity": 1.6632,
+        "profile_path": "/bopoygerwuqnt1WaTPULn5izxRQ.jpg",
         "cast_id": 29,
         "character": "",
         "credit_id": "68852d1487b981279c55ec70",
-        "order": 9
+        "order": 12
       }
     ],
     "crew": [
@@ -209,7 +248,7 @@
         "known_for_department": "Directing",
         "name": "Malladi Vassishta",
         "original_name": "Malladi Vassishta",
-        "popularity": 0.0598,
+        "popularity": 0.4199,
         "profile_path": null,
         "credit_id": "65a0d08e3f8ede0133c9da6f",
         "department": "Directing",
@@ -218,24 +257,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 225318,
-        "known_for_department": "Sound",
-        "name": "M.M. Keeravaani",
-        "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
-        "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
-        "credit_id": "65a0d0da447f9c01225a5559",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1543647,
         "known_for_department": "Production",
         "name": "Vamsi Krishna Reddy",
         "original_name": "Vamsi Krishna Reddy",
-        "popularity": 0.0516,
+        "popularity": 0.2769,
         "profile_path": null,
         "credit_id": "65a0d14b19690c012e8aadcb",
         "department": "Production",
@@ -248,7 +274,7 @@
         "known_for_department": "Production",
         "name": "Pramod Uppalapati",
         "original_name": "Pramod Uppalapati",
-        "popularity": 0.0802,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "67d8f9f1ab259e03a7c6a060",
         "department": "Production",
@@ -261,7 +287,7 @@
         "known_for_department": "Camera",
         "name": "Chota K. Naidu",
         "original_name": "Chota K. Naidu",
-        "popularity": 0.106,
+        "popularity": 0.3377,
         "profile_path": null,
         "credit_id": "6862ad88b72a5fb0f83044ae",
         "department": "Camera",
@@ -274,7 +300,7 @@
         "known_for_department": "Art",
         "name": "A. S. Prakash",
         "original_name": "A. S. Prakash",
-        "popularity": 0.1822,
+        "popularity": 0.3328,
         "profile_path": null,
         "credit_id": "6862ad968481ff3aa50d97c4",
         "department": "Art",
@@ -287,7 +313,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Sushmita Konidela",
         "original_name": "Sushmita Konidela",
-        "popularity": 0.161,
+        "popularity": 0.28,
         "profile_path": null,
         "credit_id": "6862ada4cf7d002a0a7edd14",
         "department": "Costume & Make-Up",
@@ -300,7 +326,7 @@
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2372,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "6862adb4021cd9514bfdcfac",
         "department": "Editing",
@@ -313,7 +339,7 @@
         "known_for_department": "Editing",
         "name": "Santhosh Kamireddy",
         "original_name": "Santhosh Kamireddy",
-        "popularity": 0,
+        "popularity": 0.3987,
         "profile_path": null,
         "credit_id": "6862adbf9e8a0ae70e7b5009",
         "department": "Editing",
@@ -326,7 +352,7 @@
         "known_for_department": "Writing",
         "name": "K. Shiva Dutta",
         "original_name": "K. Shiva Dutta",
-        "popularity": 0.08,
+        "popularity": 0.2825,
         "profile_path": null,
         "credit_id": "6862adeaee3207f5de7b5055",
         "department": "Writing",
@@ -339,7 +365,7 @@
         "known_for_department": "Writing",
         "name": "Chandrabose",
         "original_name": "Chandrabose",
-        "popularity": 0.14,
+        "popularity": 1.0259,
         "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
         "credit_id": "6862ae0dbcd39b36550d9756",
         "department": "Writing",
@@ -352,7 +378,7 @@
         "known_for_department": "Writing",
         "name": "Ramajogayya Sastry",
         "original_name": "Ramajogayya Sastry",
-        "popularity": 0.1226,
+        "popularity": 0.4366,
         "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
         "credit_id": "6862ae16fe388730d90d98b4",
         "department": "Writing",
@@ -365,7 +391,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.2716,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "6862ae27f3434044317189fe",
         "department": "Crew",
@@ -378,7 +404,7 @@
         "known_for_department": "Production",
         "name": "Ananth Kancherla",
         "original_name": "Ananth Kancherla",
-        "popularity": 0.1947,
+        "popularity": 0.3262,
         "profile_path": null,
         "credit_id": "6862ae392f63195eb57b53a6",
         "department": "Production",
@@ -391,7 +417,7 @@
         "known_for_department": "Crew",
         "name": "Ganesh Acharya",
         "original_name": "Ganesh Acharya",
-        "popularity": 0.3208,
+        "popularity": 1.0877,
         "profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
         "credit_id": "68852d267e0188d5cb72e6e9",
         "department": "Crew",
@@ -404,7 +430,7 @@
         "known_for_department": "Directing",
         "name": "Malladi Vassishta",
         "original_name": "Malladi Vassishta",
-        "popularity": 0.0598,
+        "popularity": 0.4199,
         "profile_path": null,
         "credit_id": "68a7171647436a25d95dd889",
         "department": "Writing",
@@ -417,7 +443,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Gavireddy",
         "original_name": "Srinivas Gavireddy",
-        "popularity": 0.2397,
+        "popularity": 0.5293,
         "profile_path": null,
         "credit_id": "68a71725dfa6c009ff3e8be3",
         "department": "Writing",
@@ -430,7 +456,7 @@
         "known_for_department": "Writing",
         "name": "Ganta Sridhar",
         "original_name": "Ganta Sridhar",
-        "popularity": 0.0143,
+        "popularity": 0.2741,
         "profile_path": null,
         "credit_id": "68a71734af8882c8675dd9f2",
         "department": "Writing",
@@ -443,7 +469,7 @@
         "known_for_department": "Directing",
         "name": "Nimmagadda Srikanth",
         "original_name": "Nimmagadda Srikanth",
-        "popularity": 0.0336,
+        "popularity": 0.6118,
         "profile_path": null,
         "credit_id": "68a717c30c6bf7962dfd2e90",
         "department": "Writing",
@@ -456,7 +482,7 @@
         "known_for_department": "Writing",
         "name": "Mayukh Aditya",
         "original_name": "Mayukh Aditya",
-        "popularity": 0.0692,
+        "popularity": 0.46,
         "profile_path": null,
         "credit_id": "68a717d24326548f6d3e8c84",
         "department": "Writing",
@@ -469,7 +495,7 @@
         "known_for_department": "Writing",
         "name": "Vasudev Muneppagari",
         "original_name": "Vasudev Muneppagari",
-        "popularity": 0.0143,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68a717ed7eef5f4afebcbc7d",
         "department": "Writing",
@@ -482,7 +508,7 @@
         "known_for_department": "Acting",
         "name": "Karthik Sabareesh",
         "original_name": "Karthik Sabareesh",
-        "popularity": 0.1217,
+        "popularity": 0.5187,
         "profile_path": "/4uUiyxl2tU21G74y2lf5SOyzdaN.jpg",
         "credit_id": "68a71814ed2e89e246a81fae",
         "department": "Production",
@@ -495,7 +521,7 @@
         "known_for_department": "Production",
         "name": "Ramireddy Sridhar Reddy",
         "original_name": "Ramireddy Sridhar Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2617,
         "profile_path": null,
         "credit_id": "68a71839e5220365ecd55177",
         "department": "Production",
@@ -508,7 +534,7 @@
         "known_for_department": "Visual Effects",
         "name": "Raghav Tammareddy",
         "original_name": "Raghav Tammareddy",
-        "popularity": 0.0482,
+        "popularity": 0.3207,
         "profile_path": null,
         "credit_id": "68a71855684d6acaf8a81c75",
         "department": "Visual Effects",
@@ -521,7 +547,7 @@
         "known_for_department": "Visual Effects",
         "name": "D. Sridhar",
         "original_name": "D. Sridhar",
-        "popularity": 0,
+        "popularity": 0.2617,
         "profile_path": null,
         "credit_id": "68a718794f79c0151a25f5d7",
         "department": "Visual Effects",
@@ -534,7 +560,7 @@
         "known_for_department": "Production",
         "name": "Vikram Reddy",
         "original_name": "Vikram Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2715,
         "profile_path": null,
         "credit_id": "69f9b6c2761c427433646744",
         "department": "Production",
@@ -547,20 +573,46 @@
         "known_for_department": "Sound",
         "name": "Bheems Ceciroleo",
         "original_name": "Bheems Ceciroleo",
-        "popularity": 0.1797,
+        "popularity": 0.4598,
         "profile_path": "/7hvcYmXPX2AvMf8k8xWhNdn9qZe.jpg",
         "credit_id": "69f9b77175888bd0d355f2d3",
         "department": "Sound",
         "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2149072,
+        "known_for_department": "Sound",
+        "name": "Hari Gowra",
+        "original_name": "Hari Gowra",
+        "popularity": 0.456,
+        "profile_path": "/9ivrA1bHNbgg7VQ9fU6w0udmYKy.jpg",
+        "credit_id": "6a898d3a3991e82eba3ec649",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt27670706",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-10-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": [
@@ -569,6 +621,13 @@
         "name": "mythological fiction"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt27670706",
+    "wikidata_id": "Q124301051",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -614,23 +673,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2026-07-10T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

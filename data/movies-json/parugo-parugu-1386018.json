@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Parugo Parugu",
   "overview": "Parugo Parugu",
-  "popularity": 0.0311,
+  "popularity": 0.405,
   "poster_path": "/ohuk8erwOKZbIeKFSxB770BMvtU.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,33 +41,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "GB",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2022-10-27T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -86,5 +59,32 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
   }
 }

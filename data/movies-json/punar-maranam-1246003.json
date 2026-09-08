@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Punar Maranam",
   "overview": "In a world quick to judge and slow to understand, they found peace in silence.",
-  "popularity": 0.0898,
+  "popularity": 0.5314,
   "poster_path": "/hLuoP5Zu2IgITp7ToPeFN7MeZ0c.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Writing",
         "name": "Katakam Abhijit",
         "original_name": "Katakam Abhijit",
-        "popularity": 0,
+        "popularity": 0.2674,
         "profile_path": null,
         "cast_id": 5,
         "character": "Abhijjit",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Surya Sandaka",
         "original_name": "Surya Sandaka",
-        "popularity": 0,
+        "popularity": 0.2649,
         "profile_path": null,
         "cast_id": 6,
         "character": "Surya",
@@ -90,7 +90,7 @@
         "known_for_department": "Directing",
         "name": "Sthita Prajna",
         "original_name": "Sthita Prajna",
-        "popularity": 0,
+        "popularity": 0.283,
         "profile_path": null,
         "credit_id": "65d04eb3fcb8cc0148448013",
         "department": "Directing",
@@ -103,20 +103,13 @@
         "known_for_department": "Writing",
         "name": "Katakam Abhijit",
         "original_name": "Katakam Abhijit",
-        "popularity": 0,
+        "popularity": 0.2674,
         "profile_path": null,
         "credit_id": "65d064a1f2cf250161e12e6f",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -139,23 +132,6 @@
         "official": false,
         "id": "65d04fd3e62719016270c5af",
         "published_at": "2023-12-22T03:01:53.000Z"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-02-24T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   },
@@ -183,6 +159,30 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-02-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   },

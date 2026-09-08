@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కలెక్టర్ గారి అల్లుడు",
   "overview": "",
-  "popularity": 0.3118,
+  "popularity": 0.7111,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Vani Viswanath",
         "original_name": "Vani Viswanath",
-        "popularity": 0.6815,
+        "popularity": 2.0145,
         "profile_path": "/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg",
         "cast_id": 1,
         "character": "Madhuri",
@@ -65,9 +65,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.543,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "cast_id": 5,
         "character": "",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Narra Venkateswara Rao",
         "original_name": "Narra Venkateswara Rao",
-        "popularity": 0.2077,
+        "popularity": 1.6152,
         "profile_path": "/dhpd7PAY06hhHDDOEsLIUFFTMQZ.jpg",
         "cast_id": 6,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kumar",
         "original_name": "Sai Kumar",
-        "popularity": 0.3552,
+        "popularity": 1.2911,
         "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
         "cast_id": 7,
         "character": "",
@@ -156,28 +156,6 @@
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Collector Gaari Alludu",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Collectorgari Alludu",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Collectorgaari Alludu",
-        "type": ""
-      }
-    ]
   },
   "images": {
     "backdrops": [],
@@ -198,6 +176,28 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Collector Gaari Alludu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Collectorgari Alludu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Collectorgaari Alludu",
+        "type": ""
       }
     ]
   }

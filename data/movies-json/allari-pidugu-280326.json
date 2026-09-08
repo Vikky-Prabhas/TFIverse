@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Allari Pidugu",
   "overview": "Allari Pidugu is a action based movie Directed by Jayanth C paranji.Charkavarthy (Puneet Issar), has two sons Giri and Ranjith (both played by Balakrishna). Giri is the younger one, who is the village Romeo and in love with his cousin Subbalakshmi (Charmy). Ranjith turns into an ACP and meets his match Swathi (Katrina Kaif). GK (Mukesh Rushi) is a member of the parliament, whose anti-social activities are contained by Ranjith. Also, Chakravarthy who spends 14 years in prison after falsely charged by GK in a case is released. GK plans to take revenge on the family. But, the person who comes to the rescue of the family and the people threatened by the villain’s plans is Giri. The story is on how he ends as winner, by saving lives and winning respect from his father.",
-  "popularity": 0.4985,
+  "popularity": 1.0785,
   "poster_path": "/hVzGxsInWRoJIW9Cht9pcSVn5zR.jpg",
   "production_companies": [
     {
@@ -51,14 +51,35 @@
   "video": false,
   "vote_average": 2,
   "vote_count": 2,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-10-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "videos": {
     "results": []
   },
+  "external_ids": {
+    "imdb_id": "tt0959281",
+    "wikidata_id": "Q4731161",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -97,22 +118,8 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2005-10-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "credits": {
     "cast": [
@@ -123,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 2,
         "character": "Ranjith",
@@ -137,8 +144,8 @@
         "known_for_department": "Acting",
         "name": "Katrina Kaif",
         "original_name": "Katrina Kaif",
-        "popularity": 1.4589,
-        "profile_path": "/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg",
+        "popularity": 1.8371,
+        "profile_path": "/gSNaBg8Q7Nh0u4HhW6pR5B0ujlL.jpg",
         "cast_id": 3,
         "character": "Swathi",
         "credit_id": "53b6cd77c3a3685eb1002811",
@@ -150,8 +157,8 @@
         "id": 592512,
         "known_for_department": "Acting",
         "name": "Charmy Kaur",
-        "original_name": "Charmy Kaur",
-        "popularity": 0.4502,
+        "original_name": "చార్మీ కౌర్",
+        "popularity": 2.5614,
         "profile_path": "/5BIGQIuyylSpKrQVhYEEY6GfaUw.jpg",
         "cast_id": 4,
         "character": "Subba lakshmi",
@@ -165,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Puneet Issar",
         "original_name": "Puneet Issar",
-        "popularity": 0.6071,
+        "popularity": 1.0964,
         "profile_path": "/6YpwKWExWMBwAV8piUHqj1skoB6.jpg",
         "cast_id": 5,
         "character": "Chakravarthy",
@@ -179,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 6,
         "character": "GK",
@@ -192,9 +199,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "53b6cd860e0a2676d30056e6",
@@ -206,8 +213,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 8,
         "character": "",
@@ -221,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 9,
         "character": "",
@@ -235,8 +242,8 @@
         "known_for_department": "Acting",
         "name": "Rahul Dev",
         "original_name": "Rahul Dev",
-        "popularity": 1.0291,
-        "profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+        "popularity": 1.1473,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "68ead1a44ffbcb7e429fda91",
@@ -249,7 +256,7 @@
         "known_for_department": "Acting",
         "name": "Subbaraju",
         "original_name": "Subbaraju",
-        "popularity": 0.5604,
+        "popularity": 1.8362,
         "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
         "cast_id": 11,
         "character": "",
@@ -263,7 +270,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "cast_id": 12,
         "character": "",
@@ -275,9 +282,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 13,
         "character": "",
@@ -291,7 +298,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 14,
         "character": "",
@@ -304,8 +311,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 15,
         "character": "",
@@ -319,7 +326,7 @@
         "known_for_department": "Acting",
         "name": "Janaki Sabesh",
         "original_name": "Janaki Sabesh",
-        "popularity": 0.2192,
+        "popularity": 0.9976,
         "profile_path": "/jaMuEvnjWiihZH7xZc4keP6ajMa.jpg",
         "cast_id": 16,
         "character": "",
@@ -332,8 +339,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 17,
         "character": "",
@@ -347,7 +354,7 @@
         "known_for_department": "Acting",
         "name": "Kavitha Dasharatharaj",
         "original_name": "Kavitha Dasharatharaj",
-        "popularity": 0.2214,
+        "popularity": 0.845,
         "profile_path": null,
         "cast_id": 18,
         "character": "",
@@ -361,7 +368,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.393,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 19,
         "character": "",
@@ -375,7 +382,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 20,
         "character": "",
@@ -389,7 +396,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.3014,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 21,
         "character": "",
@@ -402,9 +409,9 @@
         "id": 584257,
         "known_for_department": "Acting",
         "name": "Sumithra",
-        "original_name": "Sumithra",
-        "popularity": 0.9084,
-        "profile_path": "/yqK5REqTdG5wPPw4wkOAT46NwxL.jpg",
+        "original_name": "சுமித்ரா",
+        "popularity": 1.2409,
+        "profile_path": "/jekiy36Kf8k5iK4MLbVQl6PhX5V.jpg",
         "cast_id": 22,
         "character": "",
         "credit_id": "68ead292f3270f17131a2441",
@@ -417,8 +424,8 @@
         "known_for_department": "Acting",
         "name": "Geetha Singh",
         "original_name": "Geetha Singh",
-        "popularity": 0.092,
-        "profile_path": null,
+        "popularity": 0.6726,
+        "profile_path": "/kVmFPoW9QogZ0CcioHIJizRWhnB.jpg",
         "cast_id": 23,
         "character": "",
         "credit_id": "68ead2aa67828fb0ab321ab7",
@@ -431,7 +438,7 @@
         "known_for_department": "Acting",
         "name": "Subbaraya Sharma",
         "original_name": "Subbaraya Sharma",
-        "popularity": 0.0569,
+        "popularity": 0.5924,
         "profile_path": "/fFJb5oiyTzuc3BLs5NBsf1qgT15.jpg",
         "cast_id": 24,
         "character": "",
@@ -445,7 +452,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 25,
         "character": "",
@@ -459,7 +466,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 26,
         "character": "",
@@ -473,8 +480,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 27,
         "character": "",
         "credit_id": "68ead2e953b72f4f641f67be",
@@ -489,7 +496,7 @@
         "known_for_department": "Directing",
         "name": "Jayant Paranji",
         "original_name": "Jayant Paranji",
-        "popularity": 0.1593,
+        "popularity": 0.853,
         "profile_path": "/hosIXr3Ov5tHHreVj0mjbQV7ZGA.jpg",
         "credit_id": "53b6cd700e0a2676bb00571d",
         "department": "Directing",
@@ -502,7 +509,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.2979,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "53b6cd75c3a3685ec1002926",
         "department": "Sound",
@@ -515,7 +522,7 @@
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.1541,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "68ead300ee7a013104321a57",
         "department": "Editing",
@@ -528,7 +535,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "credit_id": "68ead312893ce2d7c3321b5a",
         "department": "Writing",
@@ -541,7 +548,7 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.4135,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "68ead31fce257c173e9fd94e",
         "department": "Writing",
@@ -554,7 +561,7 @@
         "known_for_department": "Camera",
         "name": "Ajayan Vincent",
         "original_name": "Ajayan Vincent",
-        "popularity": 0.0404,
+        "popularity": 0.3951,
         "profile_path": "/5bDLEPkMDnGpKJMXHVlmGqzckw1.jpg",
         "credit_id": "68ead332146a3e596c9fda60",
         "department": "Crew",
@@ -567,19 +574,12 @@
         "known_for_department": "Production",
         "name": "M.R.V. Prasad",
         "original_name": "M.R.V. Prasad",
-        "popularity": 0.0596,
+        "popularity": 0.4189,
         "profile_path": null,
         "credit_id": "68ead3594da206b60ac3dea6",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0959281",
-    "wikidata_id": "Q4731161",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

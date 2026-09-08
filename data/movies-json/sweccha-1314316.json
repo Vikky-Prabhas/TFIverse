@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sweccha",
   "overview": "A Man's Freedom-Fight for the Best Feeling in the World",
-  "popularity": 0.0379,
+  "popularity": 0.4132,
   "poster_path": "/htZYNKmwFKGQEGdzo5JMpIW61NF.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -51,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Venkat Kishor",
         "original_name": "Venkat Kishor",
-        "popularity": 0,
+        "popularity": 0.2792,
         "profile_path": null,
         "cast_id": 1,
         "character": "Man for Freedom",
@@ -65,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Sathwik Sharma",
         "original_name": "Sathwik Sharma",
-        "popularity": 0.0071,
+        "popularity": 0.2792,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -81,7 +78,7 @@
         "known_for_department": "Directing",
         "name": "Akash Munji",
         "original_name": "Akash Munji",
-        "popularity": 0,
+        "popularity": 0.2834,
         "profile_path": null,
         "credit_id": "668befbb4f25ecd95a98c955",
         "department": "Directing",
@@ -94,7 +91,7 @@
         "known_for_department": "Directing",
         "name": "Akash Munji",
         "original_name": "Akash Munji",
-        "popularity": 0,
+        "popularity": 0.2834,
         "profile_path": null,
         "credit_id": "668beff558d6285cc30b1d7a",
         "department": "Writing",
@@ -102,12 +99,31 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2879,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/htZYNKmwFKGQEGdzo5JMpIW61NF.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1919
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -131,21 +147,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 2879,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/htZYNKmwFKGQEGdzo5JMpIW61NF.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1919
-      }
-    ]
   }
 }

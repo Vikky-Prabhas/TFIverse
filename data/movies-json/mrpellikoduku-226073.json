@@ -21,8 +21,8 @@
   ],
   "original_language": "te",
   "original_title": "మిస్టర్ పెళ్ళికొడుకు",
-  "overview": "Telugu movie from SMr. Pellikoduku (English: Mr. Bride Groom) is a 2013 Telugu film directed by Devi Prasad starring Sunil and Isha Chawla in the lead roles. This movie is produced by N. V. Prasad and Paras Jain on Megaa Super Good Films Banner while S. A. Rajkumar scored the Music.[2] This film is an official remake of 2011 Hindi film Tanu Weds Manu directed by Anand L. Rai starring R. Madhavan and Kangna Ranaut in the Lead Roles",
-  "popularity": 0.4017,
+  "overview": "A prospective groom meets a girl who asks him to refuse the alliance since she is in love with someone else. Later, things take a turn when they both meet at a friend's wedding.",
+  "popularity": 1.2678,
   "poster_path": "/3ijIWdibGVIELgTLPxnrKVDmJAI.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -57,8 +60,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.87,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "52fe4e749251416c75157039",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Isha Chawla",
         "original_name": "Isha Chawla",
-        "popularity": 0.2171,
+        "popularity": 0.5088,
         "profile_path": "/ziYHfxfqYVpIcMOmi5hilYMFaRG.jpg",
         "cast_id": 10,
         "character": "",
@@ -85,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.393,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 5,
         "character": "",
@@ -111,9 +114,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 4,
         "character": "",
@@ -129,7 +132,7 @@
         "known_for_department": "Directing",
         "name": "Devi Prasad",
         "original_name": "Devi Prasad",
-        "popularity": 0.7577,
+        "popularity": 1.3359,
         "profile_path": "/l63FZ8rFIc5jLz8dAzoKcLfKBQb.jpg",
         "credit_id": "52fe4e749251416c7515704f",
         "department": "Directing",
@@ -142,7 +145,7 @@
         "known_for_department": "Production",
         "name": "N V Prasad",
         "original_name": "N V Prasad",
-        "popularity": 0.0652,
+        "popularity": 0.264,
         "profile_path": null,
         "credit_id": "52fe4e749251416c75157055",
         "department": "Production",
@@ -154,9 +157,9 @@
         "id": 581077,
         "known_for_department": "Sound",
         "name": "S A Rajkumar",
-        "original_name": "S A Rajkumar",
-        "popularity": 0.1701,
-        "profile_path": null,
+        "original_name": "எஸ். ஏ. ராஜ்குமார்",
+        "popularity": 0.7503,
+        "profile_path": "/6EZcj7sWMhxThGpyWVTgiJm2jHO.jpg",
         "credit_id": "52fe4e749251416c7515705b",
         "department": "Sound",
         "job": "Music"
@@ -168,7 +171,7 @@
         "known_for_department": "Editing",
         "name": "Nandamuri Hari",
         "original_name": "Nandamuri Hari",
-        "popularity": 0.0845,
+        "popularity": 0.2993,
         "profile_path": null,
         "credit_id": "52fe4e759251416c75157061",
         "department": "Editing",
@@ -176,26 +179,22 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
+  "alternative_titles": {
+    "titles": [
       {
         "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2013-03-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "title": "Mister Pellikoduku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Mr. Pellikoduku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Mr. పెళ్ళికొడుకు",
+        "type": ""
       }
     ]
   },
@@ -226,22 +225,23 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "Mister Pellikoduku",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Mr. Pellikoduku",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Mr. పెళ్ళికొడుకు",
-        "type": ""
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-03-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

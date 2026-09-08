@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Janani Janmabhoomi",
   "overview": "Ramesh, a rich irresponsible man, travels to America and returns back a changed man with immense love for his country. But he faces several challenges as he sets out to reform the society.",
-  "popularity": 0.3077,
+  "popularity": 0.6334,
   "poster_path": "/2jn52KszqbHTQ4fqtMSVur3laGY.jpg",
   "production_companies": [
     {
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 1,
         "character": "Ramesh",
@@ -78,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.6452,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 2,
         "character": "Padmini",
         "credit_id": "5e9feabc07faa2001afa1a46",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Rajyalakshmi",
         "original_name": "Rajyalakshmi",
-        "popularity": 0.3307,
+        "popularity": 1.2319,
         "profile_path": "/iVQrWhfnqd45IOU1pQNmgPW8t7w.jpg",
         "cast_id": 3,
         "character": "Sathyavathi",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 4,
         "character": "Dhanjaya rao",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 5,
         "character": "Suresh",
@@ -136,7 +139,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.2193,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "64cfcd4c4d6791011c17c63b",
         "department": "Writing",
@@ -149,7 +152,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "5e9feb17db72c00019ef1063",
         "department": "Directing",
@@ -162,7 +165,7 @@
         "known_for_department": "Writing",
         "name": "D. V. Narasa Raju",
         "original_name": "D. V. Narasa Raju",
-        "popularity": 0.3102,
+        "popularity": 0.8381,
         "profile_path": null,
         "credit_id": "5e9feb2601757f001cd10ad4",
         "department": "Writing",
@@ -175,7 +178,7 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "5ee2a2804c1bb0001ea5ffc7",
         "department": "Sound",
@@ -189,15 +192,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -216,6 +210,9 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -231,5 +228,8 @@
         "width": 1728
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

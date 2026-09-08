@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Koduku",
   "overview": "Watch the full movie, Koduku, only on Eros Now. Koduku is a 2004 Indian Telugu film, directed by M S Narayana and produced by Thadi Thatharao. The film stars Vikram, Aditi Agarwal and Mounika in lead roles.",
-  "popularity": 0.0379,
+  "popularity": 0.4251,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,31 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1579789",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "release_dates": {
     "results": [
       {
@@ -75,5 +50,30 @@
         ]
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1579789",
+    "wikidata_id": "Q113576255",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
   }
 }

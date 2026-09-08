@@ -101,6 +101,9 @@ export default function IconProfileClient({
 
   // Safely extract deeply nested JSONB data
   const images = data.images || {};
+  const tmdbUrl = data.profile_path ? `https://image.tmdb.org/t/p/h632${data.profile_path}` : null;
+  const portraitImg = (tmdbUrl || images.portrait?.url || images.avatar?.url || "").replace("www.themoviedb.org", "image.tmdb.org");
+  const bannerImg = (images.banner?.url || tmdbUrl || "").replace("www.themoviedb.org", "image.tmdb.org"); // fallback banner to portrait if no banner
   const personalInfo = data.personalInfo || {};
   const social = data.socialMedia || data.socialMediaInfluence || data.socialMediaPresence || {};
   
@@ -377,8 +380,8 @@ export default function IconProfileClient({
 
       {/* Cinematic Banner */}
       <div className="relative h-[65vh] md:h-[85vh] w-full overflow-hidden">
-        {images.banner?.url ? (
-          <img src={images.banner.url} alt={`${person.name} Banner`} className="w-full h-full object-cover opacity-50" loading="eager" fetchPriority="high" />
+        {bannerImg ? (
+          <img src={bannerImg} alt={`${person.name} Banner`} className="w-full h-full object-cover opacity-50 blur-sm saturate-50" loading="eager" fetchPriority="high" />
         ) : (
           <div className="w-full h-full bg-neutral-900" />
         )}
@@ -390,9 +393,11 @@ export default function IconProfileClient({
         <div className="absolute bottom-0 left-0 w-full p-6 md:p-16 z-20 max-w-[1600px] mx-auto">
           <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-end">
             {/* The Portrait Frame - Awwwards Style */}
-            {images.portrait?.url && (
+            {portraitImg && (
               <div className="w-48 h-64 md:w-64 md:h-[340px] shrink-0 rounded-2xl overflow-hidden border border-white/10 shadow-2xl relative group bg-black/50 backdrop-blur-sm">
-                <img src={images.portrait.url} alt={person.name} className="w-full h-full object-cover transition-all duration-1000 group-hover:scale-105 group-hover:opacity-90" />
+                <div className="absolute inset-0">
+                  <img src={portraitImg} alt={person.name} className="w-full h-full object-cover transition-all duration-1000 group-hover:scale-105 group-hover:opacity-90" />
+                </div>
                 <div className="absolute inset-0 ring-1 ring-inset ring-white/10 rounded-2xl pointer-events-none" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
               </div>

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "గువ్వ గోరింక",
   "overview": "Sirisha grows up living in her beautiful dream aspires to major in music but has to promise her father that she would marry the man he chooses if she wants to moves to the city and learn violin.",
-  "popularity": 0.2769,
+  "popularity": 0.6422,
   "poster_path": "/q6ysn1LNdQIGHgUkEpCkC7Byen7.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,13 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt8080982",
+    "wikidata_id": "Q104876418",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -52,8 +59,8 @@
         "id": 1546410,
         "known_for_department": "Acting",
         "name": "Satyadev Kancharana",
-        "original_name": "Satyadev Kancharana",
-        "popularity": 0.4233,
+        "original_name": "సత్యదేవ్ కంచరన",
+        "popularity": 1.1478,
         "profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
         "cast_id": 1,
         "character": "Sadanand",
@@ -67,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Priyaa Lal",
         "original_name": "Priyaa Lal",
-        "popularity": 0.217,
+        "popularity": 0.6472,
         "profile_path": "/2BNSxGGyatlT6V2vY4TnjUoeKAC.jpg",
         "cast_id": 2,
         "character": "Sirisha",
@@ -81,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.5618,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ramakrishna",
         "original_name": "Rahul Ramakrishna",
-        "popularity": 0.2196,
+        "popularity": 1.4709,
         "profile_path": "/jsRbEXcUgR8zniBb3UTGOqrtxV9.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Harshini Koduru",
         "original_name": "Harshini Koduru",
-        "popularity": 0.0472,
+        "popularity": 0.6462,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -123,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Chaitanya Rao",
         "original_name": "Chaitanya Rao",
-        "popularity": 0.3078,
+        "popularity": 0.4914,
         "profile_path": "/sYpgQuCCLhRo3Ix96Umo2XqG2av.jpg",
         "cast_id": 11,
         "character": "",
@@ -139,7 +146,7 @@
         "known_for_department": "Directing",
         "name": "Mohan Babu Bammidi",
         "original_name": "Mohan Babu Bammidi",
-        "popularity": 0.0143,
+        "popularity": 0.2938,
         "profile_path": null,
         "credit_id": "5fdd6ccd8e2ba6003b8cb927",
         "department": "Directing",
@@ -152,7 +159,7 @@
         "known_for_department": "Crew",
         "name": "Mailesan Rangaswamy",
         "original_name": "Mailesan Rangaswamy",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "5fdd6d0b0716500040bdb40d",
         "department": "Crew",
@@ -165,7 +172,7 @@
         "known_for_department": "Editing",
         "name": "Pranav Mistry",
         "original_name": "Pranav Mistry",
-        "popularity": 0.2048,
+        "popularity": 0.2828,
         "profile_path": null,
         "credit_id": "5fdd6d21d7107e003dc69c37",
         "department": "Editing",
@@ -178,7 +185,7 @@
         "known_for_department": "Sound",
         "name": "Suresh Bobbili",
         "original_name": "Suresh Bobbili",
-        "popularity": 0.1506,
+        "popularity": 0.2767,
         "profile_path": null,
         "credit_id": "5fdd6ce94a4bfc003f7382f6",
         "department": "Sound",
@@ -191,7 +198,7 @@
         "known_for_department": "Directing",
         "name": "Mohan Babu Bammidi",
         "original_name": "Mohan Babu Bammidi",
-        "popularity": 0.0143,
+        "popularity": 0.2938,
         "profile_path": null,
         "credit_id": "6013cf73c4f552003df15481",
         "department": "Writing",
@@ -202,12 +209,22 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt8080982",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "Amazon Prime Video ",
+            "release_date": "2020-12-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -275,23 +292,6 @@
         "iso_3166_1": "IN",
         "title": "Prema Kiligal",
         "type": "Malayalam Dub"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "Amazon Prime Video ",
-            "release_date": "2020-12-17T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   }

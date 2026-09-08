@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Punadhirallu",
   "overview": "Punadhirallu (English: Foundation Stones) is a 1979 Indian Telugu-language film directed by Rajkumar. It was the debut film of actor Chiranjeevi.",
-  "popularity": 0.2142,
+  "popularity": 0.5002,
   "poster_path": "/6MlMfkdWlLnAZY2AV7kyQryAxtI.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3868,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Narasimha Raju",
         "original_name": "Narasimha Raju",
-        "popularity": 0.0311,
+        "popularity": 0.8201,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -81,41 +81,11 @@
         "known_for_department": "Directing",
         "name": "Gudapati Rajkumar",
         "original_name": "Gudapati Rajkumar",
-        "popularity": 0.0286,
+        "popularity": 0.3178,
         "profile_path": null,
         "credit_id": "66627810383a7fd84973202c",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1979-06-21T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -134,6 +104,36 @@
         "width": 500
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1979-06-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "alternative_titles": {
     "titles": []

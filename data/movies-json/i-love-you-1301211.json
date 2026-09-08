@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "I Love You",
   "overview": "Suvarna, a college girl, falls in love with Ramesh, a handsome womaniser, who soon leaves her. However, when Ramesh has an accident and loses his ability to walk, Suvarna cares for him as a nurse.",
-  "popularity": 0.2055,
+  "popularity": 1.3008,
   "poster_path": "/gXVLq0SSfFdvNerzhQwtZRN4UDT.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Prasad Babu",
         "original_name": "Prasad Babu",
-        "popularity": 0.1678,
+        "popularity": 1.0868,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -66,13 +66,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "666276670584d8f5677e155f",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "P. L. Narayana",
         "original_name": "P. L. Narayana",
-        "popularity": 0.1127,
+        "popularity": 0.3703,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -101,7 +101,7 @@
         "known_for_department": "Directing",
         "name": "Vayu Nandana Rao",
         "original_name": "Vayu Nandana Rao",
-        "popularity": 0.0143,
+        "popularity": 0.9878,
         "profile_path": null,
         "credit_id": "6662768b4b8b1b90bcd5c940",
         "department": "Directing",
@@ -111,19 +111,6 @@
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0245959",
-    "wikidata_id": "Q5978201",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -141,6 +128,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -167,5 +157,15 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0245959",
+    "wikidata_id": "Q5978201",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

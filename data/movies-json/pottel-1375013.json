@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పోటెల్",
   "overview": "An underprivileged villager and a victim of caste-driven politics in his village, forced to run away with his daughter Saraswati, but returns after undergoing a spiritual reincarnation, which in turn changes how the village receives him.",
-  "popularity": 0.226,
+  "popularity": 0.6258,
   "poster_path": "/k0RTkcYbGVbMLkCC5e8kTtGTPvO.jpg",
   "production_companies": [
     {
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Yuva Chandraa",
         "original_name": "Yuva Chandraa",
-        "popularity": 0.0297,
+        "popularity": 0.422,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Ananya Nagalla",
         "original_name": "Ananya Nagalla",
-        "popularity": 0.2405,
+        "popularity": 0.8589,
         "profile_path": "/dRHfKUDjeHeb1wTkeJ9cTX4Usoi.jpg",
         "cast_id": 2,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Noel Sean",
         "original_name": "Noel Sean",
-        "popularity": 0.2314,
+        "popularity": 0.4203,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Sharma",
         "original_name": "Priyanka Sharma",
-        "popularity": 0.1856,
+        "popularity": 0.75,
         "profile_path": "/euIAfTkvz5yYtMn9TubRjQRoZfL.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Chatrapathi Sekhar",
         "original_name": "Chatrapathi Sekhar",
-        "popularity": 0.3946,
+        "popularity": 1.1827,
         "profile_path": "/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg",
         "cast_id": 8,
         "character": "Mallanna",
@@ -176,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.3429,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 9,
         "character": "",
@@ -190,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Thanasvi Chowdary",
         "original_name": "Thanasvi Chowdary",
-        "popularity": 0.0495,
+        "popularity": 0.5109,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -204,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Riyaz",
         "original_name": "Riyaz",
-        "popularity": 0.0563,
+        "popularity": 1.6134,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -218,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Jeevan",
         "original_name": "Jeevan",
-        "popularity": 0.2523,
+        "popularity": 0.6559,
         "profile_path": "/ltq1xtVzMTLKSG5alu37dMNPIv0.jpg",
         "cast_id": 13,
         "character": "",
@@ -234,7 +234,7 @@
         "known_for_department": "Directing",
         "name": "Sahit Mothkhuri",
         "original_name": "Sahit Mothkhuri",
-        "popularity": 0.0143,
+        "popularity": 0.3393,
         "profile_path": null,
         "credit_id": "6716f32145cd6762235883a9",
         "department": "Directing",
@@ -247,7 +247,7 @@
         "known_for_department": "Writing",
         "name": "Sahit Mothkhuri",
         "original_name": "Sahit Mothkhuri",
-        "popularity": 0,
+        "popularity": 0.5649,
         "profile_path": null,
         "credit_id": "6716f32809c498fd29b7df41",
         "department": "Writing",
@@ -257,10 +257,13 @@
   },
   "external_ids": {
     "imdb_id": "tt31948043",
-    "wikidata_id": null,
+    "wikidata_id": "Q130642523",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -299,12 +302,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -352,5 +349,8 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

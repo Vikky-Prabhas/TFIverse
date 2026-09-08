@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Surya",
   "overview": "The story of Surya, a middle-class youngster struggling to find a decent job but to his misfortune, he never achieves any success at the task",
-  "popularity": 0.0387,
+  "popularity": 1.1538,
   "poster_path": "/hqou5b8tjhhtfR7PCgbHxfIHZUl.jpg",
   "production_companies": [
     {
@@ -50,6 +50,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -59,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Shanmukh Jaswanth kandregupa",
         "original_name": "Shanmukh Jaswanth kandregupa",
-        "popularity": 0.131,
+        "popularity": 0.3194,
         "profile_path": "/ir9Eq64BbeI96sQY0x8dz1EKWPF.jpg",
         "cast_id": 1,
         "character": "Surya (Senior)",
@@ -73,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Shiva Teja",
         "original_name": "Ravi Shiva Teja",
-        "popularity": 0.1297,
+        "popularity": 0.4726,
         "profile_path": "/m4V937mkQxIk1ohl7heXigv1h09.jpg",
         "cast_id": 2,
         "character": "Swami",
@@ -87,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Mounika Reddy",
         "original_name": "Mounika Reddy",
-        "popularity": 0.3998,
+        "popularity": 1.4175,
         "profile_path": "/nLhyRS42M6g80eQnQsRPc35heUG.jpg",
         "cast_id": 3,
         "character": "Sravani (Junior)",
@@ -101,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Likitha Tejomurthula",
         "original_name": "Likitha Tejomurthula",
-        "popularity": 0.0286,
+        "popularity": 0.3017,
         "profile_path": "/kUxNLbyPPkTdNTNuBFZExSMkR81.jpg",
         "cast_id": 5,
         "character": "Surya's Sister",
@@ -117,34 +120,11 @@
         "known_for_department": "Creator",
         "name": "Subbu.k",
         "original_name": "Subbu.k",
-        "popularity": 0.0214,
+        "popularity": 0.5959,
         "profile_path": null,
         "credit_id": "69214b244369726d22dd42a3",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Surya Full Movie || Shanmukh Jaswanth || Mounika Reddy || Infinitum Media",
-        "key": "BwzeY6RYMFM",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Clip",
-        "official": false,
-        "id": "692695c585fe4502b3ea9813",
-        "published_at": "2021-07-23T12:31:27.000Z"
       }
     ]
   },
@@ -165,6 +145,16 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -181,10 +171,20 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Surya Full Movie || Shanmukh Jaswanth || Mounika Reddy || Infinitum Media",
+        "key": "BwzeY6RYMFM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "692695c585fe4502b3ea9813",
+        "published_at": "2021-07-23T12:31:27.000Z"
+      }
+    ]
   }
 }

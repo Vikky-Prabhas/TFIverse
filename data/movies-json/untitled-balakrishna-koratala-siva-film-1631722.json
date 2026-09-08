@@ -7,6 +7,10 @@
     {
       "id": 28,
       "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ],
   "homepage": "",
@@ -18,7 +22,7 @@
   "original_language": "te",
   "original_title": "Untitled Balakrishna - Koratala Siva Film",
   "overview": "",
-  "popularity": 0.0749,
+  "popularity": 0.8673,
   "poster_path": null,
   "production_companies": [
     {
@@ -57,30 +61,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt36276245",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -90,12 +70,26 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "6994e9a9a454af46091253ad",
         "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130109,
+        "known_for_department": "Acting",
+        "name": "Arya",
+        "original_name": "Arya",
+        "popularity": 2.0137,
+        "profile_path": "/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6a96bfa9c545e56188bd4f77",
+        "order": 1
       }
     ],
     "crew": [
@@ -106,7 +100,7 @@
         "known_for_department": "Directing",
         "name": "Koratala Siva",
         "original_name": "Koratala Siva",
-        "popularity": 0.2185,
+        "popularity": 0.6995,
         "profile_path": "/uSvFpc0b6jbpFRrkAnXmVgKOzdA.jpg",
         "credit_id": "69e738486187e1ba17cf42bc",
         "department": "Directing",
@@ -119,7 +113,7 @@
         "known_for_department": "Production",
         "name": "Sudhakar Cherukuri",
         "original_name": "Sudhakar Cherukuri",
-        "popularity": 0.0675,
+        "popularity": 0.5486,
         "profile_path": "/4PRVTmhpCsnGwfNkQynyNDWznAo.jpg",
         "credit_id": "69e73862a8166e89ad9396f0",
         "department": "Production",
@@ -132,7 +126,7 @@
         "known_for_department": "Production",
         "name": "Sudhakar Mikkilineni",
         "original_name": "Sudhakar Mikkilineni",
-        "popularity": 0.0261,
+        "popularity": 0.4159,
         "profile_path": null,
         "credit_id": "69e73871a29b7fa19c93972f",
         "department": "Production",
@@ -145,12 +139,36 @@
         "known_for_department": "Directing",
         "name": "Koratala Siva",
         "original_name": "Koratala Siva",
-        "popularity": 0.2185,
+        "popularity": 0.6995,
         "profile_path": "/uSvFpc0b6jbpFRrkAnXmVgKOzdA.jpg",
         "credit_id": "69e738aaa8166e89ad9396f7",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36276245",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

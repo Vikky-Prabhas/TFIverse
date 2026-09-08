@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Savitri",
   "overview": "Princess Savitri marries Prince Satyavan despite a curse that foretells his death within a year.",
-  "popularity": 0.1463,
+  "popularity": 0.7973,
   "poster_path": "/1Z75lF6Li6eI1vYm1eHMM9XnFd7.jpg",
   "production_companies": [
     {
@@ -55,8 +55,8 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt0255577",
@@ -65,41 +65,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1661018,
-        "known_for_department": "Acting",
-        "name": "Surabhi Kamalabai",
-        "original_name": "Surabhi Kamalabai",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5cae133f0e0a2626e9c0b9d6",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1166346,
-        "known_for_department": "Directing",
-        "name": "Chittajalu Pullayya",
-        "original_name": "Chittajalu Pullayya",
-        "popularity": 0.0547,
-        "profile_path": null,
-        "credit_id": "5cae13629251412fa320728c",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -131,6 +98,39 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 630
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661018,
+        "known_for_department": "Acting",
+        "name": "Surabhi Kamalabai",
+        "original_name": "Surabhi Kamalabai",
+        "popularity": 0.3935,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5cae133f0e0a2626e9c0b9d6",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166346,
+        "known_for_department": "Directing",
+        "name": "Chittajalu Pullayya",
+        "original_name": "Chittajalu Pullayya",
+        "popularity": 0.3187,
+        "profile_path": null,
+        "credit_id": "5cae13629251412fa320728c",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },

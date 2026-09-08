@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "చట్టం",
   "overview": "Chattam is a 2011 action Telugu film directed by P. A. Arun Prasad. Natti Kumar and Rama Satyanarayana are jointly producing this movie. Jagapathi Babu acts in the lead role along with Vimala Raman in the opposite lead role",
-  "popularity": 0.3325,
+  "popularity": 2.2658,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt8706738",
+    "wikidata_id": "Q5087853",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Vimala Raman",
         "original_name": "Vimala Raman",
-        "popularity": 0.502,
+        "popularity": 1.1335,
         "profile_path": "/dnxnNSpn39J1qYzi12p7k4MOxHY.jpg",
         "cast_id": 2,
         "character": "",
@@ -75,8 +85,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "",
@@ -89,8 +99,8 @@
         "id": 85588,
         "known_for_department": "Acting",
         "name": "Murali Sharma",
-        "original_name": "Murli Sharma",
-        "popularity": 0.8674,
+        "original_name": "మురళీ శర్మ",
+        "popularity": 2.5363,
         "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
         "cast_id": 7,
         "character": "",
@@ -101,56 +111,29 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1180602,
-        "known_for_department": "Production",
-        "name": "Natti Kumar",
-        "original_name": "Natti Kumar",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "52fe487b9251416c9108dea9",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 937680,
         "known_for_department": "Directing",
         "name": "P.A. Arun Prasad",
         "original_name": "P.A. Arun Prasad",
-        "popularity": 0.3737,
+        "popularity": 0.6287,
         "profile_path": null,
         "credit_id": "52fe487b9251416c9108dea3",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8706738",
-    "wikidata_id": "Q5087853",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
+      },
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2011-03-25T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "adult": false,
+        "gender": 0,
+        "id": 1180602,
+        "known_for_department": "Production",
+        "name": "Natti Kumar",
+        "original_name": "Natti Kumar",
+        "popularity": 0.3687,
+        "profile_path": null,
+        "credit_id": "52fe487b9251416c9108dea9",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
@@ -167,6 +150,23 @@
       {
         "id": 241782,
         "name": "criminal justice system"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-03-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Hrudaya Kaleyam",
   "overview": "Hrudaya Kaleyam is a 2014 Telugu action film directed by Steven Shankar on Amrutha productions and VSS Creations banners jointly which stars debutantes Sampoornesh Babu, Kavya Kumar and Ishika Singh in the lead roles. R.K. composed the music while Russel Carpenter Jr. handled the cinematography. The film revolves around Sampoornesh, a petty thief who robs parts in electronic shops and why he robs electronic shops and departmental stores. Movie was released in 155 centres including Bengaluru.The movie was considered a hit at Box Office. Since the budget was very low, this movie is considered to be one of the highest grossing low budget movies.",
-  "popularity": 0.2617,
+  "popularity": 1.0545,
   "poster_path": "/2hpeb9nZySlwlyH1qPADSjUcWI1.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,8 +42,8 @@
   "tagline": "A Kidney with a heart",
   "title": "Hrudaya Kaleyam",
   "video": false,
-  "vote_average": 3.5,
-  "vote_count": 2,
+  "vote_average": 2.667,
+  "vote_count": 3,
   "credits": {
     "cast": [
       {
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Sampoornesh Babu",
         "original_name": "Sampoornesh Babu",
-        "popularity": 0.2087,
+        "popularity": 0.9853,
         "profile_path": "/8LUNhS7JGsv5YDIX3qBPJP3f1BI.jpg",
         "cast_id": 0,
         "character": "Sampoo",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Kavya Kumar",
         "original_name": "Kavya Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.2835,
         "profile_path": null,
         "cast_id": 1,
         "character": "Neelu",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Ishika Singh",
         "original_name": "Ishika Singh",
-        "popularity": 0.0264,
+        "popularity": 0.5334,
         "profile_path": "/lRxr4Q3rymqROuoiPs3VZswRhih.jpg",
         "cast_id": 2,
         "character": "Swasa",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Kathi Mahesh",
         "original_name": "Kathi Mahesh",
-        "popularity": 0.1148,
+        "popularity": 0.448,
         "profile_path": "/sqbeNvORctlryvVSpmUwGmtblGZ.jpg",
         "cast_id": 8,
         "character": "",
@@ -110,8 +110,8 @@
         "id": 1418729,
         "known_for_department": "Directing",
         "name": "Sai Rajesh Neelam",
-        "original_name": "Sai Rajesh Neelam",
-        "popularity": 0.07,
+        "original_name": "సాయి రాజేష్",
+        "popularity": 0.3553,
         "profile_path": null,
         "credit_id": "54c5e62f925141219b0016b2",
         "department": "Directing",
@@ -124,7 +124,7 @@
         "known_for_department": "Sound",
         "name": "R.K",
         "original_name": "R.K",
-        "popularity": 0.0071,
+        "popularity": 0.276,
         "profile_path": null,
         "credit_id": "54c5e66e92514124890095e6",
         "department": "Sound",
@@ -137,37 +137,11 @@
         "known_for_department": "Editing",
         "name": "Nithish Rodrigo",
         "original_name": "Nithish Rodrigo",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "54c5e688c3a3687929009bb6",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1418729,
-        "known_for_department": "Directing",
-        "name": "Sai Rajesh Neelam",
-        "original_name": "Sai Rajesh Neelam",
-        "popularity": 0.07,
-        "profile_path": null,
-        "credit_id": "5a65d5cd9251410b1f038b0b",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1418729,
-        "known_for_department": "Directing",
-        "name": "Sai Rajesh Neelam",
-        "original_name": "Sai Rajesh Neelam",
-        "popularity": 0.07,
-        "profile_path": null,
-        "credit_id": "5a65d5c40e0a261a0403bfe2",
-        "department": "Writing",
-        "job": "Writer"
       },
       {
         "adult": false,
@@ -176,13 +150,42 @@
         "known_for_department": "Editing",
         "name": "Karthika Srinivas",
         "original_name": "Karthika Srinivas",
-        "popularity": 0.1935,
+        "popularity": 0.3469,
         "profile_path": "/sIG1GLTq0CizSQP15qjHg7GzVw6.jpg",
         "credit_id": "5a65d530c3a3687fad038290",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418729,
+        "known_for_department": "Directing",
+        "name": "Sai Rajesh Neelam",
+        "original_name": "సాయి రాజేష్",
+        "popularity": 0.3553,
+        "profile_path": null,
+        "credit_id": "5a65d5c40e0a261a0403bfe2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418729,
+        "known_for_department": "Directing",
+        "name": "Sai Rajesh Neelam",
+        "original_name": "సాయి రాజేష్",
+        "popularity": 0.3553,
+        "profile_path": null,
+        "credit_id": "5a65d5cd9251410b1f038b0b",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt3726018",
@@ -191,16 +194,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 210192,
-        "name": "hrudaya kaleyam"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -219,8 +214,13 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": [
+      {
+        "id": 210192,
+        "name": "hrudaya kaleyam"
+      }
+    ]
   },
   "images": {
     "backdrops": [],

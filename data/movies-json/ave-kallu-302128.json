@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "అవే కళ్లు",
   "overview": "Rich and pretty, Susila returns from college to find that her family is being bumped off one by one. The only clues are a half smoked cigar left at the scene of each murder and a mysterious woman in white running through the courtyard.",
-  "popularity": 0.2964,
+  "popularity": 0.8815,
   "poster_path": "/iDKErEwrVspIIKA0SkRpCJjopeT.jpg",
   "production_companies": [
     {
@@ -54,245 +54,15 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 2,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1470750,
-        "known_for_department": "Acting",
-        "name": "Krishna",
-        "original_name": "Krishna",
-        "popularity": 0.2139,
-        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
-        "cast_id": 1,
-        "character": "Bhaskar",
-        "credit_id": "631bb353fdfc9f007c02142a",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1047330,
-        "known_for_department": "Acting",
-        "name": "Kanchana",
-        "original_name": "Kanchana",
-        "popularity": 0.315,
-        "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
-        "cast_id": 2,
-        "character": "Susila \"Susi\"",
-        "credit_id": "631bb35efdfc9f009c0bb31e",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1611382,
-        "known_for_department": "Acting",
-        "name": "Rajanala Kaleswara Rao",
-        "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1986,
-        "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
-        "cast_id": 3,
-        "character": "Rajasekhar",
-        "credit_id": "631bb372a199a600872b4e0c",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335709,
-        "known_for_department": "Acting",
-        "name": "Gummadi",
-        "original_name": "Gummadi",
-        "popularity": 0.4144,
-        "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
-        "cast_id": 4,
-        "character": "Inspector",
-        "credit_id": "631bb389fdfc9f007c021438",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335722,
-        "known_for_department": "Acting",
-        "name": "Padmanabham",
-        "original_name": "Padmanabham",
-        "popularity": 0.2913,
-        "profile_path": "/yKwLIP9RP3o8GWm3Q5CLJLFkeX1.jpg",
-        "cast_id": 6,
-        "character": "Nityanandam",
-        "credit_id": "69280b648166dc3e50eaa2c0",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1208886,
-        "known_for_department": "Acting",
-        "name": "Ramana Reddy",
-        "original_name": "Ramana Reddy",
-        "popularity": 0.91,
-        "profile_path": "/nYN6YoA9pbjQE0J8b9jS496YjP6.jpg",
-        "cast_id": 7,
-        "character": "Naganna",
-        "credit_id": "69280b71d8135ae325a75bda",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1123968,
-        "known_for_department": "Acting",
-        "name": "S. V. Ramadas",
-        "original_name": "S. V. Ramadas",
-        "popularity": 0.317,
-        "profile_path": null,
-        "cast_id": 8,
-        "character": "Chandrasekhar",
-        "credit_id": "69280b7d33220d1d62d9cfa1",
-        "order": 6
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1340404,
-        "known_for_department": "Acting",
-        "name": "Typist Gopu",
-        "original_name": "Typist Gopu",
-        "popularity": 0.2163,
-        "profile_path": "/5csAe0zCnvYZzz7YD9Ou1VXOgjV.jpg",
-        "cast_id": 9,
-        "character": "Baby",
-        "credit_id": "69280b87000b8dd82ca75b58",
-        "order": 7
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 585305,
-        "known_for_department": "Acting",
-        "name": "Vennira Aadai Nirmala",
-        "original_name": "Venniradai Nirmala",
-        "popularity": 0.2545,
-        "profile_path": null,
-        "cast_id": 10,
-        "character": "Mala",
-        "credit_id": "69280ba3dfe41ae603248f60",
-        "order": 8
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1661808,
-        "known_for_department": "Acting",
-        "name": "Pushpakumari",
-        "original_name": "Pushpakumari",
-        "popularity": 0.0888,
-        "profile_path": null,
-        "cast_id": 11,
-        "character": "Vasantha",
-        "credit_id": "69280bac9c61967f36a75c5a",
-        "order": 9
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1141308,
-        "known_for_department": "Directing",
-        "name": "A. C. Tirulokchandar",
-        "original_name": "A. C. Tirulokchandar",
-        "popularity": 0.3465,
-        "profile_path": "/bI42XONmZhyAW4LsfZDttYJv2Rt.jpg",
-        "credit_id": "631bb3a8fdfc9f007c021441",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1141308,
-        "known_for_department": "Directing",
-        "name": "A. C. Tirulokchandar",
-        "original_name": "A. C. Tirulokchandar",
-        "popularity": 0.3465,
-        "profile_path": "/bI42XONmZhyAW4LsfZDttYJv2Rt.jpg",
-        "credit_id": "69280bebe0c4caff91a75cc0",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1037352,
-        "known_for_department": "Writing",
-        "name": "D. V. Narasa Raju",
-        "original_name": "D. V. Narasa Raju",
-        "popularity": 0.294,
-        "profile_path": null,
-        "credit_id": "69280bf64a9cac5d21245980",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1034414,
-        "known_for_department": "Production",
-        "name": "A. V. Meiyappan",
-        "original_name": "A. V. Meiyappan",
-        "popularity": 0.3564,
-        "profile_path": null,
-        "credit_id": "69280bff0121e4bcb5248e99",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1421500,
-        "known_for_department": "Camera",
-        "name": "S. Maruti Rao",
-        "original_name": "S. Maruti Rao",
-        "popularity": 0.1244,
-        "profile_path": null,
-        "credit_id": "69280c0ee0c4caff91a75cc7",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1422928,
-        "known_for_department": "Editing",
-        "name": "R. G. Gopu",
-        "original_name": "R. G. Gopu",
-        "popularity": 0.0534,
-        "profile_path": null,
-        "credit_id": "69280c17b2d778db8626c144",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1137773,
-        "known_for_department": "Sound",
-        "name": "S. Vedha",
-        "original_name": "S. Vedha",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "69280c26f927c81d02248efd",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt0371554",
+    "wikidata_id": "Q15689300",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -311,12 +81,248 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0371554",
-    "wikidata_id": "Q15689300",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470750,
+        "known_for_department": "Acting",
+        "name": "Krishna",
+        "original_name": "Krishna",
+        "popularity": 1.4125,
+        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
+        "cast_id": 1,
+        "character": "Bhaskar",
+        "credit_id": "631bb353fdfc9f007c02142a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1047330,
+        "known_for_department": "Acting",
+        "name": "Kanchana",
+        "original_name": "Kanchana",
+        "popularity": 1.1551,
+        "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
+        "cast_id": 2,
+        "character": "Susila \"Susi\"",
+        "credit_id": "631bb35efdfc9f009c0bb31e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611382,
+        "known_for_department": "Acting",
+        "name": "Rajanala Kaleswara Rao",
+        "original_name": "Rajanala Kaleswara Rao",
+        "popularity": 0.5475,
+        "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
+        "cast_id": 3,
+        "character": "Rajasekhar",
+        "credit_id": "631bb372a199a600872b4e0c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335709,
+        "known_for_department": "Acting",
+        "name": "Gummadi",
+        "original_name": "Gummadi",
+        "popularity": 1.3866,
+        "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
+        "cast_id": 4,
+        "character": "Inspector",
+        "credit_id": "631bb389fdfc9f007c021438",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335722,
+        "known_for_department": "Acting",
+        "name": "Padmanabham",
+        "original_name": "Padmanabham",
+        "popularity": 1.0843,
+        "profile_path": "/yKwLIP9RP3o8GWm3Q5CLJLFkeX1.jpg",
+        "cast_id": 6,
+        "character": "Nityanandam",
+        "credit_id": "69280b648166dc3e50eaa2c0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208886,
+        "known_for_department": "Acting",
+        "name": "Ramana Reddy",
+        "original_name": "Ramana Reddy",
+        "popularity": 0.7405,
+        "profile_path": "/nYN6YoA9pbjQE0J8b9jS496YjP6.jpg",
+        "cast_id": 7,
+        "character": "Naganna",
+        "credit_id": "69280b71d8135ae325a75bda",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123968,
+        "known_for_department": "Acting",
+        "name": "S. V. Ramadas",
+        "original_name": "எஸ். வி. இராமதாஸ்",
+        "popularity": 1.3378,
+        "profile_path": "/1CN0SVLIa0tjH33pNpjTM2vpbml.jpg",
+        "cast_id": 8,
+        "character": "Chandrasekhar",
+        "credit_id": "69280b7d33220d1d62d9cfa1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340404,
+        "known_for_department": "Acting",
+        "name": "Typist Gopu",
+        "original_name": "டைப்பிஸ்ட் கோபு",
+        "popularity": 0.8593,
+        "profile_path": "/5csAe0zCnvYZzz7YD9Ou1VXOgjV.jpg",
+        "cast_id": 9,
+        "character": "Baby",
+        "credit_id": "69280b87000b8dd82ca75b58",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585305,
+        "known_for_department": "Acting",
+        "name": "Vennira Aadai Nirmala",
+        "original_name": "வெண்ணிற ஆடை நிர்மலா",
+        "popularity": 1.7349,
+        "profile_path": "/hC2GpYMORgE0dBbpmWZ7dzAUjHN.jpg",
+        "cast_id": 10,
+        "character": "Mala",
+        "credit_id": "69280ba3dfe41ae603248f60",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661808,
+        "known_for_department": "Acting",
+        "name": "Pushpakumari",
+        "original_name": "Pushpakumari",
+        "popularity": 0.3991,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Vasantha",
+        "credit_id": "69280bac9c61967f36a75c5a",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141308,
+        "known_for_department": "Directing",
+        "name": "A. C. Tirulokchandar",
+        "original_name": "ஏ. சி. திருலோகச்சந்தர்",
+        "popularity": 0.9605,
+        "profile_path": "/bI42XONmZhyAW4LsfZDttYJv2Rt.jpg",
+        "credit_id": "631bb3a8fdfc9f007c021441",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141308,
+        "known_for_department": "Directing",
+        "name": "A. C. Tirulokchandar",
+        "original_name": "ஏ. சி. திருலோகச்சந்தர்",
+        "popularity": 0.9605,
+        "profile_path": "/bI42XONmZhyAW4LsfZDttYJv2Rt.jpg",
+        "credit_id": "69280bebe0c4caff91a75cc0",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037352,
+        "known_for_department": "Writing",
+        "name": "D. V. Narasa Raju",
+        "original_name": "D. V. Narasa Raju",
+        "popularity": 0.8381,
+        "profile_path": null,
+        "credit_id": "69280bf64a9cac5d21245980",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034414,
+        "known_for_department": "Production",
+        "name": "A. V. Meiyappan",
+        "original_name": "A. V. Meiyappan",
+        "popularity": 0.3925,
+        "profile_path": "/655QtbUXSerm7xsv0tFNlLR6sww.jpg",
+        "credit_id": "69280bff0121e4bcb5248e99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421500,
+        "known_for_department": "Camera",
+        "name": "S. Maruti Rao",
+        "original_name": "S. Maruti Rao",
+        "popularity": 0.3655,
+        "profile_path": "/fPHGdR6LpaXkSZ11ZWEW9CAHKO1.jpg",
+        "credit_id": "69280c0ee0c4caff91a75cc7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422928,
+        "known_for_department": "Editing",
+        "name": "R. G. Gopu",
+        "original_name": "R. G. Gopu",
+        "popularity": 0.2629,
+        "profile_path": null,
+        "credit_id": "69280c17b2d778db8626c144",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1137773,
+        "known_for_department": "Sound",
+        "name": "Vedha",
+        "original_name": "S. Vedha",
+        "popularity": 0.2897,
+        "profile_path": null,
+        "credit_id": "69280c26f927c81d02248efd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -333,11 +339,5 @@
         "width": 907
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Plot",
   "overview": "A  failed businessman, finally, tastes success in real estate. This turns into an obsession and now he would go to any extent to do business and not fail.An anonymous person threatens him to stop his successful business.",
-  "popularity": 0.1499,
+  "popularity": 1.2401,
   "poster_path": "/nrAYAzO8o3ePChjg8h0Ngt0NdAW.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -46,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Vikas Muppala",
         "original_name": "Vikas Muppala",
-        "popularity": 0.0168,
+        "popularity": 0.7065,
         "profile_path": null,
         "cast_id": 3,
         "character": "Rahul",
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Gayatri Gupta",
         "original_name": "Gayatri Gupta",
-        "popularity": 0.0935,
+        "popularity": 0.4416,
         "profile_path": "/aJlbNUzixI72ENmVQ1RSzLe2FTF.jpg",
         "cast_id": 4,
         "character": "Deepu",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sajiv Pasala",
         "original_name": "Sajiv Pasala",
-        "popularity": 0.0143,
+        "popularity": 0.4721,
         "profile_path": null,
         "cast_id": 5,
         "character": "Rahul",
@@ -90,7 +90,7 @@
         "known_for_department": "Directing",
         "name": "Bhanu Bhava Taraka",
         "original_name": "Bhanu Bhava Taraka",
-        "popularity": 0.0071,
+        "popularity": 0.4268,
         "profile_path": null,
         "credit_id": "6817699c281525030184cf49",
         "department": "Directing",
@@ -103,7 +103,7 @@
         "known_for_department": "Directing",
         "name": "Bhanu Bhava Taraka",
         "original_name": "Bhanu Bhava Taraka",
-        "popularity": 0.0071,
+        "popularity": 0.4268,
         "profile_path": null,
         "credit_id": "681769a74222d99c3208a20a",
         "department": "Writing",
@@ -111,18 +111,27 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt29515754",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nrAYAzO8o3ePChjg8h0Ngt0NdAW.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -141,23 +150,14 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/nrAYAzO8o3ePChjg8h0Ngt0NdAW.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt29515754",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "PRATHIROOPAM",
   "overview": "To acquire land of Mallikarjun,Rudra forces. When rejected he kills the entire family of Mallikarjun. When Charu lover comes to know this he takes action and takes the revenge for sake of his lover",
-  "popularity": 0.0071,
+  "popularity": 0.456,
   "poster_path": null,
   "production_companies": [
     {
@@ -52,16 +52,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [],
     "crew": [
@@ -72,7 +62,7 @@
         "known_for_department": "Sound",
         "name": "A.T.Ravish",
         "original_name": "A.T.Ravish",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68fd1c63acf9fb8a9f2aa4a7",
         "department": "Sound",
@@ -85,7 +75,7 @@
         "known_for_department": "Camera",
         "name": "Charan Teja",
         "original_name": "Charan Teja",
-        "popularity": 0,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "68fd1c64a231818d713bf5a0",
         "department": "Camera",
@@ -98,7 +88,7 @@
         "known_for_department": "Editing",
         "name": "Pavan.B.K.",
         "original_name": "Pavan.B.K.",
-        "popularity": 0,
+        "popularity": 0.2622,
         "profile_path": null,
         "credit_id": "68fd1c6682b0273758275a52",
         "department": "Editing",
@@ -111,7 +101,7 @@
         "known_for_department": "Writing",
         "name": "Naresh Siddhagattha",
         "original_name": "Naresh Siddhagattha",
-        "popularity": 0,
+        "popularity": 0.2816,
         "profile_path": null,
         "credit_id": "68fd1c68436fd2a4cf2aa347",
         "department": "Writing",
@@ -124,7 +114,7 @@
         "known_for_department": "Writing",
         "name": "Naresh Siddhagattha",
         "original_name": "Naresh Siddhagattha",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68fd1c6ada74cc2954d9fac2",
         "department": "Writing",
@@ -135,6 +125,19 @@
   "videos": {
     "results": []
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": []
   },
@@ -142,8 +145,5 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

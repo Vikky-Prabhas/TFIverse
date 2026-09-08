@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ego",
   "overview": "Ego movie is a romantic action entertainer directed by RV Subramanyam and jointly produced by KR Anil Karan, KR Kaushal Karan and KR Vijay Karan while Sai Karthik scored music for this movie.",
-  "popularity": 0.1364,
+  "popularity": 1.5753,
   "poster_path": "/nKAQexFbWtQjZZjs3yRw0NM5i1l.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -32,8 +32,11 @@
   "tagline": "",
   "title": "Ego",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 5,
+  "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Aashish Raj",
         "original_name": "Aashish Raj",
-        "popularity": 0.0071,
+        "popularity": 0.3743,
         "profile_path": null,
         "cast_id": 0,
         "character": "",
@@ -57,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Diksha Panth",
         "original_name": "Diksha Panth",
-        "popularity": 0.1733,
+        "popularity": 0.5372,
         "profile_path": "/sajGzJyBdwyjjvKLGRIqiQOPm76.jpg",
         "cast_id": 1,
         "character": "",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Simran Sharma",
         "original_name": "Simran Sharma",
-        "popularity": 0.1894,
+        "popularity": 0.4821,
         "profile_path": "/tJYpWuUyIL4rya7rc5H3aODaUH1.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,18 +84,32 @@
     ],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt7981422",
     "wikidata_id": "Q69519879",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-01-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -133,22 +150,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-01-19T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

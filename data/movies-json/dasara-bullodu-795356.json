@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Dasara Bullodu",
   "overview": "Both Radha and Nirmala love a young man named Gopi. But Nirmala's father wants to make Gopi marry Nirmala in order to grab his property. But she realizes that Gopi and Radha are in love and tries to unite them.",
-  "popularity": 0.2309,
+  "popularity": 1.1494,
   "poster_path": "/eVTtRPOwckbrLChgh9pGMOCMmDY.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -35,9 +38,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +54,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.6862,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 4,
         "character": "",
@@ -95,7 +98,7 @@
         "known_for_department": "Production",
         "name": "V. B. Rajendra Prasad",
         "original_name": "V. B. Rajendra Prasad",
-        "popularity": 0.3431,
+        "popularity": 0.9697,
         "profile_path": null,
         "credit_id": "6023adc1bc2cb3003ea26d69",
         "department": "Directing",
@@ -103,34 +106,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt0260842",
     "wikidata_id": "Q24905433",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 1600,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/eVTtRPOwckbrLChgh9pGMOCMmDY.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1200
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -148,6 +129,25 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eVTtRPOwckbrLChgh9pGMOCMmDY.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1200
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []

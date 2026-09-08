@@ -3,23 +3,28 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
   "homepage": "",
   "id": 1618208,
-  "imdb_id": null,
+  "imdb_id": "tt37252808",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
-  "original_title": "George Krish",
-  "overview": "Action comedy entertainer",
-  "popularity": 0.0919,
+  "original_title": "జార్జ్ క్రిష్",
+  "overview": "",
+  "popularity": 1.4641,
   "poster_path": null,
   "production_companies": [
     {
-      "id": 69125,
-      "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
-      "name": "Mythri Movie Makers",
+      "id": 45597,
+      "logo_path": "/cikGdkHOmFTXgi95V1yx8EIoZyi.png",
+      "name": "AK Entertainments",
       "origin_country": "IN"
     }
   ],
@@ -40,7 +45,7 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Planned",
+  "status": "In Production",
   "tagline": "",
   "title": "George Krish",
   "video": false,
@@ -54,13 +59,27 @@
         "id": 588007,
         "known_for_department": "Acting",
         "name": "Sharwanand",
-        "original_name": "Sharwanand",
-        "popularity": 1.023,
+        "original_name": "శర్వానంద్",
+        "popularity": 1.9284,
         "profile_path": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "696b123433b6dda319689320",
         "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4550863,
+        "known_for_department": "Acting",
+        "name": "Preity Mukhundhan",
+        "original_name": "ப்ரீத்தி முகுந்தன்",
+        "popularity": 2.1406,
+        "profile_path": "/3Rx9ci7YYwrSraXWMaBDW3iB4es.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6a33a6008c7fc31ba5e6e624",
+        "order": 1
       }
     ],
     "crew": [
@@ -71,7 +90,7 @@
         "known_for_department": "Directing",
         "name": "Sreenu Vaitla",
         "original_name": "Sreenu Vaitla",
-        "popularity": 0.6464,
+        "popularity": 1.4944,
         "profile_path": "/dj1i0r5wQ5biXWz7HUpi9PYhx1z.jpg",
         "credit_id": "696b1248e9f89d6fd3aa9f19",
         "department": "Directing",
@@ -79,34 +98,124 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 1648660,
+        "gender": 0,
+        "id": 1209798,
         "known_for_department": "Production",
-        "name": "Naveen Yerneni",
-        "original_name": "Naveen Yerneni",
-        "popularity": 0.2639,
-        "profile_path": "/iestiUKLGHblxeQtI0DF5ENCxLW.jpg",
-        "credit_id": "696b125ea8736867a4f11530",
+        "name": "Anil Sunkara",
+        "original_name": "Anil Sunkara",
+        "popularity": 0.4372,
+        "profile_path": null,
+        "credit_id": "6a33a61cb5f9d053f7858ca5",
         "department": "Production",
         "job": "Producer"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 1648659,
+        "id": 230015,
+        "known_for_department": "Camera",
+        "name": "K. V. Guhan",
+        "original_name": "K. V. Guhan",
+        "popularity": 0.3991,
+        "profile_path": "/2Spscl1nNXo18jtUNgyVRKFMtQL.jpg",
+        "credit_id": "6a7ebbe2a1ac136aac1c3421",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001826,
+        "known_for_department": "Sound",
+        "name": "Anup Rubens",
+        "original_name": "Anup Rubens",
+        "popularity": 0.3792,
+        "profile_path": "/yfAPR7VRlZp4deOLNtESUd6uhSY.jpg",
+        "credit_id": "6a7ebbf29e4551e69db7a46d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035066,
+        "known_for_department": "Art",
+        "name": "Kolla Avinash",
+        "original_name": "Kolla Avinash",
+        "popularity": 0.4334,
+        "profile_path": "/27Tw9vCcGV1iNE0Y8MIpLY3U5r2.jpg",
+        "credit_id": "6a7ebc02d0d41ec108181b33",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543707,
+        "known_for_department": "Editing",
+        "name": "Amar Reddy Kudumula",
+        "original_name": "Amar Reddy Kudumula",
+        "popularity": 0.2674,
+        "profile_path": null,
+        "credit_id": "6a7ebc0fd0d41ec108181b41",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3721470,
+        "known_for_department": "Writing",
+        "name": "Nandu Savirigana",
+        "original_name": "Nandu Savirigana",
+        "popularity": 0.6261,
+        "profile_path": null,
+        "credit_id": "6a7ebc1e24cd632e012d2cd7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 465587,
+        "known_for_department": "Writing",
+        "name": "Gopi Mohan",
+        "original_name": "Gopi Mohan",
+        "popularity": 1.198,
+        "profile_path": "/mvLYdlSAGWj0RvzbCCPtGcG3KfK.jpg",
+        "credit_id": "6a7ebc28ab1e3f0996b7a510",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2422395,
         "known_for_department": "Production",
-        "name": "Y. Ravi Shankar",
-        "original_name": "Y. Ravi Shankar",
-        "popularity": 0.1851,
-        "profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
-        "credit_id": "696b129fae05b6565036a477",
+        "name": "Kishore Garikipati",
+        "original_name": "Kishore Garikipati",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "credit_id": "6a7ebc37b6e52ef7121c3446",
         "department": "Production",
-        "job": "Producer"
+        "job": "Executive Producer"
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt37252808",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -125,22 +234,10 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
   "alternative_titles": {
     "titles": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "రేపటి వెలుగు",
   "overview": "Set against the backdrop of a beautiful hiltop village surrounded by dense forest and a decaying tea plantation is the story of sudha,an under privileged woman who reaches this village after her marriage with chandran.They stay along with chandran's brother and aging mother in a confined single room house with a make shift separation to create space for the couple. The room has a strange light without switch which changes its colour often.where she struggles to find her privacy.Meanwhile her husband constantly attempts to physically exert his dominance over her.Traumatised sudha decides to fight her battle and take revenge on chandran,will the powerless sudha succeed in her fight for survival?",
-  "popularity": 0.0143,
+  "popularity": 0.4122,
   "poster_path": "/excTVryLYyrsSYIoNDU7AnEbkJS.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,16 +34,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []
@@ -64,12 +67,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -108,5 +105,8 @@
         "width": 600
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

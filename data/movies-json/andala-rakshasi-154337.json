@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అందాల రాక్షసి",
   "overview": "Gautham, a wealthy man, falls for a woman named Mithuna only to learn that she loves another man. However, a sudden chain of events changes their lives forever.",
-  "popularity": 0.3952,
+  "popularity": 1.6722,
   "poster_path": "/xTJSZ1XtPrZrjbHcASNf9GWMXBw.jpg",
   "production_companies": [
     {
@@ -53,8 +53,18 @@
   "tagline": "",
   "title": "Andala Rakshasi",
   "video": false,
-  "vote_average": 6.3,
-  "vote_count": 8,
+  "vote_average": 6.545,
+  "vote_count": 11,
+  "external_ids": {
+    "imdb_id": "tt2316756",
+    "wikidata_id": "Q4753488",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Tripathi",
         "original_name": "Lavanya Tripathi",
-        "popularity": 0.326,
+        "popularity": 1.5245,
         "profile_path": "/fp31MLIjisF6MdWRBN3KQ9T8S3u.jpg",
         "cast_id": 4,
         "character": "Midhuna",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ravindran",
         "original_name": "Rahul Ravindran",
-        "popularity": 0.2938,
+        "popularity": 1.0167,
         "profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
         "cast_id": 3,
         "character": "Gautham",
@@ -92,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Chandra",
         "original_name": "Naveen Chandra",
-        "popularity": 0.8324,
+        "popularity": 1.6073,
         "profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
         "cast_id": 2,
         "character": "Surya",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "C. V. L. Narasimha Rao",
         "original_name": "C. V. L. Narasimha Rao",
-        "popularity": 0.193,
+        "popularity": 0.5405,
         "profile_path": "/ehPetJv7j7nRWYYRrPUpKvhiru9.jpg",
         "cast_id": 12,
         "character": "Midhuna's Father",
@@ -120,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Pragathi Mahavadi",
         "original_name": "Pragathi Mahavadi",
-        "popularity": 0.6511,
+        "popularity": 1.3133,
         "profile_path": "/9v63JB33LMkfR90raHu9O1iHZOQ.jpg",
         "cast_id": 11,
         "character": "Mithuna's mother",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Micky Makhija",
         "original_name": "Micky Makhija",
-        "popularity": 0.1126,
+        "popularity": 0.3563,
         "profile_path": "/4Bcm67iVvsAoyZxMcFbZ7yy6feW.jpg",
         "cast_id": 15,
         "character": "Gautam's Father",
@@ -148,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Narasimha Raju",
         "original_name": "Narasimha Raju",
-        "popularity": 0.0311,
+        "popularity": 0.8201,
         "profile_path": null,
         "cast_id": 16,
         "character": "",
@@ -159,27 +169,40 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 1135092,
+        "known_for_department": "Writing",
+        "name": "Hanu Raghavapudi",
+        "original_name": "Hanu Raghavapudi",
+        "popularity": 0.6951,
+        "profile_path": "/7tizD44Jp35OLykxEQlMxKOjuTz.jpg",
+        "credit_id": "60a82cc7501cf20059304960",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2737012,
+        "known_for_department": "Editing",
+        "name": "G V Chandrasekar",
+        "original_name": "G V Chandrasekar",
+        "popularity": 0.2618,
+        "profile_path": null,
+        "credit_id": "60a82c124b0c630078d4e6df",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 1668466,
         "known_for_department": "Production",
         "name": "Sai Korrapati",
         "original_name": "Sai Korrapati",
-        "popularity": 0.1041,
+        "popularity": 0.3567,
         "profile_path": null,
         "credit_id": "60a82ab8501cf20026d2f9c6",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 147021,
-        "known_for_department": "Directing",
-        "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.2185,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
-        "credit_id": "60a82ac885702e00580aecf0",
         "department": "Production",
         "job": "Producer"
       },
@@ -190,7 +213,7 @@
         "known_for_department": "Camera",
         "name": "G. Murali",
         "original_name": "G. Murali",
-        "popularity": 0.0404,
+        "popularity": 0.3318,
         "profile_path": "/7Hc4deVk6mC0zEvUJ3lWvU9LXLY.jpg",
         "credit_id": "60a82ad95541fa006df09098",
         "department": "Camera",
@@ -199,15 +222,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2737012,
-        "known_for_department": "Editing",
-        "name": "G V Chandrasekar",
-        "original_name": "G V Chandrasekar",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "60a82c124b0c630078d4e6df",
-        "department": "Editing",
-        "job": "Editor"
+        "id": 147021,
+        "known_for_department": "Directing",
+        "name": "S. S. Rajamouli",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
+        "credit_id": "60a82ac885702e00580aecf0",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -216,20 +239,7 @@
         "known_for_department": "Writing",
         "name": "Hanu Raghavapudi",
         "original_name": "Hanu Raghavapudi",
-        "popularity": 0.2346,
-        "profile_path": "/7tizD44Jp35OLykxEQlMxKOjuTz.jpg",
-        "credit_id": "60a82cc7501cf20059304960",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1135092,
-        "known_for_department": "Writing",
-        "name": "Hanu Raghavapudi",
-        "original_name": "Hanu Raghavapudi",
-        "popularity": 0.2346,
+        "popularity": 0.6951,
         "profile_path": "/7tizD44Jp35OLykxEQlMxKOjuTz.jpg",
         "credit_id": "52fe4b5c9251416c910d7f43",
         "department": "Directing",
@@ -242,7 +252,7 @@
         "known_for_department": "Sound",
         "name": "Radhan",
         "original_name": "Radhan",
-        "popularity": 0.1062,
+        "popularity": 0.4321,
         "profile_path": "/8fJbIfph53BOACVz59IIMRoPr4Y.jpg",
         "credit_id": "5a75d40b925141059703263e",
         "department": "Sound",
@@ -255,11 +265,11 @@
         "known_for_department": "Writing",
         "name": "Rakendu Mouli",
         "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
+        "popularity": 0.5423,
         "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
-        "credit_id": "66d29ba863ff7d608d457591",
-        "department": "Writing",
-        "job": "Lyricist"
+        "credit_id": "66d29bbfa658ab22ebb60970",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -268,23 +278,13 @@
         "known_for_department": "Writing",
         "name": "Rakendu Mouli",
         "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
+        "popularity": 0.5423,
         "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
-        "credit_id": "66d29bbfa658ab22ebb60970",
-        "department": "Sound",
-        "job": "Playback Singer"
+        "credit_id": "66d29ba863ff7d608d457591",
+        "department": "Writing",
+        "job": "Lyricist"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt2316756",
-    "wikidata_id": "Q4753488",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -351,9 +351,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "release_dates": {
     "results": [
       {
@@ -370,5 +367,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

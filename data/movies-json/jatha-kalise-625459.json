@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Jatha Kalise",
   "overview": "Rushi (Ashwin) is an NRI that goes to Vizag to attend the marriage of his friend. The wedding is called off and Rushi decides to leave for the US and starts his journey in a cabin to Hyderabad. Tejaswi (Tejaswi), who will be attending an interview in Hyderabad, will also take the same cab for travel. Is Rushi and Tejaswi known to each other before? What happened next is the rest of sto",
-  "popularity": 0.1813,
+  "popularity": 0.5237,
   "poster_path": "/5EVQBgFapRhsYDXNUhbX5xR12mi.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,107 +48,12 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1464727,
-        "known_for_department": "Acting",
-        "name": "Tejaswi Madivada",
-        "original_name": "Tejaswi Madivada",
-        "popularity": 0.2718,
-        "profile_path": "/1XRKVC9IEqf0k6Yj1R69xCc0dUA.jpg",
-        "cast_id": 1,
-        "character": "Tejaswi",
-        "credit_id": "5d6164f354f6eb00189b83c8",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1412713,
-        "known_for_department": "Acting",
-        "name": "Saptagiri",
-        "original_name": "Saptagiri",
-        "popularity": 0.3063,
-        "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5d6165017f6c8d0017ed015a",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2395024,
-        "known_for_department": "Acting",
-        "name": "Ashwin Babu",
-        "original_name": "Ashwin Babu",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "Rishi",
-        "credit_id": "5d616518a1d33200181f5765",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1439288,
-        "known_for_department": "Acting",
-        "name": "Shakalaka Shankar",
-        "original_name": "Shakalaka Shankar",
-        "popularity": 0.1452,
-        "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5d616538a1d33200141f570d",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2395026,
-        "known_for_department": "Acting",
-        "name": "Snigdha Nayani",
-        "original_name": "Snigdha Nayani",
-        "popularity": 0.3092,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "5d616553a1d33200161f5607",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2395028,
-        "known_for_department": "Production",
-        "name": "Naresh Ravuri",
-        "original_name": "Naresh Ravuri",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5d616584a1d33200161f5621",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1340550,
-        "known_for_department": "Directing",
-        "name": "Rakesh Shashi",
-        "original_name": "Rakesh Shashi",
-        "popularity": 0.1582,
-        "profile_path": null,
-        "credit_id": "5d61656b54f6eb00179b8267",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt14558872",
+    "wikidata_id": "Q126165446",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -166,6 +71,111 @@
       }
     ]
   },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1464727,
+        "known_for_department": "Acting",
+        "name": "Tejaswi Madivada",
+        "original_name": "Tejaswi Madivada",
+        "popularity": 0.8243,
+        "profile_path": "/1XRKVC9IEqf0k6Yj1R69xCc0dUA.jpg",
+        "cast_id": 1,
+        "character": "Tejaswi",
+        "credit_id": "5d6164f354f6eb00189b83c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412713,
+        "known_for_department": "Acting",
+        "name": "Saptagiri",
+        "original_name": "Saptagiri",
+        "popularity": 1.7707,
+        "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5d6165017f6c8d0017ed015a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2395024,
+        "known_for_department": "Acting",
+        "name": "Ashwin Babu",
+        "original_name": "Ashwin Babu",
+        "popularity": 0.3335,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Rishi",
+        "credit_id": "5d616518a1d33200181f5765",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1439288,
+        "known_for_department": "Acting",
+        "name": "Shakalaka Shankar",
+        "original_name": "Shakalaka Shankar",
+        "popularity": 0.8855,
+        "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5d616538a1d33200141f570d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2395026,
+        "known_for_department": "Acting",
+        "name": "Snigdha Nayani",
+        "original_name": "Snigdha Nayani",
+        "popularity": 1.4598,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5d616553a1d33200161f5607",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340550,
+        "known_for_department": "Directing",
+        "name": "Rakesh Shashi",
+        "original_name": "Rakesh Shashi",
+        "popularity": 0.4424,
+        "profile_path": null,
+        "credit_id": "5d61656b54f6eb00179b8267",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2395028,
+        "known_for_department": "Production",
+        "name": "Naresh Ravuri",
+        "original_name": "Naresh Ravuri",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "5d616584a1d33200161f5621",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "release_dates": {
     "results": [
       {
@@ -182,13 +192,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt14558872",
-    "wikidata_id": "Q126165446",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -230,8 +233,5 @@
         "width": 1200
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

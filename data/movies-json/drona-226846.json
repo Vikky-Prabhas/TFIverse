@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Drona",
   "overview": "Drona (Nitin) is the only son of Mukhesh Rushi and Sita. Drona’s father Mukesh Rushi is an honest and dedicated Police officer. Drona likes his mother Meenakshi (Sita) so much and love her as his own life. When he was a child Drona steals his father’s revolver to scare his friends. On knowing this his father scolds him, consequently Drona leaves his home and gets lost. After 10 years, he comes back to his parents with the name Chandu. A Neighboring girl Indu (Priyamani) likes Drona/Chandu a lot. On a fateful day, she finds out that Chandu is none other than the long lost boy, Drona",
-  "popularity": 0.4427,
+  "popularity": 1.0967,
   "poster_path": "/gLb0QcZMO0orvvGxcFUOrwFOn6O.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 2.0264,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 1,
         "character": "Drona",
@@ -66,9 +66,9 @@
         "id": 1107197,
         "known_for_department": "Acting",
         "name": "Priyamani",
-        "original_name": "Priyamani",
-        "popularity": 0.8018,
-        "profile_path": "/zB365nF9wec5KBczviUTAX9MwHj.jpg",
+        "original_name": "ప్రియమణి",
+        "popularity": 2.1143,
+        "profile_path": "/i1sZtQcphZWJij3LoR9M6QY9i4z.jpg",
         "cast_id": 2,
         "character": "Indu",
         "credit_id": "52fe4e8a9251416c75159d01",
@@ -81,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "53c3f5580e0a26157c00c99b",
@@ -94,8 +94,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Rakhi Sawant",
         "original_name": "Rakhi Sawant",
-        "popularity": 0.3566,
+        "popularity": 1.2614,
         "profile_path": "/uTgCw0pcfqPf0HLb2vrcJvkwRTi.jpg",
         "cast_id": 5,
         "character": "",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Kelly Dorji",
         "original_name": "Kelly Dorji",
-        "popularity": 0.1776,
+        "popularity": 1.5969,
         "profile_path": "/bOHbApxFuSczyq8Bt1ozmTTmJ4H.jpg",
         "cast_id": 6,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 7,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Directing",
         "name": "J. Karun Kumar",
         "original_name": "J. Karun Kumar",
-        "popularity": 0.0733,
+        "popularity": 0.3465,
         "profile_path": null,
         "credit_id": "61ffe7e147c9fb008eb42983",
         "department": "Directing",
@@ -166,24 +166,11 @@
         "known_for_department": "Directing",
         "name": "J. Karun Kumar",
         "original_name": "J. Karun Kumar",
-        "popularity": 0.0733,
+        "popularity": 0.3465,
         "profile_path": null,
         "credit_id": "61ffe8e5e54d5d010ad10323",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1787650,
-        "known_for_department": "Acting",
-        "name": "Niranjana Anoop",
-        "original_name": "Niranjana Anoop",
-        "popularity": 0.3892,
-        "profile_path": "/9L8UWUaFIX06GzaIuP8L6za3YZu.jpg",
-        "credit_id": "61ffe90d47c9fb00e264434f",
-        "department": "Sound",
-        "job": "Music Director"
       },
       {
         "adult": false,
@@ -192,11 +179,24 @@
         "known_for_department": "Acting",
         "name": "D.S. Rao",
         "original_name": "D.S. Rao",
-        "popularity": 0.0709,
+        "popularity": 0.3366,
         "profile_path": null,
         "credit_id": "61ffe8f18f26bc001c7a9387",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1787650,
+        "known_for_department": "Acting",
+        "name": "Niranjana Anoop",
+        "original_name": "Niranjana Anoop",
+        "popularity": 1.3329,
+        "profile_path": "/9L8UWUaFIX06GzaIuP8L6za3YZu.jpg",
+        "credit_id": "61ffe90d47c9fb00e264434f",
+        "department": "Sound",
+        "job": "Music Director"
       },
       {
         "adult": false,
@@ -205,7 +205,7 @@
         "known_for_department": "Writing",
         "name": "Mankombu Gopalakrishnan",
         "original_name": "Mankombu Gopalakrishnan",
-        "popularity": 0.0464,
+        "popularity": 0.5702,
         "profile_path": "/3Wds5asPwDdM0xrYj3AYnnmx6zz.jpg",
         "credit_id": "694a7214c2cfd514a37acafa",
         "department": "Writing",
@@ -215,6 +215,13 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1606202",
+    "wikidata_id": "Q5308311",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -232,12 +239,24 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1606202",
-    "wikidata_id": "Q5308311",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Drona",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Sarfira The Power Man",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Aatank Ke Mitaib Hum",
+        "type": "Bhojpuri Dubbed"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -290,25 +309,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 600
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Drona",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Sarfira The Power Man",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Aatank Ke Mitaib Hum",
-        "type": "Bhojpuri Dubbed"
       }
     ]
   }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "తోట రాముడు",
   "overview": "Thota Ramudu is a Telugu film released on October 31, 1975. Produced by G.D.Prasad Rao and Korada Suryanarayana under the banner of Sri Dasarathy and Chalam Bombayns, the film was directed by B.V.Prasad. Chalam, M.Prabhakara Reddy and Thyagaraju are the main cast of the film and Chellapilla Sathyam has composed the music.",
-  "popularity": 0.4032,
+  "popularity": 1.3176,
   "poster_path": null,
   "production_companies": [
     {
@@ -55,6 +55,13 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 2,
+  "external_ids": {
+    "imdb_id": "tt0371991",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": [
       {
@@ -71,12 +78,266 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0371991",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584346,
+        "known_for_department": "Acting",
+        "name": "Pandari Bai",
+        "original_name": "பண்டரிபாய்",
+        "popularity": 2.0338,
+        "profile_path": "/hQRkAIELIKQihKEeWMVW0j3GHsE.jpg",
+        "cast_id": 2,
+        "character": "Pandharibai",
+        "credit_id": "62c96b16076ce8004e086a3c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 154080,
+        "known_for_department": "Acting",
+        "name": "G. Varalakshmi",
+        "original_name": "G. Varalakshmi",
+        "popularity": 0.7762,
+        "profile_path": "/syEEQlyE78ywNvxpL7ajc1OKqWp.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "62c96b244b9bae00502cfdae",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611650,
+        "known_for_department": "Acting",
+        "name": "Chalam",
+        "original_name": "Chalam",
+        "popularity": 1.1997,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ramudu",
+        "credit_id": "62c96b3805f9cf006785be70",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584456,
+        "known_for_department": "Acting",
+        "name": "Manjula Vijayakumar",
+        "original_name": "Manjula Vijayakumar",
+        "popularity": 1.8038,
+        "profile_path": "/46zkEG4JOYnRw7OG8StufvacHMW.jpg",
+        "cast_id": 20,
+        "character": "Durga",
+        "credit_id": "6595dc8e0e64af17178c1b78",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267544,
+        "known_for_department": "Acting",
+        "name": "Prabhakar Reddy",
+        "original_name": "Prabhakar Reddy",
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "62c96b553d4d960054375ede",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "62c96c6a595a56094ee2d991",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660479,
+        "known_for_department": "Writing",
+        "name": "Acharya Aatreya",
+        "original_name": "Acharya Aatreya",
+        "popularity": 0.5798,
+        "profile_path": null,
+        "credit_id": "62c96c0d95665800fd277851",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617461,
+        "known_for_department": "Directing",
+        "name": "B.V. Prasad",
+        "original_name": "B.V. Prasad",
+        "popularity": 0.292,
+        "profile_path": null,
+        "credit_id": "62c96b0305f9cf004c838c89",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617464,
+        "known_for_department": "Production",
+        "name": "Korada Suryanarayana",
+        "original_name": "Korada Suryanarayana",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "62c96bab90b87e07565e0e22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617463,
+        "known_for_department": "Production",
+        "name": "G.D. Prasad Rao",
+        "original_name": "G.D. Prasad Rao",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "62c96b9d95665800fc18a473",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1998883,
+        "known_for_department": "Sound",
+        "name": "P. Susheela",
+        "original_name": "P. Susheela",
+        "popularity": 0.5907,
+        "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
+        "credit_id": "62c96c7ae8131d0689adecf9",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3617470,
+        "known_for_department": "Writing",
+        "name": "Kosaraju Raghavaiah Chowdary",
+        "original_name": "Kosaraju Raghavaiah Chowdary",
+        "popularity": 0.3489,
+        "profile_path": null,
+        "credit_id": "62c96c3d595a56094d4821c0",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3511456,
+        "known_for_department": "Writing",
+        "name": "C. Narayana Reddy",
+        "original_name": "C. Narayana Reddy",
+        "popularity": 0.2676,
+        "profile_path": null,
+        "credit_id": "62c96c3139a1a6051416878e",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3617467,
+        "known_for_department": "Editing",
+        "name": "Anki Reddy Veluri",
+        "original_name": "Anki Reddy Veluri",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "62c96bd24b9bae0065eb646e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617474,
+        "known_for_department": "Art",
+        "name": "M. Somnath",
+        "original_name": "M. Somnath",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "credit_id": "62c96c97e8131d068b1122ae",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335725,
+        "known_for_department": "Sound",
+        "name": "Chellapilla Satyanarayana Sastry",
+        "original_name": "Chellapilla Satyanarayana Sastry",
+        "popularity": 0.3275,
+        "profile_path": null,
+        "credit_id": "62c96bf1e8131d0689adec9f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3617469,
+        "known_for_department": "Writing",
+        "name": "Dasarathi",
+        "original_name": "Dasarathi",
+        "popularity": 0.2793,
+        "profile_path": null,
+        "credit_id": "62c96c26eea34d00556440da",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617473,
+        "known_for_department": "Sound",
+        "name": "Madhavapeddi Ramesh",
+        "original_name": "Madhavapeddi Ramesh",
+        "popularity": 0.267,
+        "profile_path": null,
+        "credit_id": "62c96c86e8131d0689aded0f",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340129,
+        "known_for_department": "Camera",
+        "name": "P. S. Prakash",
+        "original_name": "P. S. Prakash",
+        "popularity": 0.3284,
+        "profile_path": null,
+        "credit_id": "6a062d5ca41de53ceaebf4cf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -95,6 +356,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
@@ -110,269 +374,5 @@
     ],
     "logos": [],
     "posters": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584346,
-        "known_for_department": "Acting",
-        "name": "Pandari Bai",
-        "original_name": "Pandari Bai",
-        "popularity": 0.4891,
-        "profile_path": "/hQRkAIELIKQihKEeWMVW0j3GHsE.jpg",
-        "cast_id": 2,
-        "character": "Pandharibai",
-        "credit_id": "62c96b16076ce8004e086a3c",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 154080,
-        "known_for_department": "Acting",
-        "name": "G. Varalakshmi",
-        "original_name": "G. Varalakshmi",
-        "popularity": 0.2222,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "62c96b244b9bae00502cfdae",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1611650,
-        "known_for_department": "Acting",
-        "name": "Chalam",
-        "original_name": "Chalam",
-        "popularity": 0.077,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "Ramudu",
-        "credit_id": "62c96b3805f9cf006785be70",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584456,
-        "known_for_department": "Acting",
-        "name": "Manjula Vijayakumar",
-        "original_name": "Manjula Vijayakumar",
-        "popularity": 0.4704,
-        "profile_path": "/46zkEG4JOYnRw7OG8StufvacHMW.jpg",
-        "cast_id": 20,
-        "character": "Durga",
-        "credit_id": "6595dc8e0e64af17178c1b78",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1267544,
-        "known_for_department": "Acting",
-        "name": "Prabhakar Reddy",
-        "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "62c96b553d4d960054375ede",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617461,
-        "known_for_department": "Directing",
-        "name": "B.V. Prasad",
-        "original_name": "B.V. Prasad",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "62c96b0305f9cf004c838c89",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617463,
-        "known_for_department": "Production",
-        "name": "G.D. Prasad Rao",
-        "original_name": "G.D. Prasad Rao",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "62c96b9d95665800fc18a473",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617464,
-        "known_for_department": "Production",
-        "name": "Korada Suryanarayana",
-        "original_name": "Korada Suryanarayana",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "62c96bab90b87e07565e0e22",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617466,
-        "known_for_department": "Camera",
-        "name": "P.S. Prakash",
-        "original_name": "P.S. Prakash",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "62c96bc5eea34d005564408f",
-        "department": "Camera",
-        "job": "Still Photographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3617467,
-        "known_for_department": "Editing",
-        "name": "Anki Reddy Veluri",
-        "original_name": "Anki Reddy Veluri",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "62c96bd24b9bae0065eb646e",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335725,
-        "known_for_department": "Sound",
-        "name": "Chellapilla Satyanarayana Sastry",
-        "original_name": "Chellapilla Satyanarayana Sastry",
-        "popularity": 0.0526,
-        "profile_path": null,
-        "credit_id": "62c96bf1e8131d0689adec9f",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1660479,
-        "known_for_department": "Writing",
-        "name": "Acharya Aatreya",
-        "original_name": "Acharya Aatreya",
-        "popularity": 0.1163,
-        "profile_path": null,
-        "credit_id": "62c96c0d95665800fd277851",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3617469,
-        "known_for_department": "Writing",
-        "name": "Dasarathi",
-        "original_name": "Dasarathi",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "62c96c26eea34d00556440da",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3511456,
-        "known_for_department": "Writing",
-        "name": "C. Narayana Reddy",
-        "original_name": "C. Narayana Reddy",
-        "popularity": 0.0637,
-        "profile_path": null,
-        "credit_id": "62c96c3139a1a6051416878e",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3617470,
-        "known_for_department": "Writing",
-        "name": "Kosaraju Raghavaiah Chowdary",
-        "original_name": "Kosaraju Raghavaiah Chowdary",
-        "popularity": 0.0256,
-        "profile_path": null,
-        "credit_id": "62c96c3d595a56094d4821c0",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584585,
-        "known_for_department": "Sound",
-        "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
-        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
-        "credit_id": "62c96c6a595a56094ee2d991",
-        "department": "Sound",
-        "job": "Vocals"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1998883,
-        "known_for_department": "Sound",
-        "name": "P. Susheela",
-        "original_name": "P. Susheela",
-        "popularity": 0.0574,
-        "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
-        "credit_id": "62c96c7ae8131d0689adecf9",
-        "department": "Sound",
-        "job": "Vocals"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617473,
-        "known_for_department": "Sound",
-        "name": "Madhavapeddi Ramesh",
-        "original_name": "Madhavapeddi Ramesh",
-        "popularity": 0.0387,
-        "profile_path": null,
-        "credit_id": "62c96c86e8131d0689aded0f",
-        "department": "Sound",
-        "job": "Vocals"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617474,
-        "known_for_department": "Art",
-        "name": "M. Somnath",
-        "original_name": "M. Somnath",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "62c96c97e8131d068b1122ae",
-        "department": "Art",
-        "job": "Art Direction"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

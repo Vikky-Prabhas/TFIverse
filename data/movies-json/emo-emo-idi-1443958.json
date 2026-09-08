@@ -15,14 +15,14 @@
   ],
   "homepage": "",
   "id": 1443958,
-  "imdb_id": null,
+  "imdb_id": "tt39872321",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "Emo Emo Idi",
   "overview": "",
-  "popularity": 0.1507,
+  "popularity": 1.1139,
   "poster_path": null,
   "production_companies": [
     {
@@ -38,7 +38,7 @@
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2026-10-23",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -55,16 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -74,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Roshan Meka",
         "original_name": "Roshan Meka",
-        "popularity": 0.1851,
+        "popularity": 0.7842,
         "profile_path": "/nuwKLExCflAJFHCymjcaNeIzPGR.jpg",
         "cast_id": 4,
         "character": "Abhay",
@@ -87,9 +77,9 @@
         "id": 4550863,
         "known_for_department": "Acting",
         "name": "Preity Mukhundhan",
-        "original_name": "Preethi Mukundhan",
-        "popularity": 0.9785,
-        "profile_path": "/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg",
+        "original_name": "ப்ரீத்தி முகுந்தன்",
+        "popularity": 2.1406,
+        "profile_path": "/3Rx9ci7YYwrSraXWMaBDW3iB4es.jpg",
         "cast_id": 6,
         "character": "Apoorva",
         "credit_id": "698e584421795114360c2118",
@@ -102,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Yukti Thareja",
         "original_name": "Yukti Thareja",
-        "popularity": 0.1601,
+        "popularity": 0.5333,
         "profile_path": "/aUcMSWJMz5ur0AagUYC8jQBsV32.jpg",
         "cast_id": 28,
         "character": "",
@@ -116,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Devadarshini",
         "original_name": "Devadarshini",
-        "popularity": 0.82,
+        "popularity": 1.3654,
         "profile_path": "/gSq4nM6z82LfI4yjL116P1RDkb0.jpg",
         "cast_id": 26,
         "character": "",
@@ -132,7 +122,7 @@
         "known_for_department": "Directing",
         "name": "Sailesh Kolanu",
         "original_name": "Sailesh Kolanu",
-        "popularity": 0.3384,
+        "popularity": 1.1433,
         "profile_path": "/phjFUbCMwOfGqyPQqRDoGQyNLAV.jpg",
         "credit_id": "67c970d74af8a689a2034374",
         "department": "Directing",
@@ -145,7 +135,7 @@
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1832,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "67c970e92e7291306f24a931",
         "department": "Production",
@@ -158,7 +148,7 @@
         "known_for_department": "Sound",
         "name": "Hesham Abdul Wahab",
         "original_name": "Hesham Abdul Wahab",
-        "popularity": 0.0773,
+        "popularity": 0.4002,
         "profile_path": "/ufyGtcf2pvudH7sNgJO2wE8Xe8K.jpg",
         "credit_id": "697dd062dd156f976fcfe337",
         "department": "Sound",
@@ -171,7 +161,7 @@
         "known_for_department": "Directing",
         "name": "Sailesh Kolanu",
         "original_name": "Sailesh Kolanu",
-        "popularity": 0.3384,
+        "popularity": 1.1433,
         "profile_path": "/phjFUbCMwOfGqyPQqRDoGQyNLAV.jpg",
         "credit_id": "69900082e6b55aaf0f7f627f",
         "department": "Writing",
@@ -184,7 +174,7 @@
         "known_for_department": "Production",
         "name": "Sai Soujanya",
         "original_name": "Sai Soujanya",
-        "popularity": 0.1962,
+        "popularity": 0.4016,
         "profile_path": null,
         "credit_id": "6990009421fbe8ff138c9374",
         "department": "Production",
@@ -197,7 +187,7 @@
         "known_for_department": "Camera",
         "name": "Vamsi Patchipulusu",
         "original_name": "Vamsi Patchipulusu",
-        "popularity": 0.0404,
+        "popularity": 0.3954,
         "profile_path": null,
         "credit_id": "69901113460c5d9f5824cf3a",
         "department": "Camera",
@@ -210,7 +200,7 @@
         "known_for_department": "Art",
         "name": "Manisha A. Dutt",
         "original_name": "Manisha A. Dutt",
-        "popularity": 0.0445,
+        "popularity": 0.5761,
         "profile_path": null,
         "credit_id": "6990111bccf1990cc324ce52",
         "department": "Art",
@@ -223,7 +213,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Poojita Tadikonda",
         "original_name": "Poojita Tadikonda",
-        "popularity": 0.0678,
+        "popularity": 0.5314,
         "profile_path": null,
         "credit_id": "69901125460c5d9f5824cf3d",
         "department": "Costume & Make-Up",
@@ -236,7 +226,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "69901131a46c5126c124ce72",
         "department": "Production",
@@ -249,7 +239,7 @@
         "known_for_department": "Crew",
         "name": "Lakshmi Venugopal",
         "original_name": "Lakshmi Venugopal",
-        "popularity": 0.1186,
+        "popularity": 0.3108,
         "profile_path": "/jUbNekFC04sxG2obEqwt28FGhsA.jpg",
         "credit_id": "699011413c5eee43f4c8efe1",
         "department": "Crew",
@@ -262,7 +252,7 @@
         "known_for_department": "Sound",
         "name": "Sachin Sudhakaran",
         "original_name": "Sachin Sudhakaran",
-        "popularity": 0.448,
+        "popularity": 0.5601,
         "profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
         "credit_id": "6990114a8a7cc95eadc8ef0e",
         "department": "Sound",
@@ -275,7 +265,7 @@
         "known_for_department": "Sound",
         "name": "Hari Haran",
         "original_name": "Hari Haran",
-        "popularity": 0.2284,
+        "popularity": 0.5047,
         "profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
         "credit_id": "69901151e124c4de858c9375",
         "department": "Sound",
@@ -288,7 +278,7 @@
         "known_for_department": "Sound",
         "name": "Aravind Menon",
         "original_name": "Aravind Menon",
-        "popularity": 0.2018,
+        "popularity": 0.3577,
         "profile_path": "/imKmccMLSEut8MowQY7wsSBildh.jpg",
         "credit_id": "6990115d6bb2e45aff4ec9c0",
         "department": "Sound",
@@ -301,7 +291,7 @@
         "known_for_department": "Crew",
         "name": "Yelubandi Veerababu",
         "original_name": "Yelubandi Veerababu",
-        "popularity": 0,
+        "popularity": 0.3049,
         "profile_path": null,
         "credit_id": "699011696bb2e45aff4ec9ca",
         "department": "Crew",
@@ -314,7 +304,7 @@
         "known_for_department": "Editing",
         "name": "Vivek Anand",
         "original_name": "Vivek Anand",
-        "popularity": 0.1676,
+        "popularity": 0.3773,
         "profile_path": "/hWnKDWqENHGXENnWis9MG8cThKf.jpg",
         "credit_id": "69901179eb1fc24b61346fbf",
         "department": "Editing",
@@ -327,7 +317,7 @@
         "known_for_department": "Directing",
         "name": "M. Venkat Kalyan",
         "original_name": "M. Venkat Kalyan",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "699011884c46e77bd8efa8fd",
         "department": "Directing",
@@ -340,7 +330,7 @@
         "known_for_department": "Directing",
         "name": "Niranjan Santhra",
         "original_name": "Niranjan Santhra",
-        "popularity": 0.0143,
+        "popularity": 0.3274,
         "profile_path": "/virdmGtXC2KnAwcbKbiI30OudP7.jpg",
         "credit_id": "69901195b4d9090182db01d5",
         "department": "Directing",
@@ -353,7 +343,7 @@
         "known_for_department": "Directing",
         "name": "Vijay Mahireddy",
         "original_name": "Vijay Mahireddy",
-        "popularity": 0.0071,
+        "popularity": 0.4969,
         "profile_path": null,
         "credit_id": "699011a07495c1e5db24ce4b",
         "department": "Directing",
@@ -366,7 +356,7 @@
         "known_for_department": "Directing",
         "name": "Rahiman Puri",
         "original_name": "Rahiman Puri",
-        "popularity": 0.0071,
+        "popularity": 0.3659,
         "profile_path": "/oFMD4ddYYXkDYWoUch3TlzoC5F1.jpg",
         "credit_id": "699011ae6af781dfaedb001b",
         "department": "Directing",
@@ -379,7 +369,7 @@
         "known_for_department": "Directing",
         "name": "Chendrakanth Pasupuleti",
         "original_name": "Chendrakanth Pasupuleti",
-        "popularity": 0.0143,
+        "popularity": 0.3177,
         "profile_path": "/vrqHQBLYsuo4t8lrVG8gKmHPvG2.jpg",
         "credit_id": "699011ba27bb98d144daffdb",
         "department": "Directing",
@@ -392,7 +382,7 @@
         "known_for_department": "Directing",
         "name": "Shiva Ajjakolli",
         "original_name": "Shiva Ajjakolli",
-        "popularity": 0,
+        "popularity": 0.3981,
         "profile_path": null,
         "credit_id": "699011d0799a1832a44ec9aa",
         "department": "Directing",
@@ -405,7 +395,7 @@
         "known_for_department": "Writing",
         "name": "Krishna Kanth",
         "original_name": "Krishna Kanth",
-        "popularity": 0.2088,
+        "popularity": 0.4041,
         "profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
         "credit_id": "699011dd460c5d9f5824cf49",
         "department": "Writing",
@@ -417,8 +407,8 @@
         "id": 2067890,
         "known_for_department": "Sound",
         "name": "Karthik",
-        "original_name": "Karthik",
-        "popularity": 0.1989,
+        "original_name": "கார்த்திக்",
+        "popularity": 0.7145,
         "profile_path": "/52p4kSTUZuw4KqV8pqu5Qr7IKnt.jpg",
         "credit_id": "69901484494f863ee7c8ee42",
         "department": "Sound",
@@ -426,16 +416,40 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt39872321",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

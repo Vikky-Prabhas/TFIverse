@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "సలీమ్",
   "overview": "Satyavati (Ileana) is the daughter of a rich and idealistic landlord/factionist in Rayalaseema. She is brought up in Europe for the past 15 years. She visits her home town after a long gap and she is attacked by the rival factionist. Munna (Vishnu Manchu) comes from nowhere and rescues her. Then he settles in her house as a worker and earns the love and trust of all Satyavati’s family members. He loves Satyavati. But Satyavati’s father wants to marry off to another guy. Just about when the marriage is going to happen, it is revealed that Satyavati has a lover (Venkat) from Europe and she uses Munna to help her escape to Europe. Just when Satyavati goes to Europe, it is revealed that Munna is none but a mafia kingpin from Bangkok called Saleem and Satyavati lover’s brother is none but a dreaded European don called OJo a.k.a. Ogiraja Jogayya (Mohan Babu). The rest of the story is all about how Saleem wins Satyavati over with his one-side love and his encounters with OJo.",
-  "popularity": 0.3639,
+  "popularity": 0.5853,
   "poster_path": "/9z8fcf8vtta3BMiYmcCY1psm4Ky.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,8 +41,11 @@
   "tagline": "",
   "title": "Saleem",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 2,
+  "vote_average": 5.333,
+  "vote_count": 3,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Manchu",
         "original_name": "Vishnu Manchu",
-        "popularity": 0.5128,
+        "popularity": 2.2105,
         "profile_path": "/g0wi6kP54JK2B1312pwiEexihFB.jpg",
         "cast_id": 0,
         "character": "Munna",
@@ -66,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Ileana D'Cruz",
         "original_name": "Ileana D'Cruz",
-        "popularity": 1.439,
+        "popularity": 2.056,
         "profile_path": "/xoKp6IDot9vG4yB6EtoByzRYlik.jpg",
         "cast_id": 1,
         "character": "Satyavati",
@@ -80,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 2,
         "character": "",
@@ -94,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Manel Soler",
         "original_name": "Manel Soler",
-        "popularity": 0.1577,
+        "popularity": 0.4493,
         "profile_path": "/rKB7De02MOZsx02Pmol4Xc0d4pl.jpg",
         "cast_id": 3,
         "character": "Mafia Boss",
@@ -107,8 +110,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -120,9 +123,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 9,
         "character": "",
@@ -136,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 10,
         "character": "",
@@ -149,8 +152,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 11,
         "character": "",
@@ -164,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 12,
         "character": "",
@@ -178,7 +181,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 13,
         "character": "",
@@ -192,7 +195,7 @@
         "known_for_department": "Acting",
         "name": "Hema",
         "original_name": "Hema",
-        "popularity": 0.3148,
+        "popularity": 0.9583,
         "profile_path": "/4s1Kiq09KI4p7RFjmclEelLnyV8.jpg",
         "cast_id": 14,
         "character": "",
@@ -208,7 +211,7 @@
         "known_for_department": "Directing",
         "name": "Y. V. S. Chowdary",
         "original_name": "Y. V. S. Chowdary",
-        "popularity": 0.4698,
+        "popularity": 0.6085,
         "profile_path": "/c0xdgpZPpSPEs09ABVBZAC5bYY6.jpg",
         "credit_id": "6309beacb04228007f4ba365",
         "department": "Directing",
@@ -221,7 +224,7 @@
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "6309bec0e18b97007bdab1b6",
         "department": "Editing",
@@ -234,7 +237,7 @@
         "known_for_department": "Sound",
         "name": "Sandeep Chowta",
         "original_name": "Sandeep Chowta",
-        "popularity": 0.2067,
+        "popularity": 0.4067,
         "profile_path": null,
         "credit_id": "6309be43944a57007a650f90",
         "department": "Sound",
@@ -247,7 +250,7 @@
         "known_for_department": "Crew",
         "name": "Suchitra Chandrabose",
         "original_name": "Suchitra Chandrabose",
-        "popularity": 0.1757,
+        "popularity": 0.7637,
         "profile_path": "/quv99XU4n0QlyryCOpqqxcHpqDm.jpg",
         "credit_id": "5db580f1d1857200138b24de",
         "department": "Crew",
@@ -255,27 +258,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt1318035",
     "wikidata_id": "Q7403845",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 9840,
-        "name": "romance"
-      },
-      {
-        "id": 9748,
-        "name": "revenge"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -294,6 +282,21 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -309,8 +312,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

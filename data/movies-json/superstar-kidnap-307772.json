@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Superstar Kidnap",
   "overview": "Three youngsters meet accidentally in a drug deal plan to kidnap superstar maheshbabu to come out of their financial and personal crisis.",
-  "popularity": 0.1323,
+  "popularity": 0.8557,
   "poster_path": "/mZZd2vfqq98AF1Vbpm2GNf024o.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Bhupal Raju",
         "original_name": "Bhupal Raju",
-        "popularity": 0.1785,
+        "popularity": 0.422,
         "profile_path": "/2Umu3Mj1vPGeJiBPOxI698HZ42G.jpg",
         "cast_id": 1,
         "character": "",
@@ -59,7 +59,7 @@
         "known_for_department": "Directing",
         "name": "Sushanth Reddy",
         "original_name": "Sushanth Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2707,
         "profile_path": null,
         "credit_id": "6178d77fe323f30065c5da34",
         "department": "Directing",
@@ -68,59 +68,33 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1267542,
-        "known_for_department": "Sound",
-        "name": "Sai Karthik",
-        "original_name": "Sai Karthik",
-        "popularity": 0.1135,
-        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
-        "credit_id": "6178dbdc6e0d7200246f7eb6",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1653868,
         "known_for_department": "Editing",
         "name": "Basava Peddireddy",
         "original_name": "Basava Peddireddy",
-        "popularity": 0.1031,
+        "popularity": 0.282,
         "profile_path": null,
         "credit_id": "6178dbf0cf4b8b008a757934",
         "department": "Editing",
         "job": "Editor"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+      },
       {
-        "aspect_ratio": 0.707,
-        "height": 962,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/mZZd2vfqq98AF1Vbpm2GNf024o.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 680
+        "adult": false,
+        "gender": 2,
+        "id": 1267542,
+        "known_for_department": "Sound",
+        "name": "Sai Karthik",
+        "original_name": "Sai Karthik",
+        "popularity": 0.3815,
+        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
+        "credit_id": "6178dbdc6e0d7200246f7eb6",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
   },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -138,6 +112,32 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 962,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mZZd2vfqq98AF1Vbpm2GNf024o.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 680
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   },
   "alternative_titles": {
     "titles": []

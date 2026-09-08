@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "నా తమ్ముడు",
   "overview": "Movie starring Shoban Babu, Kongara Jaggaiah and directed by K S Prakash Rao.",
-  "popularity": 0.3727,
+  "popularity": 1.1257,
   "poster_path": "/oVH8fgsYdFg6BVB6Y9lxnzUvxNh.jpg",
   "production_companies": [
     {
@@ -46,6 +46,9 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -55,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 1,
         "character": "",
@@ -69,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.4878,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Raja Babu",
         "original_name": "Raja Babu",
-        "popularity": 0.0873,
+        "popularity": 0.8339,
         "profile_path": "/hQBSR46T1qXie1VWGVKAuBNpiIb.jpg",
         "cast_id": 3,
         "character": "",
@@ -97,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,9 +112,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 5,
         "character": "",
@@ -125,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Bharti",
         "original_name": "Bharti",
-        "popularity": 0.0526,
+        "popularity": 0.3788,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -139,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Manimala",
         "original_name": "Manimala",
-        "popularity": 0.2612,
+        "popularity": 0.881,
         "profile_path": "/dzB8XxoeHgg67hSZdC1yjL3qsdQ.jpg",
         "cast_id": 7,
         "character": "",
@@ -153,7 +156,7 @@
         "known_for_department": "Acting",
         "name": "Chhaya Devi",
         "original_name": "Chhaya Devi",
-        "popularity": 0.1628,
+        "popularity": 1.1509,
         "profile_path": "/x8uKV8mWfFQytCanKLWi5Pyz2Ao.jpg",
         "cast_id": 8,
         "character": "",
@@ -162,13 +165,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 584512,
         "known_for_department": "Acting",
         "name": "Nirmalamma",
         "original_name": "Nirmalamma",
-        "popularity": 0.1774,
-        "profile_path": null,
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "625d478add731b3289c2b3e1",
@@ -181,7 +184,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 10,
         "character": "",
@@ -195,7 +198,7 @@
         "known_for_department": "Acting",
         "name": "Nagabhushanam",
         "original_name": "Nagabhushanam",
-        "popularity": 0.0545,
+        "popularity": 0.7024,
         "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
         "cast_id": 11,
         "character": "",
@@ -209,7 +212,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.3466,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 12,
         "character": "",
@@ -225,7 +228,7 @@
         "known_for_department": "Writing",
         "name": "Acharya Aatreya",
         "original_name": "Acharya Aatreya",
-        "popularity": 0.1163,
+        "popularity": 0.5798,
         "profile_path": null,
         "credit_id": "625d5152bb26022f32bac57c",
         "department": "Writing",
@@ -238,7 +241,7 @@
         "known_for_department": "Production",
         "name": "Suravarapu Bhaskara Rao",
         "original_name": "Suravarapu Bhaskara Rao",
-        "popularity": 0,
+        "popularity": 0.2812,
         "profile_path": null,
         "credit_id": "625d5144d38b5817af96e5fd",
         "department": "Production",
@@ -251,7 +254,7 @@
         "known_for_department": "Sound",
         "name": "Pendyala Nageswararao",
         "original_name": "Pendyala Nageswararao",
-        "popularity": 0,
+        "popularity": 0.2718,
         "profile_path": null,
         "credit_id": "625d515e229ae232198326f6",
         "department": "Sound",
@@ -264,7 +267,7 @@
         "known_for_department": "Directing",
         "name": "K. S. Prakash Rao",
         "original_name": "K. S. Prakash Rao",
-        "popularity": 0.2686,
+        "popularity": 0.7706,
         "profile_path": null,
         "credit_id": "625d5137dd731b3287099595",
         "department": "Directing",
@@ -277,7 +280,7 @@
         "known_for_department": "Writing",
         "name": "Acharya Aatreya",
         "original_name": "Acharya Aatreya",
-        "popularity": 0.1163,
+        "popularity": 0.5798,
         "profile_path": null,
         "credit_id": "694a32b11f1f9300167ac668",
         "department": "Writing",
@@ -290,7 +293,7 @@
         "known_for_department": "Sound",
         "name": "Ghantasala",
         "original_name": "Ghantasala",
-        "popularity": 0.1147,
+        "popularity": 0.3387,
         "profile_path": null,
         "credit_id": "694a32cd60f3dcc4528ce9cc",
         "department": "Sound",
@@ -303,7 +306,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "694a32d753fa4b5e778ec04c",
         "department": "Sound",
@@ -316,7 +319,7 @@
         "known_for_department": "Sound",
         "name": "L. R. Eswari",
         "original_name": "L. R. Eswari",
-        "popularity": 0.0297,
+        "popularity": 0.4867,
         "profile_path": "/nTyBiQeSbn4rSwI07FuJSf6PgyJ.jpg",
         "credit_id": "694a32e0b3365ea1108ceda8",
         "department": "Sound",
@@ -328,8 +331,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "694a32ffc07abdfe79155cc2",
         "department": "Sound",
@@ -342,7 +345,7 @@
         "known_for_department": "Sound",
         "name": "B. Vasantha",
         "original_name": "B. Vasantha",
-        "popularity": 0.0416,
+        "popularity": 0.3234,
         "profile_path": null,
         "credit_id": "694a33107f93f41a5d8cee9e",
         "department": "Sound",
@@ -355,16 +358,13 @@
         "known_for_department": "Editing",
         "name": "B. Gopala Rao",
         "original_name": "B. Gopala Rao",
-        "popularity": 0,
+        "popularity": 0.3054,
         "profile_path": null,
         "credit_id": "694a332a0ec3833de27aca9d",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0187332",
@@ -375,25 +375,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/oVH8fgsYdFg6BVB6Y9lxnzUvxNh.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -409,6 +390,25 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oVH8fgsYdFg6BVB6Y9lxnzUvxNh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
   }

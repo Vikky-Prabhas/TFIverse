@@ -3,7 +3,20 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "homepage": "",
   "id": 518794,
   "imdb_id": "tt0265781",
@@ -12,8 +25,8 @@
   ],
   "original_language": "te",
   "original_title": "సొమ్మొకడిది సోకొకడిది",
-  "overview": "Sommokadidi Sokokadidi is a 1978 Telugu-language Indian film directed by Singeetam Srinivasa Rao. Kamal Haasan plays a double role as an honest doctor and a happy-go-lucky youth. This was the first film of Singeetam Srinivasa Rao and Kamal Haasan together.",
-  "popularity": 0.367,
+  "overview": "A doctor's lookalike swaps places with him in his absence and pretends to treat his patients. When the doctor discovers that his lookalike has been taking his place, chaos ensues.",
+  "popularity": 0.8172,
   "poster_path": "/zE7JheZnFNH2FbK8W88UWSh0Vko.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,33 +55,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0265781",
-    "wikidata_id": "Q7560473",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1979-01-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "credits": {
     "cast": [
       {
@@ -78,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Haasan",
         "original_name": "Kamal Haasan",
-        "popularity": 1.7172,
+        "popularity": 2.5692,
         "profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
         "cast_id": 0,
         "character": "Rangadu & Dr.Shekar",
@@ -92,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 1,
         "character": "Lilly",
@@ -105,8 +91,8 @@
         "id": 584346,
         "known_for_department": "Acting",
         "name": "Pandari Bai",
-        "original_name": "Pandari Bai",
-        "popularity": 0.6236,
+        "original_name": "பண்டரிபாய்",
+        "popularity": 2.0338,
         "profile_path": "/hQRkAIELIKQihKEeWMVW0j3GHsE.jpg",
         "cast_id": 20,
         "character": "Parvathy",
@@ -115,13 +101,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1611653,
         "known_for_department": "Acting",
         "name": "Roja Ramani",
         "original_name": "Roja Ramani",
-        "popularity": 0.4227,
-        "profile_path": null,
+        "popularity": 0.6852,
+        "profile_path": "/v7mQJIXusWWj9AJAjfO97BdWlnS.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "5ee265524c1bb0001fa450f5",
@@ -134,8 +120,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.1642,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5ee2659d97eab4001fe0ec9d",
@@ -148,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Sarathi",
         "original_name": "Sarathi",
-        "popularity": 0.1046,
+        "popularity": 0.7069,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -162,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.1879,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 7,
         "character": "",
@@ -176,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Raavi Kondala Rao",
         "original_name": "Raavi Kondala Rao",
-        "popularity": 0.356,
+        "popularity": 0.5413,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -190,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Rama Prabha",
         "original_name": "Rama Prabha",
-        "popularity": 0.364,
+        "popularity": 1.6321,
         "profile_path": "/oLF9RSdde7KUTxurEciD7CeW54e.jpg",
         "cast_id": 9,
         "character": "",
@@ -204,7 +190,7 @@
         "known_for_department": "Directing",
         "name": "Chittajallu Srinivasa Rao",
         "original_name": "Chittajallu Srinivasa Rao",
-        "popularity": 0.1152,
+        "popularity": 0.5581,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -220,7 +206,7 @@
         "known_for_department": "Directing",
         "name": "Singeetam Srinivasa Rao",
         "original_name": "Singeetam Srinivasa Rao",
-        "popularity": 0.8793,
+        "popularity": 1.5739,
         "profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
         "credit_id": "5ee2682a97eab4001fe0ef12",
         "department": "Directing",
@@ -233,24 +219,11 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5ee2686d197de400218ec3ef",
         "department": "Writing",
         "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2675079,
-        "known_for_department": "Writing",
-        "name": "S. L. Kalyani",
-        "original_name": "S. L. Kalyani",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "5ee26991f36a32001e8f5063",
-        "department": "Writing",
-        "job": "Story"
       },
       {
         "adult": false,
@@ -259,11 +232,24 @@
         "known_for_department": "Directing",
         "name": "Singeetam Srinivasa Rao",
         "original_name": "Singeetam Srinivasa Rao",
-        "popularity": 0.8793,
+        "popularity": 1.5739,
         "profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
         "credit_id": "5ee268ec97eab40020e1dd18",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2675079,
+        "known_for_department": "Writing",
+        "name": "S. L. Kalyani",
+        "original_name": "S. L. Kalyani",
+        "popularity": 0.2739,
+        "profile_path": null,
+        "credit_id": "5ee26991f36a32001e8f5063",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
@@ -272,7 +258,7 @@
         "known_for_department": "Editing",
         "name": "D. Vasu",
         "original_name": "D. Vasu",
-        "popularity": 0.0923,
+        "popularity": 0.4177,
         "profile_path": null,
         "credit_id": "5ee269d990dde00020a9dbf9",
         "department": "Editing",
@@ -284,8 +270,8 @@
         "id": 584297,
         "known_for_department": "Directing",
         "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
         "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
         "credit_id": "5fdb59913f7e1d003d43e578",
         "department": "Camera",
@@ -298,11 +284,31 @@
         "known_for_department": "Sound",
         "name": "Rajan",
         "original_name": "Rajan",
-        "popularity": 0.1426,
+        "popularity": 0.3503,
         "profile_path": "/i04cj2yQnLNN47xIEVgIIyJpmmz.jpg",
         "credit_id": "5fdb59a855c1f400452854fb",
         "department": "Sound",
         "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1979-01-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -322,7 +328,25 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Iru Nilavugal",
+        "type": "Tamil Dub"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Jeevikkaan Padikkanam",
+        "type": "Malayalam Dub"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0265781",
+    "wikidata_id": "Q7560473",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

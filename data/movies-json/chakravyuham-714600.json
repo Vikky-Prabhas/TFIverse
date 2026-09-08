@@ -21,8 +21,8 @@
   ],
   "original_language": "te",
   "original_title": "చక్రవ్యూహం",
-  "overview": "Chakravyuham ( telugu : చక్రవ్యూహం ) is a telugu thriller directed by Balu Mahendra starring Suman , Gautami , and Archana . The music was composed by Maestro Ilaiyaraaja . This film was released in the year 1992.",
-  "popularity": 0.1633,
+  "overview": "",
+  "popularity": 1.2772,
   "poster_path": null,
   "production_companies": [
     {
@@ -62,9 +62,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Archana",
         "original_name": "Archana",
-        "popularity": 0.2807,
+        "popularity": 0.8747,
         "profile_path": "/mgj8CBy5M1zWFDfPM4GI73c1rEo.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Gautami Tadimalla",
         "original_name": "Gautami Tadimalla",
-        "popularity": 0.5163,
+        "popularity": 1.9093,
         "profile_path": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,8 +120,8 @@
         "known_for_department": "Acting",
         "name": "Pradeep Shakti",
         "original_name": "Pradeep Shakti",
-        "popularity": 0.249,
-        "profile_path": null,
+        "popularity": 0.9482,
+        "profile_path": "/pIRMIvAtpmrdodlzR3HVxctpFog.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5ee219bf4c1bb0001fa406a1",
@@ -135,21 +135,8 @@
         "id": 584297,
         "known_for_department": "Directing",
         "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
-        "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
-        "credit_id": "5ee21e5397eab40020e16c2d",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584297,
-        "known_for_department": "Directing",
-        "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
         "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
         "credit_id": "5ee21e1a4c1bb0001ea53b09",
         "department": "Writing",
@@ -161,8 +148,8 @@
         "id": 584297,
         "known_for_department": "Directing",
         "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
         "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
         "credit_id": "5ee219d64c1bb00020a494e5",
         "department": "Directing",
@@ -174,8 +161,8 @@
         "id": 584297,
         "known_for_department": "Directing",
         "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
         "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
         "credit_id": "5ee21e2f90dde00021aa85a0",
         "department": "Writing",
@@ -184,11 +171,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 584297,
+        "known_for_department": "Directing",
+        "name": "Balu Mahendra",
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
+        "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
+        "credit_id": "5ee21e5397eab40020e16c2d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "5fdb32b9858678003ef5b5a2",
         "department": "Sound",
@@ -200,8 +200,8 @@
         "id": 584297,
         "known_for_department": "Directing",
         "name": "Balu Mahendra",
-        "original_name": "Balu Mahendra",
-        "popularity": 0.3772,
+        "original_name": "பாலு மகேந்திரா",
+        "popularity": 1.72,
         "profile_path": "/94QIp3LVcWwaY3xH7r02G2qlSi6.jpg",
         "credit_id": "5fdb32aa9d592c003ca90e3a",
         "department": "Camera",
@@ -209,8 +209,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt0235272",
@@ -218,17 +218,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -244,6 +233,23 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Vasanthame Varuga",
+        "type": "Tamil Dub"
       }
     ]
   }

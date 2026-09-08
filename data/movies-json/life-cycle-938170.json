@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Jeevitha Chakram",
   "overview": "Susheela, a hardworking woman who supports her family, falls in love with Raja, the son of a wealthy man.",
-  "popularity": 0.1437,
+  "popularity": 0.7512,
   "poster_path": "/6tYqVmcMYg7bU1nWTagOeq6nOMA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 2,
         "character": "Raja",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.6862,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 3,
         "character": "Suseela",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 4,
         "character": "Buchi Babu",
@@ -87,7 +87,7 @@
         "known_for_department": "Directing",
         "name": "Chittajallu Srinivasa Rao",
         "original_name": "Chittajallu Srinivasa Rao",
-        "popularity": 0.1152,
+        "popularity": 0.5581,
         "profile_path": null,
         "credit_id": "652ad3d9024ec800c773cc9f",
         "department": "Directing",
@@ -108,6 +108,22 @@
   "keywords": {
     "keywords": []
   },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6tYqVmcMYg7bU1nWTagOeq6nOMA.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
   "release_dates": {
     "results": [
       {
@@ -122,22 +138,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/6tYqVmcMYg7bU1nWTagOeq6nOMA.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
       }
     ]
   },

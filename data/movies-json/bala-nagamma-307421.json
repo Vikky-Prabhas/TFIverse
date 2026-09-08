@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Bala Nagamma",
   "overview": "",
-  "popularity": 0.2448,
+  "popularity": 0.571,
   "poster_path": "/tE9wcoUd4J1wFCvzzdMvhaZojsA.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Karyavardhi",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2662,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 2,
         "character": "Bala Nagamma",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 3,
         "character": "Mayala Marathi",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1796,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 6,
         "character": "Thalari Ramudu",
@@ -111,7 +111,7 @@
         "known_for_department": "Directing",
         "name": "Vedantam Raghavaiah",
         "original_name": "Vedantam Raghavaiah",
-        "popularity": 0.1177,
+        "popularity": 0.5843,
         "profile_path": null,
         "credit_id": "5ec9e2dd8e2e003dd6135385",
         "department": "Directing",
@@ -146,6 +146,12 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -161,11 +167,5 @@
         "width": 1920
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

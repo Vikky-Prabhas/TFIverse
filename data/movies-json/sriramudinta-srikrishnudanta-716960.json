@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "శ్రీరాముడింట శ్రీకృష్ణుడంట",
   "overview": "A well-to-do and self-sufficient farmer, Rao, leads a simple life with his family in his village. His daughter Nandu, who, in search of a job, moves to Hyderabad, where she meets a man called Goutham, who promises her a job. However, he dupes her off her money. Enraged by this, Nandu takes him along with her to her village, expecting her father to get the money back from him. Instead, Rao and Goutham end up developing a father-son relationship, following which Rao decides to get Nandu married to him.",
-  "popularity": 0.0429,
+  "popularity": 0.4513,
   "poster_path": null,
   "production_companies": [
     {
@@ -58,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Sekhar Varma",
         "original_name": "Sekhar Varma",
-        "popularity": 0,
+        "popularity": 0.2168,
         "profile_path": null,
         "cast_id": 4,
         "character": "Gowtham",
@@ -72,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Deepthi Setty",
         "original_name": "Deepthi Setty",
-        "popularity": 0.0143,
+        "popularity": 0.2643,
         "profile_path": null,
         "cast_id": 5,
         "character": "Geethanjali",
@@ -88,20 +88,13 @@
         "known_for_department": "Directing",
         "name": "Naresh Penta",
         "original_name": "Naresh Penta",
-        "popularity": 0,
+        "popularity": 0.2209,
         "profile_path": null,
         "credit_id": "5eebbbcfb84cdd00352bc3ab",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt6854792",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -139,12 +132,19 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt6854792",
+    "wikidata_id": "Q130437664",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

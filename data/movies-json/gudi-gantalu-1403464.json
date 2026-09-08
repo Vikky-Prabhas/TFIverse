@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "గుడి గంటలు",
   "overview": "Hari loves Kasthuri, but she becomes engaged to his friend Vasu. When Vasu discovers their history, his malevolent possessiveness resurfaces.",
-  "popularity": 0.155,
+  "popularity": 0.603,
   "poster_path": "/zxHP6KQnglihcRVq0yovHQli7xX.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,9 +28,6 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -40,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Vasu",
@@ -54,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Kumari",
         "original_name": "Krishna Kumari",
-        "popularity": 0.1996,
+        "popularity": 0.5892,
         "profile_path": "/fNt3SvjChrIjjhX6SsVgZhAPV27.jpg",
         "cast_id": 2,
         "character": "Kasthuri",
@@ -68,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 3,
         "character": "Hari",
@@ -84,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "V. Madhusudhan Rao",
         "original_name": "V. Madhusudhan Rao",
-        "popularity": 0.1984,
+        "popularity": 0.6086,
         "profile_path": null,
         "credit_id": "6760ae3e2c42dea0eabafbaf",
         "department": "Directing",
@@ -97,7 +94,7 @@
         "known_for_department": "Writing",
         "name": "Mullapudi Venkata Ramana",
         "original_name": "Venkata Ramana Mullapoodi",
-        "popularity": 0.1104,
+        "popularity": 1.0149,
         "profile_path": null,
         "credit_id": "6760ae646b430b2454191e33",
         "department": "Writing",
@@ -105,15 +102,15 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt0263398",
     "wikidata_id": "Q5614602",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -150,5 +147,8 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

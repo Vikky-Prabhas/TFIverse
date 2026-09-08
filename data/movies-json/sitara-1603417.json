@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "SITARA",
   "overview": "",
-  "popularity": 0,
+  "popularity": 0.4066,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -28,26 +28,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "credits": {
     "cast": [
@@ -58,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "srinivas palakonda",
         "original_name": "srinivas palakonda",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 2,
         "character": "surya",
@@ -74,7 +56,7 @@
         "known_for_department": "Directing",
         "name": "krishna karthik",
         "original_name": "krishna karthik",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "694bac7da8960a19090740a9",
         "department": "Directing",
@@ -82,7 +64,25 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "రామ్ నగర్ బన్ని",
   "overview": "Reckless 21-year-old Bunny squanders his father's savings and juggles relationships. After a wake-up call, he faces a tough choice between love and responsibility in this Light-Hearted, emotional journey.",
-  "popularity": 0.0642,
+  "popularity": 0.9278,
   "poster_path": "/k1oblf0asIWwmKDZ064xjCJdxUG.jpg",
   "production_companies": [
     {
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Chandrahass",
         "original_name": "Chandrahass",
-        "popularity": 0.0071,
+        "popularity": 0.3806,
         "profile_path": null,
         "cast_id": 1,
         "character": "\"Ramnagar\" Bunny",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Vismaya Sri",
         "original_name": "Vismaya Sri",
-        "popularity": 0.0143,
+        "popularity": 0.4707,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Richa Joshi",
         "original_name": "Richa Joshi",
-        "popularity": 0.0286,
+        "popularity": 0.4827,
         "profile_path": "/iYubH4gkTWuh2GWM302kVkCwoNF.jpg",
         "cast_id": 3,
         "character": "",
@@ -109,8 +109,8 @@
         "known_for_department": "Acting",
         "name": "Ambika Vani",
         "original_name": "Ambika Vani",
-        "popularity": 0.2473,
-        "profile_path": "/97WaW02e4GupL29BL2TPRv7IjIK.jpg",
+        "popularity": 0.4944,
+        "profile_path": null,
         "cast_id": 4,
         "character": "",
         "credit_id": "67051ba2ccbb4e7f1669cf7b",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Rithu Manthra",
         "original_name": "Rithu Manthra",
-        "popularity": 0.4119,
+        "popularity": 0.4605,
         "profile_path": "/owSyzpSPOoS67B6ARNB8pVLAdy7.jpg",
         "cast_id": 5,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.3783,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 6,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Mahath",
         "original_name": "Srinivas Mahath",
-        "popularity": 0,
+        "popularity": 0.4931,
         "profile_path": null,
         "credit_id": "67051c234b0c5b9d7169d55e",
         "department": "Directing",
@@ -166,7 +166,7 @@
         "known_for_department": "Directing",
         "name": "Prabhakar Podakandla",
         "original_name": "Prabhakar Podakandla",
-        "popularity": 0.0286,
+        "popularity": 0.4056,
         "profile_path": null,
         "credit_id": "67051c4fbd7cd86da51d4b55",
         "department": "Production",
@@ -179,7 +179,7 @@
         "known_for_department": "Production",
         "name": "Malaysia Prabhakar",
         "original_name": "Malaysia Prabhakar",
-        "popularity": 0.0071,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "67051c714b0c5b9d7169d5a3",
         "department": "Production",
@@ -192,7 +192,7 @@
         "known_for_department": "Sound",
         "name": "Ashwin Hemanth",
         "original_name": "Ashwin Hemanth",
-        "popularity": 0.0256,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "67051ca51b96b8ef4c69d053",
         "department": "Sound",
@@ -205,7 +205,7 @@
         "known_for_department": "Camera",
         "name": "Ashker Ali",
         "original_name": "Ashker Ali",
-        "popularity": 0,
+        "popularity": 0.2844,
         "profile_path": null,
         "credit_id": "67051cbd1b96b8ef4c69d056",
         "department": "Camera",
@@ -218,7 +218,7 @@
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "67051cf4ccbb4e7f1669cfd5",
         "department": "Editing",
@@ -231,7 +231,7 @@
         "known_for_department": "Acting",
         "name": "Divija Prabhakar",
         "original_name": "Divija Prabhakar",
-        "popularity": 0.0362,
+        "popularity": 0.2649,
         "profile_path": null,
         "credit_id": "67051df8ccbb4e7f1669d00f",
         "department": "Crew",
@@ -239,32 +239,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt33496202",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-10-04T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -310,6 +293,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 800
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-10-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

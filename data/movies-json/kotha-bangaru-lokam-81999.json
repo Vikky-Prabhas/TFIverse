@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "కొత్త బంగారు లోకం",
   "overview": "Balu is son of lovable middle-class couple. Swapna is the daughter of a strict and rich father. Both of them study in a residential college located at a small town of Godavari district. Balu and Swapna fall in love. Swapna is withdrawn from the residential school because her father comes to know about her love. The rest of the story is all about how Balu and Swapna try to get back to each other.",
-  "popularity": 0.6619,
+  "popularity": 1.6516,
   "poster_path": "/zMfB7i1KSyaEbJWX2selBPCcG8Z.jpg",
   "production_companies": [],
   "production_countries": [
@@ -50,8 +50,15 @@
   "tagline": "",
   "title": "Kotha Bangaru Lokam",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 7,
+  "vote_average": 6.625,
+  "vote_count": 8,
+  "external_ids": {
+    "imdb_id": "tt1210817",
+    "wikidata_id": "Q6433960",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
   },
@@ -64,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sandesh",
         "original_name": "Varun Sandesh",
-        "popularity": 0.3541,
+        "popularity": 0.5926,
         "profile_path": "/ivdqRWq1L2olXJtWjSajnkXhYGc.jpg",
         "cast_id": 4,
         "character": "Balu",
@@ -78,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Basu Prasad",
         "original_name": "Shweta Basu Prasad",
-        "popularity": 0.7741,
+        "popularity": 0.8201,
         "profile_path": "/j1THxhGB0AZyNnhGnVmc81fL0Le.jpg",
         "cast_id": 5,
         "character": "Swapna",
@@ -91,8 +98,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 6,
         "character": "Balu's Father",
@@ -106,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 7,
         "character": "Balu's Mother",
@@ -119,8 +126,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 11,
         "character": "",
@@ -134,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 12,
         "character": "",
@@ -147,8 +154,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 13,
         "character": "",
@@ -164,24 +171,11 @@
         "known_for_department": "Writing",
         "name": "Srikanth Addala",
         "original_name": "Srikanth Addala",
-        "popularity": 0.2383,
+        "popularity": 0.6809,
         "profile_path": null,
         "credit_id": "52fe48379251416c91084541",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1173569,
-        "known_for_department": "Writing",
-        "name": "Srikanth Addala",
-        "original_name": "Srikanth Addala",
-        "popularity": 0.2383,
-        "profile_path": null,
-        "credit_id": "52fe48379251416c91084547",
-        "department": "Writing",
-        "job": "Writer"
       },
       {
         "adult": false,
@@ -190,11 +184,24 @@
         "known_for_department": "Production",
         "name": "Dil Raju",
         "original_name": "Dil Raju",
-        "popularity": 0.1187,
+        "popularity": 0.5112,
         "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
         "credit_id": "52fe48379251416c9108454d",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1173569,
+        "known_for_department": "Writing",
+        "name": "Srikanth Addala",
+        "original_name": "Srikanth Addala",
+        "popularity": 0.6809,
+        "profile_path": null,
+        "credit_id": "52fe48379251416c91084547",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -203,7 +210,7 @@
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "61250afc8258fc002bc11034",
         "department": "Editing",
@@ -216,7 +223,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "64c7e348d7a70a00e2f74371",
         "department": "Writing",
@@ -229,38 +236,11 @@
         "known_for_department": "Crew",
         "name": "Baba Baskar",
         "original_name": "Baba Baskar",
-        "popularity": 0.295,
+        "popularity": 0.4418,
         "profile_path": "/rOge0AewXnEOL7hKFta7PqzqrvE.jpg",
         "credit_id": "5c987b430e0a2671e1bf27a4",
         "department": "Crew",
         "job": "Choreographer"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1210817",
-    "wikidata_id": "Q6433960",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2008-10-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -289,6 +269,26 @@
         "width": 960
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-10-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": [

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Swargaseema",
   "overview": "Murthy and Kalyani are happily married till Murthy watches a street play in his village and notices the beautiful Subbalaxmi in that troupe. He advises Subbalaxmi's father to take her to Madras, where she could possibly become a big theatre artiste. After traveling to Madras, Subbalaxmi is offered the lead role and changes her name to Sujatha. Murthy falls for Sujatha's charms and neglects his family.",
-  "popularity": 0.1648,
+  "popularity": 0.9519,
   "poster_path": "/7Rx0rsLkGxDp60bz6hY0NE5pGHJ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,9 +44,6 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -56,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 1,
         "character": "",
@@ -70,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Bhanumathi",
         "original_name": "Bhanumathi",
-        "popularity": 0.3116,
+        "popularity": 0.6397,
         "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
         "cast_id": 4,
         "character": "",
@@ -79,13 +76,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1268414,
         "known_for_department": "Acting",
         "name": "B. Jayamma",
         "original_name": "B. Jayamma",
-        "popularity": 0.0588,
-        "profile_path": null,
+        "popularity": 0.398,
+        "profile_path": "/t7MHlfMrUnadIUo3iwpZj8RoQoA.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "5403638fc3a368436300513f",
@@ -100,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "B.N. Reddi",
         "original_name": "B.N. Reddi",
-        "popularity": 0.1153,
+        "popularity": 0.4217,
         "profile_path": null,
         "credit_id": "54036357c3a3684363005138",
         "department": "Directing",
@@ -108,12 +105,21 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt0259604",
     "wikidata_id": "Q7653867",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -147,11 +153,5 @@
         "width": 841
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

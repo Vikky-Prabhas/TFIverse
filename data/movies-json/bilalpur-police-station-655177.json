@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "బిలాల్పూర్ పోలీస్ స్టేషన్",
   "overview": "An action film directed by Naga Sai Makam, starring Goreti Venkanna, Saanve Meghana and Srinath Maganti in the lead roles.",
-  "popularity": 0.1531,
+  "popularity": 0.5274,
   "poster_path": "/rJm5PDgPNEC5TFR3r1uGdxxwbYK.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,88 +48,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2480542,
-        "known_for_department": "Acting",
-        "name": "Goreti Venkanna",
-        "original_name": "Goreti Venkanna",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5df15942a284eb00175868c8",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2480543,
-        "known_for_department": "Acting",
-        "name": "Saanve Meghana",
-        "original_name": "Saanve Meghana",
-        "popularity": 0.4277,
-        "profile_path": "/5lpb5ZEzocuQGxCbYemCVPCUEWu.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5df1594b3520e80014192596",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2480544,
-        "known_for_department": "Acting",
-        "name": "Maganti Srinath",
-        "original_name": "Maganti Srinath",
-        "popularity": 1.3411,
-        "profile_path": "/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5df15953a284eb0011586c2b",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2480545,
-        "known_for_department": "Acting",
-        "name": "RS Nanda",
-        "original_name": "RS Nanda",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5df1595c8eda8700159a947d",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2480546,
-        "known_for_department": "Directing",
-        "name": "Naga Sai Makam",
-        "original_name": "Naga Sai Makam",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5df1596d8eda8700119a839f",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt10370422",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": [
       {
@@ -161,6 +79,13 @@
   "keywords": {
     "keywords": []
   },
+  "external_ids": {
+    "imdb_id": "tt10370422",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "release_dates": {
     "results": [
       {
@@ -178,6 +103,84 @@
       }
     ]
   },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2480542,
+        "known_for_department": "Acting",
+        "name": "Goreti Venkanna",
+        "original_name": "Goreti Venkanna",
+        "popularity": 0.3009,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5df15942a284eb00175868c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2480543,
+        "known_for_department": "Acting",
+        "name": "Saanve Megghana",
+        "original_name": "Saanve Meghana",
+        "popularity": 1.3496,
+        "profile_path": "/7V5nyIQGh5stBcad5fo45yv6GWc.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5df1594b3520e80014192596",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2480544,
+        "known_for_department": "Acting",
+        "name": "Maganti Srinath",
+        "original_name": "Maganti Srinath",
+        "popularity": 0.8739,
+        "profile_path": "/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5df15953a284eb0011586c2b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2480545,
+        "known_for_department": "Acting",
+        "name": "RS Nanda",
+        "original_name": "RS Nanda",
+        "popularity": 0.3144,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5df1595c8eda8700159a947d",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2480546,
+        "known_for_department": "Directing",
+        "name": "Naga Sai Makam",
+        "original_name": "Naga Sai Makam",
+        "popularity": 0.2761,
+        "profile_path": null,
+        "credit_id": "5df1596d8eda8700119a839f",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -193,8 +196,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

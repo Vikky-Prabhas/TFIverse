@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Nee Jathaleka",
   "overview": "After being dumped by his rich girlfriend, a man's best friend offers up his own girlfriend to make her jealous, but the ruse backfires when the two fall in love.",
-  "popularity": 0.1111,
+  "popularity": 0.6357,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -46,6 +46,66 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400656,
+        "known_for_department": "Acting",
+        "name": "Naga Shaurya",
+        "original_name": "Naga Shaurya",
+        "popularity": 1.0624,
+        "profile_path": "/2QEe3xPEYcQcyl1xzUytQbTA9x3.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5c17828c92514132b70c371f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1613556,
+        "known_for_department": "Acting",
+        "name": "Parul Gulati",
+        "original_name": "Parul Gulati",
+        "popularity": 0.9209,
+        "profile_path": "/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5c17829ac3a36866bd38418a",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197060,
+        "known_for_department": "Directing",
+        "name": "Lawrence Dasari",
+        "original_name": "Lawrence Dasari",
+        "popularity": 0.2727,
+        "profile_path": null,
+        "credit_id": "5c17825dc3a36866c5385e9f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197060,
+        "known_for_department": "Directing",
+        "name": "Lawrence Dasari",
+        "original_name": "Lawrence Dasari",
+        "popularity": 0.2727,
+        "profile_path": null,
+        "credit_id": "5c17824d0e0a26037f3e3102",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
   "videos": {
     "results": [
       {
@@ -61,12 +121,6 @@
         "published_at": "2016-06-27T05:41:16.000Z"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -85,65 +139,8 @@
       }
     ]
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1400656,
-        "known_for_department": "Acting",
-        "name": "Naga Shaurya",
-        "original_name": "Naga Shaurya",
-        "popularity": 1.5785,
-        "profile_path": "/2QEe3xPEYcQcyl1xzUytQbTA9x3.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5c17828c92514132b70c371f",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1613556,
-        "known_for_department": "Acting",
-        "name": "Parul Gulati",
-        "original_name": "Parul Gulati",
-        "popularity": 0.3503,
-        "profile_path": "/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5c17829ac3a36866bd38418a",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2197060,
-        "known_for_department": "Directing",
-        "name": "Lawrence Dasari",
-        "original_name": "Lawrence Dasari",
-        "popularity": 0.0646,
-        "profile_path": null,
-        "credit_id": "5c17825dc3a36866c5385e9f",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2197060,
-        "known_for_department": "Directing",
-        "name": "Lawrence Dasari",
-        "original_name": "Lawrence Dasari",
-        "popularity": 0.0646,
-        "profile_path": null,
-        "credit_id": "5c17824d0e0a26037f3e3102",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -160,5 +157,8 @@
     ],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

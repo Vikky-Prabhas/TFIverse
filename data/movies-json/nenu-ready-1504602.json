@@ -3,7 +3,20 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
   "homepage": "",
   "id": 1504602,
   "imdb_id": "tt37444500",
@@ -13,10 +26,22 @@
   "original_language": "te",
   "original_title": "నేను రెడీ",
   "overview": "",
-  "popularity": 0.2329,
+  "popularity": 0.7878,
   "poster_path": null,
-  "production_companies": [],
-  "production_countries": [],
+  "production_companies": [
+    {
+      "id": 305431,
+      "logo_path": null,
+      "name": "Harniks India LLP",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "",
   "revenue": 0,
   "runtime": 0,
@@ -28,15 +53,12 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "In Production",
+  "status": "Post Production",
   "tagline": "",
   "title": "Nenu Ready",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -46,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Koneru Havish",
         "original_name": "Koneru Havish",
-        "popularity": 0.2485,
+        "popularity": 0.4759,
         "profile_path": "/sScBnV9YJCuF1369VRgxiycyJJ2.jpg",
         "cast_id": 1,
         "character": "",
@@ -60,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Kavya Thapar",
         "original_name": "Kavya Thapar",
-        "popularity": 0.332,
+        "popularity": 0.9177,
         "profile_path": "/7nXGY2dtp7l2DgSWsvlTd9uR0pu.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Hari Teja",
         "original_name": "Hari Teja",
-        "popularity": 0.2849,
+        "popularity": 1.3505,
         "profile_path": "/1E3Lm7qECo78u18Wh2O82o6NOWF.jpg",
         "cast_id": 3,
         "character": "",
@@ -88,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Mahati Bikshu",
         "original_name": "Mahati Bikshu",
-        "popularity": 0.0536,
+        "popularity": 1.6507,
         "profile_path": "/nYmGBZRUbf8pqQVzSpwcNEOo53Z.jpg",
         "cast_id": 4,
         "character": "",
@@ -102,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "V. S. Roopa Lakshmi",
         "original_name": "V. S. Roopa Lakshmi",
-        "popularity": 0.2397,
+        "popularity": 0.3045,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -116,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Goparaju Ramana",
         "original_name": "Goparaju Ramana",
-        "popularity": 0.2828,
+        "popularity": 0.5645,
         "profile_path": "/vRQKXftT1PXokqcfOKL9JjoiBht.jpg",
         "cast_id": 6,
         "character": "",
@@ -130,12 +152,26 @@
         "known_for_department": "Acting",
         "name": "Maanik Reddy",
         "original_name": "Manik Reddy",
-        "popularity": 0.1461,
+        "popularity": 0.3299,
         "profile_path": "/qRvcaafNCcx0XcjchVaks5MVbsK.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "685e31e73a418b6dde7ecca5",
         "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 932503,
+        "known_for_department": "Acting",
+        "name": "Nargis Fakhri",
+        "original_name": "नर्गिस फाखरी",
+        "popularity": 1.496,
+        "profile_path": "/nFwsS7KrNYvPGamYCFPNWewAsYh.jpg",
+        "cast_id": 21,
+        "character": "Self - Dancer",
+        "credit_id": "6a0842ad585d51907063546d",
+        "order": 7
       }
     ],
     "crew": [
@@ -146,7 +182,7 @@
         "known_for_department": "Production",
         "name": "Nikhila Koneru",
         "original_name": "Nikhila Koneru",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "685e32711a96c102737b40ea",
         "department": "Production",
@@ -159,7 +195,7 @@
         "known_for_department": "Directing",
         "name": "Trinadha Rao Nakkina",
         "original_name": "Trinadha Rao Nakkina",
-        "popularity": 0.3136,
+        "popularity": 0.5178,
         "profile_path": null,
         "credit_id": "685e327dc2efeeabd19150dc",
         "department": "Directing",
@@ -172,7 +208,7 @@
         "known_for_department": "Directing",
         "name": "Trinadha Rao Nakkina",
         "original_name": "Trinadha Rao Nakkina",
-        "popularity": 0.3136,
+        "popularity": 0.5178,
         "profile_path": null,
         "credit_id": "685e3321314ee2736b7ecd1a",
         "department": "Writing",
@@ -185,7 +221,7 @@
         "known_for_department": "Writing",
         "name": "Vikranth Srinivas",
         "original_name": "Vikranth Srinivas",
-        "popularity": 0.0214,
+        "popularity": 0.3317,
         "profile_path": null,
         "credit_id": "685e333a772720dd00b9acff",
         "department": "Writing",
@@ -198,7 +234,7 @@
         "known_for_department": "Writing",
         "name": "Vikranth Srinivas",
         "original_name": "Vikranth Srinivas",
-        "popularity": 0.0214,
+        "popularity": 0.3317,
         "profile_path": null,
         "credit_id": "685e3342b72a5fb0f830341c",
         "department": "Writing",
@@ -211,7 +247,7 @@
         "known_for_department": "Camera",
         "name": "Nizar Shafi",
         "original_name": "Nizar Shafi",
-        "popularity": 0.0978,
+        "popularity": 0.3372,
         "profile_path": null,
         "credit_id": "685e353e0bfa65b627b9acf4",
         "department": "Camera",
@@ -224,7 +260,7 @@
         "known_for_department": "Editing",
         "name": "Prawin Pudi",
         "original_name": "Prawin Pudi",
-        "popularity": 0.1781,
+        "popularity": 0.3216,
         "profile_path": null,
         "credit_id": "685e354dd9f00b7c543033e1",
         "department": "Editing",
@@ -237,7 +273,7 @@
         "known_for_department": "Crew",
         "name": "Ram Krishan",
         "original_name": "Ramakrishna Master",
-        "popularity": 0.0741,
+        "popularity": 0.3036,
         "profile_path": null,
         "credit_id": "685e3572bc1ca71aa7744acd",
         "department": "Crew",
@@ -250,7 +286,7 @@
         "known_for_department": "Crew",
         "name": "Ram Sunkara",
         "original_name": "Ram Sunkara",
-        "popularity": 0.0718,
+        "popularity": 0.3219,
         "profile_path": null,
         "credit_id": "685e357e3856c386844d12b7",
         "department": "Crew",
@@ -263,7 +299,7 @@
         "known_for_department": "Sound",
         "name": "Mickey J Meyer",
         "original_name": "Mickey J Meyer",
-        "popularity": 0.1672,
+        "popularity": 0.3447,
         "profile_path": "/ogeUjNtob45rVaKJ9TKxwys46s2.jpg",
         "credit_id": "685e359263ed5e35bb744b22",
         "department": "Sound",
@@ -276,7 +312,7 @@
         "known_for_department": "Crew",
         "name": "GSK Media-Suresh Kumar",
         "original_name": "GSK Media Kumar",
-        "popularity": 0.0423,
+        "popularity": 0.3746,
         "profile_path": null,
         "credit_id": "685e37d967ad730d5634f428",
         "department": "Crew",
@@ -289,13 +325,131 @@
         "known_for_department": "Crew",
         "name": "GSK Media Sreenivas",
         "original_name": "GSK Media Sreenivas",
-        "popularity": 0.0071,
+        "popularity": 0.2893,
         "profile_path": null,
         "credit_id": "685e37e66681110865dd098b",
         "department": "Crew",
         "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2464444,
+        "known_for_department": "Sound",
+        "name": "Sameera Bharadwaj",
+        "original_name": "Sameera Bharadwaj",
+        "popularity": 1.0331,
+        "profile_path": "/cUxNtTCqsBdBAw0KvWZZYTUbDcs.jpg",
+        "credit_id": "6a638e60ae62d74d0d444d3e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035076,
+        "known_for_department": "Writing",
+        "name": "Ramajogayya Sastry",
+        "original_name": "Ramajogayya Sastry",
+        "popularity": 0.4366,
+        "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+        "credit_id": "6a638e6fea604aa7af382711",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660778,
+        "known_for_department": "Crew",
+        "name": "V J Shekar",
+        "original_name": "V J Shekar",
+        "popularity": 0.3846,
+        "profile_path": "/wKlfGf46OHDrw1ZCudyhiK8B3T8.jpg",
+        "credit_id": "6a638e872038460379ed28e2",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646128,
+        "known_for_department": "Art",
+        "name": "Raghu Kulkarni",
+        "original_name": "Raghu Kulkarni",
+        "popularity": 0.2922,
+        "profile_path": null,
+        "credit_id": "6a638f10cdfa7d70ea836e1b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6367858,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sravani Ganji",
+        "original_name": "Sravani Ganji",
+        "popularity": 0.2525,
+        "profile_path": null,
+        "credit_id": "6a638f22f8b0544fe453b6ec",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3495907,
+        "known_for_department": "Production",
+        "name": "Chitti Kiran Ramoju",
+        "original_name": "Chitti Kiran Ramoju",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6a638f2f90260f1aab0760a1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6367859,
+        "known_for_department": "Directing",
+        "name": "Yapati Ramesh Naidu",
+        "original_name": "Yapati Ramesh Naidu",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a638f3eea604aa7af38272c",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6367860,
+        "known_for_department": "Production",
+        "name": "Siva Kanchana Latha Koneru",
+        "original_name": "Siva Kanchana Latha Koneru",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "credit_id": "6a638f722c8086d27b78a86d",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "external_ids": {
     "imdb_id": "tt37444500",
@@ -304,18 +458,7 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

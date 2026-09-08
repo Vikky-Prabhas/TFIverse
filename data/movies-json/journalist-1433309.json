@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Journalist",
   "overview": "What is true journalism? How do politicians use it for their own purposes?",
-  "popularity": 0.1681,
+  "popularity": 0.9603,
   "poster_path": "/aSDXFXADttcgyYrYsp2YSc4wrE6.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt13968846",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Dhammadip Kamble",
         "original_name": "Dhammadip Kamble",
-        "popularity": 0.0071,
+        "popularity": 0.2209,
         "profile_path": null,
         "cast_id": 1,
         "character": "Journalist (voice)",
@@ -67,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Tashu Kaushik",
         "original_name": "Tashu Kaushik",
-        "popularity": 0.157,
+        "popularity": 0.711,
         "profile_path": "/g1mybHJPdoM6c6QsnqiPLUrAJlp.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Ramki",
         "original_name": "Ramki",
-        "popularity": 0.6377,
+        "popularity": 2.2275,
         "profile_path": "/vLlfDwmoNzQJsmuVQezZbJyb387.jpg",
         "cast_id": 3,
         "character": "Hero",
@@ -95,7 +108,7 @@
         "known_for_department": "Writing",
         "name": "Aripirala Satyaprasad",
         "original_name": "Aripirala Satyaprasad",
-        "popularity": 0.0357,
+        "popularity": 0.5133,
         "profile_path": null,
         "cast_id": 4,
         "character": "Prasad",
@@ -111,7 +124,7 @@
         "known_for_department": "Writing",
         "name": "Mahesh Sukadhare",
         "original_name": "Mahesh Sukadhare",
-        "popularity": 0.0404,
+        "popularity": 0.4758,
         "profile_path": null,
         "credit_id": "67ace8a0a58cead38d9f3b72",
         "department": "Directing",
@@ -124,23 +137,13 @@
         "known_for_department": "Writing",
         "name": "Aripirala Satyaprasad",
         "original_name": "Aripirala Satyaprasad",
-        "popularity": 0.0357,
+        "popularity": 0.5133,
         "profile_path": null,
         "credit_id": "67ace8ae3ee708327c36e36e",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt13968846",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -159,6 +162,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -174,11 +180,5 @@
         "width": 836
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

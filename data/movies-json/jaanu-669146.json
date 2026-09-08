@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "జాను",
   "overview": "Decades post-high school, Ram and Jaanu meet at their school's reunion and explore their past thoughts consisting of affection, care, depth and grieve all over the period of one evening.",
-  "popularity": 0.997,
+  "popularity": 2.9923,
   "poster_path": "/2koyOXlN9mJF0CmWkiGs7IqP0ZI.jpg",
   "production_companies": [
     {
@@ -53,8 +53,11 @@
   "tagline": "",
   "title": "Jaanu",
   "video": false,
-  "vote_average": 5.6,
-  "vote_count": 13,
+  "vote_average": 6.118,
+  "vote_count": 17,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +66,8 @@
         "id": 588007,
         "known_for_department": "Acting",
         "name": "Sharwanand",
-        "original_name": "Sharwanand",
-        "popularity": 1.023,
+        "original_name": "శర్వానంద్",
+        "popularity": 1.9284,
         "profile_path": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg",
         "cast_id": 1,
         "character": "K. Ramachandra 'Ram'",
@@ -78,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Samantha Ruth Prabhu",
         "original_name": "సమంత రూత్ ప్రభు",
-        "popularity": 1.1883,
-        "profile_path": "/iGQ0AT1bNULlrJwSOGSRqLDSfGG.jpg",
+        "popularity": 2.0307,
+        "profile_path": "/FFGYlhLQK7FWzPLtmOb1QHTDAh.jpg",
         "cast_id": 2,
         "character": "S. Janaki Devi 'Jaanu'",
         "credit_id": "5e36c4c34ca676001752d2ed",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Gouri G Kishan",
         "original_name": "Gouri G Kishan",
-        "popularity": 0.8434,
+        "popularity": 3.7064,
         "profile_path": "/mYfNk1j2yDFNcHCJ3WHHHz39QxI.jpg",
         "cast_id": 3,
         "character": "Young Jaanu",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kiran Kumar",
         "original_name": "Sai Kiran Kumar",
-        "popularity": 0.0563,
+        "popularity": 0.3096,
         "profile_path": null,
         "cast_id": 4,
         "character": "Young Ram",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 5,
         "character": "Ram's Friend",
@@ -133,8 +136,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 6,
         "character": "Watchman",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Varsha Bollamma",
         "original_name": "Varsha Bollamma",
-        "popularity": 0.7876,
+        "popularity": 1.9015,
         "profile_path": "/xlgUn3pe1UP0ef3YvE8wlkTWtEm.jpg",
         "cast_id": 7,
         "character": "Trainee Photographer",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Saranya Pradeep",
         "original_name": "Saranya Pradeep",
-        "popularity": 0.3074,
+        "popularity": 0.8865,
         "profile_path": "/zGdjxXehk4Bashdfq4DpOqnVzc6.jpg",
         "cast_id": 26,
         "character": "",
@@ -178,7 +181,7 @@
         "known_for_department": "Sound",
         "name": "Pradeep Kumar",
         "original_name": "Pradeep Kumar",
-        "popularity": 0.2978,
+        "popularity": 0.4664,
         "profile_path": "/yBVwrel9rodFEdmeI8TNzbids5K.jpg",
         "credit_id": "605f0b9523be4600748f7041",
         "department": "Sound",
@@ -191,7 +194,7 @@
         "known_for_department": "Writing",
         "name": "Sree Mani",
         "original_name": "Sree Mani",
-        "popularity": 0.0959,
+        "popularity": 0.395,
         "profile_path": "/9zCz1XWtxEZKo3xpBVvHJnIFhlf.jpg",
         "credit_id": "61e6b2086840cc0042d7ea37",
         "department": "Writing",
@@ -200,15 +203,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1641717,
-        "known_for_department": "Sound",
-        "name": "G. Suren",
-        "original_name": "G. Suren",
-        "popularity": 0.3221,
-        "profile_path": "/wkTwT40K7WM3NPazGfqz3GT7HV4.jpg",
-        "credit_id": "5e3cd7af98f1f100120bde23",
-        "department": "Sound",
-        "job": "Sound Designer"
+        "id": 1765042,
+        "known_for_department": "Production",
+        "name": "Harshith Reddy",
+        "original_name": "Harshith Reddy",
+        "popularity": 0.3142,
+        "profile_path": null,
+        "credit_id": "5e3cd78f0c2710001a796ed8",
+        "department": "Production",
+        "job": "Co-Producer"
       },
       {
         "adult": false,
@@ -217,7 +220,7 @@
         "known_for_department": "Production",
         "name": "Shirish",
         "original_name": "Shirish",
-        "popularity": 0.1394,
+        "popularity": 0.3609,
         "profile_path": null,
         "credit_id": "5e3cd7979603310013e8b829",
         "department": "Production",
@@ -230,7 +233,7 @@
         "known_for_department": "Sound",
         "name": "S. Alagia Koothan",
         "original_name": "S Alagia Koothan",
-        "popularity": 0.2017,
+        "popularity": 0.3712,
         "profile_path": null,
         "credit_id": "5e3cd7a79603310017e8a961",
         "department": "Sound",
@@ -239,41 +242,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1765042,
-        "known_for_department": "Production",
-        "name": "Harshith Reddy",
-        "original_name": "Harshith Reddy",
-        "popularity": 0.1133,
-        "profile_path": null,
-        "credit_id": "5e3cd78f0c2710001a796ed8",
-        "department": "Production",
-        "job": "Co-Producer"
+        "id": 1641717,
+        "known_for_department": "Sound",
+        "name": "G. Suren",
+        "original_name": "G. Suren",
+        "popularity": 0.4092,
+        "profile_path": "/wkTwT40K7WM3NPazGfqz3GT7HV4.jpg",
+        "credit_id": "5e3cd7af98f1f100120bde23",
+        "department": "Sound",
+        "job": "Sound Designer"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 2113697,
-        "known_for_department": "Writing",
-        "name": "Karthik Netha",
-        "original_name": "Karthik Netha",
-        "popularity": 0.1218,
-        "profile_path": "/mMEtqiG8T67Qgxa9CyYNMzRj6vf.jpg",
-        "credit_id": "5e36c59b4ca676001752d584",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2527551,
-        "known_for_department": "Acting",
-        "name": "Mirchi Kiran",
-        "original_name": "Mirchi Kiran",
-        "popularity": 0.2319,
-        "profile_path": "/h47N3gRWRcTYxnjaopSkMD8x8qk.jpg",
-        "credit_id": "5e36c57f4ca6760014520cda",
-        "department": "Writing",
-        "job": "Dialogue"
+        "id": 1124416,
+        "known_for_department": "Directing",
+        "name": "C. Prem Kumar",
+        "original_name": "C. Prem Kumar",
+        "popularity": 1.8247,
+        "profile_path": "/g0FBgpYuF0KFA4IYVtf0slyB3t0.jpg",
+        "credit_id": "5e36c5404ca676001251d8b0",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -282,7 +272,7 @@
         "known_for_department": "Directing",
         "name": "Rambabu Kongarapi",
         "original_name": "Rambabu Kongarapi",
-        "popularity": 0.0071,
+        "popularity": 0.2668,
         "profile_path": null,
         "credit_id": "5e36c552ac8e6b0015c4ff8f",
         "department": "Directing",
@@ -295,7 +285,7 @@
         "known_for_department": "Production",
         "name": "Dil Raju",
         "original_name": "Dil Raju",
-        "popularity": 0.1187,
+        "popularity": 0.5112,
         "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
         "credit_id": "5e36c56743250f0019c2c6c6",
         "department": "Production",
@@ -304,37 +294,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1391944,
-        "known_for_department": "Camera",
-        "name": "Mahendran Jayaraju",
-        "original_name": "Mahendran Jayaraju",
-        "popularity": 0.0589,
-        "profile_path": "/sqJ6vZVUQtCvP4QoKDuIKsQKpYu.jpg",
-        "credit_id": "5e36c5874ca6760014520ce4",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1124416,
         "known_for_department": "Directing",
         "name": "C. Prem Kumar",
         "original_name": "C. Prem Kumar",
-        "popularity": 0.4391,
-        "profile_path": "/g0FBgpYuF0KFA4IYVtf0slyB3t0.jpg",
-        "credit_id": "5e36c5404ca676001251d8b0",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1124416,
-        "known_for_department": "Directing",
-        "name": "C. Prem Kumar",
-        "original_name": "C. Prem Kumar",
-        "popularity": 0.4391,
+        "popularity": 1.8247,
         "profile_path": "/g0FBgpYuF0KFA4IYVtf0slyB3t0.jpg",
         "credit_id": "5e36c56f4ca6760014520cca",
         "department": "Writing",
@@ -343,15 +307,54 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2527551,
+        "known_for_department": "Acting",
+        "name": "Mirchi Kiran",
+        "original_name": "Mirchi Kiran",
+        "popularity": 0.9221,
+        "profile_path": "/h47N3gRWRcTYxnjaopSkMD8x8qk.jpg",
+        "credit_id": "5e36c57f4ca6760014520cda",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391944,
+        "known_for_department": "Camera",
+        "name": "Mahendran Jayaraju",
+        "original_name": "Mahendran Jayaraju",
+        "popularity": 0.4015,
+        "profile_path": "/sqJ6vZVUQtCvP4QoKDuIKsQKpYu.jpg",
+        "credit_id": "5e36c5874ca6760014520ce4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1882390,
         "known_for_department": "Sound",
         "name": "Govindh Vasantha",
         "original_name": "Govindh Vasantha",
-        "popularity": 0.0684,
+        "popularity": 0.3596,
         "profile_path": "/cAOql1dIlJdDtv5MuNAg54qHkez.jpg",
         "credit_id": "5e36c591ac8e6b0015c5004b",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2113697,
+        "known_for_department": "Writing",
+        "name": "Karthik Netha",
+        "original_name": "Karthik Netha",
+        "popularity": 0.3431,
+        "profile_path": "/mMEtqiG8T67Qgxa9CyYNMzRj6vf.jpg",
+        "credit_id": "5e36c59b4ca676001752d584",
+        "department": "Writing",
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -360,7 +363,7 @@
         "known_for_department": "Sound",
         "name": "Chinmayi Sripaada",
         "original_name": "Chinmayi Sripaada",
-        "popularity": 0.1272,
+        "popularity": 0.5392,
         "profile_path": "/j3bkeLC42zmfu38suUpK2CyxVXG.jpg",
         "credit_id": "5e36c859ac8e6b0018c513d2",
         "department": "Sound",
@@ -369,15 +372,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 222845,
-        "known_for_department": "Editing",
-        "name": "Praveen K. L.",
-        "original_name": "Praveen K. L.",
-        "popularity": 0.2273,
-        "profile_path": "/kXbykpVSZCS7AhJ6TToGhn636b8.jpg",
-        "credit_id": "5e36c88643250f0015c26d9f",
-        "department": "Editing",
-        "job": "Editor"
+        "id": 1882390,
+        "known_for_department": "Sound",
+        "name": "Govindh Vasantha",
+        "original_name": "Govindh Vasantha",
+        "popularity": 0.3596,
+        "profile_path": "/cAOql1dIlJdDtv5MuNAg54qHkez.jpg",
+        "credit_id": "5e36c868ac8e6b0018c513d9",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -386,7 +389,7 @@
         "known_for_department": "Art",
         "name": "A Ramanjaneyulu",
         "original_name": "A Ramanjaneyulu",
-        "popularity": 0.0547,
+        "popularity": 0.2765,
         "profile_path": null,
         "credit_id": "5e36c87e4ca676001a526a99",
         "department": "Art",
@@ -395,27 +398,17 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1882390,
-        "known_for_department": "Sound",
-        "name": "Govindh Vasantha",
-        "original_name": "Govindh Vasantha",
-        "popularity": 0.0684,
-        "profile_path": "/cAOql1dIlJdDtv5MuNAg54qHkez.jpg",
-        "credit_id": "5e36c868ac8e6b0018c513d9",
-        "department": "Sound",
-        "job": "Playback Singer"
+        "id": 222845,
+        "known_for_department": "Editing",
+        "name": "Praveen K. L.",
+        "original_name": "Praveen K. L.",
+        "popularity": 0.3549,
+        "profile_path": "/kXbykpVSZCS7AhJ6TToGhn636b8.jpg",
+        "credit_id": "5e36c88643250f0015c26d9f",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt9691336",
-    "wikidata_id": "Q81405504",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -447,8 +440,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt9691336",
+    "wikidata_id": "Q81405504",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -457,6 +454,9 @@
         "name": "childhood love"
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [

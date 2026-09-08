@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bazaar Rowdy",
   "overview": "Kali (Sampoornesh Babu) leaves his house unable to bear his strict dad and becomes Baazar Rowdy to save the people from the anti-social elements. He thus becomes messiah of the poor and goes to any extent to help them by thrashing the baddies black and blue. One fine day he helps Swapna (Maheswari Vaddi) from eve-teasers and falls in love. As Kali is passing time in this manner, three persons (Shayaji Shinde, Pruthvi, Katti Mahesh) meets him and asks him to act as the son of an Industrialist (Nagineedu) to save their family. Kali enters the industrialist's house and where this will lead to forms the rest of the story.",
-  "popularity": 0.0614,
+  "popularity": 0.4241,
   "poster_path": "/ht0q33AXSj92b30sQzaIPBHsBTq.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,27 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4961911,
-        "known_for_department": "Directing",
-        "name": "D. Vasantha Nageswara Rao",
-        "original_name": "D. Vasantha Nageswara Rao",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "66f38f4821c481b1d422e142",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt15227848",
     "wikidata_id": null,
@@ -56,8 +35,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -76,6 +55,9 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "alternative_titles": {
     "titles": []
   },
@@ -92,6 +74,24 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 960
+      }
+    ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4961911,
+        "known_for_department": "Directing",
+        "name": "D. Vasantha Nageswara Rao",
+        "original_name": "D. Vasantha Nageswara Rao",
+        "popularity": 0.2814,
+        "profile_path": null,
+        "credit_id": "66f38f4821c481b1d422e142",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   }

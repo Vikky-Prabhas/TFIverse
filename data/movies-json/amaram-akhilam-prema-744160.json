@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అమ‌రం అఖిలం ప్రేమ",
   "overview": "Akhila is a pampered young daddy’s girl who studies engineering in Kakinada. She moves to Hyderabad to prepare for civil services. Amar is an aspiring musician who falls for her and puts all his effort into getting her attention. Why did Akhila really move to Hyderabad and what makes her fall for Amar is what the film is all about.",
-  "popularity": 0.2383,
+  "popularity": 1.0869,
   "poster_path": "/fuGtfV9wdqnhUWypK1JCi1Qthbl.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Shivshakti Sachdev",
         "original_name": "Shivshakti Sachdev",
-        "popularity": 0.0404,
+        "popularity": 0.4671,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Keshav Deepak",
         "original_name": "Keshav Deepak",
-        "popularity": 0.3144,
+        "popularity": 0.8462,
         "profile_path": "/3OYTK0bGVkCan44HT70Tz63hNlx.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Vijay Ram",
         "original_name": "Vijay Ram",
-        "popularity": 0.1398,
+        "popularity": 0.4287,
         "profile_path": "/c1avHANGe45ZIS1bwPLmgW2d28w.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Naresh Garu",
         "original_name": "Naresh Garu",
-        "popularity": 0.0071,
+        "popularity": 0.3273,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.3429,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 7,
         "character": "",
@@ -129,7 +129,7 @@
         "known_for_department": "Directing",
         "name": "Jonathan Vesapogu",
         "original_name": "Jonathan Vesapogu",
-        "popularity": 0,
+        "popularity": 0.3598,
         "profile_path": null,
         "credit_id": "5f640d946a2227003782d9b5",
         "department": "Directing",
@@ -137,31 +137,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt12994288",
-    "wikidata_id": null,
+    "wikidata_id": "Q101245187",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Amaram Akhilam Prema Trailer | Vijay Ram | ShivShakti Sachdev | Jonathan  | World Premiere on AHA",
-        "key": "8x4oMIjIS_A",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Trailer",
-        "official": true,
-        "id": "5f640dc7db154f00370bb4d3",
-        "published_at": "2020-09-03T05:58:57.000Z"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -177,6 +161,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Amaram Akhilam Prema Trailer | Vijay Ram | ShivShakti Sachdev | Jonathan  | World Premiere on AHA",
+        "key": "8x4oMIjIS_A",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "5f640dc7db154f00370bb4d3",
+        "published_at": "2020-09-03T05:58:57.000Z"
       }
     ]
   },

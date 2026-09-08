@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "బావ",
   "overview": "Seetharamudu wants his son to get married in a family where he is respected and accepted. However, when his son falls in love with one of his maternal relatives, he opposes the relationship.",
-  "popularity": 0.5363,
+  "popularity": 0.8834,
   "poster_path": "/kY6juBWRbS8kyGUpBgkHiCBNvuw.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,13 @@
   "video": false,
   "vote_average": 3.9,
   "vote_count": 8,
+  "external_ids": {
+    "imdb_id": "tt1772760",
+    "wikidata_id": "Q4837195",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Siddharth",
         "original_name": "Siddharth",
-        "popularity": 2.9818,
+        "popularity": 1.2129,
         "profile_path": "/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg",
         "cast_id": 1,
         "character": "Veerababu",
@@ -67,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Pranitha Subhash",
         "original_name": "Pranitha Subhash",
-        "popularity": 0.4763,
+        "popularity": 0.9718,
         "profile_path": "/nYTdnt5wHIYHa0hK95ZNwsx2mdd.jpg",
         "cast_id": 2,
         "character": "Varalakshmi",
@@ -80,8 +87,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,8 +101,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 5,
         "character": "",
@@ -107,9 +114,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 6,
         "character": "",
@@ -122,8 +129,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 7,
         "character": "",
@@ -137,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 8,
         "character": "",
@@ -151,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 9,
         "character": "",
@@ -165,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.379,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 10,
         "character": "",
@@ -179,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Surekha Vani",
         "original_name": "Surekha Vani",
-        "popularity": 0.4619,
+        "popularity": 3.2646,
         "profile_path": "/bqDsLZ0ysImn4466eD3MfiWmcnw.jpg",
         "cast_id": 11,
         "character": "",
@@ -193,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Pavitra Lokesh",
         "original_name": "Pavitra Lokesh",
-        "popularity": 0.4205,
+        "popularity": 2.1396,
         "profile_path": "/cytt3npHpd1YDstV7e2VeDeZ5J6.jpg",
         "cast_id": 12,
         "character": "",
@@ -207,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Sindhu Tolani",
         "original_name": "Sindhu Tolani",
-        "popularity": 0.2805,
+        "popularity": 0.6753,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -221,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Reddy",
         "original_name": "Srinivasa Reddy",
-        "popularity": 0.5379,
+        "popularity": 1.3572,
         "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
         "cast_id": 14,
         "character": "",
@@ -237,7 +244,7 @@
         "known_for_department": "Directing",
         "name": "Rambabu",
         "original_name": "Rambabu",
-        "popularity": 0.0398,
+        "popularity": 0.3083,
         "profile_path": null,
         "credit_id": "52fe4ba7c3a36847f820dfc3",
         "department": "Directing",
@@ -247,16 +254,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1772760",
-    "wikidata_id": "Q4837195",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -274,6 +271,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []

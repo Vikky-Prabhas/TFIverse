@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Priya",
   "overview": "Priya is romance based movie in which, the story revolves around radhika, who is only daughter of a rich industrialist. Chandramohan who is unemployed for long time gets into a small fight with radhika and later she selects him as general manager of her company. Chandramohan develops love towards her and expresses it and when both are in love, her father doesn’t like it and seperate them by creating a misunderstanding between them. Her father plans to get her married with Chiranjeevi, who is also rich but later she realises that he’s a sad love story behind him.",
-  "popularity": 0.2372,
+  "popularity": 0.8371,
   "poster_path": "/7e9TD15jexu0MKroUbKkgF8XZOc.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -65,9 +65,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 4,
         "character": "",
@@ -79,9 +79,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 5,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Swapna",
         "original_name": "Swapna",
-        "popularity": 0.2295,
+        "popularity": 1.0356,
         "profile_path": "/qKSqfHhLHNB99cDBEjLvOoEVbrh.jpg",
         "cast_id": 6,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Directing",
         "name": "S. P. Chittibabu",
         "original_name": "S. P. Chittibabu",
-        "popularity": 0.0673,
+        "popularity": 0.335,
         "profile_path": null,
         "credit_id": "53b0d5d40e0a265980007285",
         "department": "Directing",
@@ -124,7 +124,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0d5d6c3a3682ee2005d7c",
         "department": "Sound",
@@ -137,7 +137,7 @@
         "known_for_department": "Production",
         "name": "M V H Raippa Raju",
         "original_name": "M V H Raippa Raju",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0d5de0e0a26597500732d",
         "department": "Production",
@@ -145,18 +145,38 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt0246169",
-    "wikidata_id": null,
+    "wikidata_id": "Q13003411",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -182,26 +202,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1981-10-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

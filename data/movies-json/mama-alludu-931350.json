@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మామా అల్లుడు",
   "overview": "Bhavani Devi trains her daughter, Jaya, on how to control her husband, Vijay. However, she is unaware of how many vices her spouse has due to her strong tactics.",
-  "popularity": 0.3278,
+  "popularity": 1.0601,
   "poster_path": "/xj1SzkWuYT3WfWSRE8eSLF7vn0E.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,8 +47,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Vijay",
@@ -62,7 +62,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "cast_id": 2,
         "character": "Rajeswara Prasad",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Vani Viswanath",
         "original_name": "Vani Viswanath",
-        "popularity": 0.6815,
+        "popularity": 2.0145,
         "profile_path": "/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg",
         "cast_id": 3,
         "character": "Jaya",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Suthi Velu",
         "original_name": "Suthi Velu",
-        "popularity": 0.3068,
+        "popularity": 1.2086,
         "profile_path": null,
         "cast_id": 4,
         "character": "Deku",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Peketi Sivaram",
         "original_name": "Peketi Sivaram",
-        "popularity": 0.1136,
+        "popularity": 0.704,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -117,9 +117,9 @@
         "id": 584609,
         "known_for_department": "Acting",
         "name": "Jayachitra",
-        "original_name": "Jayachitra",
-        "popularity": 0.1433,
-        "profile_path": null,
+        "original_name": "ஜெயசித்ரா",
+        "popularity": 1.2749,
+        "profile_path": "/1Ty3X7zP8Am1NkGiuVCConH8KoV.jpg",
         "cast_id": 6,
         "character": "Bhavani Devi",
         "credit_id": "61f1c2f5498bc2009b6aee52",
@@ -131,9 +131,9 @@
         "id": 1423167,
         "known_for_department": "Acting",
         "name": "Vijayalalitha",
-        "original_name": "Vijayalalitha",
-        "popularity": 0.1753,
-        "profile_path": null,
+        "original_name": "விஜயலலிதா",
+        "popularity": 0.6471,
+        "profile_path": "/fT1jNft9jbaVpPAmaE3de34wdpO.jpg",
         "cast_id": 7,
         "character": "Chamundeswari",
         "credit_id": "61f1c3041ad93b5108fbc068",
@@ -146,8 +146,8 @@
         "known_for_department": "Acting",
         "name": "Anuradha",
         "original_name": "Anuradha",
-        "popularity": 0.319,
-        "profile_path": null,
+        "popularity": 1.1069,
+        "profile_path": "/bvlAgIJuUR0rkMcoc2uWy7hRgx4.jpg",
         "cast_id": 8,
         "character": "Alochana Devi",
         "credit_id": "61f1c328d40d4c0043a9bee2",
@@ -158,15 +158,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2236114,
-        "known_for_department": "Camera",
-        "name": "V Prathap",
-        "original_name": "V Prathap",
-        "popularity": 0.0071,
+        "id": 2049688,
+        "known_for_department": "Directing",
+        "name": "Narasimha Rao Relangi",
+        "original_name": "Narasimha Rao Relangi",
+        "popularity": 1.1206,
         "profile_path": null,
-        "credit_id": "61f1c564559d2200913d0eb8",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "61f1c536d11e0e006c60796a",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -175,7 +175,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1948,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "61f1c555764b99006cb6446d",
         "department": "Writing",
@@ -184,36 +184,40 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1974027,
-        "known_for_department": "Editing",
-        "name": "B. Krishnam Raju",
-        "original_name": "B. Krishnam Raju",
-        "popularity": 0.0434,
+        "id": 2236114,
+        "known_for_department": "Camera",
+        "name": "V Prathap",
+        "original_name": "V Prathap",
+        "popularity": 0.283,
         "profile_path": null,
-        "credit_id": "61f1c59dcedac4001cb328de",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "61f1c564559d2200913d0eb8",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 2049688,
-        "known_for_department": "Directing",
-        "name": "Narasimha Rao Relangi",
-        "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1948,
+        "id": 1974027,
+        "known_for_department": "Editing",
+        "name": "B. Krishnam Raju",
+        "original_name": "B. Krishnam Raju",
+        "popularity": 0.2374,
         "profile_path": null,
-        "credit_id": "61f1c536d11e0e006c60796a",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "61f1c59dcedac4001cb328de",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0262598",
+    "wikidata_id": "Q24885577",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -248,14 +252,10 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0262598",
-    "wikidata_id": "Q24885577",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

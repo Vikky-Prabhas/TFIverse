@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "విజేత",
   "overview": "Chinnababu realizes that despite having well-earning sons his father is struggling to fund his younger sister's wedding. In order to help him, Chinnababu takes a drastic step.",
-  "popularity": 0.3124,
+  "popularity": 1.5157,
   "poster_path": "/j7TFQ5nqzNhbrXz1OPtaMsazOoY.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Madhusudhana Rao",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 4,
         "character": "Priyadarshani",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.1551,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 5,
         "character": "Narasimham",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 6,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Sharada",
         "original_name": "Sharada",
-        "popularity": 0.3722,
+        "popularity": 1.7033,
         "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
         "cast_id": 7,
         "character": "",
@@ -125,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 8,
         "character": "",
@@ -139,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 11,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 9,
         "character": "",
@@ -167,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "Allu Arjun",
         "original_name": "అల్లు అర్జున్",
-        "popularity": 2.5039,
+        "popularity": 3.2405,
         "profile_path": "/wHr3bKhYpiDiYVMZLZqebeauEVw.jpg",
         "cast_id": 19,
         "character": "Child Artist",
@@ -181,7 +181,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "cast_id": 13,
         "character": "Coach",
@@ -195,7 +195,7 @@
         "known_for_department": "Acting",
         "name": "Ranganath",
         "original_name": "Ranganath",
-        "popularity": 0.207,
+        "popularity": 1.5237,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -211,7 +211,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.3713,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "53b0c17c0e0a265986006e5c",
         "department": "Directing",
@@ -224,7 +224,7 @@
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3621,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "53b0c1820e0a265989007040",
         "department": "Production",
@@ -233,11 +233,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "5c70bd7f9251415ef5af7019",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928860,
+        "known_for_department": "Writing",
+        "name": "Jandhyala Subramanya Sastry",
+        "original_name": "Jandhyala Subramanya Sastry",
+        "popularity": 0.8332,
+        "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
+        "credit_id": "5c70bd95c3a3685a3c118f63",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 592998,
         "known_for_department": "Writing",
         "name": "Sachin Bhowmick",
         "original_name": "Sachin Bhowmick",
-        "popularity": 0.3083,
+        "popularity": 1.1603,
         "profile_path": "/yq2bVNFoPGVjg99I3HITeyL9JYS.jpg",
         "credit_id": "5c70bdaec3a3685a32118de3",
         "department": "Writing",
@@ -250,37 +276,11 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.3713,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "5c70bdbe0e0a262c0c79ae88",
         "department": "Writing",
         "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 928860,
-        "known_for_department": "Writing",
-        "name": "Jandhyala Subramanya Sastry",
-        "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
-        "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
-        "credit_id": "5c70bd95c3a3685a3c118f63",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 933605,
-        "known_for_department": "Sound",
-        "name": "K. Chakravarthy",
-        "original_name": "Chakravarthy",
-        "popularity": 0.1741,
-        "profile_path": null,
-        "credit_id": "5c70bd7f9251415ef5af7019",
-        "department": "Sound",
-        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -289,7 +289,7 @@
         "known_for_department": "Camera",
         "name": "Lok Singh",
         "original_name": "Lok Singh",
-        "popularity": 0.0143,
+        "popularity": 0.3696,
         "profile_path": null,
         "credit_id": "5c70bdd49251415ee6af7564",
         "department": "Camera",
@@ -297,18 +297,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0246315",
-    "wikidata_id": "Q7929336",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -327,14 +317,15 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Vijeta",
-        "type": ""
-      }
-    ]
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0246315",
+    "wikidata_id": "Q7929336",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -390,6 +381,15 @@
         "vote_average": 0.166,
         "vote_count": 1,
         "width": 2000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Vijeta",
+        "type": ""
       }
     ]
   }

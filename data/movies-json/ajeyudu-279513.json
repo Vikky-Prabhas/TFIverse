@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Ajeyudu",
   "overview": "Murali's world comes tumbling down when he discovers that his adopted father ruined the lives of his biological parents. He then has to make the tough choice between his two sets of parents.",
-  "popularity": 0.1303,
+  "popularity": 0.7062,
   "poster_path": "/6o8rxc0oY72ej6zeGRyjpnaFADH.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Shobana",
         "original_name": "Shobana",
-        "popularity": 1.2429,
+        "popularity": 2.8034,
         "profile_path": "/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg",
         "cast_id": 4,
         "character": "Rekha",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.4878,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 5,
         "character": "",
@@ -97,7 +100,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b18295c3a3682eee006602",
         "department": "Sound",
@@ -110,7 +113,7 @@
         "known_for_department": "Directing",
         "name": "G Rammohan Rao",
         "original_name": "G Rammohan Rao",
-        "popularity": 0.0214,
+        "popularity": 0.4107,
         "profile_path": null,
         "credit_id": "53b18294c3a3682eea006661",
         "department": "Directing",
@@ -118,15 +121,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt2368559",
     "wikidata_id": "Q4699713",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -170,9 +173,6 @@
         "width": 2000
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": []

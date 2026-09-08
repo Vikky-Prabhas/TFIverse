@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/2L1LMfwqBeR6owgphgtfUtJXhQz.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mirapakay",
   "overview": "Rishi (Ravi Teja) is an inspector in the Intelligence Bureau. His colleagues fondly call him 'Mirapakaay'. The chief of the IB, Narayana Murthy (Nagababu) gets information that Kittu Bhai (Prakash Raj), a mafia don, is trying to spread his tentacles in India and is targeting Delhi first. During the course of the investigation, ACP (Sanjay Swaroop) is killed by Shankar (Kota Srinivasa Rao), a local goon with the help of his son (Supreet). Murthy sends Rishi to Hyderabad and gets him admitted to a college as a Hindi lecturer as part of an undercover operation. Rishi meets Vinamra (Richa Gangopadhyay) at a temple & falls in love at first sight. Incidentally, she studies in the same college and in the same class to which Rishi teaches Hindi. Their love blossoms. At this juncture, Vaishali (Deeksha Seth), daughter of Kittu Bhai, joins the same college. Grabbing the opportunity, the IB chief asks Rishi to extract information about Kittu from Vaishali.",
-  "popularity": 0.576,
+  "popularity": 3.799,
   "poster_path": "/xb4ePZdBvazvqrETSTbjCtQMWj0.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,8 +46,11 @@
   "tagline": "",
   "title": "Mirapakay",
   "video": false,
-  "vote_average": 5.6,
-  "vote_count": 14,
+  "vote_average": 5.684,
+  "vote_count": 19,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -56,8 +59,8 @@
         "id": 146935,
         "known_for_department": "Acting",
         "name": "Ravi Teja",
-        "original_name": "Ravi Teja",
-        "popularity": 0.9088,
+        "original_name": "రవితేజ",
+        "popularity": 3.081,
         "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
         "cast_id": 1002,
         "character": "Rishi",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Richa Gangopadhyay",
         "original_name": "Richa Gangopadhyay",
-        "popularity": 0.2853,
+        "popularity": 1.41,
         "profile_path": "/lqEH1QuzjqwMQTxFvHSdf3czHQi.jpg",
         "cast_id": 1003,
         "character": "Vinamra",
@@ -85,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Deeksha Seth",
         "original_name": "Deeksha Seth",
-        "popularity": 0.1836,
+        "popularity": 0.8198,
         "profile_path": "/fgnztpGlmb7XFwga1eplAbNppz5.jpg",
         "cast_id": 1004,
         "character": "Vaishali",
@@ -98,8 +101,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 1005,
         "character": "Kittu Bhai",
@@ -112,9 +115,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 1006,
         "character": "Sankaranna",
         "credit_id": "52fe4942c3a36847f81914e3",
@@ -127,8 +130,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 1007,
         "character": "",
         "credit_id": "52fe4942c3a36847f81914e7",
@@ -141,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 1008,
         "character": "",
@@ -155,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5935,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 1009,
         "character": "CBI Officer",
@@ -167,9 +170,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 1010,
         "character": "try",
@@ -183,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.393,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 1011,
         "character": "",
@@ -197,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 1012,
         "character": "",
@@ -211,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.369,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 1013,
         "character": "",
@@ -225,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Supreet",
         "original_name": "Supreet",
-        "popularity": 0.3535,
+        "popularity": 1.6404,
         "profile_path": "/3HZopNIG3zeaSpbGjEvsdmoXjaR.jpg",
         "cast_id": 1014,
         "character": "",
@@ -238,8 +241,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 1015,
         "character": "",
@@ -253,7 +256,7 @@
         "known_for_department": "Acting",
         "name": "Praveen",
         "original_name": "Praveen",
-        "popularity": 0.1974,
+        "popularity": 1.3924,
         "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
         "cast_id": 1016,
         "character": "",
@@ -265,9 +268,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 1017,
         "character": "",
@@ -281,7 +284,7 @@
         "known_for_department": "Acting",
         "name": "Fish Venkat",
         "original_name": "Fish Venkat",
-        "popularity": 0.2153,
+        "popularity": 0.6894,
         "profile_path": "/rPP4bQ9fo3GMVkxNQvQVO0UbPTT.jpg",
         "cast_id": 1019,
         "character": "",
@@ -295,8 +298,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 1020,
         "character": "",
         "credit_id": "6234e1408d77c4001bdba62f",
@@ -311,16 +314,13 @@
         "known_for_department": "Directing",
         "name": "Harish Shankar",
         "original_name": "Harish Shankar",
-        "popularity": 0.4359,
+        "popularity": 1.8167,
         "profile_path": "/zrnihROtZqKRq67OTq1yaTgvjFC.jpg",
         "credit_id": "58b11a12c3a36807320060ed",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt1814797",
@@ -349,32 +349,19 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Mirapakaay",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Moratu Singham",
-        "type": "Tamil Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Khallas",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Mirapakai",
-        "type": ""
-      }
-    ]
-  },
   "images": {
-    "backdrops": [],
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2L1LMfwqBeR6owgphgtfUtJXhQz.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
     "logos": [
       {
         "aspect_ratio": 2.546,
@@ -397,6 +384,30 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 960
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Mirapakaay",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Moratu Singham",
+        "type": "Tamil Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Khallas",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Mirapakai",
+        "type": ""
       }
     ]
   }

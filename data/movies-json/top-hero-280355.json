@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "టాప్ హీరో",
   "overview": "Top Hero is a 1994 Telugu film directed by Sv Krishna Reddy. The film stars Balakrishna, Soundarya, Amani and Kota Srinivasan Rao in lead roles.",
-  "popularity": 0.2913,
+  "popularity": 0.5182,
   "poster_path": "/xx9DstrjvGh52yaZWT2Ixn149MS.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -40,124 +40,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 150529,
-        "known_for_department": "Acting",
-        "name": "Nandamuri Balakrishna",
-        "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.5728,
-        "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "53b6d1fa0e0a2676bb005803",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 288587,
-        "known_for_department": "Acting",
-        "name": "Soundarya",
-        "original_name": "Soundarya",
-        "popularity": 0.5099,
-        "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "53b6d1fbc3a3685eb1002891",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 141695,
-        "known_for_department": "Acting",
-        "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "53b6d22c0e0a2676cf005797",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "53b6d2310e0a2676d30057c2",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 581097,
-        "known_for_department": "Acting",
-        "name": "Aamani",
-        "original_name": "Aamani",
-        "popularity": 0.5489,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
-        "cast_id": 8,
-        "character": "",
-        "credit_id": "5a714f90c3a368606c00184a",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1029010,
-        "known_for_department": "Directing",
-        "name": "S.V. Krishna Reddy",
-        "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.4144,
-        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
-        "credit_id": "53b6d1ea0e0a2676bb0057fd",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1029010,
-        "known_for_department": "Directing",
-        "name": "S.V. Krishna Reddy",
-        "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.4144,
-        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
-        "credit_id": "53b6d1e90e0a2676cf005788",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1337576,
-        "known_for_department": "Production",
-        "name": "Achanta Gopinath",
-        "original_name": "Achanta Gopinath",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "53b6d1f40e0a2676d30057b3",
-        "department": "Production",
-        "job": "Producer"
-      }
-    ]
-  },
   "release_dates": {
     "results": [
       {
@@ -174,6 +56,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -201,10 +86,125 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150529,
+        "known_for_department": "Acting",
+        "name": "Nandamuri Balakrishna",
+        "original_name": "Nandamuri Balakrishna",
+        "popularity": 1.6369,
+        "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "53b6d1fa0e0a2676bb005803",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 288587,
+        "known_for_department": "Acting",
+        "name": "Soundarya",
+        "original_name": "Soundarya",
+        "popularity": 1.3785,
+        "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "53b6d1fbc3a3685eb1002891",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141695,
+        "known_for_department": "Acting",
+        "name": "Kota Srinivasa Rao",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "53b6d22c0e0a2676cf005797",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "53b6d2310e0a2676d30057c2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 581097,
+        "known_for_department": "Acting",
+        "name": "Aamani",
+        "original_name": "Aamani",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5a714f90c3a368606c00184a",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1337576,
+        "known_for_department": "Production",
+        "name": "Achanta Gopinath",
+        "original_name": "Achanta Gopinath",
+        "popularity": 0.2591,
+        "profile_path": null,
+        "credit_id": "53b6d1f40e0a2676d30057b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029010,
+        "known_for_department": "Directing",
+        "name": "S.V. Krishna Reddy",
+        "original_name": "S.V. Krishna Reddy",
+        "popularity": 1.6282,
+        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
+        "credit_id": "53b6d1ea0e0a2676bb0057fd",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029010,
+        "known_for_department": "Directing",
+        "name": "S.V. Krishna Reddy",
+        "original_name": "S.V. Krishna Reddy",
+        "popularity": 1.6282,
+        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
+        "credit_id": "53b6d1e90e0a2676cf005788",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

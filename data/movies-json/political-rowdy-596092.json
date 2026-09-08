@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Political Rowdy",
   "overview": "",
-  "popularity": 0.3358,
+  "popularity": 2.923,
   "poster_path": "/8NupdhgAQBL6JtL41cPG6Q5xZA1.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,16 @@
   "video": false,
   "vote_average": 2,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0929620",
+    "wikidata_id": "Q7210231",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 1,
         "character": "",
@@ -61,8 +71,8 @@
         "id": 592512,
         "known_for_department": "Acting",
         "name": "Charmy Kaur",
-        "original_name": "Charmy Kaur",
-        "popularity": 0.6039,
+        "original_name": "చార్మీ కౌర్",
+        "popularity": 2.5614,
         "profile_path": "/5BIGQIuyylSpKrQVhYEEY6GfaUw.jpg",
         "cast_id": 2,
         "character": "",
@@ -75,8 +85,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Abbas",
         "original_name": "Abbas",
-        "popularity": 0.3227,
+        "popularity": 1.4352,
         "profile_path": "/gxIFUlmgoRHBHdSABjJi2lWxkIJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -103,9 +113,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5cb971150e0a2638e5ec9768",
@@ -120,20 +130,7 @@
         "known_for_department": "Writing",
         "name": "Adhi Narayana",
         "original_name": "Adhi Narayana",
-        "popularity": 0.2402,
-        "profile_path": null,
-        "credit_id": "60407ba4322b2b00587c63a0",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1815080,
-        "known_for_department": "Writing",
-        "name": "Adhi Narayana",
-        "original_name": "Adhi Narayana",
-        "popularity": 0.2402,
+        "popularity": 0.7824,
         "profile_path": null,
         "credit_id": "60407bbe55c1f4005a15db41",
         "department": "Writing",
@@ -142,11 +139,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1815080,
+        "known_for_department": "Writing",
+        "name": "Adhi Narayana",
+        "original_name": "Adhi Narayana",
+        "popularity": 0.7824,
+        "profile_path": null,
+        "credit_id": "60407ba4322b2b00587c63a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 37240,
         "known_for_department": "Sound",
         "name": "Sandeep Chowta",
         "original_name": "Sandeep Chowta",
-        "popularity": 0.3,
+        "popularity": 0.4067,
         "profile_path": null,
         "credit_id": "60407cbbaaf897006f085863",
         "department": "Sound",
@@ -159,7 +169,7 @@
         "known_for_department": "Editing",
         "name": "Gautham Raju",
         "original_name": "Gautham Raju",
-        "popularity": 0.1828,
+        "popularity": 0.4474,
         "profile_path": null,
         "credit_id": "60407cc9db7058004377544b",
         "department": "Editing",
@@ -167,18 +177,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0929620",
-    "wikidata_id": "Q7210231",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [

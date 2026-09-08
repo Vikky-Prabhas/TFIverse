@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "పరమానందయ్య శిష్యుల కథ",
   "overview": "Eight unsuspecting people stumble across a bathing woman -- but she's no mere mortal, she is a mighty goddess. The goddess is angry when she learns she's been spied upon and, in a rage, uses her powers to curse the peepers and take away their wisdom. But the only way the poor fools can restore their smarts now is to visit the wizened sage Paramanandaiah -- a man they may no longer know how to find.",
-  "popularity": 0.3817,
+  "popularity": 0.6901,
   "poster_path": "/pwSl23bZQ021N9n5hwn0zXuGLK9.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 0,
         "character": "Nandivardhana Maharaju",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "K R Vijaya",
         "original_name": "K R Vijaya",
-        "popularity": 0.5397,
+        "popularity": 1.5217,
         "profile_path": "/w4w3vlKbjswuzEJz3WxdyHfstxe.jpg",
         "cast_id": 1,
         "character": "Chitralekha",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "L. Vijayalakshmi",
         "original_name": "L. Vijayalakshmi",
-        "popularity": 0.2998,
+        "popularity": 0.9163,
         "profile_path": "/uhHo9vmXtVCZJdaZnq9HJVF5WA1.jpg",
         "cast_id": 2,
         "character": "Ranjani",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 3,
         "character": "Paramanandayya",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.4878,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 4,
         "character": "Lord Siva",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 5,
         "character": "Jaggarayudu",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Padmanabham",
         "original_name": "Padmanabham",
-        "popularity": 0.1895,
+        "popularity": 1.0843,
         "profile_path": "/yKwLIP9RP3o8GWm3Q5CLJLFkeX1.jpg",
         "cast_id": 6,
         "character": "Nandi",
@@ -159,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "Bhringi",
@@ -173,7 +173,7 @@
         "known_for_department": "Acting",
         "name": "Raja Babu",
         "original_name": "Raja Babu",
-        "popularity": 0.0873,
+        "popularity": 0.8339,
         "profile_path": "/hQBSR46T1qXie1VWGVKAuBNpiIb.jpg",
         "cast_id": 8,
         "character": "Phani",
@@ -189,7 +189,7 @@
         "known_for_department": "Directing",
         "name": "Chittajalu Pullayya",
         "original_name": "Chittajalu Pullayya",
-        "popularity": 0.0547,
+        "popularity": 0.3187,
         "profile_path": null,
         "credit_id": "660838640d417e01490427a6",
         "department": "Directing",
@@ -202,13 +202,23 @@
         "known_for_department": "Writing",
         "name": "Vempati Sadasivabrahmam",
         "original_name": "Vempati Sadasivabrahmam",
-        "popularity": 0.1191,
+        "popularity": 0.4719,
         "profile_path": null,
         "credit_id": "66083877e1faed017dfc1360",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0255459",
+    "wikidata_id": "Q7135125",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -230,15 +240,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0255459",
-    "wikidata_id": "Q7135125",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -255,8 +258,5 @@
         "width": 820
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

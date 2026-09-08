@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Jathara",
   "overview": "In 19th-century, a sacred temple's blessing turns to a curse when betrayal shatters faith. A young man must confront a ruthless tyrant, unraveling dark secrets, to restore his family's honor and bring hope back to a drought-stricken land.",
-  "popularity": 0.0338,
+  "popularity": 0.4199,
   "poster_path": "/zJ0RYUDNXzmX3uU9rdTovIR3DVJ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,13 +41,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt30647536",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -65,11 +58,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt30647536",
+    "wikidata_id": "Q130759502",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -97,5 +91,11 @@
         "width": 900
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   }
 }

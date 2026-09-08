@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "స్వర్ణకమలం",
   "overview": "Meenakshi is a disillusioned classical dancer. With the support of her neighbor Chandram, a painter who admires her talent, she begins a journey to appreciate and celebrate her art.",
-  "popularity": 0.3855,
+  "popularity": 1.0068,
   "poster_path": "/9tH4KWOtKdsZlqGgvSdYCPiUkHS.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 0,
         "character": "Chandra Shekar",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4938,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 1,
         "character": "Meenakshi",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Aruna Mucherla",
         "original_name": "Aruna Mucherla",
-        "popularity": 0.4589,
+        "popularity": 2.1958,
         "profile_path": "/uzrxi7mXhGhJuaaKBIYSidGNLTE.jpg",
         "cast_id": 7,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Shanmukha Srinivas",
         "original_name": "Shanmukha Srinivas",
-        "popularity": 0.0071,
+        "popularity": 0.4074,
         "profile_path": null,
         "cast_id": 9,
         "character": "Srinivas",
@@ -119,13 +119,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0567,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 10,
         "character": "Omkaram",
         "credit_id": "5a800df1c3a36818cd019107",
@@ -138,8 +138,8 @@
         "known_for_department": "Acting",
         "name": "Janaki",
         "original_name": "Janaki",
-        "popularity": 0.3132,
-        "profile_path": null,
+        "popularity": 1.3116,
+        "profile_path": "/8xGefQ0sVOQuOgp64FTojoReQJx.jpg",
         "cast_id": 12,
         "character": "",
         "credit_id": "5a800e33c3a36818ac018871",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Devilalitha",
         "original_name": "Devilalitha",
-        "popularity": 0.3258,
+        "popularity": 0.8718,
         "profile_path": "/pJBHXo08f0yZCGtrrUo0ClMlfaS.jpg",
         "cast_id": 13,
         "character": "",
@@ -167,8 +167,8 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "53f9a08dc3a3687361002873",
         "department": "Sound",
@@ -181,7 +181,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "59448c69c3a36816e4005255",
         "department": "Directing",
@@ -194,7 +194,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "59448c72c3a36816f60055a7",
         "department": "Writing",
@@ -207,7 +207,7 @@
         "known_for_department": "Production",
         "name": "C H V Appa Rao",
         "original_name": "C H V Appa Rao",
-        "popularity": 0.0143,
+        "popularity": 0.2753,
         "profile_path": null,
         "credit_id": "5a800c64925141410401920a",
         "department": "Production",
@@ -220,7 +220,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "64c7df7463e6fb0138dabbb0",
         "department": "Writing",
@@ -238,9 +238,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -257,9 +254,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -348,5 +342,11 @@
         "width": 759
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   }
 }

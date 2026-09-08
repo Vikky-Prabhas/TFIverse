@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మనసాక్షి",
   "overview": "Manasaakshi (transl. Conscience) is a 1977 Indian Telugu-language social film, directed by Parvataneni Sambasiva Rao. It stars Krishna Ghattamaneni, Bharathi Rao, Kongara Jaggayya, Kantha Rao, and Sowcar Janaki, with music composed by J.V. Raghavulu.",
-  "popularity": 0.1843,
+  "popularity": 1.6884,
   "poster_path": "/mGBL1qvYkEQiL7qNvOZ8iWT0N0F.jpg",
   "production_companies": [
     {
@@ -55,6 +55,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -76,9 +89,9 @@
         "gender": 1,
         "id": 585414,
         "known_for_department": "Acting",
-        "name": "Bharathi Rao",
+        "name": "Bharathi Vishnuvardhan",
         "original_name": "Bharathi Rao",
-        "popularity": 0.2485,
+        "popularity": 0.7957,
         "profile_path": "/vUrnjGhD5Ptu8cr9mosZRYnuKbF.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 3,
         "character": "",
@@ -105,8 +118,8 @@
         "id": 584415,
         "known_for_department": "Acting",
         "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.4308,
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
         "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.2123,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +147,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 11,
         "character": "",
@@ -143,13 +156,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 12,
         "character": "",
         "credit_id": "6943a65c79b30e02b60faeb4",
@@ -162,7 +175,7 @@
         "known_for_department": "Acting",
         "name": "Mada Venkateswara Rao",
         "original_name": "Mada Venkateswara Rao",
-        "popularity": 0.0214,
+        "popularity": 0.5946,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -173,12 +186,51 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 1673832,
+        "known_for_department": "Directing",
+        "name": "Parvataneni Sambasiva Rao",
+        "original_name": "P. Sambasiva Rao",
+        "popularity": 0.3702,
+        "profile_path": null,
+        "credit_id": "62c9b30739a1a605164284d1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1513136,
+        "known_for_department": "Sound",
+        "name": "JV Raghavulu",
+        "original_name": "JV Raghavulu",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "62c9b31646aed4004fad13a6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3511456,
+        "known_for_department": "Writing",
+        "name": "C. Narayana Reddy",
+        "original_name": "C. Narayana Reddy",
+        "popularity": 0.2676,
+        "profile_path": null,
+        "credit_id": "62c9b33139a1a6051416a8ac",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 3617756,
         "known_for_department": "Writing",
         "name": "Narasimha Murthy Adurthi",
         "original_name": "Narasimha Murthy Adurthi",
-        "popularity": 0,
+        "popularity": 0.4396,
         "profile_path": null,
         "credit_id": "62c9b358e8d028004f18a870",
         "department": "Writing",
@@ -191,7 +243,7 @@
         "known_for_department": "Production",
         "name": "Amara Rama Subba Rao",
         "original_name": "Amara Rama Subba Rao",
-        "popularity": 0.0168,
+        "popularity": 0.2582,
         "profile_path": null,
         "credit_id": "62c9b38fe8131d068b1147e1",
         "department": "Production",
@@ -199,51 +251,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1513136,
-        "known_for_department": "Sound",
-        "name": "JV Raghavulu",
-        "original_name": "JV Raghavulu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "62c9b31646aed4004fad13a6",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1673832,
         "known_for_department": "Directing",
         "name": "Parvataneni Sambasiva Rao",
         "original_name": "P. Sambasiva Rao",
-        "popularity": 0.2009,
-        "profile_path": null,
-        "credit_id": "62c9b30739a1a605164284d1",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3511456,
-        "known_for_department": "Writing",
-        "name": "C. Narayana Reddy",
-        "original_name": "C. Narayana Reddy",
-        "popularity": 0.0637,
-        "profile_path": null,
-        "credit_id": "62c9b33139a1a6051416a8ac",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1673832,
-        "known_for_department": "Directing",
-        "name": "Parvataneni Sambasiva Rao",
-        "original_name": "P. Sambasiva Rao",
-        "popularity": 0.2009,
+        "popularity": 0.3702,
         "profile_path": null,
         "credit_id": "6943a693fa8585a8b77055b1",
         "department": "Writing",
@@ -255,8 +268,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "6943a6c745208961c3e6e7c2",
         "department": "Sound",
@@ -269,7 +282,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "6943a6d0f6fa5af390ace135",
         "department": "Sound",
@@ -282,7 +295,7 @@
         "known_for_department": "Sound",
         "name": "J V Raghavulu",
         "original_name": "J V Raghavulu",
-        "popularity": 0.0357,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "6943a6dfcc89e2b67f38bc03",
         "department": "Sound",
@@ -295,40 +308,11 @@
         "known_for_department": "Sound",
         "name": "JV Raghavulu",
         "original_name": "JV Raghavulu",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "6943a7274894d18097dec32f",
         "department": "Sound",
         "job": "Original Music Composer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/mGBL1qvYkEQiL7qNvOZ8iWT0N0F.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
       }
     ]
   },
@@ -355,6 +339,22 @@
         "iso_3166_1": "IN",
         "title": "Manassakshi",
         "type": ""
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/mGBL1qvYkEQiL7qNvOZ8iWT0N0F.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
   }

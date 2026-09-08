@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "A Shyam Gopal Varma Film",
   "overview": "When a popular crime film director gets kidnapped, he realizes the plot is thicker than his own films.",
-  "popularity": 0.1057,
+  "popularity": 0.4773,
   "poster_path": "/z9HWYRcSYorvoZ2gjjtUyebYDB2.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.1738,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 1,
         "character": "Shyam Gopal Varma",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 2,
         "character": "Film Producer",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Zoya Khan",
         "original_name": "Zoya Khan",
-        "popularity": 0.0544,
+        "popularity": 0.3208,
         "profile_path": null,
         "cast_id": 4,
         "character": "Sharmila",
@@ -81,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "C. S. Reddy",
         "original_name": "C. S. Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "5f4a558923be460032feb97a",
         "department": "Directing",
@@ -92,6 +92,9 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt4010296",
     "wikidata_id": "Q18349619",
@@ -99,8 +102,22 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -120,22 +137,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2015-01-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "నవ్వులే నవ్వులు",
   "overview": "Directed by Dr Rao, Starring Prudhvi, Anju Asrani, Ali, AVS, Kondavalasa Lakshmana Rao, Annapurna, Bollimunta",
-  "popularity": 0.123,
+  "popularity": 3.0684,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,9 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -46,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Anju Asrani",
         "original_name": "Anju Asrani",
-        "popularity": 0.0281,
+        "popularity": 0.3336,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -60,8 +57,8 @@
         "known_for_department": "Acting",
         "name": "Kondavalasa Lakshmana Rao",
         "original_name": "Kondavalasa Lakshmana Rao",
-        "popularity": 0.2156,
-        "profile_path": null,
+        "popularity": 1.0621,
+        "profile_path": "/4HAKwW1DMX9ENRCiDQSxoZNtGwv.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "52fe4c31c3a368484e1ac125",
@@ -74,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.4174,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 6,
         "character": "",
@@ -88,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Bollimunta Nageswara Rao",
         "original_name": "Bollimunta Nageswara Rao",
-        "popularity": 0.0143,
+        "popularity": 0.4874,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -102,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Kalpana Rai",
         "original_name": "Kalpana Rai",
-        "popularity": 0.204,
+        "popularity": 0.6668,
         "profile_path": "/x3Nsq29SWSvQMCfbq8TlEgXvnNS.jpg",
         "cast_id": 8,
         "character": "",
@@ -114,9 +111,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 9,
         "character": "",
@@ -130,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -144,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 11,
         "character": "",
@@ -158,8 +155,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 12,
         "character": "",
         "credit_id": "576adc23c3a36822c800045e",
@@ -174,7 +171,7 @@
         "known_for_department": "Directing",
         "name": "Dr Rao",
         "original_name": "Dr Rao",
-        "popularity": 0.0071,
+        "popularity": 0.6786,
         "profile_path": null,
         "credit_id": "52fe4c31c3a368484e1ac119",
         "department": "Directing",
@@ -184,6 +181,16 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -201,13 +208,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [],

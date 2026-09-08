@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Allari Premikudu",
   "overview": "Kittu always bets for money with Chandram. Once there bet is that Kittu makes Bhavani, Jhansi and Jogeshwari Devi fall for him and he agrees to that.",
-  "popularity": 0.3678,
+  "popularity": 0.6533,
   "poster_path": "/12KfHhX9Nq8UcGqUwXcHPKvlYPs.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.8209,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.3989,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 3,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Rambha",
         "original_name": "Rambha",
-        "popularity": 0.8133,
+        "popularity": 1.6043,
         "profile_path": "/hrJSSIEr5f5je2XHmnYVDF52vvn.jpg",
         "cast_id": 4,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Kanchan",
         "original_name": "Kanchan",
-        "popularity": 0.1778,
+        "popularity": 0.5727,
         "profile_path": "/sGHP9Nz7L7TCkwrVSl2HXUNv0pT.jpg",
         "cast_id": 8,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Rami Reddy",
         "original_name": "Rami Reddy",
-        "popularity": 0.3631,
+        "popularity": 1.3792,
         "profile_path": "/nZsxImJ2EBtLzmvCuymoXyuvevh.jpg",
         "cast_id": 6,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.4917,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,8 +127,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.2012,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "65c04b8512c604017c038652",
@@ -140,8 +140,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -151,9 +151,6 @@
     ],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt0257384",
     "wikidata_id": "Q12990804",
@@ -161,8 +158,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -181,6 +178,12 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -196,8 +199,5 @@
         "width": 512
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "మసాలా",
   "overview": "Masala (English: Mixture of Spices) is a 2013 Telugu film directed by K. Vijaya Bhaskar and jointly produced by Daggubati Suresh Babu and Sravanthi Ravi Kishore. It is a remake of the 2012 Hindi film Bol Bachchan and Venkatesh and Ram Pothineni reprised the roles of Ajay Devgan and Abhishek Bachchan respectively. The film released worldwide on November 14, 2013. Upon release, the film received positive reviews from critics albeit the lead actors and the comedians' performances were appreciated.",
-  "popularity": 0.7158,
+  "popularity": 2.3367,
   "poster_path": "/wobEZqPr2YJYGHccIA1aMgedJvU.jpg",
   "production_companies": [],
   "production_countries": [
@@ -50,8 +50,11 @@
   "tagline": "",
   "title": "Masala",
   "video": false,
-  "vote_average": 4.5,
-  "vote_count": 5,
+  "vote_average": 4.167,
+  "vote_count": 9,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 4,
         "character": "Balaram",
@@ -75,8 +78,8 @@
         "known_for_department": "Acting",
         "name": "Ram Pothineni",
         "original_name": "Ram Pothineni",
-        "popularity": 1.3206,
-        "profile_path": "/co7EItZMqNAvKJmH16NMoVB24cl.jpg",
+        "popularity": 2.0714,
+        "profile_path": "/qVuBZv5iwh5NpsJbsRPB0trp88a.jpg",
         "cast_id": 16,
         "character": "ram/rahman",
         "credit_id": "54d0ff549251417c200035c5",
@@ -89,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Anjali",
         "original_name": "Anjali",
-        "popularity": 2.4148,
+        "popularity": 1.2595,
         "profile_path": "/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
         "cast_id": 6,
         "character": "Sania/Saritha",
@@ -103,8 +106,8 @@
         "known_for_department": "Acting",
         "name": "Shazahn Padamsee",
         "original_name": "Shazahn Padamsee",
-        "popularity": 0.211,
-        "profile_path": "/qeC3FcQ7l8J5HsGX3Itsg7NDaBW.jpg",
+        "popularity": 0.3706,
+        "profile_path": "/dMeJ9MxL8RPVYODpwkf6CoOMpei.jpg",
         "cast_id": 7,
         "character": "Meenakshi",
         "credit_id": "53b1715bc3a3682eea006525",
@@ -116,8 +119,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -130,8 +133,8 @@
         "id": 435722,
         "known_for_department": "Acting",
         "name": "Kovai Sarala",
-        "original_name": "Kovai Sarala",
-        "popularity": 0.9991,
+        "original_name": "கோவை சரளா",
+        "popularity": 2.3248,
         "profile_path": "/rujbfPg6rp9DOphQZYUjll7KNPz.jpg",
         "cast_id": 12,
         "character": "Anjali Devi/Chintamani/dual role",
@@ -145,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 13,
         "character": "",
@@ -159,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 14,
         "character": "",
@@ -171,9 +174,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 15,
         "character": "Suri",
@@ -187,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 17,
         "character": "Eddulodu",
@@ -201,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Harsha Chemudu",
         "original_name": "Viva Harsha",
-        "popularity": 0.4136,
+        "popularity": 1.0162,
         "profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
         "cast_id": 19,
         "character": "",
@@ -217,7 +220,7 @@
         "known_for_department": "Directing",
         "name": "K. Vijaya Bhaskar",
         "original_name": "K. Vijaya Bhaskar",
-        "popularity": 0.3339,
+        "popularity": 0.7016,
         "profile_path": "/u5SvpAo34fqCTPFw4xfsD7mHQtO.jpg",
         "credit_id": "53b1711fc3a3682eee0064d4",
         "department": "Directing",
@@ -230,7 +233,7 @@
         "known_for_department": "Sound",
         "name": "S. Thaman",
         "original_name": "S. Thaman",
-        "popularity": 0.5088,
+        "popularity": 0.8929,
         "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
         "credit_id": "53b171200e0a26598c008415",
         "department": "Sound",
@@ -243,7 +246,7 @@
         "known_for_department": "Production",
         "name": "Daggubati Suresh Babu",
         "original_name": "Daggubati Suresh Babu",
-        "popularity": 0.1157,
+        "popularity": 0.43,
         "profile_path": "/ugysor71gHswoftlEeftZJTffo9.jpg",
         "credit_id": "53b17124c3a3682edf0061df",
         "department": "Production",
@@ -256,7 +259,7 @@
         "known_for_department": "Production",
         "name": "Sravanthi Ravi Kishore",
         "original_name": "Sravanthi Ravi Kishore",
-        "popularity": 0.2048,
+        "popularity": 0.3755,
         "profile_path": "/ebo869IeQGMhqxVYNMw3dP3jnW4.jpg",
         "credit_id": "576b9d899251416755000b0f",
         "department": "Production",
@@ -264,15 +267,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt3334734",
     "wikidata_id": "Q16251470",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -317,9 +320,6 @@
         "width": 534
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": [

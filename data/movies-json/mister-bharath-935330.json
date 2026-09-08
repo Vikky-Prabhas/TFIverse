@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Mister Bharath",
   "overview": "Mister Bharath is a 1986 Tollywood Action film directed byRaja Chandra. Sobhan Babu, Suhasini and Sarada, played the lead roles",
-  "popularity": 0.0379,
+  "popularity": 0.4,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -32,16 +32,11 @@
     "cast": [],
     "crew": []
   },
-  "videos": {
+  "release_dates": {
     "results": []
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -50,10 +45,15 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

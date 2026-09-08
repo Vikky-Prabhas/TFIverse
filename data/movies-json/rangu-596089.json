@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Rangu",
   "overview": "",
-  "popularity": 0.173,
+  "popularity": 1.2319,
   "poster_path": "/zsqrjpiyvrat5dZ8pAdqXVkWuMn.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt10045014",
+    "wikidata_id": "Q67395462",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Tanish Alladi",
         "original_name": "Tanish Alladi",
-        "popularity": 0.2623,
+        "popularity": 0.6451,
         "profile_path": "/xfOUEyaqChfaciqCdIJNVsI8brz.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Priya Singh",
         "original_name": "Priya Singh",
-        "popularity": 0.0261,
+        "popularity": 0.2779,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -76,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Paruchuri Ravindranath",
         "original_name": "Paruchuri Ravindranath",
-        "popularity": 0.0214,
+        "popularity": 0.2996,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -92,7 +99,7 @@
         "known_for_department": "Directing",
         "name": "Kaarthikeya Varikallu",
         "original_name": "Kaarthikeya Varikallu",
-        "popularity": 0,
+        "popularity": 0.3784,
         "profile_path": null,
         "credit_id": "5cb96e7c925141097df36005",
         "department": "Directing",
@@ -100,18 +107,14 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt10045014",
-    "wikidata_id": "Q67395462",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -129,9 +132,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [

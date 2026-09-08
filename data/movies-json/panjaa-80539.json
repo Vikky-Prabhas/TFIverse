@@ -2,7 +2,7 @@
   "adult": false,
   "backdrop_path": "/4uERmytN70Z1qptFk55dXSO1D7d.jpg",
   "belongs_to_collection": null,
-  "budget": 6,
+  "budget": 0,
   "genres": [
     {
       "id": 28,
@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పంజా",
   "overview": "Jai, an orphan, falls into bad company after Bhagwan, a gangster, gives him shelter and hope to live. However, Jai and Munna, Bhagwan's son, fight with each other after Munna kills an innocent woman.",
-  "popularity": 2.3659,
+  "popularity": 1.2784,
   "poster_path": "/fW2dqMDDo6dz2GAAJgYIwfcuvik.jpg",
   "production_companies": [
     {
@@ -55,292 +55,10 @@
   "tagline": "",
   "title": "Panjaa",
   "video": false,
-  "vote_average": 5.7,
-  "vote_count": 19,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237048,
-        "known_for_department": "Acting",
-        "name": "Pawan Kalyan",
-        "original_name": "పవన్ కళ్యాణ్",
-        "popularity": 1.1569,
-        "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
-        "cast_id": 1,
-        "character": "Jai",
-        "credit_id": "52fe47c79251416c9107561f",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 231596,
-        "known_for_department": "Acting",
-        "name": "Sarah-Jane Dias",
-        "original_name": "Sarah-Jane Dias",
-        "popularity": 0.3831,
-        "profile_path": "/q3LZpS8iZWkZNa5EnKeoA9ZBapc.jpg",
-        "cast_id": 2,
-        "character": "Sandya",
-        "credit_id": "52fe47c79251416c91075623",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 589653,
-        "known_for_department": "Acting",
-        "name": "Anjali Lavania",
-        "original_name": "Anjali Lavania",
-        "popularity": 0.0656,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "Jahnavi",
-        "credit_id": "52fe47c79251416c91075627",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 86014,
-        "known_for_department": "Acting",
-        "name": "Jackie Shroff",
-        "original_name": "जय किशन श्राफ",
-        "popularity": 1.5837,
-        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
-        "cast_id": 4,
-        "character": "Bhagavan",
-        "credit_id": "52fe47c79251416c9107562b",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 53676,
-        "known_for_department": "Acting",
-        "name": "Atul Kulkarni",
-        "original_name": "Atul Kulkarni",
-        "popularity": 0.8354,
-        "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
-        "cast_id": 5,
-        "character": "Kulkarni",
-        "credit_id": "52fe47c79251416c9107562f",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 6,
-        "character": "Paparayudu",
-        "credit_id": "52fe47c79251416c91075633",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 565890,
-        "known_for_department": "Acting",
-        "name": "Tanikella Bharani",
-        "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
-        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "cast_id": 7,
-        "character": "Guruvayya",
-        "credit_id": "52fe47c79251416c91075637",
-        "order": 6
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 589654,
-        "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
-        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
-        "cast_id": 8,
-        "character": "Chotu",
-        "credit_id": "52fe47c79251416c9107563b",
-        "order": 7
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 225315,
-        "known_for_department": "Acting",
-        "name": "Subbaraju",
-        "original_name": "Subbaraju",
-        "popularity": 0.6424,
-        "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
-        "cast_id": 15,
-        "character": "",
-        "credit_id": "576b82cdc3a3684f14000408",
-        "order": 8
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1291761,
-        "known_for_department": "Acting",
-        "name": "Adivi Sesh",
-        "original_name": "Adivi Sesh",
-        "popularity": 1.0131,
-        "profile_path": "/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
-        "cast_id": 16,
-        "character": "Munna",
-        "credit_id": "5964baf3c3a3680d590e5842",
-        "order": 9
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 37242,
-        "known_for_department": "Editing",
-        "name": "Sreekar Prasad",
-        "original_name": "Sreekar Prasad",
-        "popularity": 0.2848,
-        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
-        "credit_id": "52fe47c79251416c9107565f",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 148359,
-        "known_for_department": "Directing",
-        "name": "Vishnu Varadhan",
-        "original_name": "Vishnuvardhan",
-        "popularity": 0.3952,
-        "profile_path": "/5wpGVX4q8XRqdSgIpGR2e9hpre3.jpg",
-        "credit_id": "52fe47c79251416c91075641",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 148359,
-        "known_for_department": "Directing",
-        "name": "Vishnu Varadhan",
-        "original_name": "Vishnuvardhan",
-        "popularity": 0.3952,
-        "profile_path": "/5wpGVX4q8XRqdSgIpGR2e9hpre3.jpg",
-        "credit_id": "52fe47c79251416c91075647",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237971,
-        "known_for_department": "Writing",
-        "name": "Abburi Ravi",
-        "original_name": "Abburi Ravi",
-        "popularity": 0.2427,
-        "profile_path": null,
-        "credit_id": "52fe47c79251416c9107564d",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3630509,
-        "known_for_department": "Crew",
-        "name": "Nixon Cruz Master",
-        "original_name": "Nixon Cruz Master",
-        "popularity": 0.1809,
-        "profile_path": null,
-        "credit_id": "62d75ff6cb71b8004d30a9b0",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1170058,
-        "known_for_department": "Camera",
-        "name": "P. S. Vinod",
-        "original_name": "P. S. Vinod",
-        "popularity": 0.2967,
-        "profile_path": null,
-        "credit_id": "6478a50acf4b8b01031d14bb",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 223157,
-        "known_for_department": "Sound",
-        "name": "Yuvan Shankar Raja",
-        "original_name": "Yuvan Shankar Raja",
-        "popularity": 0.677,
-        "profile_path": "/c5yRT90L2PoREJ9aDTPvAu2uxBJ.jpg",
-        "credit_id": "6478a51bcf4b8b012274a4ee",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237048,
-        "known_for_department": "Acting",
-        "name": "Pawan Kalyan",
-        "original_name": "పవన్ కళ్యాణ్",
-        "popularity": 1.1569,
-        "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
-        "credit_id": "5ddf6c203faba0001905be89",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1652643,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Anu Vardhan",
-        "original_name": "Anu Vardhan",
-        "popularity": 0.317,
-        "profile_path": null,
-        "credit_id": "6022efb7edeb43003f352289",
-        "department": "Costume & Make-Up",
-        "job": "Costume Design"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt2091384",
-    "wikidata_id": "Q7131224",
-    "facebook_id": "Panjaa.Movie",
-    "instagram_id": null,
-    "twitter_id": "PanjaaMovie"
-  },
+  "vote_average": 5.8,
+  "vote_count": 23,
   "videos": {
     "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "PANJAA THEATRICAL TRAILER  in HD",
-        "key": "GSiS-WPS7Js",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "533ec6ccc3a368544800752a",
-        "published_at": "2011-12-04T12:29:18.000Z"
-      },
       {
         "iso_639_1": "en",
         "iso_3166_1": "US",
@@ -364,6 +82,276 @@
         "official": false,
         "id": "5c83b2040e0a264314628db1",
         "published_at": "2011-11-02T13:49:52.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2091384",
+    "wikidata_id": "Q7131224",
+    "facebook_id": "Panjaa.Movie",
+    "instagram_id": null,
+    "twitter_id": "PanjaaMovie"
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237048,
+        "known_for_department": "Acting",
+        "name": "Pawan Kalyan",
+        "original_name": "పవన్ కళ్యాణ్",
+        "popularity": 2.1916,
+        "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
+        "cast_id": 1,
+        "character": "Jai",
+        "credit_id": "52fe47c79251416c9107561f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231596,
+        "known_for_department": "Acting",
+        "name": "Sarah-Jane Dias",
+        "original_name": "Sarah-Jane Dias",
+        "popularity": 1.1755,
+        "profile_path": "/q3LZpS8iZWkZNa5EnKeoA9ZBapc.jpg",
+        "cast_id": 2,
+        "character": "Sandya",
+        "credit_id": "52fe47c79251416c91075623",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 589653,
+        "known_for_department": "Acting",
+        "name": "Anjali Lavania",
+        "original_name": "Anjali Lavania",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Jahnavi",
+        "credit_id": "52fe47c79251416c91075627",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86014,
+        "known_for_department": "Acting",
+        "name": "Jackie Shroff",
+        "original_name": "जय किशन श्राफ",
+        "popularity": 2.3253,
+        "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+        "cast_id": 4,
+        "character": "Bhagavan",
+        "credit_id": "52fe47c79251416c9107562b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53676,
+        "known_for_department": "Acting",
+        "name": "Atul Kulkarni",
+        "original_name": "Atul Kulkarni",
+        "popularity": 1.395,
+        "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
+        "cast_id": 5,
+        "character": "Kulkarni",
+        "credit_id": "52fe47c79251416c9107562f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 6,
+        "character": "Paparayudu",
+        "credit_id": "52fe47c79251416c91075633",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "cast_id": 7,
+        "character": "Guruvayya",
+        "credit_id": "52fe47c79251416c91075637",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589654,
+        "known_for_department": "Acting",
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
+        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
+        "cast_id": 8,
+        "character": "Chotu",
+        "credit_id": "52fe47c79251416c9107563b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225315,
+        "known_for_department": "Acting",
+        "name": "Subbaraju",
+        "original_name": "Subbaraju",
+        "popularity": 1.8362,
+        "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "576b82cdc3a3684f14000408",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291761,
+        "known_for_department": "Acting",
+        "name": "Adivi Sesh",
+        "original_name": "Adivi Sesh",
+        "popularity": 2.2051,
+        "profile_path": "/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
+        "cast_id": 16,
+        "character": "Munna",
+        "credit_id": "5964baf3c3a3680d590e5842",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148359,
+        "known_for_department": "Directing",
+        "name": "Vishnu Varadhan",
+        "original_name": "Vishnuvardhan",
+        "popularity": 0.9317,
+        "profile_path": "/5wpGVX4q8XRqdSgIpGR2e9hpre3.jpg",
+        "credit_id": "52fe47c79251416c91075641",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148359,
+        "known_for_department": "Directing",
+        "name": "Vishnu Varadhan",
+        "original_name": "Vishnuvardhan",
+        "popularity": 0.9317,
+        "profile_path": "/5wpGVX4q8XRqdSgIpGR2e9hpre3.jpg",
+        "credit_id": "52fe47c79251416c91075647",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237971,
+        "known_for_department": "Writing",
+        "name": "Abburi Ravi",
+        "original_name": "Abburi Ravi",
+        "popularity": 0.4603,
+        "profile_path": null,
+        "credit_id": "52fe47c79251416c9107564d",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37242,
+        "known_for_department": "Editing",
+        "name": "Sreekar Prasad",
+        "original_name": "Sreekar Prasad",
+        "popularity": 0.508,
+        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+        "credit_id": "52fe47c79251416c9107565f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3630509,
+        "known_for_department": "Crew",
+        "name": "Nixon Cruz Master",
+        "original_name": "Nixon Cruz Master",
+        "popularity": 0.3617,
+        "profile_path": null,
+        "credit_id": "62d75ff6cb71b8004d30a9b0",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170058,
+        "known_for_department": "Camera",
+        "name": "P. S. Vinod",
+        "original_name": "P. S. Vinod",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "credit_id": "6478a50acf4b8b01031d14bb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223157,
+        "known_for_department": "Sound",
+        "name": "Yuvan Shankar Raja",
+        "original_name": "Yuvan Shankar Raja",
+        "popularity": 0.9309,
+        "profile_path": "/c5yRT90L2PoREJ9aDTPvAu2uxBJ.jpg",
+        "credit_id": "6478a51bcf4b8b012274a4ee",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237048,
+        "known_for_department": "Acting",
+        "name": "Pawan Kalyan",
+        "original_name": "పవన్ కళ్యాణ్",
+        "popularity": 2.1916,
+        "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
+        "credit_id": "5ddf6c203faba0001905be89",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1652643,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anu Vardhan",
+        "original_name": "Anu Vardhan",
+        "popularity": 0.4932,
+        "profile_path": null,
+        "credit_id": "6022efb7edeb43003f352289",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
       }
     ]
   },
@@ -408,23 +396,6 @@
       {
         "id": 219404,
         "name": "action hero"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "US",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2011-12-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -579,6 +550,16 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sKpw5FZgLUljCHgbysm54rezH66.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
       }
     ],
     "logos": [
@@ -683,6 +664,33 @@
         "vote_average": 0.166,
         "vote_count": 2,
         "width": 700
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 2667,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/6xnxBA0LZlV5RJZyR3QM5IlKWLZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1800
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-12-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

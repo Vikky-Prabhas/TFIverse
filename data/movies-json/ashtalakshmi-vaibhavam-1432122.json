@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ashtalakshmi Vaibhavam",
   "overview": "The movie portrays the significance of the eight forms of goddess Lakshmi namely, Adilakshmi, Dhanalakshmi, Dhanyalakshmi, Gajalakshmi, Santaanalakshmi, Dhairyalakshmi, Vijayalakshmi, Vidyalakshmi.",
-  "popularity": 0.3374,
+  "popularity": 0.7215,
   "poster_path": "/3VftPXctEapgzkP7O914pVU3HJu.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "K R Vijaya",
         "original_name": "K R Vijaya",
-        "popularity": 0.5397,
+        "popularity": 1.5217,
         "profile_path": "/w4w3vlKbjswuzEJz3WxdyHfstxe.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Madhavi",
         "original_name": "Madhavi",
-        "popularity": 0.3395,
+        "popularity": 1.4096,
         "profile_path": "/6ChxtchACMxgImDNB3KnGiymYqb.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Radha",
         "original_name": "Radha",
-        "popularity": 0.6821,
+        "popularity": 1.4479,
         "profile_path": "/7oVE51UtIsbkkriBF7fOiJ52zDJ.jpg",
         "cast_id": 3,
         "character": "",
@@ -78,8 +78,8 @@
         "id": 584262,
         "known_for_department": "Acting",
         "name": "Nalini",
-        "original_name": "Nalini",
-        "popularity": 0.1988,
+        "original_name": "நளினி",
+        "popularity": 1.2675,
         "profile_path": "/lAmQw49ccScJ9jBY8rtNTfXAC1H.jpg",
         "cast_id": 4,
         "character": "",
@@ -93,8 +93,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.6452,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "67a9dc05b01153d6f493791a",
@@ -109,33 +109,11 @@
         "known_for_department": "Directing",
         "name": "Kamalakara Kameshwara Rao",
         "original_name": "Kamalakara Kameshwara Rao",
-        "popularity": 0.2333,
+        "popularity": 0.5273,
         "profile_path": null,
         "credit_id": "67a9dc49a4c0118f9e93828c",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/3VftPXctEapgzkP7O914pVU3HJu.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
       }
     ]
   },
@@ -146,8 +124,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -165,5 +146,24 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3VftPXctEapgzkP7O914pVU3HJu.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

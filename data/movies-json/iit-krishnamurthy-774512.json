@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "IIT Krishnamurthy",
   "overview": "Krishnamurthy Who Is An IIT BOMBAY Student Comes To Hyderabad And Gets To Know That His Uncle Is Missing. Entire Story Revolves Around The Mysterious Missing Case Of Krishnamurthy's Uncle.",
-  "popularity": 0.2601,
+  "popularity": 1.0868,
   "poster_path": "/wXTmEcsq9x5hsltzxoOfGRX33Lo.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 1,
         "character": "Mahesh Babu",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Maira Doshi",
         "original_name": "Maira Doshi",
-        "popularity": 0.0143,
+        "popularity": 0.4736,
         "profile_path": null,
         "cast_id": 2,
         "character": "Jahnavi",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Vinay Varma",
         "original_name": "Vinay Varma",
-        "popularity": 0.285,
+        "popularity": 0.5845,
         "profile_path": "/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg",
         "cast_id": 3,
         "character": "Vinay Varma",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Anand",
         "original_name": "Anand",
-        "popularity": 0.4102,
+        "popularity": 2.4352,
         "profile_path": "/nITOqirdTcd3hDCZvp8QWknV6WU.jpg",
         "cast_id": 4,
         "character": "Srinivas Rao",
@@ -93,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 5,
         "character": "",
@@ -107,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Anand",
         "original_name": "Anand",
-        "popularity": 0.4102,
+        "popularity": 2.4352,
         "profile_path": "/nITOqirdTcd3hDCZvp8QWknV6WU.jpg",
         "cast_id": 6,
         "character": "",
@@ -121,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Peela Gangadhar",
         "original_name": "Peela Gangadhar",
-        "popularity": 0.0143,
+        "popularity": 0.3352,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -135,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Swarnakanth",
         "original_name": "Swarnakanth",
-        "popularity": 0.0071,
+        "popularity": 0.286,
         "profile_path": null,
         "cast_id": 8,
         "character": "PA Kiran",
@@ -149,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Veera Badhram",
         "original_name": "Veera Badhram",
-        "popularity": 0.0143,
+        "popularity": 0.2782,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Directing",
         "name": "SreeVardhan",
         "original_name": "SreeVardhan",
-        "popularity": 0.0143,
+        "popularity": 0.2917,
         "profile_path": null,
         "credit_id": "66bf7254544595899249e352",
         "department": "Directing",
@@ -173,38 +173,18 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "US",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2020-12-10T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "external_ids": {
     "imdb_id": "tt10801230",
-    "wikidata_id": null,
+    "wikidata_id": "Q104881948",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -232,5 +212,25 @@
         "width": 640
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2020-12-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   }
 }

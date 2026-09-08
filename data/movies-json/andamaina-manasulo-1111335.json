@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Andamaina manasulo",
   "overview": "Tushar, a young man, falls in love with his classmate, Sandhya, who harbours feelings for him but ends up marrying someone else. Meanwhile, Tushar's friend, Bindu, finds herself attracted to him.",
-  "popularity": 0.326,
+  "popularity": 1.1495,
   "poster_path": "/mnjCAo44SRI770mSv4HgvHHNQXc.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "rajiv",
         "original_name": "rajiv",
-        "popularity": 0.0143,
+        "popularity": 0.2778,
         "profile_path": null,
         "cast_id": 1,
         "character": "tushar",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Remya Nambeesan",
         "original_name": "Remya Nambeesan",
-        "popularity": 0.3755,
+        "popularity": 1.44,
         "profile_path": "/7Gl4iXi8oFFk9wniWPxo3MAhiBo.jpg",
         "cast_id": 2,
         "character": "Sandhya",
@@ -87,12 +87,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1107024,
         "known_for_department": "Acting",
         "name": "Vadde Naveen",
         "original_name": "Vadde Naveen",
-        "popularity": 0.2222,
+        "popularity": 0.9117,
         "profile_path": "/tvmu4D10f8zbQHFVDmCFa7nnX2h.jpg",
         "cast_id": 4,
         "character": "sandhya's husband",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Archana Gupta",
         "original_name": "Archana Gupta",
-        "popularity": 0.0974,
+        "popularity": 1.6888,
         "profile_path": "/dXCNKwxj4O6IBUkXL8opnlOU2D.jpg",
         "cast_id": 3,
         "character": "Bindu",
@@ -120,8 +120,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "643406006dea3a00d438759e",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3125,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Sana",
         "original_name": "Sana",
-        "popularity": 0.2251,
+        "popularity": 0.977,
         "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
         "cast_id": 8,
         "character": "",
@@ -176,7 +176,7 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
+        "popularity": 0.3934,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -190,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "R. Narayana Murthy",
         "original_name": "R. Narayana Murthy",
-        "popularity": 0.2114,
+        "popularity": 0.5118,
         "profile_path": null,
         "cast_id": 10,
         "character": "spl appearance",
@@ -206,11 +206,11 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
+        "popularity": 0.3934,
         "profile_path": null,
-        "credit_id": "6434067f6dea3a0112e55799",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "643406e7e92d8300f46d8d44",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -219,11 +219,24 @@
         "known_for_department": "Writing",
         "name": "Kulasekhar",
         "original_name": "kulasekhar",
-        "popularity": 0.0143,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "643406a1391b9c11e14923c8",
         "department": "Writing",
         "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1343053,
+        "known_for_department": "Production",
+        "name": "S. V. Babu",
+        "original_name": "S. V. Babu",
+        "popularity": 0.261,
+        "profile_path": null,
+        "credit_id": "643407111f98d102222224bc",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -232,7 +245,7 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
+        "popularity": 0.3934,
         "profile_path": null,
         "credit_id": "643406b91f98d101f646df1b",
         "department": "Writing",
@@ -245,37 +258,11 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
+        "popularity": 0.3934,
         "profile_path": null,
-        "credit_id": "643406cde92d830113087759",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 424246,
-        "known_for_department": "Directing",
-        "name": "R. P. Patnaik",
-        "original_name": "R. P. Patnaik",
-        "popularity": 0.1859,
-        "profile_path": null,
-        "credit_id": "643406e7e92d8300f46d8d44",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1343053,
-        "known_for_department": "Production",
-        "name": "S. V. Babu",
-        "original_name": "S. V. Babu",
-        "popularity": 0.0352,
-        "profile_path": null,
-        "credit_id": "643407111f98d102222224bc",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "6434067f6dea3a0112e55799",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -284,20 +271,29 @@
         "known_for_department": "Editing",
         "name": "K V Krishna Reddy",
         "original_name": "K V Krishna Reddy",
-        "popularity": 0.0585,
+        "popularity": 0.285,
         "profile_path": null,
         "credit_id": "643407323103250126983a83",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 424246,
+        "known_for_department": "Directing",
+        "name": "R. P. Patnaik",
+        "original_name": "R. P. Patnaik",
+        "popularity": 0.3934,
+        "profile_path": null,
+        "credit_id": "643406cde92d830113087759",
+        "department": "Writing",
+        "job": "Screenplay"
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -313,6 +309,18 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Andhamaina Manasulo",
+        "type": ""
       }
     ]
   },
@@ -332,19 +340,11 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Andhamaina Manasulo",
-        "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

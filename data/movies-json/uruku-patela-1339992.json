@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఉరుకు పటేలా",
   "overview": "Patela, a midwit  finds himself entrapped in a maze of love and deceit from a highly educated Akshara whom he loves but  she is a phantom with an ulterior agenda trying to have him killed.",
-  "popularity": 0.2701,
+  "popularity": 0.6375,
   "poster_path": "/7o4ePBl7QfWJ5M19Zuvz4RuJFef.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Tejus Kancherla",
         "original_name": "Tejus Kancherla",
-        "popularity": 0.249,
+        "popularity": 0.4391,
         "profile_path": "/hxJRtuquCkvqqi1rqBgWgVGcdh7.jpg",
         "cast_id": 1,
         "character": "Patela",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Khushboo Choudhary",
         "original_name": "Khushboo Choudhary",
-        "popularity": 0.0338,
+        "popularity": 0.3188,
         "profile_path": "/8OIYT2MXZ66RVMFap2F2XHpINZD.jpg",
         "cast_id": 18,
         "character": "Akshara",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Chammak Chandra",
         "original_name": "Chammak Chandra",
-        "popularity": 0.374,
+        "popularity": 1.3289,
         "profile_path": "/xEtdW0GJozV3rIi2ZLJo4na7piE.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Reddy",
         "original_name": "Lavanya Reddy",
-        "popularity": 0.0357,
+        "popularity": 0.4422,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Goparaju Ramana",
         "original_name": "Goparaju Ramana",
-        "popularity": 0.2828,
+        "popularity": 0.5645,
         "profile_path": "/vRQKXftT1PXokqcfOKL9JjoiBht.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Nellore Sudharshan",
         "original_name": "Nellore Sudharshan",
-        "popularity": 0.3654,
+        "popularity": 1.1599,
         "profile_path": "/8kpem5ZHfy90DYyYE9QamqrE6eb.jpg",
         "cast_id": 6,
         "character": "",
@@ -146,63 +146,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4908849,
-        "known_for_department": "Production",
-        "name": "Kancherla Bala Bhanu",
-        "original_name": "Kancherla Bala Bhanu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "66cf24b52d3dcbb4fe991614",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2099004,
-        "known_for_department": "Crew",
-        "name": "Rabin Subbu",
-        "original_name": "Rabin Subbu",
-        "popularity": 0.0998,
-        "profile_path": null,
-        "credit_id": "66cf24f841582d76e42b99b7",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4908848,
         "known_for_department": "Directing",
         "name": "Vivek Reddy",
         "original_name": "Vivek Reddy",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "66cf249714aa1325fb4adf8d",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2344400,
-        "known_for_department": "Camera",
-        "name": "Sunny Kurapati",
-        "original_name": "Sunny Kurapati",
-        "popularity": 0.101,
-        "profile_path": null,
-        "credit_id": "66cf24ce724159a35566eaa1",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4908848,
-        "known_for_department": "Directing",
-        "name": "Vivek Reddy",
-        "original_name": "Vivek Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.3198,
         "profile_path": null,
         "credit_id": "66cf247fb7218dd91d084c0d",
         "department": "Directing",
@@ -211,15 +159,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3382005,
-        "known_for_department": "Editing",
-        "name": "Sasank Vupputuri",
-        "original_name": "Sasank Vupputuri",
-        "popularity": 0.0143,
+        "id": 4908848,
+        "known_for_department": "Directing",
+        "name": "Vivek Reddy",
+        "original_name": "Vivek Reddy",
+        "popularity": 0.3198,
         "profile_path": null,
-        "credit_id": "66cf25078176c9158e4adfe9",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "66cf249714aa1325fb4adf8d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4908849,
+        "known_for_department": "Production",
+        "name": "Kancherla Bala Bhanu",
+        "original_name": "Kancherla Bala Bhanu",
+        "popularity": 0.3032,
+        "profile_path": null,
+        "credit_id": "66cf24b52d3dcbb4fe991614",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -228,7 +189,7 @@
         "known_for_department": "Sound",
         "name": "Pravin Lakkaraju",
         "original_name": "Pravin Lakkaraju",
-        "popularity": 0.0143,
+        "popularity": 0.2747,
         "profile_path": null,
         "credit_id": "66cf24c1f87092f831dd3233",
         "department": "Sound",
@@ -237,28 +198,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1335922,
-        "known_for_department": "Crew",
-        "name": "Jithu Master",
-        "original_name": "Jithu Master",
-        "popularity": 0.0495,
+        "id": 2344400,
+        "known_for_department": "Camera",
+        "name": "Sunny Kurapati",
+        "original_name": "Sunny Kurapati",
+        "popularity": 0.2878,
         "profile_path": null,
-        "credit_id": "66cf24eedf990e87ced3e333",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1765046,
-        "known_for_department": "Crew",
-        "name": "Vamsi Kaka",
-        "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
-        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
-        "credit_id": "66cf253217bc493b0366ea17",
-        "department": "Crew",
-        "job": "Public Relations"
+        "credit_id": "66cf24ce724159a35566eaa1",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -267,7 +215,7 @@
         "known_for_department": "Art",
         "name": "Vivek Annamalai",
         "original_name": "Vivek Annamalai",
-        "popularity": 0.0214,
+        "popularity": 0.2846,
         "profile_path": null,
         "credit_id": "66cf24e2d68163f452a0a965",
         "department": "Art",
@@ -276,15 +224,67 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1335922,
+        "known_for_department": "Crew",
+        "name": "Jithu Master",
+        "original_name": "Jithu Master",
+        "popularity": 0.2958,
+        "profile_path": null,
+        "credit_id": "66cf24eedf990e87ced3e333",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2099004,
+        "known_for_department": "Crew",
+        "name": "Rabin Subbu",
+        "original_name": "Rabin Subbu",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "66cf24f841582d76e42b99b7",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382005,
+        "known_for_department": "Editing",
+        "name": "Sasank Vupputuri",
+        "original_name": "Sasank Vupputuri",
+        "popularity": 0.2709,
+        "profile_path": null,
+        "credit_id": "66cf25078176c9158e4adfe9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4908850,
         "known_for_department": "Production",
         "name": "Nikhil Anudeep",
         "original_name": "Nikhil Anudeep",
-        "popularity": 0.0214,
+        "popularity": 0.3379,
         "profile_path": null,
         "credit_id": "66cf252674c24aeeed722497",
         "department": "Production",
         "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1765046,
+        "known_for_department": "Crew",
+        "name": "Vamsi Kaka",
+        "original_name": "Vamsi Kaka",
+        "popularity": 0.4537,
+        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+        "credit_id": "66cf253217bc493b0366ea17",
+        "department": "Crew",
+        "job": "Public Relations"
       }
     ]
   },
@@ -293,7 +293,7 @@
   },
   "external_ids": {
     "imdb_id": "tt32992976",
-    "wikidata_id": null,
+    "wikidata_id": "Q131177638",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -317,6 +317,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -434,8 +437,5 @@
         "width": 1500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

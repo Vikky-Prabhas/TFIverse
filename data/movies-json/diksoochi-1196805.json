@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Diksoochi",
   "overview": "A man sets out to solve the mystery surrounding a tragic incident that happened in 1975.",
-  "popularity": 0.0538,
+  "popularity": 0.8267,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -46,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Chandni Bhagwanani",
         "original_name": "Chandni Bhagwanani",
-        "popularity": 0,
+        "popularity": 0.2763,
         "profile_path": "/yGYbFmQDcTKLgRYwDV7pQ4N87jO.jpg",
         "cast_id": 1,
         "character": "",
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Sammeta Gandhi",
         "original_name": "Sammeta Gandhi",
-        "popularity": 0.248,
+        "popularity": 0.8223,
         "profile_path": "/pmtOoc6hoowP3wrISj5hlOsMTbe.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Dilip Kumar Salvadi",
         "original_name": "Dilip Kumar Salvadi",
-        "popularity": 0.0071,
+        "popularity": 0.3895,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Arun Savvana",
         "original_name": "Arun Savvana",
-        "popularity": 0.0143,
+        "popularity": 0.2881,
         "profile_path": null,
         "cast_id": 4,
         "character": "Martanda Verma",
@@ -104,7 +104,7 @@
         "known_for_department": "Directing",
         "name": "Dilip Kumar Salvadi",
         "original_name": "Dilip Kumar Salvadi",
-        "popularity": 0,
+        "popularity": 0.3753,
         "profile_path": null,
         "credit_id": "653b3499519bbb00e18b7acc",
         "department": "Directing",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Dilip Kumar Salvadi",
         "original_name": "Dilip Kumar Salvadi",
-        "popularity": 0.0071,
+        "popularity": 0.3895,
         "profile_path": null,
         "credit_id": "653b34a2719aeb00ab2a71fa",
         "department": "Writing",
@@ -128,20 +128,9 @@
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "external_ids": {
     "imdb_id": "tt10370840",
-    "wikidata_id": null,
+    "wikidata_id": "Q124728440",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -162,5 +151,16 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

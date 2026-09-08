@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఏడంతస్తుల మేడ",
   "overview": "Yedanthasthula Meda (transl. Seven Storied Building) is a 1980 Telugu-language drama film, produced under the Jhansi Enterprises banner and directed by Dasari Narayana Rao. It stars Akkineni Nageswara Rao, Sujatha, Jaya Sudha and music composed by Chakravarthy. The film was remade as Hindi movie Pyaasa Sawan (1981) and in Tamil as Maadi Veettu Ezhai (1981).",
-  "popularity": 0.2758,
+  "popularity": 0.6668,
   "poster_path": "/3dq6IKQ1mcXwyTYuOcrIZUZSrsg.jpg",
   "production_companies": [
     {
@@ -71,6 +71,30 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1980-01-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0262390",
+    "wikidata_id": "Q27962697",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -78,9 +102,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2993,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 15,
         "character": "Ranga Rao & Venu (Dual role)",
@@ -93,9 +117,9 @@
         "id": 584386,
         "known_for_department": "Acting",
         "name": "Sujatha",
-        "original_name": "Sujatha",
-        "popularity": 0.6944,
-        "profile_path": "/27RTtumMOiolzRLTeKEWBTZsQRy.jpg",
+        "original_name": "சுஜாதா",
+        "popularity": 3.204,
+        "profile_path": "/w3imPeW0Xbdq18zFIdC0AcTRA7X.jpg",
         "cast_id": 16,
         "character": "Janaki",
         "credit_id": "62cbc374a9117f004f810e7a",
@@ -108,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 17,
         "character": "Sudha",
@@ -122,8 +146,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7694,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 18,
         "character": "Special appearance",
         "credit_id": "62cbc39f595a5612b8a456de",
@@ -136,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 19,
         "character": "Jananatham",
@@ -150,8 +174,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 20,
         "character": "Prabhakar Rao",
         "credit_id": "62cbc3bb595a5612b910758e",
@@ -164,7 +188,7 @@
         "known_for_department": "Acting",
         "name": "Chalam",
         "original_name": "Chalam",
-        "popularity": 0.077,
+        "popularity": 1.1997,
         "profile_path": null,
         "cast_id": 21,
         "character": "Manager",
@@ -178,7 +202,7 @@
         "known_for_department": "Acting",
         "name": "Athili Lakshmi",
         "original_name": "Athili Lakshmi",
-        "popularity": 0.1147,
+        "popularity": 0.404,
         "profile_path": null,
         "cast_id": 22,
         "character": "Janaki's mother",
@@ -194,7 +218,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62cbc209a9117f004f810de1",
         "department": "Directing",
@@ -207,7 +231,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62cbc2119566580f7a340191",
         "department": "Writing",
@@ -220,7 +244,7 @@
         "known_for_department": "Production",
         "name": "Y. Arun Prasanna",
         "original_name": "Y. Arun Prasanna",
-        "popularity": 0,
+        "popularity": 0.2659,
         "profile_path": null,
         "credit_id": "62cbc222e8131d0fb85f088d",
         "department": "Production",
@@ -233,7 +257,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Selvaraj",
         "original_name": "P. S. Selvaraj",
-        "popularity": 0.1048,
+        "popularity": 0.3788,
         "profile_path": null,
         "credit_id": "62cbc2359566580f7b511caa",
         "department": "Crew",
@@ -241,12 +265,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 3287974,
         "known_for_department": "Editing",
         "name": "K. Balu",
         "original_name": "K. Balu",
-        "popularity": 0.1484,
+        "popularity": 0.2687,
         "profile_path": null,
         "credit_id": "62cbc2424b9bae1a3d174154",
         "department": "Editing",
@@ -259,7 +283,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "62cbc25405f9cf006786f127",
         "department": "Sound",
@@ -272,7 +296,7 @@
         "known_for_department": "Art",
         "name": "Bhaskara Raju",
         "original_name": "Bhaskara Raju",
-        "popularity": 0.0388,
+        "popularity": 0.3014,
         "profile_path": null,
         "credit_id": "62cbc26dfd4a960f4da56435",
         "department": "Art",
@@ -285,7 +309,7 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.1238,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "62cbc29346aed4087cb84063",
         "department": "Writing",
@@ -298,7 +322,7 @@
         "known_for_department": "Writing",
         "name": "Rajashri",
         "original_name": "Rajashri",
-        "popularity": 0.0071,
+        "popularity": 0.3916,
         "profile_path": null,
         "credit_id": "62cbc2a81685da005042fc53",
         "department": "Writing",
@@ -310,8 +334,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "62cbc2b790b87e1b9f33dbed",
         "department": "Sound",
@@ -324,7 +348,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "62cbc2c2595a5612b8a4568c",
         "department": "Sound",
@@ -337,7 +361,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1948,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "62cbc31090b87e1ba092cfea",
         "department": "Directing",
@@ -350,7 +374,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62cbc31f021cee00501c6836",
         "department": "Writing",
@@ -363,7 +387,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62cbc326fd4a960f4e831b86",
         "department": "Writing",
@@ -371,29 +395,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0262390",
-    "wikidata_id": "Q27962697",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Edantastulameda",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Edantastula Meda",
-        "type": ""
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -432,20 +435,17 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
+  "alternative_titles": {
+    "titles": [
       {
         "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1980-01-11T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "title": "Edantastulameda",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Edantastula Meda",
+        "type": ""
       }
     ]
   }

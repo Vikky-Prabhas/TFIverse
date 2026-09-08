@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Vivekam: Who Killed Babai",
   "overview": "Story revolves around Mr. Vivekananda Reddy and the incidents that happened in his life before 2019 general elections.",
-  "popularity": 0.0527,
+  "popularity": 0.4829,
   "poster_path": "/lzVcIYeC1ZpNjI7vgtQUTFuYMiv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,18 +47,11 @@
     "cast": [],
     "crew": []
   },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt31972385",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -76,6 +69,16 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt31972385",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -103,8 +106,5 @@
         "width": 720
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

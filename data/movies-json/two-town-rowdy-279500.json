@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "టూ టౌన్ రౌడీ",
   "overview": "Two Town Rowdy is a 1989 Telugu film directed by Dasari Narayana Rao. The film stars Venkatesh, Radha, Krishnam Raju and Mohan Babu in lead roles.",
-  "popularity": 0.1613,
+  "popularity": 0.5257,
   "poster_path": "/k8lajoVl1sNmsFozRlmKOm4wWv8.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,9 +33,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -45,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "Shakthi",
@@ -59,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Radha",
         "original_name": "Radha",
-        "popularity": 0.856,
+        "popularity": 1.4479,
         "profile_path": "/7oVE51UtIsbkkriBF7fOiJ52zDJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -73,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Krishnam Raju",
         "original_name": "Krishnam Raju",
-        "popularity": 0.351,
+        "popularity": 2.9074,
         "profile_path": "/bvZLQkr6U1kNNWmHZsRnPXOpg4J.jpg",
         "cast_id": 5,
         "character": "",
@@ -87,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 6,
         "character": "",
@@ -100,8 +97,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -115,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.5508,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 8,
         "character": "",
@@ -127,24 +124,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1335262,
-        "known_for_department": "Directing",
-        "name": "Dasari Narayana Rao",
-        "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5097,
-        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "credit_id": "53b1802cc3a3682ed80063aa",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1335944,
         "known_for_department": "Production",
         "name": "C. Venkataraju",
         "original_name": "C. Venkataraju",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "53b18034c3a3682eee0065d5",
         "department": "Production",
@@ -153,11 +137,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1335262,
+        "known_for_department": "Directing",
+        "name": "Dasari Narayana Rao",
+        "original_name": "Dasari Narayana Rao",
+        "popularity": 2.2681,
+        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
+        "credit_id": "53b1802cc3a3682ed80063aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 552984,
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "61960ed89512e10062eca588",
         "department": "Sound",
@@ -170,11 +167,31 @@
         "known_for_department": "Sound",
         "name": "Thotakura Somaraju",
         "original_name": "Thotakura Somaraju",
-        "popularity": 0.1819,
+        "popularity": 0.3745,
         "profile_path": null,
         "credit_id": "59657292c3a36825e810594e",
         "department": "Sound",
         "job": "Music"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1989-12-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -184,6 +201,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -208,26 +228,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1600
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1989-12-28T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

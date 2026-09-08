@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Manyam",
   "overview": "",
-  "popularity": 0.1407,
+  "popularity": 0.814,
   "poster_path": "/gMTlDGoTlneDiJYyVthuDvBWWxG.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Chammak Chandra",
         "original_name": "Chammak Chandra",
-        "popularity": 0.374,
+        "popularity": 1.3289,
         "profile_path": "/xEtdW0GJozV3rIi2ZLJo4na7piE.jpg",
         "cast_id": 0,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Varsha Bollamma",
         "original_name": "Varsha Bollamma",
-        "popularity": 0.7876,
+        "popularity": 1.9015,
         "profile_path": "/xlgUn3pe1UP0ef3YvE8wlkTWtEm.jpg",
         "cast_id": 1,
         "character": "",
@@ -87,7 +87,7 @@
         "known_for_department": "Directing",
         "name": "S. V. Ramana",
         "original_name": "S. V. Ramana",
-        "popularity": 0,
+        "popularity": 0.3175,
         "profile_path": null,
         "credit_id": "5b6bfa619251414056104be7",
         "department": "Directing",
@@ -108,22 +108,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-08-03T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -152,7 +138,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-08-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

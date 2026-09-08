@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అమ్మ రాజీనామా",
   "overview": "Bharathi does everything to make her children happy. However, when they remain ungrateful towards her, she decides to retire from her household duties to teach them how to be responsible.",
-  "popularity": 0.1652,
+  "popularity": 1.6968,
   "poster_path": "/gccRNehTT0LRCrkZFUirTFySeVS.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,8 +44,133 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1151397,
+        "known_for_department": "Acting",
+        "name": "Sharada",
+        "original_name": "Sharada",
+        "popularity": 1.7033,
+        "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "638a4edad2f5b50096121911",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552991,
+        "known_for_department": "Acting",
+        "name": "Kaikala Satyanarayana",
+        "original_name": "Kaikala Satyanarayana",
+        "popularity": 2.8385,
+        "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "638a4ede3f8ede00de8ba7ec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "638a4ee3f3b49a00a0550431",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146148,
+        "known_for_department": "Acting",
+        "name": "Sai Kumar",
+        "original_name": "Sai Kumar",
+        "popularity": 1.2911,
+        "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "638a4ef575f1ad00c8b21feb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335262,
+        "known_for_department": "Directing",
+        "name": "Dasari Narayana Rao",
+        "original_name": "Dasari Narayana Rao",
+        "popularity": 2.2681,
+        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "638a4efa75f1ad00af202c60",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335262,
+        "known_for_department": "Directing",
+        "name": "Dasari Narayana Rao",
+        "original_name": "Dasari Narayana Rao",
+        "popularity": 2.2681,
+        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
+        "credit_id": "638a4f135690b500d1b6d298",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335262,
+        "known_for_department": "Directing",
+        "name": "Dasari Narayana Rao",
+        "original_name": "Dasari Narayana Rao",
+        "popularity": 2.2681,
+        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
+        "credit_id": "638a4f033f8ede0086e9e668",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139362,
+        "known_for_department": "Camera",
+        "name": "Chota K. Naidu",
+        "original_name": "Chota K. Naidu",
+        "popularity": 0.3377,
+        "profile_path": null,
+        "credit_id": "638a4f455690b500b83009d2",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0262224",
+    "wikidata_id": "Q4747096",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -64,6 +189,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -79,133 +207,5 @@
         "width": 922
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0262224",
-    "wikidata_id": "Q4747096",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1151397,
-        "known_for_department": "Acting",
-        "name": "Sharada",
-        "original_name": "Sharada",
-        "popularity": 0.3722,
-        "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "638a4edad2f5b50096121911",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 552991,
-        "known_for_department": "Acting",
-        "name": "Kaikala Satyanarayana",
-        "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
-        "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "638a4ede3f8ede00de8ba7ec",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "638a4ee3f3b49a00a0550431",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 146148,
-        "known_for_department": "Acting",
-        "name": "Sai Kumar",
-        "original_name": "Sai Kumar",
-        "popularity": 0.3552,
-        "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "638a4ef575f1ad00c8b21feb",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335262,
-        "known_for_department": "Directing",
-        "name": "Dasari Narayana Rao",
-        "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
-        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "638a4efa75f1ad00af202c60",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335262,
-        "known_for_department": "Directing",
-        "name": "Dasari Narayana Rao",
-        "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
-        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "credit_id": "638a4f135690b500d1b6d298",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1335262,
-        "known_for_department": "Directing",
-        "name": "Dasari Narayana Rao",
-        "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
-        "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "credit_id": "638a4f033f8ede0086e9e668",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1139362,
-        "known_for_department": "Camera",
-        "name": "Chota K. Naidu",
-        "original_name": "Chota K. Naidu",
-        "popularity": 0.0796,
-        "profile_path": null,
-        "credit_id": "638a4f455690b500b83009d2",
-        "department": "Crew",
-        "job": "Cinematography"
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Maguva",
   "overview": "About a software Techie(Janani) and A Brutal Rapist gang who tried to Assassinate Janani And later how Janani escaped from that gang with her intelligence by throwing the strongest and emotional weapon called Love.",
-  "popularity": 0.2359,
+  "popularity": 0.5227,
   "poster_path": "/mNfwsWSvcmiIEuE9KMLTrWgEOm3.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 3,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,8 +51,8 @@
         "known_for_department": "Acting",
         "name": "Madhu Priya",
         "original_name": "Madhu Priya",
-        "popularity": 0.0071,
-        "profile_path": null,
+        "popularity": 0.276,
+        "profile_path": "/nXvI7lYemPv8OSArofRUrFuhlUN.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "601e108fc1606a003ec4714e",
@@ -62,8 +65,8 @@
         "known_for_department": "Acting",
         "name": "Prasanna Pushpamala",
         "original_name": "Prasanna Pushpamala",
-        "popularity": 0,
-        "profile_path": null,
+        "popularity": 0.2588,
+        "profile_path": "/oI5pVeP8wwtOSxje75hiug3Ttcw.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "601e10ce2b8a43003eb5de8d",
@@ -78,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "Sriram Yedhoti",
         "original_name": "Sriram Yedhoti",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "601e11262b8a43003fb5f147",
         "department": "Directing",
@@ -86,35 +89,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt12987136",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2020-09-05T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -143,7 +119,31 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt12987136",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2020-09-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

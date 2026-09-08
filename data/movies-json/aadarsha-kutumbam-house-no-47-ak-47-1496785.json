@@ -19,14 +19,14 @@
   ],
   "homepage": "",
   "id": 1496785,
-  "imdb_id": null,
+  "imdb_id": "tt30768979",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "ఆదర్శ కుటుంబం హౌస్ నెం. 47 - AK 47",
   "overview": "",
-  "popularity": 0.125,
+  "popularity": 1.5755,
   "poster_path": "/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
   "production_companies": [
     {
@@ -42,7 +42,7 @@
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2026-10-02",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -59,6 +59,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt30768979",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -68,10 +81,10 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Chittibabu",
         "credit_id": "684a822a17f2287284302900",
         "order": 0
       },
@@ -82,10 +95,10 @@
         "known_for_department": "Acting",
         "name": "Srinidhi Shetty",
         "original_name": "Srinidhi Shetty",
-        "popularity": 0.448,
+        "popularity": 1.128,
         "profile_path": "/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg",
         "cast_id": 7,
-        "character": "",
+        "character": "Swarna",
         "credit_id": "68f77d9e268466e0b62d6f66",
         "order": 1
       },
@@ -96,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Nara Rohith",
         "original_name": "నారా రోహిత్",
-        "popularity": 0.4263,
+        "popularity": 1.1027,
         "profile_path": "/nfgWrE7d3IJwCDhwzg895djIQbB.jpg",
         "cast_id": 9,
         "character": "",
@@ -105,17 +118,129 @@
       },
       {
         "adult": false,
+        "gender": 1,
+        "id": 1532983,
+        "known_for_department": "Acting",
+        "name": "Nivetha Pethuraj",
+        "original_name": "Nivetha Pethuraj",
+        "popularity": 1.3339,
+        "profile_path": "/8OzmSIrwJ3zg7TGWtpKLLyawzt4.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6a100e45b1f603ed63a346d1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1507818,
+        "known_for_department": "Acting",
+        "name": "Yuvina Parthavi",
+        "original_name": "Yuvina Parthavi",
+        "popularity": 0.9814,
+        "profile_path": "/1PeXMRvuBppI9NGokjQNiysaFme.jpg",
+        "cast_id": 27,
+        "character": "Sampoorna",
+        "credit_id": "6a670fe3769f72e732633879",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5051116,
+        "known_for_department": "Acting",
+        "name": "Raja Prajwal",
+        "original_name": "Raja Prajwal",
+        "popularity": 0.4424,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Sarwa",
+        "credit_id": "6a670ff4113ad4b8cb6337cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586629,
+        "known_for_department": "Acting",
+        "name": "Rao Ramesh",
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
+        "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a670e865a4fd83d6b7a0442",
+        "order": 6
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1638503,
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 0.834,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
-        "cast_id": 10,
+        "cast_id": 19,
         "character": "",
-        "credit_id": "6988c2bfb7e59d42c2f81355",
-        "order": 3
+        "credit_id": "6a670e8b71ce742ff72953c5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213432,
+        "known_for_department": "Acting",
+        "name": "Brahmaji",
+        "original_name": "Brahmaji",
+        "popularity": 2.8764,
+        "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6a670e93b82943c098b34690",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4473861,
+        "known_for_department": "Acting",
+        "name": "Udaybir Sandhu",
+        "original_name": "Udaybir Sandhu",
+        "popularity": 0.344,
+        "profile_path": "/mDZd85MYFzo15tvYSpk6mQPSB5M.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6a670e9b3fb2491bdf00186a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146147,
+        "known_for_department": "Acting",
+        "name": "Vennela Kishore",
+        "original_name": "Vennela Kishore",
+        "popularity": 2.9644,
+        "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6a670ea18554890012b345e6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591153,
+        "known_for_department": "Acting",
+        "name": "Raghu Babu",
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
+        "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "6a670ea90292dc60e2b347c8",
+        "order": 11
       }
     ],
     "crew": [
@@ -126,7 +251,7 @@
         "known_for_department": "Directing",
         "name": "Trivikram Srinivas",
         "original_name": "Trivikram Srinivas",
-        "popularity": 0.6817,
+        "popularity": 1.4098,
         "profile_path": "/i8FMmDxo2tXbKyrpAJWxokeClWI.jpg",
         "credit_id": "684a8244771c655f8030278c",
         "department": "Writing",
@@ -139,7 +264,7 @@
         "known_for_department": "Directing",
         "name": "Trivikram Srinivas",
         "original_name": "Trivikram Srinivas",
-        "popularity": 0.6817,
+        "popularity": 1.4098,
         "profile_path": "/i8FMmDxo2tXbKyrpAJWxokeClWI.jpg",
         "credit_id": "684a82598de362ff1e9f5d25",
         "department": "Directing",
@@ -147,12 +272,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1628862,
         "known_for_department": "Production",
         "name": "S. Radha Krishna",
         "original_name": "S. Radha Krishna",
-        "popularity": 0.183,
+        "popularity": 0.4594,
         "profile_path": "/eYrVl6n0bN5KE7ES9GIr8hwCiah.jpg",
         "credit_id": "689ef2de00c4cdd17c5d2b8b",
         "department": "Production",
@@ -165,7 +290,7 @@
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "693fdf0a5095af08a8f78aad",
         "department": "Production",
@@ -178,29 +303,100 @@
         "known_for_department": "Sound",
         "name": "S. Thaman",
         "original_name": "S. Thaman",
-        "popularity": 0.5088,
+        "popularity": 0.8929,
         "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
         "credit_id": "69e9c49de5672d2b1bbcb31e",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704831,
+        "known_for_department": "Art",
+        "name": "A. S. Prakash",
+        "original_name": "A. S. Prakash",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "6a3fdae4865e895b0bb087ac",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37242,
+        "known_for_department": "Editing",
+        "name": "Sreekar Prasad",
+        "original_name": "Sreekar Prasad",
+        "popularity": 0.508,
+        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+        "credit_id": "6a3fdaee38ff9071e164dbf8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55073,
+        "known_for_department": "Camera",
+        "name": "Ravi K. Chandran",
+        "original_name": "Ravi K. Chandran",
+        "popularity": 0.5282,
+        "profile_path": "/uq3bNhuBOEdK1Ul4LY00swoxrfZ.jpg",
+        "credit_id": "6a3fdb261ed7616d9d72494c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704831,
+        "known_for_department": "Art",
+        "name": "A. S. Prakash",
+        "original_name": "A. S. Prakash",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "6a670ebc1adc3e82517a0422",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6345909,
+        "known_for_department": "Crew",
+        "name": "Kevin Kumar",
+        "original_name": "Kevin Kumar",
+        "popularity": 0.2525,
+        "profile_path": null,
+        "credit_id": "6a670edd2d3cd624c515d3e2",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3427461,
+        "known_for_department": "Visual Effects",
+        "name": "Nikhil Koduru",
+        "original_name": "Nikhil Koduru",
+        "popularity": 0.3011,
+        "profile_path": null,
+        "credit_id": "6a670ef73c1d5787f6b346a7",
+        "department": "Crew",
+        "job": "CG Supervisor"
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Aadarsha Kutumbam",
+        "type": ""
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -238,17 +434,20 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "AK47",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Aadarsha Kutumbam",
-        "type": ""
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

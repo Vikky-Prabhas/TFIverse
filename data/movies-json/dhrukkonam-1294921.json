@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Dhrukkonam",
   "overview": "A point of view between two guys on good and evil. The situation arises when one of the three guys going somewhere in the car has a gun and a situation that made him have that gun. Changes the story to a new turn.",
-  "popularity": 0.0143,
+  "popularity": 0.8828,
   "poster_path": "/ydatOdCa5frAY3n75RLkG9jJQqH.jpg",
   "production_companies": [
     {
@@ -55,167 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732429,
-        "known_for_department": "Acting",
-        "name": "Kaushik Basavaraju",
-        "original_name": "Kaushik Basavaraju",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Kaushik",
-        "credit_id": "6650032605b667e3ed0679a8",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732443,
-        "known_for_department": "Acting",
-        "name": "Jai Prakash Raju",
-        "original_name": "Jai Prakash Raju",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Das Anna",
-        "credit_id": "6650033e58771766799b33b0",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732430,
-        "known_for_department": "Acting",
-        "name": "Nandan Reddy",
-        "original_name": "Nandan Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "Nani",
-        "credit_id": "6650034cc9f5c84bd6544dc9",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732444,
-        "known_for_department": "Acting",
-        "name": "Naren Venna",
-        "original_name": "Naren Venna",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "Gun Buyer",
-        "credit_id": "6650035fa91c2b970add7e83",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4732432,
-        "known_for_department": "Directing",
-        "name": "Hrushikesh Reddy Vajrala",
-        "original_name": "Hrushikesh Reddy Vajrala",
-        "popularity": 0,
-        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
-        "cast_id": 5,
-        "character": "Hrushi",
-        "credit_id": "6650039358771766799b33e6",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4732432,
-        "known_for_department": "Directing",
-        "name": "Hrushikesh Reddy Vajrala",
-        "original_name": "Hrushikesh Reddy Vajrala",
-        "popularity": 0,
-        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
-        "credit_id": "665003aced4fe8930495777d",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4732432,
-        "known_for_department": "Directing",
-        "name": "Hrushikesh Reddy Vajrala",
-        "original_name": "Hrushikesh Reddy Vajrala",
-        "popularity": 0,
-        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
-        "credit_id": "665003b8fd717346b4dd7702",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4732432,
-        "known_for_department": "Directing",
-        "name": "Hrushikesh Reddy Vajrala",
-        "original_name": "Hrushikesh Reddy Vajrala",
-        "popularity": 0,
-        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
-        "credit_id": "665003c366a0c91b2d545000",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732429,
-        "known_for_department": "Acting",
-        "name": "Kaushik Basavaraju",
-        "original_name": "Kaushik Basavaraju",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "665003cf5d189ce4f1cb173d",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4732432,
-        "known_for_department": "Directing",
-        "name": "Hrushikesh Reddy Vajrala",
-        "original_name": "Hrushikesh Reddy Vajrala",
-        "popularity": 0,
-        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
-        "credit_id": "6650043070627e1e03dd7a9b",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4732434,
-        "known_for_department": "Editing",
-        "name": "Tharun karthikeyan G",
-        "original_name": "Tharun karthikeyan G",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "665004427d97c9231a9b3218",
-        "department": "Editing",
-        "job": "Editor"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt28640899",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": [
       {
@@ -232,13 +71,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 332772,
-        "name": "dhrukkonam"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt28640899",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -254,6 +92,14 @@
             "type": 4
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 332772,
+        "name": "dhrukkonam"
       }
     ]
   },
@@ -281,6 +127,160 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 750
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732429,
+        "known_for_department": "Acting",
+        "name": "Kaushik Basavaraju",
+        "original_name": "Kaushik Basavaraju",
+        "popularity": 0.2987,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Kaushik",
+        "credit_id": "6650032605b667e3ed0679a8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732443,
+        "known_for_department": "Acting",
+        "name": "Jai Prakash Raju",
+        "original_name": "Jai Prakash Raju",
+        "popularity": 0.2847,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Das Anna",
+        "credit_id": "6650033e58771766799b33b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732430,
+        "known_for_department": "Acting",
+        "name": "Nandan Reddy",
+        "original_name": "Nandan Reddy",
+        "popularity": 0.2362,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Nani",
+        "credit_id": "6650034cc9f5c84bd6544dc9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732444,
+        "known_for_department": "Acting",
+        "name": "Naren Venna",
+        "original_name": "Naren Venna",
+        "popularity": 0.4185,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Gun Buyer",
+        "credit_id": "6650035fa91c2b970add7e83",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4732432,
+        "known_for_department": "Directing",
+        "name": "Hrushikesh Reddy Vajrala",
+        "original_name": "Hrushikesh Reddy Vajrala",
+        "popularity": 0.4392,
+        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
+        "cast_id": 5,
+        "character": "Hrushi",
+        "credit_id": "6650039358771766799b33e6",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732434,
+        "known_for_department": "Editing",
+        "name": "Tharun karthikeyan G",
+        "original_name": "Tharun karthikeyan G",
+        "popularity": 0.2362,
+        "profile_path": null,
+        "credit_id": "665004427d97c9231a9b3218",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4732432,
+        "known_for_department": "Directing",
+        "name": "Hrushikesh Reddy Vajrala",
+        "original_name": "Hrushikesh Reddy Vajrala",
+        "popularity": 0.4392,
+        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
+        "credit_id": "6650043070627e1e03dd7a9b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4732432,
+        "known_for_department": "Directing",
+        "name": "Hrushikesh Reddy Vajrala",
+        "original_name": "Hrushikesh Reddy Vajrala",
+        "popularity": 0.4392,
+        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
+        "credit_id": "665003aced4fe8930495777d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732429,
+        "known_for_department": "Acting",
+        "name": "Kaushik Basavaraju",
+        "original_name": "Kaushik Basavaraju",
+        "popularity": 0.2987,
+        "profile_path": null,
+        "credit_id": "665003cf5d189ce4f1cb173d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4732432,
+        "known_for_department": "Directing",
+        "name": "Hrushikesh Reddy Vajrala",
+        "original_name": "Hrushikesh Reddy Vajrala",
+        "popularity": 0.4392,
+        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
+        "credit_id": "665003b8fd717346b4dd7702",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4732432,
+        "known_for_department": "Directing",
+        "name": "Hrushikesh Reddy Vajrala",
+        "original_name": "Hrushikesh Reddy Vajrala",
+        "popularity": 0.4392,
+        "profile_path": "/aVCQxlz1MthqN1xmx9ieYidR3wf.jpg",
+        "credit_id": "665003c366a0c91b2d545000",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },

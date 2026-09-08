@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "నేను సీతాదేవి",
   "overview": "",
-  "popularity": 0.2743,
+  "popularity": 1.649,
   "poster_path": "/8knw7OrSXNQ3AciUt7RjKijnyJB.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Komalee Prasad",
         "original_name": "Komalee Prasad",
-        "popularity": 0.2447,
+        "popularity": 0.9562,
         "profile_path": "/sIYt3cLJXhIls76jA5gAwyPk2I2.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Ambati Srinivas",
         "original_name": "Ambati Srinivas",
-        "popularity": 0.0143,
+        "popularity": 0.3541,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -76,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Sandeep",
         "original_name": "Sandeep",
-        "popularity": 0.048,
+        "popularity": 0.3477,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -90,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Bhavya Shree",
         "original_name": "Bhavya Shree",
-        "popularity": 0.0281,
+        "popularity": 0.317,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -104,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.4202,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 5,
         "character": "",
@@ -118,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.1543,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 6,
         "character": "",
@@ -132,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Chitram Seenu",
         "original_name": "Chitram Seenu",
-        "popularity": 0.2683,
+        "popularity": 1.0353,
         "profile_path": "/eCS28XnylQPrweJ9h5xzsa7F6EW.jpg",
         "cast_id": 7,
         "character": "",
@@ -146,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.4653,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 11,
         "character": "",
@@ -160,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 12,
         "character": "",
@@ -176,37 +179,11 @@
         "known_for_department": "Sound",
         "name": "Sunil Kashyap",
         "original_name": "Sunil Kashyap",
-        "popularity": 0.0942,
+        "popularity": 0.3023,
         "profile_path": null,
         "credit_id": "62385b2f075288001c622e55",
         "department": "Sound",
         "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3474351,
-        "known_for_department": "Directing",
-        "name": "Srinivas Mallam",
-        "original_name": "Srinivas Mallam",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62385c20df294500460da11b",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3474351,
-        "known_for_department": "Directing",
-        "name": "Srinivas Mallam",
-        "original_name": "Srinivas Mallam",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62385c19075288001c622f6b",
-        "department": "Directing",
-        "job": "Director"
       },
       {
         "adult": false,
@@ -215,11 +192,37 @@
         "known_for_department": "Sound",
         "name": "Chaitanya Raja",
         "original_name": "Chaitanya Raja",
-        "popularity": 0.0286,
+        "popularity": 0.2988,
         "profile_path": null,
         "credit_id": "62385b698ec4ab0044ec5f5c",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3474351,
+        "known_for_department": "Directing",
+        "name": "Srinivas Mallam",
+        "original_name": "Srinivas Mallam",
+        "popularity": 0.2859,
+        "profile_path": null,
+        "credit_id": "62385c19075288001c622f6b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3474351,
+        "known_for_department": "Directing",
+        "name": "Srinivas Mallam",
+        "original_name": "Srinivas Mallam",
+        "popularity": 0.2859,
+        "profile_path": null,
+        "credit_id": "62385c20df294500460da11b",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -228,7 +231,7 @@
         "known_for_department": "Camera",
         "name": "K. Gokula Krishnan",
         "original_name": "K. Gokula Krishnan",
-        "popularity": 0.0311,
+        "popularity": 0.2629,
         "profile_path": null,
         "credit_id": "62e136d5a44d0907dc171e83",
         "department": "Camera",
@@ -236,18 +239,41 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2016-10-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Nenu Seethadevi",
+        "type": "Alternate"
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -323,32 +349,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Nenu Seethadevi",
-        "type": "Alternate"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2016-10-21T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

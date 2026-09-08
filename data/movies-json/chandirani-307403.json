@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Chandirani",
   "overview": "When Prachandudu kills Chandirani's mother and imprisons her father who is a king, she decides to eliminate him to avenge her mother's death and to save the people of the kingdom too.",
-  "popularity": 0.2566,
+  "popularity": 0.5715,
   "poster_path": "/ySaGgaP8oIuMbvjkfMup2fcvR9e.jpg",
   "production_companies": [
     {
@@ -65,6 +65,13 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0260791",
+    "wikidata_id": "Q5071105",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -74,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Bhanumathi",
         "original_name": "Bhanumathi",
-        "popularity": 0.4482,
+        "popularity": 0.6397,
         "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
         "cast_id": 5,
         "character": "Chandi / Champa",
@@ -88,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 3,
         "character": "Kishore",
@@ -102,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 4,
         "character": "Prachandudu",
@@ -116,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "C S R Anjaneyulu",
         "original_name": "C S R Anjaneyulu",
-        "popularity": 0.3071,
+        "popularity": 0.7031,
         "profile_path": "/adOT3o1HKgURVQz6odgfcw9fxoQ.jpg",
         "cast_id": 6,
         "character": "",
@@ -130,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 7,
         "character": "Mukunda (Agha in Hindi)",
@@ -144,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Nageswara Rao",
         "original_name": "Rajanala Nageswara Rao",
-        "popularity": 0.1478,
+        "popularity": 0.4196,
         "profile_path": "/hCCMVmPhScEmtkdMeeiFGIYRxLD.jpg",
         "cast_id": 8,
         "character": "Marthand",
@@ -158,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Hemalatha Devi",
         "original_name": "Hemalatha",
-        "popularity": 0.1062,
+        "popularity": 1.0471,
         "profile_path": "/fpITeYJSoN4anyHCH87bz4PsfcR.jpg",
         "cast_id": 9,
         "character": "",
@@ -169,64 +176,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1208889,
-        "known_for_department": "Writing",
-        "name": "Samudrala Raghavacharya",
-        "original_name": "Samudrala Raghavacharya",
-        "popularity": 0.091,
-        "profile_path": null,
-        "credit_id": "5f98662cae36680036bb6ea9",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584222,
-        "known_for_department": "Sound",
-        "name": "M. S. Viswanathan",
-        "original_name": "M. S. Viswanathan",
-        "popularity": 0.1389,
-        "profile_path": "/nDktjZfiTBPqYhwhv7agAOCsPpq.jpg",
-        "credit_id": "5f986c8cae36680037bb7ab3",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2061252,
-        "known_for_department": "Directing",
-        "name": "P. S. Ramakrishna Rao",
-        "original_name": "P. S. Ramakrishna Rao",
-        "popularity": 0.2725,
-        "profile_path": null,
-        "credit_id": "5f9865116c1e040036de8fd3",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
         "gender": 1,
         "id": 1003965,
         "known_for_department": "Acting",
         "name": "Bhanumathi",
         "original_name": "Bhanumathi",
-        "popularity": 0.4482,
-        "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
-        "credit_id": "5f986c662f8d0900376d1b4d",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1003965,
-        "known_for_department": "Acting",
-        "name": "Bhanumathi",
-        "original_name": "Bhanumathi",
-        "popularity": 0.4482,
+        "popularity": 0.6397,
         "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
         "credit_id": "5f9864cf4f580100340619e3",
         "department": "Directing",
@@ -239,7 +194,7 @@
         "known_for_department": "Directing",
         "name": "P. S. Ramakrishna Rao",
         "original_name": "P. S. Ramakrishna Rao",
-        "popularity": 0.2725,
+        "popularity": 0.5023,
         "profile_path": null,
         "credit_id": "5f986c4d2f8d0900356d1a11",
         "department": "Writing",
@@ -247,16 +202,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1661136,
-        "known_for_department": "Writing",
-        "name": "Udayakumar",
-        "original_name": "Udayakumar",
-        "popularity": 0.0363,
-        "profile_path": null,
-        "credit_id": "5f986c34fb5299003a31d174",
+        "gender": 1,
+        "id": 1003965,
+        "known_for_department": "Acting",
+        "name": "Bhanumathi",
+        "original_name": "Bhanumathi",
+        "popularity": 0.6397,
+        "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
+        "credit_id": "5f986c662f8d0900376d1b4d",
         "department": "Writing",
-        "job": "Dialogue"
+        "job": "Story"
       },
       {
         "adult": false,
@@ -265,8 +220,8 @@
         "known_for_department": "Sound",
         "name": "C.R. Subburaman",
         "original_name": "C.R. Subburaman",
-        "popularity": 0.0495,
-        "profile_path": null,
+        "popularity": 0.2853,
+        "profile_path": "/vrjA4S1O3ifKXt3g5uGYriKbU3D.jpg",
         "credit_id": "5f986c7e0486380037204302",
         "department": "Sound",
         "job": "Music"
@@ -278,11 +233,63 @@
         "known_for_department": "Directing",
         "name": "P. S. Ramakrishna Rao",
         "original_name": "P. S. Ramakrishna Rao",
-        "popularity": 0.2725,
+        "popularity": 0.5023,
         "profile_path": null,
         "credit_id": "5f986cbb5a07f5003a307694",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661136,
+        "known_for_department": "Writing",
+        "name": "Udayakumar",
+        "original_name": "Udayakumar",
+        "popularity": 0.2841,
+        "profile_path": null,
+        "credit_id": "5f986c34fb5299003a31d174",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584222,
+        "known_for_department": "Sound",
+        "name": "M. S. Viswanathan",
+        "original_name": "M. S. Viswanathan",
+        "popularity": 0.5993,
+        "profile_path": "/nDktjZfiTBPqYhwhv7agAOCsPpq.jpg",
+        "credit_id": "5f986c8cae36680037bb7ab3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2061252,
+        "known_for_department": "Directing",
+        "name": "P. S. Ramakrishna Rao",
+        "original_name": "P. S. Ramakrishna Rao",
+        "popularity": 0.5023,
+        "profile_path": null,
+        "credit_id": "5f9865116c1e040036de8fd3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208889,
+        "known_for_department": "Writing",
+        "name": "Samudrala Raghavacharya",
+        "original_name": "Samudrala Raghavacharya",
+        "popularity": 0.4441,
+        "profile_path": null,
+        "credit_id": "5f98662cae36680036bb6ea9",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -291,7 +298,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Selvaraj",
         "original_name": "P. S. Selvaraj",
-        "popularity": 0.1246,
+        "popularity": 0.3788,
         "profile_path": null,
         "credit_id": "6039466bc9044c0059c4011c",
         "department": "Camera",
@@ -301,19 +308,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0260791",
-    "wikidata_id": "Q5071105",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -331,6 +325,12 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],

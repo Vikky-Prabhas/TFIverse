@@ -5,6 +5,10 @@
   "budget": 0,
   "genres": [
     {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
       "id": 18,
       "name": "Drama"
     }
@@ -16,9 +20,9 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Happy Happy Ga",
+  "original_title": "హ్యాపీ హ్యాపీగా",
   "overview": "Santhosh falls in love with Pooja, but she does not believe in love and refuses to reciprocate his feelings. Later, Pooja encourages her friend Priya to build a bond with Santhosh.",
-  "popularity": 0.1334,
+  "popularity": 1.7646,
   "poster_path": "/FtmJC7PBrc5z2QwyU4xzuoLDpL.jpg",
   "production_companies": [],
   "production_countries": [
@@ -47,8 +51,8 @@
   "tagline": "",
   "title": "Happy Happy Ga",
   "video": false,
-  "vote_average": 7.5,
-  "vote_count": 1,
+  "vote_average": 6.2,
+  "vote_count": 2,
   "credits": {
     "cast": [
       {
@@ -58,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sandesh",
         "original_name": "Varun Sandesh",
-        "popularity": 0.3541,
+        "popularity": 0.5926,
         "profile_path": "/ivdqRWq1L2olXJtWjSajnkXhYGc.jpg",
         "cast_id": 1,
         "character": "",
@@ -72,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Saranya Mohan",
         "original_name": "Saranya Mohan",
-        "popularity": 0.281,
+        "popularity": 0.6172,
         "profile_path": "/enQWGjsahdxooNNlF97jyzWlYyR.jpg",
         "cast_id": 3,
         "character": "",
@@ -84,9 +88,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 4,
         "character": "",
@@ -100,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Vega Tamotia",
         "original_name": "Vega Tamotia",
-        "popularity": 0.1773,
+        "popularity": 0.5306,
         "profile_path": "/ybGPR23RbHE0PFlstlhLdz6Xnl5.jpg",
         "cast_id": 5,
         "character": "Pooja D'Souza",
@@ -116,40 +120,11 @@
         "known_for_department": "Directing",
         "name": "Priya Sharan",
         "original_name": "Priya Sharan",
-        "popularity": 0,
+        "popularity": 0.593,
         "profile_path": null,
         "credit_id": "5b8c3bb9c3a368520603e2eb",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt2398173",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/FtmJC7PBrc5z2QwyU4xzuoLDpL.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
       }
     ]
   },
@@ -169,6 +144,35 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/FtmJC7PBrc5z2QwyU4xzuoLDpL.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2398173",
+    "wikidata_id": "Q16342052",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

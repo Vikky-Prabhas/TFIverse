@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/kpORwumY3WcawBDeIhzDwwq8vw3.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Chiranjeevulu",
   "overview": "While running away from the police, Charan, Giri, Chanti and Kiran reach a village where they face many problems. They get embroiled in a fight against Satyamurthy, a cruel village head.",
-  "popularity": 0.2696,
+  "popularity": 1.0028,
   "poster_path": "/hFQ4dxlM6cabW8OlFOzCN5EH239.jpg",
   "production_companies": [],
   "production_countries": [
@@ -35,7 +35,7 @@
       "name": "India"
     }
   ],
-  "release_date": "2001-09-21",
+  "release_date": "2001-01-01",
   "revenue": 0,
   "runtime": 151,
   "softcore": false,
@@ -60,8 +60,8 @@
         "id": 146935,
         "known_for_department": "Acting",
         "name": "Ravi Teja",
-        "original_name": "Ravi Teja",
-        "popularity": 1.2597,
+        "original_name": "రవితేజ",
+        "popularity": 3.081,
         "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
         "cast_id": 1,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 2,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Sivaji Sontineni",
         "original_name": "Sivaji Sontineni",
-        "popularity": 1.2267,
+        "popularity": 1.1302,
         "profile_path": "/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg",
         "cast_id": 3,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Sanghavi",
         "original_name": "Sanghavi",
-        "popularity": 0.6591,
+        "popularity": 1.3031,
         "profile_path": "/9b3ui7wmI4gSk7MZiLayzRns6Cp.jpg",
         "cast_id": 4,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 5,
         "character": "",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 6,
         "character": "",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 7,
         "character": "",
@@ -158,8 +158,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -173,7 +173,7 @@
         "known_for_department": "Acting",
         "name": "Shiju",
         "original_name": "Shiju",
-        "popularity": 0.1349,
+        "popularity": 1.6122,
         "profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
         "cast_id": 10,
         "character": "Kiran",
@@ -182,13 +182,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1319998,
         "known_for_department": "Acting",
         "name": "Prathyusha",
         "original_name": "Prathyusha",
-        "popularity": 0.1349,
-        "profile_path": null,
+        "popularity": 0.6171,
+        "profile_path": "/mSg4cAttJ0VGaq84RUSWSbxRWr1.jpg",
         "cast_id": 11,
         "character": "",
         "credit_id": "6984922a02c70619924f68fc",
@@ -200,8 +200,8 @@
         "id": 86015,
         "known_for_department": "Acting",
         "name": "Lakshmi",
-        "original_name": "Lakshmi",
-        "popularity": 0.7929,
+        "original_name": "லட்சுமி",
+        "popularity": 2.4721,
         "profile_path": "/ddJU483vxl0kqPL9O30LDWDBj1J.jpg",
         "cast_id": 12,
         "character": "",
@@ -217,7 +217,7 @@
         "known_for_department": "Directing",
         "name": "Radha Krishna",
         "original_name": "Radha Krishna",
-        "popularity": 0,
+        "popularity": 0.4091,
         "profile_path": null,
         "credit_id": "632365cffd4a96007f61ecea",
         "department": "Directing",
@@ -225,21 +225,22 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1575519",
-    "wikidata_id": "Q30607071",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
-    "backdrops": [],
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/kpORwumY3WcawBDeIhzDwwq8vw3.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
     "logos": [],
     "posters": [
       {
@@ -264,14 +265,24 @@
             "descriptors": [],
             "iso_639_1": "te",
             "note": "",
-            "release_date": "2001-09-21T00:00:00.000Z",
+            "release_date": "2001-01-01T00:00:00.000Z",
             "type": 3
           }
         ]
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1575519",
+    "wikidata_id": "Q30607071",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   }
 }

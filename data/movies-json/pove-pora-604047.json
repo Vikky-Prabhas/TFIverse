@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pove Pora",
   "overview": "",
-  "popularity": 0.1676,
+  "popularity": 0.5212,
   "poster_path": "/teCv2upLVHZQkpAQ3tV7TfrUTOy.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt8894042",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Karan",
         "original_name": "Karan",
-        "popularity": 0.4197,
+        "popularity": 0.8905,
         "profile_path": "/dBhs5LYQdenf7PmAs9jJ8Z6b6WR.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Soumya",
         "original_name": "Soumya",
-        "popularity": 0.0168,
+        "popularity": 0.2629,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -70,8 +80,8 @@
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -89,13 +99,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8894042",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -143,8 +146,5 @@
         "width": 1130
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

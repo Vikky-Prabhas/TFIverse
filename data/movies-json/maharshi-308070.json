@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మహర్షి",
   "overview": "After a college student becomes obsessed with a co-ed, she and her husband attempt to heal him, with dangerous consequences.",
-  "popularity": 0.4707,
+  "popularity": 1.6465,
   "poster_path": "/uCn4VUXvr0pxyNb5DONOBYUt9Kf.jpg",
   "production_companies": [
     {
@@ -51,9 +51,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -63,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Maharshi Raghava",
         "original_name": "Maharshi Raghava",
-        "popularity": 0.1178,
+        "popularity": 0.6853,
         "profile_path": null,
         "cast_id": 0,
         "character": "Maharshi",
@@ -77,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Shanti Priya",
         "original_name": "Shanti Priya",
-        "popularity": 0.3962,
+        "popularity": 1.0265,
         "profile_path": "/q2VA10KH3syj4Bw1LZMMrpFP6Se.jpg",
         "cast_id": 1,
         "character": "Suchitra",
@@ -91,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.2699,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 2,
         "character": "Tilak",
@@ -105,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "C. V. L. Narasimha Rao",
         "original_name": "C. V. L. Narasimha Rao",
-        "popularity": 0.1746,
+        "popularity": 0.5405,
         "profile_path": "/ehPetJv7j7nRWYYRrPUpKvhiru9.jpg",
         "cast_id": 3,
         "character": "Ramana",
@@ -121,7 +118,7 @@
         "known_for_department": "Camera",
         "name": "Hari Anumolu",
         "original_name": "Hari Anumolu",
-        "popularity": 0.1204,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "6517b25693bd6900e12d84e1",
         "department": "Crew",
@@ -134,7 +131,7 @@
         "known_for_department": "Editing",
         "name": "Anil Malnad",
         "original_name": "Anil Malnad",
-        "popularity": 0.0856,
+        "popularity": 0.3797,
         "profile_path": null,
         "credit_id": "6517b265d4653709dc7c16c6",
         "department": "Editing",
@@ -143,11 +140,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "5b18d96fc3a3684904004066",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1137474,
         "known_for_department": "Production",
         "name": "Sravanthi Ravi Kishore",
         "original_name": "Sravanthi Ravi Kishore",
-        "popularity": 0.2048,
+        "popularity": 0.3755,
         "profile_path": "/ebo869IeQGMhqxVYNMw3dP3jnW4.jpg",
         "credit_id": "5b18d98b9251414bc1004f4c",
         "department": "Production",
@@ -156,41 +166,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 565890,
-        "known_for_department": "Acting",
-        "name": "Tanikella Bharani",
-        "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
-        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "credit_id": "5b18d9ed9251414bd4003cad",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1181067,
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "5b18d9ba0e0a261f9f004528",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "5b18d96fc3a3684904004066",
-        "department": "Directing",
-        "job": "Director"
       },
       {
         "adult": false,
@@ -199,9 +183,22 @@
         "known_for_department": "Writing",
         "name": "Vemuri Satyanaryana",
         "original_name": "Vemuri Satyanaryana",
-        "popularity": 0.0071,
+        "popularity": 0.3599,
         "profile_path": null,
         "credit_id": "5b18d9d10e0a261f9a0042bc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "credit_id": "5b18d9ed9251414bd4003cad",
         "department": "Writing",
         "job": "Writer"
       },
@@ -211,14 +208,24 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "5f5a76c4fd7aa40039d990a8",
         "department": "Sound",
         "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0251814",
+    "wikidata_id": "Q6733439",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -237,12 +244,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0251814",
-    "wikidata_id": "Q6733439",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": []
   },
   "keywords": {
     "keywords": []
@@ -272,8 +275,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

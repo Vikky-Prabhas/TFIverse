@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "వన్ బై టు",
   "overview": "Paandu, falls in love with Kaasis daughter, Jenny and dreams of marrying her. Despite several warnings from Jenny and Kaasi, Paandu confesses his feelings and tries to convince her to marry him.",
-  "popularity": 0.0942,
+  "popularity": 1.2979,
   "poster_path": "/rQF6T2zYSUig574jpc37umXAoJA.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kumar",
         "original_name": "Sai Kumar",
-        "popularity": 0.4687,
+        "popularity": 1.2911,
         "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Anand Pandi",
         "original_name": "Anand Pandi",
-        "popularity": 0.0261,
+        "popularity": 0.4209,
         "profile_path": "/uo1FJfvH4ZekeW3aAVB7SnQiK8n.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Sri Pallavi",
         "original_name": "Sri Pallavi",
-        "popularity": 0.0071,
+        "popularity": 0.3873,
         "profile_path": "/kpAiHN4QMe2qKyzJEDYmrIjtknU.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Y. Kasi Viswanath",
         "original_name": "Y. Kasi Viswanath",
-        "popularity": 0.3635,
+        "popularity": 1.206,
         "profile_path": "/sXLyWwvlfNSFfpp4PA1N5K9EuUE.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "Devi Prasad",
         "original_name": "Devi Prasad",
-        "popularity": 0.7577,
+        "popularity": 1.3359,
         "profile_path": "/l63FZ8rFIc5jLz8dAzoKcLfKBQb.jpg",
         "cast_id": 6,
         "character": "",
@@ -134,8 +134,8 @@
         "known_for_department": "Acting",
         "name": "Aamani",
         "original_name": "Aamani",
-        "popularity": 0.5489,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "625f6726befb090051f29643",
@@ -146,24 +146,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3514919,
-        "known_for_department": "Crew",
-        "name": "Kapil Master",
-        "original_name": "Kapil Master",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "625f69d8168ea300a366b977",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3514893,
         "known_for_department": "Directing",
         "name": "Siva Eturi",
         "original_name": "Siva Eturi",
-        "popularity": 0,
+        "popularity": 0.3762,
         "profile_path": null,
         "credit_id": "625f65f50792e10176fa292b",
         "department": "Directing",
@@ -172,93 +159,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3514907,
-        "known_for_department": "Writing",
-        "name": "Swarna Naidu",
-        "original_name": "Swarna Naidu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "625f685ae61e6d0050f8837c",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3514900,
-        "known_for_department": "Writing",
-        "name": "Vijaya Bharathi",
-        "original_name": "Vijaya Bharathi",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "625f677285702e00a57724c6",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3514899,
-        "known_for_department": "Production",
-        "name": "Karanam Srinivasa Rao",
-        "original_name": "Karanam Srinivasa Rao",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "625f673ebb070d0051d4aabd",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3514893,
-        "known_for_department": "Directing",
-        "name": "Siva Eturi",
-        "original_name": "Siva Eturi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "625f6cafe2ff3200522288b2",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2126552,
         "known_for_department": "Sound",
         "name": "Leander Lee Marty",
         "original_name": "Leander Lee Marty",
-        "popularity": 0.0357,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "625f66583d74540053de973d",
         "department": "Sound",
         "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3311360,
-        "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
-        "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1534,
-        "profile_path": null,
-        "credit_id": "625f67bcdfaae901704b7b25",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3514917,
-        "known_for_department": "Crew",
-        "name": "Shankar Master",
-        "original_name": "Shankar Master",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "625f69a0e2ff32009df9a6b4",
-        "department": "Crew",
-        "job": "Fight Choreographer"
       },
       {
         "adult": false,
@@ -267,7 +176,7 @@
         "known_for_department": "Sound",
         "name": "Adesh Ravi",
         "original_name": "Adesh Ravi",
-        "popularity": 0,
+        "popularity": 0.3469,
         "profile_path": null,
         "credit_id": "625f6706db952d004f8a584c",
         "department": "Sound",
@@ -276,15 +185,54 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3514899,
+        "known_for_department": "Production",
+        "name": "Karanam Srinivasa Rao",
+        "original_name": "Karanam Srinivasa Rao",
+        "popularity": 0.2843,
+        "profile_path": null,
+        "credit_id": "625f673ebb070d0051d4aabd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514900,
+        "known_for_department": "Writing",
+        "name": "Vijaya Bharathi",
+        "original_name": "Vijaya Bharathi",
+        "popularity": 0.2654,
+        "profile_path": null,
+        "credit_id": "625f677285702e00a57724c6",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3514902,
         "known_for_department": "Camera",
         "name": "Shankar Kesari",
         "original_name": "Shankar Kesari",
-        "popularity": 0,
+        "popularity": 0.2933,
         "profile_path": null,
         "credit_id": "625f6794bb070d009d48fdf7",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311360,
+        "known_for_department": "Crew",
+        "name": "Sai Satish",
+        "original_name": "Sai Sathish Parvathaneni",
+        "popularity": 0.4145,
+        "profile_path": null,
+        "credit_id": "625f67bcdfaae901704b7b25",
+        "department": "Crew",
+        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -293,7 +241,7 @@
         "known_for_department": "Writing",
         "name": "Balavardhan",
         "original_name": "Balavardhan",
-        "popularity": 0.0214,
+        "popularity": 0.2947,
         "profile_path": null,
         "credit_id": "625f68467fcab300a6ac3ce5",
         "department": "Writing",
@@ -301,16 +249,16 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 3514927,
-        "known_for_department": "Production",
-        "name": "Krishna Prasad Thadi",
-        "original_name": "Krishna Prasad Thadi",
-        "popularity": 0.0071,
+        "gender": 0,
+        "id": 3514907,
+        "known_for_department": "Writing",
+        "name": "Swarna Naidu",
+        "original_name": "Swarna Naidu",
+        "popularity": 0.2878,
         "profile_path": null,
-        "credit_id": "625f6b69322b2b0066688ad3",
-        "department": "Production",
-        "job": "Publicist"
+        "credit_id": "625f685ae61e6d0050f8837c",
+        "department": "Writing",
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -319,13 +267,68 @@
         "known_for_department": "Editing",
         "name": "JP",
         "original_name": "JP",
-        "popularity": 0.0286,
+        "popularity": 0.2604,
         "profile_path": null,
         "credit_id": "625f69617fcab3006664c5df",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514917,
+        "known_for_department": "Crew",
+        "name": "Shankar Master",
+        "original_name": "Shankar Master",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "625f69a0e2ff32009df9a6b4",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514919,
+        "known_for_department": "Crew",
+        "name": "Kapil Master",
+        "original_name": "Kapil Master",
+        "popularity": 0.2143,
+        "profile_path": null,
+        "credit_id": "625f69d8168ea300a366b977",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3514927,
+        "known_for_department": "Production",
+        "name": "Krishna Prasad Thadi",
+        "original_name": "Krishna Prasad Thadi",
+        "popularity": 0.3182,
+        "profile_path": null,
+        "credit_id": "625f6b69322b2b0066688ad3",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514893,
+        "known_for_department": "Directing",
+        "name": "Siva Eturi",
+        "original_name": "Siva Eturi",
+        "popularity": 0.3762,
+        "profile_path": null,
+        "credit_id": "625f6cafe2ff3200522288b2",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -334,11 +337,32 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "1/2",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "1 by Two",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "1 by 2",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "One by 2",
+        "type": "Alternate"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -441,30 +465,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1267
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "1/2",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "1 by Two",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "1 by 2",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "One by 2",
-        "type": "Alternate"
       }
     ]
   }

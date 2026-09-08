@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "The Great Story of Sodabuddi",
   "overview": "The film tells the story of Sodabuddi, who spends his life wastefully. He has two romantic encounters and the audience gets to relive these tales, until the climax throws in a complete surprise.",
-  "popularity": 0.9062,
+  "popularity": 0.4764,
   "poster_path": "/enJMsDPNcgBf5ouPjGRctlx8pNr.jpg",
   "production_companies": [],
   "production_countries": [
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Uthpal",
         "original_name": "Uthpal",
-        "popularity": 0.0286,
+        "popularity": 0.2632,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Anusha",
         "original_name": "Anusha",
-        "popularity": 0.0487,
+        "popularity": 0.3112,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -89,16 +89,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 2126892,
+        "gender": 1,
+        "id": 2536190,
         "known_for_department": "Acting",
-        "name": "Khushi",
-        "original_name": "Khushi",
-        "popularity": 0.0327,
-        "profile_path": null,
-        "cast_id": 3,
+        "name": "Kushee Ravi",
+        "original_name": "Kushee Ravi",
+        "popularity": 0.7425,
+        "profile_path": "/ogzUAVEUPiCsV2VlO2sY2YH57Ax.jpg",
+        "cast_id": 6,
         "character": "",
-        "credit_id": "5b997b7d9251410b3b000258",
+        "credit_id": "6a140bb1828a7b07366e9a72",
         "order": 2
       },
       {
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Rangayana Raghu",
         "original_name": "Rangayana Raghu",
-        "popularity": 0.3102,
+        "popularity": 2.866,
         "profile_path": "/zYvl4RCUkhSFCZ8paZ1H9lV6nJa.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Achyuth Kumar",
         "original_name": "Achyuth Kumar",
-        "popularity": 0.3883,
+        "popularity": 1.9257,
         "profile_path": "/zO1MoCgaz0RxILjga8VYXguROMp.jpg",
         "cast_id": 5,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Directing",
         "name": "Jyothirao Mohith",
         "original_name": "Jyothirao Mohith",
-        "popularity": 0.0261,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "5b997b519251410b330001e4",
         "department": "Directing",
@@ -146,15 +146,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt5652478",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -171,9 +164,6 @@
         "width": 500
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -192,7 +182,17 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt5652478",
+    "wikidata_id": "Q124532591",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   }
 }

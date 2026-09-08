@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1692372,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "ఇదేం పెళ్లాం బాబోయ్",
+  "overview": "Aruna gets thrown out of her house by Shoba Devi, her mother-in-law, for disobeying orders. Later, Jhansi, Aruna's younger sister, decides to teach Shoba a lesson by marrying her son Kalyan.",
+  "popularity": 1.1309,
+  "poster_path": "/Asw29d1PGej8zZ843hZYCQ60zA2.jpg",
+  "production_companies": [
+    {
+      "id": 280249,
+      "logo_path": null,
+      "name": "Raja Enterprises",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "1990-01-01",
+  "revenue": 0,
+  "runtime": 136,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Idem Pellam Baboi",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545595,
+        "known_for_department": "Acting",
+        "name": "Rajendra Prasad",
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
+        "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6a018d27743f97e5a163053e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 562177,
+        "known_for_department": "Acting",
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
+        "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6a018d370ea5737e6eec28e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584510,
+        "known_for_department": "Acting",
+        "name": "Gollapudi Maruti Rao",
+        "original_name": "Gollapudi Maruti Rao",
+        "popularity": 0.6855,
+        "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a018d47a3ff6726b1241bfa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141695,
+        "known_for_department": "Acting",
+        "name": "Kota Srinivasa Rao",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6a018d560ea5737e6eec28ec",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6a018d64f4472a8173a648ee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586556,
+        "known_for_department": "Acting",
+        "name": "Sudhakar",
+        "original_name": "Sudhakar",
+        "popularity": 2.3287,
+        "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6a018d707cf146ced12418df",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584672,
+        "known_for_department": "Acting",
+        "name": "Rallapalli Narasimha",
+        "original_name": "Rallapalli Narasimha",
+        "popularity": 1.8427,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6a018d953f0db659f06303e3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1150027,
+        "known_for_department": "Acting",
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6a018da22a8086bebe6303f4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3385713,
+        "known_for_department": "Acting",
+        "name": "Chilukoti Kashi Viswanath",
+        "original_name": "Chilukoti Kashi Viswanath",
+        "popularity": 0.3359,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6a018db15f0a1a6129241802",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585567,
+        "known_for_department": "Acting",
+        "name": "Shivaji Raja",
+        "original_name": "Shivaji Raja",
+        "popularity": 1.7055,
+        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6a018dc1d225fa6aa9ec295a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029021,
+        "known_for_department": "Acting",
+        "name": "Chitti Babu",
+        "original_name": "Chitti Babu",
+        "popularity": 0.5265,
+        "profile_path": "/b6aLLm1y2Hi9SrmpqOEfGwJBlkF.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6a018dd107153402033a7582",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617562,
+        "known_for_department": "Acting",
+        "name": "K. K. Sharma",
+        "original_name": "K k sharma",
+        "popularity": 0.4086,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6a018def018e07dd48a642f2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180573,
+        "known_for_department": "Acting",
+        "name": "Suryakantham",
+        "original_name": "Suryakantham",
+        "popularity": 0.9089,
+        "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a018e5b54617b0579360878",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 580893,
+        "known_for_department": "Acting",
+        "name": "Rajyalakshmi",
+        "original_name": "Rajyalakshmi",
+        "popularity": 1.2319,
+        "profile_path": "/iVQrWhfnqd45IOU1pQNmgPW8t7w.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a018e6d07c270101ea645aa",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3610459,
+        "known_for_department": "Directing",
+        "name": "Katragadda Raviteja",
+        "original_name": "Katragadda Raviteja",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "credit_id": "6a018ebf5480ec60496305a8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585293,
+        "known_for_department": "Writing",
+        "name": "Panchu Arunachalam",
+        "original_name": "பஞ்சு அருணாசலம்",
+        "popularity": 2.5343,
+        "profile_path": "/ck3fMzeK7hjxp12ZPXfcYjvCOgp.jpg",
+        "credit_id": "6a018ed2bb665c8b8479a445",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 85525,
+        "known_for_department": "Production",
+        "name": "B. H. Rajanna",
+        "original_name": "B. H. Rajanna",
+        "popularity": 0.289,
+        "profile_path": null,
+        "credit_id": "6a018eedbfd31ac0933a7365",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3385713,
+        "known_for_department": "Acting",
+        "name": "Chilukoti Kashi Viswanath",
+        "original_name": "Chilukoti Kashi Viswanath",
+        "popularity": 0.3359,
+        "profile_path": null,
+        "credit_id": "6a018f0fa308b1c17d360743",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585293,
+        "known_for_department": "Writing",
+        "name": "Panchu Arunachalam",
+        "original_name": "பஞ்சு அருணாசலம்",
+        "popularity": 2.5343,
+        "profile_path": "/ck3fMzeK7hjxp12ZPXfcYjvCOgp.jpg",
+        "credit_id": "6a018f22aaeab3d77524143f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a018f47eed54984adec2d06",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1990-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1333,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/Asw29d1PGej8zZ843hZYCQ60zA2.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  }
+}

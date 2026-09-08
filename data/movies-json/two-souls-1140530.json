@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Two Souls",
   "overview": "Cheated on by his girlfriend, Akhil, a troubled young guy decides to end his life but instead, he ends up in a comatose state. Soon his soul detaches itself from the body and wanders off, only to find the company of another soul Priya. Together they'd embark on a journey, that change their lives forever.",
-  "popularity": 0.2166,
+  "popularity": 0.6996,
   "poster_path": "/xLYZdNKNCgJZTdiawujb2hBfZmF.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -46,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Trinadh Varma Kalidindi",
         "original_name": "Trinadh Varma Kalidindi",
-        "popularity": 0.0071,
+        "popularity": 0.2604,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Bhavana Sagi",
         "original_name": "Bhavana Sagi",
-        "popularity": 0.0261,
+        "popularity": 0.4277,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Mounika Reddy",
         "original_name": "Mounika Reddy",
-        "popularity": 0.4269,
+        "popularity": 1.4175,
         "profile_path": "/nLhyRS42M6g80eQnQsRPc35heUG.jpg",
         "cast_id": 5,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Teja Mahadasyam",
         "original_name": "Ravi Teja Mahadasyam",
-        "popularity": 0.0735,
+        "popularity": 0.467,
         "profile_path": "/7MwkZCDAxcYYbsHblZFSMbzvETe.jpg",
         "cast_id": 6,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Praveen",
         "original_name": "Praveen",
-        "popularity": 0.1974,
+        "popularity": 1.3924,
         "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
         "cast_id": 7,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Directing",
         "name": "Shravan",
         "original_name": "Shravan",
-        "popularity": 0.053,
+        "popularity": 0.2306,
         "profile_path": null,
         "credit_id": "648a6f2642bf01013bbaf8a9",
         "department": "Directing",
@@ -131,7 +131,7 @@
         "known_for_department": "Directing",
         "name": "Shravan",
         "original_name": "Shravan",
-        "popularity": 0.053,
+        "popularity": 0.2306,
         "profile_path": null,
         "credit_id": "648a6f3dc3c891014ebbb22f",
         "department": "Writing",
@@ -139,15 +139,18 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt21802440",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -165,6 +168,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -213,11 +219,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

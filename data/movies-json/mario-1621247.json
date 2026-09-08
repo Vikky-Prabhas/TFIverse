@@ -1,9 +1,18 @@
 {
   "adult": false,
-  "backdrop_path": "/51TCaNGgfLmJcVOsSE2bzi0YmN.jpg",
+  "backdrop_path": "/5FxYpmvIqfgsRpj5sdjpzQ6ePIX.jpg",
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
   "homepage": "",
   "id": 1621247,
   "imdb_id": "tt39127591",
@@ -13,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mario",
   "overview": "A rootless young man grappling with his past faces a pivotal moment where goals, memories, and relationships intersect. New encounters challenge his perspective, pushing him to examine his identity and future path.",
-  "popularity": 0.6137,
+  "popularity": 1.8724,
   "poster_path": "/7WcXyjz00rUIEWIvExwArDZuCoN.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Hebah Patel",
         "original_name": "Hebah Patel",
-        "popularity": 0.8878,
+        "popularity": 1.0031,
         "profile_path": "/hZM5aTM75NRQes6lRLkM2eT8Z9X.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Madee Manepalli",
         "original_name": "Madee Manepalli",
-        "popularity": 0.0071,
+        "popularity": 0.4837,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Kalpika Ganesh",
         "original_name": "Kalpika Ganesh",
-        "popularity": 0.1788,
+        "popularity": 1.2863,
         "profile_path": "/7q7UPxKI3Kuw9hC3QpNBxULzBuh.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +94,7 @@
         "known_for_department": "Writing",
         "name": "Rakendu Mouli",
         "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
+        "popularity": 0.5423,
         "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Mourya Siddavaram",
         "original_name": "Mourya Siddavaram",
-        "popularity": 0.0577,
+        "popularity": 0.3577,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -113,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Anirudh Sreevatsav",
         "original_name": "Anirudh Sreevatsav",
-        "popularity": 0,
+        "popularity": 0.2979,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -129,7 +138,7 @@
         "known_for_department": "Directing",
         "name": "Kalyanji Gogana",
         "original_name": "Kalyanji Gogana",
-        "popularity": 0.053,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "6972cb7959ffedceef9d04f2",
         "department": "Directing",
@@ -142,7 +151,7 @@
         "known_for_department": "Directing",
         "name": "Kalyanji Gogana",
         "original_name": "Kalyanji Gogana",
-        "popularity": 0.053,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "6972cb8f9abd90b1ec9d057a",
         "department": "Writing",
@@ -155,7 +164,7 @@
         "known_for_department": "Writing",
         "name": "Rakendu Mouli",
         "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
+        "popularity": 0.5423,
         "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
         "credit_id": "6972cba127413cb87c13cd2e",
         "department": "Writing",
@@ -165,7 +174,7 @@
   },
   "external_ids": {
     "imdb_id": "tt39127591",
-    "wikidata_id": null,
+    "wikidata_id": "Q137791682",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -185,9 +194,6 @@
         "published_at": "2025-12-06T12:32:59.000Z"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -214,26 +220,50 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [
       {
         "aspect_ratio": 1.778,
         "height": 720,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/51TCaNGgfLmJcVOsSE2bzi0YmN.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5FxYpmvIqfgsRpj5sdjpzQ6ePIX.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
       }
     ],
-    "logos": [],
+    "logos": [
+      {
+        "aspect_ratio": 2.61,
+        "height": 123,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/tDbN7tbtLsSAHzfzRfeoLBzi9nU.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 321
+      }
+    ],
     "posters": [
       {
         "aspect_ratio": 0.667,
         "height": 1200,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/7WcXyjz00rUIEWIvExwArDZuCoN.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
@@ -242,8 +272,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1500,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/a6UBMJQisGuoIEoh8VRlFsRuRJN.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
@@ -252,12 +282,42 @@
       {
         "aspect_ratio": 0.667,
         "height": 900,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/nvAleAv8iTZrWCoTYwHOdhNdYpq.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/xmKrhG7KVzikjrvCCenGHJkyDRf.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1067
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/thGurvsx73F7H883E2YoJEaboqc.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1067
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1799,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5A2y51Vx9vTCTAz7E09NL6r8WEv.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
       }
     ]
   },

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "౩౦౨",
   "overview": "A reservation call is made by a prostitute for a particular room number 302 where she lures her clients and attacks them.",
-  "popularity": 0.1801,
+  "popularity": 0.5574,
   "poster_path": "/lkvXOc6iSjFcXLmywfMLQnksgZ2.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,22 +52,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "302 Movie Official Trailer | Ravi Varma | Vennala Kishore | Bhavika Desai | Karthikeya Miriyala",
-        "key": "-TyBDYqd4CU",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "5f0ff2562a210c0037ed4d0a",
-        "published_at": "2020-03-11T07:48:48.000Z"
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -77,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Bhavika Desai",
         "original_name": "Bhavika Desai",
-        "popularity": 0.0214,
+        "popularity": 0.276,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -91,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 2,
         "character": "",
@@ -105,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3639,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 3,
         "character": "",
@@ -119,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2183,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -133,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Rakesh",
         "original_name": "Jabardasth Rakesh",
-        "popularity": 0.051,
+        "popularity": 0.4485,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -147,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu Tillu",
-        "popularity": 0.1163,
+        "popularity": 0.6907,
         "profile_path": "/m367s4YmY92g3Woi3LpU6ahbOtm.jpg",
         "cast_id": 6,
         "character": "",
@@ -163,7 +147,7 @@
         "known_for_department": "Directing",
         "name": "Karthikeya Miriyala",
         "original_name": "Karthikeya Miriyala",
-        "popularity": 0.0286,
+        "popularity": 0.2724,
         "profile_path": null,
         "credit_id": "5f0ff2036743fa0035cfedba",
         "department": "Directing",
@@ -171,31 +155,21 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt12071946",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+  "videos": {
+    "results": [
       {
-        "aspect_ratio": 0.705,
-        "height": 1418,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/lkvXOc6iSjFcXLmywfMLQnksgZ2.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "302 Movie Official Trailer | Ravi Varma | Vennala Kishore | Bhavika Desai | Karthikeya Miriyala",
+        "key": "-TyBDYqd4CU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5f0ff2562a210c0037ed4d0a",
+        "published_at": "2020-03-11T07:48:48.000Z"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -214,7 +188,33 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt12071946",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.705,
+        "height": 1418,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lkvXOc6iSjFcXLmywfMLQnksgZ2.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
   }
 }

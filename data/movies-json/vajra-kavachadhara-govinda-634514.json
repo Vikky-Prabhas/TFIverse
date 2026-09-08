@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Vajra Kavachadhara Govinda",
   "overview": "Govind (Sapthagiri) is a petty thief who seems to be down on luck and beaten down by life. What happens when he finds the opportunity to help someone find treasure?",
-  "popularity": 0.1348,
+  "popularity": 0.6007,
   "poster_path": "/sHWE9Yp4qP33VmeBLSuc3FGFtF2.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Vaibhavi Joshi",
         "original_name": "Vaibhavi Joshi",
-        "popularity": 0.0574,
+        "popularity": 0.3747,
         "profile_path": "/ggkK7dG7DpBk4Gr6Jz9dKu1uuBc.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.3063,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Archana",
         "original_name": "Archana",
-        "popularity": 0.3452,
+        "popularity": 1.4919,
         "profile_path": "/yD6PQ2jJ9KAObSP4LJFpxovkexS.jpg",
         "cast_id": 7,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Directing",
         "name": "Arun Pawar",
         "original_name": "Arun Pawar",
-        "popularity": 0.0071,
+        "popularity": 0.511,
         "profile_path": "/9FhxNe0ou1rzx92CBfNSe3k23NJ.jpg",
         "credit_id": "5df72b43d1a89300147b57db",
         "department": "Directing",
@@ -105,7 +105,7 @@
         "known_for_department": "Production",
         "name": "Vishnuvardhan",
         "original_name": "Vishnuvardhan",
-        "popularity": 0.0143,
+        "popularity": 0.2591,
         "profile_path": null,
         "credit_id": "5ee59fe7a217c00022d32bc5",
         "department": "Crew",
@@ -118,20 +118,13 @@
         "known_for_department": "Editing",
         "name": "Kishore Maddali",
         "original_name": "Kishore Maddali",
-        "popularity": 0.0071,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "6028da42511d09004158ca56",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt9561782",
-    "wikidata_id": "Q111947967",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -149,11 +142,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt9561782",
+    "wikidata_id": "Q111947967",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -171,6 +165,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -238,5 +235,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

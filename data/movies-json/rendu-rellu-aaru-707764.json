@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Rendu Rellu Aaru",
   "overview": "The film begins with two close friends Sadguna Rao (Chandra Mohan) & Madhusudan Rao (Rajendra Prasad). Once he is acquainted with a beautiful girl Keerthana (Preeti) in funny circumstances and they fall in love. Keertana also holds a mate Vindhya (Rajani) a stage artist. Right now, the story unfolds by Keerthana divulging Vindhya regarding her childhood marriage with a guy Venkata Sivam in their village which she denies and even changed her name from Vighneshwari to Keerthana.",
-  "popularity": 0.185,
+  "popularity": 0.7717,
   "poster_path": "/pFPOzU0H37KxxoPhDT2AdijdBf4.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,8 +42,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Madhu",
@@ -55,9 +55,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 2,
         "character": "Sad",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Rajani",
         "original_name": "Rajani",
-        "popularity": 0.6292,
+        "popularity": 1.1894,
         "profile_path": "/1lMmqGXKLn7znayGZEK6sR2HZKh.jpg",
         "cast_id": 3,
         "character": "Vindhya",
@@ -87,7 +87,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5ec96a750fb17f001c7c123d",
         "department": "Directing",
@@ -100,40 +100,11 @@
         "known_for_department": "Writing",
         "name": "Malladi Venkata Krishnamurthy",
         "original_name": "Malladi Venkata Krishnamurthy",
-        "popularity": 0.154,
+        "popularity": 0.4628,
         "profile_path": null,
         "credit_id": "5ec96aef7f1d83001edcb348",
         "department": "Writing",
         "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0250695",
-    "wikidata_id": "Q7312864",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/pFPOzU0H37KxxoPhDT2AdijdBf4.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },
@@ -154,6 +125,22 @@
       }
     ]
   },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pFPOzU0H37KxxoPhDT2AdijdBf4.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -162,5 +149,18 @@
         "type": ""
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0250695",
+    "wikidata_id": "Q7312864",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Case 30",
   "overview": "A murder case has been assigned to Crime Branch Officer Arjun Bharadwaj. How Arjun investigates and unthreads the case is the rest of the story.",
-  "popularity": 0.2016,
+  "popularity": 0.9511,
   "poster_path": "/osX3IDO2ezLLzJCBZY3xpp4eivC.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Writing",
         "name": "Siddharth Naidu",
         "original_name": "Siddharth Naidu",
-        "popularity": 0.0143,
+        "popularity": 0.482,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Shamili Uniyal",
         "original_name": "Shamili Uniyal",
-        "popularity": 0.0286,
+        "popularity": 0.5065,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Tanvi Gawade",
         "original_name": "Tanvi Gawade",
-        "popularity": 0,
+        "popularity": 0.3031,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Vamsi Raghava Yenumula",
         "original_name": "Vamsi Raghava Yenumula",
-        "popularity": 0,
+        "popularity": 0.4501,
         "profile_path": null,
         "cast_id": 13,
         "character": "ACP Ajay Chowdary",
@@ -115,11 +115,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4334562,
+        "known_for_department": "Crew",
+        "name": "Goutham Bandreddi",
+        "original_name": "Goutham Bandreddi",
+        "popularity": 0.2527,
+        "profile_path": null,
+        "credit_id": "6535de882b2108013f5b0a7b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4334561,
         "known_for_department": "Sound",
         "name": "Sv Jerome",
         "original_name": "Sv Jerome",
-        "popularity": 0.0071,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "6535de7542d837010ba962e9",
         "department": "Sound",
@@ -128,24 +141,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4334552,
-        "known_for_department": "Writing",
-        "name": "Siddharth Naidu",
-        "original_name": "Siddharth Naidu",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6535de14c14fee00c6ee7b7c",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4334559,
         "known_for_department": "Production",
         "name": "P. Narasimharao Rao",
         "original_name": "P. Narasimharao Rao",
-        "popularity": 0,
+        "popularity": 0.2656,
         "profile_path": null,
         "credit_id": "6535de55c14fee00c6ee7bbd",
         "department": "Production",
@@ -154,50 +154,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4334558,
-        "known_for_department": "Writing",
-        "name": "Bharath Pacha",
-        "original_name": "Bharath Pacha",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6535de3d02842000c59c0c1b",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4334562,
-        "known_for_department": "Crew",
-        "name": "Goutham Bandreddi",
-        "original_name": "Goutham Bandreddi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6535de882b2108013f5b0a7b",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2098998,
-        "known_for_department": "Editing",
-        "name": "Garry BH",
-        "original_name": "Garry BH",
-        "popularity": 0.1635,
-        "profile_path": null,
-        "credit_id": "6535de9742d83700ace1c19f",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4334556,
         "known_for_department": "Directing",
         "name": "Sandeep Pydimarri",
         "original_name": "Sandeep Pydimarri",
-        "popularity": 0,
+        "popularity": 0.3827,
         "profile_path": null,
         "credit_id": "6535de00abdafc012da9af80",
         "department": "Directing",
@@ -206,42 +167,54 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4334552,
+        "known_for_department": "Writing",
+        "name": "Siddharth Naidu",
+        "original_name": "Siddharth Naidu",
+        "popularity": 0.482,
+        "profile_path": null,
+        "credit_id": "6535de14c14fee00c6ee7b7c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4334560,
         "known_for_department": "Production",
         "name": "Boda Radha Krishna",
         "original_name": "Boda Radha Krishna",
-        "popularity": 0,
+        "popularity": 0.278,
         "profile_path": null,
         "credit_id": "6535de67c14fee00ad9ea999",
         "department": "Production",
         "job": "Producer"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt15373762",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
+      },
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-10-24T00:00:00.000Z",
-            "type": 4
-          }
-        ]
+        "adult": false,
+        "gender": 2,
+        "id": 2098998,
+        "known_for_department": "Editing",
+        "name": "Garry BH",
+        "original_name": "Garry BH",
+        "popularity": 0.3913,
+        "profile_path": null,
+        "credit_id": "6535de9742d83700ace1c19f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334558,
+        "known_for_department": "Writing",
+        "name": "Bharath Pacha",
+        "original_name": "Bharath Pacha",
+        "popularity": 0.2586,
+        "profile_path": null,
+        "credit_id": "6535de3d02842000c59c0c1b",
+        "department": "Writing",
+        "job": "Dialogue"
       }
     ]
   },
@@ -312,6 +285,19 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt15373762",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "videos": {
     "results": [
       {
@@ -340,7 +326,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

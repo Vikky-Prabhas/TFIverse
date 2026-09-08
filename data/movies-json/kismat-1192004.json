@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కిస్మత్",
   "overview": "An easy life of three seemingly ordinary, jobless engineers from a small village goes haywire as they try to hide an unwelcome money heist leaving only honesty on their side.",
-  "popularity": 0.3831,
+  "popularity": 1.1346,
   "poster_path": "/gZcIplVVCAgc7pvcHVhMdsgXKoL.jpg",
   "production_companies": [
     {
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Riya Suman",
         "original_name": "Riya Suman",
-        "popularity": 0.4015,
+        "popularity": 0.8228,
         "profile_path": "/1NaEXnvUwkGuQLmoHmCRYZ3n98h.jpg",
         "cast_id": 1,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Abhinav Gomatam",
         "original_name": "Abhinav Gomatam",
-        "popularity": 0.3336,
+        "popularity": 0.816,
         "profile_path": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg",
         "cast_id": 2,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 3,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Naresh Agastya",
         "original_name": "Naresh Agastya",
-        "popularity": 0.7832,
+        "popularity": 1.602,
         "profile_path": "/UQsBo3oeK5aw9tNHpLA2XKrgQt.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Vishwadev Rachakonda",
         "original_name": "Vishwadev Rachakonda",
-        "popularity": 0.137,
+        "popularity": 0.3719,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -134,37 +134,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4322786,
-        "known_for_department": "Production",
-        "name": "Raju",
-        "original_name": "Raju",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "652cc7d1024ec8011e3472fc",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584377,
-        "known_for_department": "Sound",
-        "name": "Mark K. Robin",
-        "original_name": "Mark K. Robin",
-        "popularity": 0.119,
-        "profile_path": "/aQ7n73TkyVQMwwMjXgJsTOt0gjU.jpg",
-        "credit_id": "652cc8010cb33516f63f66b1",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4322787,
         "known_for_department": "Production",
         "name": "Bhanuprasad Reddy",
         "original_name": "Bhanuprasad Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2821,
         "profile_path": null,
         "credit_id": "652cc7dc6611b40139b43882",
         "department": "Production",
@@ -173,28 +147,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4322788,
-        "known_for_department": "Directing",
-        "name": "Srinath Badineni",
-        "original_name": "Srinath Badineni",
-        "popularity": 0.0404,
+        "id": 4322786,
+        "known_for_department": "Production",
+        "name": "Raju",
+        "original_name": "Raju",
+        "popularity": 0.2552,
         "profile_path": null,
-        "credit_id": "652cc7f21f3e60011c4b730b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2369279,
-        "known_for_department": "Editing",
-        "name": "Viplav Nyshadam",
-        "original_name": "Viplav Nyshadam",
-        "popularity": 0.1622,
-        "profile_path": null,
-        "credit_id": "652cc81a72c13e00c6311ae9",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "652cc7d1024ec8011e3472fc",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -203,20 +164,52 @@
         "known_for_department": "Camera",
         "name": "Vedaraman Sankaran",
         "original_name": "Vedaraman Sankaran",
-        "popularity": 0.0775,
+        "popularity": 0.3122,
         "profile_path": null,
         "credit_id": "652cc811024ec8011e347346",
         "department": "Crew",
         "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2369279,
+        "known_for_department": "Editing",
+        "name": "Viplav Nyshadam",
+        "original_name": "Viplav Nyshadam",
+        "popularity": 0.3457,
+        "profile_path": null,
+        "credit_id": "652cc81a72c13e00c6311ae9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4322788,
+        "known_for_department": "Directing",
+        "name": "Srinath Badineni",
+        "original_name": "Srinath Badineni",
+        "popularity": 0.3456,
+        "profile_path": null,
+        "credit_id": "652cc7f21f3e60011c4b730b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584377,
+        "known_for_department": "Sound",
+        "name": "Mark K. Robin",
+        "original_name": "Mark K. Robin",
+        "popularity": 0.4658,
+        "profile_path": "/aQ7n73TkyVQMwwMjXgJsTOt0gjU.jpg",
+        "credit_id": "652cc8010cb33516f63f66b1",
+        "department": "Sound",
+        "job": "Music Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt29458600",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -233,6 +226,13 @@
         "published_at": "2023-10-15T09:04:23.000Z"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt29458600",
+    "wikidata_id": "Q124414988",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -259,15 +259,6 @@
             "type": 4
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kismath",
-        "type": "Telugu"
       }
     ]
   },
@@ -305,6 +296,25 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 852
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9XF6iXaP8gUhGRfLeuQqVW7peb4.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kismath",
+        "type": "Telugu"
       }
     ]
   }

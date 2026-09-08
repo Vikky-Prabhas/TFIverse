@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Hyderabad Love Story",
   "overview": "Bhagya Lakshmi(Reshmi Menon) falls head over heels for Karthick(Rahul Ravindran). She tries hard and somehow wins over Karthick. When everything seems to be going fine between the couple, Karthick’s ex-lover, Vaishnavi(Jia) come into the scene and disrupts the love story. Why did Vaishnavi come back into Karthick’s life? What problems did she create for Karthick? and how does he come out of this mess? That forms the rest of the story.",
-  "popularity": 0.2638,
+  "popularity": 0.8311,
   "poster_path": "/vCbXeQ2MNKQCtJPFP26fAIkoYDg.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,49 +52,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Hyderabad Love Story Theatrical Trailer HD",
-        "key": "smjzqpNyCY4",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "5b0090da0e0a2623cd001e74",
-        "published_at": "2013-12-11T08:26:10.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8108210",
-    "wikidata_id": "Q58327698",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-02-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "images": {
     "backdrops": [
       {
@@ -122,8 +79,28 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hyderabad Love Story Theatrical Trailer HD",
+        "key": "smjzqpNyCY4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5b0090da0e0a2623cd001e74",
+        "published_at": "2013-12-11T08:26:10.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt8108210",
+    "wikidata_id": "Q58327698",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "credits": {
     "cast": [
@@ -134,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ravindran",
         "original_name": "Rahul Ravindran",
-        "popularity": 0.2363,
+        "popularity": 1.0167,
         "profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
         "cast_id": 0,
         "character": "",
@@ -148,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Reshmi Menon",
         "original_name": "Reshmi Menon",
-        "popularity": 0.1629,
+        "popularity": 0.8182,
         "profile_path": "/5PYg5svleQeigYRZf91lziYBWc.jpg",
         "cast_id": 1,
         "character": "",
@@ -162,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Sija Rose",
         "original_name": "Sija Rose",
-        "popularity": 0.1621,
+        "popularity": 1.7789,
         "profile_path": "/3peHyGU5dkCKpDCbi6eFn422Nry.jpg",
         "cast_id": 2,
         "character": "",
@@ -175,8 +152,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 3,
         "character": "",
@@ -190,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "Jia",
         "original_name": "Jia",
-        "popularity": 0.0214,
+        "popularity": 0.2986,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -206,50 +183,11 @@
         "known_for_department": "Directing",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "5b008fb20e0a2623c7001c54",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107489,
-        "known_for_department": "Directing",
-        "name": "Satya",
-        "original_name": "Satya",
-        "popularity": 0.0214,
+        "popularity": 0.3378,
         "profile_path": null,
         "credit_id": "5b008f32c3a3686c6b00137f",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1339512,
-        "known_for_department": "Editing",
-        "name": "M. R. Varmaa",
-        "original_name": "M. R. Varmaa",
-        "popularity": 0.2209,
-        "profile_path": null,
-        "credit_id": "5b008fa5925141094800146b",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1546396,
-        "known_for_department": "Sound",
-        "name": "Sunil Kashyap",
-        "original_name": "Sunil Kashyap",
-        "popularity": 0.0942,
-        "profile_path": null,
-        "credit_id": "5b008f7b925141096900157d",
-        "department": "Sound",
-        "job": "Music Director"
       },
       {
         "adult": false,
@@ -258,7 +196,7 @@
         "known_for_department": "Production",
         "name": "S.N. Reddy",
         "original_name": "S.N. Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2591,
         "profile_path": null,
         "credit_id": "5b008f63c3a3686c8c00233c",
         "department": "Production",
@@ -267,16 +205,78 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1546396,
+        "known_for_department": "Sound",
+        "name": "Sunil Kashyap",
+        "original_name": "Sunil Kashyap",
+        "popularity": 0.3023,
+        "profile_path": null,
+        "credit_id": "5b008f7b925141096900157d",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2046072,
         "known_for_department": "Crew",
         "name": "B. V. Amaranath Reddy",
         "original_name": "B. V. Amaranath Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.264,
         "profile_path": null,
         "credit_id": "5b008f8992514109bc00185b",
         "department": "Crew",
         "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339512,
+        "known_for_department": "Editing",
+        "name": "M. R. Varmaa",
+        "original_name": "M. R. Varmaa",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "5b008fa5925141094800146b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107489,
+        "known_for_department": "Directing",
+        "name": "Satya",
+        "original_name": "Satya",
+        "popularity": 0.3378,
+        "profile_path": null,
+        "credit_id": "5b008fb20e0a2623c7001c54",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-02-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

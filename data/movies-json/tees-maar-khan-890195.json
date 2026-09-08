@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "తీస్ మార్ ఖాన్",
   "overview": "Tees Maar Khan, a college student, dreams of joining the police force and his hard work pays off when he joins the force. Soon, Tees Maar Khan starts facing troubles from an influential person who collaborates with a mafia don and his sister and brother-in-law are murdered.",
-  "popularity": 0.5683,
+  "popularity": 0.8307,
   "poster_path": "/tTAB1D6A7w1eyao6mCf2TEn9GyK.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,9 @@
   "video": false,
   "vote_average": 6.2,
   "vote_count": 4,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Aadi Saikumar",
         "original_name": "Aadi Saikumar",
-        "popularity": 0.6657,
+        "popularity": 1.3584,
         "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
         "cast_id": 1,
         "character": "Tees Maar Khan",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Payal Rajput",
         "original_name": "Payal Rajput",
-        "popularity": 0.5043,
+        "popularity": 1.4113,
         "profile_path": "/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg",
         "cast_id": 2,
         "character": "Anaga",
@@ -85,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.87,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 3,
         "character": "Chakri",
         "credit_id": "61780933e9da69008f88f9dc",
@@ -99,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Poorna",
         "original_name": "Poorna",
-        "popularity": 1.16,
+        "popularity": 1.885,
         "profile_path": "/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg",
         "cast_id": 4,
         "character": "Amma aka Vasudha",
@@ -113,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Thakur Anoop Singh",
         "original_name": "Thakur Anoop Singh",
-        "popularity": 0.2958,
+        "popularity": 0.681,
         "profile_path": "/z08ShOBwLNeVK4lJCUrgH82Si1P.jpg",
         "cast_id": 5,
         "character": "Jeeja",
@@ -127,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Kabir Duhan Singh",
         "original_name": "Kabir Duhan Singh",
-        "popularity": 0.4665,
+        "popularity": 1.2201,
         "profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
         "cast_id": 6,
         "character": "Talwar",
@@ -141,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Arjun Ambati",
         "original_name": "Arjun Ambati",
-        "popularity": 0.1214,
+        "popularity": 0.4255,
         "profile_path": "/jMfoM6xSgiaOrsp5pwPeX1PH5BU.jpg",
         "cast_id": 16,
         "character": "",
@@ -155,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "RJ Hemant",
         "original_name": "RJ Hemant",
-        "popularity": 0.1186,
+        "popularity": 0.4915,
         "profile_path": null,
         "cast_id": 17,
         "character": "Hemant",
@@ -169,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.456,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 18,
         "character": "RangaRajan",
@@ -183,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Sneha Gupta",
         "original_name": "Sneha Gupta",
-        "popularity": 0.1503,
+        "popularity": 0.4408,
         "profile_path": "/nTgtHtIM8tLYLDWVeymcjXbraro.jpg",
         "cast_id": 26,
         "character": "",
@@ -194,25 +197,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 1,
-        "id": 2080951,
-        "known_for_department": "Sound",
-        "name": "M L Shruti",
-        "original_name": "M L Shruti",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "62e0b014bbcae0005579591f",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1712856,
         "known_for_department": "Writing",
         "name": "Rakendu Mouli",
         "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
+        "popularity": 0.5423,
         "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
         "credit_id": "62e0afa0d2b209083da18ca0",
         "department": "Writing",
@@ -220,16 +210,16 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 2279500,
-        "known_for_department": "Writing",
-        "name": "Ravi Kumar Bhaskarabhatla",
-        "original_name": "Ravi Kumar Bhaskarabhatla",
-        "popularity": 0.1169,
-        "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
-        "credit_id": "62e0d06b681888045b0e479d",
-        "department": "Writing",
-        "job": "Lyricist"
+        "gender": 1,
+        "id": 2080951,
+        "known_for_department": "Sound",
+        "name": "M L Shruti",
+        "original_name": "M L Shruti",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "62e0b014bbcae0005579591f",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -238,7 +228,7 @@
         "known_for_department": "Sound",
         "name": "N. C. Karunya",
         "original_name": "N. C. Karunya",
-        "popularity": 0.0311,
+        "popularity": 0.2912,
         "profile_path": null,
         "credit_id": "62e0d05fe9da691495422ed1",
         "department": "Sound",
@@ -246,16 +236,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 2148937,
-        "known_for_department": "Directing",
-        "name": "Kalyanji Gogana",
-        "original_name": "Kalyanji Gogana",
-        "popularity": 0.053,
-        "profile_path": null,
-        "credit_id": "61780989a579f9006633126f",
+        "gender": 2,
+        "id": 2279500,
+        "known_for_department": "Writing",
+        "name": "Ravi Kumar Bhaskarabhatla",
+        "original_name": "Ravi Kumar Bhaskarabhatla",
+        "popularity": 0.3786,
+        "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
+        "credit_id": "62e0d06b681888045b0e479d",
         "department": "Writing",
-        "job": "Writer"
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -264,11 +254,24 @@
         "known_for_department": "Directing",
         "name": "Kalyanji Gogana",
         "original_name": "Kalyanji Gogana",
-        "popularity": 0.053,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "617809815294e70044f8b99e",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2148937,
+        "known_for_department": "Directing",
+        "name": "Kalyanji Gogana",
+        "original_name": "Kalyanji Gogana",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "credit_id": "61780989a579f9006633126f",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -277,7 +280,7 @@
         "known_for_department": "Sound",
         "name": "Sai Karthik",
         "original_name": "Sai Karthik",
-        "popularity": 0.1135,
+        "popularity": 0.3815,
         "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
         "credit_id": "61780994f2cf25006192c9b0",
         "department": "Sound",
@@ -290,50 +293,11 @@
         "known_for_department": "Production",
         "name": "Thirmal Reddy Yalla",
         "original_name": "Thirmal Reddy Yalla",
-        "popularity": 0.0261,
+        "popularity": 0.2593,
         "profile_path": null,
         "credit_id": "6178a3ad70b4440043d8f280",
         "department": "Production",
         "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2099283,
-        "known_for_department": "Camera",
-        "name": "Bal Reddy",
-        "original_name": "Bal Reddy",
-        "popularity": 0.0322,
-        "profile_path": null,
-        "credit_id": "6178a3ecc14fee0063f5e638",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2225938,
-        "known_for_department": "Editing",
-        "name": "Thellaguti Manikanth",
-        "original_name": "Thellaguti Manikanth",
-        "popularity": 0.1426,
-        "profile_path": null,
-        "credit_id": "6178a3deb458b8009330aa84",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1653924,
-        "known_for_department": "Art",
-        "name": "K V Ramana",
-        "original_name": "K V Ramana",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6178b4b5a579f9006634a0f9",
-        "department": "Art",
-        "job": "Production Design"
       },
       {
         "adult": false,
@@ -342,7 +306,7 @@
         "known_for_department": "Production",
         "name": "Nagam Tirupathi Reddy",
         "original_name": "Nagam Tirupathi Reddy",
-        "popularity": 0.0168,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "6178a3c0a579f9002717d7d0",
         "department": "Production",
@@ -351,15 +315,54 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2225938,
+        "known_for_department": "Editing",
+        "name": "Thellaguti Manikanth",
+        "original_name": "Thellaguti Manikanth",
+        "popularity": 0.2677,
+        "profile_path": null,
+        "credit_id": "6178a3deb458b8009330aa84",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2099283,
+        "known_for_department": "Camera",
+        "name": "Bal Reddy",
+        "original_name": "Bal Reddy",
+        "popularity": 0.2947,
+        "profile_path": null,
+        "credit_id": "6178a3ecc14fee0063f5e638",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 3285845,
         "known_for_department": "Crew",
         "name": "Pruthvi Shekar",
         "original_name": "Pruthvi Shekar",
-        "popularity": 0.0653,
+        "popularity": 0.307,
         "profile_path": "/l0w4lc58NisDNLyfhTeq7P8JZs1.jpg",
         "credit_id": "6178a4a6b458b80030522de1",
         "department": "Crew",
         "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653924,
+        "known_for_department": "Art",
+        "name": "K V Ramana",
+        "original_name": "K V Ramana",
+        "popularity": 0.2647,
+        "profile_path": null,
+        "credit_id": "6178b4b5a579f9006634a0f9",
+        "department": "Art",
+        "job": "Production Design"
       },
       {
         "adult": false,
@@ -368,7 +371,7 @@
         "known_for_department": "Production",
         "name": "Ideal Dots Gowtham",
         "original_name": "Ideal Dots Gowtham",
-        "popularity": 0.0071,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "636eff67f14dad00c75835c8",
         "department": "Production",
@@ -379,9 +382,9 @@
         "gender": 2,
         "id": 3311360,
         "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
+        "name": "Sai Satish",
         "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1534,
+        "popularity": 0.4145,
         "profile_path": null,
         "credit_id": "636eff8a1684f700dd9433ae",
         "department": "Crew",
@@ -389,18 +392,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt21301666",
-    "wikidata_id": "",
+    "wikidata_id": "Q113685844",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -416,6 +413,18 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "TMK",
+        "type": "Alternate"
       }
     ]
   },
@@ -613,15 +622,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "TMK",
-        "type": "Alternate"
       }
     ]
   }

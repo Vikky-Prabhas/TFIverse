@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గార్డ్",
   "overview": "Sushanth, a security guard on night duty in Melbourne’s ominous Building M, falls for Sam, a compassionate doctor. Their blossoming romance turns nightmarish when Sam becomes possessed by a malevolent spirit tied to the building’s dark past. To save her and survive, Sushanth must uncover ancient secrets and confront the vengeful force.",
-  "popularity": 0.0505,
+  "popularity": 0.5903,
   "poster_path": "/3oWqfB5JEcLxr2ERqamoebbMzQ7.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Viraj Reddy Cheelam",
         "original_name": "Viraj Reddy Cheelam",
-        "popularity": 0.0071,
+        "popularity": 0.2584,
         "profile_path": null,
         "cast_id": 1,
         "character": "Sushanth",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Mimi Leonard",
         "original_name": "Mimi Leonard",
-        "popularity": 0.0071,
+        "popularity": 0.3487,
         "profile_path": null,
         "cast_id": 7,
         "character": "Samantha",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Shilpa Balakrishnan",
         "original_name": "Shilpa Balakrishnan",
-        "popularity": 0,
+        "popularity": 0.3293,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Lavit Chaksh",
         "original_name": "Lavit Chaksh",
-        "popularity": 0.0071,
+        "popularity": 0.321,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Jaga Peddi",
         "original_name": "Jaga Peddi",
-        "popularity": 0,
+        "popularity": 0.3268,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -136,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Jaga Peddi",
         "original_name": "Jaga Peddi",
-        "popularity": 0,
+        "popularity": 0.3268,
         "profile_path": null,
         "credit_id": "6887b21f7e0188d5cb72f217",
         "department": "Directing",
@@ -149,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Viraj Reddy Cheelam",
         "original_name": "Viraj Reddy Cheelam",
-        "popularity": 0.0071,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "6887b230317a5cfe9cf7960b",
         "department": "Writing",
@@ -157,12 +157,40 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt16591746",
     "wikidata_id": "Q132968191",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-02-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-07-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -221,38 +249,10 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-02-28T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-07-23T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   }
 }

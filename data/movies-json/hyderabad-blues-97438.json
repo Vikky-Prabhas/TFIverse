@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Hyderabad Blues",
   "overview": "Varun returns homes after twelve years in the United States and attempts to romance an Indian doctor.",
-  "popularity": 0.1605,
+  "popularity": 1.4166,
   "poster_path": "/dyp9UN90T4aB2tsa7vKdpmkdkC5.jpg",
   "production_companies": [
     {
@@ -67,8 +67,11 @@
   "tagline": "The Homecoming",
   "title": "Hyderabad Blues",
   "video": false,
-  "vote_average": 5,
-  "vote_count": 9,
+  "vote_average": 5.545,
+  "vote_count": 11,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -78,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "cast_id": 6,
         "character": "Varun Naidu",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Rajshri Nair",
         "original_name": "Rajshri Nair",
-        "popularity": 0.2873,
+        "popularity": 1.6704,
         "profile_path": "/pYqirSBEogl3hMvnAkXFKmOhPoT.jpg",
         "cast_id": 11,
         "character": "Ashwini Rao",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Vikram Inamdar",
         "original_name": "Vikram Inamdar",
-        "popularity": 0.0143,
+        "popularity": 0.4199,
         "profile_path": null,
         "cast_id": 8,
         "character": "Sanjeev Rao",
@@ -120,7 +123,7 @@
         "known_for_department": "Production",
         "name": "Elahe Hiptoola",
         "original_name": "Elahe Hiptoola",
-        "popularity": 0.1266,
+        "popularity": 0.3269,
         "profile_path": null,
         "cast_id": 9,
         "character": "Seema Rao",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Anoop Rao",
         "original_name": "Anoop Rao",
-        "popularity": 0,
+        "popularity": 0.3411,
         "profile_path": null,
         "cast_id": 12,
         "character": "Harish Chandani",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "D. V. Ramana",
         "original_name": "D. V. Ramana",
-        "popularity": 0,
+        "popularity": 0.3252,
         "profile_path": null,
         "cast_id": 13,
         "character": "Darshan Naidu",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Revathi Alwar",
         "original_name": "Revathi Alwar",
-        "popularity": 0.0143,
+        "popularity": 0.3694,
         "profile_path": null,
         "cast_id": 14,
         "character": "Kusuma Naidu",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Anne Chengappa",
         "original_name": "Anne Chengappa",
-        "popularity": 0.0071,
+        "popularity": 0.3908,
         "profile_path": null,
         "cast_id": 15,
         "character": "Shashi Naidu",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Zain-Ul-Wara Zaheer",
         "original_name": "Zain-Ul-Wara Zaheer",
-        "popularity": 0,
+        "popularity": 0.3043,
         "profile_path": null,
         "cast_id": 16,
         "character": "Sandhya",
@@ -206,7 +209,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "credit_id": "52fe49e09251416c750d63f9",
         "department": "Directing",
@@ -219,7 +222,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "credit_id": "52fe49e09251416c750d63ff",
         "department": "Production",
@@ -232,7 +235,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "credit_id": "52fe49e09251416c750d6405",
         "department": "Writing",
@@ -245,7 +248,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "credit_id": "52fe49e09251416c750d640b",
         "department": "Writing",
@@ -258,7 +261,7 @@
         "known_for_department": "Directing",
         "name": "Nagesh Kukunoor",
         "original_name": "Nagesh Kukunoor",
-        "popularity": 0.4202,
+        "popularity": 0.601,
         "profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
         "credit_id": "52fe49e09251416c750d6411",
         "department": "Writing",
@@ -271,23 +274,13 @@
         "known_for_department": "Editing",
         "name": "Renu Saluja",
         "original_name": "Renu Saluja",
-        "popularity": 0.0837,
+        "popularity": 0.4771,
         "profile_path": "/9zQspobY1TemgKkLdkGHqU4rDUN.jpg",
         "credit_id": "5ffd9881de11e50040f47df1",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0195814",
-    "wikidata_id": "Q9295348",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -300,6 +293,13 @@
         "name": "culture shock"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0195814",
+    "wikidata_id": "Q9295348",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -318,6 +318,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -333,8 +336,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Asura",
   "overview": "The story deals with the ego between a jailor(cop) and the prisoner who is subjected to death.",
-  "popularity": 0.2886,
+  "popularity": 0.6356,
   "poster_path": "/hAIdDcUceET33bLxAtYwKKff0U0.jpg",
   "production_companies": [
     {
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Nara Rohith",
         "original_name": "నారా రోహిత్",
-        "popularity": 0.5101,
+        "popularity": 1.1027,
         "profile_path": "/nfgWrE7d3IJwCDhwzg895djIQbB.jpg",
         "cast_id": 0,
         "character": "Dharma Teja",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2472,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 3,
         "character": "Charlie",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Priya Banerjee",
         "original_name": "Priya Banerjee",
-        "popularity": 0.3467,
+        "popularity": 0.7503,
         "profile_path": "/u87CdINej7Wi2wbXlYBugKuI9i6.jpg",
         "cast_id": 4,
         "character": "Harika",
@@ -115,8 +115,8 @@
         "id": 1751749,
         "known_for_department": "Acting",
         "name": "Sree Vishnu",
-        "original_name": "Sree Vishnu",
-        "popularity": 0.2141,
+        "original_name": "శ్రీ విష్ణు",
+        "popularity": 1.02,
         "profile_path": "/fSbWn5uUjPMgEtIIrZiJoiU9v1C.jpg",
         "cast_id": 7,
         "character": "",
@@ -129,8 +129,8 @@
         "id": 1546410,
         "known_for_department": "Acting",
         "name": "Satyadev Kancharana",
-        "original_name": "Satyadev Kancharana",
-        "popularity": 0.4233,
+        "original_name": "సత్యదేవ్ కంచరన",
+        "popularity": 1.1478,
         "profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
         "cast_id": 6,
         "character": "",
@@ -144,9 +144,9 @@
         "gender": 2,
         "id": 1943119,
         "known_for_department": "Directing",
-        "name": "Krishna Vijay",
+        "name": "Vijay Krishna Lingamaneni",
         "original_name": "Krishna Vijay",
-        "popularity": 0.0577,
+        "popularity": 0.4192,
         "profile_path": "/gdULvbPWE8TA9tFaziF2ivF7IJQ.jpg",
         "credit_id": "5a36a549c3a3680b881db52a",
         "department": "Directing",
@@ -155,24 +155,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1267542,
-        "known_for_department": "Sound",
-        "name": "Sai Karthik",
-        "original_name": "Sai Karthik",
-        "popularity": 0.1135,
-        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
-        "credit_id": "5a62ca3d9251410b1c005d86",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1943119,
         "known_for_department": "Directing",
-        "name": "Krishna Vijay",
+        "name": "Vijay Krishna Lingamaneni",
         "original_name": "Krishna Vijay",
-        "popularity": 0.0577,
+        "popularity": 0.4192,
         "profile_path": "/gdULvbPWE8TA9tFaziF2ivF7IJQ.jpg",
         "credit_id": "5a62c8599251410b1a005778",
         "department": "Writing",
@@ -181,11 +168,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1267542,
+        "known_for_department": "Sound",
+        "name": "Sai Karthik",
+        "original_name": "Sai Karthik",
+        "popularity": 0.3815,
+        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
+        "credit_id": "5a62ca3d9251410b1c005d86",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1105605,
         "known_for_department": "Editing",
         "name": "Dharmendra Kakarala",
         "original_name": "Dharmendra Kakarala",
-        "popularity": 0.1855,
+        "popularity": 0.4085,
         "profile_path": null,
         "credit_id": "5a62ca5b9251410b1f005c86",
         "department": "Editing",
@@ -198,26 +198,11 @@
         "known_for_department": "Camera",
         "name": "Bruce McCleery",
         "original_name": "Bruce McCleery",
-        "popularity": 0.5792,
+        "popularity": 0.4047,
         "profile_path": null,
         "credit_id": "67098a7922f7254ed3963f53",
         "department": "Camera",
         "job": "Second Unit Director of Photography"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt4786606",
-    "wikidata_id": "Q6728565",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 241447,
-        "name": "jailor"
       }
     ]
   },
@@ -237,25 +222,12 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2015-06-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt4786606",
+    "wikidata_id": "Q6728565",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -323,5 +295,33 @@
         "width": 599
       }
     ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 241447,
+        "name": "jailor"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2015-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

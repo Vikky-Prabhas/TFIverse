@@ -8,10 +8,9 @@ import { CastModal } from './components/CastModal';
 import { EngagementButtons } from './components/EngagementButtons';
 import { VideoModal } from './components/VideoModal';
 import { SimilarMovies } from './components/SimilarMovies';
-import { BoxOfficeDashboard } from './components/BoxOfficeDashboard';
 import { db } from '@/lib/db';
-import { dailyBoxOffice, regionalBoxOffice, chainBoxOffice } from '@/lib/schema/tracking';
-import { eq, desc } from 'drizzle-orm';
+import { dailyBoxOffice, regionalBoxOffice, chainBoxOffice, realtimeSessions, cityBookingSnapshots } from '@/lib/schema/tracking';
+import { eq, desc, sql, ilike } from 'drizzle-orm';
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
     const { slug } = await params;
@@ -90,6 +89,41 @@ export default async function MovieDetailsPage({ params }: { params: Promise<{ s
             orderBy: [desc(chainBoxOffice.gross)]
         })
     ]);
+
+    // Fetch Real-time Session Aggregations (Live Tracking + Advance)
+    const baseTitle = movie.title.split(' [')[0]; // Extract base title to match all languages
+    const liveStatsRaw = await db.execute(sql`
+        SELECT 
+            m.title as movie_version,
+            COUNT(*) as shows,
+            SUM(r.total_seats) as total_capacity,
+            SUM(r.sold_seats) as total_sold,
+            SUM(r.gross_revenue) as total_gross,
+            MAX(r.last_updated) as last_updated
+        FROM realtime_sessions r
+        JOIN movies m ON r.movie_id = m.id
+        WHERE m.title ILIKE ${'%' + baseTitle + '%'}
+        GROUP BY m.title
+    `);
+
+    // Fetch top theaters for the movie
+    const topTheatersRaw = await db.execute(sql`
+        SELECT 
+            r.venue_name,
+            r.city,
+            COUNT(*) as shows,
+            SUM(r.sold_seats) as sold,
+            SUM(r.gross_revenue) as gross
+        FROM realtime_sessions r
+        JOIN movies m ON r.movie_id = m.id
+        WHERE m.title ILIKE ${'%' + baseTitle + '%'}
+        GROUP BY r.venue_name, r.city
+        ORDER BY gross DESC
+        LIMIT 10
+    `);
+
+    const liveStats = liveStatsRaw as any[];
+    const topTheaters = topTheatersRaw as any[];
 
     // --- DATA EXTRACTION & DEDUPLICATION ---
     const deduplicateCredits = (creditsArray: any[]) => {
@@ -379,7 +413,6 @@ export default async function MovieDetailsPage({ params }: { params: Promise<{ s
                     )}
 
                     <SimilarMovies recommendations={metadata.recommendations?.results || metadata.similar?.results} />
-                    
 
                 </div>
 

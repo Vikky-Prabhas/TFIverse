@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "నేను మనిషినే",
   "overview": "Movie starring Krishna Ghattamaneni, Kanchana, Gummadi and is directed by G. V. R. Seshagiri Rao",
-  "popularity": 0.3702,
+  "popularity": 1.21,
   "poster_path": "/zfvXONu3DAvCLGXs5YyMUeimDyh.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 2,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Kanchana",
         "original_name": "Kanchana",
-        "popularity": 0.2614,
+        "popularity": 1.1551,
         "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
         "cast_id": 4,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 1,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 3,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Chalam",
         "original_name": "Chalam",
-        "popularity": 0.077,
+        "popularity": 1.1997,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Potti Prasad",
         "original_name": "Potti Prasad",
-        "popularity": 0.0849,
+        "popularity": 0.7293,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Arja Janardhana Rao",
         "original_name": "Arja Janardhana Rao",
-        "popularity": 0.0777,
+        "popularity": 0.5055,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Directing",
         "name": "G.V.R. Seshgiri Rao",
         "original_name": "G.V.R. Seshgiri Rao",
-        "popularity": 0.0261,
+        "popularity": 0.5519,
         "profile_path": null,
         "credit_id": "625c21e7bb26021184eea807",
         "department": "Directing",
@@ -164,9 +164,9 @@
         "gender": 2,
         "id": 1137773,
         "known_for_department": "Sound",
-        "name": "S. Vedha",
+        "name": "Vedha",
         "original_name": "S. Vedha",
-        "popularity": 0,
+        "popularity": 0.2897,
         "profile_path": null,
         "credit_id": "694118b86e99f33080c019eb",
         "department": "Sound",
@@ -178,8 +178,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "694118d428158a5333a03fe9",
         "department": "Sound",
@@ -192,7 +192,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "694118f63d7ab22d08596076",
         "department": "Sound",
@@ -205,7 +205,7 @@
         "known_for_department": "Writing",
         "name": "C. Narayana Reddy",
         "original_name": "C. Narayana Reddy",
-        "popularity": 0.0637,
+        "popularity": 0.2676,
         "profile_path": null,
         "credit_id": "69411911685020ab0b3c5386",
         "department": "Writing",
@@ -213,34 +213,18 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0187347",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
   },
   "keywords": {
     "keywords": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 756,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/zfvXONu3DAvCLGXs5YyMUeimDyh.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 504
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt0187347",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -261,5 +245,21 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 756,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/zfvXONu3DAvCLGXs5YyMUeimDyh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 504
+      }
+    ]
   }
 }

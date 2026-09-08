@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "అంధగాడు",
   "overview": "A blind man falls in love with the doctor who has arranged his eye transplant. The operation, although successful, carries unexpected and haunting consequences.",
-  "popularity": 0.4481,
+  "popularity": 0.7884,
   "poster_path": "/wC6s9HxxZUZs4iFvVFd8OcpaMyJ.jpg",
   "production_companies": [
     {
@@ -59,6 +59,22 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 3,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Andhhagadu Theatrical Trailer | Raj Tarun, Hebah Patel | Veligonda Srinivas | Sekhar Chandra",
+        "key": "gz3DJ1Uo744",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "594dae01925141310802c234",
+        "published_at": "2017-05-23T10:01:24.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Raj Tarun",
         "original_name": "Raj Tarun",
-        "popularity": 0.3507,
+        "popularity": 0.7232,
         "profile_path": "/mSPPLTJfzmGRrmTG23IZ4VhWVcp.jpg",
         "cast_id": 2,
         "character": "Gautham",
@@ -82,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Hebah Patel",
         "original_name": "Hebah Patel",
-        "popularity": 0.8878,
+        "popularity": 1.0031,
         "profile_path": "/hZM5aTM75NRQes6lRLkM2eT8Z9X.jpg",
         "cast_id": 1,
         "character": "Dr. Netra",
@@ -95,8 +111,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 3,
         "character": "Ranjith Kulkarni",
@@ -110,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.7272,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 4,
         "character": "Assistant Commissioner Dharma",
@@ -124,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.369,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 5,
         "character": "Pantham Babji",
@@ -138,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 6,
         "character": "Kishore",
@@ -152,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Ashish Vidhyarthi",
         "original_name": "Ashish Vidhyarthi",
-        "popularity": 1.1464,
+        "popularity": 2.1499,
         "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
         "cast_id": 7,
         "character": "Dr. Ashish",
@@ -166,7 +182,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.379,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 8,
         "character": "Rajesh",
@@ -180,7 +196,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 9,
         "character": "Lawyer",
@@ -194,7 +210,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.5253,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "cast_id": 10,
         "character": "Father Krishna",
@@ -208,7 +224,7 @@
         "known_for_department": "Acting",
         "name": "Fish Venkat",
         "original_name": "Fish Venkat",
-        "popularity": 0.2153,
+        "popularity": 0.6894,
         "profile_path": "/rPP4bQ9fo3GMVkxNQvQVO0UbPTT.jpg",
         "cast_id": 11,
         "character": "Babji's henchmen",
@@ -224,7 +240,7 @@
         "known_for_department": "Writing",
         "name": "Veligonda Srinivas",
         "original_name": "Veligonda Srinivas",
-        "popularity": 0.1356,
+        "popularity": 0.4397,
         "profile_path": null,
         "credit_id": "594db03ec3a36832ca02bca1",
         "department": "Directing",
@@ -237,7 +253,7 @@
         "known_for_department": "Writing",
         "name": "Veligonda Srinivas",
         "original_name": "Veligonda Srinivas",
-        "popularity": 0.1356,
+        "popularity": 0.4397,
         "profile_path": null,
         "credit_id": "594db046925141312702bde0",
         "department": "Writing",
@@ -250,7 +266,7 @@
         "known_for_department": "Writing",
         "name": "Veligonda Srinivas",
         "original_name": "Veligonda Srinivas",
-        "popularity": 0.1356,
+        "popularity": 0.4397,
         "profile_path": null,
         "credit_id": "594db04ec3a36832bd02b905",
         "department": "Writing",
@@ -263,7 +279,7 @@
         "known_for_department": "Writing",
         "name": "Veligonda Srinivas",
         "original_name": "Veligonda Srinivas",
-        "popularity": 0.1356,
+        "popularity": 0.4397,
         "profile_path": null,
         "credit_id": "594db056925141311f02ccff",
         "department": "Writing",
@@ -272,11 +288,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1339512,
+        "known_for_department": "Editing",
+        "name": "M. R. Varmaa",
+        "original_name": "M. R. Varmaa",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "594db1bac3a368327902c075",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1748422,
         "known_for_department": "Sound",
         "name": "Shekar Chandra",
         "original_name": "Shekar Chandra",
-        "popularity": 0.1046,
+        "popularity": 0.3119,
         "profile_path": null,
         "credit_id": "594db079c3a36832bd02b92e",
         "department": "Sound",
@@ -289,40 +318,28 @@
         "known_for_department": "Camera",
         "name": "B. Rajashekar",
         "original_name": "B. Rajashekar",
-        "popularity": 0.1165,
+        "popularity": 0.3021,
         "profile_path": null,
         "credit_id": "594db16a925141311102c8ad",
         "department": "Camera",
         "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1339512,
-        "known_for_department": "Editing",
-        "name": "M. R. Varmaa",
-        "original_name": "M. R. Varmaa",
-        "popularity": 0.1983,
-        "profile_path": null,
-        "credit_id": "594db1bac3a368327902c075",
-        "department": "Editing",
-        "job": "Editor"
       }
     ]
   },
-  "videos": {
+  "release_dates": {
     "results": [
       {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Andhhagadu Theatrical Trailer | Raj Tarun, Hebah Patel | Veligonda Srinivas | Sekhar Chandra",
-        "key": "gz3DJ1Uo744",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "594dae01925141310802c234",
-        "published_at": "2017-05-23T10:01:24.000Z"
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-06-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -344,23 +361,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-06-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [

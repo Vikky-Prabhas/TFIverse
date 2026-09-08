@@ -20,29 +20,25 @@
     {
       "id": 10751,
       "name": "Family"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
     }
   ],
   "homepage": "",
   "id": 1370456,
-  "imdb_id": null,
+  "imdb_id": "tt36472374",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "మహాకాళి",
-  "overview": "Upcoming Female Superhero PVCU Film.  An epic journey of empowerment, faith, and resilience, inspired by the fierce and compassionate nature of the Goddess Kali. The film will explore not only her divine power but also touch upon themes of discrimination, inner strength, and the reclaiming of one’s identity in a world that often overlooks the value of darker skin.",
-  "popularity": 0.1946,
+  "overview": "An epic journey of empowerment, faith, and resilience, inspired by the fierce and compassionate nature of the Goddess Kali.",
+  "popularity": 1.6652,
   "poster_path": "/iDne56ULnyI5nm7YKPsF0WGovXN.jpg",
   "production_companies": [
     {
       "id": 98787,
       "logo_path": null,
       "name": "RK Duggal Studios",
-      "origin_country": ""
+      "origin_country": "IN"
     }
   ],
   "production_countries": [
@@ -51,7 +47,7 @@
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2027-01-08",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -62,7 +58,7 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Planned",
+  "status": "Post Production",
   "tagline": "",
   "title": "Mahakāli",
   "video": false,
@@ -77,10 +73,10 @@
         "known_for_department": "Acting",
         "name": "Bhoomi Shetty",
         "original_name": "Bhoomi Shetty",
-        "popularity": 0,
+        "popularity": 0.3388,
         "profile_path": null,
         "cast_id": 13,
-        "character": "Maha",
+        "character": "Mahakali",
         "credit_id": "690251945bf2552ca17e794c",
         "order": 0
       },
@@ -90,13 +86,153 @@
         "id": 87328,
         "known_for_department": "Acting",
         "name": "Akshaye Khanna",
-        "original_name": "Akshaye Khanna",
-        "popularity": 1.4877,
+        "original_name": "अक्षय खन्ना",
+        "popularity": 4.1979,
         "profile_path": "/kRPLQ908NrKejOwG6i3ypBd9qDq.jpg",
         "cast_id": 12,
         "character": "Asuraguru Shukracharya",
         "credit_id": "67f0da9fb3e035286cd9879a",
         "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 574772,
+        "known_for_department": "Acting",
+        "name": "Sriya Reddy",
+        "original_name": "Sriya Reddy",
+        "popularity": 1.4235,
+        "profile_path": "/6AwGUf0uj7Dr6cwZkC53KNihPdj.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "6a8c33946717f5c794c0f141",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1904879,
+        "known_for_department": "Acting",
+        "name": "Rohit Saraf",
+        "original_name": "Rohit Saraf",
+        "popularity": 1.045,
+        "profile_path": "/fhrgPiIujoi25lAYz9BV2dhfVCR.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6a08763dfde45bd1a5b6b190",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110200,
+        "known_for_department": "Acting",
+        "name": "Rakesh Bedi",
+        "original_name": "राकेश बेदी",
+        "popularity": 3.4114,
+        "profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6a8b3213f66a8a8fb620b096",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78922,
+        "known_for_department": "Acting",
+        "name": "Rajat Kapoor",
+        "original_name": "Rajat Kapoor",
+        "popularity": 1.9193,
+        "profile_path": "/8IF24mMUSspmXHbxCMMbMaz3WRj.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6a8b324dda6bf1539ac0e7bc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85588,
+        "known_for_department": "Acting",
+        "name": "Murali Sharma",
+        "original_name": "మురళీ శర్మ",
+        "popularity": 2.5363,
+        "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6a8b3255bd3f90e0c820b0b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130111,
+        "known_for_department": "Acting",
+        "name": "Nassar",
+        "original_name": "Nassar",
+        "popularity": 1.8165,
+        "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6a8b325a7d2d35f600ea3a4d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585397,
+        "known_for_department": "Acting",
+        "name": "Samuthirakani",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a8b3236bd3f90e0c820b0a9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429160,
+        "known_for_department": "Acting",
+        "name": "Prudhviraj",
+        "original_name": "Prudhviraj",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6a8b32617e0aba43130dc284",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482568,
+        "known_for_department": "Acting",
+        "name": "Jitin Gulati",
+        "original_name": "जितिन गुलाटी",
+        "popularity": 0.9588,
+        "profile_path": "/fd9OGCdmeig9QIN5FOa7lcYzYe.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a8b32422cda8baf59a84afc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82078,
+        "known_for_department": "Acting",
+        "name": "Khusbhu Sundar",
+        "original_name": "குஷ்பு சுந்தர்",
+        "popularity": 3.095,
+        "profile_path": "/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "6a8b31fd0b7a1b7890a84b00",
+        "order": 11
       }
     ],
     "crew": [
@@ -107,7 +243,7 @@
         "known_for_department": "Directing",
         "name": "Prasanth Varma",
         "original_name": "Prasanth Varma",
-        "popularity": 0.1818,
+        "popularity": 0.8731,
         "profile_path": null,
         "credit_id": "670b6c683bb4557c669b6ea2",
         "department": "Writing",
@@ -120,7 +256,7 @@
         "known_for_department": "Directing",
         "name": "Prasanth Varma",
         "original_name": "Prasanth Varma",
-        "popularity": 0.1818,
+        "popularity": 0.8731,
         "profile_path": null,
         "credit_id": "670b6c79f58a9206aa40c9b2",
         "department": "Writing",
@@ -133,7 +269,7 @@
         "known_for_department": "Directing",
         "name": "Puja Kolluru",
         "original_name": "Puja Kolluru",
-        "popularity": 0.0071,
+        "popularity": 0.6108,
         "profile_path": "/kS5mtRcvWKDs2E6Rkc2aSCpqzyJ.jpg",
         "credit_id": "670b6cdab15d97b1a93c6130",
         "department": "Directing",
@@ -146,7 +282,7 @@
         "known_for_department": "Sound",
         "name": "Smaran Sai",
         "original_name": "Smaran Sai",
-        "popularity": 0.0941,
+        "popularity": 0.3041,
         "profile_path": null,
         "credit_id": "670b6d21bbb1a9e81c61e0cf",
         "department": "Sound",
@@ -155,24 +291,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4495109,
-        "known_for_department": "Writing",
-        "name": "scriptsville",
-        "original_name": "scriptsville",
-        "popularity": 0.0859,
-        "profile_path": "/jm2ULMnCzDccY5FrbFjDIFcSQ0o.jpg",
-        "credit_id": "670b6d6a37d86d520bb0cc76",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4997293,
         "known_for_department": "Art",
         "name": "Sneha Sameera",
         "original_name": "Sneha Sameera",
-        "popularity": 0,
+        "popularity": 0.3048,
         "profile_path": null,
         "credit_id": "670b6d8537d86d520bb0cc92",
         "department": "Art",
@@ -185,7 +308,7 @@
         "known_for_department": "Art",
         "name": "Sri Nagendra Prasad Tangala",
         "original_name": "Sri Nagendra Prasad Tangala",
-        "popularity": 0.1421,
+        "popularity": 0.3291,
         "profile_path": "/17M5kfnBlTyrGc4kAaJHt01Yn9N.jpg",
         "credit_id": "670b6d9fb15d97b1a93c617d",
         "department": "Production",
@@ -198,7 +321,7 @@
         "known_for_department": "Production",
         "name": "Venkat Kumar Jetty",
         "original_name": "Venkat Kumar Jetty",
-        "popularity": 0.0261,
+        "popularity": 0.3016,
         "profile_path": null,
         "credit_id": "670b6dfd37d86d520bb0cca4",
         "department": "Production",
@@ -211,7 +334,7 @@
         "known_for_department": "Production",
         "name": "Ananth Kancherla",
         "original_name": "Ananth Kancherla",
-        "popularity": 0.1947,
+        "popularity": 0.3262,
         "profile_path": null,
         "credit_id": "670b6e14bbb1a9e81c61e155",
         "department": "Production",
@@ -224,7 +347,7 @@
         "known_for_department": "Production",
         "name": "Riwaz Ramesh Duggal",
         "original_name": "Riwaz Ramesh Duggal",
-        "popularity": 0.0071,
+        "popularity": 0.2988,
         "profile_path": null,
         "credit_id": "670b6f64bbb1a9e81c61e236",
         "department": "Production",
@@ -237,11 +360,24 @@
         "known_for_department": "Crew",
         "name": "RK Duggal",
         "original_name": "RK Duggal",
-        "popularity": 0,
+        "popularity": 0.295,
         "profile_path": null,
         "credit_id": "670b6f6fbbb1a9e81c61e246",
         "department": "Crew",
         "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309359,
+        "known_for_department": "Camera",
+        "name": "Suresh Ragutu",
+        "original_name": "Suresh Ragutu",
+        "popularity": 0.3535,
+        "profile_path": null,
+        "credit_id": "6a8b327c416cea5b07b79fe4",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
   },
@@ -261,40 +397,23 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
-    "imdb_id": null,
+    "imdb_id": "tt36472374",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "PVCU 3",
-        "type": "working title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Mahakali",
-        "type": "Title"
-      }
-    ]
   },
   "images": {
     "backdrops": [
       {
         "aspect_ratio": 1.777,
         "height": 931,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/jJZ1odIVUQpfnpHCqQAHKth5mFF.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -353,6 +472,37 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1365
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2027-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "PVCU 3",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Mahakali",
+        "type": "Title"
       }
     ]
   }

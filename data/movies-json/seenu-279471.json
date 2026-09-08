@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Seenu",
   "overview": "Shwetha falls in love with Seenu, whom she supposes to be speech-impaired. Seenu feels guilty and asks a doctor to cut off his tongue to win her love.",
-  "popularity": 0.4093,
+  "popularity": 1.1258,
   "poster_path": "/tpSCGyb22erfEI5ByHEbbqNCvqQ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,8 +42,8 @@
   "tagline": "",
   "title": "Seenu",
   "video": false,
-  "vote_average": 7,
-  "vote_count": 3,
+  "vote_average": 6.75,
+  "vote_count": 4,
   "credits": {
     "cast": [
       {
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "Seenu",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Twinkle Khanna",
         "original_name": "Twinkle Khanna",
-        "popularity": 0.3332,
+        "popularity": 0.636,
         "profile_path": "/ipAV6rBOkJQhTW5Zs8phZWGmXMt.jpg",
         "cast_id": 4,
         "character": "Swetha",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 5,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 6,
         "character": "",
@@ -108,8 +108,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 7,
         "character": "Doctor",
@@ -122,8 +122,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -135,9 +135,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 9,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -163,9 +163,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 11,
         "character": "",
@@ -179,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.369,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 12,
         "character": "",
@@ -193,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Gautam Raju",
         "original_name": "Gautam Raju",
-        "popularity": 0.463,
+        "popularity": 0.5814,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -207,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Uttej",
         "original_name": "Uttej",
-        "popularity": 0.2941,
+        "popularity": 1.2843,
         "profile_path": "/ntwumxdq3aYSi4fJln1kPa1JlD2.jpg",
         "cast_id": 14,
         "character": "",
@@ -219,11 +219,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 584694,
+        "known_for_department": "Production",
+        "name": "R. B. Choudary",
+        "original_name": "R. B. Choudary",
+        "popularity": 0.4506,
+        "profile_path": "/cbFHtH5DqklViuOt3xlgOis0SND.jpg",
+        "credit_id": "53b178fac3a3682ee2006852",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 225317,
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.3339,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "53b178f5c3a3682ee6006514",
         "department": "Sound",
@@ -232,33 +245,17 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 584694,
-        "known_for_department": "Production",
-        "name": "R. B. Choudary",
-        "original_name": "R. B. Choudary",
-        "popularity": 3.9331,
-        "profile_path": null,
-        "credit_id": "53b178fac3a3682ee2006852",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1174308,
         "known_for_department": "Directing",
         "name": "Sasi",
         "original_name": "Sasi",
-        "popularity": 0.2187,
+        "popularity": 0.573,
         "profile_path": null,
         "credit_id": "53b178f30e0a26597500825f",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0357145",
@@ -267,25 +264,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1999-08-27T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [],
@@ -321,6 +304,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1999-08-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

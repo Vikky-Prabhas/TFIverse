@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Aaru",
   "overview": "From 6 PM to 6 AM, for fear of their death, the natives of Uravakonda do not venture out of their houses. No serial killer on the prowl, no haunting ghost. Yet, 80 people have been killed in a similar fashion. Its a mystery to be solved.",
-  "popularity": 0.1328,
+  "popularity": 0.6055,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.8209,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "Vijay",
@@ -57,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Gayathri Iyer",
         "original_name": "Gayathri Iyer",
-        "popularity": 0.2425,
+        "popularity": 0.9202,
         "profile_path": "/eu1RTrDWmKDRKf7Esc8j6pMjcui.jpg",
         "cast_id": 2,
         "character": "Tripura",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.2585,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 3,
         "character": "Police",
@@ -85,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 4,
         "character": "Jagga Reddy",
         "credit_id": "6543e88041a561336d832b02",
@@ -99,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Surya Bhagawan Das",
         "original_name": "Surya Bhagawan Das",
-        "popularity": 0.4916,
+        "popularity": 2.0323,
         "profile_path": "/fflRAfFuyvM4QIGkS3EVcqIjVm1.jpg",
         "cast_id": 5,
         "character": "Scientist",
@@ -116,11 +119,16 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -138,13 +146,5 @@
         ]
       }
     ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

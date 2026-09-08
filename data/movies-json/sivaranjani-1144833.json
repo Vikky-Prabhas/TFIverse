@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Sivaranjani",
   "overview": "A 1978 Telugu film starring Hariprasad and Jayasudha in the lead roles, written and directed by Sivaranjani Dasari Narayana Rao under the banner Tarakaprabhu Films.",
-  "popularity": 0.0895,
+  "popularity": 0.5065,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 1,
         "character": "",
@@ -55,6 +55,13 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0251999",
+    "wikidata_id": "Q7532424",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -73,22 +80,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0251999",
-    "wikidata_id": "Q7532424",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

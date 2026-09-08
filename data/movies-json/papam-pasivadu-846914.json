@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "పాపం పసివాడు",
   "overview": "Venugopal and Janaki realise that their son has tuberculosis and send him by plane to Europe for better treatment. However, the plane crashes, and the boy faces trouble reuniting with his parents.",
-  "popularity": 0.3343,
+  "popularity": 0.7406,
   "poster_path": "/n1ZvRVOuEwxrjUuyaotHSa4w48x.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 5,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Devika",
         "original_name": "Devika",
-        "popularity": 0.2261,
+        "popularity": 1.1377,
         "profile_path": "/vp4PzdzQSEwcMBv9muL5diU9SFA.jpg",
         "cast_id": 10,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Nagesh",
         "original_name": "Nagesh",
-        "popularity": 1.3505,
+        "popularity": 2.7008,
         "profile_path": "/1oRsYn07HMjHeeyufK4lw8MDH8L.jpg",
         "cast_id": 6,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 11,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Chhaya Devi",
         "original_name": "Chhaya Devi",
-        "popularity": 0.2364,
+        "popularity": 1.1509,
         "profile_path": "/x8uKV8mWfFQytCanKLWi5Pyz2Ao.jpg",
         "cast_id": 12,
         "character": "",
@@ -131,8 +131,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "60deb90ecb9f4b0047483c7a",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.3466,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 8,
         "character": "",
@@ -159,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 9,
         "character": "",
@@ -170,12 +170,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 1660494,
+        "known_for_department": "Directing",
+        "name": "V. Ramachandra Rao",
+        "original_name": "V. Ramachandra Rao",
+        "popularity": 0.4505,
+        "profile_path": null,
+        "credit_id": "60deb5f36c449c007fc57a2a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 584510,
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "credit_id": "60deb683b686b90075f6282c",
         "department": "Writing",
@@ -188,7 +201,7 @@
         "known_for_department": "Sound",
         "name": "Chellapilla Satyanarayana Sastry",
         "original_name": "Chellapilla Satyanarayana Sastry",
-        "popularity": 0.0526,
+        "popularity": 0.3275,
         "profile_path": null,
         "credit_id": "60deb70e9979d200469b336d",
         "department": "Sound",
@@ -201,29 +214,32 @@
         "known_for_department": "Camera",
         "name": "M. Kannappa",
         "original_name": "M. Kannappa",
-        "popularity": 0.0646,
+        "popularity": 0.2772,
         "profile_path": null,
         "credit_id": "60deb8b1a128560046a38c09",
         "department": "Camera",
         "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1660494,
-        "known_for_department": "Directing",
-        "name": "V. Ramachandra Rao",
-        "original_name": "V. Ramachandra Rao",
-        "popularity": 0.0168,
-        "profile_path": null,
-        "credit_id": "60deb5f36c449c007fc57a2a",
-        "department": "Directing",
-        "job": "Director"
       }
     ]
   },
   "videos": {
     "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1600,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/n1ZvRVOuEwxrjUuyaotHSa4w48x.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1066
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt0265495",
@@ -246,22 +262,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.666,
-        "height": 1600,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/n1ZvRVOuEwxrjUuyaotHSa4w48x.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1066
       }
     ]
   },

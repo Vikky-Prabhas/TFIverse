@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bharatasimha Reddy",
   "overview": "Raja resents his father.",
-  "popularity": 0.0988,
+  "popularity": 1.4431,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.2812,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 2,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Meena",
         "original_name": "Meena",
-        "popularity": 4.6926,
+        "popularity": 2.76,
         "profile_path": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
         "cast_id": 3,
         "character": "",
@@ -73,13 +73,16 @@
         "known_for_department": "Directing",
         "name": "Surya Prakash",
         "original_name": "Surya Prakash",
-        "popularity": 0.0503,
+        "popularity": 0.6643,
         "profile_path": null,
         "credit_id": "69015fa1a499efe7d82006b9",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -100,7 +103,7 @@
   },
   "external_ids": {
     "imdb_id": "tt1579747",
-    "wikidata_id": null,
+    "wikidata_id": "Q101245158",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -108,15 +111,12 @@
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

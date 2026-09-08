@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Ee Varsham Sakshiga",
   "overview": "Varun Sandesh (Jai) is an innocent young man who always gets cheated by girls. One fine day, he meets Mahalakshmi(Haripriya) in a train and falls for her during the course of the journey.",
-  "popularity": 0.1497,
+  "popularity": 1.335,
   "poster_path": "/5bZ67Kls4tmjcJmcE5ncScfZ6pu.jpg",
   "production_companies": [],
   "production_countries": [
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sandesh",
         "original_name": "Varun Sandesh",
-        "popularity": 0.232,
+        "popularity": 0.5926,
         "profile_path": "/ivdqRWq1L2olXJtWjSajnkXhYGc.jpg",
         "cast_id": 0,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Hariprriya",
         "original_name": "Hariprriya",
-        "popularity": 0.3833,
+        "popularity": 0.5902,
         "profile_path": "/dCTxo6k27da4CXvQjp2IBZiWi2S.jpg",
         "cast_id": 1,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 2,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Nalla Venu",
         "original_name": "Nalla Venu",
-        "popularity": 0.0071,
+        "popularity": 0.3301,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Writing",
         "name": "Rajendra Bharadwaj",
         "original_name": "Rajendra Bharadwaj",
-        "popularity": 0.0832,
+        "popularity": 0.6625,
         "profile_path": "/sLdAtH5ywg5TpyuM3OaZ7lzZUS0.jpg",
         "credit_id": "640252fc9f1be7008ebef67b",
         "department": "Writing",
@@ -133,37 +133,11 @@
         "known_for_department": "Directing",
         "name": "Ramana Mogili",
         "original_name": "Ramana Mogili",
-        "popularity": 0.0891,
+        "popularity": 0.5571,
         "profile_path": null,
         "credit_id": "5b806bf39251416c8201782d",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8894160",
-    "wikidata_id": "Q77906034",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "EE Varsham Sakshiga - Trailer",
-        "key": "HVe4nfoqE_I",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "5bcf915392514172dc01cb3f",
-        "published_at": "2017-11-07T05:47:12.000Z"
       }
     ]
   },
@@ -186,6 +160,32 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "EE Varsham Sakshiga - Trailer",
+        "key": "HVe4nfoqE_I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5bcf915392514172dc01cb3f",
+        "published_at": "2017-11-07T05:47:12.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt8894160",
+    "wikidata_id": "Q77906034",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],

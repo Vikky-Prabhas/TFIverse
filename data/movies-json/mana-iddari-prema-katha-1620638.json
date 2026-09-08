@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mana Iddari Prema Katha",
   "overview": "Mana Iddari Prema Katha is an intense love story of two souls who feel destined for each other. Through real-life struggles, emotional highs and painful lows, their hearts collide, connect, and fight to stay together against all odds.",
-  "popularity": 0.0538,
+  "popularity": 0.4066,
   "poster_path": "/gR1rhIgQ373NtWDbYHVut1HFQqo.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,29 +43,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 16+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-04-25T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -94,8 +73,26 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-04-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt36363838",
@@ -103,6 +100,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "alternative_titles": {
     "titles": []

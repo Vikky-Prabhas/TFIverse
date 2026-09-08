@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Summer breeze",
   "overview": "In a city built on imbalance, a rich man and a delivery boy meet just for a moment - that moment reveals a deeper truth about class and capitalism.",
-  "popularity": 0.0218,
+  "popularity": 0.5738,
   "poster_path": "/eUy7ZtJ6JCzXHPTQZjjJfVzP6OJ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "vivek kuppili",
         "original_name": "vivek kuppili",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "cast_id": 1,
         "character": "delivery boy",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "charan pallerla",
         "original_name": "charan pallerla",
-        "popularity": 0.0143,
+        "popularity": 0.2787,
         "profile_path": null,
         "cast_id": 2,
         "character": "the other guy",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "bhargava",
         "original_name": "bhargava",
-        "popularity": 0.0143,
+        "popularity": 0.2945,
         "profile_path": null,
         "cast_id": 6,
         "character": "customer",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "the city",
         "original_name": "the city",
-        "popularity": 0.0214,
+        "popularity": 0.2617,
         "profile_path": null,
         "cast_id": 7,
         "character": "location",
@@ -111,7 +114,7 @@
         "known_for_department": "Camera",
         "name": "sathwik yarlagadda",
         "original_name": "sathwik yarlagadda",
-        "popularity": 0,
+        "popularity": 0.2735,
         "profile_path": null,
         "credit_id": "6885b631a9c1f6893e38f92c",
         "department": "Camera",
@@ -124,7 +127,7 @@
         "known_for_department": "Directing",
         "name": "Sirish meethal",
         "original_name": "Sirish meethal",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6885bd6e8b3b81d371246a06",
         "department": "Directing",
@@ -137,7 +140,7 @@
         "known_for_department": "Directing",
         "name": "Sirish meethal",
         "original_name": "Sirish meethal",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6885dde080971a73a352afbd",
         "department": "Writing",
@@ -157,6 +160,26 @@
       {
         "id": 11479,
         "name": "social commentary"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "youtube ",
+            "release_date": "2025-07-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   },
@@ -184,29 +207,6 @@
         "vote_average": 3.334,
         "vote_count": 0,
         "width": 1024
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "youtube ",
-            "release_date": "2025-07-26T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   }

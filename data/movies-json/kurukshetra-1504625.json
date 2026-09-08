@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కురుక్షేత్ర",
   "overview": "Kurukshetra is a compelling Telugu short film that draws inspiration from the ancient Indian epic Mahabharata to explore themes of friendship, duty, and sacrifice in a modern context. The narrative unfolds around a character named Karna, who finds himself entangled in a complex conflict, reminiscent of the epic battle, where loyalty to a friend (Duryodhana) clashes with an underlying familial connection to an adversary (Arjuna). The film delves into a contemporary struggle, portraying how individuals are caught between their understanding of right and wrong, and the consequences of their choices. It culminates in a poignant reflection on selfishness as the root cause of conflict, both in ancient times and the present day, ultimately hinting at a new beginning where justice prevails through unity.",
-  "popularity": 0.1202,
+  "popularity": 0.5029,
   "poster_path": "/75GjMCCumZj0MfYYz2XK7Ah4nl4.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Kushal",
         "original_name": "Kushal",
-        "popularity": 0.0071,
+        "popularity": 0.2552,
         "profile_path": null,
         "cast_id": 3,
         "character": "Karna",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Mithra",
         "original_name": "Mithra",
-        "popularity": 0,
+        "popularity": 0.2625,
         "profile_path": null,
         "cast_id": 5,
         "character": "Arjun",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Pavan",
         "original_name": "Pavan",
-        "popularity": 0,
+        "popularity": 0.2584,
         "profile_path": null,
         "cast_id": 6,
         "character": "DD",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Swaroop",
         "original_name": "Swaroop",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 7,
         "character": "Shakuni",
@@ -115,7 +115,7 @@
         "known_for_department": "Camera",
         "name": "Veerendra Virothi",
         "original_name": "Veerendra Virothi",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": "/4QyD0FJ0DWOP0NZMABk3rH1DtB5.jpg",
         "credit_id": "685e4cbf1a96c102737b411f",
         "department": "Camera",
@@ -128,7 +128,7 @@
         "known_for_department": "Camera",
         "name": "Veerendra Virothi",
         "original_name": "Veerendra Virothi",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": "/4QyD0FJ0DWOP0NZMABk3rH1DtB5.jpg",
         "credit_id": "685e4d056eb15d6ac1915151",
         "department": "Writing",
@@ -141,7 +141,7 @@
         "known_for_department": "Camera",
         "name": "Veerendra Virothi",
         "original_name": "Veerendra Virothi",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": "/4QyD0FJ0DWOP0NZMABk3rH1DtB5.jpg",
         "credit_id": "685e4d201d3d3d52497ecdd6",
         "department": "Directing",
@@ -154,36 +154,13 @@
         "known_for_department": "Camera",
         "name": "Veerendra Virothi",
         "original_name": "Veerendra Virothi",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": "/4QyD0FJ0DWOP0NZMABk3rH1DtB5.jpg",
         "credit_id": "685e4d2e6826fb2dd8744b89",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Kurukshetra - Independent Telugu Short Film | ZBP | Veerendra | Kushal | Mithra |",
-        "key": "SvH2LfT7ujs",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Featurette",
-        "official": false,
-        "id": "685e4e2afa5639a97c7b42cb",
-        "published_at": "2024-06-11T08:19:37.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -202,6 +179,13 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "keywords": {
     "keywords": [
       {
@@ -211,6 +195,31 @@
       {
         "id": 354283,
         "name": "kurukshetra the beginning"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kurukshetra The Beginning",
+        "type": ""
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kurukshetra - Independent Telugu Short Film | ZBP | Veerendra | Kushal | Mithra |",
+        "key": "SvH2LfT7ujs",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": false,
+        "id": "685e4e2afa5639a97c7b42cb",
+        "published_at": "2024-06-11T08:19:37.000Z"
       }
     ]
   },
@@ -248,15 +257,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1131
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kurukshetra The Beginning",
-        "type": ""
       }
     ]
   }

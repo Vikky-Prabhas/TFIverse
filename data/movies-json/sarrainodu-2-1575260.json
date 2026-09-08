@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "సరైనోడు 2",
   "overview": "Sequel to 2016 movie 'Sarrainodu'",
-  "popularity": 0.0311,
+  "popularity": 0.4041,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -39,12 +39,18 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": []
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -53,18 +59,12 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

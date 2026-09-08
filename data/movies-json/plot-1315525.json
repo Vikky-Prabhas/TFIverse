@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Plot",
   "overview": "A failed businessman finally taste success in real estate.This turns into an obsession and now he would go to any extent to do business and not fail. He finds out truth about himself when he thrives to find the anonymous person who is threating him to stop his successful business.",
-  "popularity": 0.1824,
+  "popularity": 1.2559,
   "poster_path": "/50qi1xraVUH8yD7olIjy5XzujBc.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Vikas Muppala",
         "original_name": "Vikas Muppala",
-        "popularity": 0.0168,
+        "popularity": 0.7065,
         "profile_path": null,
         "cast_id": 2,
         "character": "Rahul",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Gayatri Gupta",
         "original_name": "Gayatri Gupta",
-        "popularity": 0.095,
+        "popularity": 0.4416,
         "profile_path": "/aJlbNUzixI72ENmVQ1RSzLe2FTF.jpg",
         "cast_id": 1,
         "character": "Deepa",
@@ -79,6 +79,31 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-11-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-07-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -115,31 +140,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-11-03T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "U/A 16+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-07-11T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   },

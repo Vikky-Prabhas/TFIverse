@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "వర్గో",
   "overview": "It captures both the conflict (toxic plant vs addiction) and the central emotional force (maternal love).",
-  "popularity": 0.0071,
+  "popularity": 0.6197,
   "poster_path": "/2zwpbJ47egc1oUVimctSuXDzkZW.jpg",
   "production_companies": [
     {
@@ -54,6 +54,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt38974108",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -63,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Vijay kumar Thalluri",
         "original_name": "Vijay kumar Thalluri",
-        "popularity": 0,
+        "popularity": 0.2589,
         "profile_path": null,
         "cast_id": 1,
         "character": "Vrishank",
@@ -77,7 +84,7 @@
         "known_for_department": "Directing",
         "name": "Rudra Jakka",
         "original_name": "RudraJakka",
-        "popularity": 0.0071,
+        "popularity": 0.2695,
         "profile_path": null,
         "cast_id": 2,
         "character": "Sadasiv",
@@ -91,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Jahnavi Reddy",
         "original_name": "Jahnavi Reddy",
-        "popularity": 0.0218,
+        "popularity": 0.2751,
         "profile_path": null,
         "cast_id": 20,
         "character": "Parvathi",
@@ -107,7 +114,7 @@
         "known_for_department": "Directing",
         "name": "Rudra Jakka",
         "original_name": "RudraJakka",
-        "popularity": 0.0071,
+        "popularity": 0.2695,
         "profile_path": null,
         "credit_id": "68c24cf3ad9314daf68d006b",
         "department": "Directing",
@@ -120,7 +127,7 @@
         "known_for_department": "Directing",
         "name": "G. Naveen Reddy",
         "original_name": "G. Naveen Reddy",
-        "popularity": 0.0214,
+        "popularity": 0.2979,
         "profile_path": null,
         "credit_id": "68c24d0df71a6264ec1bdce6",
         "department": "Production",
@@ -133,7 +140,7 @@
         "known_for_department": "Writing",
         "name": "Jyothsna Sri.A",
         "original_name": "Jyothsna Sri.A",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "68c24d2a9dbd8458a28d08bf",
         "department": "Writing",
@@ -146,7 +153,7 @@
         "known_for_department": "Sound",
         "name": "Rishi.M",
         "original_name": "Rishi.M",
-        "popularity": 0,
+        "popularity": 0.3202,
         "profile_path": null,
         "credit_id": "68c24d4187818c0f4806b171",
         "department": "Sound",
@@ -159,7 +166,7 @@
         "known_for_department": "Editing",
         "name": "Vajrang.M",
         "original_name": "Vajrang.M",
-        "popularity": 0,
+        "popularity": 0.2742,
         "profile_path": null,
         "credit_id": "68c24d537adab25efd9bda28",
         "department": "Editing",
@@ -172,7 +179,7 @@
         "known_for_department": "Crew",
         "name": "Uday Veeru",
         "original_name": "Uday Veeru",
-        "popularity": 0,
+        "popularity": 0.3471,
         "profile_path": null,
         "credit_id": "68c24d6b0e912a38e606b2e2",
         "department": "Crew",
@@ -185,7 +192,7 @@
         "known_for_department": "Writing",
         "name": "Srivalli Makkapati",
         "original_name": "Srivalli Makkapati",
-        "popularity": 0,
+        "popularity": 0.3223,
         "profile_path": null,
         "credit_id": "68c24e1c34f75d1e3e98d1ff",
         "department": "Writing",
@@ -198,7 +205,7 @@
         "known_for_department": "Art",
         "name": "Prabhath Koushik",
         "original_name": "Prabhath Koushik",
-        "popularity": 0,
+        "popularity": 0.3033,
         "profile_path": null,
         "credit_id": "68c2509544cde0e5841f6577",
         "department": "Art",
@@ -211,7 +218,7 @@
         "known_for_department": "Art",
         "name": "Sanjana Kanchala",
         "original_name": "Sanjana Kanchala",
-        "popularity": 0,
+        "popularity": 0.2726,
         "profile_path": null,
         "credit_id": "68c250a9b5e9c25e5798cddf",
         "department": "Art",
@@ -224,7 +231,7 @@
         "known_for_department": "Editing",
         "name": "Mahadev",
         "original_name": "Mahadev",
-        "popularity": 0,
+        "popularity": 0.2829,
         "profile_path": null,
         "credit_id": "68c250d6e1c80d1154948894",
         "department": "Editing",
@@ -237,7 +244,7 @@
         "known_for_department": "Crew",
         "name": "Koti Vivekananda",
         "original_name": "Koti Vivekananda",
-        "popularity": 0,
+        "popularity": 0.273,
         "profile_path": null,
         "credit_id": "68c250f8a72100a4704e714d",
         "department": "Crew",
@@ -250,7 +257,7 @@
         "known_for_department": "Directing",
         "name": "Adidamu PramodSai",
         "original_name": "Adidamu PramodSai",
-        "popularity": 0,
+        "popularity": 0.2726,
         "profile_path": null,
         "credit_id": "68c2541ed826c7d50906b1be",
         "department": "Directing",
@@ -263,7 +270,7 @@
         "known_for_department": "Writing",
         "name": "Chandra Shekar",
         "original_name": "Chandra Shekar",
-        "popularity": 0,
+        "popularity": 0.2995,
         "profile_path": null,
         "credit_id": "68c254ad7618bd35c11bdbed",
         "department": "Writing",
@@ -276,7 +283,7 @@
         "known_for_department": "Sound",
         "name": "Sudheshna",
         "original_name": "Sudheshna",
-        "popularity": 0,
+        "popularity": 0.276,
         "profile_path": null,
         "credit_id": "68c2550b450c5c74fd1bda0e",
         "department": "Sound",
@@ -289,7 +296,7 @@
         "known_for_department": "Crew",
         "name": "Jaya Chandra",
         "original_name": "Jaya Chandra",
-        "popularity": 0,
+        "popularity": 0.274,
         "profile_path": null,
         "credit_id": "68c255610502aac347948aaa",
         "department": "Crew",
@@ -302,7 +309,7 @@
         "known_for_department": "Directing",
         "name": "Yashwanth Kumar",
         "original_name": "Yashwanth Kumar",
-        "popularity": 0,
+        "popularity": 0.2735,
         "profile_path": null,
         "credit_id": "68c25683ba1293b3929bd8f4",
         "department": "Directing",
@@ -315,7 +322,7 @@
         "known_for_department": "Directing",
         "name": "Rajesh Cheekatla",
         "original_name": "Rajesh Cheekatla",
-        "popularity": 0,
+        "popularity": 0.2604,
         "profile_path": null,
         "credit_id": "697c1c6760cf99c6a7e39af8",
         "department": "Directing",
@@ -328,7 +335,7 @@
         "known_for_department": "Visual Effects",
         "name": "Swaroop.T",
         "original_name": "Swaroop.T",
-        "popularity": 0,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "697c1c88eac950950a59a07b",
         "department": "Visual Effects",
@@ -341,7 +348,7 @@
         "known_for_department": "Editing",
         "name": "Pavan Jonnalagadda",
         "original_name": "Pavan Jonnalagadda",
-        "popularity": 0,
+        "popularity": 0.2882,
         "profile_path": null,
         "credit_id": "697c1d0336b9d1a5231929fe",
         "department": "Editing",
@@ -354,7 +361,7 @@
         "known_for_department": "Directing",
         "name": "Srinikhil Reddy",
         "original_name": "Srinikhil Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2904,
         "profile_path": null,
         "credit_id": "69fa55d03ee088b7b272232b",
         "department": "Art",
@@ -362,12 +369,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt38974108",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": [
@@ -385,8 +388,14 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Virgo",
+        "type": "Telugu Demo Film"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -436,15 +445,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1080
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Virgo",
-        "type": "Telugu Demo Film"
       }
     ]
   }

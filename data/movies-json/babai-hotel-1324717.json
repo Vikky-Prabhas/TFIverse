@@ -16,9 +16,9 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Babai Hotel",
-  "overview": "Babai Hotel is a 1992 Telugu-language comedy drama film directed by Jandhyala and produced by K. S. Rama Rao under the banner Creative Commercials. The film stars Brahmanandam, Gundu Hanumantha Rao and Kinnera.[1] This movie was named based on Babai Hotel in Vijayawada.",
-  "popularity": 0.134,
+  "original_title": "బాబాయ్ హోటల్",
+  "overview": "",
+  "popularity": 1.272,
   "poster_path": "/v2p3AQ44qzdBV47biyOfnGLsdxS.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -47,8 +50,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1,
         "character": "Babai",
@@ -61,9 +64,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "66b45ef5962cfaffdce69ba0",
@@ -76,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Kinnera",
         "original_name": "Kinnera",
-        "popularity": 0.0379,
+        "popularity": 0.4585,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -90,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.4317,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 4,
         "character": "",
@@ -106,7 +109,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "66b45f3c3139e048328885ef",
         "department": "Directing",
@@ -119,7 +122,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "66b45f52842361f77b939f19",
         "department": "Writing",
@@ -132,7 +135,7 @@
         "known_for_department": "Production",
         "name": "K. S. Rama Rao",
         "original_name": "K. S. Rama Rao",
-        "popularity": 0.1296,
+        "popularity": 0.3025,
         "profile_path": null,
         "credit_id": "66b45f6e889b429316544390",
         "department": "Production",
@@ -183,6 +186,16 @@
     "logos": [],
     "posters": [
       {
+        "aspect_ratio": 0.671,
+        "height": 2981,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/v2p3AQ44qzdBV47biyOfnGLsdxS.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
         "aspect_ratio": 0.667,
         "height": 750,
         "iso_3166_1": "IN",
@@ -191,23 +204,10 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      },
-      {
-        "aspect_ratio": 0.671,
-        "height": 2981,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/v2p3AQ44qzdBV47biyOfnGLsdxS.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

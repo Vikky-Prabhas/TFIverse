@@ -9,8 +9,8 @@
       "name": "Action"
     },
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 36,
+      "name": "History"
     },
     {
       "id": 18,
@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "రౌద్రం రణం రుధిరం",
   "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-  "popularity": 8.1925,
+  "popularity": 11.3187,
   "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
   "production_companies": [
     {
@@ -56,14 +56,19 @@
       "english_name": "Telugu",
       "iso_639_1": "te",
       "name": "తెలుగు"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
     }
   ],
   "status": "Released",
-  "tagline": "Rise, Roar, Revolt.",
+  "tagline": "Rise, Roar, Revolt",
   "title": "RRR",
   "video": false,
-  "vote_average": 7.713,
-  "vote_count": 1580,
+  "vote_average": 7.714,
+  "vote_count": 1684,
   "credits": {
     "cast": [
       {
@@ -72,8 +77,8 @@
         "id": 148037,
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao Jr.",
-        "original_name": "N.T. Rama Rao Jr.",
-        "popularity": 3.1771,
+        "original_name": "జూనియర్ ఎన్టీఆర్",
+        "popularity": 3.0735,
         "profile_path": "/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg",
         "cast_id": 108,
         "character": "Komaram Bheem",
@@ -86,8 +91,8 @@
         "id": 147023,
         "known_for_department": "Acting",
         "name": "Ram Charan",
-        "original_name": "Ram Charan",
-        "popularity": 1.7401,
+        "original_name": "రామ్ చరణ్",
+        "popularity": 3.8247,
         "profile_path": "/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg",
         "cast_id": 107,
         "character": "Alluri Sitarama Raju",
@@ -101,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Olivia Morris",
         "original_name": "Olivia Morris",
-        "popularity": 0.6391,
+        "popularity": 1.4899,
         "profile_path": "/iAzUTXzFWwEkRx6Ygudqnx4DmtW.jpg",
         "cast_id": 26,
         "character": "Jennifer 'Jenny' Buxton",
@@ -115,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Ray Stevenson",
         "original_name": "Ray Stevenson",
-        "popularity": 2.16,
+        "popularity": 2.7967,
         "profile_path": "/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg",
         "cast_id": 25,
         "character": "Scott Buxton",
@@ -129,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Alison Doody",
         "original_name": "Alison Doody",
-        "popularity": 1.4018,
+        "popularity": 2.0917,
         "profile_path": "/q5CpMFAjLP40JHgwS6qWku6arSC.jpg",
         "cast_id": 24,
         "character": "Cassandra Buxton",
@@ -143,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Devgn",
         "original_name": "Ajay Devgan",
-        "popularity": 5.4976,
+        "popularity": 2.4,
         "profile_path": "/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
         "cast_id": 12,
         "character": "Alluri Venkatarama Raju",
@@ -156,9 +161,9 @@
         "id": 1108120,
         "known_for_department": "Acting",
         "name": "Alia Bhatt",
-        "original_name": "Alia Bhatt",
-        "popularity": 1.7475,
-        "profile_path": "/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg",
+        "original_name": "आलिया भट्ट",
+        "popularity": 3.3349,
+        "profile_path": "/lAgBZgHKTo6amIO9CfNxUbm1usH.jpg",
         "cast_id": 11,
         "character": "Sita",
         "credit_id": "5c8f454fc3a36861194ddbeb",
@@ -170,9 +175,9 @@
         "id": 585397,
         "known_for_department": "Acting",
         "name": "Samuthirakani",
-        "original_name": "Samuthirakani",
-        "popularity": 1.0704,
-        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
         "cast_id": 13,
         "character": "Alluri Venkateshwarulu",
         "credit_id": "5c96684dc3a368419a39083b",
@@ -185,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Twinkle Sharma",
         "original_name": "Twinkle Sharma",
-        "popularity": 0.1942,
+        "popularity": 0.4852,
         "profile_path": "/xYGDBO8uE6SK8n1wqUcrBBYMmrX.jpg",
         "cast_id": 68,
         "character": "Malli",
@@ -198,8 +203,8 @@
         "id": 145628,
         "known_for_department": "Acting",
         "name": "Shriya Saran",
-        "original_name": "Shriya Saran",
-        "popularity": 1.4249,
+        "original_name": "శ్రియా శరణ్",
+        "popularity": 3.4266,
         "profile_path": "/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg",
         "cast_id": 38,
         "character": "Alluri Sarojini",
@@ -213,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Chatrapathi Sekhar",
         "original_name": "Chatrapathi Sekhar",
-        "popularity": 0.2607,
+        "popularity": 1.1827,
         "profile_path": "/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg",
         "cast_id": 29,
         "character": "Jangu",
@@ -227,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "Makrand Deshpande",
         "original_name": "Makrand Deshpande",
-        "popularity": 1.07,
+        "popularity": 2.2918,
         "profile_path": "/aGA9mjohVWWTeTmutXikSSCYq9x.jpg",
         "cast_id": 50,
         "character": "Peddanna",
@@ -241,7 +246,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ramakrishna",
         "original_name": "Rahul Ramakrishna",
-        "popularity": 0.2196,
+        "popularity": 1.4709,
         "profile_path": "/jsRbEXcUgR8zniBb3UTGOqrtxV9.jpg",
         "cast_id": 23,
         "character": "Lacchu",
@@ -255,7 +260,7 @@
         "known_for_department": "Acting",
         "name": "Varun Buddhadev",
         "original_name": "Varun Buddhadev",
-        "popularity": 0.192,
+        "popularity": 0.4135,
         "profile_path": "/u5TGHF81UZwCBuDrv7D3x3DPYuC.jpg",
         "cast_id": 75,
         "character": "Young Alluri Sitarama Raju",
@@ -269,7 +274,7 @@
         "known_for_department": "Acting",
         "name": "Edward Sonnenblick",
         "original_name": "Edward Sonnenblick",
-        "popularity": 0.1719,
+        "popularity": 0.5864,
         "profile_path": "/8RAG0dhQp1L50zMpP0sh1rLP3tf.jpg",
         "cast_id": 22,
         "character": "Edwards",
@@ -283,7 +288,7 @@
         "known_for_department": "Acting",
         "name": "Ahmareen Anjum",
         "original_name": "Ahmareen Anjum",
-        "popularity": 0.0723,
+        "popularity": 0.5127,
         "profile_path": "/2tz69L0ECPKJl0eWDV6ABJHYjss.jpg",
         "cast_id": 67,
         "character": "Loki",
@@ -295,9 +300,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 59,
         "character": "Venkat Avdhani",
@@ -311,7 +316,7 @@
         "known_for_department": "Acting",
         "name": "Spandan Chaturvedi",
         "original_name": "Spandan Chaturvedi",
-        "popularity": 0.044,
+        "popularity": 0.3969,
         "profile_path": "/sIJhkRxV6RaGEBJyNnnQ9XJI5oF.jpg",
         "cast_id": 28,
         "character": "Young Sita",
@@ -325,7 +330,7 @@
         "known_for_department": "Acting",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.0647,
+        "popularity": 0.284,
         "profile_path": null,
         "cast_id": 103,
         "character": "Chinna",
@@ -339,7 +344,7 @@
         "known_for_department": "Acting",
         "name": "Mark Bennington",
         "original_name": "Mark Bennington",
-        "popularity": 0.5946,
+        "popularity": 1.1017,
         "profile_path": "/kr1Nv0Q2cZEO4wVRFrUzdoXtM01.jpg",
         "cast_id": 64,
         "character": "Cunningham",
@@ -353,7 +358,7 @@
         "known_for_department": "Acting",
         "name": "R. Bhakti Klein",
         "original_name": "R. Bhakti Klein",
-        "popularity": 0.2237,
+        "popularity": 0.4818,
         "profile_path": "/c3CJO2csOB8dmP5YzsfwwHBvJlo.jpg",
         "cast_id": 20,
         "character": "DSP Philip Green",
@@ -367,7 +372,7 @@
         "known_for_department": "Acting",
         "name": "Alexx O'Nell",
         "original_name": "Alexx O'Nell",
-        "popularity": 0.3891,
+        "popularity": 0.6024,
         "profile_path": "/bHMSI8fDQpVMjbdzu2trX6T9bgm.jpg",
         "cast_id": 69,
         "character": "British officer",
@@ -381,7 +386,7 @@
         "known_for_department": "Acting",
         "name": "Gaurav Pareek",
         "original_name": "Gaurav Pareek",
-        "popularity": 0.0214,
+        "popularity": 0.2674,
         "profile_path": null,
         "cast_id": 65,
         "character": "Guri",
@@ -395,7 +400,7 @@
         "known_for_department": "Acting",
         "name": "Kirron Arya",
         "original_name": "Kirron Arya",
-        "popularity": 0.051,
+        "popularity": 0.2712,
         "profile_path": null,
         "cast_id": 77,
         "character": "Bheem's Supporter",
@@ -409,7 +414,7 @@
         "known_for_department": "Acting",
         "name": "Akash Boro",
         "original_name": "Akash Boro",
-        "popularity": 0.0952,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 78,
         "character": "Rama",
@@ -423,7 +428,7 @@
         "known_for_department": "Acting",
         "name": "Eduard Buhac",
         "original_name": "Eduard Buhac",
-        "popularity": 0.0473,
+        "popularity": 0.4733,
         "profile_path": "/crQprMoM2mKGYbQ9GLZlJ4a153l.jpg",
         "cast_id": 79,
         "character": "Jake",
@@ -437,7 +442,7 @@
         "known_for_department": "Acting",
         "name": "Oleh Karpenko",
         "original_name": "Oleh Karpenko",
-        "popularity": 0.1107,
+        "popularity": 0.6322,
         "profile_path": "/lADLT65a6YaGbIfPrn8JjeY47Qz.jpg",
         "cast_id": 81,
         "character": "Officer Harry",
@@ -451,7 +456,7 @@
         "known_for_department": "Acting",
         "name": "Ivan Kostadinov",
         "original_name": "Ivan Kostadinov",
-        "popularity": 0.3614,
+        "popularity": 0.5304,
         "profile_path": "/88aNcosMQq8ngiir8kz0Q0nYmH5.jpg",
         "cast_id": 82,
         "character": "British Army Soldier",
@@ -465,7 +470,7 @@
         "known_for_department": "Acting",
         "name": "Jason Yeboa",
         "original_name": "Jason Yeboa",
-        "popularity": 0.0495,
+        "popularity": 0.2898,
         "profile_path": null,
         "cast_id": 96,
         "character": "Drummer",
@@ -479,7 +484,7 @@
         "known_for_department": "Sound",
         "name": "Vedala Hemachandra",
         "original_name": "Vedala Hemachandra",
-        "popularity": 0.0744,
+        "popularity": 0.3238,
         "profile_path": null,
         "cast_id": 106,
         "character": "Alluri Venkatarama Raju (Voice)",
@@ -492,9 +497,9 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.2185,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "cast_id": 74,
         "character": "Special Appearance in the song  \"Etthara Jenda\" (uncredited)",
         "credit_id": "625c2adf3dd12600681b0327",
@@ -509,7 +514,7 @@
         "known_for_department": "Production",
         "name": "Ravi Ahuja",
         "original_name": "Ravi Ahuja",
-        "popularity": 0.0504,
+        "popularity": 0.3282,
         "profile_path": null,
         "credit_id": "60719d837776f000580d97aa",
         "department": "Production",
@@ -517,13 +522,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1606118,
         "known_for_department": "Visual Effects",
         "name": "V. Srinivas Mohan",
         "original_name": "V. Srinivas Mohan",
-        "popularity": 0.1599,
-        "profile_path": null,
+        "popularity": 0.3028,
+        "profile_path": "/8bTun5Am1UGV9kD9bXLvBR7uAZn.jpg",
         "credit_id": "6230656663aad20044dcaa1a",
         "department": "Visual Effects",
         "job": "VFX Supervisor"
@@ -535,7 +540,7 @@
         "known_for_department": "Sound",
         "name": "Harika Narayan",
         "original_name": "Harika Narayan",
-        "popularity": 0.0897,
+        "popularity": 0.2919,
         "profile_path": null,
         "credit_id": "6230651c23a314001bad292a",
         "department": "Sound",
@@ -548,7 +553,7 @@
         "known_for_department": "Writing",
         "name": "Charu Hariharan",
         "original_name": "Charu Hariharan",
-        "popularity": 0.0261,
+        "popularity": 0.2647,
         "profile_path": null,
         "credit_id": "62470a2b66f2d2004e038ac4",
         "department": "Sound",
@@ -561,7 +566,7 @@
         "known_for_department": "Sound",
         "name": "Chandana Bala Kalyan",
         "original_name": "Chandana Bala Kalyan",
-        "popularity": 0.0143,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "62470a203396b9009681904e",
         "department": "Sound",
@@ -574,7 +579,7 @@
         "known_for_department": "Sound",
         "name": "Anirudh Ravichander",
         "original_name": "அனிருத் ரவிச்சந்திரன்",
-        "popularity": 0.7287,
+        "popularity": 1.0746,
         "profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
         "credit_id": "64dd8f40b77d4b114347c09c",
         "department": "Sound",
@@ -587,7 +592,7 @@
         "known_for_department": "Sound",
         "name": "Amit Trivedi",
         "original_name": "Amit Trivedi",
-        "popularity": 0.2139,
+        "popularity": 0.6212,
         "profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
         "credit_id": "64dd8f5759e8a900e2289b61",
         "department": "Sound",
@@ -595,12 +600,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1606145,
         "known_for_department": "Costume & Make-Up",
         "name": "Rama Rajamouli",
         "original_name": "Rama Rajamouli",
-        "popularity": 0.1478,
+        "popularity": 0.3836,
         "profile_path": null,
         "credit_id": "61051075f706de007e93ee6b",
         "department": "Costume & Make-Up",
@@ -613,7 +618,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Nikolai Kirilov",
         "original_name": "Nikolai Kirilov",
-        "popularity": 0.1108,
+        "popularity": 0.3808,
         "profile_path": null,
         "credit_id": "61051067a76ac5005c12e22d",
         "department": "Art",
@@ -626,7 +631,7 @@
         "known_for_department": "Writing",
         "name": "Sai Madhav Burra",
         "original_name": "Sai Madhav Burra",
-        "popularity": 0.1442,
+        "popularity": 0.5546,
         "profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
         "credit_id": "61050bb36517d6007ea7d5db",
         "department": "Writing",
@@ -639,7 +644,7 @@
         "known_for_department": "Art",
         "name": "Sabu Cyril",
         "original_name": "Sabu Cyril",
-        "popularity": 0.2064,
+        "popularity": 0.9635,
         "profile_path": "/4FzYjsNuVLPju10WDcVTlZf0EVn.jpg",
         "credit_id": "61051036ee43e800479304cd",
         "department": "Art",
@@ -652,7 +657,7 @@
         "known_for_department": "Production",
         "name": "Denitza Daverova",
         "original_name": "Denitza Daverova",
-        "popularity": 0.1268,
+        "popularity": 0.3135,
         "profile_path": null,
         "credit_id": "61051084ee43e8005e37ac4f",
         "department": "Production",
@@ -665,7 +670,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "61123bca97fdec004639077b",
         "department": "Writing",
@@ -678,7 +683,7 @@
         "known_for_department": "Visual Effects",
         "name": "Mahesh Ganguly S",
         "original_name": "Mahesh Ganguly S",
-        "popularity": 0.2638,
+        "popularity": 0.3119,
         "profile_path": null,
         "credit_id": "630b6273ca7ec6007efd80aa",
         "department": "Visual Effects",
@@ -691,7 +696,7 @@
         "known_for_department": "Sound",
         "name": "Vishal Mishra",
         "original_name": "Vishal Mishra",
-        "popularity": 0.1904,
+        "popularity": 0.5863,
         "profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
         "credit_id": "618bc8f01cfe3a00618cc044",
         "department": "Sound",
@@ -704,7 +709,7 @@
         "known_for_department": "Writing",
         "name": "Chandrabose",
         "original_name": "Chandrabose",
-        "popularity": 0.1385,
+        "popularity": 1.0259,
         "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
         "credit_id": "618bc971cf62cd00617608e4",
         "department": "Writing",
@@ -717,7 +722,7 @@
         "known_for_department": "Sound",
         "name": "Rahul Sipligunj",
         "original_name": "Rahul Sipligunj",
-        "popularity": 0.2726,
+        "popularity": 0.4484,
         "profile_path": "/hbEDJZ46z3vAmKBMTycffSOaG9g.jpg",
         "credit_id": "618bc8fce93e95002b491967",
         "department": "Sound",
@@ -730,7 +735,7 @@
         "known_for_department": "Sound",
         "name": "Kaala Bhairava",
         "original_name": "Kaala Bhairava",
-        "popularity": 0.0832,
+        "popularity": 0.4295,
         "profile_path": null,
         "credit_id": "618bc94766a7c300217b8083",
         "department": "Sound",
@@ -743,7 +748,7 @@
         "known_for_department": "Crew",
         "name": "Prem Rakshith",
         "original_name": "Prem Rakshith",
-        "popularity": 0.227,
+        "popularity": 0.4079,
         "profile_path": null,
         "credit_id": "618ca2a62cde98004254f5b4",
         "department": "Crew",
@@ -756,7 +761,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Srinu Nalla",
         "original_name": "Srinu Nalla",
-        "popularity": 0.0071,
+        "popularity": 0.2979,
         "profile_path": null,
         "credit_id": "638165e5a410c800848236e1",
         "department": "Costume & Make-Up",
@@ -769,7 +774,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Senapathi Naidu",
         "original_name": "Senapathi Naidu",
-        "popularity": 0.0286,
+        "popularity": 0.3858,
         "profile_path": null,
         "credit_id": "638165daa4af8f008661d300",
         "department": "Costume & Make-Up",
@@ -782,7 +787,7 @@
         "known_for_department": "Sound",
         "name": "Ashwin Rajashekar",
         "original_name": "Ashwin Rajashekar",
-        "popularity": 0.0538,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "638165f60cd32a00ca3162e4",
         "department": "Sound",
@@ -795,7 +800,7 @@
         "known_for_department": "Sound",
         "name": "Raghunath Kamisetty",
         "original_name": "Raghunath Kamisetty",
-        "popularity": 0.1259,
+        "popularity": 0.3425,
         "profile_path": null,
         "credit_id": "63816602b3316b0096b311d2",
         "department": "Sound",
@@ -808,7 +813,7 @@
         "known_for_department": "Sound",
         "name": "Prudhvi Chandra",
         "original_name": "Prudhvi Chandra",
-        "popularity": 0.0214,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "638e23c2596a91007c86e6c5",
         "department": "Sound",
@@ -821,7 +826,7 @@
         "known_for_department": "Writing",
         "name": "K. Shiva Dutta",
         "original_name": "K. Shiva Dutta",
-        "popularity": 0.0585,
+        "popularity": 0.2825,
         "profile_path": null,
         "credit_id": "638e2165596a910096bd35a7",
         "department": "Writing",
@@ -834,7 +839,7 @@
         "known_for_department": "Writing",
         "name": "Ramajogayya Sastry",
         "original_name": "Ramajogayya Sastry",
-        "popularity": 0.1451,
+        "popularity": 0.4366,
         "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
         "credit_id": "638e21789ae6130094aef49b",
         "department": "Writing",
@@ -847,7 +852,7 @@
         "known_for_department": "Sound",
         "name": "Prakruthi Reddy",
         "original_name": "Prakruthi Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "638e23d2bd990c008677f21b",
         "department": "Sound",
@@ -860,7 +865,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "638e220fd75bd600c10f1254",
         "department": "Sound",
@@ -873,7 +878,7 @@
         "known_for_department": "Sound",
         "name": "Sahithi Galidevara",
         "original_name": "Sahithi Galidevara",
-        "popularity": 0.0239,
+        "popularity": 0.3079,
         "profile_path": null,
         "credit_id": "638e245cd75bd600c10f1359",
         "department": "Sound",
@@ -886,7 +891,7 @@
         "known_for_department": "Writing",
         "name": "Suddala Ashok Teja",
         "original_name": "Suddala Ashok Teja",
-        "popularity": 0.0437,
+        "popularity": 0.3209,
         "profile_path": null,
         "credit_id": "638e1e819ae613007ed921d8",
         "department": "Writing",
@@ -899,7 +904,7 @@
         "known_for_department": "Sound",
         "name": "Vijay Prakash",
         "original_name": "Vijay Prakash",
-        "popularity": 0.2167,
+        "popularity": 0.667,
         "profile_path": "/7y8kA6X5l2b8HsNkKlEuCvRXfq.jpg",
         "credit_id": "638e21d09ae613009fd3705c",
         "department": "Sound",
@@ -912,7 +917,7 @@
         "known_for_department": "Sound",
         "name": "Vedala Hemachandra",
         "original_name": "Vedala Hemachandra",
-        "popularity": 0.0744,
+        "popularity": 0.3238,
         "profile_path": null,
         "credit_id": "638e21ee6f97460078fea2c0",
         "department": "Sound",
@@ -925,7 +930,7 @@
         "known_for_department": "Sound",
         "name": "Rahul Karpe",
         "original_name": "Rahul Karpe",
-        "popularity": 0.0908,
+        "popularity": 0.2909,
         "profile_path": null,
         "credit_id": "63ee43c48e87020086422f8e",
         "department": "Sound",
@@ -938,7 +943,7 @@
         "known_for_department": "Art",
         "name": "Priyanka Shivhare",
         "original_name": "Priyanka Shivhare",
-        "popularity": 0.0239,
+        "popularity": 0.2575,
         "profile_path": null,
         "credit_id": "63ee43b8f925320079ca4509",
         "department": "Art",
@@ -951,7 +956,7 @@
         "known_for_department": "Art",
         "name": "Anil Jadhav",
         "original_name": "Anil Jadhav",
-        "popularity": 0.0338,
+        "popularity": 0.2698,
         "profile_path": null,
         "credit_id": "63ee438c1f3e6000a1c69064",
         "department": "Art",
@@ -964,7 +969,7 @@
         "known_for_department": "Crew",
         "name": "Peter Krumov",
         "original_name": "Peter Krumov",
-        "popularity": 0.3228,
+        "popularity": 0.3841,
         "profile_path": null,
         "credit_id": "63ee439a1b729400e6f1fae3",
         "department": "Art",
@@ -972,12 +977,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2162375,
         "known_for_department": "Crew",
         "name": "King Solomon",
         "original_name": "King Solomon",
-        "popularity": 0.1611,
+        "popularity": 0.3576,
         "profile_path": null,
         "credit_id": "64a2c1d511386c00adc7975b",
         "department": "Crew",
@@ -989,9 +994,9 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.2185,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "5c57c7d49251415e34691c90",
         "department": "Directing",
         "job": "Director"
@@ -1002,8 +1007,8 @@
         "id": 147022,
         "known_for_department": "Writing",
         "name": "Vijayendra Prasad",
-        "original_name": "Vijayendra Prasad",
-        "popularity": 0.3293,
+        "original_name": "వి. విజయేంద్ర ప్రసాద్",
+        "popularity": 2.1807,
         "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
         "credit_id": "5c57c80192514135b050e18f",
         "department": "Writing",
@@ -1016,7 +1021,7 @@
         "known_for_department": "Camera",
         "name": "K.K. Senthil Kumar",
         "original_name": "K.K. Senthil Kumar",
-        "popularity": 0.0912,
+        "popularity": 0.314,
         "profile_path": "/q8OngLi4xFoWFnMG6zkM2lR5glJ.jpg",
         "credit_id": "5c57c82bc3a368478ca2561e",
         "department": "Camera",
@@ -1028,9 +1033,9 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.2185,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "5c57c7dec3a368478ca255bc",
         "department": "Writing",
         "job": "Screenplay"
@@ -1042,7 +1047,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "5c57c813c3a36826a685e606",
         "department": "Sound",
@@ -1055,7 +1060,7 @@
         "known_for_department": "Production",
         "name": "DVV Danayya",
         "original_name": "DVV Danayya",
-        "popularity": 0.2819,
+        "popularity": 0.3678,
         "profile_path": "/1M5FySUrRDmZTZgJNE7EcTK4sDQ.jpg",
         "credit_id": "5c57c7f10e0a263ccde4a24f",
         "department": "Production",
@@ -1068,7 +1073,7 @@
         "known_for_department": "Editing",
         "name": "Sreekar Prasad",
         "original_name": "Sreekar Prasad",
-        "popularity": 0.2848,
+        "popularity": 0.508,
         "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
         "credit_id": "5c57c839c3a3687199855be5",
         "department": "Editing",
@@ -1081,7 +1086,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "5e01139dd1a89300128c6806",
         "department": "Crew",
@@ -1094,7 +1099,7 @@
         "known_for_department": "Acting",
         "name": "Raicho Vasilev",
         "original_name": "Raicho Vasilev",
-        "popularity": 0.7854,
+        "popularity": 0.8655,
         "profile_path": "/fj5lqV9ayJeQg8z7KJmwW4PbHrl.jpg",
         "credit_id": "67ad1ca7b9b17924e2d0b0fd",
         "department": "Crew",
@@ -1107,7 +1112,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "68124e96430fd4095da0edc8",
         "department": "Sound",
@@ -1120,7 +1125,7 @@
         "known_for_department": "Visual Effects",
         "name": "Richard Little",
         "original_name": "Richard Little",
-        "popularity": 0.2677,
+        "popularity": 0.3862,
         "profile_path": null,
         "credit_id": "68e852ac774b421ec5aa17eb",
         "department": "Visual Effects",
@@ -1133,7 +1138,7 @@
         "known_for_department": "Writing",
         "name": "Mankombu Gopalakrishnan",
         "original_name": "Mankombu Gopalakrishnan",
-        "popularity": 0.0598,
+        "popularity": 0.5702,
         "profile_path": "/3Wds5asPwDdM0xrYj3AYnnmx6zz.jpg",
         "credit_id": "694a6731768ed4dfdd812a82",
         "department": "Writing",
@@ -1146,13 +1151,33 @@
         "known_for_department": "Writing",
         "name": "Mankombu Gopalakrishnan",
         "original_name": "Mankombu Gopalakrishnan",
-        "popularity": 0.0598,
+        "popularity": 0.5702,
         "profile_path": "/3Wds5asPwDdM0xrYj3AYnnmx6zz.jpg",
         "credit_id": "694a67a8b3405d0860073942",
         "department": "Writing",
         "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6200552,
+        "known_for_department": "Crew",
+        "name": "Igor Kutuzov",
+        "original_name": "Игорь Кутузов",
+        "popularity": 0.3855,
+        "profile_path": null,
+        "credit_id": "69febd2210afc0422563014f",
+        "department": "Crew",
+        "job": "Stunts"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt8178634",
+    "wikidata_id": "Q60424165",
+    "facebook_id": "",
+    "instagram_id": "rrrmovie",
+    "twitter_id": "RRRMovie"
   },
   "videos": {
     "results": [
@@ -1243,7 +1268,7 @@
       {
         "iso_639_1": "en",
         "iso_3166_1": "US",
-        "name": "RRR Glimpse - NTR, Ram Charan, Ajay Devgn, Alia Bhatt | SS Rajamouli | 7 Jan 2022",
+        "name": "Glimpse",
         "key": "Xsgz7Q0iWzA",
         "site": "YouTube",
         "size": 2160,
@@ -1255,7 +1280,7 @@
       {
         "iso_639_1": "en",
         "iso_3166_1": "US",
-        "name": "Ajay Devgn Motion Poster - RRR Movie | NTR, Ram Charan, Alia Bhatt | SS Rajamouli",
+        "name": "Ajay Devgn Motion Poster",
         "key": "7ApW3NUmUEo",
         "site": "YouTube",
         "size": 2160,
@@ -1267,7 +1292,7 @@
       {
         "iso_639_1": "en",
         "iso_3166_1": "US",
-        "name": "RRR Motion Poster - NTR, Ram Charan, Ajay Devgn, Alia Bhatt, Olivia Morris | SS Rajamouli",
+        "name": "Motion Poster",
         "key": "BwrZfGq1HlQ",
         "site": "YouTube",
         "size": 2160,
@@ -1277,13 +1302,6 @@
         "published_at": "2020-03-25T06:30:03.000Z"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8178634",
-    "wikidata_id": "Q60424165",
-    "facebook_id": "",
-    "instagram_id": "rrrmovie",
-    "twitter_id": "RRRMovie"
   },
   "keywords": {
     "keywords": [
@@ -1346,10 +1364,6 @@
       {
         "id": 273967,
         "name": "war"
-      },
-      {
-        "id": 325765,
-        "name": "amused"
       }
     ]
   },
@@ -1378,6 +1392,27 @@
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
             "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-05-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-05-24T00:00:00.000Z",
+            "type": 4
           }
         ]
       },
@@ -1453,15 +1488,47 @@
             "certification": "",
             "descriptors": [],
             "iso_639_1": "",
-            "note": "",
-            "release_date": "2022-03-25T00:00:00.000Z",
-            "type": 3
+            "note": "Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nuit S. S. Rajamouli, Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-12T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Soirée spéciale RRR, Club de l'Étoile, Paris",
+            "release_date": "2026-07-10T00:00:00.000Z",
+            "type": 2
           },
           {
             "certification": "",
             "descriptors": [],
             "iso_639_1": "",
             "note": "",
+            "release_date": "2022-03-25T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
             "release_date": "2026-07-29T00:00:00.000Z",
             "type": 3
           }
@@ -1481,12 +1548,46 @@
         ]
       },
       {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "cn",
+            "note": "",
+            "release_date": "2022-05-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Indian Film Festival Hungary ",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "ZEE5",
+            "release_date": "2022-05-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
         "iso_3166_1": "ID",
         "release_dates": [
           {
             "certification": "",
             "descriptors": [],
-            "iso_639_1": "",
+            "iso_639_1": "en",
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
             "type": 3
@@ -1525,7 +1626,7 @@
           {
             "certification": "UA",
             "descriptors": [],
-            "iso_639_1": "te",
+            "iso_639_1": "",
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
             "type": 3
@@ -1541,7 +1642,7 @@
           {
             "certification": "UA",
             "descriptors": [],
-            "iso_639_1": "te",
+            "iso_639_1": "",
             "note": "ZEE5",
             "release_date": "2022-05-20T00:00:00.000Z",
             "type": 4
@@ -1591,7 +1692,7 @@
             "iso_639_1": "",
             "note": "",
             "release_date": "2022-03-24T00:00:00.000Z",
-            "type": 2
+            "type": 4
           }
         ]
       },
@@ -1629,7 +1730,7 @@
             "descriptors": [],
             "iso_639_1": "",
             "note": "",
-            "release_date": "2022-03-31T00:00:00.000Z",
+            "release_date": "2025-09-12T00:00:00.000Z",
             "type": 3
           }
         ]
@@ -1666,7 +1767,20 @@
           {
             "certification": "NC16",
             "descriptors": [],
-            "iso_639_1": "",
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2022-03-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
             "type": 3
@@ -1679,10 +1793,10 @@
           {
             "certification": "18+",
             "descriptors": [],
-            "iso_639_1": "",
+            "iso_639_1": "tr",
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
-            "type": 3
+            "type": 4
           }
         ]
       },
@@ -1690,9 +1804,17 @@
         "iso_3166_1": "US",
         "release_dates": [
           {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IMAX version, Beyond Fest",
+            "release_date": "2022-03-30T00:00:00.000Z",
+            "type": 2
+          },
+          {
             "certification": "NR",
             "descriptors": [],
-            "iso_639_1": "te",
+            "iso_639_1": "",
             "note": "",
             "release_date": "2022-06-01T00:00:00.000Z",
             "type": 2
@@ -1708,22 +1830,6 @@
           {
             "certification": "",
             "descriptors": [],
-            "iso_639_1": "",
-            "note": "IMAX Chinese Theatre ",
-            "release_date": "2023-01-10T00:00:00.000Z",
-            "type": 2
-          },
-          {
-            "certification": "R",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2022-03-24T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "R",
-            "descriptors": [],
             "iso_639_1": "hi",
             "note": "Netflix",
             "release_date": "2022-05-20T00:00:00.000Z",
@@ -1737,7 +1843,7 @@
           {
             "certification": "16",
             "descriptors": [],
-            "iso_639_1": "",
+            "iso_639_1": "en",
             "note": "",
             "release_date": "2022-03-25T00:00:00.000Z",
             "type": 3
@@ -1746,13 +1852,132 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "#RRR",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Rajamouli Rama Rao Ram Charan",
+        "type": "expanded working title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Rise Roar Revolt",
+        "type": "Hindi Title / English Title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Raththam Ranam Rowthiram",
+        "type": "Tamil title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Roudra Rana Rudhira",
+        "type": "Kannada Title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Rudhiram Ranam Roudhram",
+        "type": "Malayalam title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Roudhram Ranam Rudhiram",
+        "type": "Telugu Title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "RRR - Roudram Ranam Rudhiram",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Triple R",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ரத்தம் ரணம் ரௌத்திரம்",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ರೌದ್ರ ರಣ ರುಧೀರ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "雙雄起義",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "RRR EncoRRRe",
+        "type": "re-release"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "RRR: Rise Roar Revolt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "双雄起义",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "RRR: Revolta, Rebelião, Revolução",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "EncoRRRe",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "RRR",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "R.R.R.",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "RRR",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "R.R.R.",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Roudram Ranam Rudhiram",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "آرآرآر",
+        "type": ""
+      }
+    ]
+  },
   "images": {
     "backdrops": [
       {
         "aspect_ratio": 1.778,
         "height": 1152,
-        "iso_3166_1": "IN",
-        "iso_639_1": "hi",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
         "vote_average": 8.596,
         "vote_count": 7,
@@ -1801,8 +2026,8 @@
       {
         "aspect_ratio": 1.777,
         "height": 1500,
-        "iso_3166_1": "CN",
-        "iso_639_1": "zh",
+        "iso_3166_1": null,
+        "iso_639_1": null,
         "file_path": "/ofIttvHjdsHpiCZOverIYlY6Wct.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
@@ -2111,8 +2336,8 @@
       {
         "aspect_ratio": 1.778,
         "height": 720,
-        "iso_3166_1": "IN",
-        "iso_639_1": "hi",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/dNyBXwTcQ3En959DZmi5vNW2PGp.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -2250,16 +2475,6 @@
       },
       {
         "aspect_ratio": 1.778,
-        "height": 1970,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/1b43JMuq53enN5tiBNxQuQpZBxz.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 3502
-      },
-      {
-        "aspect_ratio": 1.778,
         "height": 1987,
         "iso_3166_1": null,
         "iso_639_1": null,
@@ -2290,16 +2505,6 @@
       },
       {
         "aspect_ratio": 1.778,
-        "height": 1080,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/eGijw8p9yGzogoSOphIRWqPV802.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1920
-      },
-      {
-        "aspect_ratio": 1.778,
         "height": 2160,
         "iso_3166_1": null,
         "iso_639_1": null,
@@ -2321,8 +2526,8 @@
       {
         "aspect_ratio": 1.778,
         "height": 2160,
-        "iso_3166_1": "PI",
-        "iso_639_1": "pi",
+        "iso_3166_1": null,
+        "iso_639_1": null,
         "file_path": "/ctUZQeMoqH5mbCMdGI4wTGXhwYY.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -2361,8 +2566,8 @@
       {
         "aspect_ratio": 1.778,
         "height": 1080,
-        "iso_3166_1": "IN",
-        "iso_639_1": "hi",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/6nyQX1t79Tw1kAWqVhA07W63yyk.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -2558,8 +2763,8 @@
         "iso_3166_1": "US",
         "iso_639_1": "en",
         "file_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
-        "vote_average": 5.25,
-        "vote_count": 23,
+        "vote_average": 5.456,
+        "vote_count": 24,
         "width": 892
       },
       {
@@ -2633,16 +2838,6 @@
         "width": 1998
       },
       {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/82bRsKBE9qJAfkfqG0XeTIwoGuT.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1000
-      },
-      {
         "aspect_ratio": 0.75,
         "height": 1600,
         "iso_3166_1": "IL",
@@ -2651,6 +2846,16 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1200
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "file_path": "/aSns8tosuhWSMDwQN4e58EfBq8h.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
       },
       {
         "aspect_ratio": 0.708,
@@ -2665,6 +2870,16 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jqTW9bLbnRaviXj0Iu9lapWtXxb.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
         "iso_3166_1": "SA",
         "iso_639_1": "ar",
         "file_path": "/xFZqfF2nkIWjLuqjHZd73l33v0E.jpg",
@@ -2674,9 +2889,29 @@
       },
       {
         "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oBlrrmYMHNPWIRNSF6vcrw9rVRm.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/p1AR0NhwxKZmo7bvFopCxRoT7Mb.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 2703,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/sxI1qKDHZRAi2LPmJUPhQ2x1u07.jpg",
         "vote_average": 2.542,
         "vote_count": 4,
@@ -2695,8 +2930,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/hmDNYJkVdooSTNej2AnWV0nbH3q.jpg",
         "vote_average": 2.278,
         "vote_count": 3,
@@ -2741,6 +2976,16 @@
         "vote_average": 1.75,
         "vote_count": 2,
         "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/82bRsKBE9qJAfkfqG0XeTIwoGuT.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1000
       },
       {
         "aspect_ratio": 0.667,
@@ -2795,8 +3040,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1500,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/1YaR5XMPVbZ9LcsXQ7u2sOM5jWe.jpg",
         "vote_average": 0.166,
         "vote_count": 1,
@@ -2905,8 +3150,8 @@
       {
         "aspect_ratio": 0.666,
         "height": 1021,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "hi",
         "file_path": "/ghugC60y7YwaP7z8JcQpzCjpo8V.jpg",
         "vote_average": 0.166,
         "vote_count": 1,
@@ -2924,6 +3169,26 @@
       },
       {
         "aspect_ratio": 0.667,
+        "height": 1104,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bqNCtZev6cZz3DFTjtCkqQCzDzY.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 736
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1919,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/eSpUyi8PMwlpPpKiNv7pxV1whvk.jpg",
+        "vote_average": 0.166,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 945,
         "iso_3166_1": "SA",
         "iso_639_1": "ar",
@@ -2935,8 +3200,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1950,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/vlcMcVn3aSXjq8s2h7oefRDfRWv.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -2945,8 +3210,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1728,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/jbs7GkZ7LMJOLnXCCNQXdxpwA8W.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -2965,8 +3230,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1023,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/pxE9zaaue95CyhPhzfWji2zg4N1.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -3015,8 +3280,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1728,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/mgp4HLBxlBpmLtezwYSaa4BDpms.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -3044,38 +3309,8 @@
       },
       {
         "aspect_ratio": 0.667,
-        "height": 1134,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/wvG8PJkVnnSabMR9SQMQQwYlLmc.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 756
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1104,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/bqNCtZev6cZz3DFTjtCkqQCzDzY.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 736
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1919,
-        "iso_3166_1": "CN",
-        "iso_639_1": "zh",
-        "file_path": "/eSpUyi8PMwlpPpKiNv7pxV1whvk.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1280
-      },
-      {
-        "aspect_ratio": 0.667,
         "height": 1500,
-        "iso_3166_1": "PT",
+        "iso_3166_1": "BR",
         "iso_639_1": "pt",
         "file_path": "/eK4lWmaEMdBj9nkghRNmfvtRWbq.jpg",
         "vote_average": 0,
@@ -3095,32 +3330,12 @@
       {
         "aspect_ratio": 0.667,
         "height": 1500,
-        "iso_3166_1": "CN",
-        "iso_639_1": "zh",
-        "file_path": "/aSns8tosuhWSMDwQN4e58EfBq8h.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/vngZue85oV2HMvATEnWDrFYtSGf.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/jqTW9bLbnRaviXj0Iu9lapWtXxb.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       },
       {
         "aspect_ratio": 0.667,
@@ -3151,115 +3366,56 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 904
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "#RRR",
-        "type": "working title"
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Rajamouli Rama Rao Ram Charan",
-        "type": "expanded working title"
+        "aspect_ratio": 0.666,
+        "height": 1537,
+        "iso_3166_1": "IR",
+        "iso_639_1": "fa",
+        "file_path": "/oDu1oSKUZYh94Q6yfC2hUYDgvvz.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1023
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Rise Roar Revolt",
-        "type": "Hindi Title / English Title"
+        "aspect_ratio": 0.75,
+        "height": 1599,
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "file_path": "/ix5RuGFb69TC8czZOpcip3891FP.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Raththam Ranam Rowthiram",
-        "type": "Tamil title"
+        "aspect_ratio": 0.75,
+        "height": 1599,
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "file_path": "/uwBGbtVHWxYM1zB3m88VFqNSRx1.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Roudra Rana Rudhira",
-        "type": "Kannada Title"
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/2Bo83vZUyZNHE7xMTMQ30Pc7zX9.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Rudhiram Ranam Roudhram",
-        "type": "Malayalam title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Roudhram Ranam Rudhiram",
-        "type": "Telugu Title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "RRR - Roudram Ranam Rudhiram",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Triple R",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "ரத்தம் ரணம் ரௌத்திரம்",
-        "type": "Tamil"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "ರೌದ್ರ ರಣ ರುಧೀರ",
-        "type": "Kannada"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "രുധിരം രണം രൗദ്രം",
-        "type": "Malayalam"
-      },
-      {
+        "aspect_ratio": 0.714,
+        "height": 1400,
         "iso_3166_1": "CN",
-        "title": "雙雄起義",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "US",
-        "title": "RRR EncoRRRe",
-        "type": "re-release"
-      },
-      {
-        "iso_3166_1": "US",
-        "title": "RRR: Rise Roar Revolt",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "CN",
-        "title": "双雄起义",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "BR",
-        "title": "RRR: Revolta, Rebelião, Revolução",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "US",
-        "title": "EncoRRRe",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "CN",
-        "title": "RRR",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "GB",
-        "title": "R.R.R.",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "US",
-        "title": "RRR (Hindi)",
-        "type": ""
+        "iso_639_1": "zh",
+        "file_path": "/p72x0WZ9LFExCw32LmJbbZUhXKQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
       }
     ]
   }

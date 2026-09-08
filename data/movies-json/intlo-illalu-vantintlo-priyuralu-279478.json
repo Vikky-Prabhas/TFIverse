@@ -5,6 +5,10 @@
   "budget": 0,
   "genres": [
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 10751,
       "name": "Family"
     }
@@ -18,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఇంట్లో ఇల్లాలు వంటింట్లో ప్రియురాలు",
   "overview": "When Sriram learns that his wife, Seeta, cannot bear a child, he keeps it hidden from his father. However, he marries Manisha under dire circumstances during his trip to Nepal and soon learns that she is pregnant. They have a son and Seeta, after much reluctance, accepts Manisha as Sriram's wife.",
-  "popularity": 1.2178,
+  "popularity": 1.6093,
   "poster_path": "/zgIW99rx8O5qNozKTDhpo1Uf8UI.jpg",
   "production_companies": [
     {
@@ -34,7 +38,7 @@
       "name": "India"
     }
   ],
-  "release_date": "1996-05-23",
+  "release_date": "1996-05-22",
   "revenue": 0,
   "runtime": 147,
   "softcore": false,
@@ -49,8 +53,8 @@
   "tagline": "",
   "title": "Intlo Illalu Vantintlo Priyuralu",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 5,
+  "vote_average": 7.071,
+  "vote_count": 7,
   "credits": {
     "cast": [
       {
@@ -60,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "Sriram",
@@ -74,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.3989,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 4,
         "character": "Seeta",
@@ -88,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Vinita",
         "original_name": "Vinita",
-        "popularity": 0.2742,
+        "popularity": 2.1665,
         "profile_path": "/poWwxePVVbWThv6HOFF3czO38aK.jpg",
         "cast_id": 12,
         "character": "Manisha",
@@ -101,8 +105,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "Giri, Sriram's friend",
@@ -115,9 +119,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 7,
         "character": "Sriram's father",
         "credit_id": "53b17b6a0e0a26598c008579",
@@ -130,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Rao",
         "original_name": "Mallikarjuna Rao",
-        "popularity": 0.3268,
+        "popularity": 1.233,
         "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
         "cast_id": 8,
         "character": "Eerinayudu, Telugu worker in Nepal",
@@ -144,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.427,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 9,
         "character": "Manager of Sriram's company branch in Nepal",
@@ -158,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 10,
         "character": "Manager of Sriram's company branch in Nepal",
@@ -172,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Ananth Babu",
         "original_name": "Ananth Babu",
-        "popularity": 0.2663,
+        "popularity": 0.8884,
         "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
         "cast_id": 18,
         "character": "Amaram's compounder",
@@ -186,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Naga Anvesh",
         "original_name": "Naga Anvesh",
-        "popularity": 0.187,
+        "popularity": 0.4751,
         "profile_path": "/zTB8NR3uNwXNJN5dEULul402Gie.jpg",
         "cast_id": 19,
         "character": "Manisha and Sriram's son",
@@ -202,7 +206,7 @@
         "known_for_department": "Camera",
         "name": "K. Ravindra Babu",
         "original_name": "K. Ravindra Babu",
-        "popularity": 0.0693,
+        "popularity": 0.2883,
         "profile_path": null,
         "credit_id": "634e3786ef9d720091650dc6",
         "department": "Editing",
@@ -215,7 +219,7 @@
         "known_for_department": "Camera",
         "name": "S. Gopala Reddy",
         "original_name": "S. Gopala Reddy",
-        "popularity": 0.1428,
+        "popularity": 0.3357,
         "profile_path": null,
         "credit_id": "634e377813a320007c1ebc5a",
         "department": "Camera",
@@ -228,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "K. Bhagyaraj",
         "original_name": "K. Bhagyaraj",
-        "popularity": 0.6204,
+        "popularity": 1.5615,
         "profile_path": "/5tNpWtbDsuVG9jZOcP5rqoyR9hK.jpg",
         "credit_id": "634e376789f749007d6a4249",
         "department": "Writing",
@@ -241,7 +245,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.2662,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "634e373daf58cb007ddd61ce",
         "department": "Writing",
@@ -254,7 +258,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.1762,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "634e369def9d72007abbc68f",
         "department": "Sound",
@@ -267,7 +271,7 @@
         "known_for_department": "Production",
         "name": "K. L. Narayana",
         "original_name": "K. L. Narayana",
-        "popularity": 0.0404,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "65c1c9d5efea7a0184524109",
         "department": "Production",
@@ -280,16 +284,52 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.2662,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "577239959251411dd2004900",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199454,
+        "known_for_department": "Production",
+        "name": "Sanga Kumara Swamy",
+        "original_name": "Sanga Kumara Swamy",
+        "popularity": 0.2746,
+        "profile_path": null,
+        "credit_id": "69fe4938389c5286b450e6ca",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3437958,
+        "known_for_department": "Art",
+        "name": "Ashok Kumar",
+        "original_name": "Ashok Kumar",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "69fe495286f9e0543e50e73c",
+        "department": "Art",
+        "job": "Art Direction"
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt1579580",
+    "wikidata_id": "Q16249298",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -301,7 +341,7 @@
             "descriptors": [],
             "iso_639_1": "te",
             "note": "",
-            "release_date": "1996-05-23T00:00:00.000Z",
+            "release_date": "1996-05-22T00:00:00.000Z",
             "type": 3
           }
         ]
@@ -326,13 +366,6 @@
         "type": "Alternate"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1579580",
-    "wikidata_id": "Q16249298",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -360,8 +393,5 @@
         "width": 1920
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

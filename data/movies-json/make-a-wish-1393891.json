@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మేక్ ఆ విష్",
   "overview": "Make a Wish is a Suspense Thriller Drama about three Women, their relationship issues and an intruder.",
-  "popularity": 0.0658,
+  "popularity": 0.4406,
   "poster_path": "/eJK8ILoR4z3w2rG1S4JcjYfcTOp.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,22 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Make a Wish Trailer | Sandhya Bayireddy | Kiran Kasturi | Praneeth Muzic",
-        "key": "9oPvoBUFkiI",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "6746a5a2795847e9935445e3",
-        "published_at": "2024-08-16T15:40:42.000Z"
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -68,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Sandhya Baayireddy",
         "original_name": "Sandhya Baayireddy",
-        "popularity": 0,
+        "popularity": 0.2263,
         "profile_path": "/8NXQA9PZ6utIsWypWgknYA470pq.jpg",
         "cast_id": 1,
         "character": "Meera",
@@ -82,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Kiran Kasturi",
         "original_name": "Kiran Kasturi",
-        "popularity": 0.0143,
+        "popularity": 0.3056,
         "profile_path": null,
         "cast_id": 2,
         "character": "Pooja",
@@ -96,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Karteek Kandala",
         "original_name": "Karteek Kandala",
-        "popularity": 0.0214,
+        "popularity": 0.2936,
         "profile_path": null,
         "cast_id": 3,
         "character": "Arjun",
@@ -110,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Abhishek Sabbe",
         "original_name": "Abhishek Sabbe",
-        "popularity": 0,
+        "popularity": 0.2963,
         "profile_path": null,
         "cast_id": 4,
         "character": "Rohit",
@@ -126,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Sandhya Baayireddy",
         "original_name": "Sandhya Baayireddy",
-        "popularity": 0,
+        "popularity": 0.2263,
         "profile_path": "/8NXQA9PZ6utIsWypWgknYA470pq.jpg",
         "credit_id": "6746a5e8795847e993544628",
         "department": "Directing",
@@ -139,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Sandhya Baayireddy",
         "original_name": "Sandhya Baayireddy",
-        "popularity": 0,
+        "popularity": 0.2263,
         "profile_path": "/8NXQA9PZ6utIsWypWgknYA470pq.jpg",
         "credit_id": "6746a5fe29ca0eea30506b3a",
         "department": "Writing",
@@ -152,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Kiran Kasturi",
         "original_name": "Kiran Kasturi",
-        "popularity": 0.0143,
+        "popularity": 0.3056,
         "profile_path": null,
         "credit_id": "6746a60db525089ddf9b4f2d",
         "department": "Writing",
@@ -160,8 +144,28 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt33382209",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Make a Wish Trailer | Sandhya Bayireddy | Kiran Kasturi | Praneeth Muzic",
+        "key": "9oPvoBUFkiI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6746a5a2795847e9935445e3",
+        "published_at": "2024-08-16T15:40:42.000Z"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -187,6 +191,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -268,12 +275,5 @@
         "type": "English"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt33382209",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

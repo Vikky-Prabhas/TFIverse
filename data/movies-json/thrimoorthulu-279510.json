@@ -30,7 +30,7 @@
   "original_language": "te",
   "original_title": "త్రిమూర్తులు",
   "overview": "Thrimoorthulu is a 1987 Telugu film directed by K Murali Mohan Rao. The film stars Venkatesh, Arjun Sarja, Rajendra Prasad and Shobana in lead roles.",
-  "popularity": 0.4799,
+  "popularity": 1.6831,
   "poster_path": "/ci0zjLVUffWxSoGUIrkLG3fzFB7.jpg",
   "production_companies": [
     {
@@ -57,6 +57,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -66,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,8 +82,8 @@
         "id": 544977,
         "known_for_department": "Acting",
         "name": "Arjun Sarja",
-        "original_name": "Arjun Sarja",
-        "popularity": 0.9668,
+        "original_name": "அர்ஜூன்",
+        "popularity": 2.3378,
         "profile_path": "/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg",
         "cast_id": 4,
         "character": "",
@@ -93,8 +96,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 5,
         "character": "",
@@ -108,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Shobana",
         "original_name": "Shobana",
-        "popularity": 1.4234,
+        "popularity": 2.8034,
         "profile_path": "/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg",
         "cast_id": 8,
         "character": "Latha",
@@ -120,9 +123,9 @@
         "gender": 1,
         "id": 82078,
         "known_for_department": "Acting",
-        "name": "Khushboo",
-        "original_name": "Khushboo",
-        "popularity": 3.2225,
+        "name": "Khusbhu Sundar",
+        "original_name": "குஷ்பு சுந்தர்",
+        "popularity": 3.095,
         "profile_path": "/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg",
         "cast_id": 9,
         "character": "",
@@ -136,8 +139,8 @@
         "known_for_department": "Acting",
         "name": "Ashwini",
         "original_name": "Ashwini",
-        "popularity": 0.2594,
-        "profile_path": null,
+        "popularity": 0.9126,
+        "profile_path": "/othespCbB1jh1NzWnxfVhQqg3ll.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "601a91bfbb1057003e9ba335",
@@ -150,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Nagesh",
         "original_name": "Nagesh",
-        "popularity": 1.3505,
+        "popularity": 2.7008,
         "profile_path": "/1oRsYn07HMjHeeyufK4lw8MDH8L.jpg",
         "cast_id": 11,
         "character": "",
@@ -164,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 12,
         "character": "",
@@ -178,7 +181,7 @@
         "known_for_department": "Acting",
         "name": "Anupam Kher",
         "original_name": "Anupam Kher",
-        "popularity": 2.083,
+        "popularity": 2.1207,
         "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
         "cast_id": 13,
         "character": "",
@@ -191,9 +194,9 @@
         "id": 584257,
         "known_for_department": "Acting",
         "name": "Sumithra",
-        "original_name": "Sumithra",
-        "popularity": 0.9573,
-        "profile_path": "/yqK5REqTdG5wPPw4wkOAT46NwxL.jpg",
+        "original_name": "சுமித்ரா",
+        "popularity": 1.2409,
+        "profile_path": "/jekiy36Kf8k5iK4MLbVQl6PhX5V.jpg",
         "cast_id": 14,
         "character": "",
         "credit_id": "601a93edbc8657003ebb5051",
@@ -204,24 +207,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 92057,
-        "known_for_department": "Sound",
-        "name": "Bappi Lahiri",
-        "original_name": "Bappi Lahiri",
-        "popularity": 0.2336,
-        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
-        "credit_id": "53b181cfc3a3682ee60065c4",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 87706,
         "known_for_department": "Directing",
         "name": "K. Murali Mohana Rao",
         "original_name": "K. Murali Mohana Rao",
-        "popularity": 0.4718,
+        "popularity": 0.6716,
         "profile_path": "/ffqlo3bMu8ddDh0vJtZXCbUHPdg.jpg",
         "credit_id": "53b181ce0e0a26597d0083e9",
         "department": "Directing",
@@ -230,11 +220,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 92057,
+        "known_for_department": "Sound",
+        "name": "Bappi Lahiri",
+        "original_name": "Bappi Lahiri",
+        "popularity": 0.5219,
+        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
+        "credit_id": "53b181cfc3a3682ee60065c4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1997077,
         "known_for_department": "Production",
         "name": "T. Subbarami Reddy",
         "original_name": "T. Subbarami Reddy",
-        "popularity": 0.1216,
+        "popularity": 0.4114,
         "profile_path": "/zyl3BsnRM2EqCdE4MrdDoWDwziL.jpg",
         "credit_id": "5c21fa82c3a3686ff9ecd5f5",
         "department": "Production",
@@ -247,16 +250,13 @@
         "known_for_department": "Acting",
         "name": "Kader Khan",
         "original_name": "Kader Khan",
-        "popularity": 1.0993,
+        "popularity": 1.6988,
         "profile_path": "/gf0v2N4xKNGDfHN5lxk7yxUEYQ3.jpg",
         "credit_id": "601a942caafebd003fdf725a",
         "department": "Writing",
         "job": "Original Story"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt7878852",
@@ -265,25 +265,17 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1987-05-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Trimurtulu",
+        "type": ""
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -301,12 +293,20 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "Trimurtulu",
-        "type": ""
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1987-05-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

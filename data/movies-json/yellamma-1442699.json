@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఎల్లమ్మ",
   "overview": "",
-  "popularity": 0.1701,
+  "popularity": 0.6694,
   "poster_path": "/3H9ciKTWVJc3o6g3jDt0ZaAQ0z8.jpg",
   "production_companies": [
     {
@@ -49,19 +49,12 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Planned",
+  "status": "In Production",
   "tagline": "",
   "title": "Yellamma",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt34586883",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -71,12 +64,26 @@
         "known_for_department": "Sound",
         "name": "Devi Sri Prasad",
         "original_name": "Devi Sri Prasad",
-        "popularity": 0.5725,
+        "popularity": 0.7253,
         "profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
         "cast_id": 9,
         "character": "Parshi",
         "credit_id": "68f10acd42f78de241c23f6e",
         "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3628181,
+        "known_for_department": "Acting",
+        "name": "Ananthika Sanilkumar",
+        "original_name": "Ananthika Sanilkumar",
+        "popularity": 0.9074,
+        "profile_path": "/kseTOgntXALcIiyUbCivxeTDCpG.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a96779e3b8e633d158ea4f1",
+        "order": 1
       }
     ],
     "crew": [
@@ -87,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu Tillu",
-        "popularity": 0.1533,
+        "popularity": 0.6907,
         "profile_path": "/m367s4YmY92g3Woi3LpU6ahbOtm.jpg",
         "credit_id": "67c5fc1f564d2575d9922a2b",
         "department": "Directing",
@@ -100,7 +107,7 @@
         "known_for_department": "Production",
         "name": "Dil Raju",
         "original_name": "Dil Raju",
-        "popularity": 0.1187,
+        "popularity": 0.5112,
         "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
         "credit_id": "67c5fc2e564d2575d9922a46",
         "department": "Production",
@@ -113,7 +120,7 @@
         "known_for_department": "Production",
         "name": "Shirish",
         "original_name": "Shirish",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68f10b5f04bed38384389eb1",
         "department": "Production",
@@ -126,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu Tillu",
-        "popularity": 0.1533,
+        "popularity": 0.6907,
         "profile_path": "/m367s4YmY92g3Woi3LpU6ahbOtm.jpg",
         "credit_id": "696867b5f62a881555a87ddc",
         "department": "Writing",
@@ -139,7 +146,7 @@
         "known_for_department": "Sound",
         "name": "Devi Sri Prasad",
         "original_name": "Devi Sri Prasad",
-        "popularity": 0.5725,
+        "popularity": 0.7253,
         "profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
         "credit_id": "6968c33c0f65951f32dbcfbb",
         "department": "Sound",
@@ -152,7 +159,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.332,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "6968c349df1e97d17701a543",
         "department": "Crew",
@@ -161,42 +168,27 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2115635,
-        "known_for_department": "Production",
-        "name": "Anil Kumar Vanga",
-        "original_name": "Anil Kumar Vanga",
-        "popularity": 0.1968,
-        "profile_path": "/mqIQhCGeraDOvhrCt1b6ucxSFa4.jpg",
-        "credit_id": "6968c356d3b175d30f68a2fd",
-        "department": "Production",
-        "job": "Publicist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2115634,
-        "known_for_department": "Production",
-        "name": "Uday Bhanu Avirineni",
-        "original_name": "Uday Bhanu Avirineni",
-        "popularity": 0.1608,
-        "profile_path": "/ismwIRDqhYiylM85KUCSBO5PZio.jpg",
-        "credit_id": "6968c37298cec3c79a01a576",
-        "department": "Production",
-        "job": "Publicist"
+        "id": 1339518,
+        "known_for_department": "Camera",
+        "name": "G. Murali",
+        "original_name": "G. Murali",
+        "popularity": 0.3318,
+        "profile_path": "/7Hc4deVk6mC0zEvUJ3lWvU9LXLY.jpg",
+        "credit_id": "6a6f5144864ebd6e563d07cf",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "videos": {
     "results": []
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt34586883",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -213,5 +205,14 @@
         "width": 2000
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

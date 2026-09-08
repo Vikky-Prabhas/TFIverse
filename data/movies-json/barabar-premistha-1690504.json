@@ -1,0 +1,212 @@
+{
+  "adult": false,
+  "backdrop_path": "/eIUIpp0RUn6QAYLNTFbchwmUW6Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1690504,
+  "imdb_id": "tt35064785",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Barabar Premistha",
+  "overview": "In a village divided between Karmani and Dharmani lineages, Chandu and Bujjamma are born into rival sides of a feud and grown as enemies. When love blossoms between them, it disrupts the village's beliefs about loyalty, identity, and fate.",
+  "popularity": 1.1148,
+  "poster_path": "/Ae4eG39Jq0fFqDD1BMrfHH8ii4S.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-02-06",
+  "revenue": 0,
+  "runtime": 134,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Barabar Premistha",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4988165,
+        "known_for_department": "Acting",
+        "name": "Chandrahass",
+        "original_name": "Chandrahass",
+        "popularity": 0.3806,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Chandu",
+        "credit_id": "6a03ef1ab7c44dd94da602c4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6209522,
+        "known_for_department": "Acting",
+        "name": "Megna Mukherjee",
+        "original_name": "Megna Mukherjee",
+        "popularity": 0.286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Bujjamma",
+        "credit_id": "6a03effd5c751c631ca46440",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2219796,
+        "known_for_department": "Directing",
+        "name": "Sampath V Rudra",
+        "original_name": "Sampath V Rudra",
+        "popularity": 0.2969,
+        "profile_path": null,
+        "credit_id": "6a03ef352ccd75e2c091a8de",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3307646,
+        "known_for_department": "Crew",
+        "name": "Vijay Polaki",
+        "original_name": "Vijay Polaki",
+        "popularity": 0.5433,
+        "profile_path": null,
+        "credit_id": "6a03ef46c22a7a8770a603bd",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3526964,
+        "known_for_department": "Sound",
+        "name": "R. R. Dhruvan",
+        "original_name": "R. R. Dhruvan",
+        "popularity": 0.328,
+        "profile_path": null,
+        "credit_id": "6a03ef57bacaf747a57bcbf9",
+        "department": "Sound",
+        "job": "Music Director"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35064785",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.775,
+        "height": 721,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eIUIpp0RUn6QAYLNTFbchwmUW6Z.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/4w1OogufR0cYS3RbG0JAeuU5HNy.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/9xf1ZDNOxR7i788XPXD6oGLQEv9.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/Ae4eG39Jq0fFqDD1BMrfHH8ii4S.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Amazon Prime Video",
+            "release_date": "2026-05-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

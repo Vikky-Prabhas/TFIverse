@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Yuddam",
   "overview": "Yuddham is a 2014 Telugu drama film directed by Bharathi Ganesh. The film stars Tarun and Yami Gautam in lead roles.The film also features late Srihari and was released as a tribute to him as he played a pivotal role in it.",
-  "popularity": 0.4346,
+  "popularity": 0.8446,
   "poster_path": "/3J0vyYaszClba2KCL96If85bhjJ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,8 +57,8 @@
         "id": 1115720,
         "known_for_department": "Acting",
         "name": "Yami Gautam Dhar",
-        "original_name": "Yami Gautam",
-        "popularity": 1.1312,
+        "original_name": "यामी गौतम",
+        "popularity": 1.5994,
         "profile_path": "/wQwYuofypdW7JnglmyFbeWKu33j.jpg",
         "cast_id": 0,
         "character": "",
@@ -72,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.5623,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 1,
         "character": "",
@@ -86,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Tarun",
         "original_name": "Tarun",
-        "popularity": 1.4294,
+        "popularity": 1.2443,
         "profile_path": "/nv8fB5YH0nvgrA2eM9klpN707eP.jpg",
         "cast_id": 2,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Directing",
         "name": "Bharathi Ganesh",
         "original_name": "Bharathi Ganesh",
-        "popularity": 0.0214,
+        "popularity": 0.3607,
         "profile_path": null,
         "credit_id": "5b901e13c3a3683457001cb8",
         "department": "Directing",
@@ -112,6 +112,16 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt5991672",
+    "wikidata_id": "Q16255385",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -130,18 +140,8 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt5991672",
-    "wikidata_id": "Q16255385",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [],

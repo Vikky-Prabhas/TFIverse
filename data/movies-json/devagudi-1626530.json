@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Devagudi",
   "overview": "Three childhood friends whose bond is fractured by caste divisions and challenging circumstances. A pivotal incident disrupts their lives and relationships.",
-  "popularity": 0.7369,
+  "popularity": 1.7593,
   "poster_path": "/5GugAhJcPqTscqNFOqgoJ53ZjwE.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,13 +47,6 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
-  "external_ids": {
-    "imdb_id": "tt38984162",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": [
       {
@@ -79,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Abhinav Shaurya",
         "original_name": "Abhinav Shaurya",
-        "popularity": 0,
+        "popularity": 0.2577,
         "profile_path": null,
         "cast_id": 3,
         "character": "Dharma",
@@ -93,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Anusri",
         "original_name": "Anusri",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "cast_id": 4,
         "character": "Swetha",
@@ -107,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Narasimha Toshi",
         "original_name": "Narasimha Toshi",
-        "popularity": 0,
+        "popularity": 0.3188,
         "profile_path": null,
         "cast_id": 5,
         "character": "Raghava Reddy",
@@ -121,7 +114,7 @@
         "known_for_department": "Sound",
         "name": "Raghu Kunche",
         "original_name": "Raghu Kunche",
-        "popularity": 0.1297,
+        "popularity": 0.4288,
         "profile_path": "/pTZPnDqhe9NSDaPZgIoStucSVd3.jpg",
         "cast_id": 6,
         "character": "Veera Reddy",
@@ -137,7 +130,7 @@
         "known_for_department": "Writing",
         "name": "Bellam Ramakrishna Reddy",
         "original_name": "Bellam Ramakrishna Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.3539,
         "profile_path": null,
         "credit_id": "698cd67d4266c024840e6c4b",
         "department": "Directing",
@@ -150,13 +143,23 @@
         "known_for_department": "Writing",
         "name": "Bellam Ramakrishna Reddy",
         "original_name": "Bellam Ramakrishna Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.3539,
         "profile_path": null,
         "credit_id": "698cd686d95095fc0c372827",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt38984162",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -175,8 +178,8 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -214,8 +217,5 @@
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

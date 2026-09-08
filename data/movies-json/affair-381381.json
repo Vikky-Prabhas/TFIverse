@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ఎఫైర్",
   "overview": "In prevailing orthodox society in south of India, two girls fall in love.",
-  "popularity": 0.0594,
+  "popularity": 0.6956,
   "poster_path": "/leKwiJfCvNbcRor6WL0UtyXANj4.jpg",
   "production_companies": [
     {
@@ -59,6 +59,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Prashanthi",
         "original_name": "Prashanthi",
-        "popularity": 0,
+        "popularity": 0.255,
         "profile_path": null,
         "cast_id": 0,
         "character": "",
@@ -82,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Geethanjali Thasya",
         "original_name": "Geethanjali Thasya",
-        "popularity": 0.0214,
+        "popularity": 0.321,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -96,7 +99,7 @@
         "known_for_department": "Production",
         "name": "Sri Rajan",
         "original_name": "Sri Rajan",
-        "popularity": 0.0071,
+        "popularity": 0.2766,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -110,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Shaani Pagadala",
         "original_name": "Shaani Pagadala",
-        "popularity": 0.0387,
+        "popularity": 0.4241,
         "profile_path": "/1IJKa9GkgTRj1D8MnAeE15sKIUb.jpg",
         "cast_id": 17,
         "character": "",
@@ -126,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Shaani Pagadala",
         "original_name": "Shaani Pagadala",
-        "popularity": 0.0387,
+        "popularity": 0.4241,
         "profile_path": "/1IJKa9GkgTRj1D8MnAeE15sKIUb.jpg",
         "credit_id": "619330e88e8d30002c1512e1",
         "department": "Production",
@@ -135,24 +138,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1573135,
-        "known_for_department": "Sound",
-        "name": "Sheshu KMR",
-        "original_name": "Sheshu KMR",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "56b4f518c3a36806ea005756",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1573134,
         "known_for_department": "Production",
         "name": "Sri Rajan",
         "original_name": "Sri Rajan",
-        "popularity": 0.0071,
+        "popularity": 0.2766,
         "profile_path": null,
         "credit_id": "56b4f4fd925141662c002f72",
         "department": "Production",
@@ -161,15 +151,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1573134,
-        "known_for_department": "Production",
-        "name": "Sri Rajan",
-        "original_name": "Sri Rajan",
-        "popularity": 0.0071,
+        "id": 1573135,
+        "known_for_department": "Sound",
+        "name": "Sheshu KMR",
+        "original_name": "Sheshu KMR",
+        "popularity": 0.2913,
         "profile_path": null,
-        "credit_id": "5a6bc8870e0a265f07000ab3",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "56b4f518c3a36806ea005756",
+        "department": "Sound",
+        "job": "Music Director"
       },
       {
         "adult": false,
@@ -178,31 +168,26 @@
         "known_for_department": "Production",
         "name": "Tummalapalli Rama Satyanarayana",
         "original_name": "Tummalapalli Rama Satyanarayana",
-        "popularity": 0.0806,
+        "popularity": 0.382,
         "profile_path": "/r1vpHeX1JojgwUUP4lXKjgSghlZ.jpg",
         "credit_id": "5a6bc6ed0e0a265f01000918",
         "department": "Production",
         "job": "Producer"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
+      },
       {
-        "id": 158718,
-        "name": "lgbt"
+        "adult": false,
+        "gender": 0,
+        "id": 1573134,
+        "known_for_department": "Production",
+        "name": "Sri Rajan",
+        "original_name": "Sri Rajan",
+        "popularity": 0.2766,
+        "profile_path": null,
+        "credit_id": "5a6bc8870e0a265f07000ab3",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt7207256",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -221,6 +206,14 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 158718,
+        "name": "lgbt"
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -236,6 +229,13 @@
         "width": 500
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt7207256",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

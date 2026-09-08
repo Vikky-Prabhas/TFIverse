@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "కంచె",
   "overview": "A love story played out against the backdrop of World War II.",
-  "popularity": 0.4133,
+  "popularity": 0.6126,
   "poster_path": "/xKYefD66zwrx2DbGSWoB5rjjmk6.jpg",
   "production_companies": [],
   "production_countries": [
@@ -55,8 +55,8 @@
   "tagline": "",
   "title": "Kanche",
   "video": false,
-  "vote_average": 5.9,
-  "vote_count": 20,
+  "vote_average": 6,
+  "vote_count": 22,
   "credits": {
     "cast": [
       {
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Varun Tej",
         "original_name": "Varun Tej",
-        "popularity": 0.4554,
+        "popularity": 1.5223,
         "profile_path": "/2N9LTqRxLpeCCyNTYUpnVBhZiZU.jpg",
         "cast_id": 3,
         "character": "Dhoopati Haribabu",
@@ -79,9 +79,9 @@
         "id": 584595,
         "known_for_department": "Acting",
         "name": "Pragya Jaiswal",
-        "original_name": "Pragya Jaiswal",
-        "popularity": 0.4128,
-        "profile_path": "/dtqZhYFniXaCvRuuFJkchH92fQZ.jpg",
+        "original_name": "ప్రగ్యా జైస్వాల్",
+        "popularity": 0.8488,
+        "profile_path": "/h0MW18aiuE9XLa19du1rCMQ3BLN.jpg",
         "cast_id": 4,
         "character": "Seeta Devi",
         "credit_id": "5770b21ac3a3686a93004b5b",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Nikitin Dheer",
         "original_name": "Nikitin Dheer",
-        "popularity": 0.5073,
+        "popularity": 1.3855,
         "profile_path": "/gAHNWVtStTGsqf2uxCegxvn6ILe.jpg",
         "cast_id": 7,
         "character": "Ishwar",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 5,
         "character": "Daasu",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 13,
         "character": "Kondayya",
@@ -136,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Anoop Puri",
         "original_name": "Anoop Puri",
-        "popularity": 0.1086,
+        "popularity": 0.5427,
         "profile_path": null,
         "cast_id": 20,
         "character": "Seeta Devi's Grandfather",
@@ -149,8 +149,8 @@
         "id": 584415,
         "known_for_department": "Acting",
         "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.5178,
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
         "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
         "cast_id": 15,
         "character": "Mahalakshmamma",
@@ -164,7 +164,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 6,
         "character": "Elamandha",
@@ -178,7 +178,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4177,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 18,
         "character": "Janardhana Sastry",
@@ -192,7 +192,7 @@
         "known_for_department": "Directing",
         "name": "Singeetam Srinivasa Rao",
         "original_name": "Singeetam Srinivasa Rao",
-        "popularity": 0.8793,
+        "popularity": 1.5739,
         "profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
         "cast_id": 21,
         "character": "Cameo at Madras Cultural Club",
@@ -206,7 +206,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.379,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 14,
         "character": "",
@@ -218,11 +218,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1574268,
+        "known_for_department": "Writing",
+        "name": "Sai Madhav Burra",
+        "original_name": "Sai Madhav Burra",
+        "popularity": 0.5546,
+        "profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
+        "credit_id": "5770d34092514112a60021b4",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1013089,
         "known_for_department": "Directing",
         "name": "Radha Krishna Jagarlamudi",
         "original_name": "Radha Krishna Jagarlamudi",
-        "popularity": 0.281,
+        "popularity": 0.9122,
         "profile_path": "/z6TskMu6oKRronDpPfYWluBNmxX.jpg",
         "credit_id": "5770cd1792514160a5005bb6",
         "department": "Directing",
@@ -231,15 +244,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1574268,
-        "known_for_department": "Writing",
-        "name": "Sai Madhav Burra",
-        "original_name": "Sai Madhav Burra",
-        "popularity": 0.1442,
-        "profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
-        "credit_id": "5770d34092514112a60021b4",
+        "id": 1013089,
+        "known_for_department": "Directing",
+        "name": "Radha Krishna Jagarlamudi",
+        "original_name": "Radha Krishna Jagarlamudi",
+        "popularity": 0.9122,
+        "profile_path": "/z6TskMu6oKRronDpPfYWluBNmxX.jpg",
+        "credit_id": "5770cd3092514160a5005bbc",
         "department": "Writing",
-        "job": "Dialogue"
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -248,7 +261,7 @@
         "known_for_department": "Sound",
         "name": "Chirantan Bhatt",
         "original_name": "Chirantan Bhatt",
-        "popularity": 0.1348,
+        "popularity": 0.3365,
         "profile_path": null,
         "credit_id": "5770d37792514129890018a7",
         "department": "Sound",
@@ -257,15 +270,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1013089,
-        "known_for_department": "Directing",
-        "name": "Radha Krishna Jagarlamudi",
-        "original_name": "Radha Krishna Jagarlamudi",
-        "popularity": 0.281,
-        "profile_path": "/z6TskMu6oKRronDpPfYWluBNmxX.jpg",
-        "credit_id": "5770cd3092514160a5005bbc",
-        "department": "Writing",
-        "job": "Writer"
+        "id": 1765046,
+        "known_for_department": "Crew",
+        "name": "Vamsi Kaka",
+        "original_name": "Vamsi Kaka",
+        "popularity": 0.4537,
+        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+        "credit_id": "59f1d618c3a3680ef400da4e",
+        "department": "Crew",
+        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -274,22 +287,9 @@
         "known_for_department": "Crew",
         "name": "Mahesh Koneru",
         "original_name": "Mahesh Koneru",
-        "popularity": 0.105,
+        "popularity": 0.3259,
         "profile_path": null,
         "credit_id": "59f1d60cc3a368600800fb37",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1765046,
-        "known_for_department": "Crew",
-        "name": "Vamsi Kaka",
-        "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
-        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
-        "credit_id": "59f1d618c3a3680ef400da4e",
         "department": "Crew",
         "job": "Public Relations"
       }
@@ -297,9 +297,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "videos": {
     "results": [
@@ -335,23 +332,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2015-10-22T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -518,6 +498,26 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-10-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

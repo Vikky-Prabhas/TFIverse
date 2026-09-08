@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Egwa",
   "overview": "EGWA is an intense Adventure Drama-with social/environmental themes. The story revolves around a tribe whose sacred tree is targeted by a ruthless smuggler. Their only hope is the faith that gives them the strength to fight back.",
-  "popularity": 0.0071,
+  "popularity": 0.8429,
   "poster_path": "/r4TODuDn5Vdp4iUFWivkqNnv9B0.jpg",
   "production_companies": [
     {
@@ -56,6 +56,12 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -66,7 +72,7 @@
         "known_for_department": "Directing",
         "name": "V.K. Raju",
         "original_name": "V.K. Raju",
-        "popularity": 0,
+        "popularity": 0.2926,
         "profile_path": null,
         "credit_id": "692f002b43c0ad7191286cfb",
         "department": "Directing",
@@ -79,7 +85,7 @@
         "known_for_department": "Production",
         "name": "Poorna Battu",
         "original_name": "Poorna Battu",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "692f004e27334bc67f512820",
         "department": "Production",
@@ -87,8 +93,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -109,16 +119,6 @@
         "name": "inspirational"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": []
   },
   "alternative_titles": {
     "titles": []

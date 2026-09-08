@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Duniya",
   "overview": "Three reckless orphans-Jay, Sid, and Kamesh-spiral into drugs and crime, crossing a brutal gang and assaulting a girl. On the run, they meet a mysterious woman and hide at a farmhouse. But a masked killer begins a violent game of revenge-one that ends with a shocking reveal that shatters everything they believed.",
-  "popularity": 0.0071,
+  "popularity": 0.4059,
   "poster_path": "/n6O5XNFQHnPOiTYWf1AOsSuPi9f.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -38,18 +38,11 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -68,6 +61,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -84,7 +80,11 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

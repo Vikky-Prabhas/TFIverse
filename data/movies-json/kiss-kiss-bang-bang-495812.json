@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Kiss Kiss Bang Bang",
   "overview": "Aryan, a journalist working with a lifestyle magazine, hates his boss and also is tired of supporting his girlfriend's partying lifestyle. Things get worse for him when he loses his wallet at a bar and in a twist of fate, he finds himself being threatened by junkies.",
-  "popularity": 0.051,
+  "popularity": 0.4353,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -56,24 +56,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2996888,
-        "known_for_department": "Directing",
-        "name": "Karthik Medikonda",
-        "original_name": "Karthik Medikonda",
-        "popularity": 0.0379,
-        "profile_path": null,
-        "credit_id": "603f4712a402c100449d3898",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2996890,
         "known_for_department": "Editing",
         "name": "Govind Dittakavi",
         "original_name": "Govind Dittakavi",
-        "popularity": 0.0071,
+        "popularity": 0.2782,
         "profile_path": null,
         "credit_id": "603f481bd35dea0077d403f9",
         "department": "Editing",
@@ -86,23 +73,26 @@
         "known_for_department": "Directing",
         "name": "Karthik Medikonda",
         "original_name": "Karthik Medikonda",
-        "popularity": 0.0379,
+        "popularity": 0.326,
         "profile_path": null,
         "credit_id": "603f581f719aeb0045a30beb",
         "department": "Writing",
         "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2996888,
+        "known_for_department": "Directing",
+        "name": "Karthik Medikonda",
+        "original_name": "Karthik Medikonda",
+        "popularity": 0.326,
+        "profile_path": null,
+        "credit_id": "603f4712a402c100449d3898",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -120,6 +110,16 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],

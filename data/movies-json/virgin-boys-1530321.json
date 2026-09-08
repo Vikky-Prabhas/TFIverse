@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Virgin Boys",
   "overview": "Arya, Rony and Dundi three naive boys joins posh co-ed college and clash with a rich brat's gang. Arya finds love, Rony forms a bond and Dundi causes chaos with his antics. A fun emotional journey of campus life, friendship and first love.",
-  "popularity": 0.1126,
+  "popularity": 0.5772,
   "poster_path": "/s4QoF3Be7CDzSnYjcUWSDXLwszz.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,32 +41,12 @@
     "cast": [],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt36955269",
     "wikidata_id": "Q135231217",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-07-11T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -95,6 +75,29 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-07-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -103,8 +106,5 @@
         "type": ""
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

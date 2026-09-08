@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Natudu",
   "overview": "",
-  "popularity": 0.2053,
+  "popularity": 0.9542,
   "poster_path": "/26EwQfG9QHmqgsX5TXPRPYLRKWY.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,25 +48,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "credits": {
     "cast": [
       {
@@ -76,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Kavya Shetty",
         "original_name": "Kavya Shetty",
-        "popularity": 0.2739,
+        "popularity": 0.5574,
         "profile_path": "/ks4JxmcA7KP7gk1hUjTjg4reEAX.jpg",
         "cast_id": 1,
         "character": "",
@@ -90,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2642,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 2,
         "character": "",
@@ -104,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Navdeep",
         "original_name": "Navdeep",
-        "popularity": 0.5173,
+        "popularity": 1.2722,
         "profile_path": "/zwkvWrtFNxflU3eQrX7xwXZEoZk.jpg",
         "cast_id": 3,
         "character": "",
@@ -120,13 +101,32 @@
         "known_for_department": "Directing",
         "name": "Prasad",
         "original_name": "Prasad",
-        "popularity": 0.0286,
+        "popularity": 0.2677,
         "profile_path": null,
         "credit_id": "5caf3e66c3a3683c36aa8008",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],

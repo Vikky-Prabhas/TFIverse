@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఏది నిజం?",
   "overview": "In order to take revenge, a village chieftain, Munasabu, murders the poor Tirupati and blames his friend Kondaiah, a labourer, for the crime.",
-  "popularity": 0.0713,
+  "popularity": 2.0187,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Nagabhushanam",
         "original_name": "Nagabhushanam",
-        "popularity": 0.0672,
+        "popularity": 0.7024,
         "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
         "cast_id": 1,
         "character": "Kotayya",
@@ -66,8 +66,8 @@
         "id": 584415,
         "known_for_department": "Acting",
         "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.5178,
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
         "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
         "cast_id": 2,
         "character": "Raami",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 3,
         "character": "Munusabu",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Ramana Reddy",
         "original_name": "Ramana Reddy",
-        "popularity": 0.91,
+        "popularity": 0.7405,
         "profile_path": "/nYN6YoA9pbjQE0J8b9jS496YjP6.jpg",
         "cast_id": 4,
         "character": "Naatu Vaidyudu",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Vangara Venkata Subbaiah",
         "original_name": "Vangara Venkata Subbaiah",
-        "popularity": 0.1664,
+        "popularity": 0.4369,
         "profile_path": "/zdIQd9ok3dAEVOuHViCVwRSVxbr.jpg",
         "cast_id": 5,
         "character": "Poojari",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Hemalatha Devi",
         "original_name": "Hemalatha",
-        "popularity": 0.1062,
+        "popularity": 1.0471,
         "profile_path": "/fpITeYJSoN4anyHCH87bz4PsfcR.jpg",
         "cast_id": 7,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 8,
         "character": "Lawyer",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Peketi Sivaram",
         "original_name": "Peketi Sivaram",
-        "popularity": 0.1388,
+        "popularity": 0.704,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -167,7 +167,7 @@
         "known_for_department": "Directing",
         "name": "S. Balachander",
         "original_name": "S. Balachander",
-        "popularity": 0.1997,
+        "popularity": 0.5051,
         "profile_path": "/xdwW8Oa1CIzN3yoPFEDPW3ex1H9.jpg",
         "credit_id": "69a8764f74f1c21516b6d8cc",
         "department": "Directing",
@@ -180,7 +180,7 @@
         "known_for_department": "Production",
         "name": "Ghantasala Krishnamurthy",
         "original_name": "Ghantasala Krishnamurthy",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "69a8765d9f2fb0a265964f03",
         "department": "Production",
@@ -193,7 +193,7 @@
         "known_for_department": "Sound",
         "name": "Master Venu",
         "original_name": "Master Venu",
-        "popularity": 0.0538,
+        "popularity": 0.3626,
         "profile_path": null,
         "credit_id": "69a876690bec1270916633e2",
         "department": "Sound",
@@ -203,35 +203,6 @@
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "எது நிஜம்",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Edhu Nijam",
-        "type": ""
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0155400",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -247,6 +218,35 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0155400",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "எது நிஜம்",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Edhu Nijam",
+        "type": ""
       }
     ]
   }

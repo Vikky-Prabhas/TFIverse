@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Thodu Dongalu",
   "overview": "When a politician's son is abducted by two brothers in their first kidnap, trouble comes unannounced.",
-  "popularity": 0.0387,
+  "popularity": 0.4542,
   "poster_path": "/safRphGItYnsCgj7ebHnZp8MhLE.jpg",
   "production_companies": [
     {
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Jaswanth",
         "original_name": "Jaswanth",
-        "popularity": 0,
+        "popularity": 0.2684,
         "profile_path": null,
         "cast_id": 1,
         "character": "Boss",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Shavendran",
         "original_name": "Shavendran",
-        "popularity": 0,
+        "popularity": 0.2794,
         "profile_path": null,
         "cast_id": 2,
         "character": "Child Boss",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Channdra Shekkar",
         "original_name": "Channdra Shekkar",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 3,
         "character": "MLA Gangaraju",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Pradeep",
         "original_name": "Pradeep",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 4,
         "character": "Annayya",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 5,
         "character": "Thammudu",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Upendra",
         "original_name": "Upendra",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 6,
         "character": "Laxman",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Prudhvi",
         "original_name": "Prudhvi",
-        "popularity": 0,
+        "popularity": 0.2582,
         "profile_path": null,
         "cast_id": 7,
         "character": "Child Laxman",
@@ -157,20 +157,7 @@
         "known_for_department": "Directing",
         "name": "Yashwanth SPK",
         "original_name": "Yashwanth SPK",
-        "popularity": 0,
-        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
-        "credit_id": "650954d6394a87011c9e9dc5",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3457311,
-        "known_for_department": "Directing",
-        "name": "Yashwanth SPK",
-        "original_name": "Yashwanth SPK",
-        "popularity": 0,
+        "popularity": 0.2691,
         "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
         "credit_id": "650954b3fa27f4012d5bec4c",
         "department": "Directing",
@@ -183,11 +170,24 @@
         "known_for_department": "Directing",
         "name": "Yashwanth SPK",
         "original_name": "Yashwanth SPK",
-        "popularity": 0,
+        "popularity": 0.2691,
         "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
         "credit_id": "650954ca42d8a57e98a78b71",
         "department": "Crew",
         "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3457311,
+        "known_for_department": "Directing",
+        "name": "Yashwanth SPK",
+        "original_name": "Yashwanth SPK",
+        "popularity": 0.2691,
+        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
+        "credit_id": "650954d6394a87011c9e9dc5",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -196,7 +196,7 @@
         "known_for_department": "Writing",
         "name": "Sameer M",
         "original_name": "Sameer M",
-        "popularity": 0,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "650954e342d8a57e9b8e9a7c",
         "department": "Writing",
@@ -209,7 +209,7 @@
         "known_for_department": "Directing",
         "name": "Yashwanth SPK",
         "original_name": "Yashwanth SPK",
-        "popularity": 0,
+        "popularity": 0.2691,
         "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
         "credit_id": "6509550a3cd12c00eb460ed1",
         "department": "Editing",
@@ -217,8 +217,18 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -236,16 +246,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Okka Adugu",
   "overview": "A teen's night takes a loopy turn",
-  "popularity": 0.0214,
+  "popularity": 0.4063,
   "poster_path": "/seVMipwOPcgQj673aIsf8B6aPVQ.jpg",
   "production_companies": [
     {
@@ -49,7 +49,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Kumar",
         "original_name": "Naveen Kumar",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 1,
         "character": "Naveen",
@@ -63,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Gokul Sai",
         "original_name": "Gokul Sai",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 2,
         "character": "Sai",
@@ -79,37 +79,24 @@
         "known_for_department": "Directing",
         "name": "Yashwanth SPK",
         "original_name": "Yashwanth SPK",
-        "popularity": 0,
-        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
-        "credit_id": "65081ba4373ac200acd7679b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3457311,
-        "known_for_department": "Directing",
-        "name": "Yashwanth SPK",
-        "original_name": "Yashwanth SPK",
-        "popularity": 0,
-        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
-        "credit_id": "65081bb5373ac20139ffa138",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3457311,
-        "known_for_department": "Directing",
-        "name": "Yashwanth SPK",
-        "original_name": "Yashwanth SPK",
-        "popularity": 0,
+        "popularity": 0.2691,
         "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
         "credit_id": "65081bcf3cd12c00ca56593c",
         "department": "Writing",
         "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3457311,
+        "known_for_department": "Directing",
+        "name": "Yashwanth SPK",
+        "original_name": "Yashwanth SPK",
+        "popularity": 0.2691,
+        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
+        "credit_id": "65081bb5373ac20139ffa138",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -118,13 +105,48 @@
         "known_for_department": "Writing",
         "name": "Sameer M",
         "original_name": "Sameer M",
-        "popularity": 0,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "65081c97373ac200ff05b8f2",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3457311,
+        "known_for_department": "Directing",
+        "name": "Yashwanth SPK",
+        "original_name": "Yashwanth SPK",
+        "popularity": 0.2691,
+        "profile_path": "/r9I7RfEkkCcN0JDBQby89oJYbl5.jpg",
+        "credit_id": "65081ba4373ac200acd7679b",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/seVMipwOPcgQj673aIsf8B6aPVQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -132,12 +154,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -158,21 +174,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/seVMipwOPcgQj673aIsf8B6aPVQ.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      }
-    ]
   }
 }

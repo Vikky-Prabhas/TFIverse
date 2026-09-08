@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Adavalle Aligithe",
   "overview": "Adavalle Aligithe (transl. If Ladies Show Sulk) is a 1983 Indian Telugu-language comedy film produced by Akkineni Srinivasa Rao and Yarramshetty Anjineeyulu under the Vijaya Chitra Pictures banner and directed by Vejella Satyanarayana. It stars Gummadi, Nutan Prasad, Rajendra Prasad, Ranganath, Sai Chand, Devika, Rajyalakshmi in the lead roles and music composed by Krishna-Chakra.",
-  "popularity": 0.1969,
+  "popularity": 1.6123,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -51,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Ranganath",
         "original_name": "Ranganath",
-        "popularity": 0.207,
+        "popularity": 1.5237,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -65,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 2,
         "character": "",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 3,
         "character": "",
@@ -92,8 +89,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 4,
         "character": "",
@@ -107,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Sai Chand",
         "original_name": "Sai Chand",
-        "popularity": 0.3443,
+        "popularity": 1.1101,
         "profile_path": "/1siMncMiqyu6zu8Xw1feVuVhbSy.jpg",
         "cast_id": 5,
         "character": "",
@@ -119,28 +116,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3049112,
-        "known_for_department": "Camera",
-        "name": "R. K. Raju",
-        "original_name": "R. K. Raju",
-        "popularity": 0.0143,
+        "id": 3049113,
+        "known_for_department": "Editing",
+        "name": "Akkineni Ajay Kumar",
+        "original_name": "Akkineni Ajay Kumar",
+        "popularity": 0.276,
         "profile_path": null,
-        "credit_id": "60741b7cd8f44e004172da6d",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1661806,
-        "known_for_department": "Writing",
-        "name": "Ganesh Patro",
-        "original_name": "Ganesh Patro",
-        "popularity": 0.1068,
-        "profile_path": null,
-        "credit_id": "60741b094d0e8d007b02e296",
-        "department": "Writing",
-        "job": "Dialogue"
+        "credit_id": "60741bbd2a09bc006e483c4b",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -149,7 +133,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0574,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "60741be48ddc3400798c5a05",
         "department": "Sound",
@@ -157,25 +141,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 3049113,
-        "known_for_department": "Editing",
-        "name": "Akkineni Ajay Kumar",
-        "original_name": "Akkineni Ajay Kumar",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "60741bbd2a09bc006e483c4b",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "60741bf3ca835400408d67d8",
         "department": "Sound",
@@ -183,16 +154,16 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 3049107,
-        "known_for_department": "Directing",
-        "name": "Satyanarayana Vejella",
-        "original_name": "Satyanarayana Vejella",
-        "popularity": 0.0286,
+        "gender": 0,
+        "id": 3049112,
+        "known_for_department": "Camera",
+        "name": "R. K. Raju",
+        "original_name": "R. K. Raju",
+        "popularity": 0.2632,
         "profile_path": null,
-        "credit_id": "60741b364d0e8d002c57cdfd",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "60741b7cd8f44e004172da6d",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -201,7 +172,7 @@
         "known_for_department": "Directing",
         "name": "Satyanarayana Vejella",
         "original_name": "Satyanarayana Vejella",
-        "popularity": 0.0286,
+        "popularity": 0.3095,
         "profile_path": null,
         "credit_id": "60741ab4fb834600578e0f9d",
         "department": "Directing",
@@ -214,13 +185,42 @@
         "known_for_department": "Writing",
         "name": "Nanu Chandra",
         "original_name": "Nanu Chandra",
-        "popularity": 0.0071,
+        "popularity": 0.3427,
         "profile_path": null,
         "credit_id": "60741b28d4b9d900792145ec",
         "department": "Writing",
         "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661806,
+        "known_for_department": "Writing",
+        "name": "Ganesh Patro",
+        "original_name": "Ganesh Patro",
+        "popularity": 0.6081,
+        "profile_path": null,
+        "credit_id": "60741b094d0e8d007b02e296",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3049107,
+        "known_for_department": "Directing",
+        "name": "Satyanarayana Vejella",
+        "original_name": "Satyanarayana Vejella",
+        "popularity": 0.3095,
+        "profile_path": null,
+        "credit_id": "60741b364d0e8d002c57cdfd",
+        "department": "Writing",
+        "job": "Screenplay"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0271353",
@@ -228,6 +228,14 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -245,14 +253,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "alternative_titles": {
     "titles": []

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Jayasimha",
   "overview": "Inspired from the Telugu novel Veera Pooja, the film tells the story of Jayasimha (played by Rama Rao), the crown prince of Malawa kingdom who escapes assassination attempts from his uncle Rudrasimha (Ranga Rao), who wishes to ascend the throne as the next king. Jayasimha leaves Malawa assuming a new identity and leads the life of a soldier in Magadha kingdom.",
-  "popularity": 0.3438,
+  "popularity": 0.6871,
   "poster_path": "/xBVem6l54Yiv6soFvqofD6U1twp.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Jayasimha/Bhavani",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2662,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 2,
         "character": "Kalindi",
@@ -76,8 +76,8 @@
         "known_for_department": "Acting",
         "name": "Waheeda Rehman",
         "original_name": "Waheeda Rehman",
-        "popularity": 0.7148,
-        "profile_path": "/iErQ38ChGV6989lh1TU4SExMkWS.jpg",
+        "popularity": 0.9518,
+        "profile_path": "/h7GkZUbiexxIHAODJzPYlNgJ2ue.jpg",
         "cast_id": 3,
         "character": "Padmini",
         "credit_id": "65c03b5f907f2601877263a2",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 4,
         "character": "Rudrasimha",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 5,
         "character": "Budhimathi",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 6,
         "character": "Ranadeer",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.1879,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 7,
         "character": "Vijayasimha",
@@ -143,29 +143,42 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 585311,
+        "known_for_department": "Directing",
+        "name": "D. Yoganand",
+        "original_name": "Yoganand D",
+        "popularity": 0.8521,
+        "profile_path": null,
+        "credit_id": "65c03c1ca35c8e0163d5c780",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674888,
+        "known_for_department": "Sound",
+        "name": "T. V. Raju",
+        "original_name": "T. V. Raju",
+        "popularity": 0.3015,
+        "profile_path": "/9e0PjWVZ8eleTlDiEMe8N8bzLo5.jpg",
+        "credit_id": "65c03c6c9020120162cc0b14",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 4518630,
         "known_for_department": "Production",
         "name": "N. Trivikrama Rao",
         "original_name": "N. Trivikrama Rao",
-        "popularity": 0.0648,
+        "popularity": 0.2611,
         "profile_path": null,
         "credit_id": "65c03c5412c604017c0359bf",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585311,
-        "known_for_department": "Directing",
-        "name": "Yoganand D",
-        "original_name": "Yoganand D",
-        "popularity": 0.1187,
-        "profile_path": null,
-        "credit_id": "65c03c1ca35c8e0163d5c780",
-        "department": "Directing",
-        "job": "Director"
       },
       {
         "adult": false,
@@ -174,24 +187,40 @@
         "known_for_department": "Writing",
         "name": "Samudrala Jr",
         "original_name": "Samudrala Jr",
-        "popularity": 0.1673,
+        "popularity": 0.4265,
         "profile_path": null,
         "credit_id": "65c03c30ba480201826d67da",
         "department": "Writing",
         "job": "Writer"
-      },
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0278519",
+    "wikidata_id": "Q6167669",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
       {
-        "adult": false,
-        "gender": 0,
-        "id": 1674888,
-        "known_for_department": "Sound",
-        "name": "T. V. Raju",
-        "original_name": "T. V. Raju",
-        "popularity": 0.1212,
-        "profile_path": null,
-        "credit_id": "65c03c6c9020120162cc0b14",
-        "department": "Sound",
-        "job": "Music"
+        "aspect_ratio": 0.658,
+        "height": 1472,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xBVem6l54Yiv6soFvqofD6U1twp.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 968
       }
     ]
   },
@@ -209,35 +238,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0278519",
-    "wikidata_id": "Q6167669",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.658,
-        "height": 1472,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/xBVem6l54Yiv6soFvqofD6U1twp.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 968
       }
     ]
   },

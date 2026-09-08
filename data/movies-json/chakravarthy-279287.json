@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Chakravarthy",
   "overview": "",
-  "popularity": 0.2865,
+  "popularity": 1.648,
   "poster_path": "/q8wQjlzbEnU277GNJ3J6HrXSELC.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -51,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Anji",
@@ -65,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 4,
         "character": "Mohan Rao",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 5,
         "character": "Rani",
@@ -93,8 +90,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.2012,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 6,
         "character": "Lakshmi",
         "credit_id": "53b0b7bec3a3682ef10056e2",
@@ -107,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.1551,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 7,
         "character": "Swamiji",
@@ -120,8 +117,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -135,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 9,
         "character": "President",
@@ -151,7 +148,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0b7ae0e0a26597d006fa9",
         "department": "Sound",
@@ -164,7 +161,7 @@
         "known_for_department": "Production",
         "name": "Kodali Venkateswara Rao",
         "original_name": "Kodali Venkateswara Rao",
-        "popularity": 0.0261,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0b7b70e0a265975006f79",
         "department": "Production",
@@ -177,13 +174,16 @@
         "known_for_department": "Directing",
         "name": "Ravi Raja Pinisetty",
         "original_name": "Ravi Raja Pinisetty",
-        "popularity": 0.4018,
+        "popularity": 1.5645,
         "profile_path": "/9f79yJWicaRTt9dnF4sdUcAx8J3.jpg",
         "credit_id": "53b0b7acc3a3682edf00551b",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -221,14 +221,14 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

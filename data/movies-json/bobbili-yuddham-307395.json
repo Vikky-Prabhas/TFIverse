@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "బొబ్బిలి యుద్ధం",
   "overview": "The story of this film revolves around the ' Battle of Bobbili ' fought between the Bobbili and the Vijayanagaram kingdoms in 1757.",
-  "popularity": 0.2285,
+  "popularity": 0.56,
   "poster_path": "/he3u2iCcGcnU80LO9nzYQZluvNA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,6 +47,9 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -56,7 +59,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Rangarayadu",
@@ -70,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Bhanumathi",
         "original_name": "Bhanumathi",
-        "popularity": 0.4482,
+        "popularity": 0.6397,
         "profile_path": "/9ejplTXoqbhjQVB5OiktvHoAlwB.jpg",
         "cast_id": 2,
         "character": "Mallamma",
@@ -84,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 3,
         "character": "Tandra Paparayudu",
@@ -98,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Kaleswara Rao",
         "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1986,
+        "popularity": 0.5475,
         "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
         "cast_id": 6,
         "character": "Vijaya Rama Raju",
@@ -114,7 +117,7 @@
         "known_for_department": "Directing",
         "name": "Seetaram C.",
         "original_name": "Seetaram C.",
-        "popularity": 0,
+        "popularity": 0.2916,
         "profile_path": null,
         "credit_id": "67a5ab1bbf36040c5d85ee35",
         "department": "Directing",
@@ -127,7 +130,7 @@
         "known_for_department": "Directing",
         "name": "Seetaram C.",
         "original_name": "Seetaram C.",
-        "popularity": 0,
+        "popularity": 0.2916,
         "profile_path": null,
         "credit_id": "67a5ab39f196a73ae7670bc7",
         "department": "Writing",
@@ -135,15 +138,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt0259220",
     "wikidata_id": "Q4934676",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -162,6 +165,15 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Bobbili Yuddham",
+        "type": ""
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -177,17 +189,5 @@
         "width": 1397
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "US",
-        "title": "Bobbili Yuddham",
-        "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

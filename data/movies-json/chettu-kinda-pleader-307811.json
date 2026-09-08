@@ -3,7 +3,16 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
   "homepage": "",
   "id": 307811,
   "imdb_id": "tt0251634",
@@ -13,10 +22,15 @@
   "original_language": "te",
   "original_title": "Chettu Kinda Pleader",
   "overview": "When a businessman is killed, his widow seeks justice. However, when no reputable lawyer accepts the case, she hires an unemployed lawyer to help her get to the truth.",
-  "popularity": 0.4057,
+  "popularity": 1.4057,
   "poster_path": "/6Xz1AkbCeURQXFpkYeoSjZFCdGz.jpg",
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "1989-02-16",
   "revenue": 0,
   "runtime": 125,
@@ -45,8 +59,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Balaraju",
@@ -60,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Kinnera",
         "original_name": "Kinnera",
-        "popularity": 0.0379,
+        "popularity": 0.4585,
         "profile_path": null,
         "cast_id": 10,
         "character": "Krishna Kumari",
@@ -74,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.5311,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 3,
         "character": "Gopala Krishna",
@@ -88,8 +102,8 @@
         "known_for_department": "Acting",
         "name": "Urvashi",
         "original_name": "Urvashi",
-        "popularity": 0.7875,
-        "profile_path": "/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg",
+        "popularity": 2.1245,
+        "profile_path": "/A6kHkXIhzL2LHIi78kNROdud7Mw.jpg",
         "cast_id": 6,
         "character": "Sujatha",
         "credit_id": "60e0ae9fbdd568007ea3df02",
@@ -102,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 4,
         "character": "Sarabhayya",
@@ -116,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Rao",
         "original_name": "Mallikarjuna Rao",
-        "popularity": 0.4229,
+        "popularity": 1.233,
         "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
         "cast_id": 5,
         "character": "Yesupadam",
@@ -130,8 +144,8 @@
         "known_for_department": "Acting",
         "name": "Pradeep Shakti",
         "original_name": "Pradeep Shakti",
-        "popularity": 0.249,
-        "profile_path": null,
+        "popularity": 0.9482,
+        "profile_path": "/pIRMIvAtpmrdodlzR3HVxctpFog.jpg",
         "cast_id": 7,
         "character": "Lawyer Basavaraju",
         "credit_id": "60e0aeadd0b434007f090b75",
@@ -144,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Devadasu Kanakala",
         "original_name": "Devadasu Kanakala",
-        "popularity": 0.0986,
+        "popularity": 0.5802,
         "profile_path": null,
         "cast_id": 8,
         "character": "Bhagavantam",
@@ -158,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 9,
         "character": "Paata Samanlavaadu",
@@ -172,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Vijayachander",
         "original_name": "Vijayachander",
-        "popularity": 0.1794,
+        "popularity": 0.9327,
         "profile_path": null,
         "cast_id": 18,
         "character": "Father Cabriyal",
@@ -186,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 19,
         "character": "Aadibabu",
@@ -200,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.6108,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 20,
         "character": "Goon",
@@ -214,8 +228,8 @@
         "known_for_department": "Acting",
         "name": "Raasi",
         "original_name": "Raasi",
-        "popularity": 0.7164,
-        "profile_path": "/te4b8v3SbrPYX81qAY4SeJBccVP.jpg",
+        "popularity": 1.3424,
+        "profile_path": "/e3K8Oq0qjzAthJr67ptKUVnaP02.jpg",
         "cast_id": 21,
         "character": "Nani",
         "credit_id": "6517ac269d592c0102bf55a3",
@@ -230,63 +244,11 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2766,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "60e0adee945d360046fb2691",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1832284,
-        "known_for_department": "Editing",
-        "name": "Anil Malnad",
-        "original_name": "Anil Malnad",
-        "popularity": 0.0906,
-        "profile_path": null,
-        "credit_id": "6517aadaa199a600e1fbd621",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2766,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "6517aa5393bd6900e12d80db",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 76888,
-        "known_for_department": "Sound",
-        "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
-        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "6517aae9967cc700e29c9e12",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1670512,
-        "known_for_department": "Camera",
-        "name": "Hari Anumolu",
-        "original_name": "Hari Anumolu",
-        "popularity": 0.1204,
-        "profile_path": null,
-        "credit_id": "6517aaccc50ad2014dcd2fc4",
-        "department": "Crew",
-        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -295,24 +257,11 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "credit_id": "6517aa47ea84c7010c125e27",
         "department": "Writing",
         "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584673,
-        "known_for_department": "Writing",
-        "name": "Yandamuri Veerendranath",
-        "original_name": "Yandamuri Veerendranath",
-        "popularity": 0.1978,
-        "profile_path": null,
-        "credit_id": "6517aa64a199a600ab18e587",
-        "department": "Writing",
-        "job": "Story"
       },
       {
         "adult": false,
@@ -321,11 +270,76 @@
         "known_for_department": "Production",
         "name": "Nandigam Surya Ravindra",
         "original_name": "Nandigam Surya Ravindra",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "6517aab2967cc7011c8f2df6",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "6517aa5393bd6900e12d80db",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584673,
+        "known_for_department": "Writing",
+        "name": "Yandamuri Veerendranath",
+        "original_name": "Yandamuri Veerendranath",
+        "popularity": 0.8362,
+        "profile_path": null,
+        "credit_id": "6517aa64a199a600ab18e587",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832284,
+        "known_for_department": "Editing",
+        "name": "Anil Malnad",
+        "original_name": "Anil Malnad",
+        "popularity": 0.3797,
+        "profile_path": null,
+        "credit_id": "6517aadaa199a600e1fbd621",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670512,
+        "known_for_department": "Camera",
+        "name": "Hari Anumolu",
+        "original_name": "Hari Anumolu",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "credit_id": "6a062ef5b3667008c92dd668",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a062f5b194475ebab3d97fb",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
   },
@@ -336,25 +350,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1989-02-16T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -392,7 +389,24 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1989-02-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

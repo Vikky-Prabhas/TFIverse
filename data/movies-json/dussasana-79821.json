@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "దుశ్శాసన",
   "overview": "Posani Krishna Murali has mastered the art of keeping the audiences engaged by the first fifteen minutes, not because of some spectacular comedy or mind-blowing action but due to weird dialogues and scenes.",
-  "popularity": 0.2588,
+  "popularity": 0.6143,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.7734,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 1,
         "character": "",
@@ -68,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "credit_id": "52fe49e7c3a368484e1465dd",
         "department": "Directing",
@@ -76,15 +86,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -107,11 +113,5 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

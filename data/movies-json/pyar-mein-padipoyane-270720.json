@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Pyar Mein Padipoyane",
   "overview": "Chandra alias Chinna and Yuktha are childhood friends. Chinna and his family move out of the house and that is the end of the connection between Chinna and Yuktha, But Chinna steals something that is of great value to Yuktha and she hates him for that.",
-  "popularity": 0.1243,
+  "popularity": 0.5552,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Aadi Saikumar",
         "original_name": "Aadi Saikumar",
-        "popularity": 0.5775,
+        "popularity": 1.3584,
         "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
         "cast_id": 0,
         "character": "Chandra",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Shanvi Shrivastava",
         "original_name": "Shanvi Shrivastava",
-        "popularity": 0.3174,
+        "popularity": 0.8424,
         "profile_path": "/8ZRnmt0pnn2vdPJVK9UsWyakEF2.jpg",
         "cast_id": 1,
         "character": "Yuktha",
@@ -78,7 +78,7 @@
         "known_for_department": "Directing",
         "name": "Ravi Chavali",
         "original_name": "Ravi Chavali",
-        "popularity": 0.0496,
+        "popularity": 0.3543,
         "profile_path": null,
         "credit_id": "57c03cefc3a36820f80040f5",
         "department": "Directing",
@@ -89,8 +89,15 @@
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt6543328",
+    "wikidata_id": "Q28129053",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -108,15 +115,8 @@
     "logos": [],
     "posters": []
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6543328",
-    "wikidata_id": "Q28129053",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [

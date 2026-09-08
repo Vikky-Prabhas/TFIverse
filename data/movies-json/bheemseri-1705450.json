@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/8z1sqPLujcMY1qI7Of89iRg1kv6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1705450,
+  "imdb_id": "tt42665354",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Bheemseri",
+  "overview": "A ruthless police officer misuses her power, destroying a poor family in a brutal act of injustice. The lone survivor, a strong and determined woman, rises from the ashes with a burning desire for revenge. As she hunts the officer, dark truths unravel, leading to a gripping face-off between power, guilt, and justice.",
+  "popularity": 0.3819,
+  "poster_path": "/ctpRC231PKld1HBdjyoXdIG0sZa.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-05-23",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bheemseri",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91557,
+        "known_for_department": "Acting",
+        "name": "Suman",
+        "original_name": "Suman Talwar",
+        "popularity": 1.7241,
+        "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6a1bf18e3e224299d352c079",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42665354",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bhishmar Official Trailer | East Coast Vijayan | Dhyan Sreenivasan| Vishnu Unnikrishnan|Divya Pillai",
+        "key": "t5pkwVCNfnE",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a1e758bf4ecbc3443bef628",
+        "published_at": "2026-03-14T12:30:06.000Z"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-05-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Prime Video",
+            "release_date": "2026-05-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8z1sqPLujcMY1qI7Of89iRg1kv6.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ctpRC231PKld1HBdjyoXdIG0sZa.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

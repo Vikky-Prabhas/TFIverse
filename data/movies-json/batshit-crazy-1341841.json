@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Batshit Crazy",
   "overview": "",
-  "popularity": 0.0377,
+  "popularity": 0.6457,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -39,16 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [],
     "crew": [
@@ -59,13 +49,23 @@
         "known_for_department": "Writing",
         "name": "Yogesh Chandekar",
         "original_name": "Yogesh Chandekar",
-        "popularity": 0.1856,
+        "popularity": 0.3902,
         "profile_path": null,
         "credit_id": "66d4535240190671b1b190ab",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -84,15 +84,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   }
 }

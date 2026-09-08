@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "A Masterpiece",
   "overview": "As he searches for a cure for his wife, a brilliant scientist stumbles upon a crystalline amulet that grants his son incredible superhuman powers. His son goes on to battle the wicked Mr. A, who can control minds.",
-  "popularity": 0.1877,
+  "popularity": 0.5671,
   "poster_path": null,
   "production_companies": [
     {
@@ -62,170 +62,6 @@
   "videos": {
     "results": []
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 518545,
-        "known_for_department": "Acting",
-        "name": "Arvind Krishna",
-        "original_name": "Arvind Krishna",
-        "popularity": 0.2484,
-        "profile_path": "/6qjmaipzEfaYZAtlEnCA0db6N3i.jpg",
-        "cast_id": 3,
-        "character": "Super Hero",
-        "credit_id": "6564596fb234b900c5eec6c1",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4399274,
-        "known_for_department": "Acting",
-        "name": "Manish Gilada",
-        "original_name": "Manish Gilada",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "Mr. A",
-        "credit_id": "6564597d24418200ebe57137",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4284403,
-        "known_for_department": "Directing",
-        "name": "Srikanth Kandragula",
-        "original_name": "Srikanth Kandragula",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "6564598aa6c10400e166635f",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2372805,
-        "known_for_department": "Acting",
-        "name": "Ashu Reddy",
-        "original_name": "Ashu Reddy",
-        "popularity": 0.358,
-        "profile_path": "/uaLqIS2YpmDd3QL1WfoyejoANRC.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "65645991fb52990120013ba9",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 4399276,
-        "known_for_department": "Acting",
-        "name": "Jyoti Poorvaj",
-        "original_name": "Jyothi Rai",
-        "popularity": 0.0143,
-        "profile_path": "/yct88E9k2amlB0QZy1GTfYZJVbb.jpg",
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "6564599d24418200ca781240",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3569501,
-        "known_for_department": "Acting",
-        "name": "Sneha Gupta",
-        "original_name": "Sneha Gupta",
-        "popularity": 0.1503,
-        "profile_path": "/nTgtHtIM8tLYLDWVeymcjXbraro.jpg",
-        "cast_id": 8,
-        "character": "",
-        "credit_id": "656459a98f26bc00e23c5dea",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3083028,
-        "known_for_department": "Acting",
-        "name": "Archana Ananth",
-        "original_name": "Archana Ananth",
-        "popularity": 0.0963,
-        "profile_path": "/nDv1iXXc7WYhG72wskwvIZekTBc.jpg",
-        "cast_id": 10,
-        "character": "",
-        "credit_id": "68aeb1ab2fc17e6787fa917c",
-        "order": 6
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 560038,
-        "known_for_department": "Acting",
-        "name": "Jayaprakash",
-        "original_name": "Jayaprakash",
-        "popularity": 0.6566,
-        "profile_path": "/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg",
-        "cast_id": 11,
-        "character": "",
-        "credit_id": "68aeb1b2e9baacb2e3390474",
-        "order": 7
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3081442,
-        "known_for_department": "Directing",
-        "name": "Poorvaaj",
-        "original_name": "Suku Purvaj",
-        "popularity": 0.0256,
-        "profile_path": null,
-        "credit_id": "6564594624418200ad5f508c",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4284403,
-        "known_for_department": "Directing",
-        "name": "Srikanth Kandragula",
-        "original_name": "Srikanth Kandragula",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6564595e3679a10977e1cb2e",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3081442,
-        "known_for_department": "Directing",
-        "name": "Poorvaaj",
-        "original_name": "Suku Purvaj",
-        "popularity": 0.0256,
-        "profile_path": null,
-        "credit_id": "68aeb18c777fc5504056b616",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt29684936",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": [
       {
@@ -246,6 +82,13 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt29684936",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "release_dates": {
     "results": []
   },
@@ -253,6 +96,163 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 518545,
+        "known_for_department": "Acting",
+        "name": "Arvind Krishna",
+        "original_name": "Arvind Krishna",
+        "popularity": 0.6605,
+        "profile_path": "/6qjmaipzEfaYZAtlEnCA0db6N3i.jpg",
+        "cast_id": 3,
+        "character": "Super Hero",
+        "credit_id": "6564596fb234b900c5eec6c1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4399274,
+        "known_for_department": "Acting",
+        "name": "Manish Gilada",
+        "original_name": "Manish Gilada",
+        "popularity": 0.3214,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mr. A",
+        "credit_id": "6564597d24418200ebe57137",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4284403,
+        "known_for_department": "Directing",
+        "name": "Srikanth Kandragula",
+        "original_name": "Srikanth Kandragula",
+        "popularity": 0.4151,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6564598aa6c10400e166635f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2372805,
+        "known_for_department": "Acting",
+        "name": "Ashu Reddy",
+        "original_name": "Ashu Reddy",
+        "popularity": 0.7696,
+        "profile_path": "/uaLqIS2YpmDd3QL1WfoyejoANRC.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "65645991fb52990120013ba9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4399276,
+        "known_for_department": "Acting",
+        "name": "Jyoti Poorvaj",
+        "original_name": "Jyothi Rai",
+        "popularity": 0.3904,
+        "profile_path": "/yct88E9k2amlB0QZy1GTfYZJVbb.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6564599d24418200ca781240",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3569501,
+        "known_for_department": "Acting",
+        "name": "Sneha Gupta",
+        "original_name": "Sneha Gupta",
+        "popularity": 0.4408,
+        "profile_path": "/nTgtHtIM8tLYLDWVeymcjXbraro.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "656459a98f26bc00e23c5dea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3083028,
+        "known_for_department": "Acting",
+        "name": "Archana Ananth",
+        "original_name": "Archana Ananth",
+        "popularity": 0.7701,
+        "profile_path": "/nDv1iXXc7WYhG72wskwvIZekTBc.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "68aeb1ab2fc17e6787fa917c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560038,
+        "known_for_department": "Acting",
+        "name": "Jayaprakash",
+        "original_name": "Jayaprakash",
+        "popularity": 1.7941,
+        "profile_path": "/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "68aeb1b2e9baacb2e3390474",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3081442,
+        "known_for_department": "Directing",
+        "name": "Poorvaaj",
+        "original_name": "Suku Purvaj",
+        "popularity": 0.5238,
+        "profile_path": null,
+        "credit_id": "6564594624418200ad5f508c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4284403,
+        "known_for_department": "Directing",
+        "name": "Srikanth Kandragula",
+        "original_name": "Srikanth Kandragula",
+        "popularity": 0.4151,
+        "profile_path": null,
+        "credit_id": "6564595e3679a10977e1cb2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3081442,
+        "known_for_department": "Directing",
+        "name": "Poorvaaj",
+        "original_name": "Suku Purvaj",
+        "popularity": 0.5238,
+        "profile_path": null,
+        "credit_id": "68aeb18c777fc5504056b616",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
   },
   "alternative_titles": {
     "titles": [

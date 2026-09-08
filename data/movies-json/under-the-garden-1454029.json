@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Under the Garden",
   "overview": "Our Aamin is trapped somewhere where is it?",
-  "popularity": 0.08,
+  "popularity": 0.4486,
   "poster_path": "/xPQn6K7508qOqc3ORGyyBrG83bv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,16 +47,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
   },
@@ -69,7 +59,7 @@
         "known_for_department": "Acting",
         "name": "Faheem Shaik",
         "original_name": "Faheem Shaik",
-        "popularity": 0,
+        "popularity": 0.2969,
         "profile_path": null,
         "cast_id": 1,
         "character": "Aamin Shaikh / Unknown Creature (Voice)",
@@ -85,7 +75,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2e1247b7313b5aef07376",
         "department": "Directing",
@@ -98,7 +88,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2e12fd70c61590375ead2",
         "department": "Writing",
@@ -111,7 +101,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2e13be28af41cfc760e64",
         "department": "Editing",
@@ -124,7 +114,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2e146eba79f6ff7f09a1e",
         "department": "Camera",
@@ -137,7 +127,7 @@
         "known_for_department": "Sound",
         "name": "Michael Vrazitoulis",
         "original_name": "Michael Vrazitoulis",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "credit_id": "67e2e1654c52746665dc9fbb",
         "department": "Sound",
@@ -150,7 +140,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2e26be28af41cfc760ee8",
         "department": "Production",
@@ -163,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Shaheera Shaik",
         "original_name": "Shaheera Shaik",
-        "popularity": 0,
+        "popularity": 0.2638,
         "profile_path": null,
         "credit_id": "67e2e27a7b7313b5aef073f9",
         "department": "Production",
@@ -176,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Faheem Shaik",
         "original_name": "Faheem Shaik",
-        "popularity": 0,
+        "popularity": 0.2969,
         "profile_path": null,
         "credit_id": "67e2e28ae28af41cfc760ef6",
         "department": "Production",
@@ -184,8 +174,15 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -203,6 +200,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "సీత ఆన్ ది రోడ్‌",
   "overview": "The movie is about five women coming from different social environments and the challenges they face - in urban and rural settings. In the course of facing their challenges, they look for freedom from the reality and happen to undertake an unknown journey.",
-  "popularity": 0.2857,
+  "popularity": 1.1507,
   "poster_path": "/tkShVIu1UmVHLPmeegTbl8dbZwZ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Kalpika Ganesh",
         "original_name": "Kalpika Ganesh",
-        "popularity": 0.3044,
+        "popularity": 1.2863,
         "profile_path": "/7q7UPxKI3Kuw9hC3QpNBxULzBuh.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Gayatri Gupta",
         "original_name": "Gayatri Gupta",
-        "popularity": 0.0935,
+        "popularity": 0.4416,
         "profile_path": "/aJlbNUzixI72ENmVQ1RSzLe2FTF.jpg",
         "cast_id": 2,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Khatera Hakimi",
         "original_name": "Khatera Hakimi",
-        "popularity": 0,
+        "popularity": 0.3599,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Nesa Farhadi",
         "original_name": "Nesa Farhadi",
-        "popularity": 0,
+        "popularity": 0.2804,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Uma Lingaiah",
         "original_name": "Uma Lingaiah",
-        "popularity": 0,
+        "popularity": 0.2869,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -115,59 +115,7 @@
         "known_for_department": "Directing",
         "name": "Praneeth Yaron",
         "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "609691f10929f6003adbe5c7",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3083203,
-        "known_for_department": "Directing",
-        "name": "Praneeth Yaron",
-        "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "60969030dd2589003cec178e",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3083203,
-        "known_for_department": "Directing",
-        "name": "Praneeth Yaron",
-        "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "6096901e10dad6003c0dc996",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3083203,
-        "known_for_department": "Directing",
-        "name": "Praneeth Yaron",
-        "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "609690295ed8e9003dd6089a",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3083203,
-        "known_for_department": "Directing",
-        "name": "Praneeth Yaron",
-        "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
+        "popularity": 0.3323,
         "profile_path": null,
         "credit_id": "609690179661fc003b9a1fc4",
         "department": "Directing",
@@ -180,11 +128,63 @@
         "known_for_department": "Directing",
         "name": "Praneeth Yaron",
         "original_name": "Praneeth Yaron",
-        "popularity": 0.0214,
+        "popularity": 0.3323,
+        "profile_path": null,
+        "credit_id": "6096901e10dad6003c0dc996",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3083203,
+        "known_for_department": "Directing",
+        "name": "Praneeth Yaron",
+        "original_name": "Praneeth Yaron",
+        "popularity": 0.3323,
+        "profile_path": null,
+        "credit_id": "609690295ed8e9003dd6089a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3083203,
+        "known_for_department": "Directing",
+        "name": "Praneeth Yaron",
+        "original_name": "Praneeth Yaron",
+        "popularity": 0.3323,
+        "profile_path": null,
+        "credit_id": "60969030dd2589003cec178e",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3083203,
+        "known_for_department": "Directing",
+        "name": "Praneeth Yaron",
+        "original_name": "Praneeth Yaron",
+        "popularity": 0.3323,
         "profile_path": null,
         "credit_id": "60969037b2e074003d6e5117",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3083203,
+        "known_for_department": "Directing",
+        "name": "Praneeth Yaron",
+        "original_name": "Praneeth Yaron",
+        "popularity": 0.3323,
+        "profile_path": null,
+        "credit_id": "609691f10929f6003adbe5c7",
+        "department": "Production",
+        "job": "Executive Producer"
       },
       {
         "adult": false,
@@ -193,7 +193,7 @@
         "known_for_department": "Camera",
         "name": "K. Anand Raj",
         "original_name": "K. Anand Raj",
-        "popularity": 0.0071,
+        "popularity": 0.2695,
         "profile_path": null,
         "credit_id": "6096920a5ed8e9003cd674d3",
         "department": "Camera",
@@ -204,15 +204,15 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt9342916",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -230,6 +230,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -287,8 +290,5 @@
         "width": 700
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

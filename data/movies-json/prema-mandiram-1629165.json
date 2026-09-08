@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Prema Mandiram",
   "overview": "Bhupati Raja is a ruler of the kingdom. He is strictly against love marriages and backward castes. He kils his younger son as he falls in love with a girl.",
-  "popularity": 0.0453,
+  "popularity": 3.794,
   "poster_path": null,
   "production_companies": [
     {
@@ -51,6 +51,9 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -58,9 +61,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 1,
         "character": "Pedababu Sarvarayudu / Chinnababu",
@@ -74,8 +77,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7318,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 2,
         "character": "Madhura Ranjani",
         "credit_id": "69839d1f58acac5b07998f38",
@@ -88,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 3,
         "character": "Bhupati Raja",
@@ -102,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 4,
         "character": "Vikram",
@@ -115,9 +118,9 @@
         "id": 560027,
         "known_for_department": "Acting",
         "name": "Ambika",
-        "original_name": "Ambika",
-        "popularity": 0.5189,
-        "profile_path": "/ef3yqRwHpMcsdA9eygCRjjK72f6.jpg",
+        "original_name": "அம்பிகா",
+        "popularity": 2.9248,
+        "profile_path": "/2AyTWcw1j61iFSywtYONZJKEWKw.jpg",
         "cast_id": 5,
         "character": "Hema",
         "credit_id": "69839d82dda30161e56ee6e3",
@@ -130,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.8127,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 6,
         "character": "",
@@ -146,7 +149,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5097,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "69839db94118c3f51a36309f",
         "department": "Directing",
@@ -159,7 +162,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5097,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "69839dc1cadaa293676e710f",
         "department": "Writing",
@@ -172,7 +175,7 @@
         "known_for_department": "Production",
         "name": "D. Rama Naidu",
         "original_name": "D. Rama Naidu",
-        "popularity": 0.1886,
+        "popularity": 0.4203,
         "profile_path": "/gGZgHVJmWIIu1RzjlxFmoKDDdW0.jpg",
         "credit_id": "69839dd315f42c3cc16ee6fc",
         "department": "Production",
@@ -185,7 +188,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Selvaraj",
         "original_name": "P. S. Selvaraj",
-        "popularity": 0.1246,
+        "popularity": 0.3788,
         "profile_path": null,
         "credit_id": "69839de20e6514cdf5912964",
         "department": "Camera",
@@ -198,7 +201,7 @@
         "known_for_department": "Editing",
         "name": "K. A. Marthand",
         "original_name": "K. A. Marthand",
-        "popularity": 0.05,
+        "popularity": 0.282,
         "profile_path": null,
         "credit_id": "69839df17745f6b379998f85",
         "department": "Editing",
@@ -211,19 +214,13 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1694,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "69839dff59b03e4cb24f6454",
         "department": "Sound",
         "job": "Original Music Composer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt0262704",
@@ -237,8 +234,8 @@
     "logos": [],
     "posters": []
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -256,5 +253,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

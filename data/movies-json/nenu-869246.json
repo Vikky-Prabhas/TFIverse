@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "నేను",
   "overview": "A genius-yet-introverted orphan, raised by a church priest, is sent to college where he turns out to be a social outcast. Although he is shunned by the majority of the other students, one girl shows him kindness and befriends him. Things take a turn when he falls for her, and she in turn falls for another classmate.",
-  "popularity": 0.4884,
+  "popularity": 1.0613,
   "poster_path": "/zPNY6D4v9GUg3TU66uy6ccUJH3c.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Allari Naresh",
         "original_name": "Allari Naresh",
-        "popularity": 0.647,
+        "popularity": 1.9234,
         "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
         "cast_id": 1,
         "character": "Vinod",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Archana",
         "original_name": "Archana",
-        "popularity": 0.3452,
+        "popularity": 1.4919,
         "profile_path": "/yD6PQ2jJ9KAObSP4LJFpxovkexS.jpg",
         "cast_id": 2,
         "character": "Divya",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 3,
         "character": "Father",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 4,
         "character": "Sub inspector",
@@ -118,9 +118,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.6126,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 5,
         "character": "",
@@ -133,9 +133,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "612e3df450733c002a738411",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "cast_id": 7,
         "character": "Church Father",
@@ -164,7 +164,7 @@
         "known_for_department": "Directing",
         "name": "E. Sathi Babu",
         "original_name": "E. Sathi Babu",
-        "popularity": 0.115,
+        "popularity": 0.9464,
         "profile_path": null,
         "credit_id": "650e6de926dac100eb1944d9",
         "department": "Directing",
@@ -173,28 +173,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3218023,
-        "known_for_department": "Production",
-        "name": "Maullapudi Brahmanandam",
-        "original_name": "Maullapudi Brahmanandam",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "612e3ee49c24fc0066d6e2a4",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3218020,
         "known_for_department": "Writing",
         "name": "Selva Raghavan",
         "original_name": "Selva Raghavan",
-        "popularity": 0.0453,
+        "popularity": 0.2756,
         "profile_path": null,
         "credit_id": "612e3e86fac5020026fb5ca1",
         "department": "Writing",
         "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3218023,
+        "known_for_department": "Production",
+        "name": "Maullapudi Brahmanandam",
+        "original_name": "Maullapudi Brahmanandam",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "612e3ee49c24fc0066d6e2a4",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -203,7 +203,7 @@
         "known_for_department": "Sound",
         "name": "Vidyasagar",
         "original_name": "Vidyasagar",
-        "popularity": 0.2783,
+        "popularity": 0.5272,
         "profile_path": "/f0mzntGkD90Brbg0db7w8WCPGIT.jpg",
         "credit_id": "652831a6629b2c00e266d065",
         "department": "Sound",
@@ -216,7 +216,7 @@
         "known_for_department": "Camera",
         "name": "C. Ramprasad",
         "original_name": "C. Ramprasad",
-        "popularity": 0.1318,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "617b442828723c006642f508",
         "department": "Camera",
@@ -226,13 +226,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1606302",
-    "wikidata_id": "Q6991668",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -258,9 +251,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -338,5 +328,15 @@
         "width": 2000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1606302",
+    "wikidata_id": "Q6991668",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

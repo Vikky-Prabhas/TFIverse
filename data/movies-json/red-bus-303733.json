@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Erra Bus",
   "overview": "Erra Bus (For English: Red Bus) is a 2014 Tollywood movie which is directed and produced by veteran actor and director Dasari Narayana Rao under his banner Tharaka Prabhu Films. The movie features Vishnu Manchu and Catherine Tresa in lead roles. Dasari Narayana Rao plays a crucial role in the movie. Chakri has composed the music for the movie while Anji has taken care of the cinematography. The movie is a remake of N. Ragavan’s Tamil film, Manjapai (2014). The principal photography of Erra Bus started on July 28, 2014 in Hyderabad. The audio for this movie launched on 31 October 2014.  The movie released on November 14, 2014.",
-  "popularity": 0.1885,
+  "popularity": 0.7764,
   "poster_path": "/eCbNzxmOFEGgTJjmIfJPLP4BV6p.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Manchu",
         "original_name": "Vishnu Manchu",
-        "popularity": 0.5128,
+        "popularity": 2.2105,
         "profile_path": "/g0wi6kP54JK2B1312pwiEexihFB.jpg",
         "cast_id": 0,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "cast_id": 1,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Catherine Tresa",
         "original_name": "Catherine Tresa",
-        "popularity": 0.4994,
+        "popularity": 2.9368,
         "profile_path": "/7RAxooOVqPb8nkhZjyaEC2aj3ij.jpg",
         "cast_id": 3,
         "character": "",
@@ -105,8 +105,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,51 +122,11 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "687ab8799677276c51169620",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Errabassu Theatrical Trailer | Manchu Vishnu |  Cathatine Theresa |Chakri",
-        "key": "koP6f74cbls",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "687ab8b7a43d59061b72c01a",
-        "published_at": "2014-11-03T09:02:24.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": "Q18124649",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2014-11-14T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -186,10 +146,50 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": "Q18124649",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "keywords": {
     "keywords": []
   },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Errabassu Theatrical Trailer | Manchu Vishnu |  Cathatine Theresa |Chakri",
+        "key": "koP6f74cbls",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "687ab8b7a43d59061b72c01a",
+        "published_at": "2014-11-03T09:02:24.000Z"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

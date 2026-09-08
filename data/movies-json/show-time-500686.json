@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "షో టైమ్",
   "overview": "Upcoming Telugu movie Directed by SS Kanchi,Starring Randhir, Ruksaar Mir",
-  "popularity": 0.1506,
+  "popularity": 0.9412,
   "poster_path": null,
   "production_companies": [
     {
@@ -59,13 +59,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -75,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Randhir Gatla",
         "original_name": "Randhir Gatla",
-        "popularity": 0.0935,
+        "popularity": 0.4556,
         "profile_path": "/8P98Lb7olC38roppGpSNO6sN0pr.jpg",
         "cast_id": 0,
         "character": "",
@@ -89,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Rukshar Dhillon",
         "original_name": "Rukshar Dhillon",
-        "popularity": 0.2845,
+        "popularity": 0.8526,
         "profile_path": "/2V5Y4Fs7cwIGyUl3nAxArIateGe.jpg",
         "cast_id": 1,
         "character": "",
@@ -105,7 +98,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "5a69257a0e0a260d6400881a",
         "department": "Sound",
@@ -118,7 +111,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "5a6925699251414a1f007958",
         "department": "Directing",
@@ -131,7 +124,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "5a69256f0e0a260d7b0082f5",
         "department": "Writing",
@@ -144,7 +137,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "5a6928860e0a260d74008362",
         "department": "Writing",
@@ -157,7 +150,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "5a692896c3a3685aa8008208",
         "department": "Writing",
@@ -170,16 +163,13 @@
         "known_for_department": "Camera",
         "name": "S. K. Boopathy",
         "original_name": "S. K. Boopathy",
-        "popularity": 0.1221,
+        "popularity": 0.3122,
         "profile_path": "/iOCKVO7PbAjiTKcJpdfQWI7I9LH.jpg",
         "credit_id": "5a6930130e0a260d740089a6",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -197,6 +187,14 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": [
@@ -217,12 +215,14 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

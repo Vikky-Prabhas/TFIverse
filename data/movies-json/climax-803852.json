@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "క్లైమాక్స్",
   "overview": "Vijay Modi, a flamboyant billionaire. He lives a luxurious lifestyle surrounded by beautiful women and enjoys every bit to the core. Despite having it all, he wants to fulfill his three desires in life - to earn popularity, make a movie and become a successful politician. Proceedings turn interesting towards the latter part of the promo where cops enter into the scene and what unfolds next forms the crux of the plot.",
-  "popularity": 0.3345,
+  "popularity": 1.235,
   "poster_path": "/l2xR8AHcGJc6kIhVoXquYE24f8F.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,9 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -56,8 +59,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Vijay Modi",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sasha Singh",
         "original_name": "Sasha Singh",
-        "popularity": 0.065,
+        "popularity": 0.3728,
         "profile_path": "/AsIUz9n20GYXHPa273UKmGMcLTw.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Sri Reddy",
         "original_name": "Sri Reddy",
-        "popularity": 1.1327,
+        "popularity": 0.5521,
         "profile_path": "/80TyK1easOttxp5lvd1dNfSaesT.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,8 +102,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "6046afe52b8a430043702c16",
@@ -113,7 +116,7 @@
         "known_for_department": "Crew",
         "name": "Sivashankar Master",
         "original_name": "Sivashankar Master",
-        "popularity": 0.2789,
+        "popularity": 1.1021,
         "profile_path": "/sSJnUavnjzWbUaDk7OymNZi4JAk.jpg",
         "cast_id": 5,
         "character": "",
@@ -127,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.3783,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 14,
         "character": "",
@@ -139,28 +142,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1653868,
-        "known_for_department": "Editing",
-        "name": "Basava Peddireddy",
-        "original_name": "Basava Peddireddy",
-        "popularity": 0.1031,
+        "id": 3003303,
+        "known_for_department": "Directing",
+        "name": "Bhavani Shankar Kaipa",
+        "original_name": "Bhavani Shankar Kaipa",
+        "popularity": 0.3003,
         "profile_path": null,
-        "credit_id": "6046b2e7a410c8005abc6cfa",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1684194,
-        "known_for_department": "Crew",
-        "name": "Prem Rakshith",
-        "original_name": "Prem Rakshith",
-        "popularity": 0.227,
-        "profile_path": null,
-        "credit_id": "6046b0c52b8a4300764eb79c",
-        "department": "Crew",
-        "job": "Choreographer"
+        "credit_id": "6046b04e15c6360070fe0ff1",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -169,7 +159,7 @@
         "known_for_department": "Directing",
         "name": "Bhavani Shankar Kaipa",
         "original_name": "Bhavani Shankar Kaipa",
-        "popularity": 0.0071,
+        "popularity": 0.3003,
         "profile_path": null,
         "credit_id": "6046b0a3176a940027ecbb49",
         "department": "Writing",
@@ -178,15 +168,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3003303,
-        "known_for_department": "Directing",
-        "name": "Bhavani Shankar Kaipa",
-        "original_name": "Bhavani Shankar Kaipa",
-        "popularity": 0.0071,
+        "id": 1684194,
+        "known_for_department": "Crew",
+        "name": "Prem Rakshith",
+        "original_name": "Prem Rakshith",
+        "popularity": 0.4079,
         "profile_path": null,
-        "credit_id": "6046b04e15c6360070fe0ff1",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "6046b0c52b8a4300764eb79c",
+        "department": "Crew",
+        "job": "Choreographer"
       },
       {
         "adult": false,
@@ -195,11 +185,24 @@
         "known_for_department": "Acting",
         "name": "Rajeshwar Reddy",
         "original_name": "Rajeshwar Reddy",
-        "popularity": 0.0239,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "6046b203e18b970044d2364e",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653868,
+        "known_for_department": "Editing",
+        "name": "Basava Peddireddy",
+        "original_name": "Basava Peddireddy",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "6046b2e7a410c8005abc6cfa",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -208,7 +211,7 @@
         "known_for_department": "Visual Effects",
         "name": "Karunakar Reddy",
         "original_name": "Karunakar Reddy",
-        "popularity": 0.0852,
+        "popularity": 0.2765,
         "profile_path": null,
         "credit_id": "6047892784f249006fe5c018",
         "department": "Production",
@@ -225,26 +228,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2021-03-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -325,5 +308,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2021-03-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

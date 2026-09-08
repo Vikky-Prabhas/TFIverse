@@ -22,14 +22,14 @@
   "original_language": "te",
   "original_title": "భార్యాభర్తల బంధం",
   "overview": "Sanjeevi (Akkineni Nageswara Rao) and Archana (Jayasudha), a divorced couple meet just because of Sanjeevi's shares in Archana's company. This couple has a daughter called Krishna (Rajani), who lives with her mother without any freedom. Radha (Nandamuri Balakrishna) is Sanjeevi's sister's son, Sanjeevi, knowing that Archana is trying to get their daughter married to an Indian settled in America, tries to conduct Radha and Krishna's wedding. Will that wedding unite Sanjeevi and Archana?",
-  "popularity": 0.4077,
+  "popularity": 0.5597,
   "poster_path": "/xg2cPEAAoUrmLMfxvFLxtJwneAP.jpg",
   "production_companies": [
     {
       "id": 45769,
       "logo_path": null,
       "name": "Jagapathy Art Pictures",
-      "origin_country": ""
+      "origin_country": "IN"
     }
   ],
   "production_countries": [
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 1,
         "character": "Radha",
@@ -76,9 +76,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2993,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 2,
         "character": "Sanjeevi",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 3,
         "character": "Archana",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Rajani",
         "original_name": "Rajani",
-        "popularity": 0.6292,
+        "popularity": 1.1894,
         "profile_path": "/1lMmqGXKLn7znayGZEK6sR2HZKh.jpg",
         "cast_id": 4,
         "character": "Krishna",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 5,
         "character": "",
@@ -136,7 +136,7 @@
         "known_for_department": "Production",
         "name": "V. B. Rajendra Prasad",
         "original_name": "V. B. Rajendra Prasad",
-        "popularity": 0.2266,
+        "popularity": 0.9697,
         "profile_path": null,
         "credit_id": "5e9fd59f07faa20024fa1802",
         "department": "Directing",
@@ -149,7 +149,7 @@
         "known_for_department": "Production",
         "name": "V. B. Rajendra Prasad",
         "original_name": "V. B. Rajendra Prasad",
-        "popularity": 0.2266,
+        "popularity": 0.9697,
         "profile_path": null,
         "credit_id": "5e9fd5d507faa2001afa04c2",
         "department": "Production",
@@ -162,7 +162,7 @@
         "known_for_department": "Writing",
         "name": "Acharya Aatreya",
         "original_name": "Acharya Aatreya",
-        "popularity": 0.1163,
+        "popularity": 0.5798,
         "profile_path": null,
         "credit_id": "5e9fd5b607faa2001afa04b0",
         "department": "Writing",
@@ -175,7 +175,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "5e9fd5e3db72c00019eefe4f",
         "department": "Sound",
@@ -190,30 +190,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/xg2cPEAAoUrmLMfxvFLxtJwneAP.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -231,5 +209,27 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xg2cPEAAoUrmLMfxvFLxtJwneAP.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

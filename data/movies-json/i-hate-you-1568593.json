@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "I Hate You",
   "overview": "Childhood friends separate when one studies abroad. The one who stayed becomes an artist. When her friend returns with a new boyfriend, the three grow close, but their relationship becomes complicated.",
-  "popularity": 0.2138,
+  "popularity": 0.5855,
   "poster_path": "/zt9YPBeBpOHkpZSsJRNO9FOxU3o.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Karthik Raju",
         "original_name": "Karthik Raju",
-        "popularity": 0,
+        "popularity": 0.3623,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sherry Agarwal",
         "original_name": "Sherry Agarwal",
-        "popularity": 0.0297,
+        "popularity": 0.3934,
         "profile_path": "/pWPHBACu4Qh5lmPwhDnWr2PeRoE.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Jagtap",
         "original_name": "Rahul Jagtap",
-        "popularity": 0.0214,
+        "popularity": 0.3323,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Kholgade",
         "original_name": "Priyanka Kholgade",
-        "popularity": 1.8223,
+        "popularity": 0.8573,
         "profile_path": "/bZ7ksWUCgOAagF8uXxuyJgxJFyi.jpg",
         "cast_id": 4,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Mokksha",
         "original_name": "Mokksha",
-        "popularity": 0.2428,
+        "popularity": 0.9058,
         "profile_path": "/kDjSXnWdXJHxjbs0XwjSQE6lJe2.jpg",
         "cast_id": 5,
         "character": "",
@@ -129,7 +129,7 @@
         "known_for_department": "Directing",
         "name": "Anji Ram",
         "original_name": "Anji Ram",
-        "popularity": 0,
+        "popularity": 0.3002,
         "profile_path": null,
         "credit_id": "68fcc8d159ac382281275877",
         "department": "Directing",
@@ -142,20 +142,13 @@
         "known_for_department": "Writing",
         "name": "Prabhodh Damerla",
         "original_name": "Prabhodh Damerla",
-        "popularity": 0,
+        "popularity": 0.3607,
         "profile_path": null,
         "credit_id": "68fcc977dece6a36f5fb697a",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt30989795",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -222,5 +215,12 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt30989795",
+    "wikidata_id": "Q124426105",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

@@ -1,7 +1,10 @@
+import * as dotenv from 'dotenv';
+import * as path from 'path';
+dotenv.config({ path: path.resolve(__dirname, './.env.local') });
+
 import { db } from './src/lib/db';
 import { sql } from 'drizzle-orm';
 import fs from 'fs';
-import path from 'path';
 
 async function exportVenues() {
     const venues = await db.execute(sql`SELECT * FROM venues`);
@@ -12,7 +15,7 @@ async function exportVenues() {
     for (const v of venues) {
         if (v.source === 'BMS') {
             bmsVenues.push({
-                VenueCode: v.venue_id,
+                VenueCode: v.source_id,
                 VenueName: v.name,
                 RegionCode: v.city,
                 // The scraper expects RegionCode in some places, or city.
@@ -20,7 +23,7 @@ async function exportVenues() {
             });
         } else if (v.source === 'PAYTM') {
             paytmVenues.push({
-                id: v.venue_id,
+                id: v.source_id,
                 name: v.name,
             });
         }

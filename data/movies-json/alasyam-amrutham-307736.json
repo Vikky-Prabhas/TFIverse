@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ఆలస్యం అమృతం",
   "overview": "From Chandra Mahesh",
-  "popularity": 0.2235,
+  "popularity": 1.1471,
   "poster_path": "/1jCHARjZwNDgCSBxL5wFMoyAnlX.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Nikhil Siddhartha",
         "original_name": "Nikhil Siddhartha",
-        "popularity": 0.4224,
+        "popularity": 0.9327,
         "profile_path": "/rDWBNCcHMNRf7YDPi9qMDcdm2X3.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Arvind Krishna",
         "original_name": "Arvind Krishna",
-        "popularity": 0.2484,
+        "popularity": 0.6605,
         "profile_path": "/6qjmaipzEfaYZAtlEnCA0db6N3i.jpg",
         "cast_id": 3,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Madalasa Sharma",
         "original_name": "Madalasa Sharma",
-        "popularity": 0.2983,
+        "popularity": 0.8037,
         "profile_path": "/edAAlPiwSDj4j8PfUQaS4bvPTqt.jpg",
         "cast_id": 4,
         "character": "",
@@ -87,7 +87,7 @@
         "known_for_department": "Directing",
         "name": "Chandra Mahesh",
         "original_name": "Chandra Mahesh",
-        "popularity": 0.0555,
+        "popularity": 0.3522,
         "profile_path": null,
         "credit_id": "5a5c3179c3a3686d97004b9d",
         "department": "Directing",
@@ -98,15 +98,21 @@
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1795548",
-    "wikidata_id": "Q15690058",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 768,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1jCHARjZwNDgCSBxL5wFMoyAnlX.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 542
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -138,23 +144,17 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.706,
-        "height": 768,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/1jCHARjZwNDgCSBxL5wFMoyAnlX.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 542
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1795548",
+    "wikidata_id": "Q15690058",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

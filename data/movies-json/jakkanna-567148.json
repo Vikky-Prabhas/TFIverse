@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "జక్కన్న",
   "overview": "A man's attempts to repay a kindness earns him the wrath of a ruthless gangster who just wants to be left alone to continue his illegal dealings.",
-  "popularity": 0.3862,
+  "popularity": 0.7595,
   "poster_path": "/zzADhFxA5yIHjnStmNNiOhXXO8T.jpg",
   "production_companies": [
     {
@@ -53,8 +53,11 @@
   "tagline": "",
   "title": "Jakkanna",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 1,
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,8 +67,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.87,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 0,
         "character": "",
         "credit_id": "5c0a4f050e0a2638c504002d",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Mannara Chopra",
         "original_name": "Mannara Chopra",
-        "popularity": 0.3036,
+        "popularity": 0.7573,
         "profile_path": "/4q0u6MaChIWq5y5J9KwqSKtJsY.jpg",
         "cast_id": 1,
         "character": "",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Kabir Duhan Singh",
         "original_name": "Kabir Duhan Singh",
-        "popularity": 0.4665,
+        "popularity": 1.2201,
         "profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
         "cast_id": 2,
         "character": "",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.377,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 3,
         "character": "",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 4,
         "character": "",
@@ -134,8 +137,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5c0a4f5b92514147aa039950",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 6,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Harsha Chemudu",
         "original_name": "Viva Harsha",
-        "popularity": 0.4872,
+        "popularity": 1.0162,
         "profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
         "cast_id": 7,
         "character": "",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.369,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 9,
         "character": "",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Raghu Karumanchi",
         "original_name": "Raghu Karumanchi",
-        "popularity": 0.1934,
+        "popularity": 0.4393,
         "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
         "cast_id": 10,
         "character": "",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Ashish Vidhyarthi",
         "original_name": "Ashish Vidhyarthi",
-        "popularity": 1.1464,
+        "popularity": 2.1499,
         "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
         "cast_id": 11,
         "character": "",
@@ -218,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Raghava Uday",
         "original_name": "Raghava Uday",
-        "popularity": 0.0143,
+        "popularity": 0.2626,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -232,7 +235,7 @@
         "known_for_department": "Acting",
         "name": "Chitram Seenu",
         "original_name": "Chitram Seenu",
-        "popularity": 0.3623,
+        "popularity": 1.0353,
         "profile_path": "/eCS28XnylQPrweJ9h5xzsa7F6EW.jpg",
         "cast_id": 19,
         "character": "",
@@ -246,7 +249,7 @@
         "known_for_department": "Acting",
         "name": "Surya Bhagawan Das",
         "original_name": "Surya Bhagawan Das",
-        "popularity": 0.4717,
+        "popularity": 2.0323,
         "profile_path": "/fflRAfFuyvM4QIGkS3EVcqIjVm1.jpg",
         "cast_id": 20,
         "character": "",
@@ -260,7 +263,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2766,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 21,
         "character": "",
@@ -276,7 +279,7 @@
         "known_for_department": "Directing",
         "name": "Vamsi Krishna Akella",
         "original_name": "Vamsi Krishna Akella",
-        "popularity": 0.087,
+        "popularity": 0.548,
         "profile_path": null,
         "credit_id": "5cea5f690e0a261bbbcc82d9",
         "department": "Directing",
@@ -289,7 +292,7 @@
         "known_for_department": "Production",
         "name": "R. Sudharshan Reddy",
         "original_name": "R. Sudharshan Reddy",
-        "popularity": 0,
+        "popularity": 0.2617,
         "profile_path": null,
         "credit_id": "5cea5fad9251416a3fbaf960",
         "department": "Production",
@@ -302,7 +305,7 @@
         "known_for_department": "Directing",
         "name": "Vamsi Krishna Akella",
         "original_name": "Vamsi Krishna Akella",
-        "popularity": 0.087,
+        "popularity": 0.548,
         "profile_path": null,
         "credit_id": "5cea5fb60e0a261a50cae586",
         "department": "Writing",
@@ -315,7 +318,7 @@
         "known_for_department": "Camera",
         "name": "C. Ramprasad",
         "original_name": "C. Ramprasad",
-        "popularity": 0.1318,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "5cea5fdfc3a36827b81ea657",
         "department": "Camera",
@@ -328,7 +331,7 @@
         "known_for_department": "Editing",
         "name": "M. R. Varmaa",
         "original_name": "M. R. Varmaa",
-        "popularity": 0.1983,
+        "popularity": 0.3366,
         "profile_path": null,
         "credit_id": "5cea5ffac3a3681c4e209314",
         "department": "Editing",
@@ -341,7 +344,7 @@
         "known_for_department": "Crew",
         "name": "Kanal Kannan",
         "original_name": "Kanal Kannan",
-        "popularity": 0.4605,
+        "popularity": 1.2113,
         "profile_path": "/6dqSHpDLaco0RX7MNwhuwxT5vkc.jpg",
         "credit_id": "5cea6007c3a36825201e9ece",
         "department": "Crew",
@@ -349,18 +352,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt10127628",
     "wikidata_id": "Q30673239",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -378,6 +375,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [

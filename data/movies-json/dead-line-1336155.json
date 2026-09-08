@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Dead Line",
   "overview": "This story with a suspense thriller plot.A beautiful couple named Julie and Robert goes for a long drive on the highway On the way. Robert gives a lift to a beautiful girl named Moni, which Julie doesn't like.Julie does not like the interest he is showing in Moni .Julie's boring and demonic demeanor of Moni she is a bit frightening.What is the reason ,why Robert and Julie kills by moni? Why is she angry with both of them?It is revealed in a heart touching flash back.",
-  "popularity": 0.0546,
+  "popularity": 0.4052,
   "poster_path": "/hxFUEDdkBjAVWEsAz4RNyZuA57j.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,28 +48,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-02-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -97,5 +77,25 @@
         "width": 1000
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-02-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Criminal or Devil",
   "overview": "In 'Crime or Devil', Siddu is terrified of ghosts. He thinks a ghost haunts him, from which he had previously watched a horror movie. Later, a mentally disturbed woman enters and starts to kidnap girls. Watch to know how they both got connected! Don't miss.",
-  "popularity": 0.1894,
+  "popularity": 0.8422,
   "poster_path": "/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Adah Sharma",
         "original_name": "Adah Sharma",
-        "popularity": 1.62,
+        "popularity": 1.7758,
         "profile_path": "/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg",
         "cast_id": 1,
         "character": "",
@@ -66,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Viswant Duddumpudi",
         "original_name": "Viswant Duddumpudi",
-        "popularity": 0.151,
+        "popularity": 0.9911,
         "profile_path": "/ld4D4X3Xk0YhcWPeln89tOqHhUX.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Vitta",
         "original_name": "Mahesh Vitta",
-        "popularity": 0.2205,
+        "popularity": 0.6313,
         "profile_path": "/vDWROJAL3lbH020ZtoN3VMZeMo0.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Rohini Noni",
         "original_name": "Rohini Noni",
-        "popularity": 0.0239,
+        "popularity": 0.3581,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -104,18 +107,41 @@
     ],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt32424592",
     "wikidata_id": "Q129262923",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-05-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "C.D (Criminal or Devil)",
+        "type": ""
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -182,32 +208,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "C.D (Criminal or Devil)",
-        "type": ""
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-05-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

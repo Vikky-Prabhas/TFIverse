@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Ram-Calm",
   "overview": "A conversational comedy that takes place in a café when a couple try to clear their misunderstandings, but their stories hold a bunch of twists and turns.",
-  "popularity": 0.0218,
+  "popularity": 1.2693,
   "poster_path": "/zjsqQeVNzbnbNgFw9OVvwDDX5Pg.jpg",
   "production_companies": [
     {
@@ -55,184 +55,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022883,
-        "known_for_department": "Acting",
-        "name": "Bhashi",
-        "original_name": "Bhashi",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 9,
-        "character": "Harika",
-        "credit_id": "64437299cee2f6049f366add",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022881,
-        "known_for_department": "Directing",
-        "name": "Suhas Venigalla",
-        "original_name": "Suhas Venigalla",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 13,
-        "character": "Hero PA",
-        "credit_id": "68510583bc97992f45b6decf",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022877,
-        "known_for_department": "Directing",
-        "name": "Goutham Aitipamula",
-        "original_name": "Goutham Aitipamula",
-        "popularity": 0.0389,
-        "profile_path": null,
-        "cast_id": 10,
-        "character": "Waiter",
-        "credit_id": "644372ada06efe05c4a45745",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4022879,
-        "known_for_department": "Directing",
-        "name": "Amarthya Raj Chennamadhava",
-        "original_name": "Amarthya Raj",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 11,
-        "character": "Student",
-        "credit_id": "6664258c28c1d18c2a7ba659",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4020538,
-        "known_for_department": "Sound",
-        "name": "Rohan Reddy",
-        "original_name": "Rohan Reddy",
-        "popularity": 0.0844,
-        "profile_path": null,
-        "credit_id": "644371ffcee2f604f33679e2",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3921324,
-        "known_for_department": "Editing",
-        "name": "Prabhath Reddy",
-        "original_name": "Prabhath Reddy",
-        "popularity": 0.0239,
-        "profile_path": "/wTvXTEKZfmZyswMaguhSIpzzGTB.jpg",
-        "credit_id": "6443724ccee2f6044b367ae8",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022877,
-        "known_for_department": "Directing",
-        "name": "Goutham Aitipamula",
-        "original_name": "Goutham Aitipamula",
-        "popularity": 0.0389,
-        "profile_path": null,
-        "credit_id": "644371ead35dea02fcfb5b9a",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4022879,
-        "known_for_department": "Directing",
-        "name": "Amarthya Raj Chennamadhava",
-        "original_name": "Amarthya Raj",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "644371daad87f704ebccc077",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3921323,
-        "known_for_department": "Directing",
-        "name": "Pranav Bellary",
-        "original_name": "Pranav Bellary",
-        "popularity": 0,
-        "profile_path": "/yh9ryYpUMUACDW77988p2uctszk.jpg",
-        "credit_id": "6443721b651fcf04889cfc6b",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4020539,
-        "known_for_department": "Sound",
-        "name": "Ayman Saquib",
-        "original_name": "Ayman Saquib",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6443720b0582240513327c42",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022881,
-        "known_for_department": "Directing",
-        "name": "Suhas Venigalla",
-        "original_name": "Suhas Venigalla",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "64437187ad87f70515ccc011",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3921325,
-        "known_for_department": "Production",
-        "name": "Hemal Tummapudi",
-        "original_name": "Hemal Tummapudi",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "credit_id": "6443722b651fcf04b29d02bf",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4022881,
-        "known_for_department": "Directing",
-        "name": "Suhas Venigalla",
-        "original_name": "Suhas Venigalla",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "68271ab64d6c1005af768392",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -243,25 +67,6 @@
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1600,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/zjsqQeVNzbnbNgFw9OVvwDDX5Pg.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1067
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -282,5 +87,200 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zjsqQeVNzbnbNgFw9OVvwDDX5Pg.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1067
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022883,
+        "known_for_department": "Acting",
+        "name": "Bhashi",
+        "original_name": "Bhashi",
+        "popularity": 0.3998,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Harika",
+        "credit_id": "64437299cee2f6049f366add",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022881,
+        "known_for_department": "Directing",
+        "name": "Suhas Venigalla",
+        "original_name": "Suhas Venigalla",
+        "popularity": 0.3855,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Hero PA",
+        "credit_id": "68510583bc97992f45b6decf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022877,
+        "known_for_department": "Directing",
+        "name": "Goutham Aitipamula",
+        "original_name": "Goutham Aitipamula",
+        "popularity": 0.6662,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Waiter",
+        "credit_id": "644372ada06efe05c4a45745",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4022879,
+        "known_for_department": "Directing",
+        "name": "Amarthya Raj Chennamadhava",
+        "original_name": "Amarthya Raj",
+        "popularity": 0.487,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Student",
+        "credit_id": "6664258c28c1d18c2a7ba659",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4020538,
+        "known_for_department": "Sound",
+        "name": "Rohan Reddy",
+        "original_name": "Rohan Reddy",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "644371ffcee2f604f33679e2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921324,
+        "known_for_department": "Editing",
+        "name": "Prabhath Reddy",
+        "original_name": "Prabhath Reddy",
+        "popularity": 0.3409,
+        "profile_path": "/wTvXTEKZfmZyswMaguhSIpzzGTB.jpg",
+        "credit_id": "6443724ccee2f6044b367ae8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022877,
+        "known_for_department": "Directing",
+        "name": "Goutham Aitipamula",
+        "original_name": "Goutham Aitipamula",
+        "popularity": 0.6662,
+        "profile_path": null,
+        "credit_id": "644371ead35dea02fcfb5b9a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4022879,
+        "known_for_department": "Directing",
+        "name": "Amarthya Raj Chennamadhava",
+        "original_name": "Amarthya Raj",
+        "popularity": 0.487,
+        "profile_path": null,
+        "credit_id": "644371daad87f704ebccc077",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921323,
+        "known_for_department": "Directing",
+        "name": "Pranav Bellary",
+        "original_name": "Pranav Bellary",
+        "popularity": 0.4557,
+        "profile_path": "/yh9ryYpUMUACDW77988p2uctszk.jpg",
+        "credit_id": "6443721b651fcf04889cfc6b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4020539,
+        "known_for_department": "Sound",
+        "name": "Ayman Saquib",
+        "original_name": "Ayman Saquib",
+        "popularity": 0.2652,
+        "profile_path": null,
+        "credit_id": "6443720b0582240513327c42",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022881,
+        "known_for_department": "Directing",
+        "name": "Suhas Venigalla",
+        "original_name": "Suhas Venigalla",
+        "popularity": 0.3855,
+        "profile_path": null,
+        "credit_id": "64437187ad87f70515ccc011",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3921325,
+        "known_for_department": "Production",
+        "name": "Hemal Tummapudi",
+        "original_name": "Hemal Tummapudi",
+        "popularity": 0.535,
+        "profile_path": null,
+        "credit_id": "6443722b651fcf04b29d02bf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022881,
+        "known_for_department": "Directing",
+        "name": "Suhas Venigalla",
+        "original_name": "Suhas Venigalla",
+        "popularity": 0.3855,
+        "profile_path": null,
+        "credit_id": "68271ab64d6c1005af768392",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
   }
 }

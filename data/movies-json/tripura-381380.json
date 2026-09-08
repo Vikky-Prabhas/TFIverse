@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Tripura",
   "overview": "The story tracks to the life of a village girl, Tripura (Swathi Reddy), who sees the future through dreams. She meets Chandra (Naveen Chandra) and eventually get married to him to kick-start a new life, moving to the city. But what is troubling her from having a happy life? What role does Eesha (Pooja) play in Chandra and Tripura's life?",
-  "popularity": 0.2499,
+  "popularity": 0.7501,
   "poster_path": "/qmykItka1I1AwMrVlMtumOZTVQD.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Swathi Reddy",
         "original_name": "Swathi Reddy",
-        "popularity": 0.5139,
+        "popularity": 1.4988,
         "profile_path": "/utj20o9uSQSH0E9Uq5kR7AOuIbN.jpg",
         "cast_id": 0,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Chandra",
         "original_name": "Naveen Chandra",
-        "popularity": 0.7152,
+        "popularity": 1.6073,
         "profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
         "cast_id": 1,
         "character": "",
@@ -79,8 +79,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.3063,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Pranab Kr Nath",
         "original_name": "Pranab Kr Nath",
-        "popularity": 0.0533,
+        "popularity": 0.3849,
         "profile_path": "/dBqXQAZoPAW19XshgdQBgNsd79K.jpg",
         "cast_id": 9,
         "character": "",
@@ -133,12 +133,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 1573120,
+        "known_for_department": "Production",
+        "name": "Chinnababu Arigela",
+        "original_name": "Chinnababu Arigela",
+        "popularity": 0.3059,
+        "profile_path": null,
+        "credit_id": "56b4ef4cc3a36806f10053d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1573117,
         "known_for_department": "Directing",
         "name": "Raaja Kiran",
         "original_name": "Raaja Kiran",
-        "popularity": 0.1412,
+        "popularity": 0.3486,
         "profile_path": "/A8AlQxLgJcXGdUDpLY4BTU3G7CD.jpg",
         "credit_id": "56b4ee00c3a36806ea0056b6",
         "department": "Directing",
@@ -151,7 +164,7 @@
         "known_for_department": "Sound",
         "name": "Kamran Ahmed",
         "original_name": "Kamran Ahmed",
-        "popularity": 0.0286,
+        "popularity": 0.2744,
         "profile_path": null,
         "credit_id": "56b4ef2e92514114eb005606",
         "department": "Sound",
@@ -164,29 +177,13 @@
         "known_for_department": "Production",
         "name": "M Rajasekhar",
         "original_name": "M Rajasekhar",
-        "popularity": 0,
+        "popularity": 0.2604,
         "profile_path": null,
         "credit_id": "56b4ef3fc3a36806ea0056e4",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1573120,
-        "known_for_department": "Production",
-        "name": "Chinnababu Arigela",
-        "original_name": "Chinnababu Arigela",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "56b4ef4cc3a36806f10053d9",
-        "department": "Production",
-        "job": "Producer"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "videos": {
     "results": []
@@ -198,8 +195,22 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2015-07-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -228,21 +239,10 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2015-07-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   }
 }

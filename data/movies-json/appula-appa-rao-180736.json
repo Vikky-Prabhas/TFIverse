@@ -7,10 +7,6 @@
     {
       "id": 35,
       "name": "Comedy"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ],
   "homepage": "",
@@ -21,19 +17,26 @@
   ],
   "original_language": "te",
   "original_title": "అప్పుల అప్పారావు",
-  "overview": "Appula Appa Rao  is an Indian 1991 Telugu-language film directed by E.V.V. Satyanarayana which features Rajendra Prasad, Shobana and Brahmanandam in the lead roles. Appula Apparao is scripted and directed by E.V.V under the banner of Prasad Studios, Chennai and produced by E.V.V. Satyanarayana.",
-  "popularity": 0.3092,
+  "overview": "Appula Appa Rao  is an Indian 1992 Telugu-language film directed by E.V.V. Satyanarayana which features Rajendra Prasad and Shobana in the lead roles. The film became a blockbuster at the box office and is regarded as a one of the popular comedy films in Telugu cinema.",
+  "popularity": 1.6714,
   "poster_path": "/4onQu9UVp5q5mfzfnxiZ7v0jO06.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 297821,
+      "logo_path": null,
+      "name": "Kamadhenu Creations",
+      "origin_country": ""
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
       "name": "India"
     }
   ],
-  "release_date": "1991-01-01",
+  "release_date": "1992-01-24",
   "revenue": 0,
-  "runtime": 138,
+  "runtime": 140,
   "softcore": false,
   "spoken_languages": [
     {
@@ -56,8 +59,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Apparao",
@@ -71,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Shobana",
         "original_name": "Shobana",
-        "popularity": 1.4234,
+        "popularity": 2.8034,
         "profile_path": "/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg",
         "cast_id": 5,
         "character": "Subba Laxmi",
@@ -84,8 +87,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "Sastri",
@@ -99,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Rama Prabha",
         "original_name": "Rama Prabha",
-        "popularity": 0.364,
+        "popularity": 1.6321,
         "profile_path": "/oLF9RSdde7KUTxurEciD7CeW54e.jpg",
         "cast_id": 6,
         "character": "Ammaji",
@@ -113,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.3566,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 13,
         "character": "",
@@ -139,9 +142,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 14,
         "character": "",
@@ -155,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 15,
         "character": "",
@@ -169,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Rao",
         "original_name": "Mallikarjuna Rao",
-        "popularity": 0.4229,
+        "popularity": 1.233,
         "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
         "cast_id": 16,
         "character": "Tata Rao",
@@ -183,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.2209,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 17,
         "character": "",
@@ -197,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Suthi Velu",
         "original_name": "Suthi Velu",
-        "popularity": 0.3168,
+        "popularity": 1.2086,
         "profile_path": null,
         "cast_id": 18,
         "character": "",
@@ -211,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Ironleg Sastri",
         "original_name": "Ironleg Sastri",
-        "popularity": 0.1594,
+        "popularity": 0.4572,
         "profile_path": null,
         "cast_id": 19,
         "character": "",
@@ -225,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Potti Prasad",
         "original_name": "Potti Prasad",
-        "popularity": 0.1027,
+        "popularity": 0.7293,
         "profile_path": null,
         "cast_id": 20,
         "character": "",
@@ -239,7 +242,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.5679,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 21,
         "character": "Tata Rao's wife",
@@ -255,7 +258,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "5c224d3bc3a3681c34ed3cd4",
         "department": "Writing",
@@ -268,7 +271,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "5c224cff9251414c16c28df4",
         "department": "Directing",
@@ -281,7 +284,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "credit_id": "5c224d2dc3a3687001ed4ba6",
         "department": "Writing",
@@ -294,7 +297,7 @@
         "known_for_department": "Sound",
         "name": "Rajan",
         "original_name": "Rajan",
-        "popularity": 0.1426,
+        "popularity": 0.3503,
         "profile_path": "/i04cj2yQnLNN47xIEVgIIyJpmmz.jpg",
         "credit_id": "5c224d5092514167fdc35c50",
         "department": "Sound",
@@ -307,13 +310,128 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "5c224d16925141520dc116ae",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3006868,
+        "known_for_department": "Sound",
+        "name": "Nagendra",
+        "original_name": "Nagendra",
+        "popularity": 0.3212,
+        "profile_path": "/1vAG5vTciOkm0rkZyfFjma4jxac.jpg",
+        "credit_id": "69fdafc92d8e7ecdaaaa9800",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2151672,
+        "known_for_department": "Camera",
+        "name": "V Srinivasa Reddy",
+        "original_name": "V Srinivasa Reddy",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "69fdafdd0e03c01b26aa9769",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3377658,
+        "known_for_department": "Camera",
+        "name": "K. Ravindra Babu",
+        "original_name": "K. Ravindra Babu",
+        "popularity": 0.2883,
+        "profile_path": null,
+        "credit_id": "69fdb00e6416f8816aaa9801",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "69fdb089bd76e3eb1307698c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6198464,
+        "known_for_department": "Camera",
+        "name": "E.V.V. Giri",
+        "original_name": "E.V.V. Giri",
+        "popularity": 0.2694,
+        "profile_path": null,
+        "credit_id": "69fdb0b0bee50a79454c6e4e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660553,
+        "known_for_department": "Writing",
+        "name": "Veturi Sundararama Murthy",
+        "original_name": "Veturi Sundararama Murthy",
+        "popularity": 0.3327,
+        "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
+        "credit_id": "69fdb0c820eae78d6baa99e3",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2292001,
+        "known_for_department": "Writing",
+        "name": "Bhuvana Chandra",
+        "original_name": "Bhuvana Chandra",
+        "popularity": 0.3215,
+        "profile_path": "/AsD9UxT9kMLYMpkckrhNp0m0XtN.jpg",
+        "credit_id": "69fdb2740b5151972c347ac6",
+        "department": "Writing",
+        "job": "Lyricist"
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0252235",
+    "wikidata_id": "Q4781787",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -331,18 +449,17 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0252235",
-    "wikidata_id": "Q4781787",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
+  "alternative_titles": {
+    "titles": [
       {
-        "id": 192143,
-        "name": "borrow"
+        "iso_3166_1": "IN",
+        "title": "Appula Apparao",
+        "type": "Telugu Alternate Spelling"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Appula Appa Rao",
+        "type": "Telugu Alternate Spelling"
       }
     ]
   },
@@ -362,34 +479,11 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "keywords": {
+    "keywords": [
       {
-        "iso_3166_1": "IN",
-        "title": "Appula Apparao",
-        "type": "Telugu Alternate Spelling"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Appula Appa Rao",
-        "type": "Telugu Alternate Spelling"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1991-01-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "id": 192143,
+        "name": "borrow"
       }
     ]
   }

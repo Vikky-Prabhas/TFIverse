@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Maa Guruvu Bharathiraja Ki Jathakam Cheppadam Kuda Telusu",
   "overview": "Telugu Film Director Vamsy, reminisces about his early days as an Assistant Director Working at \"Seethakoka Chilaka\" sets with his Mentor Bharathi Raja and how he made a Unique Trailer Cut for the Film.",
-  "popularity": 0.2119,
+  "popularity": 0.4616,
   "poster_path": "/cM5rDuvVAxCc8JGygb6dH7zYBaX.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +63,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "cast_id": 9,
         "character": "Self",
@@ -69,7 +79,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "659e4d959590e30201378619",
         "department": "Directing",
@@ -82,7 +92,7 @@
         "known_for_department": "Sound",
         "name": "Navin Madiri",
         "original_name": "Navin Madiri",
-        "popularity": 0,
+        "popularity": 0.2701,
         "profile_path": null,
         "credit_id": "659e4e7691b53001494d1105",
         "department": "Sound",
@@ -95,7 +105,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "659e4d9f91b53001494d10b2",
         "department": "Sound",
@@ -108,7 +118,7 @@
         "known_for_department": "Editing",
         "name": "Purush",
         "original_name": "Purush",
-        "popularity": 0.0311,
+        "popularity": 0.2843,
         "profile_path": null,
         "credit_id": "659e4ed36d97e601ff232b11",
         "department": "Editing",
@@ -121,7 +131,7 @@
         "known_for_department": "Sound",
         "name": "Srikrishna Vishnubhotla",
         "original_name": "Srikrishna Vishnubhotla",
-        "popularity": 0,
+        "popularity": 0.2847,
         "profile_path": null,
         "credit_id": "659e4e18d6590b01fdaf751b",
         "department": "Sound",
@@ -134,7 +144,7 @@
         "known_for_department": "Sound",
         "name": "Harini Ivaturi",
         "original_name": "Harini Ivaturi",
-        "popularity": 0.065,
+        "popularity": 0.3061,
         "profile_path": null,
         "credit_id": "659e4e301d3563025c54d410",
         "department": "Sound",
@@ -147,7 +157,7 @@
         "known_for_department": "Writing",
         "name": "Goparaju Radhakrishna",
         "original_name": "Goparaju Radhakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.2674,
         "profile_path": null,
         "credit_id": "659e4e959590e30095f615b6",
         "department": "Writing",
@@ -160,34 +170,11 @@
         "known_for_department": "Production",
         "name": "Shaili",
         "original_name": "Shaili",
-        "popularity": 0.0486,
+        "popularity": 0.2977,
         "profile_path": null,
         "credit_id": "659e56659590e302013788d6",
         "department": "Production",
         "job": "Producer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 174109,
-        "name": "documentary filmmaking"
-      },
-      {
-        "id": 215321,
-        "name": "vlog"
-      },
-      {
-        "id": 282080,
-        "name": "documentary"
-      },
-      {
-        "id": 309328,
-        "name": "documentary short"
       }
     ]
   },
@@ -233,11 +220,24 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": [
+      {
+        "id": 174109,
+        "name": "documentary filmmaking"
+      },
+      {
+        "id": 215321,
+        "name": "vlog"
+      },
+      {
+        "id": 282080,
+        "name": "documentary"
+      },
+      {
+        "id": 309328,
+        "name": "documentary short"
+      }
+    ]
   }
 }

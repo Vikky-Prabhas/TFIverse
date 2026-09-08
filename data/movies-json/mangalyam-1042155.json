@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mangalyam",
   "overview": "Dorababu, a contract killer and Lawyer by profession, never trusts in love and Marriage system, because of his love failure in the past. What factors make Dorababu to gain back the trust on love and marriage",
-  "popularity": 0.3104,
+  "popularity": 1.0667,
   "poster_path": "/4drMy0PHyocz1bTR0jVKtM64atu.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Directing",
         "name": "Bandi Saroj Kumar",
         "original_name": "Bandi Saroj Kumar",
-        "popularity": 0.1439,
+        "popularity": 0.5547,
         "profile_path": null,
         "cast_id": 3,
         "character": "Dorababu",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Himansee Katragadda",
         "original_name": "Himansee Katragadda",
-        "popularity": 0.0071,
+        "popularity": 0.2666,
         "profile_path": null,
         "cast_id": 4,
         "character": "Bujjamma",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Divija Nakshatra",
         "original_name": "Divija Nakshatra",
-        "popularity": 0.0071,
+        "popularity": 0.2666,
         "profile_path": null,
         "cast_id": 5,
         "character": "Sahasra (as Nakshatra Divija)",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Naidu",
         "original_name": "Nutan Naidu",
-        "popularity": 0.0629,
+        "popularity": 0.3672,
         "profile_path": "/y0IZlCU6kVS5RNGzET84tOR9xkr.jpg",
         "cast_id": 6,
         "character": "DoraBabu Father",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Mettu Nishesh",
         "original_name": "Mettu Nishesh",
-        "popularity": 0,
+        "popularity": 0.4475,
         "profile_path": null,
         "cast_id": 7,
         "character": "Kittu",
@@ -125,15 +125,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3763783,
-        "known_for_department": "Directing",
-        "name": "Bandi Saroj Kumar",
-        "original_name": "Bandi Saroj Kumar",
-        "popularity": 0.1439,
+        "id": 3763819,
+        "known_for_department": "Production",
+        "name": "Rakesh Bonagiri",
+        "original_name": "Rakesh Bonagiri",
+        "popularity": 0.2541,
         "profile_path": null,
-        "credit_id": "635e3c0bfd63000079a91593",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "635e4fbd66565a00827f37c6",
+        "department": "Production",
+        "job": "Co-Producer"
       },
       {
         "adult": false,
@@ -142,7 +142,46 @@
         "known_for_department": "Directing",
         "name": "Bandi Saroj Kumar",
         "original_name": "Bandi Saroj Kumar",
-        "popularity": 0.1439,
+        "popularity": 0.5547,
+        "profile_path": null,
+        "credit_id": "635e3c0bfd63000079a91593",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3763820,
+        "known_for_department": "Production",
+        "name": "Deepthi Naredla",
+        "original_name": "Deepthi Naredla",
+        "popularity": 0.2607,
+        "profile_path": null,
+        "credit_id": "635e4fceba4802007ed62d61",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772911,
+        "known_for_department": "Directing",
+        "name": "Bandi Saroj Kumar",
+        "original_name": "Bandi Saroj Kumar",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "635e4f761dbc880090f47c1b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3763783,
+        "known_for_department": "Directing",
+        "name": "Bandi Saroj Kumar",
+        "original_name": "Bandi Saroj Kumar",
+        "popularity": 0.5547,
         "profile_path": null,
         "credit_id": "635e3c1a1b72940094887d01",
         "department": "Writing",
@@ -155,20 +194,7 @@
         "known_for_department": "Directing",
         "name": "Bandi Saroj Kumar",
         "original_name": "Bandi Saroj Kumar",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "635e4f761dbc880090f47c1b",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1772911,
-        "known_for_department": "Directing",
-        "name": "Bandi Saroj Kumar",
-        "original_name": "Bandi Saroj Kumar",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "635e4f8f1dbc880090f47c31",
         "department": "Editing",
@@ -177,37 +203,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3763819,
-        "known_for_department": "Production",
-        "name": "Rakesh Bonagiri",
-        "original_name": "Rakesh Bonagiri",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "635e4fbd66565a00827f37c6",
-        "department": "Production",
-        "job": "Co-Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3763820,
-        "known_for_department": "Production",
-        "name": "Deepthi Naredla",
-        "original_name": "Deepthi Naredla",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "635e4fceba4802007ed62d61",
-        "department": "Production",
-        "job": "Co-Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3763783,
         "known_for_department": "Directing",
         "name": "Bandi Saroj Kumar",
         "original_name": "Bandi Saroj Kumar",
-        "popularity": 0.1439,
+        "popularity": 0.5547,
         "profile_path": null,
         "credit_id": "696b4333f34f4f4177f1164d",
         "department": "Production",
@@ -215,9 +215,32 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2022-08-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "external_ids": {
     "imdb_id": "tt21301304",
-    "wikidata_id": null,
+    "wikidata_id": "Q126289612",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -262,9 +285,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "images": {
     "backdrops": [
       {
@@ -291,25 +311,5 @@
         "width": 587
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2022-08-08T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

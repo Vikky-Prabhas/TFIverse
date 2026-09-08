@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పరిచయం",
   "overview": "Lakshmi's life turns upside down when her father tries to separate her from her lover. Having given up all hopes, will she have a happily ever after?",
-  "popularity": 0.3511,
+  "popularity": 0.6993,
   "poster_path": "/4SQsGpd7giEY1ytsTCd9sQic6Z9.jpg",
   "production_companies": [],
   "production_countries": [
@@ -64,16 +64,6 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt8269216",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -81,9 +71,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 1,
         "character": "",
@@ -97,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Simrat Kaur",
         "original_name": "Simrat Kaur",
-        "popularity": 0.4463,
+        "popularity": 0.6548,
         "profile_path": "/vNhKeIw9ykidSOH9Ks4gBjHqqwh.jpg",
         "cast_id": 2,
         "character": "",
@@ -111,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Virat Konduru",
         "original_name": "Virat Konduru",
-        "popularity": 0.0168,
+        "popularity": 0.2632,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -125,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Padmaja Lanka",
         "original_name": "Padmaja Lanka",
-        "popularity": 0.0459,
+        "popularity": 0.2794,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -139,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.5253,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "cast_id": 5,
         "character": "",
@@ -153,8 +143,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "5e292fea98f1f1000ff58a96",
@@ -167,7 +157,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Narayana",
         "original_name": "Shiva Narayana",
-        "popularity": 0.0071,
+        "popularity": 0.2928,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -181,7 +171,7 @@
         "known_for_department": "Acting",
         "name": "Sijju Menon",
         "original_name": "Sijju Menon",
-        "popularity": 0.0434,
+        "popularity": 0.5649,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -197,7 +187,7 @@
         "known_for_department": "Directing",
         "name": "Lakshmikanth Chenna",
         "original_name": "Lakshmikanth Chenna",
-        "popularity": 0.1171,
+        "popularity": 0.3788,
         "profile_path": null,
         "credit_id": "5e29300598f1f10012f56d87",
         "department": "Directing",
@@ -221,9 +211,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -251,5 +238,18 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt8269216",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

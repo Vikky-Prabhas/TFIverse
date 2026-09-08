@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "The Scene: Take 2",
   "overview": "A filmmaker struggles with the actors during the shooting of his film titled LUCHAGALLU.",
-  "popularity": 0.1137,
+  "popularity": 0.7022,
   "poster_path": "/xDPT7q8Clz7YnNg5PhIeZELh8Sn.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Directing",
         "name": "Camp Sasi",
         "original_name": "Camp Sasi",
-        "popularity": 0.1426,
+        "popularity": 0.475,
         "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
         "cast_id": 6,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Anusha Netha",
         "original_name": "Anusha Netha",
-        "popularity": 0,
+        "popularity": 0.3933,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Kalyan Gunner",
         "original_name": "Kalyan Gunner",
-        "popularity": 0.0387,
+        "popularity": 0.2963,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -82,12 +82,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 2471232,
+        "known_for_department": "Camera",
+        "name": "S Vijay Kumar",
+        "original_name": "S Vijay Kumar",
+        "popularity": 0.3331,
+        "profile_path": null,
+        "credit_id": "63b7f93b93bd6900de09be5f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 2179236,
         "known_for_department": "Directing",
         "name": "Camp Sasi",
         "original_name": "Camp Sasi",
-        "popularity": 0.1426,
+        "popularity": 0.475,
         "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
         "credit_id": "63b7f5c0f04d01009421d0c2",
         "department": "Directing",
@@ -100,7 +113,7 @@
         "known_for_department": "Directing",
         "name": "Rohit Penumatsa",
         "original_name": "Rohit Penumatsa",
-        "popularity": 0.0974,
+        "popularity": 0.4299,
         "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
         "credit_id": "63b7f8e273520500d3db8977",
         "department": "Editing",
@@ -113,24 +126,11 @@
         "known_for_department": "Sound",
         "name": "Ravi Nidamarthy",
         "original_name": "Ravi Nidamarthy",
-        "popularity": 0.0071,
+        "popularity": 0.2659,
         "profile_path": "/sRonTi4K5G22OGwHHlWkdK8czAI.jpg",
         "credit_id": "63b7f91a73520500a78ee4a2",
         "department": "Sound",
         "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2471232,
-        "known_for_department": "Camera",
-        "name": "S Vijay Kumar",
-        "original_name": "S Vijay Kumar",
-        "popularity": 0.0579,
-        "profile_path": null,
-        "credit_id": "63b7f93b93bd6900de09be5f",
-        "department": "Crew",
-        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -139,7 +139,7 @@
         "known_for_department": "Camera",
         "name": "Shashank Raghavula",
         "original_name": "Shashank Raghavula",
-        "popularity": 0.0338,
+        "popularity": 0.5763,
         "profile_path": "/xaZ7XjyjpvTvfo6CmlaOnuCMbYg.jpg",
         "credit_id": "63b7f954f04d01007ce98012",
         "department": "Crew",
@@ -147,8 +147,11 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -190,10 +193,7 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   }
 }

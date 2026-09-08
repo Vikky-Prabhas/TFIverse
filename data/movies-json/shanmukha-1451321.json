@@ -13,8 +13,8 @@
   "original_language": "te",
   "original_title": "Shanmukha",
   "overview": "A police officer and research student explore an ancient Indian temple's mysteries, following scriptures and folklore to uncover secrets about a deity and treasure in a hidden forest location.",
-  "popularity": 0.0614,
-  "poster_path": "/eCJvGD8WjHOIOcEDtnIa72hfvSo.jpg",
+  "popularity": 0.7862,
+  "poster_path": "/grGslpP4Qro6Yq8AiizswnxkcCl.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2025-03-21",
@@ -28,19 +28,18 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt32813915",
-    "wikidata_id": null,
+    "wikidata_id": "Q133573209",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -67,6 +66,13 @@
       }
     ]
   },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
@@ -84,9 +90,19 @@
     "posters": [
       {
         "aspect_ratio": 0.673,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/grGslpP4Qro6Yq8AiizswnxkcCl.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1378
+      },
+      {
+        "aspect_ratio": 0.673,
         "height": 1486,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/eCJvGD8WjHOIOcEDtnIa72hfvSo.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -95,19 +111,23 @@
       {
         "aspect_ratio": 0.667,
         "height": 900,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
         "file_path": "/2kmHYV6P819i52O7JebAYsI1j9q.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/6pw3yLx9XfT4Qf9RU1BsTg3hpZT.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పరన్నగీవి",
   "overview": "A satirical drama on a Film Maker with weird ideologies, absurd view points and how a top hero admirers have shown him the true essence of life mixed with loads of entertainment and music",
-  "popularity": 0.0882,
+  "popularity": 1.1906,
   "poster_path": "/ufrIeNrBDSGvIZSLHPQQcIC1jEe.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -51,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Kathi Mahesh",
         "original_name": "Kathi Mahesh",
-        "popularity": 0.1268,
+        "popularity": 0.448,
         "profile_path": "/sqbeNvORctlryvVSpmUwGmtblGZ.jpg",
         "cast_id": 1,
         "character": "Producer",
@@ -65,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1452,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 2,
         "character": "RGV",
@@ -81,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Naidu",
         "original_name": "Nutan Naidu",
-        "popularity": 0.0622,
+        "popularity": 0.3672,
         "profile_path": "/y0IZlCU6kVS5RNGzET84tOR9xkr.jpg",
         "credit_id": "603ab896798e06004ddc10e2",
         "department": "Writing",
@@ -94,23 +91,13 @@
         "known_for_department": "Acting",
         "name": "Nutan Naidu",
         "original_name": "Nutan Naidu",
-        "popularity": 0.0622,
+        "popularity": 0.3672,
         "profile_path": "/y0IZlCU6kVS5RNGzET84tOR9xkr.jpg",
         "credit_id": "603ab889db7058004bf827ce",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt12747516",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -129,6 +116,16 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt12747516",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -145,7 +142,10 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   }
 }

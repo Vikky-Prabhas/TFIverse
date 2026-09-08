@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Billa Ranga",
   "overview": "Billa Ranga is action thriller based movie in which, Raviraj (Kannada Prabhakar) is a smuggler who kills people and smuggles their skulls to foreign countries. To get evidences against him and close his business, police commissioner (Thyagaraju) call up Billa (Chiranjeeevi) , a CID officer from delhi and presents him as thief in local area.",
-  "popularity": 0.2283,
+  "popularity": 0.904,
   "poster_path": "/daaFq1NYV30BAN7h3yLYCpzDyAF.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 4,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Swapna",
         "original_name": "Swapna",
-        "popularity": 0.2295,
+        "popularity": 1.0356,
         "profile_path": "/qKSqfHhLHNB99cDBEjLvOoEVbrh.jpg",
         "cast_id": 9,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Syamala Gouri",
         "original_name": "Syamala Gouri",
-        "popularity": 0.0143,
+        "popularity": 0.371,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Prabhakar",
         "original_name": "Prabhakar",
-        "popularity": 0.2343,
+        "popularity": 1.9413,
         "profile_path": "/4u4NKAjoVbBq1Gm0SyTIws1n9T1.jpg",
         "cast_id": 7,
         "character": "",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Thyagarajan",
         "original_name": "Thyagarajan",
-        "popularity": 0.7439,
+        "popularity": 1.9911,
         "profile_path": "/fDsbS0EOUHU2CqWr8LFXmkJF6fG.jpg",
         "cast_id": 8,
         "character": "",
@@ -135,28 +135,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1335725,
-        "known_for_department": "Sound",
-        "name": "Chellapilla Satyanarayana Sastry",
-        "original_name": "Chellapilla Satyanarayana Sastry",
-        "popularity": 0.0526,
-        "profile_path": null,
-        "credit_id": "53b0d062c3a3682edf00574a",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1335734,
         "known_for_department": "Directing",
         "name": "K. S. R. Das",
         "original_name": "K. S. R. Das",
-        "popularity": 0.2781,
+        "popularity": 0.7173,
         "profile_path": "/enTQqKU9aRTkcjLBNGA7dDIZxq0.jpg",
         "credit_id": "53b0d0600e0a2659800071e4",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335725,
+        "known_for_department": "Sound",
+        "name": "Chellapilla Satyanarayana Sastry",
+        "original_name": "Chellapilla Satyanarayana Sastry",
+        "popularity": 0.3275,
+        "profile_path": null,
+        "credit_id": "53b0d062c3a3682edf00574a",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -165,7 +165,7 @@
         "known_for_department": "Production",
         "name": "Pinjala Nageswara Rao",
         "original_name": "Pinjala Nageswara Rao",
-        "popularity": 0.0143,
+        "popularity": 0.2626,
         "profile_path": null,
         "credit_id": "53b0d0a9c3a3682edf005752",
         "department": "Production",
@@ -175,6 +175,16 @@
   },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0245772",
+    "wikidata_id": "Q13004029",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -202,9 +212,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "release_dates": {
     "results": [
       {
@@ -222,14 +229,7 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0245772",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   }
 }

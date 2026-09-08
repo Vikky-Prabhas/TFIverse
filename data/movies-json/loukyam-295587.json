@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "లౌక్యం",
   "overview": "Venky, a man who values his friends, goes against a local crime lord, Babji, when he helps his best friend elope with the gangster's daughter. Consequently, Babji orders a manhunt for Venky.",
-  "popularity": 0.6615,
+  "popularity": 3.0187,
   "poster_path": "/twyNCGQ85ey1pGQQhnrogBYj7yf.jpg",
   "production_companies": [],
   "production_countries": [
@@ -50,8 +50,11 @@
   "tagline": "",
   "title": "Loukyam",
   "video": false,
-  "vote_average": 5.7,
-  "vote_count": 11,
+  "vote_average": 5.536,
+  "vote_count": 14,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -59,9 +62,9 @@
         "gender": 2,
         "id": 237325,
         "known_for_department": "Acting",
-        "name": "Gopichand",
-        "original_name": "Gopichand",
-        "popularity": 0.8137,
+        "name": "T. Gopichand",
+        "original_name": "టి. గోపీచంద్",
+        "popularity": 1.6621,
         "profile_path": "/faFnhPCmtdL6qKhroiyHjgS8lqN.jpg",
         "cast_id": 0,
         "character": "Venkateswarlu/Venky",
@@ -75,8 +78,8 @@
         "known_for_department": "Acting",
         "name": "Rakul Preet Singh",
         "original_name": "Rakul Preet Singh",
-        "popularity": 0.9874,
-        "profile_path": "/d5OOKtPu9NhlNVMQTAAPff29KMv.jpg",
+        "popularity": 1.5849,
+        "profile_path": "/4n4MmOFNyxKc4qMfzyapglvDDlF.jpg",
         "cast_id": 1,
         "character": "Chandrakala",
         "credit_id": "54c41e3a9251416185001e03",
@@ -89,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Sampath Raj",
         "original_name": "Sampath Raj",
-        "popularity": 0.8349,
+        "popularity": 2.524,
         "profile_path": "/oQgoihP26Hyg6gMFVpACRAygZli.jpg",
         "cast_id": 6,
         "character": "Babji",
@@ -102,8 +105,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "Sippy",
@@ -117,8 +120,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 14,
         "character": "'Boiling Star' Bablu",
         "credit_id": "625e59ff2d37210f6b6c4d0b",
@@ -131,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Hamsa Nandini",
         "original_name": "Hamsa Nandini",
-        "popularity": 0.2949,
+        "popularity": 0.4988,
         "profile_path": "/oUIUJb8H5KVQk080zncuTFcznbT.jpg",
         "cast_id": 2,
         "character": "Hamsa",
@@ -143,9 +146,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 3,
         "character": "Papa Rao/Puppy",
@@ -159,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Pragathi Mahavadi",
         "original_name": "Pragathi Mahavadi",
-        "popularity": 0.6249,
+        "popularity": 1.3133,
         "profile_path": "/9v63JB33LMkfR90raHu9O1iHZOQ.jpg",
         "cast_id": 5,
         "character": "Papa Rao's wife",
@@ -173,8 +176,8 @@
         "known_for_department": "Acting",
         "name": "Rahul Dev",
         "original_name": "Rahul Dev",
-        "popularity": 1.0291,
-        "profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+        "popularity": 1.1473,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
         "cast_id": 7,
         "character": "Satya",
         "credit_id": "54c41f0a9251416185001e0f",
@@ -187,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Bharath Reddy",
         "original_name": "Bharath Reddy",
-        "popularity": 0.2111,
+        "popularity": 0.8422,
         "profile_path": "/JR3nxp9Uwba2bAYvUO9vPf4Fo8.jpg",
         "cast_id": 8,
         "character": "Bharat",
@@ -201,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Shyamala",
         "original_name": "Shyamala",
-        "popularity": 0.3779,
+        "popularity": 0.8061,
         "profile_path": "/oMVU5ZiYQGhF64ItD2FLtZCWA5C.jpg",
         "cast_id": 12,
         "character": "",
@@ -215,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Anand Ramaraju",
         "original_name": "Anand Ramaraju",
-        "popularity": 0.2429,
+        "popularity": 0.7518,
         "profile_path": "/reEUpCVdxZLv5qAR1FZCZhE9OpV.jpg",
         "cast_id": 13,
         "character": "",
@@ -229,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.2585,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 15,
         "character": "",
@@ -243,7 +246,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 16,
         "character": "",
@@ -256,8 +259,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 17,
         "character": "",
@@ -271,7 +274,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 18,
         "character": "",
@@ -285,7 +288,7 @@
         "known_for_department": "Acting",
         "name": "Prabhakar",
         "original_name": "Prabhakar",
-        "popularity": 0.6411,
+        "popularity": 2.1701,
         "profile_path": "/82ZArziu8gJ1gVamzlcXjedeOFq.jpg",
         "cast_id": 19,
         "character": "",
@@ -299,7 +302,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1452,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 20,
         "character": "",
@@ -315,7 +318,7 @@
         "known_for_department": "Directing",
         "name": "Sriwass",
         "original_name": "Sriwass",
-        "popularity": 0.2768,
+        "popularity": 0.8004,
         "profile_path": null,
         "credit_id": "54c41f4392514124890065b1",
         "department": "Directing",
@@ -328,7 +331,7 @@
         "known_for_department": "Writing",
         "name": "Kona Venkat",
         "original_name": "Kona Venkat",
-        "popularity": 0.3756,
+        "popularity": 3.3281,
         "profile_path": "/z3ZGmzpnx2zrJNJRonoWKG2FZNN.jpg",
         "credit_id": "54c41f6892514124c80060ee",
         "department": "Writing",
@@ -341,7 +344,7 @@
         "known_for_department": "Writing",
         "name": "Gopi Mohan",
         "original_name": "Gopi Mohan",
-        "popularity": 0.2309,
+        "popularity": 1.198,
         "profile_path": "/mvLYdlSAGWj0RvzbCCPtGcG3KfK.jpg",
         "credit_id": "54c41f7692514124ed00653b",
         "department": "Writing",
@@ -355,9 +358,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -376,15 +376,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Ek Khiladi",
-        "type": "Hindi Dubbed"
       }
     ]
   },
@@ -422,6 +413,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 705
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Ek Khiladi",
+        "type": "Hindi Dubbed"
       }
     ]
   }

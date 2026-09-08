@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "రాజు వెడలె",
   "overview": "",
-  "popularity": 0.0398,
+  "popularity": 0.6385,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,8 +56,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7694,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "6993183c11430905432af328",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 1,
         "character": "",
@@ -80,8 +83,8 @@
         "id": 584346,
         "known_for_department": "Acting",
         "name": "Pandari Bai",
-        "original_name": "Pandari Bai",
-        "popularity": 0.4891,
+        "original_name": "பண்டரிபாய்",
+        "popularity": 2.0338,
         "profile_path": "/hQRkAIELIKQihKEeWMVW0j3GHsE.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.4878,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 5,
         "character": "",
@@ -123,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Raja Babu",
         "original_name": "Raja Babu",
-        "popularity": 0.0873,
+        "popularity": 0.8339,
         "profile_path": "/hQBSR46T1qXie1VWGVKAuBNpiIb.jpg",
         "cast_id": 6,
         "character": "",
@@ -137,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Murali Mohan",
         "original_name": "Murali Mohan",
-        "popularity": 0.3614,
+        "popularity": 1.3936,
         "profile_path": "/otex9PxT1wXvvR4ATVG5lZH5UDV.jpg",
         "cast_id": 7,
         "character": "",
@@ -146,13 +149,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0567,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 8,
         "character": "",
         "credit_id": "699319e10446285088124b04",
@@ -165,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Kalpana Rai",
         "original_name": "Kalpana Rai",
-        "popularity": 0.204,
+        "popularity": 0.6668,
         "profile_path": "/x3Nsq29SWSvQMCfbq8TlEgXvnNS.jpg",
         "cast_id": 9,
         "character": "",
@@ -181,7 +184,7 @@
         "known_for_department": "Directing",
         "name": "Rama Rao Tatineni",
         "original_name": "Rama Rao Tatineni",
-        "popularity": 0.4626,
+        "popularity": 1.2219,
         "profile_path": "/1aeQQr5S2PRDHnIwcKrRocMO9xV.jpg",
         "credit_id": "69931a264dc463a6f46f6d06",
         "department": "Directing",
@@ -194,7 +197,7 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "69931a3676c80157f21af41b",
         "department": "Sound",
@@ -204,13 +207,10 @@
   },
   "external_ids": {
     "imdb_id": "tt0260310",
-    "wikidata_id": null,
+    "wikidata_id": "Q13007809",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -219,9 +219,6 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -239,5 +236,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

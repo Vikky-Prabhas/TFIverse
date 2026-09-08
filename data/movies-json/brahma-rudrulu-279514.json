@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Brahma Rudrulu",
   "overview": "Brahma Rudrulu is a 1986 Telugu film directed by K Murali Mohan Rao. The film stars Venkatesh, Rajini Nivedhita, Nageshwara Rao Akkineni and Lakshmi in lead roles.",
-  "popularity": 0.2811,
+  "popularity": 0.6127,
   "poster_path": "/1xdlA0osQINf30SRyyvJEklosmC.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Rajini Nivedhita",
         "original_name": "Rajini Nivedhita",
-        "popularity": 0.0239,
+        "popularity": 0.5067,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -68,9 +68,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 5,
         "character": "",
@@ -83,8 +83,8 @@
         "id": 86015,
         "known_for_department": "Acting",
         "name": "Lakshmi",
-        "original_name": "Lakshmi",
-        "popularity": 0.7929,
+        "original_name": "லட்சுமி",
+        "popularity": 2.4721,
         "profile_path": "/ddJU483vxl0kqPL9O30LDWDBj1J.jpg",
         "cast_id": 6,
         "character": "",
@@ -100,7 +100,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b182fa0e0a265983008310",
         "department": "Sound",
@@ -113,7 +113,7 @@
         "known_for_department": "Directing",
         "name": "K. Murali Mohana Rao",
         "original_name": "K. Murali Mohana Rao",
-        "popularity": 0.4718,
+        "popularity": 0.6716,
         "profile_path": "/ffqlo3bMu8ddDh0vJtZXCbUHPdg.jpg",
         "credit_id": "53b182ba0e0a265989008348",
         "department": "Directing",
@@ -126,7 +126,7 @@
         "known_for_department": "Production",
         "name": "C. Ashwini Dutt",
         "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1669,
+        "popularity": 0.3164,
         "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
         "credit_id": "53b182fbc3a3682ee200691d",
         "department": "Production",
@@ -134,21 +134,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": "Q4955503",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -167,6 +154,16 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": "Q4955503",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -182,5 +179,8 @@
         "width": 1600
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

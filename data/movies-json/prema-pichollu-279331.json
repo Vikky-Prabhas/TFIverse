@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ప్రేమ పిచ్చోళ్ళు",
   "overview": "Prema Pichollu is a drama based movie in which, Chiranjeevi plays Ravi who is an unemployed post-graduate and in love with Prema (Radhika). Prema is a dancer in a local bar and attracts her boss Allu Ramalingayya and his friends Simham (Rao gopal Rao) and Gummadi.",
-  "popularity": 0.2715,
+  "popularity": 1.9049,
   "poster_path": "/5ldaYxZjiRVvMnq3EinMk9Hy2fO.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -42,7 +45,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Ravi",
@@ -54,9 +57,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 4,
         "character": "Prema",
@@ -70,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.8127,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 5,
         "character": "",
@@ -83,9 +86,9 @@
         "id": 1335729,
         "known_for_department": "Acting",
         "name": "Kavitha",
-        "original_name": "Kavitha",
-        "popularity": 0.3373,
-        "profile_path": null,
+        "original_name": "கவிதா",
+        "popularity": 1.8224,
+        "profile_path": "/1aFgMnyAVvKDKXcpVzC5PNy6qy8.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "53b0cbc50e0a265983007116",
@@ -98,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "",
@@ -112,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 8,
         "character": "",
@@ -126,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 9,
         "character": "",
@@ -140,7 +143,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 10,
         "character": "",
@@ -156,7 +159,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.4415,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "53b0cad90e0a2659750071c0",
         "department": "Directing",
@@ -169,7 +172,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0cadcc3a3682ee6005950",
         "department": "Sound",
@@ -182,7 +185,7 @@
         "known_for_department": "Production",
         "name": "M Ramesh",
         "original_name": "M Ramesh",
-        "popularity": 0.0071,
+        "popularity": 0.3081,
         "profile_path": null,
         "credit_id": "53b0caed0e0a2659750071c4",
         "department": "Production",
@@ -190,11 +193,32 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1983-01-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -228,30 +252,6 @@
         "iso_3166_1": "IN",
         "title": "ప్రేమ పిచ్చోళ్లూ",
         "type": ""
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1983-01-13T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

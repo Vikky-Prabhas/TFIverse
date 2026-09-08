@@ -27,7 +27,7 @@
   "original_language": "te",
   "original_title": "వినాయకుడు",
   "overview": "Karthik (Krishnudu), the obese guy joins in an ad designing company. Girls tend to keep him away from them due to his odd personality. He finds a girl Kalpana (Sonia) interesting in that company. She too shuns him initially and also cracks lots of jokes on his physical appearance. But the soft hearted Karthik wins the heart of arrogant Kalpana with his immaculate attitude. Finally, the egoistic Kalpana falls in love with Karthik unknowingly. On the other hand, the love track of Sandhya (Poonam) and Altaf (Surya Tej) runs separately. Shalini (Ankitha) is a character that's used as catalyst to elevate the character of Karthik.",
-  "popularity": 0.2012,
+  "popularity": 0.8127,
   "poster_path": "/9dVuoXEzfoKmyoCvnTM6aktvCVU.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,6 +53,12 @@
   "video": false,
   "vote_average": 5.4,
   "vote_count": 5,
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -62,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Krishnudu",
         "original_name": "Krishnudu",
-        "popularity": 0.2076,
+        "popularity": 0.9206,
         "profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
         "cast_id": 1,
         "character": "Karthik",
@@ -76,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Sonia Deepti",
         "original_name": "Sonia Deepti",
-        "popularity": 0.2393,
+        "popularity": 0.9208,
         "profile_path": "/tLhul7nECHZLDaw14W4YY6MVvrq.jpg",
         "cast_id": 0,
         "character": "Kalpana",
@@ -90,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Poonam Kaur",
         "original_name": "Poonam Kaur",
-        "popularity": 0.2149,
+        "popularity": 0.8506,
         "profile_path": "/fDxVBhZxb85LLsmRTePhyQN9nAN.jpg",
         "cast_id": 2,
         "character": "",
@@ -104,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Ankitha",
         "original_name": "Ankitha",
-        "popularity": 0.1464,
+        "popularity": 1.3498,
         "profile_path": "/scmSJXLgR6gtWO9N33wgV7hx4Lc.jpg",
         "cast_id": 3,
         "character": "",
@@ -118,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Santhanam",
         "original_name": "Santhanam",
-        "popularity": 1.0585,
+        "popularity": 2.6585,
         "profile_path": "/6OoqLm0jzC1Ko6jMGdIJrVWM9nk.jpg",
         "cast_id": 4,
         "character": "",
@@ -132,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Satya Krishnan",
         "original_name": "Satya Krishnan",
-        "popularity": 0.2301,
+        "popularity": 1.0771,
         "profile_path": "/8ymNkVGuJuAQkYcVc2ZZuxw6xov.jpg",
         "cast_id": 5,
         "character": "",
@@ -146,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Aadarsh Balakrishna",
         "original_name": "Aadarsh Balakrishna",
-        "popularity": 0.2649,
+        "popularity": 0.9862,
         "profile_path": "/rOmqQfm3ArplVU37PXhlOeUo7aW.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,16 +168,13 @@
         "known_for_department": "Directing",
         "name": "Sai Kiran Adivi",
         "original_name": "Sai Kiran Adivi",
-        "popularity": 0.0773,
+        "popularity": 0.4448,
         "profile_path": null,
         "credit_id": "631ccde339549a007b733126",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt1649435",
@@ -180,8 +183,14 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Vinayaga",
+        "type": "Tamil Dubbed"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -223,15 +232,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1412
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Vinayaga",
-        "type": "Tamil Dubbed"
       }
     ]
   }

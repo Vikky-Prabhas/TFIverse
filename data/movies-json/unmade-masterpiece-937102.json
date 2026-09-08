@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Unmade Masterpiece",
   "overview": "A filmmaker tries to make his debut film about food, while he is on a tour to pondicherry via tirupati with his friends, but things doesn't go as he planned to make a masterpiece film.",
-  "popularity": 0.0261,
+  "popularity": 0.439,
   "poster_path": "/vEe4H1CmWGSkj0OriQOei5NdgQK.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,101 +39,11 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "620541264df291001b4486a1",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "62054117896b8f006cd1bbb8",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3151085,
-        "known_for_department": "Acting",
-        "name": "Nirmal kumar",
-        "original_name": "Nirmal kumar",
-        "popularity": 0.0071,
-        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
-        "credit_id": "6205410319418600420d1246",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3151085,
-        "known_for_department": "Acting",
-        "name": "Nirmal kumar",
-        "original_name": "Nirmal kumar",
-        "popularity": 0.0071,
-        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
-        "credit_id": "6205414ae323f301120df3b1",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "6205413a66565a0042c9d634",
-        "department": "Sound",
-        "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "620540edec0c5800e51c9b8c",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": []
@@ -165,7 +75,97 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "620540edec0c5800e51c9b8c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151085,
+        "known_for_department": "Acting",
+        "name": "Nirmal kumar",
+        "original_name": "Nirmal kumar",
+        "popularity": 0.2709,
+        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
+        "credit_id": "6205410319418600420d1246",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "62054117896b8f006cd1bbb8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "620541264df291001b4486a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "6205413a66565a0042c9d634",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151085,
+        "known_for_department": "Acting",
+        "name": "Nirmal kumar",
+        "original_name": "Nirmal kumar",
+        "popularity": 0.2709,
+        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
+        "credit_id": "6205414ae323f301120df3b1",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   }
 }

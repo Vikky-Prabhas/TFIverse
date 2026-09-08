@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "జోరు",
   "overview": "Sundeep, a youngster from Vizag, meets Anu, a NRI girl who comes to India to meet her father, and falls in love with her. Soon, he realises that Anu’s life is in danger. How he sets everything right forms the rest of the story.",
-  "popularity": 0.2132,
+  "popularity": 2.4978,
   "poster_path": "/wyZ2TcImMM6a0FGbnRmSuh6zmgT.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Sundeep Kishan",
         "original_name": "Sundeep Kishan",
-        "popularity": 1.4654,
+        "popularity": 1.5055,
         "profile_path": "/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg",
         "cast_id": 1,
         "character": "Sundeep",
@@ -61,8 +61,8 @@
         "id": 1210037,
         "known_for_department": "Acting",
         "name": "Raashii Khanna",
-        "original_name": "Raashii Khanna",
-        "popularity": 0.9874,
+        "original_name": "రాశీ ఖన్నా",
+        "popularity": 1.8571,
         "profile_path": "/8nx3hzFdge51Cb5BcocIe4ShumU.jpg",
         "cast_id": 2,
         "character": "Anu",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Priya Banerjee",
         "original_name": "Priya Banerjee",
-        "popularity": 0.3467,
+        "popularity": 0.7503,
         "profile_path": "/u87CdINej7Wi2wbXlYBugKuI9i6.jpg",
         "cast_id": 3,
         "character": "",
@@ -89,8 +89,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Sushma Raj",
         "original_name": "Sushma Raj",
-        "popularity": 0.1614,
+        "popularity": 0.8072,
         "profile_path": "/zD7pijbchBEmgjNwGCzfkjDzht7.jpg",
         "cast_id": 5,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.7272,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 6,
         "character": "",
@@ -133,8 +133,8 @@
         "id": 1210037,
         "known_for_department": "Acting",
         "name": "Raashii Khanna",
-        "original_name": "Raashii Khanna",
-        "popularity": 0.9874,
+        "original_name": "రాశీ ఖన్నా",
+        "popularity": 1.8571,
         "profile_path": "/8nx3hzFdge51Cb5BcocIe4ShumU.jpg",
         "credit_id": "6171168c5c5cc8004207a37d",
         "department": "Sound",
@@ -147,13 +147,16 @@
         "known_for_department": "Directing",
         "name": "Kumar Nagendra",
         "original_name": "Kumar Nagendra",
-        "popularity": 0.0327,
+        "popularity": 0.3876,
         "profile_path": null,
         "credit_id": "549202cc92514102f60022fb",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt4898036",
@@ -162,36 +165,14 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
+  "alternative_titles": {
+    "titles": [
       {
         "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2014-11-07T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "hi",
-            "note": "YouTube",
-            "release_date": "2018-09-01T00:00:00.000Z",
-            "type": 4
-          }
-        ]
+        "title": "Izzat Ke Khatir",
+        "type": "Hindi Dubbed"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [
@@ -220,13 +201,32 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "Izzat Ke Khatir",
-        "type": "Hindi Dubbed"
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-11-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "YouTube",
+            "release_date": "2018-09-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

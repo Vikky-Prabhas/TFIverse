@@ -23,7 +23,7 @@
   "original_language": "te",
   "original_title": "సుడిగాడు 2",
   "overview": "Plot Unknown. Still in writing process.",
-  "popularity": 0.1179,
+  "popularity": 0.5068,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -44,51 +44,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237993,
-        "known_for_department": "Acting",
-        "name": "Allari Naresh",
-        "original_name": "Allari Naresh",
-        "popularity": 0.6832,
-        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "6630959ccb71b80123a4b0fb",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237993,
-        "known_for_department": "Acting",
-        "name": "Allari Naresh",
-        "original_name": "Allari Naresh",
-        "popularity": 0.6832,
-        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
-        "credit_id": "663095aa95c0af0126dabbfa",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237993,
-        "known_for_department": "Acting",
-        "name": "Allari Naresh",
-        "original_name": "Allari Naresh",
-        "popularity": 0.6832,
-        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
-        "credit_id": "6630981cbefb090129d93ce1",
-        "department": "Writing",
-        "job": "Screenplay"
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -109,7 +66,7 @@
       }
     ]
   },
-  "videos": {
+  "release_dates": {
     "results": []
   },
   "images": {
@@ -117,10 +74,53 @@
     "logos": [],
     "posters": []
   },
-  "release_dates": {
-    "results": []
-  },
   "alternative_titles": {
     "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237993,
+        "known_for_department": "Acting",
+        "name": "Allari Naresh",
+        "original_name": "Allari Naresh",
+        "popularity": 1.9234,
+        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6630959ccb71b80123a4b0fb",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237993,
+        "known_for_department": "Acting",
+        "name": "Allari Naresh",
+        "original_name": "Allari Naresh",
+        "popularity": 1.9234,
+        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
+        "credit_id": "663095aa95c0af0126dabbfa",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237993,
+        "known_for_department": "Acting",
+        "name": "Allari Naresh",
+        "original_name": "Allari Naresh",
+        "popularity": 1.9234,
+        "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
+        "credit_id": "6630981cbefb090129d93ce1",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
   }
 }

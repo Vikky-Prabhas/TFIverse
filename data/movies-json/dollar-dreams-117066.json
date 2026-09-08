@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "డాలర్ డ్రీమ్స్",
   "overview": "Six young people struggle with the choice between moving to the US or staying in India.",
-  "popularity": 0.3467,
+  "popularity": 0.5627,
   "poster_path": "/qGtfERINbOSQ60NQQ4dwL27jOie.jpg",
   "production_companies": [
     {
@@ -49,8 +49,8 @@
   "tagline": "",
   "title": "Dollar Dreams",
   "video": false,
-  "vote_average": 6.5,
-  "vote_count": 4,
+  "vote_average": 7.2,
+  "vote_count": 5,
   "credits": {
     "cast": [
       {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Santosh Kumar",
         "original_name": "Santosh Kumar",
-        "popularity": 0.0071,
+        "popularity": 0.2578,
         "profile_path": null,
         "cast_id": 10,
         "character": "Balu",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Anish Kuruvilla",
         "original_name": "Anish Kuruvilla",
-        "popularity": 0.4246,
+        "popularity": 1.6501,
         "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
         "cast_id": 2,
         "character": "Srinu",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Veer",
         "original_name": "Priyanka Veer",
-        "popularity": 0.0214,
+        "popularity": 0.256,
         "profile_path": null,
         "cast_id": 13,
         "character": "Usha",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Anil Prashant",
         "original_name": "Dr. Anil Prashant",
-        "popularity": 0.0071,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 12,
         "character": "Phani",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Satya Krishnan",
         "original_name": "Satya Krishnan",
-        "popularity": 0.2301,
+        "popularity": 1.0771,
         "profile_path": "/8ymNkVGuJuAQkYcVc2ZZuxw6xov.jpg",
         "cast_id": 4,
         "character": "Archana",
@@ -130,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Raju",
         "original_name": "Ravi Raju",
-        "popularity": 0.0214,
+        "popularity": 0.3296,
         "profile_path": null,
         "cast_id": 11,
         "character": "Ravi",
@@ -144,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Dashveer Singh",
         "original_name": "Dashveer Singh",
-        "popularity": 0.0362,
+        "popularity": 0.2626,
         "profile_path": null,
         "cast_id": 7,
         "character": "Sardar",
@@ -158,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Manasa",
         "original_name": "Manasa",
-        "popularity": 0.0286,
+        "popularity": 0.297,
         "profile_path": null,
         "cast_id": 14,
         "character": "She",
@@ -172,7 +172,7 @@
         "known_for_department": "Production",
         "name": "Sunitha Tati",
         "original_name": "Sunitha Tati",
-        "popularity": 0.0602,
+        "popularity": 0.3875,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -188,7 +188,7 @@
         "known_for_department": "Directing",
         "name": "Sekhar Kammula",
         "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
+        "popularity": 0.6492,
         "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
         "credit_id": "52fe4ba9c3a36847f820e43b",
         "department": "Directing",
@@ -197,48 +197,30 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1307748,
-        "known_for_department": "Camera",
-        "name": "Vijay C. Kumar",
-        "original_name": "Vijay C. Kumar",
-        "popularity": 0.0264,
-        "profile_path": null,
-        "credit_id": "599143b692514143a0008f56",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 215917,
         "known_for_department": "Directing",
         "name": "Sekhar Kammula",
         "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
+        "popularity": 0.6492,
         "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
         "credit_id": "5964d6ed92514122510ee2ad",
         "department": "Writing",
         "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": [
+      },
       {
-        "id": 9945,
-        "name": "y2k"
+        "adult": false,
+        "gender": 2,
+        "id": 1307748,
+        "known_for_department": "Camera",
+        "name": "Vijay C. Kumar",
+        "original_name": "Vijay C. Kumar",
+        "popularity": 0.328,
+        "profile_path": null,
+        "credit_id": "599143b692514143a0008f56",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt2076837",
-    "wikidata_id": "Q5289212",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -256,6 +238,27 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9945,
+        "name": "y2k"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2076837",
+    "wikidata_id": "Q5289212",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -283,8 +286,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

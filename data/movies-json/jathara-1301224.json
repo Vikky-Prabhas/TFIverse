@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Jathara",
   "overview": "Jathara is a Telugu film starring Chiranjeevi.",
-  "popularity": 0.126,
+  "popularity": 1.2238,
   "poster_path": "/neGSNAUOfLxfK3Kaq3D9koaSsQf.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Sreedhar",
         "original_name": "Sreedhar",
-        "popularity": 0.064,
+        "popularity": 0.3917,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -67,16 +67,13 @@
         "known_for_department": "Directing",
         "name": "Dhavala Satyam",
         "original_name": "Dhavala Satyam",
-        "popularity": 0.0214,
+        "popularity": 0.4241,
         "profile_path": null,
         "credit_id": "66627bf93c7b5f6c5252878a",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -95,6 +92,19 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -110,16 +120,6 @@
         "width": 500
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "alternative_titles": {
     "titles": []

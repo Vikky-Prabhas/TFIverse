@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Jwala",
   "overview": "Jwala is action drama based movie in which, Chiranjeevi played dual roles in this movie as brothers Raju (chiru) and Yuvaraj (chiru) are brothers and sons of SP Chakravarthi. Sarvothama Rao and his son are indulged in smuggling and other illegal activities.During an attempt to catch their sumggled goods, one of their main henchmen is shot dead by Chakravarthi. Sarvottama rao plans to take revenge on chakravarti by trapping his son. Yuvaraj is already in love with with Bhanupriya. Meanwhile, Raju saves an innocent girl Janaki (radhika), from the clutches of those smugglers and marries her.Sarvothama Rao kills Basawaraj and traps Raju into this murder. Raju, unable to prove his innocence, is sentenced to death. Chakravarthi tries to prove his son",
-  "popularity": 0.3637,
+  "popularity": 2.4442,
   "poster_path": "/n7g3H9xxvMwVVcfbQaGKSN5CqW6.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -54,9 +54,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 4,
         "character": "",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4938,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 5,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 6,
         "character": "",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Prabhakar",
         "original_name": "Prabhakar",
-        "popularity": 0.2343,
+        "popularity": 1.9413,
         "profile_path": "/4u4NKAjoVbBq1Gm0SyTIws1n9T1.jpg",
         "cast_id": 7,
         "character": "",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 8,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 9,
         "character": "",
@@ -137,12 +137,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 585267,
+        "known_for_department": "Directing",
+        "name": "Ravi Raja Pinisetty",
+        "original_name": "Ravi Raja Pinisetty",
+        "popularity": 1.5645,
+        "profile_path": "/9f79yJWicaRTt9dnF4sdUcAx8J3.jpg",
+        "credit_id": "53b0c1c90e0a265986006e71",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 1335713,
         "known_for_department": "Production",
         "name": "Pinjala Nageswara Rao",
         "original_name": "Pinjala Nageswara Rao",
-        "popularity": 0.0143,
+        "popularity": 0.2626,
         "profile_path": null,
         "credit_id": "53b0c1d30e0a2659750070c3",
         "department": "Production",
@@ -154,34 +167,14 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "53b0c1cdc3a3682ee2005b59",
         "department": "Sound",
         "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585267,
-        "known_for_department": "Directing",
-        "name": "Ravi Raja Pinisetty",
-        "original_name": "Ravi Raja Pinisetty",
-        "popularity": 0.4138,
-        "profile_path": "/9f79yJWicaRTt9dnF4sdUcAx8J3.jpg",
-        "credit_id": "53b0c1c90e0a265986006e71",
-        "department": "Directing",
-        "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0089394",
-    "wikidata_id": "Q18344192",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": []
@@ -216,8 +209,12 @@
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt0089394",
+    "wikidata_id": "Q18344192",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -235,5 +232,8 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

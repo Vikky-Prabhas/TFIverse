@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mudhara wines",
   "overview": "Ajay is an alcoholic, struggling to get over the break-up with his girlfriend in college, Madhura. He then meets Kiseema, who falls for him after knowing his past. Meanwhile  Anand, who owns Madhura Wines too is devastated that Ajay is ruining his life with his drinking problem. What happens to the brewing relationship between Ajay and Anjali now?",
-  "popularity": 0.1666,
+  "popularity": 3.0066,
   "poster_path": "/4lRq6sYy80c9wBF4jeY60Q5WzdH.jpg",
   "production_companies": [
     {
@@ -58,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Sunny Naveen",
         "original_name": "Sunny Naveen",
-        "popularity": 0.0143,
+        "popularity": 0.5196,
         "profile_path": null,
         "cast_id": 10,
         "character": "Ajay",
@@ -72,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Seema Chowdary",
         "original_name": "Seema Chowdary",
-        "popularity": 0.0143,
+        "popularity": 0.4168,
         "profile_path": null,
         "cast_id": 11,
         "character": "Anjali",
@@ -86,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Sammohit Tumuluri",
         "original_name": "Sammohit Tumuluri",
-        "popularity": 0.0071,
+        "popularity": 0.2929,
         "profile_path": null,
         "cast_id": 12,
         "character": "Anand Rao",
@@ -100,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Leela Venkatesh",
         "original_name": "Leela Venkatesh",
-        "popularity": 0.0143,
+        "popularity": 0.5416,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -114,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramesh",
         "original_name": "Allu Ramesh",
-        "popularity": 0.0071,
+        "popularity": 0.3875,
         "profile_path": null,
         "cast_id": 14,
         "character": "Ram Chandra",
@@ -126,50 +126,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3103399,
-        "known_for_department": "Editing",
-        "name": "A. Vara Prasad",
-        "original_name": "A. Vara Prasad",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "617bbf60c3aa3f0065a35b20",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1643577,
-        "known_for_department": "Sound",
-        "name": "Hari Haran",
-        "original_name": "Hari Haran",
-        "popularity": 0.2284,
-        "profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
-        "credit_id": "617bbf9d3876510044a04d89",
-        "department": "Sound",
-        "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2225005,
-        "known_for_department": "Sound",
-        "name": "Karthik Rodriguez",
-        "original_name": "Karthik Rodriguez",
-        "popularity": 0.0672,
-        "profile_path": null,
-        "credit_id": "617bbf3bd236e600433abb7d",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 3289016,
         "known_for_department": "Production",
         "name": "Rajesh Kondepu",
         "original_name": "Rajesh Kondepu",
-        "popularity": 0,
+        "popularity": 0.2607,
         "profile_path": null,
         "credit_id": "617bbe673e2ec80043b5913b",
         "department": "Production",
@@ -178,50 +139,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3289017,
-        "known_for_department": "Directing",
-        "name": "B. Jaya Kishore",
-        "original_name": "B. Jaya Kishore",
-        "popularity": 0.0618,
-        "profile_path": null,
-        "credit_id": "617bbf20fdc4fa0087697cae",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3289017,
-        "known_for_department": "Directing",
-        "name": "B. Jaya Kishore",
-        "original_name": "B. Jaya Kishore",
-        "popularity": 0.0618,
-        "profile_path": null,
-        "credit_id": "617bbef5d6dbba002dce44f4",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1826139,
-        "known_for_department": "Sound",
-        "name": "Jay Krish",
-        "original_name": "Jay Krish",
-        "popularity": 0.0914,
-        "profile_path": null,
-        "credit_id": "617bbf2ebe2d49002b2623fb",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 3007487,
         "known_for_department": "Production",
         "name": "Srujan Yarabolu",
         "original_name": "Srujan Yarabolu",
-        "popularity": 0.0954,
+        "popularity": 0.3149,
         "profile_path": null,
         "credit_id": "617bbeb7176a9400621ab91c",
         "department": "Production",
@@ -230,15 +152,93 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 3289017,
+        "known_for_department": "Directing",
+        "name": "B. Jaya Kishore",
+        "original_name": "B. Jaya Kishore",
+        "popularity": 0.4901,
+        "profile_path": null,
+        "credit_id": "617bbef5d6dbba002dce44f4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3289017,
+        "known_for_department": "Directing",
+        "name": "B. Jaya Kishore",
+        "original_name": "B. Jaya Kishore",
+        "popularity": 0.4901,
+        "profile_path": null,
+        "credit_id": "617bbf20fdc4fa0087697cae",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1826139,
+        "known_for_department": "Sound",
+        "name": "Jay Krish",
+        "original_name": "Jay Krish",
+        "popularity": 0.3676,
+        "profile_path": null,
+        "credit_id": "617bbf2ebe2d49002b2623fb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2225005,
+        "known_for_department": "Sound",
+        "name": "Karthik Rodriguez",
+        "original_name": "Karthik Rodriguez",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "617bbf3bd236e600433abb7d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3103399,
+        "known_for_department": "Editing",
+        "name": "A. Vara Prasad",
+        "original_name": "A. Vara Prasad",
+        "popularity": 0.4254,
+        "profile_path": null,
+        "credit_id": "617bbf60c3aa3f0065a35b20",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2109285,
         "known_for_department": "Crew",
         "name": "Eluru Srinu",
         "original_name": "Eluru Srinu",
-        "popularity": 0.1071,
+        "popularity": 0.3035,
         "profile_path": null,
         "credit_id": "617bbf85176a9400621ab998",
         "department": "Crew",
         "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643577,
+        "known_for_department": "Sound",
+        "name": "Hari Haran",
+        "original_name": "Hari Haran",
+        "popularity": 0.5047,
+        "profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
+        "credit_id": "617bbf9d3876510044a04d89",
+        "department": "Sound",
+        "job": "Sound Designer"
       }
     ]
   },
@@ -248,6 +248,12 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -265,9 +271,6 @@
         ]
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [
@@ -375,9 +378,6 @@
         "width": 854
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": []

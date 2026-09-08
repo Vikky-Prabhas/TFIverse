@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "నీ కోసం",
   "overview": "Sasirekha (Maheswari) is the daughter of a rich father (Jayaprakash Reddy), who is a strict disciplinarian and hates any kind of love affair. Ravi (Ravi Teja), an orphan, falls in love with Sasi and she also slowly develops feelings for Ravi. One day Ravi meets Sasi's father in the outskirts of the city and tells him all about his love. However, he is accidentally killed by Ravi in a scuffle. Sasi soon finds out that the real culprit is Ravi. Infuriated, she breaks up with him. Ravi, unable to bear the rejection, jumps from a hill. He escapes death, only to be told by the doctors that he is disabled and might be cured in the future if someone took care of him. In the climax, Sasi decides to stay with Ravi, who is nothing but a vegetable now, stating that what ever he did was just because of his love for her and she still is in love with him.  (Wikipedia -  Creative Commons Attribution-ShareAlike License)",
-  "popularity": 0.2709,
+  "popularity": 0.7399,
   "poster_path": "/tUJmFiX5w8hOWYcX8mlCneR72v3.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,81 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146935,
+        "known_for_department": "Acting",
+        "name": "Ravi Teja",
+        "original_name": "రవితేజ",
+        "popularity": 3.081,
+        "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe4c31c3a368484e1ac193",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584877,
+        "known_for_department": "Acting",
+        "name": "Maheswari",
+        "original_name": "Maheswari",
+        "popularity": 0.8197,
+        "profile_path": "/2Ps9dtkJXFn5pmxN0eNM9U69LAq.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "52fe4c31c3a368484e1ac197",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe4c31c3a368484e1ac19b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585567,
+        "known_for_department": "Acting",
+        "name": "Shivaji Raja",
+        "original_name": "Shivaji Raja",
+        "popularity": 1.7055,
+        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe4c31c3a368484e1ac19f",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107021,
+        "known_for_department": "Directing",
+        "name": "Sreenu Vaitla",
+        "original_name": "Sreenu Vaitla",
+        "popularity": 1.4944,
+        "profile_path": "/dj1i0r5wQ5biXWz7HUpi9PYhx1z.jpg",
+        "credit_id": "52fe4c31c3a368484e1ac18f",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
   "release_dates": {
     "results": [
       {
@@ -60,9 +135,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt1606299",
     "wikidata_id": "Q13001204",
@@ -73,94 +145,8 @@
   "videos": {
     "results": []
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Neekosam",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "For You",
-        "type": "English Translation"
-      }
-    ]
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 146935,
-        "known_for_department": "Acting",
-        "name": "Ravi Teja",
-        "original_name": "Ravi Teja",
-        "popularity": 0.9088,
-        "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "52fe4c31c3a368484e1ac193",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584877,
-        "known_for_department": "Acting",
-        "name": "Maheswari",
-        "original_name": "Maheswari",
-        "popularity": 0.451,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "52fe4c31c3a368484e1ac197",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "52fe4c31c3a368484e1ac19b",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585567,
-        "known_for_department": "Acting",
-        "name": "Shivaji Raja",
-        "original_name": "Shivaji Raja",
-        "popularity": 0.3786,
-        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "52fe4c31c3a368484e1ac19f",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1107021,
-        "known_for_department": "Directing",
-        "name": "Sreenu Vaitla",
-        "original_name": "Sreenu Vaitla",
-        "popularity": 0.4385,
-        "profile_path": "/dj1i0r5wQ5biXWz7HUpi9PYhx1z.jpg",
-        "credit_id": "52fe4c31c3a368484e1ac18f",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -186,6 +172,20 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Neekosam",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "For You",
+        "type": "English Translation"
       }
     ]
   }

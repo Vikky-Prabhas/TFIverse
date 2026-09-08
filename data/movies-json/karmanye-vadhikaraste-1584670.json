@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Karmanye Vadhikaraste",
   "overview": "Suspended but unbroken, an NIA agent, an ACP, and a constable race against time to expose a deadly nexus of arms, espionage, and human weapon camps-fighting from the shadows against a faceless enemy.",
-  "popularity": 0.0214,
+  "popularity": 0.4719,
   "poster_path": "/vcyFnfcJ1aACnyNoN3VQ2735yci.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,33 +39,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2025-10-31T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-11-20T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -104,8 +79,33 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []

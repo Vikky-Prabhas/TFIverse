@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Next Nuvve",
   "overview": "Kiran and his girlfriend Smita decide to turn the former's ancestral property into a hotel to pay off their loans. They do it with the help of his father's aide Sarat and sister Rashmi . But, the house seems to be haunted, or is it really?",
-  "popularity": 0.6386,
+  "popularity": 0.6853,
   "poster_path": "/rFxRdy4L7HLCj6ls9uWFNUyP6Tp.jpg",
   "production_companies": [
     {
@@ -61,6 +61,16 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt7411370",
+    "wikidata_id": "Q53547552",
+    "facebook_id": "NextNuvve",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -70,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Aadi Saikumar",
         "original_name": "Aadi Saikumar",
-        "popularity": 0.6657,
+        "popularity": 1.3584,
         "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
         "cast_id": 0,
         "character": "Kiran",
@@ -84,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Vaibhavi Shandilya",
         "original_name": "Vaibhavi Shandilya",
-        "popularity": 0.1463,
+        "popularity": 0.5857,
         "profile_path": "/jVWMGmmOhRfwW4dvCBrkIFoKp6G.jpg",
         "cast_id": 1,
         "character": "Smita",
@@ -98,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 2,
         "character": "Sarath",
@@ -112,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Rashmi Gautham",
         "original_name": "Rashmi Gautham",
-        "popularity": 0.3624,
+        "popularity": 0.8132,
         "profile_path": "/novS7imC1HXjXiazaBI3jrrLNLx.jpg",
         "cast_id": 3,
         "character": "Rashmi",
@@ -126,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 4,
         "character": "",
@@ -140,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Raghu Karumanchi",
         "original_name": "Raghu Karumanchi",
-        "popularity": 0.1701,
+        "popularity": 0.4393,
         "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
         "cast_id": 5,
         "character": "",
@@ -154,7 +164,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.4738,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 6,
         "character": "",
@@ -168,7 +178,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 7,
         "character": "",
@@ -182,7 +192,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.3337,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 8,
         "character": "",
@@ -196,8 +206,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "59fd128c9251414733004cc8",
@@ -210,7 +220,7 @@
         "known_for_department": "Acting",
         "name": "Himaja",
         "original_name": "Himaja",
-        "popularity": 0.2067,
+        "popularity": 0.6443,
         "profile_path": "/9aowz0YD4c2tWs0FC1VxF4RqbES.jpg",
         "cast_id": 18,
         "character": "Ghost",
@@ -222,37 +232,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1267542,
-        "known_for_department": "Sound",
-        "name": "Sai Karthik",
-        "original_name": "Sai Karthik",
-        "popularity": 0.1586,
-        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
-        "credit_id": "59fd157192514146e8004ce9",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1916998,
         "known_for_department": "Directing",
         "name": "Prabhakar Podakandla",
         "original_name": "Prabhakar Podakandla",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "59fd1b99c3a36867f600653b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1916998,
-        "known_for_department": "Directing",
-        "name": "Prabhakar Podakandla",
-        "original_name": "Prabhakar Podakandla",
-        "popularity": 0.0214,
+        "popularity": 0.4056,
         "profile_path": null,
         "credit_id": "59fd1ba5c3a36867f6006559",
         "department": "Writing",
@@ -261,15 +245,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1916998,
-        "known_for_department": "Directing",
-        "name": "Prabhakar Podakandla",
-        "original_name": "Prabhakar Podakandla",
-        "popularity": 0.0214,
+        "id": 1267542,
+        "known_for_department": "Sound",
+        "name": "Sai Karthik",
+        "original_name": "Sai Karthik",
+        "popularity": 0.3815,
+        "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
+        "credit_id": "59fd157192514146e8004ce9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1663538,
+        "known_for_department": "Editing",
+        "name": "S.B. Uddhav",
+        "original_name": "S.B. Uddhav",
+        "popularity": 0.2985,
         "profile_path": null,
-        "credit_id": "59fd1baec3a36868680059fc",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "59fd1df4925141471d0063dd",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -278,7 +275,7 @@
         "known_for_department": "Writing",
         "name": "Deekay",
         "original_name": "Deekay",
-        "popularity": 0.2314,
+        "popularity": 0.4942,
         "profile_path": null,
         "credit_id": "59fd1bcd9251414733005d9c",
         "department": "Writing",
@@ -291,7 +288,7 @@
         "known_for_department": "Production",
         "name": "K. E. Gnanavelraja",
         "original_name": "K. E. Gnanavelraja",
-        "popularity": 0.1216,
+        "popularity": 0.2985,
         "profile_path": null,
         "credit_id": "59fd1bde92514146d4005fa1",
         "department": "Production",
@@ -300,11 +297,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1916998,
+        "known_for_department": "Directing",
+        "name": "Prabhakar Podakandla",
+        "original_name": "Prabhakar Podakandla",
+        "popularity": 0.4056,
+        "profile_path": null,
+        "credit_id": "59fd1b99c3a36867f600653b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1916998,
+        "known_for_department": "Directing",
+        "name": "Prabhakar Podakandla",
+        "original_name": "Prabhakar Podakandla",
+        "popularity": 0.4056,
+        "profile_path": null,
+        "credit_id": "59fd1baec3a36868680059fc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 933606,
         "known_for_department": "Production",
         "name": "Bunny Vas",
         "original_name": "Bunny Vas",
-        "popularity": 0.0982,
+        "popularity": 0.3249,
         "profile_path": "/wuORjl5RorJUpLeWL6UspfC1zak.jpg",
         "credit_id": "59fd1db2925141471d00638d",
         "department": "Production",
@@ -313,72 +336,17 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1663538,
-        "known_for_department": "Editing",
-        "name": "S.B. Uddhav",
-        "original_name": "S.B. Uddhav",
-        "popularity": 0.0658,
-        "profile_path": null,
-        "credit_id": "59fd1df4925141471d0063dd",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1715414,
         "known_for_department": "Camera",
         "name": "Kharthik Palani",
         "original_name": "Kharthik Palani",
-        "popularity": 0.0557,
+        "popularity": 0.264,
         "profile_path": null,
         "credit_id": "60466bab2b8a4300579bca65",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 3358,
-        "name": "haunted house"
-      },
-      {
-        "id": 196986,
-        "name": "haunted hotel"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt7411370",
-    "wikidata_id": "Q53547552",
-    "facebook_id": "NextNuvve",
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-11-03T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -496,5 +464,37 @@
         "width": 630
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 196986,
+        "name": "haunted hotel"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

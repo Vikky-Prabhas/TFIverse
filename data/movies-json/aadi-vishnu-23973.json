@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Aadi Vishnu",
   "overview": "",
-  "popularity": 0.2142,
+  "popularity": 0.9711,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -39,15 +39,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt37033937",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "credits": {
     "cast": [
@@ -58,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Dasari Arun Kumar",
         "original_name": "Dasari Arun Kumar",
-        "popularity": 0.1375,
+        "popularity": 0.6333,
         "profile_path": "/yxUGS08Jn4KC1IOHdLbTAbdToKd.jpg",
         "cast_id": 6,
         "character": "",
@@ -72,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Sneha",
         "original_name": "Sneha",
-        "popularity": 3.6828,
+        "popularity": 3.2155,
         "profile_path": "/cCfLk43SbEcx1lAzja037wKTzAs.jpg",
         "cast_id": 7,
         "character": "",
@@ -84,9 +77,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 8,
         "character": "",
@@ -100,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 9,
         "character": "",
@@ -114,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Fish Venkat",
         "original_name": "Fish Venkat",
-        "popularity": 0.2351,
+        "popularity": 0.6894,
         "profile_path": "/rPP4bQ9fo3GMVkxNQvQVO0UbPTT.jpg",
         "cast_id": 10,
         "character": "",
@@ -128,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu Tillu",
-        "popularity": 0.1163,
+        "popularity": 0.6907,
         "profile_path": "/m367s4YmY92g3Woi3LpU6ahbOtm.jpg",
         "cast_id": 11,
         "character": "",
@@ -142,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "M. Balayya",
         "original_name": "M. Balayya",
-        "popularity": 0.1407,
+        "popularity": 1.3523,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -156,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0,
+        "popularity": 0.3583,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -170,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.2585,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 14,
         "character": "",
@@ -184,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Pradeep Ram Singh Rawat",
         "original_name": "Pradeep Ram Singh Rawat",
-        "popularity": 0.4628,
+        "popularity": 2.5977,
         "profile_path": "/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg",
         "cast_id": 15,
         "character": "",
@@ -198,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.4653,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 16,
         "character": "",
@@ -211,9 +204,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 17,
         "character": "",
         "credit_id": "68acda9e06ce5c2027a9a7a0",
@@ -223,12 +216,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1513080,
         "known_for_department": "Sound",
         "name": "M. M. Srilekha",
         "original_name": "M. M. Srilekha",
-        "popularity": 0.0453,
+        "popularity": 0.2911,
         "profile_path": null,
         "credit_id": "68acd8a4adf8b0473d670aa9",
         "department": "Sound",
@@ -241,7 +234,7 @@
         "known_for_department": "Editing",
         "name": "B. Krishnamraju",
         "original_name": "B. Krishnamraju",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68acd8b661afe331861e5538",
         "department": "Editing",
@@ -254,7 +247,7 @@
         "known_for_department": "Camera",
         "name": "T. Surendra Reddy",
         "original_name": "T. Surendra Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2588,
         "profile_path": null,
         "credit_id": "68acd8beadf8b0473d670aac",
         "department": "Crew",
@@ -267,7 +260,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "68acd8c799963babd29db4da",
         "department": "Writing",
@@ -280,7 +273,7 @@
         "known_for_department": "Directing",
         "name": "Bharat Parepalli",
         "original_name": "Bharat Parepalli",
-        "popularity": 0.0362,
+        "popularity": 0.3576,
         "profile_path": null,
         "credit_id": "68acd8d7227a2c386a8d2810",
         "department": "Directing",
@@ -288,16 +281,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt37033937",
+    "wikidata_id": "Q113677908",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -315,5 +307,13 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Premaku Swagatam",
   "overview": "Mahendra, a multimillionaire businessman, chooses a wealthy young man for his daughter, Lahari. However, she insists on getting married to her boyfriend, a mere car driver.",
-  "popularity": 0.432,
+  "popularity": 0.9009,
   "poster_path": "/80kiTQ2xWZ3Yt61XVNzSU27LqYs.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,9 +44,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -56,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "J. D. Chakravarthi",
         "original_name": "J. D. Chakravarthi",
-        "popularity": 0.7046,
+        "popularity": 0.9206,
         "profile_path": "/4sRwxgggTEhsaJzwZRZbxbLRzUA.jpg",
         "cast_id": 1,
         "character": "",
@@ -70,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.3989,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,8 +80,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 3,
         "character": "",
@@ -98,8 +95,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "631db8cc435011007ab53893",
@@ -111,8 +108,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -126,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 6,
         "character": "",
@@ -140,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "",
@@ -156,7 +153,7 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "631db8fdce9e91007f7515e0",
         "department": "Directing",
@@ -164,15 +161,11 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt4899364",
-    "wikidata_id": "Q7240208",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -190,6 +183,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt4899364",
+    "wikidata_id": "Q7240208",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

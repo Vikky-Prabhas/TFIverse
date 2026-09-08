@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "GATHAVAIBHAVAM",
   "overview": "An artist,the heroine draws mysterious portraits of a young man from her imagination. Her curiosity is heightened when the heros friend recognizes the face in her drawings,revealing that it matches his close partner. Curious,the heroine asks for the heros contact details,initiating their first conversation over the phone. Their conversatio",
-  "popularity": 0,
+  "popularity": 0.3429,
   "poster_path": null,
   "production_companies": [
     {
@@ -52,17 +52,7 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
+  "videos": {
     "results": []
   },
   "credits": {
@@ -75,7 +65,7 @@
         "known_for_department": "Editing",
         "name": "AASHIK KUSUGOLI",
         "original_name": "AASHIK KUSUGOLI",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a0189d282b6e6929c62d9",
         "department": "Editing",
@@ -88,7 +78,7 @@
         "known_for_department": "Writing",
         "name": "SIMPLE SUNI",
         "original_name": "SIMPLE SUNI",
-        "popularity": 0,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "691a018b6cb3e5b8574ca802",
         "department": "Writing",
@@ -101,7 +91,7 @@
         "known_for_department": "Writing",
         "name": "PAVAN",
         "original_name": "PAVAN",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a018d64a32b21624ca6f6",
         "department": "Writing",
@@ -114,7 +104,7 @@
         "known_for_department": "Sound",
         "name": "JUDAH AND JARED",
         "original_name": "JUDAH AND JARED",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a018feacffe65b23a5bef",
         "department": "Sound",
@@ -127,7 +117,7 @@
         "known_for_department": "Directing",
         "name": "SIMPLE SUNI",
         "original_name": "SIMPLE SUNI",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a0191579b325ab63a5792",
         "department": "Directing",
@@ -140,7 +130,7 @@
         "known_for_department": "Camera",
         "name": "WILIAM DAVID",
         "original_name": "WILIAM DAVID",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a0197ae981ceb3f9ae60e",
         "department": "Camera",
@@ -153,7 +143,7 @@
         "known_for_department": "Writing",
         "name": "VENKI",
         "original_name": "VENKI",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "691a0199880b45cf2b40f39e",
         "department": "Writing",
@@ -161,15 +151,25 @@
       }
     ]
   },
-  "videos": {
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

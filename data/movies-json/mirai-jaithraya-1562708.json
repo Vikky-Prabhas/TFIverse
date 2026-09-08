@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "మిరాయ్ జైత్రయా",
   "overview": "Sequel to Mirai (2025)",
-  "popularity": 0.085,
+  "popularity": 1.4016,
   "poster_path": "/nw9nHlTaB30M9l1PLZNPItRfH9E.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,14 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": [
+      {
+        "id": 360376,
+        "name": "mirai collection"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -43,8 +51,8 @@
         "known_for_department": "Acting",
         "name": "Teja Sajja",
         "original_name": "Teja Sajja",
-        "popularity": 0.2525,
-        "profile_path": "/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg",
+        "popularity": 1.3075,
+        "profile_path": "/7MhRbb4VTRpk199CsX4vnYqQRd2.jpg",
         "cast_id": 3,
         "character": "Vedha Prajapati",
         "credit_id": "68ee9e3e99154ef9dbf967fa",
@@ -57,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 4,
         "character": "Angama Bali",
@@ -71,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Ritika Nayak",
         "original_name": "Ritika Nayak",
-        "popularity": 0.1923,
+        "popularity": 1.0319,
         "profile_path": "/6KyRbryxk9Od1goIDGlK3GodKlp.jpg",
         "cast_id": 5,
         "character": "Vibha",
@@ -84,9 +92,9 @@
         "id": 215910,
         "known_for_department": "Acting",
         "name": "Rana Daggubati",
-        "original_name": "Rana Daggubati",
-        "popularity": 1.1535,
-        "profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+        "original_name": "రానా దగ్గుబాటి",
+        "popularity": 2.5345,
+        "profile_path": "/q0Rw0e9RogMD0zJ0Heq0GotDYoy.jpg",
         "cast_id": 6,
         "character": "Jaithraya",
         "credit_id": "68ee9eb3533cc4cdf2aedc13",
@@ -99,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Getup Srinu",
         "original_name": "Getup Srinu",
-        "popularity": 0.3831,
+        "popularity": 1.535,
         "profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
         "cast_id": 7,
         "character": "Memesh",
@@ -113,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Jayaram",
         "original_name": "Jayaram",
-        "popularity": 0.9783,
+        "popularity": 1.0599,
         "profile_path": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg",
         "cast_id": 8,
         "character": "Agasthya Muni",
@@ -129,7 +137,7 @@
         "known_for_department": "Camera",
         "name": "Karthik Ghattamaneni",
         "original_name": "Karthik Ghattamaneni",
-        "popularity": 0.248,
+        "popularity": 0.8266,
         "profile_path": "/cErMh6pV8VgdgsjnqCP5ygGGsjh.jpg",
         "credit_id": "68ee9ded20af296353aedc1a",
         "department": "Directing",
@@ -142,7 +150,7 @@
         "known_for_department": "Camera",
         "name": "Karthik Ghattamaneni",
         "original_name": "Karthik Ghattamaneni",
-        "popularity": 0.248,
+        "popularity": 0.8266,
         "profile_path": "/cErMh6pV8VgdgsjnqCP5ygGGsjh.jpg",
         "credit_id": "68ee9e0d832e83b7954adb4c",
         "department": "Writing",
@@ -150,23 +158,11 @@
       }
     ]
   },
-  "videos": {
+  "release_dates": {
     "results": []
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 360376,
-        "name": "mirai collection"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -184,10 +180,14 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": []
   }
 }

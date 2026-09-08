@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Legally Veer",
   "overview": "A gripping murder case in Hata City tests the limits of justice. Veer, an aspiring lawyer, takes on a high-stakes defense against a criminal charge, battling through courtroom revelations and twists.",
-  "popularity": 0.0536,
+  "popularity": 0.562,
   "poster_path": "/8WKeDF6A3s6DGOs8iocVe3BBZxM.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,19 +28,6 @@
   "video": false,
   "vote_average": 1,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt34896026",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -50,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Malikireddy Veer Reddy",
         "original_name": "Malikireddy Veer Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2725,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -64,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Rewri",
         "original_name": "Priyanka Rewri",
-        "popularity": 0,
+        "popularity": 0.2746,
         "profile_path": "/zog6ckfYnIO1DUHMRpBhtXKp1m5.jpg",
         "cast_id": 2,
         "character": "",
@@ -73,6 +60,19 @@
       }
     ],
     "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt34896026",
+    "wikidata_id": "Q137588553",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -90,6 +90,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -147,8 +150,5 @@
         "width": 1200
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

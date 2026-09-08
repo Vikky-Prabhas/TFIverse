@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Mix Up",
   "overview": "Two couples at a marital crossroads embark on a journey to rekindle their bonds, only to find unexpected connections that challenge their desires and redefine the true meaning of love.",
-  "popularity": 1.1815,
+  "popularity": 0.7313,
   "poster_path": "/ylKD7chB3sjc7qPEYdb4NpXRNUp.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Akshara Gowda",
         "original_name": "Akshara Gowda",
-        "popularity": 0.2961,
+        "popularity": 0.7088,
         "profile_path": "/qrj7BjfMFG8rD3RHRQRTdsuPisP.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Aadarsh Balakrishna",
         "original_name": "Aadarsh Balakrishna",
-        "popularity": 0.2649,
+        "popularity": 0.9862,
         "profile_path": "/rOmqQfm3ArplVU37PXhlOeUo7aW.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Pooja Jhaveri",
         "original_name": "Pooja Jhaveri",
-        "popularity": 0.1216,
+        "popularity": 0.9711,
         "profile_path": "/fyeeeDP4F4muVCY7P79pzaVatpR.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2519,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 4,
         "character": "",
@@ -91,24 +91,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1789209,
-        "known_for_department": "Camera",
-        "name": "Dinesh K Babu",
-        "original_name": "Dinesh K Babu",
-        "popularity": 0.0478,
-        "profile_path": null,
-        "credit_id": "65f3b9763852020149e17d98",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4593473,
         "known_for_department": "Directing",
         "name": "Aakash Bikki",
         "original_name": "Aakash Bikki",
-        "popularity": 0.0143,
+        "popularity": 0.3004,
         "profile_path": null,
         "credit_id": "65f3b92c595a560186057487",
         "department": "Directing",
@@ -121,7 +108,7 @@
         "known_for_department": "Writing",
         "name": "Hyma Varshini",
         "original_name": "Hyma Varshini",
-        "popularity": 0.0071,
+        "popularity": 0.2712,
         "profile_path": null,
         "credit_id": "65f3b93da698cf0186f637e5",
         "department": "Writing",
@@ -134,11 +121,24 @@
         "known_for_department": "Production",
         "name": "Thirumal Reddy Amireddy",
         "original_name": "Thirumal Reddy Amireddy",
-        "popularity": 0.0143,
+        "popularity": 0.2839,
         "profile_path": null,
         "credit_id": "65f3b95788055101840ee779",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1789209,
+        "known_for_department": "Camera",
+        "name": "Dinesh K Babu",
+        "original_name": "Dinesh K Babu",
+        "popularity": 0.3007,
+        "profile_path": null,
+        "credit_id": "65f3b9763852020149e17d98",
+        "department": "Crew",
+        "job": "Cinematography"
       }
     ]
   },
@@ -158,32 +158,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt31647370",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-03-15T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -219,6 +202,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 533
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-03-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   },

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Brahmavaram PS Paridilo",
   "overview": "A headless body found near the police station in Brahmmavaram. It follows the mystery of whose body it is, who the killer is, and why the body was left there. What mistake it is and how sometimes mistakes bring Justice ???",
-  "popularity": 0.07,
+  "popularity": 1.0056,
   "poster_path": "/AdJ98GwTs0FzaSn9YCgGz6NQSq5.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Sravanthi Bellamkonda",
         "original_name": "Sravanthi Bellamkonda",
-        "popularity": 0.0143,
+        "popularity": 0.3858,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Guru Charan",
         "original_name": "Guru Charan",
-        "popularity": 0.0214,
+        "popularity": 0.3353,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Sammeta Gandhi",
         "original_name": "Sammeta Gandhi",
-        "popularity": 0.2837,
+        "popularity": 0.8223,
         "profile_path": "/pmtOoc6hoowP3wrISj5hlOsMTbe.jpg",
         "cast_id": 4,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "V. S. Roopa Lakshmi",
         "original_name": "V. S. Roopa Lakshmi",
-        "popularity": 0.2397,
+        "popularity": 0.3045,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Prem Sagar",
         "original_name": "Prem Sagar",
-        "popularity": 0.1998,
+        "popularity": 0.4659,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Surya Srinivas",
         "original_name": "Surya Srinivas",
-        "popularity": 0.1944,
+        "popularity": 0.6473,
         "profile_path": "/8FCnFbBZLEmIFaP8xRQ99OC7Dff.jpg",
         "cast_id": 7,
         "character": "",
@@ -134,13 +134,23 @@
         "known_for_department": "Directing",
         "name": "Imran Sastry",
         "original_name": "Imran Sastry",
-        "popularity": 0.0071,
+        "popularity": 0.4458,
         "profile_path": null,
         "credit_id": "68bd56ca835743b3c7069d8d",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt27510137",
+    "wikidata_id": "Q129206594",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -185,20 +195,10 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt27510137",
-    "wikidata_id": "Q129206594",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

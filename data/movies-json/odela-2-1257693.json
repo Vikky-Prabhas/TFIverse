@@ -31,7 +31,7 @@
   "original_language": "te",
   "original_title": "ఒడేల 2",
   "overview": "A savior, Odela Mallanna Swamy, protects a village from evil forces.",
-  "popularity": 0.8417,
+  "popularity": 2.058,
   "poster_path": "/xG5SdRKXjWupcwXj2JJLOSX0PiS.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,6 +57,9 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 15,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -65,8 +68,8 @@
         "id": 85721,
         "known_for_department": "Acting",
         "name": "Tamannaah Bhatia",
-        "original_name": "Tamannaah Bhatia",
-        "popularity": 6.924,
+        "original_name": "తమన్నా భాటియా",
+        "popularity": 4.861,
         "profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
         "cast_id": 1,
         "character": "Shiva Shakthi",
@@ -80,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Hebah Patel",
         "original_name": "Hebah Patel",
-        "popularity": 0.8878,
+        "popularity": 1.0031,
         "profile_path": "/hZM5aTM75NRQes6lRLkM2eT8Z9X.jpg",
         "cast_id": 5,
         "character": "Radha",
@@ -94,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Vasishta N. Simha",
         "original_name": "Vasishta N. Simha",
-        "popularity": 0.3078,
+        "popularity": 1.2808,
         "profile_path": "/lHriwmzxVYLwU9pxfSfa9S4RzSp.jpg",
         "cast_id": 6,
         "character": "Tirupati",
@@ -108,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Naga Mahesh",
         "original_name": "Naga Mahesh",
-        "popularity": 0.2422,
+        "popularity": 0.7434,
         "profile_path": "/jx2QdDAKx48GcAiIblA8EWduKfn.jpg",
         "cast_id": 7,
         "character": "Lakshman",
@@ -121,8 +124,8 @@
         "id": 85588,
         "known_for_department": "Acting",
         "name": "Murali Sharma",
-        "original_name": "Murli Sharma",
-        "popularity": 0.8674,
+        "original_name": "మురళీ శర్మ",
+        "popularity": 2.5363,
         "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
         "cast_id": 9,
         "character": "Allabakshu",
@@ -136,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.2205,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 10,
         "character": "Reporter",
@@ -152,7 +155,7 @@
         "known_for_department": "Writing",
         "name": "Sampath Nandi",
         "original_name": "Sampath Nandi",
-        "popularity": 0.266,
+        "popularity": 1.05,
         "profile_path": null,
         "credit_id": "65ef5617c2b9df01615d66b7",
         "department": "Crew",
@@ -165,7 +168,7 @@
         "known_for_department": "Writing",
         "name": "Sampath Nandi",
         "original_name": "Sampath Nandi",
-        "popularity": 0.266,
+        "popularity": 1.05,
         "profile_path": null,
         "credit_id": "65ef563185702e01856c8e12",
         "department": "Writing",
@@ -178,16 +181,13 @@
         "known_for_department": "Directing",
         "name": "Ashok Teja",
         "original_name": "Ashok Teja",
-        "popularity": 0.0071,
+        "popularity": 0.4812,
         "profile_path": null,
         "credit_id": "680182d9d317be5e5c991666",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt31529147",
@@ -223,6 +223,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -371,8 +374,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

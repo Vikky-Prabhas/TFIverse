@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Commitment",
   "overview": "",
-  "popularity": 0.252,
+  "popularity": 0.7505,
   "poster_path": "/aoCRSFMoKwa7IKEvXX8oFVPkwv2.jpg",
   "production_companies": [],
   "production_countries": [
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -51,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Tejaswi Madivada",
         "original_name": "Tejaswi Madivada",
-        "popularity": 0.2718,
+        "popularity": 0.8243,
         "profile_path": "/1XRKVC9IEqf0k6Yj1R69xCc0dUA.jpg",
         "cast_id": 1,
         "character": "",
@@ -65,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Anveshi Jain",
         "original_name": "Anveshi Jain",
-        "popularity": 1.0546,
+        "popularity": 1.4452,
         "profile_path": "/7l2h5QyFc0dloUTlsIOPoSHz1ZM.jpg",
         "cast_id": 2,
         "character": "",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Ramya Pasupuleti",
         "original_name": "Ramya Pasupileti",
-        "popularity": 0.0867,
+        "popularity": 0.4514,
         "profile_path": "/bhr6P9bFReJssSiCNXjFy1syMnU.jpg",
         "cast_id": 3,
         "character": "",
@@ -93,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Simar Singh",
         "original_name": "Simar Singh",
-        "popularity": 0.0662,
+        "popularity": 0.277,
         "profile_path": "/9UnmRgdcr85p4OYpdVBhMvM0nnv.jpg",
         "cast_id": 4,
         "character": "",
@@ -107,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Tanishq Rajan",
         "original_name": "Tanishq Rajan",
-        "popularity": 0.1626,
+        "popularity": 0.3998,
         "profile_path": "/tjXaDZVpJxKKI98lml8oTaWBuOy.jpg",
         "cast_id": 5,
         "character": "",
@@ -121,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Amit Kumar Tiwari",
         "original_name": "Amit Kumar Tiwari",
-        "popularity": 0.1545,
+        "popularity": 0.9808,
         "profile_path": "/razxVbGJjULO7pW2r0AXpcS9mFg.jpg",
         "cast_id": 12,
         "character": "",
@@ -135,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.4141,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 13,
         "character": "",
@@ -149,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "Surya Srinivas",
         "original_name": "Surya Srinivas",
-        "popularity": 0.1718,
+        "popularity": 0.6473,
         "profile_path": "/8FCnFbBZLEmIFaP8xRQ99OC7Dff.jpg",
         "cast_id": 14,
         "character": "",
@@ -163,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Maganti Srinath",
         "original_name": "Maganti Srinath",
-        "popularity": 1.3131,
+        "popularity": 0.8739,
         "profile_path": "/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg",
         "cast_id": 15,
         "character": "",
@@ -174,51 +171,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1649125,
-        "known_for_department": "Directing",
-        "name": "Lakshmikanth Chenna",
-        "original_name": "Lakshmikanth Chenna",
-        "popularity": 0.0876,
-        "profile_path": null,
-        "credit_id": "61215e985437f5005dea2893",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1649125,
-        "known_for_department": "Directing",
-        "name": "Lakshmikanth Chenna",
-        "original_name": "Lakshmikanth Chenna",
-        "popularity": 0.0876,
-        "profile_path": null,
-        "credit_id": "61215ea5d96c3c002b744fc1",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2123240,
-        "known_for_department": "Sound",
-        "name": "Naresh Kumaran",
-        "original_name": "Naresh Kumaran",
-        "popularity": 0.1289,
-        "profile_path": null,
-        "credit_id": "61215eb7d4b9d9005b4699db",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 2985287,
         "known_for_department": "Camera",
         "name": "Sajeesh Rajendran",
         "original_name": "Sajeesh Rajendran",
-        "popularity": 0.0143,
+        "popularity": 0.2642,
         "profile_path": null,
         "credit_id": "61215ed3fd4a96002ef24754",
         "department": "Camera",
@@ -231,7 +189,7 @@
         "known_for_department": "Camera",
         "name": "Naresh Rana",
         "original_name": "Naresh Rana",
-        "popularity": 0.0071,
+        "popularity": 0.2752,
         "profile_path": null,
         "credit_id": "61215ef0719aeb007d3f71f8",
         "department": "Camera",
@@ -244,30 +202,55 @@
         "known_for_department": "Crew",
         "name": "Harikiran Raju",
         "original_name": "Harikiran Raju",
-        "popularity": 0.0362,
+        "popularity": 0.2878,
         "profile_path": null,
         "credit_id": "61215f08719aeb0045930843",
         "department": "Crew",
         "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649125,
+        "known_for_department": "Directing",
+        "name": "Lakshmikanth Chenna",
+        "original_name": "Lakshmikanth Chenna",
+        "popularity": 0.3788,
+        "profile_path": null,
+        "credit_id": "61215ea5d96c3c002b744fc1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2123240,
+        "known_for_department": "Sound",
+        "name": "Naresh Kumaran",
+        "original_name": "Naresh Kumaran",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "61215eb7d4b9d9005b4699db",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649125,
+        "known_for_department": "Directing",
+        "name": "Lakshmikanth Chenna",
+        "original_name": "Lakshmikanth Chenna",
+        "popularity": 0.3788,
+        "profile_path": null,
+        "credit_id": "61215e985437f5005dea2893",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2022-08-19T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -327,5 +310,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

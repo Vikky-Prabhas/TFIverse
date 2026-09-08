@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పరమానందం శిష్యులు",
   "overview": "Brought up in an orphanage after his parents death due to non affordable fees in Private school Paramanandam completes his higher education with great determination and Hard work He moves to a village and observes the bad situation of the local schools and the Students .He aims to change the Studies and school situations with the help of the local Headmaster and his Daughter .",
-  "popularity": 0.1226,
+  "popularity": 0.8182,
   "poster_path": "/pHxgYePp4g9rKMdrE5KHWPUF2QD.jpg",
   "production_companies": [
     {
@@ -67,11 +67,82 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2792392,
+        "known_for_department": "Acting",
+        "name": "Daggupati Vinay",
+        "original_name": "Daggupati Vinay",
+        "popularity": 0.3608,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5f6f3878d55e4d003471b10b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2792393,
+        "known_for_department": "Acting",
+        "name": "Rukmini",
+        "original_name": "Rukmini",
+        "popularity": 0.3186,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5f6f38888fdda90038f60188",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2792394,
+        "known_for_department": "Acting",
+        "name": "G D Naidu 888",
+        "original_name": "G D Naidu 888",
+        "popularity": 0.3386,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5f6f38ae532acb003618e836",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2792394,
+        "known_for_department": "Acting",
+        "name": "G D Naidu 888",
+        "original_name": "G D Naidu 888",
+        "popularity": 0.3386,
+        "profile_path": null,
+        "credit_id": "5f6f38d5e627190037119c0d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   },
   "release_dates": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -88,76 +159,5 @@
         "width": 700
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2792392,
-        "known_for_department": "Acting",
-        "name": "Daggupati Vinay",
-        "original_name": "Daggupati Vinay",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5f6f3878d55e4d003471b10b",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2792393,
-        "known_for_department": "Acting",
-        "name": "Rukmini",
-        "original_name": "Rukmini",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5f6f38888fdda90038f60188",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2792394,
-        "known_for_department": "Acting",
-        "name": "G D Naidu 888",
-        "original_name": "G D Naidu 888",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5f6f38ae532acb003618e836",
-        "order": 2
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2792394,
-        "known_for_department": "Acting",
-        "name": "G D Naidu 888",
-        "original_name": "G D Naidu 888",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5f6f38d5e627190037119c0d",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

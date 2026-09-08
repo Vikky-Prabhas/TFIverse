@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Balu Gadi Love Story",
   "overview": "Balu, a carefree and humorous small-town boy believes love is just a passing feeling until he meets Keerthi, an ambitious and strong-willed girl with big dreams. What starts as a lighthearted (lirtation turns inte an emotional rellercoaster when their contrasting worlds clash With friendship, heartbreak, and a deep Transformation. Balu must decide if his love is strong enough to fight fate and win her heart.",
-  "popularity": 0.182,
+  "popularity": 0.4592,
   "poster_path": "/gJ2f8OiLxMVcSRznuThSVGwjRzc.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,6 +42,39 @@
   "credits": {
     "cast": [],
     "crew": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37763763",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-08-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -67,39 +100,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 800
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt37763763",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 16+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-08-08T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

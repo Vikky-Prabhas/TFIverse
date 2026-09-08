@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Chinna Kodalu",
   "overview": "A blind man, his merciless wife, their sheepish sons and stony-hearted daughter torture the eldest daughter-in-law, who is naive. But things change when the youngest son gets married to an orphan. Seeing this, she decides to teach them a lesson and make them mend their ways.",
-  "popularity": 1.9149,
+  "popularity": 1.2372,
   "poster_path": "/esSOFfT4oUjB5I6A8kqIeKfNxRc.jpg",
   "production_companies": [],
   "production_countries": [
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Vani Viswanath",
         "original_name": "Vani Viswanath",
-        "popularity": 0.786,
+        "popularity": 2.0145,
         "profile_path": "/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,8 +65,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.1642,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "63756c99e8999b007cc8fdfb",
@@ -81,37 +81,11 @@
         "known_for_department": "Directing",
         "name": "Anjan Choudhury",
         "original_name": "Anjan Choudhury",
-        "popularity": 0.292,
+        "popularity": 0.9459,
         "profile_path": null,
         "credit_id": "637551112f79150084f012d2",
         "department": "Writing",
         "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3608283,
-        "known_for_department": "Sound",
-        "name": "Vasu Rao",
-        "original_name": "Vasu Rao",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "63756c7be8999b00a45fba05",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 92057,
-        "known_for_department": "Sound",
-        "name": "Bappi Lahiri",
-        "original_name": "Bappi Lahiri",
-        "popularity": 0.2336,
-        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
-        "credit_id": "63756c39e8999b008ed2e20e",
-        "department": "Sound",
-        "job": "Music"
       },
       {
         "adult": false,
@@ -120,19 +94,68 @@
         "known_for_department": "Directing",
         "name": "K. Vasu",
         "original_name": "K. Vasu",
-        "popularity": 0.1018,
+        "popularity": 0.3713,
         "profile_path": null,
         "credit_id": "63756c0593db92007f5c9f3a",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92057,
+        "known_for_department": "Sound",
+        "name": "Bappi Lahiri",
+        "original_name": "Bappi Lahiri",
+        "popularity": 0.5219,
+        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
+        "credit_id": "63756c39e8999b008ed2e20e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3608283,
+        "known_for_department": "Sound",
+        "name": "Vasu Rao",
+        "original_name": "Vasu Rao",
+        "popularity": 0.2708,
+        "profile_path": null,
+        "credit_id": "63756c7be8999b00a45fba05",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/esSOFfT4oUjB5I6A8kqIeKfNxRc.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -151,30 +174,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/esSOFfT4oUjB5I6A8kqIeKfNxRc.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

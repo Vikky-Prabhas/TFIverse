@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mister 420",
   "overview": "Mister 420 movie is a romantic action entertainer written and directed by S.S.Ravikumar and produced by Hari Kumar Reddy Gajjala under Saanvi Creations",
-  "popularity": 0.2438,
+  "popularity": 1.3644,
   "poster_path": "/t5AMeKoUv7Gfeu31GwGab8Tu69E.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sandesh",
         "original_name": "Varun Sandesh",
-        "popularity": 0.3541,
+        "popularity": 0.5926,
         "profile_path": "/ivdqRWq1L2olXJtWjSajnkXhYGc.jpg",
         "cast_id": 1,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Priyanka Bharadwaja",
         "original_name": "Priyanka Bharadwaja",
-        "popularity": 0.0362,
+        "popularity": 0.368,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.7272,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,8 +94,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "5b9218f00e0a266096006b3e",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Ghosh",
         "original_name": "Ajay Ghosh",
-        "popularity": 0.4275,
+        "popularity": 1.1781,
         "profile_path": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg",
         "cast_id": 8,
         "character": "",
@@ -124,16 +124,13 @@
         "known_for_department": "Directing",
         "name": "S.S . Ravikumar",
         "original_name": "S.S . Ravikumar",
-        "popularity": 0.0143,
+        "popularity": 0.354,
         "profile_path": null,
         "credit_id": "5ac34819925141271203138a",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": [
@@ -144,21 +141,8 @@
       }
     ]
   },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Super King No. 1 (Mister. 420) 2018 Official Trailer | Varun Sandesh, Priyanka Bharadwaja",
-        "key": "95LeLBqUA3M",
-        "site": "YouTube",
-        "size": 720,
-        "type": "Trailer",
-        "official": true,
-        "id": "5ac3457d9251412720031f10",
-        "published_at": "2018-03-29T11:30:01.000Z"
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "",
@@ -166,6 +150,22 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/t5AMeKoUv7Gfeu31GwGab8Tu69E.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -184,19 +184,19 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+  "videos": {
+    "results": [
       {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/t5AMeKoUv7Gfeu31GwGab8Tu69E.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Super King No. 1 (Mister. 420) 2018 Official Trailer | Varun Sandesh, Priyanka Bharadwaja",
+        "key": "95LeLBqUA3M",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ac3457d9251412720031f10",
+        "published_at": "2018-03-29T11:30:01.000Z"
       }
     ]
   }

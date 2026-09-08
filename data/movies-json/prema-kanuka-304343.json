@@ -3,7 +3,12 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "homepage": "",
   "id": 304343,
   "imdb_id": "tt0187417",
@@ -11,17 +16,35 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Prema Kanuka",
-  "overview": "",
-  "popularity": 0.1816,
+  "original_title": "ప్రేమ కానుక",
+  "overview": "Raja Shekaram, an artist, crosses paths with Sandhya after he paints a poster of Gowri. He then persuades her into helping him teach a lesson to someone close to her, who has ties to his past.",
+  "popularity": 1.8091,
   "poster_path": "/zDdgfRqcUX4qOANa72ZV1QyxlUj.jpg",
-  "production_companies": [],
-  "production_countries": [],
+  "production_companies": [
+    {
+      "id": 44098,
+      "logo_path": "/eplqXZD7BVDvu4E2QyKRFkL7rtJ.png",
+      "name": "Annapurna Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "1981-06-27",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 148,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Prema Kanuka",
@@ -37,10 +60,10 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Sandhya",
         "credit_id": "67b3c21ee5e1a7ed7ce112e6",
         "order": 0
       },
@@ -49,14 +72,168 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2993,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 2,
-        "character": "",
+        "character": "Raja Shekaram",
         "credit_id": "67b3c27820acfec4ece0cffb",
         "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584684,
+        "known_for_department": "Acting",
+        "name": "Rao Gopal Rao",
+        "original_name": "Rao Gopal Rao",
+        "popularity": 1.3539,
+        "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
+        "cast_id": 5,
+        "character": "Janthuvula Jaganatham",
+        "credit_id": "6a061e425b196379dcf4fd45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552991,
+        "known_for_department": "Acting",
+        "name": "Kaikala Satyanarayana",
+        "original_name": "Kaikala Satyanarayana",
+        "popularity": 2.8385,
+        "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
+        "cast_id": 6,
+        "character": "Bhushaiah",
+        "credit_id": "6a061e4e216f5b201ef4fd3d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584685,
+        "known_for_department": "Acting",
+        "name": "Allu Ramalingaiah",
+        "original_name": "Allu Ramalingaiah",
+        "popularity": 2.0609,
+        "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
+        "cast_id": 7,
+        "character": "All in all Anjaneyulu",
+        "credit_id": "6a061e5c194d65858f536035",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585268,
+        "known_for_department": "Acting",
+        "name": "Mohan Babu",
+        "original_name": "Mohan Babu",
+        "popularity": 2.7182,
+        "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
+        "cast_id": 8,
+        "character": "Mohan",
+        "credit_id": "6a061e69a4dccf633ddbf73d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267544,
+        "known_for_department": "Acting",
+        "name": "Prabhakar Reddy",
+        "original_name": "Prabhakar Reddy",
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
+        "cast_id": 9,
+        "character": "Veeraiah",
+        "credit_id": "6a061e78d99d18451742b0a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Appa Rao",
+        "credit_id": "6a061e8baf8c0382f553601f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585270,
+        "known_for_department": "Acting",
+        "name": "Chalapathi Rao",
+        "original_name": "Chalapathi Rao",
+        "popularity": 2.1919,
+        "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
+        "cast_id": 11,
+        "character": "Kumar",
+        "credit_id": "6a061e9a55f0b6580d8d9fda",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314931,
+        "known_for_department": "Acting",
+        "name": "Narra Venkateswara Rao",
+        "original_name": "Narra Venkateswara Rao",
+        "popularity": 1.6152,
+        "profile_path": "/dhpd7PAY06hhHDDOEsLIUFFTMQZ.jpg",
+        "cast_id": 12,
+        "character": "Jaggu",
+        "credit_id": "6a061ea96618d33a682a036d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552989,
+        "known_for_department": "Acting",
+        "name": "Manorama",
+        "original_name": "மனோரமா",
+        "popularity": 2.0142,
+        "profile_path": "/cykXsswggS5kwnDnJjZx3x8SYLa.jpg",
+        "cast_id": 13,
+        "character": "Aandallu",
+        "credit_id": "6a061ed055f0b6580d8d9fe8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1390496,
+        "known_for_department": "Acting",
+        "name": "Subhashini",
+        "original_name": "Subhashini",
+        "popularity": 0.4644,
+        "profile_path": "/f67HEvgbZYq43qAY1JsZJqH3KB0.jpg",
+        "cast_id": 14,
+        "character": "Rani",
+        "credit_id": "6a061ee16618d33a682a0382",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928181,
+        "known_for_department": "Acting",
+        "name": "Harish Kumar",
+        "original_name": "Harish Kumar",
+        "popularity": 1.6272,
+        "profile_path": "/3s1mSSZxlPSnUHEdGKqfJ30Uc1o.jpg",
+        "cast_id": 15,
+        "character": "Young Raja Shekaram",
+        "credit_id": "6a061f1a9ed7bd2ad1f4fd2f",
+        "order": 12
       }
     ],
     "crew": [
@@ -67,11 +244,102 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "67b3c2985b8c789e849fc10f",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6068292,
+        "known_for_department": "Writing",
+        "name": "Satyanand",
+        "original_name": "Satyanand",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "6a061f9680dfbe4c492a0440",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237252,
+        "known_for_department": "Directing",
+        "name": "K Raghavendra Rao",
+        "original_name": "K Raghavendra Rao",
+        "popularity": 1.5861,
+        "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
+        "credit_id": "6a061fad1147edfa0f2a036c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584460,
+        "known_for_department": "Directing",
+        "name": "V. C. Guhanathan",
+        "original_name": "V. C. Guhanathan",
+        "popularity": 1.1573,
+        "profile_path": "/rojZOpypGCFsOEpHvarRhnozYzc.jpg",
+        "credit_id": "6a061fb9c0132d5b4bdbf795",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646402,
+        "known_for_department": "Production",
+        "name": "Venkat Akkineni",
+        "original_name": "Venkat Akkineni",
+        "popularity": 0.2757,
+        "profile_path": null,
+        "credit_id": "6a061fcf0cb7605d23dbf726",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149958,
+        "known_for_department": "Acting",
+        "name": "Nagarjuna Akkineni",
+        "original_name": "Nagarjuna Akkineni",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
+        "credit_id": "6a061fde482a7a00738d9ffc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6213811,
+        "known_for_department": "Camera",
+        "name": "K. S. Prakash",
+        "original_name": "K. S. Prakash",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a062028194d65858f536053",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "6a0620352ccb93e34b2a03aa",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -80,11 +348,11 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
-        "credit_id": "67b3c2b2e0d9f833bc6dae3d",
+        "credit_id": "6a0620419cec0979f0d161b3",
         "department": "Sound",
-        "job": "Music"
+        "job": "Original Music Composer"
       }
     ]
   },
@@ -94,6 +362,25 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 768,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zDdgfRqcUX4qOANa72ZV1QyxlUj.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 512
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -112,29 +399,10 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 768,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/zDdgfRqcUX4qOANa72ZV1QyxlUj.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 512
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   }
 }

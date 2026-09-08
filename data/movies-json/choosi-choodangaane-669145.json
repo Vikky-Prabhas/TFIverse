@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "చూసి చూడంగానే",
   "overview": "The film portrays Siddu's life through the years, falling in love with Aishwarya for the first time while in college, and later meeting Shruti, a drummer, alongside his struggle to become a fashion photographer.",
-  "popularity": 0.2003,
+  "popularity": 0.7621,
   "poster_path": "/AiilKKpwMYxlGO6EmXGNmuinKWh.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,6 +52,13 @@
   "video": false,
   "vote_average": 5.5,
   "vote_count": 4,
+  "external_ids": {
+    "imdb_id": "tt11301882",
+    "wikidata_id": "Q77896699",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Kandukuri",
         "original_name": "Shiva Kandukuri",
-        "popularity": 0.2349,
+        "popularity": 0.7075,
         "profile_path": "/AlMXJvZE1Td0KlF2FQCUrQxdEZl.jpg",
         "cast_id": 2,
         "character": "Siddhu",
@@ -75,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Varsha Bollamma",
         "original_name": "Varsha Bollamma",
-        "popularity": 0.7876,
+        "popularity": 1.9015,
         "profile_path": "/xlgUn3pe1UP0ef3YvE8wlkTWtEm.jpg",
         "cast_id": 3,
         "character": "Sruthi",
@@ -89,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Malavika Satheesan",
         "original_name": "Malavika Satheesan",
-        "popularity": 0.1137,
+        "popularity": 0.391,
         "profile_path": "/9W3IEAL69QebbcobWo7UZHiGr6p.jpg",
         "cast_id": 1,
         "character": "Aishwarya",
@@ -103,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Anish Kuruvilla",
         "original_name": "Anish Kuruvilla",
-        "popularity": 0.4246,
+        "popularity": 1.6501,
         "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
         "cast_id": 4,
         "character": "Siddhu's Dad",
@@ -117,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Gururaj Manepalli",
         "original_name": "Gururaj Manepalli",
-        "popularity": 0.1224,
+        "popularity": 0.3412,
         "profile_path": null,
         "cast_id": 5,
         "character": "Sruthi's Dad",
@@ -131,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Keshav Deepak",
         "original_name": "Keshav Deepak",
-        "popularity": 0.37,
+        "popularity": 0.8462,
         "profile_path": "/3OYTK0bGVkCan44HT70Tz63hNlx.jpg",
         "cast_id": 6,
         "character": "",
@@ -145,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Pavitra Lokesh",
         "original_name": "Pavitra Lokesh",
-        "popularity": 0.4789,
+        "popularity": 2.1396,
         "profile_path": "/cytt3npHpd1YDstV7e2VeDeZ5J6.jpg",
         "cast_id": 7,
         "character": "Siddhu's Mom",
@@ -159,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh Kakumanu",
         "original_name": "Venkatesh Kakumanu",
-        "popularity": 0.1621,
+        "popularity": 0.6698,
         "profile_path": null,
         "cast_id": 9,
         "character": "Yogi",
@@ -173,7 +180,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 11,
         "character": "Director",
@@ -185,24 +192,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2102970,
-        "known_for_department": "Sound",
-        "name": "Sid Sriram",
-        "original_name": "Sid Sriram",
-        "popularity": 0.1991,
-        "profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
-        "credit_id": "624de0fc96386400667778c0",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2271717,
         "known_for_department": "Editing",
         "name": "Raviteja Girijala",
         "original_name": "Raviteja Girijala",
-        "popularity": 0.1966,
+        "popularity": 0.373,
         "profile_path": "/whmwrXt2rIGbE3PTSWmcHX9VfaO.jpg",
         "credit_id": "624de0d476eecf0054d03757",
         "department": "Editing",
@@ -215,7 +209,7 @@
         "known_for_department": "Camera",
         "name": "Vedaraman Sankaran",
         "original_name": "Vedaraman Sankaran",
-        "popularity": 0.0775,
+        "popularity": 0.3122,
         "profile_path": null,
         "credit_id": "624de0ee76eecf0054d037b8",
         "department": "Camera",
@@ -224,11 +218,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2102970,
+        "known_for_department": "Sound",
+        "name": "Sid Sriram",
+        "original_name": "Sid Sriram",
+        "popularity": 0.5451,
+        "profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
+        "credit_id": "624de0fc96386400667778c0",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1198764,
         "known_for_department": "Sound",
         "name": "Gopi Sundar",
         "original_name": "Gopi Sundar",
-        "popularity": 0.4752,
+        "popularity": 0.4665,
         "profile_path": "/wfMEDekbAN0gOxvSTgSTGBfCN6b.jpg",
         "credit_id": "61e42215f5c824008c3eecd8",
         "department": "Sound",
@@ -241,7 +248,7 @@
         "known_for_department": "Directing",
         "name": "Sesha Sindhu Rao",
         "original_name": "Sesha Sindhu Rao",
-        "popularity": 0,
+        "popularity": 0.2681,
         "profile_path": null,
         "credit_id": "5e36c4014ca676001a526108",
         "department": "Directing",
@@ -289,15 +296,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt11301882",
-    "wikidata_id": "Q77896699",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -353,8 +356,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

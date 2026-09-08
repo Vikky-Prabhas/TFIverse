@@ -1,5 +1,10 @@
+import * as dotenv from 'dotenv';
+import * as path from 'path';
+dotenv.config({ path: path.resolve(__dirname, '../.env.local') });
+
 import { db } from '../src/lib/db';
 import { dailyBoxOffice, regionalBoxOffice, chainBoxOffice, realtimeSessions } from '../src/lib/schema/tracking';
+import { mapCityToTerritory } from '../src/lib/api/box-office/utils';
 import { sql, sum } from 'drizzle-orm';
 import { count } from 'drizzle-orm';
 
@@ -9,6 +14,22 @@ function chunkArray<T>(array: T[], size: number): T[][] {
         chunked_arr.push(array.slice(i, i + size));
     }
     return chunked_arr;
+}
+
+function determineDataState(showDate: Date): 'LIVE' | 'RECENT' | 'UNKNOWN' {
+    const now = new Date();
+    // Use UTC midnight for comparison since showDate is stored as UTC midnight
+    const todayDate = new Date(now.toISOString().split('T')[0]);
+    const showTime = showDate.getTime();
+    const todayTime = todayDate.getTime();
+    
+    if (showTime > todayTime) {
+        return 'UNKNOWN'; // Future dates (Advance) are not live yet
+    } else if (showTime === todayTime) {
+        return 'LIVE'; // Today's tracking
+    } else {
+        return 'RECENT'; // Past dates
+    }
 }
 
 async function runAggregation() {
@@ -49,6 +70,8 @@ async function runAggregation() {
                 cities: agg.cities,
                 states: agg.states,
                 atp: agg.sold > 0 ? agg.gross / agg.sold : 0,
+                dataState: determineDataState(agg.date),
+                dataSource: 'BMS_PAYTM_COMBINED',
             }));
 
             const chunks = chunkArray(dailyDataToUpsert, 500);
@@ -69,6 +92,8 @@ async function runAggregation() {
                             cities: sql`EXCLUDED.cities`,
                             states: sql`EXCLUDED.states`,
                             atp: sql`EXCLUDED.atp`,
+                            dataState: sql`EXCLUDED.data_state`,
+                            dataSource: sql`EXCLUDED.data_source`,
                             updatedAt: new Date(),
                         }
                     });
@@ -106,6 +131,9 @@ async function runAggregation() {
                 gross: agg.gross,
                 occupancy: agg.totalSeats > 0 ? (agg.sold / agg.totalSeats) * 100 : 0,
                 atp: agg.sold > 0 ? agg.gross / agg.sold : 0,
+                territory: mapCityToTerritory(agg.city, agg.state),
+                dataState: determineDataState(agg.date),
+                dataSource: 'BMS_PAYTM_COMBINED',
             }));
 
             const chunks = chunkArray(regionalDataToUpsert, 500);
@@ -122,6 +150,9 @@ async function runAggregation() {
                             gross: sql`EXCLUDED.gross`,
                             occupancy: sql`EXCLUDED.occupancy`,
                             atp: sql`EXCLUDED.atp`,
+                            territory: sql`EXCLUDED.territory`,
+                            dataState: sql`EXCLUDED.data_state`,
+                            dataSource: sql`EXCLUDED.data_source`,
                             updatedAt: new Date(),
                         }
                     });
@@ -157,6 +188,8 @@ async function runAggregation() {
                 gross: agg.gross,
                 occupancy: agg.totalSeats > 0 ? (agg.sold / agg.totalSeats) * 100 : 0,
                 atp: agg.sold > 0 ? agg.gross / agg.sold : 0,
+                dataState: determineDataState(agg.date),
+                dataSource: 'BMS_PAYTM_COMBINED',
             }));
 
             const chunks = chunkArray(chainDataToUpsert, 500);
@@ -173,6 +206,8 @@ async function runAggregation() {
                             gross: sql`EXCLUDED.gross`,
                             occupancy: sql`EXCLUDED.occupancy`,
                             atp: sql`EXCLUDED.atp`,
+                            dataState: sql`EXCLUDED.data_state`,
+                            dataSource: sql`EXCLUDED.data_source`,
                             updatedAt: new Date(),
                         }
                     });

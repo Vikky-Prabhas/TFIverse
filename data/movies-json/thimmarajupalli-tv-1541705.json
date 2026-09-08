@@ -5,24 +5,28 @@
   "budget": 0,
   "genres": [
     {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 10751,
-      "name": "Family"
+      "id": 10749,
+      "name": "Romance"
     }
   ],
   "homepage": "https://sumairastudios.com/movies/?id=thimmarajupalli",
   "id": 1541705,
-  "imdb_id": null,
+  "imdb_id": "tt38162660",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Thimmarajupalli TV",
-  "overview": "Hope you will rewind all your memories back, from Wi-Fi to Antenna days",
-  "popularity": 0.1483,
+  "original_title": "తిమ్మరాజుపల్లి TV",
+  "overview": "In a remote 1996 village, a shared television vanishes, causing chaos and suspicion. As the community searches for it, one man becomes caught up in the mystery with unexpected results.",
+  "popularity": 1.128,
   "poster_path": "/sUKPQzaYQoLqlM0jiK6URjXgtbZ.jpg",
   "production_companies": [
     {
@@ -45,7 +49,7 @@
     }
   ],
   "release_date": "2026-04-17",
-  "revenue": 0,
+  "revenue": 3897,
   "runtime": 124,
   "softcore": false,
   "spoken_languages": [
@@ -61,9 +65,6 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -73,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sai Tej",
         "original_name": "Sai Tej",
-        "popularity": 0.0071,
+        "popularity": 0.4638,
         "profile_path": null,
         "cast_id": 6,
         "character": "Satish",
@@ -87,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Vedha Jalandharr",
         "original_name": "Vedha Jalandharr",
-        "popularity": 0.0071,
+        "popularity": 0.4182,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -101,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Swathi Karimireddy",
         "original_name": "Swathi Karimireddy",
-        "popularity": 0.0071,
+        "popularity": 0.3853,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -115,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Amma Ramesh",
         "original_name": "Amma Ramesh",
-        "popularity": 0,
+        "popularity": 0.5915,
         "profile_path": null,
         "cast_id": 10,
         "character": "Village President",
@@ -129,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Satyanarayana",
         "original_name": "Satyanarayana",
-        "popularity": 0.0214,
+        "popularity": 0.2525,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -143,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Lathish",
         "original_name": "Lathish",
-        "popularity": 0.0071,
+        "popularity": 0.2659,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -157,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Pradeep Kotte",
         "original_name": "Pradeep Kotte",
-        "popularity": 0,
+        "popularity": 0.3367,
         "profile_path": null,
         "cast_id": 21,
         "character": "Rajappa",
@@ -173,7 +174,7 @@
         "known_for_department": "Acting",
         "name": "Kiran Abbavaram",
         "original_name": "Kiran Abbavaram",
-        "popularity": 2.981,
+        "popularity": 1.1424,
         "profile_path": "/zzmj6hKSQCp9T8naWs01Fk4dfLk.jpg",
         "credit_id": "68ba5a8e5c774830b21f445d",
         "department": "Production",
@@ -186,7 +187,7 @@
         "known_for_department": "Directing",
         "name": "V Muniraju",
         "original_name": "V Muniraju",
-        "popularity": 0,
+        "popularity": 0.5692,
         "profile_path": null,
         "credit_id": "68ba5b6046a23182a29bf6f4",
         "department": "Directing",
@@ -199,7 +200,7 @@
         "known_for_department": "Directing",
         "name": "V Muniraju",
         "original_name": "V Muniraju",
-        "popularity": 0,
+        "popularity": 0.5692,
         "profile_path": null,
         "credit_id": "69e1b639bab6cccb7a785882",
         "department": "Writing",
@@ -212,7 +213,7 @@
         "known_for_department": "Directing",
         "name": "V Muniraju",
         "original_name": "V Muniraju",
-        "popularity": 0,
+        "popularity": 0.5692,
         "profile_path": null,
         "credit_id": "69e1b6481226f1a6da11a083",
         "department": "Editing",
@@ -225,7 +226,7 @@
         "known_for_department": "Production",
         "name": "Teja Velpucharla",
         "original_name": "Teja Velpucharla",
-        "popularity": 0.0563,
+        "popularity": 0.458,
         "profile_path": "/2HBcDEl7Z6i1pWLUZbXQGfOzUuy.jpg",
         "credit_id": "69e1b65c31994068c7d215d5",
         "department": "Production",
@@ -238,7 +239,7 @@
         "known_for_department": "Production",
         "name": "K. L. Madhan",
         "original_name": "K. L. Madhan",
-        "popularity": 0.0214,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "69e1b681f0bdff22d97857b0",
         "department": "Production",
@@ -251,7 +252,7 @@
         "known_for_department": "Art",
         "name": "Ritikesh gorak",
         "original_name": "Ritikesh gorak",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "69e1b69e877a454171f1f686",
         "department": "Writing",
@@ -264,7 +265,7 @@
         "known_for_department": "Art",
         "name": "Sudheer Macharla",
         "original_name": "Sudheer Macharla",
-        "popularity": 0.0416,
+        "popularity": 0.2654,
         "profile_path": null,
         "credit_id": "69e1b6ab84e5c32395e5ec96",
         "department": "Art",
@@ -277,7 +278,7 @@
         "known_for_department": "Camera",
         "name": "Akshay Ram Podishetti",
         "original_name": "Akshay Ram Podishetti",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "69e1b6b5b93f73b44a8b78fd",
         "department": "Camera",
@@ -290,7 +291,7 @@
         "known_for_department": "Sound",
         "name": "Vamsikanth Rekhana",
         "original_name": "Vamsikanth Rekhana",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "69e1b6bf70db796a2348f9b9",
         "department": "Sound",
@@ -299,16 +300,39 @@
     ]
   },
   "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
+    "imdb_id": "tt38162660",
+    "wikidata_id": "Q136266306",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 356439,
+        "name": "indian village drama"
+      },
+      {
+        "id": 360437,
+        "name": "tv"
+      },
+      {
+        "id": 364516,
+        "name": "thimmarajupalli tv"
+      },
+      {
+        "id": 364517,
+        "name": "sumaira studios"
+      }
+    ]
+  },
   "release_dates": {
     "results": [
       {
-        "iso_3166_1": "IN",
+        "iso_3166_1": "GB",
         "release_dates": [
           {
             "certification": "",
@@ -321,10 +345,31 @@
         ]
       },
       {
-        "iso_3166_1": "US",
+        "iso_3166_1": "IN",
         "release_dates": [
           {
             "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "aha",
+            "release_date": "2026-05-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
             "descriptors": [],
             "iso_639_1": "",
             "note": "",
@@ -340,8 +385,8 @@
       {
         "aspect_ratio": 1.778,
         "height": 720,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/kWMnYDk5MEiT2zgxPhZWQwd2ksa.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -394,21 +439,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 356439,
-        "name": "indian village drama"
-      },
-      {
-        "id": 360437,
-        "name": "tv"
-      },
-      {
-        "id": 364516,
-        "name": "thimmarajupalli tv"
-      }
-    ]
   }
 }

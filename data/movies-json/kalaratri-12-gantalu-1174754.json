@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Kalaratri 12 Gantalu",
   "overview": "Kalaratri 12 Gantalu is a Telugu Adult-Horror film, starring Kapil Dev, Jayamadhuri, Arya, Jayarekha, Mala Aravindan, Kabir, Asha Khan and Fazi.",
-  "popularity": 0.0782,
+  "popularity": 0.4,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -28,27 +28,12 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [],
     "crew": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0275549",
-    "wikidata_id": "Q18602718",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -67,6 +52,16 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0275549",
+    "wikidata_id": "Q18602718",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -75,5 +70,10 @@
         "type": ""
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

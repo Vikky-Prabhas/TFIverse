@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "మెరిసే మెరిసే",
   "overview": "Siddhu, the son of a rich businessman fails in his startup and loses hopes in success. Vennela, a naive small-town girl who is already engaged to an NRI comes to Hyderabad and understands that this marriage would limit her to being just a housewife. She decides to have a successful career before marriage and in the process, meets Siddhu. A mutually enlightening journey gets both of them closer.",
-  "popularity": 0.2473,
+  "popularity": 1.397,
   "poster_path": "/5Jjc3zY7uYHStbD7nWGOGRz6r9X.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Dinesh Tej",
         "original_name": "Dinesh Tej",
-        "popularity": 0.1699,
+        "popularity": 0.5272,
         "profile_path": "/5QaXHMdqnd7WrXw8qQo7dIMhjm4.jpg",
         "cast_id": 1,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Avasthi",
         "original_name": "Shweta Avasthi",
-        "popularity": 0.1544,
+        "popularity": 0.3866,
         "profile_path": "/pxtkoimE0qsJCpxEg5Nx9kDmskd.jpg",
         "cast_id": 2,
         "character": "",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Sanjay Swaroop",
         "original_name": "Sanjay Swaroop",
-        "popularity": 0.3372,
+        "popularity": 0.9535,
         "profile_path": "/zVErh5DAZyNbyGoaD5ZLHsKcdal.jpg",
         "cast_id": 3,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Sandhya Janak",
         "original_name": "Sandhya Janak",
-        "popularity": 0.2468,
+        "popularity": 0.5661,
         "profile_path": "/zJKewLyV1ONRl0y4nFoobrjpI25.jpg",
         "cast_id": 4,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Shashank",
         "original_name": "Shashank",
-        "popularity": 0.2204,
+        "popularity": 0.6079,
         "profile_path": "/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg",
         "cast_id": 5,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Art",
         "name": "Gururaj P",
         "original_name": "Gururaj P",
-        "popularity": 0.0844,
+        "popularity": 0.3094,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Bindu Chandramouli",
         "original_name": "Bindu Chandramouli",
-        "popularity": 0.3002,
+        "popularity": 0.7333,
         "profile_path": "/9Hdo4yERNWncsBL7cXmYfv42vzD.jpg",
         "cast_id": 7,
         "character": "",
@@ -163,64 +163,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 3001926,
-        "known_for_department": "Directing",
-        "name": "Pawan Kumar Kothuri",
-        "original_name": "Pawan Kumar K",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6044dac70102c90044edcb9a",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3001927,
-        "known_for_department": "Production",
-        "name": "Venkatesh Kothuri",
-        "original_name": "Venkatesh Kothuri",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6044daf9d18572005853892c",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2343459,
-        "known_for_department": "Editing",
-        "name": "Giri Mahesh",
-        "original_name": "Giri Mahesh",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6044dd3fc4ad590044e5d279",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3001926,
-        "known_for_department": "Directing",
-        "name": "Pawan Kumar Kothuri",
-        "original_name": "Pawan Kumar K",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6044dac0126ec3005af7a1fc",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 3001930,
         "known_for_department": "Sound",
         "name": "Karthik Kodakandla",
         "original_name": "Karthik Kodakandla",
-        "popularity": 0.0854,
+        "popularity": 0.2895,
         "profile_path": null,
         "credit_id": "6044dc1c2b8a43005799f6ac",
         "department": "Sound",
@@ -233,39 +181,72 @@
         "known_for_department": "Camera",
         "name": "Nagesh Bannel",
         "original_name": "Nagesh Bannel",
-        "popularity": 0.0944,
+        "popularity": 0.3432,
         "profile_path": null,
         "credit_id": "6044daabc4ad59002a48f4e6",
         "department": "Camera",
         "job": "Director of Photography"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
+      },
       {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "#MeriseMerise Theatrical Trailer | Dinesh Tej, Shweta Avasthi | Karthik Kodakandla | Pawan Kumar K",
-        "key": "_ZYDmkBY9X0",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Trailer",
-        "official": true,
-        "id": "6220e63b41aac4001b37c621",
-        "published_at": "2021-07-29T05:30:06.000Z"
+        "adult": false,
+        "gender": 0,
+        "id": 3001926,
+        "known_for_department": "Directing",
+        "name": "Pawan Kumar Kothuri",
+        "original_name": "Pawan Kumar K",
+        "popularity": 0.392,
+        "profile_path": null,
+        "credit_id": "6044dac70102c90044edcb9a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2343459,
+        "known_for_department": "Editing",
+        "name": "Giri Mahesh",
+        "original_name": "Giri Mahesh",
+        "popularity": 0.2764,
+        "profile_path": null,
+        "credit_id": "6044dd3fc4ad590044e5d279",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3001926,
+        "known_for_department": "Directing",
+        "name": "Pawan Kumar Kothuri",
+        "original_name": "Pawan Kumar K",
+        "popularity": 0.392,
+        "profile_path": null,
+        "credit_id": "6044dac0126ec3005af7a1fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3001927,
+        "known_for_department": "Production",
+        "name": "Venkatesh Kothuri",
+        "original_name": "Venkatesh Kothuri",
+        "popularity": 0.2967,
+        "profile_path": null,
+        "credit_id": "6044daf9d18572005853892c",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
   "external_ids": {
     "imdb_id": "tt15164524",
-    "wikidata_id": null,
+    "wikidata_id": "Q130639808",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -283,6 +264,28 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "#MeriseMerise Theatrical Trailer | Dinesh Tej, Shweta Avasthi | Karthik Kodakandla | Pawan Kumar K",
+        "key": "_ZYDmkBY9X0",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6220e63b41aac4001b37c621",
+        "published_at": "2021-07-29T05:30:06.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -491,8 +494,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

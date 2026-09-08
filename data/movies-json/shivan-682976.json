@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "శివన్",
   "overview": "Shivan revolves around a couple who are very much in love but one day the woman is found dead and the man is found guilty and imprisoned. But once he is in jail he recollects certain memories that change everything.",
-  "popularity": 0.1892,
+  "popularity": 0.5296,
   "poster_path": "/thLur3AEYY9nc4tzqpfJ4G0KEld.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Sai Teja Kalvakota",
         "original_name": "Sai Teja Kalvakota",
-        "popularity": 0.0214,
+        "popularity": 0.638,
         "profile_path": null,
         "cast_id": 1,
         "character": "Shivan",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Taruni Singh",
         "original_name": "Taruni Singh",
-        "popularity": 0.0214,
+        "popularity": 0.4738,
         "profile_path": null,
         "cast_id": 2,
         "character": "Sunanda",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "C. V. L. Narasimha Rao",
         "original_name": "C. V. L. Narasimha Rao",
-        "popularity": 0.1746,
+        "popularity": 0.5405,
         "profile_path": "/ehPetJv7j7nRWYYRrPUpKvhiru9.jpg",
         "cast_id": 3,
         "character": "Supporting Actor",
@@ -101,7 +101,7 @@
         "known_for_department": "Sound",
         "name": "Shivan",
         "original_name": "Shivan",
-        "popularity": 0.0538,
+        "popularity": 0.3499,
         "profile_path": null,
         "credit_id": "5e6bf2a22f3b17001441ae71",
         "department": "Directing",
@@ -109,18 +109,18 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt11536216",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -138,9 +138,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -167,5 +164,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/nCn3RUluvq23rNn2N321BNbSzhB.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అందగాడు",
   "overview": "Though he's successful in his career composing commercial jingles, homely Sundaram (Rajendra Prasad) can't get a date. His solution? Learn black magic to attract mohini pisachi (sexually voracious female ghosts) that wander at night in search of available men. But when he meets Ramya (Damini), everything changes. Directed by Pendyala Venkata Rama Rao, this Indian comedy co-stars Bhavana, Harika, Sudha and Chandra Mohan.",
-  "popularity": 0.2978,
+  "popularity": 2.3916,
   "poster_path": "/iR3pxOIigseQRfqCAmr4yKcLu7f.jpg",
   "production_companies": [
     {
@@ -51,6 +51,9 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -59,8 +62,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 0,
         "character": "Sundaram",
@@ -69,47 +72,76 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 585396,
-        "known_for_department": "Acting",
-        "name": "Damini",
-        "original_name": "Damini",
-        "popularity": 0.1718,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Ramya",
-        "credit_id": "5a68b0920e0a2653af00df5a",
-        "order": 1
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 2,
         "character": "Viswanatham",
         "credit_id": "5a68b0b80e0a2653a000ddd4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579163,
+        "known_for_department": "Acting",
+        "name": "Damini",
+        "original_name": "Damini",
+        "popularity": 0.3608,
+        "profile_path": "/6Vbir0OnCS2yn8h30PGBEwTWjRf.jpg",
+        "cast_id": 7,
+        "character": "Ramya",
+        "credit_id": "6a01e2b179b1cb8cbb3a78a1",
         "order": 2
-      }
-    ],
-    "crew": [
+      },
       {
         "adult": false,
         "gender": 2,
-        "id": 584859,
-        "known_for_department": "Directing",
-        "name": "K. Subash",
-        "original_name": "K. Subash",
-        "popularity": 0.3299,
-        "profile_path": null,
-        "credit_id": "5a68b16b0e0a2653a800da07",
-        "department": "Writing",
-        "job": "Story"
+        "id": 148052,
+        "known_for_department": "Acting",
+        "name": "M. S. Narayana",
+        "original_name": "M. S. Narayana",
+        "popularity": 2.238,
+        "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
+        "cast_id": 8,
+        "character": "Satyam",
+        "credit_id": "6a01e2eab8cace18c5eab78d",
+        "order": 3
       },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007325,
+        "known_for_department": "Acting",
+        "name": "Venu Madhav",
+        "original_name": "Venu Madhav",
+        "popularity": 2.0469,
+        "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
+        "cast_id": 9,
+        "character": "Raju",
+        "credit_id": "6a01e2f2feda30c03e132ecd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6423626,
+        "known_for_department": "Acting",
+        "name": "Harika",
+        "original_name": "Harika",
+        "popularity": 0.6059,
+        "profile_path": "/y7ujuzC4nXWrYcUnHNVDtwOG2JQ.jpg",
+        "cast_id": 10,
+        "character": "Sujatha",
+        "credit_id": "6a8635a84924436d44f3c5ac",
+        "order": 5
+      }
+    ],
+    "crew": [
       {
         "adult": false,
         "gender": 0,
@@ -117,7 +149,7 @@
         "known_for_department": "Directing",
         "name": "Pendyala Venkata Rama Rao",
         "original_name": "Pendyala Venkata Rama Rao",
-        "popularity": 0.0214,
+        "popularity": 0.3854,
         "profile_path": null,
         "credit_id": "5a68b10a9251411bc100d27d",
         "department": "Directing",
@@ -126,11 +158,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1966303,
+        "known_for_department": "Production",
+        "name": "Dande Srinivasa Rao",
+        "original_name": "Dande Srinivasa Rao",
+        "popularity": 0.2709,
+        "profile_path": null,
+        "credit_id": "5a68b12f9251411bca00d20a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1966304,
         "known_for_department": "Writing",
         "name": "Gopi Venkatesh",
         "original_name": "Gopi Venkatesh",
-        "popularity": 0,
+        "popularity": 0.2718,
         "profile_path": null,
         "credit_id": "5a68b1500e0a2653af00e065",
         "department": "Writing",
@@ -138,47 +183,24 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1966303,
-        "known_for_department": "Production",
-        "name": "Dande Srinivasa Rao",
-        "original_name": "Dande Srinivasa Rao",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5a68b12f9251411bca00d20a",
-        "department": "Production",
-        "job": "Producer"
+        "gender": 2,
+        "id": 584859,
+        "known_for_department": "Directing",
+        "name": "K. Subash",
+        "original_name": "K. Subash",
+        "popularity": 1.2771,
+        "profile_path": "/nK09cH2niMT0kOKCksrCth6YrhR.jpg",
+        "credit_id": "5a68b16b0e0a2653a800da07",
+        "department": "Writing",
+        "job": "Story"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/iR3pxOIigseQRfqCAmr4yKcLu7f.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -197,7 +219,38 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/nCn3RUluvq23rNn2N321BNbSzhB.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iR3pxOIigseQRfqCAmr4yKcLu7f.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
   }
 }

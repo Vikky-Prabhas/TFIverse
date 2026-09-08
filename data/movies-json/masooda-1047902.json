@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మసూద",
   "overview": "A mother and her teen daughter from a middle-class background, whose humble life goes upside down, when the daughter gets possessed by a ghost and her single mother seeks the help of their cowardly neighbour.",
-  "popularity": 0.6647,
+  "popularity": 1.9001,
   "poster_path": "/8tteFyJbPxvVr57K1CjGhKbqEjY.jpg",
   "production_companies": [
     {
@@ -53,8 +53,11 @@
   "tagline": "",
   "title": "Masooda",
   "video": false,
-  "vote_average": 6.8,
-  "vote_count": 10,
+  "vote_average": 6.962,
+  "vote_count": 13,
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Sangeetha Krish",
         "original_name": "Sangeetha Krish",
-        "popularity": 1.0861,
+        "popularity": 1.4597,
         "profile_path": "/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg",
         "cast_id": 1,
         "character": "Neelam",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Bandhavi Sridhar",
         "original_name": "Bandhavi Sridhar",
-        "popularity": 0.0737,
+        "popularity": 0.5864,
         "profile_path": "/2hwmam75GQFst9CLnQ5PII3ToNt.jpg",
         "cast_id": 4,
         "character": "Nazia",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Thiruveer Reddy",
         "original_name": "Thiruveer Reddy",
-        "popularity": 0.3371,
+        "popularity": 0.8486,
         "profile_path": "/sakymVVw0AWnGR7TzgaF1rFeWm5.jpg",
         "cast_id": 2,
         "character": "Gopi Krishna",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 5,
         "character": "Rizwan Baba",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.2585,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 7,
         "character": "Allauddin",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Akhila Ram",
         "original_name": "Akhila Ram",
-        "popularity": 0.0561,
+        "popularity": 0.3104,
         "profile_path": "/cP2rqgvVKCpAyOYANQWRwwRgzqr.jpg",
         "cast_id": 6,
         "character": "Masooda Be",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Kavya Kalyanram",
         "original_name": "Kavya Kalyanram",
-        "popularity": 0.075,
+        "popularity": 0.6402,
         "profile_path": "/bI4I37V9AVMm4xriZTqu2HOLPA8.jpg",
         "cast_id": 3,
         "character": "Mini",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Surabhi Prabhavathi",
         "original_name": "సురభి ప్రభావతి",
-        "popularity": 0.3786,
+        "popularity": 0.9484,
         "profile_path": "/lEpxXvSXJEmM0qssUoTWv2Fsi9y.jpg",
         "cast_id": 10,
         "character": "Nargis",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Satya Prakash",
         "original_name": "Satya Prakash",
-        "popularity": 0.3196,
+        "popularity": 0.7548,
         "profile_path": "/858vQ4NMh89fjjKEIeCh15oW5Y1.jpg",
         "cast_id": 8,
         "character": "Abdul",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Surya Rao",
         "original_name": "Surya Rao",
-        "popularity": 0.0071,
+        "popularity": 0.2604,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Teja",
         "original_name": "Krishna Teja",
-        "popularity": 0.0966,
+        "popularity": 0.5156,
         "profile_path": null,
         "cast_id": 11,
         "character": "Sudhakar",
@@ -218,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Karthik Adusumalli",
         "original_name": "Karthik Adusumalli",
-        "popularity": 0.0922,
+        "popularity": 0.4601,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -232,7 +235,7 @@
         "known_for_department": "Acting",
         "name": "RJ Hemant",
         "original_name": "RJ Hemant",
-        "popularity": 0.1327,
+        "popularity": 0.4915,
         "profile_path": null,
         "cast_id": 38,
         "character": "Gopi's Friend",
@@ -243,16 +246,29 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 2344403,
-        "known_for_department": "Production",
-        "name": "Rahul Yadav Nakka",
-        "original_name": "Rahul Yadav Nakka",
-        "popularity": 0.0261,
+        "gender": 2,
+        "id": 1827726,
+        "known_for_department": "Editing",
+        "name": "M. Jesvin Prabu",
+        "original_name": "M. Jesvin Prabu",
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "6370d3cc1684f70083dcc60d",
+        "credit_id": "6370d5601684f700ab814e5c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783863,
+        "known_for_department": "Production",
+        "name": "P. Dayakar Rao",
+        "original_name": "P. Dayakar Rao",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6370d5801684f700c4eb3e93",
         "department": "Production",
-        "job": "Producer"
+        "job": "Line Producer"
       },
       {
         "adult": false,
@@ -261,7 +277,7 @@
         "known_for_department": "Editing",
         "name": "Venugopal Rao",
         "original_name": "Venugopal Rao",
-        "popularity": 0.0306,
+        "popularity": 0.2677,
         "profile_path": null,
         "credit_id": "6370d5cfca4f67007fc32a3a",
         "department": "Editing",
@@ -270,11 +286,50 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1608578,
+        "known_for_department": "Camera",
+        "name": "Nagesh Bannel",
+        "original_name": "Nagesh Bannel",
+        "popularity": 0.3432,
+        "profile_path": null,
+        "credit_id": "6370d53d1684f7007736d5e1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783859,
+        "known_for_department": "Directing",
+        "name": "Sai Kiran",
+        "original_name": "Sai Kiran",
+        "popularity": 0.2916,
+        "profile_path": null,
+        "credit_id": "6370d525813831008085864c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2344403,
+        "known_for_department": "Production",
+        "name": "Rahul Yadav Nakka",
+        "original_name": "Rahul Yadav Nakka",
+        "popularity": 0.271,
+        "profile_path": null,
+        "credit_id": "6370d3cc1684f70083dcc60d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1893260,
         "known_for_department": "Sound",
         "name": "Prashanth R Vihari",
         "original_name": "Prashanth R Vihari",
-        "popularity": 0.0976,
+        "popularity": 0.3159,
         "profile_path": null,
         "credit_id": "6370d532798e0600dc367667",
         "department": "Sound",
@@ -283,15 +338,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1608578,
-        "known_for_department": "Camera",
-        "name": "Nagesh Bannel",
-        "original_name": "Nagesh Bannel",
-        "popularity": 0.0944,
+        "id": 230013,
+        "known_for_department": "Production",
+        "name": "Dil Raju",
+        "original_name": "Dil Raju",
+        "popularity": 0.5112,
+        "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
+        "credit_id": "6370d7a81684f70083dcc78a",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2242832,
+        "known_for_department": "Art",
+        "name": "Kranthi Priyam",
+        "original_name": "Kranthi Priyam",
+        "popularity": 0.2794,
         "profile_path": null,
-        "credit_id": "6370d53d1684f7007736d5e1",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "6370d553028420007d72b1dc",
+        "department": "Art",
+        "job": "Production Design"
       },
       {
         "adult": false,
@@ -300,7 +368,7 @@
         "known_for_department": "Sound",
         "name": "Sachin Sudhakaran",
         "original_name": "Sachin Sudhakaran",
-        "popularity": 0.3456,
+        "popularity": 0.5601,
         "profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
         "credit_id": "6370d5de1684f700807302fd",
         "department": "Sound",
@@ -313,7 +381,7 @@
         "known_for_department": "Directing",
         "name": "Sai Kiran",
         "original_name": "Sai Kiran",
-        "popularity": 0.0214,
+        "popularity": 0.2916,
         "profile_path": null,
         "credit_id": "6370d51b798e0600aa9fee32",
         "department": "Directing",
@@ -322,184 +390,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3783859,
-        "known_for_department": "Directing",
-        "name": "Sai Kiran",
-        "original_name": "Sai Kiran",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "6370d525813831008085864c",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3783864,
         "known_for_department": "Directing",
         "name": "Veeru Vulavala",
         "original_name": "Veeru Vulavala",
-        "popularity": 0,
+        "popularity": 0.334,
         "profile_path": null,
         "credit_id": "6370d59681383100dd36f46e",
         "department": "Directing",
         "job": "Co-Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2242832,
-        "known_for_department": "Art",
-        "name": "Kranthi Priyam",
-        "original_name": "Kranthi Priyam",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6370d553028420007d72b1dc",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3783863,
-        "known_for_department": "Production",
-        "name": "P. Dayakar Rao",
-        "original_name": "P. Dayakar Rao",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6370d5801684f700c4eb3e93",
-        "department": "Production",
-        "job": "Line Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1827726,
-        "known_for_department": "Editing",
-        "name": "M. Jesvin Prabu",
-        "original_name": "M. Jesvin Prabu",
-        "popularity": 0.0598,
-        "profile_path": null,
-        "credit_id": "6370d5601684f700ab814e5c",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3783893,
-        "known_for_department": "Writing",
-        "name": "Chaitanya Pingali",
-        "original_name": "Chaitanya Pingali",
-        "popularity": 0.0256,
-        "profile_path": null,
-        "credit_id": "6370d93d1684f700dd94c9ad",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2102970,
-        "known_for_department": "Sound",
-        "name": "Sid Sriram",
-        "original_name": "Sid Sriram",
-        "popularity": 0.2685,
-        "profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
-        "credit_id": "6370d9471684f70080730434",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2172517,
-        "known_for_department": "Crew",
-        "name": "B. Veerababu",
-        "original_name": "B. Veerababu",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "credit_id": "6370d6eb02842000b44cd72b",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3288902,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Ayesha Mariam",
-        "original_name": "Ayesha Mariam",
-        "popularity": 0.121,
-        "profile_path": "/nc0xGmNyh52TB8vSO0RM3J4s4kt.jpg",
-        "credit_id": "6370d660798e060078859b24",
-        "department": "Costume & Make-Up",
-        "job": "Costume Designer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1643495,
-        "known_for_department": "Sound",
-        "name": "M. R. Rajakrishnan",
-        "original_name": "M. R. Rajakrishnan",
-        "popularity": 0.2305,
-        "profile_path": null,
-        "credit_id": "6370d6001684f700c4eb3ec7",
-        "department": "Sound",
-        "job": "Sound Mixer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3311592,
-        "known_for_department": "Crew",
-        "name": "Ram Krishan",
-        "original_name": "Ramakrishna Master",
-        "popularity": 0.0575,
-        "profile_path": null,
-        "credit_id": "6370d634798e0600aa9fee99",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 230013,
-        "known_for_department": "Production",
-        "name": "Dil Raju",
-        "original_name": "Dil Raju",
-        "popularity": 0.0949,
-        "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
-        "credit_id": "6370d7a81684f70083dcc78a",
-        "department": "Crew",
-        "job": "Presenter"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3285138,
-        "known_for_department": "Production",
-        "name": "P. Syam",
-        "original_name": "P. Syam",
-        "popularity": 0.0643,
-        "profile_path": null,
-        "credit_id": "6370d703798e0600aa9feee3",
-        "department": "Production",
-        "job": "Publicist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3783879,
-        "known_for_department": "Production",
-        "name": "Sri Hari Pedamallu",
-        "original_name": "Sri Hari Pedamallu",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "6370d759813831007730c488",
-        "department": "Production",
-        "job": "Production Manager"
       },
       {
         "adult": false,
@@ -508,7 +407,7 @@
         "known_for_department": "Sound",
         "name": "Hari Haran",
         "original_name": "Hari Haran",
-        "popularity": 0.3604,
+        "popularity": 0.5047,
         "profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
         "credit_id": "6370d5e9028420007a1c6486",
         "department": "Sound",
@@ -521,7 +420,7 @@
         "known_for_department": "Crew",
         "name": "Run Jashuva",
         "original_name": "Run Jashuva",
-        "popularity": 0.0775,
+        "popularity": 0.3076,
         "profile_path": null,
         "credit_id": "6370d61221621b00777dd368",
         "department": "Crew",
@@ -529,16 +428,107 @@
       },
       {
         "adult": false,
+        "gender": 2,
+        "id": 2172517,
+        "known_for_department": "Crew",
+        "name": "B. Veerababu",
+        "original_name": "B. Veerababu",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6370d6eb02842000b44cd72b",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311592,
+        "known_for_department": "Crew",
+        "name": "Ram Krishan",
+        "original_name": "Ramakrishna Master",
+        "popularity": 0.3036,
+        "profile_path": null,
+        "credit_id": "6370d634798e0600aa9fee99",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783893,
+        "known_for_department": "Writing",
+        "name": "Chaitanya Pingali",
+        "original_name": "Chaitanya Pingali",
+        "popularity": 0.3803,
+        "profile_path": null,
+        "credit_id": "6370d93d1684f700dd94c9ad",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3285138,
+        "known_for_department": "Production",
+        "name": "P. Syam",
+        "original_name": "P. Syam",
+        "popularity": 0.2889,
+        "profile_path": null,
+        "credit_id": "6370d703798e0600aa9feee3",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783879,
+        "known_for_department": "Production",
+        "name": "Sri Hari Pedamallu",
+        "original_name": "Sri Hari Pedamallu",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "6370d759813831007730c488",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
         "gender": 1,
-        "id": 2231128,
+        "id": 3288902,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ayesha Mariam",
+        "original_name": "Ayesha Mariam",
+        "popularity": 0.301,
+        "profile_path": "/nc0xGmNyh52TB8vSO0RM3J4s4kt.jpg",
+        "credit_id": "6370d660798e060078859b24",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2102970,
         "known_for_department": "Sound",
-        "name": "Bombay Jayashri",
-        "original_name": "Bombay Jayashri",
-        "popularity": 0.104,
-        "profile_path": "/4ZyrQ6KCVhRXVy4gZpqIAqDEgdy.jpg",
-        "credit_id": "643280bee92d8300f46ce718",
+        "name": "Sid Sriram",
+        "original_name": "Sid Sriram",
+        "popularity": 0.5451,
+        "profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
+        "credit_id": "6370d9471684f70080730434",
         "department": "Sound",
         "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643495,
+        "known_for_department": "Sound",
+        "name": "M. R. Rajakrishnan",
+        "original_name": "M. R. Rajakrishnan",
+        "popularity": 0.4325,
+        "profile_path": null,
+        "credit_id": "6370d6001684f700c4eb3ec7",
+        "department": "Sound",
+        "job": "Sound Mixer"
       },
       {
         "adult": false,
@@ -547,11 +537,24 @@
         "known_for_department": "Directing",
         "name": "Sai Kiran",
         "original_name": "Sai Kiran",
-        "popularity": 0.0214,
+        "popularity": 0.2916,
         "profile_path": null,
         "credit_id": "643280de31032501269790b6",
         "department": "Writing",
         "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2231128,
+        "known_for_department": "Sound",
+        "name": "Bombay Jayashri",
+        "original_name": "Bombay Jayashri",
+        "popularity": 0.4665,
+        "profile_path": "/4ZyrQ6KCVhRXVy4gZpqIAqDEgdy.jpg",
+        "credit_id": "643280bee92d8300f46ce718",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -560,7 +563,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Chitra Maudgil",
         "original_name": "Chitra Maudgil",
-        "popularity": 0,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "64328126e92d830097c5cbd8",
         "department": "Costume & Make-Up",
@@ -568,18 +571,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt23726308",
-    "wikidata_id": null,
+    "wikidata_id": "Q115267558",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -595,20 +595,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Masoodha",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Masootha",
-        "type": "Alternate"
       }
     ]
   },
@@ -876,6 +862,20 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1200
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Masoodha",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Masootha",
+        "type": "Alternate"
       }
     ]
   }

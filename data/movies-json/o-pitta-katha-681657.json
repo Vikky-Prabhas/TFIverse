@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఓ పిట్టకథ",
   "overview": "Two men fall deeply in love with the same woman but when she suddenly gets kidnapped they get involved in the case to rescue her.",
-  "popularity": 0.1708,
+  "popularity": 1.203,
   "poster_path": "/hSNQs2DrKfbyUgmai4U2CvjZ4Y1.jpg",
   "production_companies": [
     {
@@ -55,6 +55,22 @@
   "video": false,
   "vote_average": 6.5,
   "vote_count": 2,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "O Pitta Katha Promo |Viswant, Sanjay Rao, Nitya Shetty, Brahmaji |Bhavya Creations|Anand Prasad",
+        "key": "pnVOp-tDUg0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5e65445dd35dea001300cbac",
+        "published_at": "2020-03-05T06:59:37.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Nitya Shetty",
         "original_name": "Nitya Shetty",
-        "popularity": 0.2406,
+        "popularity": 0.5605,
         "profile_path": "/plAwdO4t6imELDBWca2NM1idLKF.jpg",
         "cast_id": 1,
         "character": "Venkata Lakshmi",
@@ -78,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Viswant Duddumpudi",
         "original_name": "Viswant Duddumpudi",
-        "popularity": 0.151,
+        "popularity": 0.9911,
         "profile_path": "/ld4D4X3Xk0YhcWPeln89tOqHhUX.jpg",
         "cast_id": 2,
         "character": "Krish",
@@ -92,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 3,
         "character": "Ajay Kumar",
@@ -106,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Sanjay Rao",
         "original_name": "Sanjay Rao",
-        "popularity": 0.044,
+        "popularity": 0.3067,
         "profile_path": null,
         "cast_id": 4,
         "character": "Prabhu",
@@ -120,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Karthik",
         "original_name": "Shiva Karthik",
-        "popularity": 0.0286,
+        "popularity": 0.3501,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -134,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Adnan Javid Khan",
         "original_name": "Adnan Javid Khan",
-        "popularity": 0.0071,
+        "popularity": 0.3982,
         "profile_path": null,
         "cast_id": 7,
         "character": "Adil",
@@ -150,7 +166,7 @@
         "known_for_department": "Directing",
         "name": "Chandu Muddu",
         "original_name": "Chandu Muddu",
-        "popularity": 0.0563,
+        "popularity": 0.4599,
         "profile_path": null,
         "credit_id": "5e654413d35dea001100d24e",
         "department": "Directing",
@@ -163,7 +179,7 @@
         "known_for_department": "Production",
         "name": "V. Ananda Prasad",
         "original_name": "V. Ananda Prasad",
-        "popularity": 0.0239,
+        "popularity": 0.2143,
         "profile_path": null,
         "credit_id": "6753a609df3ae97e1c2f3c74",
         "department": "Production",
@@ -176,7 +192,7 @@
         "known_for_department": "Sound",
         "name": "Praveen Lakkaraju",
         "original_name": "Praveen Lakkaraju",
-        "popularity": 0.0286,
+        "popularity": 0.2308,
         "profile_path": null,
         "credit_id": "6753a615678b1834d97b8fa7",
         "department": "Sound",
@@ -189,7 +205,7 @@
         "known_for_department": "Camera",
         "name": "Sunil Kumar",
         "original_name": "Sunil Kumar",
-        "popularity": 0.0714,
+        "popularity": 0.3552,
         "profile_path": null,
         "credit_id": "6753a620df3ae97e1c2f3c85",
         "department": "Crew",
@@ -202,7 +218,7 @@
         "known_for_department": "Editing",
         "name": "D. Venkata Prabhu",
         "original_name": "D. Venkata Prabhu",
-        "popularity": 0,
+        "popularity": 0.2932,
         "profile_path": null,
         "credit_id": "6753a644df3ae97e1c2f3c89",
         "department": "Editing",
@@ -215,13 +231,20 @@
         "known_for_department": "Directing",
         "name": "Chandu Muddu",
         "original_name": "Chandu Muddu",
-        "popularity": 0.0563,
+        "popularity": 0.4599,
         "profile_path": null,
         "credit_id": "6753a66b8af6d3feb3b02934",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt11767552",
+    "wikidata_id": "Q96397043",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -240,31 +263,8 @@
       }
     ]
   },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "O Pitta Katha Promo |Viswant, Sanjay Rao, Nitya Shetty, Brahmaji |Bhavya Creations|Anand Prasad",
-        "key": "pnVOp-tDUg0",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "5e65445dd35dea001300cbac",
-        "published_at": "2020-03-05T06:59:37.000Z"
-      }
-    ]
-  },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt11767552",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

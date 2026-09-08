@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Maaya",
   "overview": "Maaya is a business woman who abruptly begins getting fanatical dreams.. She is able see her future in her dreams. She then visits a psychologist for consultation and tells her that everything she could find in her dreams are materializing in a day or two. What happens next will blow your mind ?.",
-  "popularity": 0.0596,
+  "popularity": 0.4507,
   "poster_path": "/eu3EYRZLW1hppKa8oec1h84cN28.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Sandhya Baayireddy",
         "original_name": "Sandhya Baayireddy",
-        "popularity": 0,
+        "popularity": 0.2263,
         "profile_path": "/8NXQA9PZ6utIsWypWgknYA470pq.jpg",
         "cast_id": 1,
         "character": "Maaya",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Abhishek Sabbe",
         "original_name": "Abhishek Sabbe",
-        "popularity": 0,
+        "popularity": 0.2963,
         "profile_path": null,
         "cast_id": 2,
         "character": "Rahul",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Rohini Kumar",
         "original_name": "Rohini Kumar",
-        "popularity": 0.0168,
+        "popularity": 0.2529,
         "profile_path": null,
         "cast_id": 3,
         "character": "Dr. Aakansha",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Dustin Lee",
         "original_name": "Dustin Lee",
-        "popularity": 0,
+        "popularity": 0.2895,
         "profile_path": null,
         "cast_id": 4,
         "character": "David",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Mahima Yalavarthy",
         "original_name": "Mahima Yalavarthy",
-        "popularity": 0.0071,
+        "popularity": 0.2069,
         "profile_path": null,
         "cast_id": 5,
         "character": "Junior Maaya",
@@ -112,15 +112,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt14287828",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -138,6 +131,16 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt14287828",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -165,8 +168,5 @@
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Ish Gup Chup",
   "overview": "",
-  "popularity": 0.1961,
+  "popularity": 1.1477,
   "poster_path": "/4NgS9QACDCE7sN6cavwzk9NzhaE.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 1,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Varun Raj",
         "original_name": "Varun Raj",
-        "popularity": 0.1303,
+        "popularity": 0.9951,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -87,7 +87,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5ee94044ffd44d0035a368e5",
         "department": "Directing",
@@ -95,18 +95,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt0249953",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -125,15 +122,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Shhh.. Gup Chup",
-        "type": ""
-      }
-    ]
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -149,5 +137,17 @@
         "width": 732
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Shhh.. Gup Chup",
+        "type": ""
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

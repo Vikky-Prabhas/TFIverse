@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Last days in void",
   "overview": "A lonely artist, Having an unknown disease, Living last days of his life with his childhood imaginary friend , who asks him to draw his portrait but the things get entangles within himself.",
-  "popularity": 0.051,
+  "popularity": 0.4373,
   "poster_path": "/6GNVQ5qpqw1qSG3koWh9vyeDiHj.jpg",
   "production_companies": [
     {
@@ -46,107 +46,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3151085,
-        "known_for_department": "Acting",
-        "name": "Nirmal kumar",
-        "original_name": "Nirmal kumar",
-        "popularity": 0.0071,
-        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
-        "cast_id": 5,
-        "character": "Artist",
-        "credit_id": "61aca27daa659e00630a1f86",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3151085,
-        "known_for_department": "Acting",
-        "name": "Nirmal kumar",
-        "original_name": "Nirmal kumar",
-        "popularity": 0.0071,
-        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
-        "credit_id": "61af6867a3e4ba0041999707",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "61af687d6d97e6008f2882d9",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "61af8112e263bb0064773cc6",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "61af811faf85de00642fcdbc",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "61af813713af5f0062525bd8",
-        "department": "Sound",
-        "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3151086,
-        "known_for_department": "Directing",
-        "name": "Abu Arshad",
-        "original_name": "Abu Arshad",
-        "popularity": 0,
-        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
-        "credit_id": "61aca1bfa84a47001cf444c7",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": [
       {
@@ -154,13 +53,6 @@
         "name": "surreal"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": []
@@ -194,5 +86,113 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151085,
+        "known_for_department": "Acting",
+        "name": "Nirmal kumar",
+        "original_name": "Nirmal kumar",
+        "popularity": 0.2709,
+        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
+        "cast_id": 5,
+        "character": "Artist",
+        "credit_id": "61aca27daa659e00630a1f86",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151085,
+        "known_for_department": "Acting",
+        "name": "Nirmal kumar",
+        "original_name": "Nirmal kumar",
+        "popularity": 0.2709,
+        "profile_path": "/v1BrHxFwEIjGilUYzFy3XGNIs7x.jpg",
+        "credit_id": "61af6867a3e4ba0041999707",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "61af687d6d97e6008f2882d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "61af8112e263bb0064773cc6",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "61af811faf85de00642fcdbc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "61af813713af5f0062525bd8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151086,
+        "known_for_department": "Directing",
+        "name": "Abu Arshad",
+        "original_name": "Abu Arshad",
+        "popularity": 0.2525,
+        "profile_path": "/uz599NYhaV5SkAXcz4yD5nfeID0.jpg",
+        "credit_id": "61aca1bfa84a47001cf444c7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
   }
 }

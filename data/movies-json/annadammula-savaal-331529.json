@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 331529,
+  "imdb_id": "tt0389760",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "అన్నాదమ్ముల సవాల్",
+  "overview": "",
+  "popularity": 1.4014,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1978-03-03",
+  "revenue": 0,
+  "runtime": 152,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Annadammula Savaal",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "imdb_id": "tt0389760",
+    "wikidata_id": "Q4767764",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-03-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470750,
+        "known_for_department": "Acting",
+        "name": "Krishna",
+        "original_name": "Krishna",
+        "popularity": 1.4125,
+        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6a59e2edd2962d63e128cd65",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91555,
+        "known_for_department": "Acting",
+        "name": "Rajinikanth",
+        "original_name": "ரஜினிகாந்த்",
+        "popularity": 2.2551,
+        "profile_path": "/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "550b2038c3a3684883001f75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 581669,
+        "known_for_department": "Acting",
+        "name": "Anjali Devi",
+        "original_name": "Anjali Devi",
+        "popularity": 1.0438,
+        "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a59e30ae461f17ab86e9c6b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584609,
+        "known_for_department": "Acting",
+        "name": "Jayachitra",
+        "original_name": "ஜெயசித்ரா",
+        "popularity": 1.2749,
+        "profile_path": "/1Ty3X7zP8Am1NkGiuVCConH8KoV.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6a59e311bbc1cf439ee608f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 980098,
+        "known_for_department": "Acting",
+        "name": "Chandrakala",
+        "original_name": "Chandrakala",
+        "popularity": 0.5892,
+        "profile_path": "/kZMz19zdF6jQOhPIfygsxNDmq3E.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6a59e319d2962d63e128cd77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585056,
+        "known_for_department": "Acting",
+        "name": "Jayamalini",
+        "original_name": "Jayamalini",
+        "popularity": 1.6119,
+        "profile_path": "/jUbgCuJJAHAWQfddrznIZ4XUmmc.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6a59e3226379b352bd587d78",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611650,
+        "known_for_department": "Acting",
+        "name": "Chalam",
+        "original_name": "Chalam",
+        "popularity": 1.1997,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6a59e32a7126edf80ef37adb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584685,
+        "known_for_department": "Acting",
+        "name": "Allu Ramalingaiah",
+        "original_name": "Allu Ramalingaiah",
+        "popularity": 2.0609,
+        "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6a59e3316379b352bd587d7b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3511447,
+        "known_for_department": "Acting",
+        "name": "Thyagaraju",
+        "original_name": "Thyagaraju",
+        "popularity": 0.8118,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Ganganna",
+        "credit_id": "6a59e33fd233fb0458627962",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356414,
+        "known_for_department": "Acting",
+        "name": "Mikkilineni",
+        "original_name": "Mikkilineni",
+        "popularity": 1.1035,
+        "profile_path": "/hixximPs8FRe2pHlBjqyi01ZwyY.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6a59e34875a7a17716f37d65",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333325,
+        "known_for_department": "Acting",
+        "name": "Prabhakar",
+        "original_name": "Prabhakar",
+        "popularity": 1.9413,
+        "profile_path": "/4u4NKAjoVbBq1Gm0SyTIws1n9T1.jpg",
+        "cast_id": 11,
+        "character": "Bhayankar",
+        "credit_id": "6a59e356bbc1cf439ee60906",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4029785,
+        "known_for_department": "Acting",
+        "name": "Halam",
+        "original_name": "Halam",
+        "popularity": 1.14,
+        "profile_path": "/yIgEeULWjiedZCK2X8sImV1pQ3x.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6a59e35e3725d52e8b70f127",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335734,
+        "known_for_department": "Directing",
+        "name": "K. S. R. Das",
+        "original_name": "K. S. R. Das",
+        "popularity": 0.7173,
+        "profile_path": "/enTQqKU9aRTkcjLBNGA7dDIZxq0.jpg",
+        "credit_id": "67f83c2531775276d6d9bfa7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421707,
+        "known_for_department": "Writing",
+        "name": "M. D. Sundar",
+        "original_name": "M. D. Sundar",
+        "popularity": 0.6302,
+        "profile_path": "/wkEtUrF1MvVLZvUm2cAHrzIqY9f.jpg",
+        "credit_id": "6a59e422eea020b26b70ebfe",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421707,
+        "known_for_department": "Writing",
+        "name": "M. D. Sundar",
+        "original_name": "M. D. Sundar",
+        "popularity": 0.6302,
+        "profile_path": "/wkEtUrF1MvVLZvUm2cAHrzIqY9f.jpg",
+        "credit_id": "6a59e432f5314f9c7a587d8e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5714093,
+        "known_for_department": "Camera",
+        "name": "S. S. Lal",
+        "original_name": "S. S. Lal",
+        "popularity": 0.3847,
+        "profile_path": null,
+        "credit_id": "6a59e5145e83eb50a770ec2a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1280549,
+        "known_for_department": "Editing",
+        "name": "P. Venkateswara Rao",
+        "original_name": "P. Venkateswara Rao",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "6a59e52bd2962d63e128cd8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5465467,
+        "known_for_department": "Sound",
+        "name": "Satyam",
+        "original_name": "Satyam",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "6a59e538c09090f359f37ad2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

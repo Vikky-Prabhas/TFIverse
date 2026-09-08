@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Slightly Mad",
   "overview": "The story revolves around the philosophical journey of a youngster. How he understands the world around, what he interprets about the characters of people around him and how does his colorful journey of life unfolds forms the plot of the film.",
-  "popularity": 0.0363,
+  "popularity": 1.3195,
   "poster_path": "/67jUQjVkPsR8Z1mJGr2pSYddD1i.jpg",
   "production_companies": [],
   "production_countries": [
@@ -43,7 +43,7 @@
         "known_for_department": "Production",
         "name": "Harsha Reddy",
         "original_name": "Harsha Reddy",
-        "popularity": 0,
+        "popularity": 0.3534,
         "profile_path": null,
         "credit_id": "6167d7dbe004a60086e68ec3",
         "department": "Production",
@@ -51,51 +51,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 3270287,
-        "known_for_department": "Art",
-        "name": "Asoka Raju",
-        "original_name": "Asoka Raju",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6167d7fbd7f465002a8283cf",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3270288,
-        "known_for_department": "Crew",
-        "name": "Chandra Sekhar Raghavarapu",
-        "original_name": "Chandra Sekhar Raghavarapu",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6167d80953866e00680704a3",
-        "department": "Crew",
-        "job": "Compositor"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 3270267,
         "known_for_department": "Directing",
         "name": "Raju",
         "original_name": "Raju",
-        "popularity": 0.0498,
-        "profile_path": null,
-        "credit_id": "6167d7bc50733c008be027b6",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3270267,
-        "known_for_department": "Directing",
-        "name": "Raju",
-        "original_name": "Raju",
-        "popularity": 0.0498,
+        "popularity": 0.2734,
         "profile_path": null,
         "credit_id": "6167d7c88fdda900623cd1a6",
         "department": "Editing",
@@ -108,7 +69,7 @@
         "known_for_department": "Production",
         "name": "Naren Choudary",
         "original_name": "Naren Choudary",
-        "popularity": 0,
+        "popularity": 0.3088,
         "profile_path": null,
         "credit_id": "6167d7d35cea18002612b88b",
         "department": "Production",
@@ -121,11 +82,24 @@
         "known_for_department": "Sound",
         "name": "Pranam Kamlakhar",
         "original_name": "Pranam Kamlakhar",
-        "popularity": 0,
+        "popularity": 0.3022,
         "profile_path": null,
         "credit_id": "6167d7f1be7f3500294e205b",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3270267,
+        "known_for_department": "Directing",
+        "name": "Raju",
+        "original_name": "Raju",
+        "popularity": 0.2734,
+        "profile_path": null,
+        "credit_id": "6167d7c384591c00633b959a",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -134,7 +108,7 @@
         "known_for_department": "Sound",
         "name": "Jørgen Sporsheim Berg",
         "original_name": "Jørgen Sporsheim Berg",
-        "popularity": 0,
+        "popularity": 0.4852,
         "profile_path": null,
         "credit_id": "6167d7e65cea18002612b895",
         "department": "Sound",
@@ -147,11 +121,37 @@
         "known_for_department": "Directing",
         "name": "Raju",
         "original_name": "Raju",
-        "popularity": 0.0498,
+        "popularity": 0.2734,
         "profile_path": null,
-        "credit_id": "6167d7c384591c00633b959a",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "6167d7bc50733c008be027b6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3270287,
+        "known_for_department": "Art",
+        "name": "Asoka Raju",
+        "original_name": "Asoka Raju",
+        "popularity": 0.4389,
+        "profile_path": null,
+        "credit_id": "6167d7fbd7f465002a8283cf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3270288,
+        "known_for_department": "Crew",
+        "name": "Chandra Sekhar Raghavarapu",
+        "original_name": "Chandra Sekhar Raghavarapu",
+        "popularity": 0.4406,
+        "profile_path": null,
+        "credit_id": "6167d80953866e00680704a3",
+        "department": "Crew",
+        "job": "Compositor"
       },
       {
         "adult": false,
@@ -160,7 +160,7 @@
         "known_for_department": "Editing",
         "name": "BVR Shiva kumar",
         "original_name": "BVR Shiva kumar",
-        "popularity": 0.1243,
+        "popularity": 0.4928,
         "profile_path": null,
         "credit_id": "61d3f9b79defda008dfcae6a",
         "department": "Editing",
@@ -171,32 +171,12 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2016-01-01T00:00:00.000Z",
-            "type": 1
-          }
-        ]
-      }
-    ]
-  },
   "external_ids": {
     "imdb_id": "tt5645436",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "keywords": {
     "keywords": []
@@ -226,5 +206,25 @@
         "width": 1000
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2016-01-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

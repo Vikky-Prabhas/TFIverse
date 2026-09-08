@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Aadu Magaadra Bujji",
   "overview": "Siddhu (Sudheer), a naughty easy going guy falls in love with Indu (Asmita Sood). But Indu is the sister of Cherry (Ranadheer) who keeps on protecting his sister from others’ eyes. But on the other hand Cherry he loves Anjali (Poonam Kaur), the sister-in-law of a dangerous man Bujji aka Shankar (Ajay). How things move among these people, how Siddhu plays with Shankar forms the main story.",
-  "popularity": 0.2838,
+  "popularity": 0.5631,
   "poster_path": "/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
   "production_companies": [],
   "production_countries": [
@@ -47,133 +47,28 @@
   "title": "Aadu Magaadra Bujji",
   "video": false,
   "vote_average": 5,
-  "vote_count": 1,
-  "credits": {
-    "cast": [
+  "vote_count": 2,
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 1267543,
-        "known_for_department": "Acting",
-        "name": "Sudheer Babu",
-        "original_name": "Sudheer Babu",
-        "popularity": 0.4374,
-        "profile_path": "/y6e3q1EiYZz8eJTkBzOCoHVfLvC.jpg",
-        "cast_id": 5,
-        "character": "Siddhu",
-        "credit_id": "56b7ccd892514116b40006f0",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 548822,
-        "known_for_department": "Acting",
-        "name": "Poonam Kaur",
-        "original_name": "Poonam Kaur",
-        "popularity": 0.2149,
-        "profile_path": "/fDxVBhZxb85LLsmRTePhyQN9nAN.jpg",
-        "cast_id": 8,
-        "character": "Anjali",
-        "credit_id": "56b7cd09c3a36806ee00df98",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1180593,
-        "known_for_department": "Acting",
-        "name": "Asmita Sood",
-        "original_name": "Asmita Sood",
-        "popularity": 0.1484,
-        "profile_path": null,
-        "cast_id": 9,
-        "character": "Indu",
-        "credit_id": "56b7cd169251414c45007b16",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 586625,
-        "known_for_department": "Acting",
-        "name": "Ajay",
-        "original_name": "Ajay",
-        "popularity": 0.8393,
-        "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
-        "cast_id": 10,
-        "character": "Shankar Anna",
-        "credit_id": "56b7cd4ac3a3684816007b52",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1574291,
-        "known_for_department": "Directing",
-        "name": "Krishnareddy Gangadhasuu",
-        "original_name": "Krishnareddy Gangadhasuu",
-        "popularity": 0.0436,
-        "profile_path": null,
-        "credit_id": "56b7cc93c3a36806f100cfc2",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1574291,
-        "known_for_department": "Directing",
-        "name": "Krishnareddy Gangadhasuu",
-        "original_name": "Krishnareddy Gangadhasuu",
-        "popularity": 0.0436,
-        "profile_path": null,
-        "credit_id": "56b7cc79c3a36806f100cfbc",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1574293,
-        "known_for_department": "Production",
-        "name": "S.N. Reddy",
-        "original_name": "S.N. Reddy",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "56b7ccbec3a36806e600de4e",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1574292,
-        "known_for_department": "Production",
-        "name": "M Subba Reddy",
-        "original_name": "M Subba Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "56b7ccb09251414c45007b04",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1246544,
-        "known_for_department": "Editing",
-        "name": "Bikkina Thammiraju",
-        "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2835,
-        "profile_path": null,
-        "credit_id": "5a94b6a30e0a260878000e29",
-        "department": "Editing",
-        "job": "Editor"
+        "aspect_ratio": 0.705,
+        "height": 1024,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 722
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt2836836",
@@ -181,12 +76,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -205,19 +94,130 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+  "credits": {
+    "cast": [
       {
-        "aspect_ratio": 0.705,
-        "height": 1024,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/qvPL2fNq2ehouUlqulxkYfQ74HB.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 722
+        "adult": false,
+        "gender": 2,
+        "id": 1267543,
+        "known_for_department": "Acting",
+        "name": "Sudheer Babu",
+        "original_name": "Sudheer Babu",
+        "popularity": 1.6343,
+        "profile_path": "/y6e3q1EiYZz8eJTkBzOCoHVfLvC.jpg",
+        "cast_id": 5,
+        "character": "Siddhu",
+        "credit_id": "56b7ccd892514116b40006f0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548822,
+        "known_for_department": "Acting",
+        "name": "Poonam Kaur",
+        "original_name": "Poonam Kaur",
+        "popularity": 0.8506,
+        "profile_path": "/fDxVBhZxb85LLsmRTePhyQN9nAN.jpg",
+        "cast_id": 8,
+        "character": "Anjali",
+        "credit_id": "56b7cd09c3a36806ee00df98",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180593,
+        "known_for_department": "Acting",
+        "name": "Asmita Sood",
+        "original_name": "Asmita Sood",
+        "popularity": 0.4779,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Indu",
+        "credit_id": "56b7cd169251414c45007b16",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586625,
+        "known_for_department": "Acting",
+        "name": "Ajay",
+        "original_name": "Ajay",
+        "popularity": 0.9815,
+        "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
+        "cast_id": 10,
+        "character": "Shankar Anna",
+        "credit_id": "56b7cd4ac3a3684816007b52",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574291,
+        "known_for_department": "Directing",
+        "name": "Krishnareddy Gangadhasuu",
+        "original_name": "Krishnareddy Gangadhasuu",
+        "popularity": 0.3118,
+        "profile_path": null,
+        "credit_id": "56b7cc79c3a36806f100cfbc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574291,
+        "known_for_department": "Directing",
+        "name": "Krishnareddy Gangadhasuu",
+        "original_name": "Krishnareddy Gangadhasuu",
+        "popularity": 0.3118,
+        "profile_path": null,
+        "credit_id": "56b7cc93c3a36806f100cfc2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574292,
+        "known_for_department": "Production",
+        "name": "M Subba Reddy",
+        "original_name": "M Subba Reddy",
+        "popularity": 0.3267,
+        "profile_path": null,
+        "credit_id": "56b7ccb09251414c45007b04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574293,
+        "known_for_department": "Production",
+        "name": "S.N. Reddy",
+        "original_name": "S.N. Reddy",
+        "popularity": 0.2591,
+        "profile_path": null,
+        "credit_id": "56b7ccbec3a36806e600de4e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246544,
+        "known_for_department": "Editing",
+        "name": "Bikkina Thammiraju",
+        "original_name": "Bikkina Thammiraju",
+        "popularity": 0.4287,
+        "profile_path": null,
+        "credit_id": "5a94b6a30e0a260878000e29",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },

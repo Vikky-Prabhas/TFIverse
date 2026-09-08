@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "సెల్ఫిష్",
   "overview": "",
-  "popularity": 0.1593,
+  "popularity": 0.5038,
   "poster_path": "/mHi1BIe4zRee75EbQUnILdIsfls.jpg",
   "production_companies": [
     {
@@ -65,6 +65,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -74,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Ashish Reddy",
         "original_name": "Ashish Reddy",
-        "popularity": 0.0474,
+        "popularity": 0.4595,
         "profile_path": "/iNvNekccYDMh0GQn79GTwQQnaq3.jpg",
         "cast_id": 1,
         "character": "",
@@ -88,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Ivana",
         "original_name": "Ivana",
-        "popularity": 0.3988,
+        "popularity": 0.7117,
         "profile_path": "/oDSb5PnaWovLVx1J3ofmx8jfsX8.jpg",
         "cast_id": 2,
         "character": "Chaitra Ananda Rao",
@@ -104,7 +117,7 @@
         "known_for_department": "Directing",
         "name": "Vishal Kasi",
         "original_name": "Vishal Kasi",
-        "popularity": 0.0214,
+        "popularity": 0.2795,
         "profile_path": null,
         "credit_id": "6448ba952fdec60514a0d5a4",
         "department": "Directing",
@@ -117,7 +130,7 @@
         "known_for_department": "Production",
         "name": "Dil Raju",
         "original_name": "Dil Raju",
-        "popularity": 0.1187,
+        "popularity": 0.5112,
         "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
         "credit_id": "6448bab1f2cf25050cadaf1c",
         "department": "Production",
@@ -130,7 +143,7 @@
         "known_for_department": "Sound",
         "name": "Mickey J Meyer",
         "original_name": "Mickey J Meyer",
-        "popularity": 0.1672,
+        "popularity": 0.3447,
         "profile_path": "/ogeUjNtob45rVaKJ9TKxwys46s2.jpg",
         "credit_id": "6448babb7f2d4a04dd0b1e90",
         "department": "Sound",
@@ -143,7 +156,7 @@
         "known_for_department": "Camera",
         "name": "Manikandan Saravanan",
         "original_name": "Manikandan Saravanan",
-        "popularity": 0.1307,
+        "popularity": 0.3094,
         "profile_path": null,
         "credit_id": "6448bacc7f2d4a04dd0b1e9c",
         "department": "Camera",
@@ -156,7 +169,7 @@
         "known_for_department": "Art",
         "name": "Kiran Kumar Manne",
         "original_name": "Kiran Kumar Manne",
-        "popularity": 0.0565,
+        "popularity": 0.3294,
         "profile_path": null,
         "credit_id": "6448bada7f2d4a04b30b1ddd",
         "department": "Art",
@@ -169,7 +182,7 @@
         "known_for_department": "Production",
         "name": "Harshith Reddy",
         "original_name": "Harshith Reddy",
-        "popularity": 0.1133,
+        "popularity": 0.3142,
         "profile_path": null,
         "credit_id": "6448baf20f21c602fb2801a8",
         "department": "Production",
@@ -182,7 +195,7 @@
         "known_for_department": "Production",
         "name": "Sri Hanshitha",
         "original_name": "Sri Hanshitha",
-        "popularity": 0.0214,
+        "popularity": 0.2887,
         "profile_path": null,
         "credit_id": "6448baf949756004badf21d8",
         "department": "Production",
@@ -195,7 +208,7 @@
         "known_for_department": "Editing",
         "name": "Prawin Pudi",
         "original_name": "Prawin Pudi",
-        "popularity": 0.1781,
+        "popularity": 0.3216,
         "profile_path": null,
         "credit_id": "6448bb0d7f2d4a04890b1e53",
         "department": "Editing",
@@ -208,7 +221,7 @@
         "known_for_department": "Production",
         "name": "Ashok Bandreddy",
         "original_name": "Ashok Bandreddy",
-        "popularity": 0,
+        "popularity": 0.2975,
         "profile_path": null,
         "credit_id": "6448bb7549756002fcdf22de",
         "department": "Production",
@@ -221,32 +234,13 @@
         "known_for_department": "Production",
         "name": "Shirish",
         "original_name": "Shirish",
-        "popularity": 0.1394,
+        "popularity": 0.3609,
         "profile_path": null,
         "credit_id": "6448bd6ff2cf2504b8adb467",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -274,5 +268,11 @@
         "width": 1365
       }
     ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

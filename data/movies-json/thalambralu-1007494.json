@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Thalambralu",
   "overview": "This is a ritual of happiness turned into a tragedy, this is a ritual of lies and deceit for our young protagonist, will she sink down or rise up from this situation?",
-  "popularity": 0.089,
+  "popularity": 2.9624,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Jeevitha",
         "original_name": "Jeevitha",
-        "popularity": 0.2756,
+        "popularity": 1.1304,
         "profile_path": "/u4KvVRLaGGJrMTDi0vaq9zlorK8.jpg",
         "cast_id": 1,
         "character": "Radhika",
@@ -62,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Kalyana Chakravarthy",
         "original_name": "Kalyan chakravarthy Nandamuri",
-        "popularity": 0.0071,
+        "popularity": 0.3668,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -76,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.271,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 3,
         "character": "",
@@ -88,15 +91,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1335725,
-        "known_for_department": "Sound",
-        "name": "Chellapilla Satyanarayana Sastry",
-        "original_name": "Chellapilla Satyanarayana Sastry",
-        "popularity": 0.0526,
-        "profile_path": null,
-        "credit_id": "62e8c2f41ad93b0061546589",
-        "department": "Sound",
-        "job": "Music Director"
+        "id": 552982,
+        "known_for_department": "Directing",
+        "name": "Kodi Ramakrishna",
+        "original_name": "Kodi Ramakrishna",
+        "popularity": 1.5666,
+        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
+        "credit_id": "62e8c1071e64890061fd20e6",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -105,7 +108,7 @@
         "known_for_department": "Writing",
         "name": "Ganesh Patro",
         "original_name": "Ganesh Patro",
-        "popularity": 0.1068,
+        "popularity": 0.6081,
         "profile_path": null,
         "credit_id": "62e8c1f91e64890061fd2133",
         "department": "Writing",
@@ -118,7 +121,7 @@
         "known_for_department": "Editing",
         "name": "K. A. Marthand",
         "original_name": "K. A. Marthand",
-        "popularity": 0.0604,
+        "popularity": 0.282,
         "profile_path": null,
         "credit_id": "62e8c2b06d9fe80061357f15",
         "department": "Editing",
@@ -127,15 +130,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 552982,
-        "known_for_department": "Directing",
-        "name": "Kodi Ramakrishna",
-        "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
-        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
-        "credit_id": "62e8c1071e64890061fd20e6",
-        "department": "Directing",
-        "job": "Director"
+        "id": 1335725,
+        "known_for_department": "Sound",
+        "name": "Chellapilla Satyanarayana Sastry",
+        "original_name": "Chellapilla Satyanarayana Sastry",
+        "popularity": 0.3275,
+        "profile_path": null,
+        "credit_id": "62e8c2f41ad93b0061546589",
+        "department": "Sound",
+        "job": "Music Director"
       },
       {
         "adult": false,
@@ -144,16 +147,13 @@
         "known_for_department": "Camera",
         "name": "P. Laxman",
         "original_name": "P. Laxman",
-        "popularity": 0,
+        "popularity": 0.2659,
         "profile_path": null,
         "credit_id": "62e8c332f1b571005e2bc888",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -162,10 +162,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -184,8 +182,10 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": []

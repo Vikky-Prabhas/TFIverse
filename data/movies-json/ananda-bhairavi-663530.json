@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Ananda Bhairavi",
   "overview": "Steeped in tradition, a village elder defies social scorn to preserve the dying art of Kuchipudi dance. Ostracized for training a young woman, he faces exile, isolation, and the loss of everything he holds dear. Can his unwavering spirit revive a fading art and redefine the future of Kuchipudi?",
-  "popularity": 0.2175,
+  "popularity": 0.884,
   "poster_path": "/6GRJXNFIV17FHqJ6LNKDGvZdsBA.jpg",
   "production_companies": [
     {
@@ -46,9 +46,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -58,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Girish Karnad",
         "original_name": "Girish Karnad",
-        "popularity": 0.5813,
+        "popularity": 1.1431,
         "profile_path": "/vxnh2pdWTdarTUfDoTbJwlUROYh.jpg",
         "cast_id": 1,
         "character": "Bhagavathula Venkata Rama Sarma",
@@ -72,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Malavika Sarkar",
         "original_name": "Malavika Sarkar",
-        "popularity": 0,
+        "popularity": 0.3263,
         "profile_path": null,
         "cast_id": 2,
         "character": "Bhairavi",
@@ -81,31 +78,17 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 989785,
-        "known_for_department": "Acting",
-        "name": "Rajesh Kumar",
-        "original_name": "Rajesh Kumar",
-        "popularity": 0.1873,
-        "profile_path": "/9tc3h7CaWU9jouheEKOADVsfHlI.jpg",
-        "cast_id": 3,
-        "character": "Anand",
-        "credit_id": "5e1cb41e0e29a20019f81f2f",
-        "order": 2
-      },
-      {
-        "adult": false,
         "gender": 1,
         "id": 1378576,
         "known_for_department": "Acting",
         "name": "Mahalakshmi",
         "original_name": "Mahalakshmi",
-        "popularity": 0.1628,
+        "popularity": 0.5246,
         "profile_path": "/bPK7Wp8UL8aJx5LeoUAJzIAiXJQ.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "686e753f0ad7681110ed64df",
-        "order": 3
+        "order": 2
       },
       {
         "adult": false,
@@ -114,11 +97,25 @@
         "known_for_department": "Acting",
         "name": "Kanchana",
         "original_name": "Kanchana",
-        "popularity": 0.2614,
+        "popularity": 1.1551,
         "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "686e75488e0f9512dc703a06",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2231938,
+        "known_for_department": "Acting",
+        "name": "Rajesh",
+        "original_name": "Rajesh",
+        "popularity": 0.2744,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Anand Sharma",
+        "credit_id": "6a779056ab27639e457c39d0",
         "order": 4
       }
     ],
@@ -130,13 +127,16 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "6901379b82b02737582768c7",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0249351",
@@ -147,22 +147,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/6GRJXNFIV17FHqJ6LNKDGvZdsBA.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -178,6 +162,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6GRJXNFIV17FHqJ6LNKDGvZdsBA.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
   },

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "వాళ్లిద్దరి మధ్య",
   "overview": "A love story between a conservative man and a modern woman. Upon meeting an invisible guest from an unexpected place, the story takes you on a fun-filled emotional roller coaster ride.",
-  "popularity": 0.3048,
+  "popularity": 1.0478,
   "poster_path": "/1WQMBdosnbKpa0g3IrHjxUsOIyh.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Viraj Ashwin",
         "original_name": "Viraj Ashwin",
-        "popularity": 0.2205,
+        "popularity": 0.5486,
         "profile_path": "/sHTRnYoZF4r6GC183aDVAyoa1ZE.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Neha Krishna",
         "original_name": "Neha Krishna",
-        "popularity": 0.0256,
+        "popularity": 0.5192,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.3429,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Bindu Chandramouli",
         "original_name": "Bindu Chandramouli",
-        "popularity": 0.3002,
+        "popularity": 0.7333,
         "profile_path": "/9Hdo4yERNWncsBL7cXmYfv42vzD.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Vadlamani Srinivas",
         "original_name": "Vadlamani Srinivas",
-        "popularity": 0.2204,
+        "popularity": 1.007,
         "profile_path": "/AxSe41CKf4JdcN7DzaAFc8ymhV.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Jayasri Rachakonda",
         "original_name": "Jayasri Rachakonda",
-        "popularity": 0.0889,
+        "popularity": 0.4919,
         "profile_path": "/jUnRQIR5Ju31ntlHT7er4uVeVvD.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Directing",
         "name": "Venkat Siddareddy",
         "original_name": "Venkat Siddareddy",
-        "popularity": 0,
+        "popularity": 0.3126,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Kanth",
         "original_name": "Krishna Kanth",
-        "popularity": 0.0143,
+        "popularity": 0.3683,
         "profile_path": null,
         "cast_id": 17,
         "character": "",
@@ -174,67 +174,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 584585,
-        "known_for_department": "Sound",
-        "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4617,
-        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
-        "credit_id": "639bc5a393db92007f53f27a",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1450230,
         "known_for_department": "Writing",
         "name": "Satyanand Pydipalli",
         "original_name": "Satyanand Pydipalli",
-        "popularity": 0.2284,
+        "popularity": 1.6152,
         "profile_path": null,
         "credit_id": "639bc1a118864b00ac5b56b3",
         "department": "Writing",
         "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3731644,
-        "known_for_department": "Production",
-        "name": "Arjun Dasyan",
-        "original_name": "Arjun Dasyan",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "639bc4ab81a7fc00a263d4ca",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1861901,
-        "known_for_department": "Sound",
-        "name": "Kalpana Raghavendar",
-        "original_name": "Kalpana Raghavendar",
-        "popularity": 0.1844,
-        "profile_path": "/seKNEHKVCNDQZgQrrMdwKTZvwq6.jpg",
-        "credit_id": "639bc60c81a7fc009689a485",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2801308,
-        "known_for_department": "Writing",
-        "name": "Venkat D Pati",
-        "original_name": "Venkat D Pati",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "639bc3b5d2b20900f0febe37",
-        "department": "Writing",
-        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -243,50 +191,11 @@
         "known_for_department": "Editing",
         "name": "Dharmendra Kakarala",
         "original_name": "Dharmendra Kakarala",
-        "popularity": 0.1348,
+        "popularity": 0.4085,
         "profile_path": null,
         "credit_id": "639bc390d2b20900c8a70ae2",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3832700,
-        "known_for_department": "Sound",
-        "name": "Madhu Sravanthi",
-        "original_name": "Madhu Sravanthi",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "639bc44a18864b00931dfbb4",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 549484,
-        "known_for_department": "Directing",
-        "name": "V. N. Aditya",
-        "original_name": "V. N. Aditya",
-        "popularity": 0.2237,
-        "profile_path": null,
-        "credit_id": "639bc4cc18864b00a0adc1fa",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2293465,
-        "known_for_department": "Writing",
-        "name": "Sira Sri",
-        "original_name": "Sira Sri",
-        "popularity": 0.0538,
-        "profile_path": null,
-        "credit_id": "639bc5f118864b00ac5b5a2f",
-        "department": "Writing",
-        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -295,11 +204,37 @@
         "known_for_department": "Art",
         "name": "J K Murthy",
         "original_name": "J K Murthy",
-        "popularity": 0.0664,
+        "popularity": 0.3435,
         "profile_path": null,
         "credit_id": "639bc39b9408ec00d4b5200c",
         "department": "Art",
         "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2801308,
+        "known_for_department": "Writing",
+        "name": "Venkat D Pati",
+        "original_name": "Venkat D Pati",
+        "popularity": 0.3052,
+        "profile_path": null,
+        "credit_id": "639bc3b5d2b20900f0febe37",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3832700,
+        "known_for_department": "Sound",
+        "name": "Madhu Sravanthi",
+        "original_name": "Madhu Sravanthi",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "credit_id": "639bc44a18864b00931dfbb4",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -308,7 +243,7 @@
         "known_for_department": "Camera",
         "name": "R. Kolanchi Kumar",
         "original_name": "R. Kolanchi Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.2591,
         "profile_path": null,
         "credit_id": "639bc45e9408ec00a8dc6ed3",
         "department": "Camera",
@@ -317,15 +252,80 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3731644,
+        "known_for_department": "Production",
+        "name": "Arjun Dasyan",
+        "original_name": "Arjun Dasyan",
+        "popularity": 0.2607,
+        "profile_path": null,
+        "credit_id": "639bc4ab81a7fc00a263d4ca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 549484,
         "known_for_department": "Directing",
         "name": "V. N. Aditya",
         "original_name": "V. N. Aditya",
-        "popularity": 0.2237,
+        "popularity": 0.7122,
         "profile_path": null,
         "credit_id": "639bc4c381a7fc00a263d4e1",
         "department": "Writing",
         "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549484,
+        "known_for_department": "Directing",
+        "name": "V. N. Aditya",
+        "original_name": "V. N. Aditya",
+        "popularity": 0.7122,
+        "profile_path": null,
+        "credit_id": "639bc4cc18864b00a0adc1fa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "639bc5a393db92007f53f27a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293465,
+        "known_for_department": "Writing",
+        "name": "Sira Sri",
+        "original_name": "Sira Sri",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "639bc5f118864b00ac5b5a2f",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1861901,
+        "known_for_department": "Sound",
+        "name": "Kalpana Raghavendar",
+        "original_name": "Kalpana Raghavendar",
+        "popularity": 0.6183,
+        "profile_path": "/seKNEHKVCNDQZgQrrMdwKTZvwq6.jpg",
+        "credit_id": "639bc60c81a7fc009689a485",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -334,7 +334,7 @@
         "known_for_department": "Writing",
         "name": "P. Gangadhar",
         "original_name": "P. Gangadhar",
-        "popularity": 0.0214,
+        "popularity": 0.265,
         "profile_path": "/cITwiXlhTsP7c2kdPQvQQ2ONu9a.jpg",
         "credit_id": "6433e050391b9c1178c66183",
         "department": "Writing",
@@ -342,15 +342,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt11216008",
-    "wikidata_id": "Q96413464",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -369,6 +362,16 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11216008",
+    "wikidata_id": "Q96413464",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -377,9 +380,6 @@
         "type": "Alternate"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [

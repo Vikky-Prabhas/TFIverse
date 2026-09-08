@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Amrutham Chandamama Lo",
   "overview": "Based on a beloved telugu sitcom  \"Amrutham\".  When a company called RTC - Rocket Travel Company is launched to take people to moon, Amrutham and Anji decide to do business on Moon by selling all their earthly assets. Anji takes the responsibility of marrying off a couple who have dangerous parents. Rest of the story is all about their business venture on the moon and how they marry off the couple.",
-  "popularity": 0.2609,
+  "popularity": 0.6685,
   "poster_path": "/tA9NUqNj6TQFIOZJa4QkzDFYkNn.jpg",
   "production_companies": [
     {
@@ -46,6 +46,16 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt6854376",
+    "wikidata_id": "Q96371986",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -55,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 0,
         "character": "Amrutha \"Amrutham\" Rao",
@@ -69,7 +79,7 @@
         "known_for_department": "Production",
         "name": "Harish Koyalagundla",
         "original_name": "Harish Koyalagundla",
-        "popularity": 0.0798,
+        "popularity": 0.2932,
         "profile_path": null,
         "cast_id": 3,
         "character": "Anjaneyulu \"Anji\"",
@@ -83,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Inturi Vasu",
         "original_name": "Inturi Vasu",
-        "popularity": 0.3976,
+        "popularity": 0.6001,
         "profile_path": "/8CHxyVCgrciY7Nxxd8g37rZQ5iA.jpg",
         "cast_id": 4,
         "character": "Sarveswaran \"Sarvam\"",
@@ -97,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Sivannarayana Naripeddi",
         "original_name": "Sivannarayana Naripeddi",
-        "popularity": 0.2808,
+        "popularity": 0.8748,
         "profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
         "cast_id": 5,
         "character": "Appaji",
@@ -111,7 +121,7 @@
         "known_for_department": "Acting",
         "name": "Dhanya Balakrishna",
         "original_name": "Dhanya Balakrishna",
-        "popularity": 0.3929,
+        "popularity": 2.073,
         "profile_path": "/yPpzzuuF2zSGquN4iqrCIfrwkZx.jpg",
         "cast_id": 6,
         "character": "Sanjeevini \"Sanju\"",
@@ -125,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Suchitra Bandekar",
         "original_name": "Suchitra Bandekar",
-        "popularity": 0.0717,
+        "popularity": 0.6591,
         "profile_path": "/7zxdVVTeUPES2HzwL1rNfGAC4UY.jpg",
         "cast_id": 7,
         "character": "Santha",
@@ -138,8 +148,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 2,
         "character": "Chandramohan \"Chandu\"",
@@ -153,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Pavani Reddy",
         "original_name": "Pavani Reddy",
-        "popularity": 0.1464,
+        "popularity": 0.6267,
         "profile_path": "/2tfmug9DLCm21Rw9f2pTwbvuPzm.jpg",
         "cast_id": 8,
         "character": "Doll Reddy",
@@ -167,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Ali Reza",
         "original_name": "Ali Reza",
-        "popularity": 0.2141,
+        "popularity": 0.7141,
         "profile_path": "/uM0SWmf5KV8hpwVOLALZezgOLK6.jpg",
         "cast_id": 9,
         "character": "Sameer",
@@ -181,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 10,
         "character": "Priest",
@@ -195,7 +205,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 11,
         "character": "Engineer",
@@ -209,7 +219,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 12,
         "character": "Pol Reddy",
@@ -221,9 +231,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 19,
         "character": "Parandamayya",
@@ -239,7 +249,7 @@
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.2104,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "6589923b68b76668b32d0693",
         "department": "Directing",
@@ -247,16 +257,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1522879,
-        "known_for_department": "Writing",
-        "name": "Gangaraju Gunnam",
-        "original_name": "Gangaraju Gunnam",
-        "popularity": 0.2104,
+        "gender": 2,
+        "id": 1191401,
+        "known_for_department": "Sound",
+        "name": "Sri Kommineni",
+        "original_name": "Sri Kommineni",
+        "popularity": 0.3524,
         "profile_path": null,
-        "credit_id": "6589925b688cd059a583e68d",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "658993474da3d463f5429216",
+        "department": "Sound",
+        "job": "Music Director"
       },
       {
         "adult": false,
@@ -265,7 +275,7 @@
         "known_for_department": "Production",
         "name": "Urmila Gunnam",
         "original_name": "Urmila Gunnam",
-        "popularity": 0.0261,
+        "popularity": 0.268,
         "profile_path": null,
         "credit_id": "65899285fad8e95d768ea249",
         "department": "Production",
@@ -278,11 +288,24 @@
         "known_for_department": "Camera",
         "name": "Rasool Ellore",
         "original_name": "Rasool Ellore",
-        "popularity": 0.1027,
+        "popularity": 0.3894,
         "profile_path": "/zV1TLdQ8sKCgMdGNTGi8rFfadVi.jpg",
         "credit_id": "658992a05aba32660cba8e30",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1522879,
+        "known_for_department": "Writing",
+        "name": "Gangaraju Gunnam",
+        "original_name": "Gangaraju Gunnam",
+        "popularity": 0.5413,
+        "profile_path": null,
+        "credit_id": "6589925b688cd059a583e68d",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -291,39 +314,33 @@
         "known_for_department": "Editing",
         "name": "Dharmendra Kakarala",
         "original_name": "Dharmendra Kakarala",
-        "popularity": 0.1855,
+        "popularity": 0.4085,
         "profile_path": null,
         "credit_id": "658992ed68b76669502cf573",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1191401,
-        "known_for_department": "Sound",
-        "name": "Sri Kommineni",
-        "original_name": "Sri Kommineni",
-        "popularity": 0.1213,
-        "profile_path": null,
-        "credit_id": "658993474da3d463f5429216",
-        "department": "Sound",
-        "job": "Music Director"
       }
     ]
   },
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6854376",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-05-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -353,22 +370,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2014-05-17T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

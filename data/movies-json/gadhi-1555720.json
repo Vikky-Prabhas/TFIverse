@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Gadhi",
   "overview": "Ajay and Anjali were in love. Their friend was Bablu. An uncle and aunty known to Bablu were going to their hometown and gave the house keys to Bablu before leaving. Bablu gave those keys to Ajay.",
-  "popularity": 0.0071,
+  "popularity": 0.4165,
   "poster_path": "/7G2eCjnJK96rh32XtYoMW6pKHJE.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,26 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Gadhi  Movie Trailer Mohan Depa,Mohana Siddhi Tharun Kalluri  Kasiram Yenneti Entertainment",
-        "key": "Q-pOS7sPbtg",
-        "site": "YouTube",
-        "size": 720,
-        "type": "Trailer",
-        "official": false,
-        "id": "68e895c508d362892e30c1e1",
-        "published_at": "2025-06-03T06:21:17.000Z"
-      }
-    ]
-  },
   "external_ids": {
     "imdb_id": "tt37038371",
     "wikidata_id": null,
@@ -57,6 +37,10 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
   },
   "release_dates": {
     "results": [
@@ -80,6 +64,22 @@
             "type": 4
           }
         ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gadhi  Movie Trailer Mohan Depa,Mohana Siddhi Tharun Kalluri  Kasiram Yenneti Entertainment",
+        "key": "Q-pOS7sPbtg",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e895c508d362892e30c1e1",
+        "published_at": "2025-06-03T06:21:17.000Z"
       }
     ]
   },

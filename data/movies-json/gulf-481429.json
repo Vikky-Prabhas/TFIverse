@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "గల్ఫ్",
   "overview": "While many harrowing tales have come forth through news reports of how Indians choosing to work in Gulf countries face inhumane treatment, 'Gulf' charts the journey of Shiva and Lakshmi who go to Dubai in search of greener pastures.",
-  "popularity": 0.2789,
+  "popularity": 0.5719,
   "poster_path": "/jxnieCChWmsaQp19BoRnSbC5CdZ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": "gulfthemovie",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Chetan Maddineni",
         "original_name": "Chetan Maddineni",
-        "popularity": 0.1586,
+        "popularity": 0.5687,
         "profile_path": "/e4lsKMRlekmX3EzM4PE1rMRtEkE.jpg",
         "cast_id": 0,
         "character": "Shiva",
@@ -62,8 +72,8 @@
         "known_for_department": "Acting",
         "name": "Dimple Hayathi",
         "original_name": "Dimple Hayathi",
-        "popularity": 0.5737,
-        "profile_path": "/6vreBkqWxRX5zaJSY2GKBPTFxES.jpg",
+        "popularity": 1.1719,
+        "profile_path": "/nJi5MT8JMdcNiwqKyRMkjyaDIb0.jpg",
         "cast_id": 9,
         "character": "Lakshmi",
         "credit_id": "59e49f55c3a368461e02b8a8",
@@ -76,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 1,
         "character": "",
@@ -90,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2766,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 3,
         "character": "",
@@ -104,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Sana",
         "original_name": "Sana",
-        "popularity": 0.2615,
+        "popularity": 0.977,
         "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
         "cast_id": 12,
         "character": "",
@@ -118,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas Sreenu",
         "original_name": "Prabhas Sreenu",
-        "popularity": 0.2807,
+        "popularity": 1.3484,
         "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
         "cast_id": 10,
         "character": "",
@@ -132,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Sai Anil",
         "original_name": "Sai Anil",
-        "popularity": 0.0071,
+        "popularity": 0.3166,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -146,7 +156,7 @@
         "known_for_department": "Acting",
         "name": "Bitthiri Satthi",
         "original_name": "Bitthiri Satthi",
-        "popularity": 0.1431,
+        "popularity": 0.5626,
         "profile_path": "/ljwO324NcbdfFOKPcHRwYp8GIia.jpg",
         "cast_id": 11,
         "character": "",
@@ -160,7 +170,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 13,
         "character": "",
@@ -176,24 +186,11 @@
         "known_for_department": "Crew",
         "name": "S.V. Sivaram",
         "original_name": "S.V. Sivaram",
-        "popularity": 0.0071,
+        "popularity": 0.302,
         "profile_path": "/116aaHFjbDjyhaTCPFe8iwWhQnP.jpg",
         "credit_id": "655c6ea3f6787a00aece067f",
         "department": "Crew",
         "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1513089,
-        "known_for_department": "Directing",
-        "name": "Sunil Kumar Reddy",
-        "original_name": "Sunil Kumar Reddy",
-        "popularity": 0.2328,
-        "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
-        "credit_id": "59e36bb69251410824012d4d",
-        "department": "Writing",
-        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -202,7 +199,7 @@
         "known_for_department": "Sound",
         "name": "Praveen Immadi",
         "original_name": "Praveen Immadi",
-        "popularity": 0.0214,
+        "popularity": 0.275,
         "profile_path": null,
         "credit_id": "59e36b98c3a368461e012b8c",
         "department": "Sound",
@@ -215,7 +212,33 @@
         "known_for_department": "Directing",
         "name": "Sunil Kumar Reddy",
         "original_name": "Sunil Kumar Reddy",
-        "popularity": 0.2328,
+        "popularity": 0.6052,
+        "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
+        "credit_id": "59e36ba59251410824012d33",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513089,
+        "known_for_department": "Directing",
+        "name": "Sunil Kumar Reddy",
+        "original_name": "Sunil Kumar Reddy",
+        "popularity": 0.6052,
+        "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
+        "credit_id": "59e36bb69251410824012d4d",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513089,
+        "known_for_department": "Directing",
+        "name": "Sunil Kumar Reddy",
+        "original_name": "Sunil Kumar Reddy",
+        "popularity": 0.6052,
         "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
         "credit_id": "59e36bacc3a36846cc014153",
         "department": "Writing",
@@ -228,36 +251,13 @@
         "known_for_department": "Directing",
         "name": "Sunil Kumar Reddy",
         "original_name": "Sunil Kumar Reddy",
-        "popularity": 0.2328,
+        "popularity": 0.6052,
         "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
         "credit_id": "59e36aef9251410824012c2d",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1513089,
-        "known_for_department": "Directing",
-        "name": "Sunil Kumar Reddy",
-        "original_name": "Sunil Kumar Reddy",
-        "popularity": 0.2328,
-        "profile_path": "/F7IiXPxpD9TvJ4wVhlOLgtJvrO.jpg",
-        "credit_id": "59e36ba59251410824012d33",
-        "department": "Writing",
-        "job": "Story"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": "gulfthemovie",
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -270,26 +270,6 @@
         "name": "gulf job"
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-10-15T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -357,5 +337,25 @@
         "width": 944
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-10-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

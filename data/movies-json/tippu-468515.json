@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Tippu",
   "overview": "Satya is a college going youth who falls in love with Vaishnavi. He joins her college and woos herbut this is also the time when a dreaded gangster called Keshu Bhai lays his eyes on Vaishnavi. Things go out of hand as Keshu Bhai starts torturing Vaishnavi. This angers Satya who suddenly kills Keshu Bhai. Why did Satya kill Keshu Bhai? Is there a personal motive behind the killing? Will the police nab Satya?",
-  "popularity": 0.1648,
+  "popularity": 1.5337,
   "poster_path": "/x6meSeW057NRxeGOgQ2gmllICsn.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,9 +53,6 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -65,7 +62,7 @@
         "known_for_department": "Sound",
         "name": "Kanika Kapoor",
         "original_name": "Kanika Kapoor",
-        "popularity": 0.1785,
+        "popularity": 0.4696,
         "profile_path": "/877z8Dn4OXTKBGbh5D3PeUiuCqR.jpg",
         "cast_id": 0,
         "character": "",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Satya Karthik",
         "original_name": "Satya Karthik",
-        "popularity": 0.0143,
+        "popularity": 0.3013,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -93,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 2,
         "character": "",
@@ -107,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 3,
         "character": "",
@@ -121,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Samskruthy Shenoy",
         "original_name": "Samskruthy Shenoy",
-        "popularity": 0.1572,
+        "popularity": 0.6555,
         "profile_path": "/cO3XZw9pkPkrkxDlJZeFqBEZ7sT.jpg",
         "cast_id": 4,
         "character": "",
@@ -137,13 +134,16 @@
         "known_for_department": "Directing",
         "name": "Jagadeesh Daneti",
         "original_name": "Jagadeesh Daneti",
-        "popularity": 0.0143,
+        "popularity": 0.4033,
         "profile_path": "/wGmAGDRvDUyZOq103AVgC6nXJIJ.jpg",
         "credit_id": "5b6dd5d092514103410552dd",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt8086072",
@@ -152,11 +152,25 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "",
+            "release_date": "2015-06-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -185,21 +199,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "hi",
-            "note": "",
-            "release_date": "2015-06-19T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   }
 }

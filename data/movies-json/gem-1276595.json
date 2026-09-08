@@ -14,7 +14,7 @@
   "original_language": "te",
   "original_title": "Gem",
   "overview": "Gem is a Telugu movie directed by Susheela Subhramanyam starring Vijay Raja and Rashi Singh in lead roles.",
-  "popularity": 0.0386,
+  "popularity": 0.4181,
   "poster_path": "/yKZ2vSI2nYjJQhVoVksV4tQyoOT.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,8 +39,8 @@
     "cast": [],
     "crew": []
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt15491744",
@@ -49,11 +49,14 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -81,8 +84,5 @@
         "width": 960
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Ragala 24 Gantallo",
   "overview": "A couple fall in love and get married, but as soon as they are hitched, things begin to unravel. They discover each other's dark secrets and begin to realise that nothing is as it seems when it comes to their partners.",
-  "popularity": 0.4342,
+  "popularity": 1.5274,
   "poster_path": "/hjcynxjTbzjEuopohKWfJPQq0n5.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -52,8 +55,8 @@
         "id": 1546410,
         "known_for_department": "Acting",
         "name": "Satyadev Kancharana",
-        "original_name": "Satyadev Kancharana",
-        "popularity": 0.4233,
+        "original_name": "సత్యదేవ్ కంచరన",
+        "popularity": 1.1478,
         "profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
         "cast_id": 4,
         "character": "",
@@ -66,8 +69,8 @@
         "id": 1201819,
         "known_for_department": "Acting",
         "name": "Eesha Rebba",
-        "original_name": "Eesha Rebba",
-        "popularity": 0.5114,
+        "original_name": "ఈషా రెబ్బ‌",
+        "popularity": 1.0727,
         "profile_path": "/6oq2x8o2mEBOR82lNBtROcTeN9O.jpg",
         "cast_id": 5,
         "character": "",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Musskan Sethi",
         "original_name": "Musskan Sethi",
-        "popularity": 0.2127,
+        "popularity": 0.7368,
         "profile_path": "/4Zbl510wIpmyYck6ImktfV6ZV5d.jpg",
         "cast_id": 6,
         "character": "",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Ganesh Venkatraman",
         "original_name": "Ganesh Venkatraman",
-        "popularity": 0.2033,
+        "popularity": 0.8659,
         "profile_path": "/p9lK3JKTQxnNuTWPHVg4DbApus5.jpg",
         "cast_id": 8,
         "character": "",
@@ -109,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "Srikanth",
-        "popularity": 0.3951,
+        "popularity": 3.4492,
         "profile_path": "/l8KmsNQUzrOl8sDJtDXmiknJb7J.jpg",
         "cast_id": 9,
         "character": "",
@@ -123,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2183,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 10,
         "character": "",
@@ -137,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4177,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 11,
         "character": "",
@@ -151,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Temper Vamsi",
         "original_name": "Temper Vamsi",
-        "popularity": 0.2952,
+        "popularity": 10.5605,
         "profile_path": "/7QmDysL95O4LFocakRIZeE2Np9Q.jpg",
         "cast_id": 12,
         "character": "",
@@ -165,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 13,
         "character": "",
@@ -177,15 +180,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2520336,
-        "known_for_department": "Directing",
-        "name": "Sreenivass Redde",
-        "original_name": "Sreenivass Redde",
-        "popularity": 0.0071,
+        "id": 2520337,
+        "known_for_department": "Writing",
+        "name": "Bayyavarapu Ravi",
+        "original_name": "Bayyavarapu Ravi",
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "5e2c72fa532acb00135285a0",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5e2c7368c56d2d00184ba750",
+        "department": "Writing",
+        "job": "Writers' Assistant"
       },
       {
         "adult": false,
@@ -194,7 +197,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "credit_id": "5e2c735b4ca676001246ad45",
         "department": "Writing",
@@ -203,54 +206,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2520337,
-        "known_for_department": "Writing",
-        "name": "Bayyavarapu Ravi",
-        "original_name": "Bayyavarapu Ravi",
-        "popularity": 0,
+        "id": 2520336,
+        "known_for_department": "Directing",
+        "name": "Sreenivass Redde",
+        "original_name": "Sreenivass Redde",
+        "popularity": 0.2714,
         "profile_path": null,
-        "credit_id": "5e2c7368c56d2d00184ba750",
-        "department": "Writing",
-        "job": "Writers' Assistant"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1729500,
-        "known_for_department": "Art",
-        "name": "Suresh Chinna",
-        "original_name": "Suresh Chinna",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "603217ffbefb0900408f97f6",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1060290,
-        "known_for_department": "Acting",
-        "name": "Krishna Bhagavan",
-        "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
-        "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
-        "credit_id": "603216f71fb94f00418d9e98",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1653926,
-        "known_for_department": "Crew",
-        "name": "Swarna Babu",
-        "original_name": "Swarna Babu",
-        "popularity": 0.067,
-        "profile_path": null,
-        "credit_id": "6032171a7d5f4b0040967f1b",
-        "department": "Crew",
-        "job": "Choreographer"
+        "credit_id": "5e2c72fa532acb00135285a0",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -259,7 +223,7 @@
         "known_for_department": "Camera",
         "name": "Anji Sreenu Yarajala",
         "original_name": "Anji Sreenu Yarajala",
-        "popularity": 0.2529,
+        "popularity": 0.3479,
         "profile_path": null,
         "credit_id": "603218485c32470041dd96cd",
         "department": "Camera",
@@ -268,28 +232,28 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1060290,
+        "known_for_department": "Acting",
+        "name": "Krishna Bhagavan",
+        "original_name": "Krishna Bhagavan",
+        "popularity": 1.5159,
+        "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
+        "credit_id": "603216f71fb94f00418d9e98",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1246544,
         "known_for_department": "Editing",
         "name": "Bikkina Thammiraju",
         "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2198,
+        "popularity": 0.4287,
         "profile_path": null,
         "credit_id": "603218257d5f4b003e96b1c8",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2520336,
-        "known_for_department": "Directing",
-        "name": "Sreenivass Redde",
-        "original_name": "Sreenivass Redde",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6032187b7f6c8d003c115e97",
-        "department": "Writing",
-        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -298,7 +262,7 @@
         "known_for_department": "Sound",
         "name": "Raghu Kunche",
         "original_name": "Raghu Kunche",
-        "popularity": 0.1297,
+        "popularity": 0.4288,
         "profile_path": "/pTZPnDqhe9NSDaPZgIoStucSVd3.jpg",
         "credit_id": "6032185b0a517c0041943274",
         "department": "Sound",
@@ -311,19 +275,52 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.332,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "603217561fb94f00408e383d",
         "department": "Crew",
         "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1653926,
+        "known_for_department": "Crew",
+        "name": "Swarna Babu",
+        "original_name": "Swarna Babu",
+        "popularity": 0.4251,
+        "profile_path": null,
+        "credit_id": "6032171a7d5f4b0040967f1b",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2520336,
+        "known_for_department": "Directing",
+        "name": "Sreenivass Redde",
+        "original_name": "Sreenivass Redde",
+        "popularity": 0.2714,
+        "profile_path": null,
+        "credit_id": "6032187b7f6c8d003c115e97",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1729500,
+        "known_for_department": "Art",
+        "name": "Suresh Chinna",
+        "original_name": "Suresh Chinna",
+        "popularity": 0.2747,
+        "profile_path": null,
+        "credit_id": "603217ffbefb0900408f97f6",
+        "department": "Art",
+        "job": "Production Design"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt10608038",
@@ -331,6 +328,26 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2019-11-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -387,23 +404,6 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 700
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2019-11-22T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

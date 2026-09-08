@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "The Ghost Resort",
   "overview": "",
-  "popularity": 0.0711,
+  "popularity": 0.7472,
   "poster_path": "/wRBRsbI8VQQdWAJbwD95Eq2bVJq.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,6 +37,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -46,8 +49,8 @@
         "id": 1418729,
         "known_for_department": "Directing",
         "name": "Sai Rajesh Neelam",
-        "original_name": "Sai Rajesh Neelam",
-        "popularity": 0.049,
+        "original_name": "సాయి రాజేష్",
+        "popularity": 0.3553,
         "profile_path": null,
         "credit_id": "6105c2614f33ad007ed21f95",
         "department": "Directing",
@@ -59,34 +62,12 @@
         "id": 1418729,
         "known_for_department": "Directing",
         "name": "Sai Rajesh Neelam",
-        "original_name": "Sai Rajesh Neelam",
-        "popularity": 0.049,
+        "original_name": "సాయి రాజేష్",
+        "popularity": 0.3553,
         "profile_path": null,
         "credit_id": "6105c269f96a39005d9647cb",
         "department": "Writing",
         "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 905,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/wRBRsbI8VQQdWAJbwD95Eq2bVJq.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 679
       }
     ]
   },
@@ -96,6 +77,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -116,5 +100,21 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 905,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wRBRsbI8VQQdWAJbwD95Eq2bVJq.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 679
+      }
+    ]
   }
 }

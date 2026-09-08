@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కిరాత‌క‌",
   "overview": "",
-  "popularity": 0.1481,
+  "popularity": 1.6921,
   "poster_path": "/bVLs8s80wdtRauLpNRoqxsI6iEc.jpg",
   "production_companies": [
     {
@@ -49,239 +49,17 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "In Production",
+  "status": "Canceled",
   "tagline": "",
   "title": "Kirathaka",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1180898,
-        "known_for_department": "Acting",
-        "name": "Aadi Saikumar",
-        "original_name": "Aadi Saikumar",
-        "popularity": 0.6657,
-        "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "6177fd80f85958004350fba1",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1321910,
-        "known_for_department": "Acting",
-        "name": "Payal Rajput",
-        "original_name": "Payal Rajput",
-        "popularity": 0.5043,
-        "profile_path": "/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6177fd866e0d7200246d7c20",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1088431,
-        "known_for_department": "Acting",
-        "name": "Poorna",
-        "original_name": "Poorna",
-        "popularity": 1.16,
-        "profile_path": "/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6177fd93924ce600273f78c1",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 122986,
-        "known_for_department": "Acting",
-        "name": "Dev Gill",
-        "original_name": "Dev Gill",
-        "popularity": 0.2247,
-        "profile_path": "/8Ta11Sdp6jCCbBEroTbnzoRxkvw.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "6177fdc36e0d72006359e826",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1954059,
-        "known_for_department": "Acting",
-        "name": "Dasari Arun Kumar",
-        "original_name": "Dasari Arun Kumar",
-        "popularity": 0.1554,
-        "profile_path": "/yxUGS08Jn4KC1IOHdLbTAbdToKd.jpg",
-        "cast_id": 14,
-        "character": "",
-        "credit_id": "617895fccf4b8b0042944325",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3495951,
-        "known_for_department": "Camera",
-        "name": "Raam Reddy",
-        "original_name": "Raam Reddy",
-        "popularity": 0.0686,
-        "profile_path": null,
-        "credit_id": "624de8bbfc5f060067b3d3ad",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181034,
-        "known_for_department": "Directing",
-        "name": "Veerabhadram",
-        "original_name": "Veerabhadram",
-        "popularity": 0.1388,
-        "profile_path": null,
-        "credit_id": "6177fe3bcf4b8b002c0a3549",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181034,
-        "known_for_department": "Directing",
-        "name": "Veerabhadram",
-        "original_name": "Veerabhadram",
-        "popularity": 0.1388,
-        "profile_path": null,
-        "credit_id": "6177fe8ae9da69008f88eb58",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3285359,
-        "known_for_department": "Production",
-        "name": "Thirmal Reddy Yalla",
-        "original_name": "Thirmal Reddy Yalla",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "617807aa71f0950061a59e98",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181034,
-        "known_for_department": "Directing",
-        "name": "Veerabhadram",
-        "original_name": "Veerabhadram",
-        "popularity": 0.1388,
-        "profile_path": null,
-        "credit_id": "6177fe9370b4440043d795d9",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3285357,
-        "known_for_department": "Production",
-        "name": "Nagam Tirupathi Reddy",
-        "original_name": "Nagam Tirupathi Reddy",
-        "popularity": 0.0168,
-        "profile_path": null,
-        "credit_id": "617807099ee0ef002cf19596",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181034,
-        "known_for_department": "Directing",
-        "name": "Veerabhadram",
-        "original_name": "Veerabhadram",
-        "popularity": 0.1388,
-        "profile_path": null,
-        "credit_id": "6177fe9d70b4440093bbf466",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2121281,
-        "known_for_department": "Sound",
-        "name": "Suresh Bobbili",
-        "original_name": "Suresh Bobbili",
-        "popularity": 0.1506,
-        "profile_path": null,
-        "credit_id": "6177fde970b4440065679e47",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2518961,
-        "known_for_department": "Production",
-        "name": "Ram Pedditi",
-        "original_name": "Ram Pedditi",
-        "popularity": 0.0985,
-        "profile_path": null,
-        "credit_id": "6178a0ff5294e7002a43d959",
-        "department": "Production",
-        "job": "Publicist"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kirataka",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Krathaka",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Kiradhaka",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Kiradaka",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Kradhaka",
-        "type": "Alternate"
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": []
@@ -337,6 +115,228 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1338
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kirataka",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Krathaka",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Kiradhaka",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Kiradaka",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Kradhaka",
+        "type": "Alternate"
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180898,
+        "known_for_department": "Acting",
+        "name": "Aadi Saikumar",
+        "original_name": "Aadi Saikumar",
+        "popularity": 1.3584,
+        "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6177fd80f85958004350fba1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321910,
+        "known_for_department": "Acting",
+        "name": "Payal Rajput",
+        "original_name": "Payal Rajput",
+        "popularity": 1.4113,
+        "profile_path": "/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6177fd866e0d7200246d7c20",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088431,
+        "known_for_department": "Acting",
+        "name": "Poorna",
+        "original_name": "Poorna",
+        "popularity": 1.885,
+        "profile_path": "/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6177fd93924ce600273f78c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122986,
+        "known_for_department": "Acting",
+        "name": "Dev Gill",
+        "original_name": "Dev Gill",
+        "popularity": 1.0409,
+        "profile_path": "/8Ta11Sdp6jCCbBEroTbnzoRxkvw.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6177fdc36e0d72006359e826",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1954059,
+        "known_for_department": "Acting",
+        "name": "Dasari Arun Kumar",
+        "original_name": "Dasari Arun Kumar",
+        "popularity": 0.6333,
+        "profile_path": "/yxUGS08Jn4KC1IOHdLbTAbdToKd.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "617895fccf4b8b0042944325",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3495951,
+        "known_for_department": "Camera",
+        "name": "Raam Reddy",
+        "original_name": "Raam Reddy",
+        "popularity": 0.2907,
+        "profile_path": null,
+        "credit_id": "624de8bbfc5f060067b3d3ad",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2121281,
+        "known_for_department": "Sound",
+        "name": "Suresh Bobbili",
+        "original_name": "Suresh Bobbili",
+        "popularity": 0.2767,
+        "profile_path": null,
+        "credit_id": "6177fde970b4440065679e47",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181034,
+        "known_for_department": "Directing",
+        "name": "Veerabhadram",
+        "original_name": "Veerabhadram",
+        "popularity": 0.4368,
+        "profile_path": null,
+        "credit_id": "6177fe3bcf4b8b002c0a3549",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181034,
+        "known_for_department": "Directing",
+        "name": "Veerabhadram",
+        "original_name": "Veerabhadram",
+        "popularity": 0.4368,
+        "profile_path": null,
+        "credit_id": "6177fe8ae9da69008f88eb58",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181034,
+        "known_for_department": "Directing",
+        "name": "Veerabhadram",
+        "original_name": "Veerabhadram",
+        "popularity": 0.4368,
+        "profile_path": null,
+        "credit_id": "6177fe9370b4440043d795d9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181034,
+        "known_for_department": "Directing",
+        "name": "Veerabhadram",
+        "original_name": "Veerabhadram",
+        "popularity": 0.4368,
+        "profile_path": null,
+        "credit_id": "6177fe9d70b4440093bbf466",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3285357,
+        "known_for_department": "Production",
+        "name": "Nagam Tirupathi Reddy",
+        "original_name": "Nagam Tirupathi Reddy",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "617807099ee0ef002cf19596",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3285359,
+        "known_for_department": "Production",
+        "name": "Thirmal Reddy Yalla",
+        "original_name": "Thirmal Reddy Yalla",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "617807aa71f0950061a59e98",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2518961,
+        "known_for_department": "Production",
+        "name": "Ram Pedditi",
+        "original_name": "Ram Pedditi",
+        "popularity": 0.303,
+        "profile_path": null,
+        "credit_id": "6178a0ff5294e7002a43d959",
+        "department": "Production",
+        "job": "Publicist"
       }
     ]
   }

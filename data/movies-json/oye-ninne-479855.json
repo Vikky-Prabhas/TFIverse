@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Oye Ninne",
   "overview": "'Oye Ninne' charts the story of Vishnu, a young man who aspires to be a farmer while his parents want him to aim for something big. He grows up with his cousin Veda, whom he shares a love-hate relationship. For Vishnu, she's that \"annoying cousin\" everyone has in a family; whom your parents love more than you. Vishnu's father believes he's good-for-nothing, but will that change?",
-  "popularity": 0.3551,
+  "popularity": 1.0854,
   "poster_path": "/7jDAI3FdN6OkbIISDdaaShvAC9V.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Bharath Margani",
         "original_name": "Bharath Margani",
-        "popularity": 0.0379,
+        "popularity": 0.3687,
         "profile_path": "/hZaVmuRb1yWYbKx0HuTmuCB0nvI.jpg",
         "cast_id": 0,
         "character": "Vishnu",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Srushti Dange",
         "original_name": "Srushti Dange",
-        "popularity": 0.647,
+        "popularity": 1.5854,
         "profile_path": "/iqhbdBvo3ISF2yDmJ4MnAkz9zyo.jpg",
         "cast_id": 1,
         "character": "Vedha",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Tulasi",
         "original_name": "Tulasi",
-        "popularity": 1.0118,
+        "popularity": 0.9555,
         "profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
         "cast_id": 2,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3638,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 3,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2766,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 4,
         "character": "",
@@ -137,8 +137,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 5,
         "character": "",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 6,
         "character": "",
@@ -163,12 +163,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 1901422,
+        "known_for_department": "Writing",
+        "name": "Satyam Challakoti",
+        "original_name": "Satyam Challakoti",
+        "popularity": 0.3097,
+        "profile_path": null,
+        "credit_id": "59d81b1dc3a368620d017bf0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1901425,
         "known_for_department": "Camera",
         "name": "Sai Sriram",
         "original_name": "Sai Sriram",
-        "popularity": 0.2219,
+        "popularity": 0.3713,
         "profile_path": null,
         "credit_id": "59d81c6092514124cd01b393",
         "department": "Camera",
@@ -181,20 +194,7 @@
         "known_for_department": "Writing",
         "name": "Satyam Challakoti",
         "original_name": "Satyam Challakoti",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "59d81b1dc3a368620d017bf0",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1901422,
-        "known_for_department": "Writing",
-        "name": "Satyam Challakoti",
-        "original_name": "Satyam Challakoti",
-        "popularity": 0.0143,
+        "popularity": 0.3097,
         "profile_path": null,
         "credit_id": "59d81b16c3a368620d017be2",
         "department": "Directing",
@@ -207,7 +207,7 @@
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "59d81c75925141252c01a43b",
         "department": "Editing",
@@ -220,7 +220,7 @@
         "known_for_department": "Sound",
         "name": "Shekar Chandra",
         "original_name": "Shekar Chandra",
-        "popularity": 0.1046,
+        "popularity": 0.3119,
         "profile_path": null,
         "credit_id": "59d81b40c3a368620001b288",
         "department": "Sound",
@@ -228,12 +228,21 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "OYE.. NINNEY Official Theatrical Trailer | Bharath Margani, Srusti Dange | Sekhar Chandra",
+        "key": "fA0lnTxw5lE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "59d81a2ec3a368623e01a369",
+        "published_at": "2017-08-14T06:36:18.000Z"
+      }
+    ]
   },
   "keywords": {
     "keywords": [
@@ -246,6 +255,16 @@
         "name": "family drama"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -318,25 +337,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "OYE.. NINNEY Official Theatrical Trailer | Bharath Margani, Srusti Dange | Sekhar Chandra",
-        "key": "fA0lnTxw5lE",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "59d81a2ec3a368623e01a369",
-        "published_at": "2017-08-14T06:36:18.000Z"
       }
     ]
   }

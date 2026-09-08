@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Nilave",
   "overview": "Nilave traces the journey of Arjun, a lonely and emotionally anxious young man searching for companionship. In a world of fleeting connections, he discovers a magical love and goes to extraordinary lengths to make it eternal.",
-  "popularity": 1.1387,
+  "popularity": 1.9556,
   "poster_path": "/iefNUOpyVGvNOhYwtmBgo1AgRMP.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -50,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Sowmith Poladi",
         "original_name": "Sowmith Poladi",
-        "popularity": 0,
+        "popularity": 0.3423,
         "profile_path": null,
         "cast_id": 1,
         "character": "Arjun",
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Shreyasi Sen",
         "original_name": "Shreyasi Sen",
-        "popularity": 0.0143,
+        "popularity": 0.356,
         "profile_path": null,
         "cast_id": 2,
         "character": "Athidhi",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Harsha Chemudu",
         "original_name": "Viva Harsha",
-        "popularity": 0.4872,
+        "popularity": 1.0162,
         "profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
         "cast_id": 3,
         "character": "Kishore",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Supriya Aysola",
         "original_name": "Supriya Aysola",
-        "popularity": 0.1091,
+        "popularity": 0.3717,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Jeevan Kumar",
         "original_name": "Jeevan Kumar",
-        "popularity": 0.2671,
+        "popularity": 0.9214,
         "profile_path": "/iO0ppgzikOGPss28vUEVX9VkrpD.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Sowmith Poladi",
         "original_name": "Sowmith Poladi",
-        "popularity": 0,
+        "popularity": 0.3423,
         "profile_path": null,
         "credit_id": "699418a3d663a3a9c1850fa1",
         "department": "Directing",
@@ -135,7 +135,7 @@
         "known_for_department": "Directing",
         "name": "Sai K. Vennam",
         "original_name": "Sai K. Vennam",
-        "popularity": 0,
+        "popularity": 0.2995,
         "profile_path": null,
         "credit_id": "699418bc6d6ccf38341afb3c",
         "department": "Directing",
@@ -148,7 +148,7 @@
         "known_for_department": "Production",
         "name": "Raj Allada",
         "original_name": "Raj Allada",
-        "popularity": 0,
+        "popularity": 0.2937,
         "profile_path": null,
         "credit_id": "699418dc19f3c125d42afb33",
         "department": "Production",
@@ -161,7 +161,7 @@
         "known_for_department": "Sound",
         "name": "Kalyan Nayak",
         "original_name": "Kalyan Nayak",
-        "popularity": 0,
+        "popularity": 0.2988,
         "profile_path": null,
         "credit_id": "69941903ceafaf9be5065d9f",
         "department": "Sound",
@@ -192,9 +192,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -211,6 +208,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -248,8 +251,5 @@
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

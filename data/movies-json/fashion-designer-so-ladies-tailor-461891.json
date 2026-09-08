@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Fashion Designer S/O Ladies Tailor",
   "overview": "Gopalam is a small-time tailor who dreams of becoming a fashion designer. In order to make it big, he traps a rich girl in his village. This is also the time when yet another rich girl called Ammulu falls head over heels for Gopalam. Seeing this, he too gets involved in the relationship. But the twist in the tale arises when a rich NRI enters the scene. Once again, Gopalam changes track and traps her somehow. Now, he is stuck between the three girls and rest of the story is as to whom does he end up with at the end.",
-  "popularity": 0.2494,
+  "popularity": 0.6417,
   "poster_path": "/z3KstwmCceLw0qhlnCjXoAx7OEN.jpg",
   "production_companies": [
     {
@@ -59,6 +59,134 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201818,
+        "known_for_department": "Acting",
+        "name": "Sumanth Ashwin",
+        "original_name": "Sumanth Ashwin",
+        "popularity": 0.6441,
+        "profile_path": "/kIFjobwqzSKWYAkwj7OcmKPP3b.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "594351c8c3a3686c0d0195fd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223430,
+        "known_for_department": "Acting",
+        "name": "Anisha Ambrose",
+        "original_name": "Anisha Ambrose",
+        "popularity": 1.0309,
+        "profile_path": "/fDgSKRLoMMMB1YVPl8TDR6imovI.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "594351979251417f9b017280",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972503,
+        "known_for_department": "Acting",
+        "name": "Manali Rathod",
+        "original_name": "Manali Rathod",
+        "popularity": 0.7375,
+        "profile_path": "/b3crDY8sBb8NwnMDmLGt9v7tVZm.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5a94b9580e0a260872000e5f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1378351,
+        "known_for_department": "Acting",
+        "name": "Manasa Himavarsha",
+        "original_name": "Manasa Himavarsha",
+        "popularity": 1.0995,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5a94baf10e0a260872000f93",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060290,
+        "known_for_department": "Acting",
+        "name": "Krishna Bhagavan",
+        "original_name": "Krishna Bhagavan",
+        "popularity": 1.5159,
+        "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "67a4e8888858c8705a66f65b",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "594351e4c3a3686c59018907",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225317,
+        "known_for_department": "Sound",
+        "name": "Mani Sharma",
+        "original_name": "Mani Sharma",
+        "popularity": 0.4997,
+        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+        "credit_id": "5a94ba7d9251413266000e85",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065776,
+        "known_for_department": "Directing",
+        "name": "Madhura Sridhar Reddy",
+        "original_name": "Madhura Sridhar Reddy",
+        "popularity": 0.3261,
+        "profile_path": "/kn1aYeUa1zOoDKc8lNS1aQtsbNr.jpg",
+        "credit_id": "5a94baa0c3a36811fe000e85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "5a94ba730e0a26086c000e7a",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
   "videos": {
     "results": [
       {
@@ -87,6 +215,26 @@
       {
         "id": 9799,
         "name": "romcom"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-06-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -144,154 +292,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-06-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1201818,
-        "known_for_department": "Acting",
-        "name": "Sumanth Ashwin",
-        "original_name": "Sumanth Ashwin",
-        "popularity": 0.1858,
-        "profile_path": "/kIFjobwqzSKWYAkwj7OcmKPP3b.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "594351c8c3a3686c0d0195fd",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1223430,
-        "known_for_department": "Acting",
-        "name": "Anisha Ambrose",
-        "original_name": "Anisha Ambrose",
-        "popularity": 0.176,
-        "profile_path": "/fDgSKRLoMMMB1YVPl8TDR6imovI.jpg",
-        "cast_id": 0,
-        "character": "",
-        "credit_id": "594351979251417f9b017280",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1972503,
-        "known_for_department": "Acting",
-        "name": "Manali Rathod",
-        "original_name": "Manali Rathod",
-        "popularity": 0.1077,
-        "profile_path": "/b3crDY8sBb8NwnMDmLGt9v7tVZm.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5a94b9580e0a260872000e5f",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1378351,
-        "known_for_department": "Acting",
-        "name": "Manasa Himavarsha",
-        "original_name": "Manasa Himavarsha",
-        "popularity": 0.1257,
-        "profile_path": null,
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "5a94baf10e0a260872000f93",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1060290,
-        "known_for_department": "Acting",
-        "name": "Krishna Bhagavan",
-        "original_name": "Krishna Bhagavan",
-        "popularity": 0.2699,
-        "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
-        "cast_id": 8,
-        "character": "",
-        "credit_id": "67a4e8888858c8705a66f65b",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "594351e4c3a3686c59018907",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "5a94ba730e0a26086c000e7a",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 225317,
-        "known_for_department": "Sound",
-        "name": "Mani Sharma",
-        "original_name": "Mani Sharma",
-        "popularity": 0.2979,
-        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
-        "credit_id": "5a94ba7d9251413266000e85",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1065776,
-        "known_for_department": "Directing",
-        "name": "Madhura Sridhar Reddy",
-        "original_name": "Madhura Sridhar Reddy",
-        "popularity": 0.0642,
-        "profile_path": "/kn1aYeUa1zOoDKc8lNS1aQtsbNr.jpg",
-        "credit_id": "5a94baa0c3a36811fe000e85",
-        "department": "Production",
-        "job": "Producer"
       }
     ]
   }

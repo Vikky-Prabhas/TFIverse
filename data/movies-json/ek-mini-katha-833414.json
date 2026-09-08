@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "एक Mini కధ",
   "overview": "Santosh suffers from a psychological problem that causes him to be insecure about his size. Struggling to find a solution, he erases the idea of marriage altogether until he meets Amrutha, with whom he falls in love.",
-  "popularity": 0.5569,
+  "popularity": 0.8423,
   "poster_path": "/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
   "production_companies": [
     {
@@ -54,7 +54,7 @@
   "title": "Ek Mini Katha",
   "video": false,
   "vote_average": 6.5,
-  "vote_count": 7,
+  "vote_count": 9,
   "credits": {
     "cast": [
       {
@@ -62,9 +62,9 @@
         "gender": 2,
         "id": 1662028,
         "known_for_department": "Acting",
-        "name": "Santosh Shoban",
+        "name": "Santosh Soban",
         "original_name": "Santosh Shoban",
-        "popularity": 0.4668,
+        "popularity": 1.0176,
         "profile_path": "/wDyB2jzRlJHtkeevu9IS97m2pAP.jpg",
         "cast_id": 1,
         "character": "Santosh",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Kavya Thapar",
         "original_name": "Kavya Thapar",
-        "popularity": 0.332,
+        "popularity": 0.9177,
         "profile_path": "/7nXGY2dtp7l2DgSWsvlTd9uR0pu.jpg",
         "cast_id": 2,
         "character": "Amrutha",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Shraddha Das",
         "original_name": "Shraddha Das",
-        "popularity": 0.3788,
+        "popularity": 1.8383,
         "profile_path": "/zt3UYBlohKs8arf1JJaahWZUwwb.jpg",
         "cast_id": 3,
         "character": "The Seer",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 4,
         "character": "Ram Mohan",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Nellore Sudharshan",
         "original_name": "Nellore Sudharshan",
-        "popularity": 0.3654,
+        "popularity": 1.1599,
         "profile_path": "/8kpem5ZHfy90DYyYE9QamqrE6eb.jpg",
         "cast_id": 5,
         "character": "Darshan",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.377,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 6,
         "character": "Giri",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 7,
         "character": "Dr. Surya Prakash",
@@ -162,40 +162,41 @@
         "known_for_department": "Acting",
         "name": "Keshav Deepak",
         "original_name": "Keshav Deepak",
-        "popularity": 0.37,
+        "popularity": 0.8462,
         "profile_path": "/3OYTK0bGVkCan44HT70Tz63hNlx.jpg",
         "cast_id": 8,
         "character": "Amrutha's Brother",
         "credit_id": "60ad31431108a80040251722",
         "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215912,
+        "known_for_department": "Acting",
+        "name": "Harsha Vardhan",
+        "original_name": "Harshavardhan",
+        "popularity": 1.3479,
+        "profile_path": "/A6mdUVQBu565oz20DzlxjGUWIZr.jpg",
+        "cast_id": 18,
+        "character": "Dr. G. Satya Kishore",
+        "credit_id": "6a6459b98ff0d1d71823e042",
+        "order": 8
       }
     ],
     "crew": [
       {
         "adult": false,
         "gender": 0,
-        "id": 3103359,
-        "known_for_department": "Directing",
-        "name": "Karthik Rapolu",
-        "original_name": "Karthik Rapolu",
-        "popularity": 0.0143,
+        "id": 3103364,
+        "known_for_department": "Sound",
+        "name": "Pravin Lakkaraju",
+        "original_name": "Pravin Lakkaraju",
+        "popularity": 0.2747,
         "profile_path": null,
-        "credit_id": "60ad31618c44b900412a93a0",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3103361,
-        "known_for_department": "Writing",
-        "name": "Sheik Dawood G.",
-        "original_name": "Sheik Dawood G.",
-        "popularity": 0.176,
-        "profile_path": null,
-        "credit_id": "60ad31a00a517c0056bf098f",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "60ad3210c3926600295bb8c4",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -204,7 +205,7 @@
         "known_for_department": "Directing",
         "name": "Merlapaka Gandhi",
         "original_name": "Merlapaka Gandhi",
-        "popularity": 0.2038,
+        "popularity": 0.7229,
         "profile_path": "/vAaGU9Q7Ca6Fp8fWgJ3IRb4ErsK.jpg",
         "credit_id": "60ad31d707e28100407e2f93",
         "department": "Writing",
@@ -213,15 +214,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3103364,
-        "known_for_department": "Sound",
-        "name": "Pravin Lakkaraju",
-        "original_name": "Pravin Lakkaraju",
-        "popularity": 0.0143,
+        "id": 3103361,
+        "known_for_department": "Writing",
+        "name": "Sheik Dawood G.",
+        "original_name": "Sheik Dawood G.",
+        "popularity": 0.4934,
         "profile_path": null,
-        "credit_id": "60ad3210c3926600295bb8c4",
-        "department": "Sound",
-        "job": "Music"
+        "credit_id": "60ad31a00a517c0056bf098f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3103359,
+        "known_for_department": "Directing",
+        "name": "Karthik Rapolu",
+        "original_name": "Karthik Rapolu",
+        "popularity": 0.2976,
+        "profile_path": null,
+        "credit_id": "60ad31618c44b900412a93a0",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -230,7 +244,7 @@
         "known_for_department": "Editing",
         "name": "Satya Giduturi",
         "original_name": "Satya Giduturi",
-        "popularity": 0.1005,
+        "popularity": 0.3051,
         "profile_path": null,
         "credit_id": "60ad3234297338002af01f08",
         "department": "Editing",
@@ -243,7 +257,7 @@
         "known_for_department": "Camera",
         "name": "Gokul Bharathi",
         "original_name": "Gokul Bharathi",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "640af706326ec100e7c258e0",
         "department": "Camera",
@@ -256,7 +270,7 @@
         "known_for_department": "Production",
         "name": "Pramod Uppalapati",
         "original_name": "Pramod Uppalapati",
-        "popularity": 0.0802,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "67db86528af452f30fe9da8a",
         "department": "Production",
@@ -269,13 +283,20 @@
         "known_for_department": "Production",
         "name": "Vamsi Krishna Reddy",
         "original_name": "Vamsi Krishna Reddy",
-        "popularity": 0.0516,
+        "popularity": 0.2769,
         "profile_path": null,
         "credit_id": "67db8661186eca57b2e7970e",
         "department": "Production",
         "job": "Producer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt14252742",
+    "wikidata_id": "Q107006604",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -295,13 +316,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt14252742",
-    "wikidata_id": "Q107006604",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -343,20 +357,6 @@
             "type": 4
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "CN",
-        "title": "小故事",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Ek Mini Katha",
-        "type": "romanization"
       }
     ]
   },
@@ -454,6 +454,20 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1200
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "小故事",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Ek Mini Katha",
+        "type": "romanization"
       }
     ]
   }

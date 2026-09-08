@@ -26,10 +26,15 @@
   "original_language": "te",
   "original_title": "సన్ ఆఫ్",
   "overview": "An entitled son sues his father for neglecting his duties. The father's powerful response sparks a courtroom battle that teaches the son about responsibility, love, and family.",
-  "popularity": 0.1922,
+  "popularity": 0.7211,
   "poster_path": "/fQGZgfMgSc2x2h2sKlh5KEPQh7b.jpg",
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2026-02-27",
   "revenue": 0,
   "runtime": 120,
@@ -56,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Vinod Kumar",
         "original_name": "Vinod Kumar",
-        "popularity": 0.1835,
+        "popularity": 0.6566,
         "profile_path": "/72Sz1EH0Me4MIG7qbvQFsxU6oDA.jpg",
         "cast_id": 4,
         "character": "",
@@ -70,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Meera Raaj",
         "original_name": "Meera Raaj",
-        "popularity": 0.0362,
+        "popularity": 0.3299,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -84,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Inturi Vasu",
         "original_name": "Inturi Vasu",
-        "popularity": 0.3976,
+        "popularity": 0.6001,
         "profile_path": "/8CHxyVCgrciY7Nxxd8g37rZQ5iA.jpg",
         "cast_id": 3,
         "character": "",
@@ -98,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Sai Simhadri",
         "original_name": "Sai Simhadri",
-        "popularity": 0.0495,
+        "popularity": 0.2697,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -114,7 +119,7 @@
         "known_for_department": "Directing",
         "name": "Bathala Sateesh",
         "original_name": "Bathala Sateesh",
-        "popularity": 0.0758,
+        "popularity": 0.3346,
         "profile_path": null,
         "credit_id": "69eb171634832165fedc759d",
         "department": "Directing",
@@ -127,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Sai Simhadri",
         "original_name": "Sai Simhadri",
-        "popularity": 0.0495,
+        "popularity": 0.2697,
         "profile_path": null,
         "credit_id": "69eb17237f23b69a4717c6d1",
         "department": "Production",
@@ -135,15 +140,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt39313274",
     "wikidata_id": "Q138562396",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -166,15 +171,12 @@
             "descriptors": [],
             "iso_639_1": "te",
             "note": "",
-            "release_date": "2026-04-13T00:00:00.000Z",
+            "release_date": "2026-05-01T00:00:00.000Z",
             "type": 4
           }
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -212,5 +214,8 @@
         "width": 1067
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

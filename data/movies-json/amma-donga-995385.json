@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అమ్మ దొంగా!",
   "overview": "Chakri is framed in multiple murder cases and sent to jail. On release from prison, he heads to the village to bring to book the real culprits.",
-  "popularity": 0.3193,
+  "popularity": 0.8066,
   "poster_path": "/r4LdHBx9z7f8l31ytqLFcBzZIOg.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,16 +48,6 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0305209",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -67,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "Chakradhar",
@@ -81,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 2,
         "character": "Padmapriya",
@@ -95,8 +85,8 @@
         "known_for_department": "Acting",
         "name": "Aamani",
         "original_name": "Aamani",
-        "popularity": 0.5489,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
         "cast_id": 3,
         "character": "Alivelu",
         "credit_id": "62c1dfbde54d5d0059c17901",
@@ -109,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Indraja",
         "original_name": "Indraja",
-        "popularity": 0.4271,
+        "popularity": 1.4897,
         "profile_path": "/p9MJgtbY0N32nI2ugjBPDpIsqRi.jpg",
         "cast_id": 4,
         "character": "Mohana Kalyani",
@@ -122,9 +112,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 5,
         "character": "Kotayya",
         "credit_id": "62c1dfd628723c1705a46c8b",
@@ -137,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Rao",
         "original_name": "Mallikarjuna Rao",
-        "popularity": 0.4229,
+        "popularity": 1.233,
         "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
         "cast_id": 6,
         "character": "Balaraju",
@@ -151,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 7,
         "character": "Sattipandu",
@@ -164,8 +154,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -179,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.5623,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 13,
         "character": "",
@@ -193,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.4317,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 14,
         "character": "",
@@ -204,51 +194,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 2151672,
-        "known_for_department": "Camera",
-        "name": "V Srinivasa Reddy",
-        "original_name": "V Srinivasa Reddy",
-        "popularity": 0.0327,
-        "profile_path": null,
-        "credit_id": "62c1e03ddd47e1005b427f30",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 552984,
-        "known_for_department": "Sound",
-        "name": "Saluri Koteswara Rao",
-        "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
-        "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
-        "credit_id": "62c1e073924ce6129b5b196c",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1106924,
-        "known_for_department": "Editing",
-        "name": "Gautham Raju",
-        "original_name": "Gautham Raju",
-        "popularity": 0.1828,
-        "profile_path": null,
-        "credit_id": "62c1e06363d713026db64fd2",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 3610556,
         "known_for_department": "Directing",
         "name": "Sagar",
         "original_name": "Sagar",
-        "popularity": 0.0535,
+        "popularity": 0.5517,
         "profile_path": null,
         "credit_id": "62c1e00b28723c1704a8c5df",
         "department": "Directing",
@@ -257,11 +208,50 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2151672,
+        "known_for_department": "Camera",
+        "name": "V Srinivasa Reddy",
+        "original_name": "V Srinivasa Reddy",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "62c1e03ddd47e1005b427f30",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106924,
+        "known_for_department": "Editing",
+        "name": "Gautham Raju",
+        "original_name": "Gautham Raju",
+        "popularity": 0.4474,
+        "profile_path": null,
+        "credit_id": "62c1e06363d713026db64fd2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552984,
+        "known_for_department": "Sound",
+        "name": "Saluri Koteswara Rao",
+        "original_name": "Saluri Koteswara Rao",
+        "popularity": 0.5667,
+        "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
+        "credit_id": "62c1e073924ce6129b5b196c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2610852,
         "known_for_department": "Writing",
         "name": "G. Satyamurthy",
         "original_name": "G. Satyamurthy",
-        "popularity": 0.0214,
+        "popularity": 0.3553,
         "profile_path": null,
         "credit_id": "6946a6e7d9df55c1f08eb314",
         "department": "Writing",
@@ -274,7 +264,7 @@
         "known_for_department": "Sound",
         "name": "Mano",
         "original_name": "Mano",
-        "popularity": 0.2528,
+        "popularity": 0.8341,
         "profile_path": "/rt9kMuvBFD609qmBIetrpd8pVHT.jpg",
         "credit_id": "6946a7164e760029912fb9b5",
         "department": "Sound",
@@ -287,7 +277,7 @@
         "known_for_department": "Sound",
         "name": "K. S. Chithra",
         "original_name": "K. S. Chithra",
-        "popularity": 0.1883,
+        "popularity": 0.413,
         "profile_path": "/qutkAK4SPBY07n0cBSlS0PuVVNd.jpg",
         "credit_id": "6946a71e6d365600fafb0c92",
         "department": "Sound",
@@ -300,8 +290,8 @@
         "known_for_department": "Sound",
         "name": "S.P. Sailaja",
         "original_name": "S.P. Sailaja",
-        "popularity": 0.1659,
-        "profile_path": null,
+        "popularity": 0.502,
+        "profile_path": "/saFBDylbonCq0d6YhPo5fOEtc3J.jpg",
         "credit_id": "6946a728244c5cf7e1154bab",
         "department": "Sound",
         "job": "Playback Singer"
@@ -312,8 +302,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "6946a7307adf357b4e154d31",
         "department": "Sound",
@@ -326,7 +316,7 @@
         "known_for_department": "Sound",
         "name": "Swarnalatha",
         "original_name": "Swarnalatha",
-        "popularity": 0.0928,
+        "popularity": 0.4706,
         "profile_path": "/xZB2Q0gkxhb7t2qwp3ygxXevcHI.jpg",
         "credit_id": "6946a739a8960a1909072bf9",
         "department": "Sound",
@@ -334,21 +324,15 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.666,
-        "height": 1300,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/r4LdHBx9z7f8l31ytqLFcBzZIOg.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 866
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt0305209",
+    "wikidata_id": "Q15688972",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -369,6 +353,22 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1300,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/r4LdHBx9z7f8l31ytqLFcBzZIOg.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 866
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

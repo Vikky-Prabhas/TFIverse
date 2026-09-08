@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "నాగాస్త్రం",
   "overview": "",
-  "popularity": 0.2836,
+  "popularity": 0.8281,
   "poster_path": null,
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 3,
         "character": "",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 4,
         "character": "",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 5,
         "character": "",
@@ -96,9 +96,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "695f84e098feea7f3c39053d",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.4174,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 7,
         "character": "",
@@ -125,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Sri Latha",
         "original_name": "Sri Latha",
-        "popularity": 0.0214,
+        "popularity": 0.4967,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -139,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Peketi Sivaram",
         "original_name": "Peketi Sivaram",
-        "popularity": 0.1136,
+        "popularity": 0.704,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -153,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Rajasulochana",
         "original_name": "Raja Sulokshana",
-        "popularity": 0.1689,
+        "popularity": 0.8248,
         "profile_path": "/gmx5fbiJUgOmV9830dl6KWYbFdP.jpg",
         "cast_id": 10,
         "character": "",
@@ -169,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "credit_id": "695f845951860fc4f0276a48",
         "department": "Directing",
@@ -182,7 +182,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "695f84773b9c3d2018383d64",
         "department": "Sound",
@@ -190,8 +190,26 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0234310",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -209,23 +227,5 @@
         ]
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0234310",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

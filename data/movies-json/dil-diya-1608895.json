@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "దిల్ దియా",
   "overview": "",
-  "popularity": 0.0379,
+  "popularity": 0.5232,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,27 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -73,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Chaitanya Rao",
         "original_name": "Chaitanya Rao",
-        "popularity": 0.1796,
+        "popularity": 0.4914,
         "profile_path": "/sYpgQuCCLhRo3Ix96Umo2XqG2av.jpg",
         "cast_id": 1,
         "character": "",
@@ -87,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Ira Dayanand",
         "original_name": "Ira Dayanand",
-        "popularity": 0.0239,
+        "popularity": 0.5123,
         "profile_path": "/5Pi4c0lxSny7nWHqRjKVlYlSJlf.jpg",
         "cast_id": 2,
         "character": "",
@@ -101,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Sakhee Roy",
         "original_name": "Sakhee Roy",
-        "popularity": 0,
+        "popularity": 0.3235,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -115,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Jessie",
         "original_name": "Jessie",
-        "popularity": 0.0071,
+        "popularity": 0.3159,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -131,7 +110,7 @@
         "known_for_department": "Directing",
         "name": "Kranthi Madhav",
         "original_name": "Kranthi Madhav",
-        "popularity": 0.124,
+        "popularity": 0.5469,
         "profile_path": null,
         "credit_id": "6958c20ed81c52dae1c397fb",
         "department": "Writing",
@@ -144,7 +123,7 @@
         "known_for_department": "Directing",
         "name": "Kranthi Madhav",
         "original_name": "Kranthi Madhav",
-        "popularity": 0.124,
+        "popularity": 0.5469,
         "profile_path": null,
         "credit_id": "6958c21bde508858c9cbf0a5",
         "department": "Directing",
@@ -157,7 +136,7 @@
         "known_for_department": "Camera",
         "name": "P. G. Vinda",
         "original_name": "P. G. Vinda",
-        "popularity": 0.0899,
+        "popularity": 0.3657,
         "profile_path": null,
         "credit_id": "6958c236d257e773157c74b0",
         "department": "Camera",
@@ -170,7 +149,7 @@
         "known_for_department": "Sound",
         "name": "Phani Kalyan",
         "original_name": "Phani Kalyan",
-        "popularity": 0.0143,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6958c26448bf45ec71d799ec",
         "department": "Sound",
@@ -183,7 +162,7 @@
         "known_for_department": "Production",
         "name": "Poorna Naidu",
         "original_name": "Poorna Naidu",
-        "popularity": 0,
+        "popularity": 0.2913,
         "profile_path": null,
         "credit_id": "6958c288e09c4abf8dcc8fa3",
         "department": "Production",
@@ -196,7 +175,7 @@
         "known_for_department": "Production",
         "name": "Srikanth V",
         "original_name": "Srikanth V",
-        "popularity": 0,
+        "popularity": 0.2934,
         "profile_path": null,
         "credit_id": "6958c2a7e09c4abf8dcc8fb0",
         "department": "Production",
@@ -206,5 +185,26 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   }
 }

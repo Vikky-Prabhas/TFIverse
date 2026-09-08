@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "F-minor",
   "overview": "A surreal journey to the divine unknown, through barren landscapes, where every F-minor strum is a step closer to the end, except when it isn’t.",
-  "popularity": 0.0071,
+  "popularity": 0.9719,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -44,7 +44,7 @@
         "known_for_department": "Writing",
         "name": "Nikhil Punyala",
         "original_name": "Nikhil Punyala",
-        "popularity": 0,
+        "popularity": 0.3371,
         "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
         "credit_id": "686c5db4919517ace9a965bc",
         "department": "Directing",
@@ -57,13 +57,19 @@
         "known_for_department": "Writing",
         "name": "Nikhil Punyala",
         "original_name": "Nikhil Punyala",
-        "popularity": 0,
+        "popularity": 0.3371,
         "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
         "credit_id": "686c5dc48de47e8a7e70327d",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -72,21 +78,15 @@
     "instagram_id": null,
     "twitter_id": "@makeamovieprod"
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
-    "results": []
-  },
-  "release_dates": {
     "results": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

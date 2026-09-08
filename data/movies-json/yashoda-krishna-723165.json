@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "యశోద కృష్ణ",
   "overview": "Chronicles the birth and childhood of Krishna, who is prophesied to be the death of his tyrannical uncle Kans. Also tells the story of Krishna's subsequent rebirth as Srinivas during which he is reunited with his foster mother Yashoda.",
-  "popularity": 0.3025,
+  "popularity": 1.6204,
   "poster_path": "/mdH5ywgBk4uaOnjNLmo6Gt5TFpk.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.2838,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 1,
         "character": "Kamsa",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Jamuna",
         "original_name": "Jamuna",
-        "popularity": 0.1634,
+        "popularity": 0.913,
         "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
         "cast_id": 2,
         "character": "Yashoda",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 3,
         "character": "Krishna (child)",
@@ -85,12 +85,26 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 4,
         "character": "Nand",
         "credit_id": "5f076cc1126ec3003532e55c",
         "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356414,
+        "known_for_department": "Acting",
+        "name": "Mikkilineni",
+        "original_name": "Mikkilineni",
+        "popularity": 1.1035,
+        "profile_path": "/hixximPs8FRe2pHlBjqyi01ZwyY.jpg",
+        "cast_id": 6,
+        "character": "Ugrasena",
+        "credit_id": "6a986476e9fbac84bf1deebc",
+        "order": 4
       }
     ],
     "crew": [
@@ -101,20 +115,39 @@
         "known_for_department": "Directing",
         "name": "Chittajallu Srinivasa Rao",
         "original_name": "Chittajallu Srinivasa Rao",
-        "popularity": 0.1118,
+        "popularity": 0.5581,
         "profile_path": null,
         "credit_id": "5f076d2e1d1bf400386677bd",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1930492,
+        "known_for_department": "Writing",
+        "name": "Arudra",
+        "original_name": "Arudra",
+        "popularity": 0.4445,
+        "profile_path": null,
+        "credit_id": "6a986481e481bcdc3ce61103",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139301,
+        "known_for_department": "Sound",
+        "name": "Saluri Rajeswara Rao",
+        "original_name": "Saluri Rajeswara Rao",
+        "popularity": 0.302,
+        "profile_path": "/9qsMNtwJ24NSFEpGnxojcu9pT0z.jpg",
+        "credit_id": "6a9864949bebd2f1cd25b744",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt3963562",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -133,14 +166,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt3963562",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],

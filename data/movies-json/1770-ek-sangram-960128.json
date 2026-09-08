@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 960128,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "1770: Ek Sangram",
+  "overview": "Based on Bankim Chandra Chattopadhyay's iconic Bengali novel \"Anandamath\". Set in 1770, against the backdrop of the Sannyasi Rebellion when a brotherhood of monks banded together to fight the ruling British East India Company.",
+  "popularity": 0.8313,
+  "poster_path": "/3eviA2YpcrCBe3pE4STtFvIt9VH.jpg",
+  "production_companies": [
+    {
+      "id": 164943,
+      "logo_path": null,
+      "name": "PK Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 180799,
+      "logo_path": null,
+      "name": "SS1 Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "title": "1770: Ek Sangram",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147022,
+        "known_for_department": "Writing",
+        "name": "Vijayendra Prasad",
+        "original_name": "వి. విజయేంద్ర ప్రసాద్",
+        "popularity": 2.1807,
+        "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
+        "credit_id": "69fe07fd90027c64b3a5ebb4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1754152,
+        "known_for_department": "Directing",
+        "name": "Ashwin Gangaraju",
+        "original_name": "Ashwin Gangaraju",
+        "popularity": 0.429,
+        "profile_path": null,
+        "credit_id": "69fe08599c941c2b97a5eb88",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1145700,
+        "known_for_department": "Writing",
+        "name": "Bankim Chandra Chattopadhyay",
+        "original_name": "Bankim Chandra Chattopadhyay",
+        "popularity": 0.4997,
+        "profile_path": "/jKbjbw3iSOmotRMYRzXDabREWKn.jpg",
+        "credit_id": "69fe0b2b9bfffcd907a5eb93",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "१७७० - एक संग्राम",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "1770 - Ek Sangram",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "The Abbey of Bliss",
+        "type": "Novel's English title"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 960,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3eviA2YpcrCBe3pE4STtFvIt9VH.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 640
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 960,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ms7QoHdCgQnZFRpe41YDkrjaJ2k.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 679
+      }
+    ]
+  },
+  "release_dates": {
+    "results": []
+  }
+}

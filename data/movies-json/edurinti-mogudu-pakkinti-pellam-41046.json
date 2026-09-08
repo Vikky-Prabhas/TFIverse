@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Edurinti Mogudu Pakkinti Pellam",
   "overview": "Edurinti Mogudu Pakkinti Pellam",
-  "popularity": 0.2243,
+  "popularity": 0.6854,
   "poster_path": "/frPGMd2neZ8dMq1uhda2OmhfHjl.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -36,8 +36,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Divyavani",
         "original_name": "Divyavani",
-        "popularity": 0.0898,
+        "popularity": 0.5142,
         "profile_path": "/62R2DPsFIRqivkg3yZrvrqJI573.jpg",
         "cast_id": 2,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "62c771fa58361b004d2bf794",
         "department": "Directing",
@@ -80,7 +80,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "62c77223f74f5f0055c90d2a",
         "department": "Writing",
@@ -111,13 +111,6 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0268279",
-    "wikidata_id": "Q5341336",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "images": {
     "backdrops": [
       {
@@ -144,6 +137,13 @@
         "width": 1000
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0268279",
+    "wikidata_id": "Q5341336",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

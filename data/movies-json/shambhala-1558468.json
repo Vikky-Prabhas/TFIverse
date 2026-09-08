@@ -26,9 +26,16 @@
   "original_language": "te",
   "original_title": "శంభాలా",
   "overview": "When a meteor crashes into the highly superstitious village of Shambhala in the 1980s, strange supernatural events unfold, forcing an atheist scientist to face an ancient horror-one that science can't explain or escape.",
-  "popularity": 0.95,
+  "popularity": 2.4384,
   "poster_path": "/toCKv7aKlAzYh0vyrrBZjuWGIMD.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 298343,
+      "logo_path": null,
+      "name": "Shining Pictures",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
@@ -51,7 +58,10 @@
   "title": "Shambhala",
   "video": false,
   "vote_average": 6,
-  "vote_count": 4,
+  "vote_count": 5,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Aadi Saikumar",
         "original_name": "Aadi Saikumar",
-        "popularity": 0.5775,
+        "popularity": 1.3584,
         "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
         "cast_id": 1,
         "character": "Vikram",
@@ -75,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Archana Iyer",
         "original_name": "Archana Iyer",
-        "popularity": 0.0777,
+        "popularity": 0.6235,
         "profile_path": null,
         "cast_id": 2,
         "character": "Devi",
@@ -89,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Swasika",
         "original_name": "Swasika",
-        "popularity": 0.8233,
+        "popularity": 1.9445,
         "profile_path": "/7LWxyKwGH5S1ZwEEjlbBcDUJKk8.jpg",
         "cast_id": 3,
         "character": "Vasathatha",
@@ -103,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Madhunandan",
         "original_name": "Madhunandan",
-        "popularity": 0.1418,
+        "popularity": 0.9019,
         "profile_path": "/mgdaJCVzD5XczMcYQj9xpFbKiiJ.jpg",
         "cast_id": 4,
         "character": "Hanumanthu",
@@ -113,16 +123,44 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2198086,
+        "id": 1640551,
         "known_for_department": "Acting",
-        "name": "Laxman Meesala",
-        "original_name": "Laxman Meesala",
-        "popularity": 0.2398,
-        "profile_path": "/yLEZn4c6ytyZT4kMjvWPuxQzQ4c.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "68e4afb311b7f30f5fc27be1",
+        "name": "Ravi Varma",
+        "original_name": "Ravi Varma",
+        "popularity": 0.9523,
+        "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
+        "cast_id": 26,
+        "character": "Ramulu",
+        "credit_id": "68e4b167ae3109d78725b9a1",
         "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584746,
+        "known_for_department": "Acting",
+        "name": "Ramaraju",
+        "original_name": "Pithamagan Mahadevan",
+        "popularity": 1.3883,
+        "profile_path": "/6972iELEYgfRhYDe2fkDsEpF1At.jpg",
+        "cast_id": 27,
+        "character": "Priest",
+        "credit_id": "6a731724b69ad803c79cbfec",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332986,
+        "known_for_department": "Acting",
+        "name": "Shiju",
+        "original_name": "Shiju",
+        "popularity": 1.6122,
+        "profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
+        "cast_id": 28,
+        "character": "Village President",
+        "credit_id": "6a73175cca6740d41fc27cca",
+        "order": 6
       },
       {
         "adult": false,
@@ -131,26 +169,40 @@
         "known_for_department": "Acting",
         "name": "Harsha Vardhan",
         "original_name": "Harshavardhan",
-        "popularity": 0.7969,
+        "popularity": 1.3479,
         "profile_path": "/A6mdUVQBu565oz20DzlxjGUWIZr.jpg",
         "cast_id": 6,
         "character": "Dr Chankravarty",
         "credit_id": "68e4afc91929867d5e61811e",
-        "order": 5
+        "order": 7
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 4061146,
+        "gender": 1,
+        "id": 1107228,
         "known_for_department": "Acting",
-        "name": "Shiva Karthik",
-        "original_name": "Shiva Karthik",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "cast_id": 7,
+        "name": "Annapoorna",
+        "original_name": "Annapoorna",
+        "popularity": 1.6302,
+        "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
+        "cast_id": 29,
+        "character": "Ramulu's mother",
+        "credit_id": "6a73189eb4e630ba37c27d24",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198086,
+        "known_for_department": "Acting",
+        "name": "Laxman Meesala",
+        "original_name": "Laxman Meesala",
+        "popularity": 0.9015,
+        "profile_path": "/yLEZn4c6ytyZT4kMjvWPuxQzQ4c.jpg",
+        "cast_id": 5,
         "character": "",
-        "credit_id": "68e4afd338c2341da66180dc",
-        "order": 6
+        "credit_id": "68e4afb311b7f30f5fc27be1",
+        "order": 9
       },
       {
         "adult": false,
@@ -159,12 +211,26 @@
         "known_for_department": "Acting",
         "name": "Indraaniel",
         "original_name": "Indraaniel",
-        "popularity": 0.0214,
+        "popularity": 0.2645,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
         "credit_id": "68e4afdd92c910b20cf81fec",
-        "order": 7
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638475,
+        "known_for_department": "Acting",
+        "name": "Praveen",
+        "original_name": "Praveen",
+        "popularity": 1.3924,
+        "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
+        "cast_id": 30,
+        "character": "Cab driver",
+        "credit_id": "6a7318d805153216299cbf49",
+        "order": 11
       },
       {
         "adult": false,
@@ -173,12 +239,26 @@
         "known_for_department": "Acting",
         "name": "Mamilla Shailaja Priya",
         "original_name": "Mamilla Shailaja Priya",
-        "popularity": 0.3378,
+        "popularity": 1.238,
         "profile_path": "/Ae9I3yBoUZusGlJiFIKZtQFZyFz.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "68e4afe836ab2141bc618185",
-        "order": 8
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4061146,
+        "known_for_department": "Acting",
+        "name": "Shiva Karthik",
+        "original_name": "Shiva Karthik",
+        "popularity": 0.3501,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "68e4afd338c2341da66180dc",
+        "order": 13
       },
       {
         "adult": false,
@@ -187,12 +267,12 @@
         "known_for_department": "Acting",
         "name": "Rangadham",
         "original_name": "Rangadham",
-        "popularity": 0.0827,
+        "popularity": 0.4025,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
         "credit_id": "68e4b00a38c2341da66180fe",
-        "order": 9
+        "order": 14
       },
       {
         "adult": false,
@@ -201,26 +281,12 @@
         "known_for_department": "Acting",
         "name": "Sravana Sandhya",
         "original_name": "Sravana Sandhya",
-        "popularity": 0.0071,
+        "popularity": 0.2799,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
         "credit_id": "68e4b013a226627acf25bbc2",
-        "order": 10
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1640551,
-        "known_for_department": "Acting",
-        "name": "Ravi Varma",
-        "original_name": "Ravi Varma",
-        "popularity": 0.2183,
-        "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
-        "cast_id": 26,
-        "character": "Krishna",
-        "credit_id": "68e4b167ae3109d78725b9a1",
-        "order": 11
+        "order": 15
       }
     ],
     "crew": [
@@ -231,7 +297,7 @@
         "known_for_department": "Sound",
         "name": "Sricharan Pakala",
         "original_name": "Sricharan Pakala",
-        "popularity": 0.138,
+        "popularity": 0.3297,
         "profile_path": null,
         "credit_id": "68e4b02104adf86838f82181",
         "department": "Sound",
@@ -244,7 +310,7 @@
         "known_for_department": "Crew",
         "name": "Praveen K. Bangari",
         "original_name": "Praveen K. Bangari",
-        "popularity": 0,
+        "popularity": 0.2929,
         "profile_path": null,
         "credit_id": "68e4b02c801bd820ae25bc92",
         "department": "Camera",
@@ -257,7 +323,7 @@
         "known_for_department": "Editing",
         "name": "Shravan Katikaneni",
         "original_name": "Shravan Katikaneni",
-        "popularity": 0.0286,
+        "popularity": 0.4192,
         "profile_path": null,
         "credit_id": "68e4b03676040052a9c22de5",
         "department": "Editing",
@@ -270,7 +336,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Ayesha Mariam",
         "original_name": "Ayesha Mariam",
-        "popularity": 0.121,
+        "popularity": 0.301,
         "profile_path": "/nc0xGmNyh52TB8vSO0RM3J4s4kt.jpg",
         "credit_id": "68e4b04cea688682eb25b9b5",
         "department": "Costume & Make-Up",
@@ -283,7 +349,7 @@
         "known_for_department": "Sound",
         "name": "Sankaran",
         "original_name": "Sankaran",
-        "popularity": 0.1091,
+        "popularity": 0.3229,
         "profile_path": null,
         "credit_id": "68e4b063c7094f6d9336ecb7",
         "department": "Sound",
@@ -296,7 +362,7 @@
         "known_for_department": "Sound",
         "name": "KC Siddharthan",
         "original_name": "KC Siddharthan",
-        "popularity": 0.0336,
+        "popularity": 0.3005,
         "profile_path": null,
         "credit_id": "68e4b07514ba9edbf836efa0",
         "department": "Sound",
@@ -309,7 +375,7 @@
         "known_for_department": "Directing",
         "name": "Ugandhar Muni",
         "original_name": "Ugandhar Muni",
-        "popularity": 0.0387,
+        "popularity": 0.4592,
         "profile_path": null,
         "credit_id": "68e4b08fcd372a4cddc22e5c",
         "department": "Directing",
@@ -322,7 +388,7 @@
         "known_for_department": "Directing",
         "name": "Ugandhar Muni",
         "original_name": "Ugandhar Muni",
-        "popularity": 0.0387,
+        "popularity": 0.4592,
         "profile_path": null,
         "credit_id": "68e4b094d8ba59c74ec22e84",
         "department": "Writing",
@@ -335,7 +401,7 @@
         "known_for_department": "Production",
         "name": "Mahidhar Reddy",
         "original_name": "Mahidhar Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2591,
         "profile_path": null,
         "credit_id": "68e4b09f63495a4bb8961d55",
         "department": "Production",
@@ -343,12 +409,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 5734933,
         "known_for_department": "Production",
-        "name": "Rajasekhar Annabhimoj",
-        "original_name": "Rajasekhar Annabhimoj",
-        "popularity": 0,
+        "name": "Rajasekhar Annabhimoju",
+        "original_name": "Rajasekhar Annabhimoju",
+        "popularity": 0.2975,
         "profile_path": null,
         "credit_id": "68e4b0b028db88a8ea961e10",
         "department": "Production",
@@ -361,7 +427,7 @@
         "known_for_department": "Art",
         "name": "J K Murthy",
         "original_name": "J K Murthy",
-        "popularity": 0.0664,
+        "popularity": 0.3435,
         "profile_path": null,
         "credit_id": "68e4b0bad0e20259c636ecac",
         "department": "Art",
@@ -374,7 +440,7 @@
         "known_for_department": "Sound",
         "name": "Vishnu Sujathan",
         "original_name": "Vishnu Sujathan",
-        "popularity": 0.1494,
+        "popularity": 0.4706,
         "profile_path": null,
         "credit_id": "68e4b0c9c3bb14332a36eff8",
         "department": "Sound",
@@ -387,7 +453,7 @@
         "known_for_department": "Production",
         "name": "JV Ramarao",
         "original_name": "JV Ramarao",
-        "popularity": 0,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "68e4b0dd7ed9c6f53e25bdf8",
         "department": "Production",
@@ -398,9 +464,9 @@
         "gender": 2,
         "id": 3311360,
         "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
+        "name": "Sai Satish",
         "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1184,
+        "popularity": 0.4145,
         "profile_path": null,
         "credit_id": "68e4b0f085d1084cb7c27d38",
         "department": "Crew",
@@ -408,8 +474,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt34159694",
@@ -417,9 +483,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -435,6 +498,20 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Shambala",
+        "type": "alternate spelling"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Aadi Shambala",
+        "type": "Alternate Name"
       }
     ]
   },
@@ -583,20 +660,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Shambala",
-        "type": "alternate spelling"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Aadi Shambala",
-        "type": "Alternate Name"
       }
     ]
   }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "కథనం",
   "overview": "Anu is a filmmaker looking for that big break in the film industry. But what happens when she realises that everyone from the script she has written keeps dying?",
-  "popularity": 0.1859,
+  "popularity": 1.4671,
   "poster_path": "/60dNdT7a4DnGLw29wTbpavhVhtv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,13 @@
   "video": false,
   "vote_average": 2,
   "vote_count": 2,
+  "external_ids": {
+    "imdb_id": "tt10834046",
+    "wikidata_id": "Q77893742",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -43,8 +50,8 @@
         "known_for_department": "Acting",
         "name": "Anasuya Bharadwaj",
         "original_name": "Anasuya Bharadwaj",
-        "popularity": 1.0685,
-        "profile_path": "/adfyR0yHuTdj3sMiJQNDtBBXz9Q.jpg",
+        "popularity": 1.9986,
+        "profile_path": "/cZMxb2I5XZHVrRG9RrpbffFxTuZ.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "5d4913c2028f140014013041",
@@ -57,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 2,
         "character": "",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.2457,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Randhir Gatla",
         "original_name": "Randhir Gatla",
-        "popularity": 0.1153,
+        "popularity": 0.4556,
         "profile_path": "/8P98Lb7olC38roppGpSNO6sN0pr.jpg",
         "cast_id": 5,
         "character": "",
@@ -113,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Mukhtar Khan",
         "original_name": "Mukhtar Khan",
-        "popularity": 0.2859,
+        "popularity": 0.9043,
         "profile_path": "/etbXzuRuQmmNryLcKFENnHo8itz.jpg",
         "cast_id": 19,
         "character": "",
@@ -127,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Babloo Prithiveeraj",
         "original_name": "Babloo Prithiveeraj",
-        "popularity": 0.5907,
+        "popularity": 1.6581,
         "profile_path": "/lnRXcRebSmfJaSaRqTt91o1vkhE.jpg",
         "cast_id": 21,
         "character": "",
@@ -141,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Sampoornesh Babu",
         "original_name": "Sampoornesh Babu",
-        "popularity": 0.2087,
+        "popularity": 0.9853,
         "profile_path": "/8LUNhS7JGsv5YDIX3qBPJP3f1BI.jpg",
         "cast_id": 22,
         "character": "",
@@ -155,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Sameer Hasan",
         "original_name": "Sameer Hasan",
-        "popularity": 0.3075,
+        "popularity": 0.9723,
         "profile_path": "/mNKhHh2OSejWrEXNzPVkF7pnWRr.jpg",
         "cast_id": 23,
         "character": "",
@@ -169,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Apparao",
         "original_name": "Jabardasth Apparao",
-        "popularity": 0.2179,
+        "popularity": 0.6076,
         "profile_path": "/khtIs6OXTTAVTdca4ujbZxVESV0.jpg",
         "cast_id": 24,
         "character": "",
@@ -185,7 +192,7 @@
         "known_for_department": "Camera",
         "name": "Satish Muthyala",
         "original_name": "Satish Muthyala",
-        "popularity": 0.0327,
+        "popularity": 0.3036,
         "profile_path": null,
         "credit_id": "5d494525028f1474ea0198b9",
         "department": "Camera",
@@ -198,24 +205,11 @@
         "known_for_department": "Writing",
         "name": "Rajendra Bharadwaj",
         "original_name": "Rajendra Bharadwaj",
-        "popularity": 0.0816,
+        "popularity": 0.6625,
         "profile_path": "/sLdAtH5ywg5TpyuM3OaZ7lzZUS0.jpg",
-        "credit_id": "5d4944ae028f1474ea019790",
+        "credit_id": "5d4944c92d1e40266dbdb06b",
         "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1663538,
-        "known_for_department": "Editing",
-        "name": "S.B. Uddhav",
-        "original_name": "S.B. Uddhav",
-        "popularity": 0.0839,
-        "profile_path": null,
-        "credit_id": "5d49441e028f1474ea019652",
-        "department": "Editing",
-        "job": "Editor"
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -224,7 +218,7 @@
         "known_for_department": "Art",
         "name": "K V Ramana",
         "original_name": "K V Ramana",
-        "popularity": 0.0143,
+        "popularity": 0.2647,
         "profile_path": null,
         "credit_id": "5d49454b028f140011019b27",
         "department": "Art",
@@ -237,37 +231,24 @@
         "known_for_department": "Writing",
         "name": "Rajendra Bharadwaj",
         "original_name": "Rajendra Bharadwaj",
-        "popularity": 0.0816,
+        "popularity": 0.6625,
         "profile_path": "/sLdAtH5ywg5TpyuM3OaZ7lzZUS0.jpg",
-        "credit_id": "5d4944c92d1e40266dbdb06b",
+        "credit_id": "5d4944ae028f1474ea019790",
         "department": "Writing",
-        "job": "Screenplay"
+        "job": "Dialogue"
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 2422479,
-        "known_for_department": "Production",
-        "name": "Sarma Chukka",
-        "original_name": "Sarma Chukka",
-        "popularity": 0,
+        "gender": 2,
+        "id": 1663538,
+        "known_for_department": "Editing",
+        "name": "S.B. Uddhav",
+        "original_name": "S.B. Uddhav",
+        "popularity": 0.2985,
         "profile_path": null,
-        "credit_id": "5d92a0487cffda0024fb8599",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2422475,
-        "known_for_department": "Production",
-        "name": "Battepati Narendra Reddy",
-        "original_name": "Battepati Narendra Reddy",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5d929d5f7cffda002cfb8857",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "5d49441e028f1474ea019652",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -276,11 +257,37 @@
         "known_for_department": "Directing",
         "name": "Rajesh Nadendla",
         "original_name": "Rajesh Nadendla",
-        "popularity": 0.0143,
+        "popularity": 0.4701,
         "profile_path": null,
         "credit_id": "5d92a12daf2da8002b5192e0",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2422475,
+        "known_for_department": "Production",
+        "name": "Battepati Narendra Reddy",
+        "original_name": "Battepati Narendra Reddy",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "5d929d5f7cffda002cfb8857",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2422479,
+        "known_for_department": "Production",
+        "name": "Sarma Chukka",
+        "original_name": "Sarma Chukka",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "5d92a0487cffda0024fb8599",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -289,19 +296,13 @@
         "known_for_department": "Sound",
         "name": "Roshan Saluri",
         "original_name": "Roshan Saluri",
-        "popularity": 0.0214,
+        "popularity": 0.2668,
         "profile_path": null,
         "credit_id": "603f4fdb124c8d0026c3045e",
         "department": "Sound",
         "job": "Original Music Composer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -320,15 +321,8 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt10834046",
-    "wikidata_id": "Q77893742",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -386,5 +380,11 @@
         "width": 1400
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

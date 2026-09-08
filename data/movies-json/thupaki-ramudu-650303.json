@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "తుపాకి రాముడు",
   "overview": "Ramudu is a free-spirited, illiterate orphan from a village. Priya is a well-educated woman who runs a book store in the same village. What makes them fall in love and how they manage to face the odds that come along with it.",
-  "popularity": 0.1163,
+  "popularity": 0.5231,
   "poster_path": "/z4AKFoLegeqVBDvhDj7qffkUwFa.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,19 +48,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt11029252",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -70,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Bitthiri Satthi",
         "original_name": "Bitthiri Satthi",
-        "popularity": 0.2133,
+        "popularity": 0.5626,
         "profile_path": "/ljwO324NcbdfFOKPcHRwYp8GIia.jpg",
         "cast_id": 1,
         "character": "Thupaki Ramudu",
@@ -84,7 +71,7 @@
         "known_for_department": "Production",
         "name": "Anurag Parvathaneni",
         "original_name": "Anurag Parvathaneni",
-        "popularity": 0.0766,
+        "popularity": 0.3555,
         "profile_path": null,
         "cast_id": 2,
         "character": "Siddu",
@@ -98,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Gowthamraju",
         "original_name": "Gowthamraju",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 3,
         "character": "Master",
@@ -114,13 +101,16 @@
         "known_for_department": "Directing",
         "name": "T. Prabhakar",
         "original_name": "T. Prabhakar",
-        "popularity": 0.0667,
+        "popularity": 0.3849,
         "profile_path": null,
         "credit_id": "5dd95a7e0cd44600122772c9",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -139,6 +129,25 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "తుపాకీ రాముడు",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt11029252",
+    "wikidata_id": "Q97257307",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -152,15 +161,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 750
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "తుపాకీ రాముడు",
-        "type": ""
       }
     ]
   }

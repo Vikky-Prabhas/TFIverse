@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Priyaraagalu",
   "overview": "When Madhu neglects his son while dealing with his wife's demise, Sneha enters his life as his son's nanny. Though she falls for Madhu, her half-brother, Banerjee, has other plans for them.",
-  "popularity": 0.3485,
+  "popularity": 3.5028,
   "poster_path": "/eSOw3hTkTKKAYRSeChLVUujMtLi.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "",
@@ -56,8 +56,8 @@
         "known_for_department": "Acting",
         "name": "Maheswari",
         "original_name": "Maheswari",
-        "popularity": 0.4659,
-        "profile_path": null,
+        "popularity": 0.8197,
+        "profile_path": "/2Ps9dtkJXFn5pmxN0eNM9U69LAq.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "631e436cc4f55200917bb95a",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 3,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 4,
         "character": "",
@@ -97,9 +97,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "631e4398481382007ae8a1d0",
@@ -111,8 +111,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 7,
         "character": "",
@@ -142,7 +142,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.4415,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "631e43f48566d2007df697b0",
         "department": "Directing",
@@ -150,8 +150,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1579867",
+    "wikidata_id": "Q17495829",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -170,19 +177,6 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1579867",
-    "wikidata_id": "Q17495829",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -198,5 +192,11 @@
         "width": 626
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

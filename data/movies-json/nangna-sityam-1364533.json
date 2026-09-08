@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Nangna Sityam",
   "overview": "",
-  "popularity": 0.1982,
+  "popularity": 0.4735,
   "poster_path": null,
   "production_companies": [
     {
@@ -41,39 +41,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 565889,
-        "known_for_department": "Acting",
-        "name": "Ravi Babu",
-        "original_name": "Ravi Babu",
-        "popularity": 1.1606,
-        "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "66fbdd598aa734b376a675ba",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 931419,
-        "known_for_department": "Acting",
-        "name": "Veena Malik",
-        "original_name": "Veena Malik",
-        "popularity": 0.3669,
-        "profile_path": "/g7R1i6IIfEqDLEsdYFPCSQLli4J.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "66fbdd626ec7804796d63f23",
-        "order": 1
-      }
-    ],
-    "crew": []
-  },
   "videos": {
     "results": []
   },
@@ -83,9 +50,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -111,5 +75,41 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565889,
+        "known_for_department": "Acting",
+        "name": "Ravi Babu",
+        "original_name": "Ravi Babu",
+        "popularity": 0.8019,
+        "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "66fbdd598aa734b376a675ba",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 931419,
+        "known_for_department": "Acting",
+        "name": "Veena Malik",
+        "original_name": "Veena Malik",
+        "popularity": 0.6804,
+        "profile_path": "/g7R1i6IIfEqDLEsdYFPCSQLli4J.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "66fbdd626ec7804796d63f23",
+        "order": 1
+      }
+    ],
+    "crew": []
   }
 }

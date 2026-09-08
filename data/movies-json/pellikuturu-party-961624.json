@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "పెళ్ళికూతురు పార్టీ",
   "overview": "A seductive younger sister who tries to sabotage the marriage of her conservative older sister by going on a bachelorette road trip while being chaperoned by their reluctant grandmother.",
-  "popularity": 0.1221,
+  "popularity": 2.5946,
   "poster_path": "/eP88j9SHXbZhJg4n9UvLZ4M0VE2.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,6 +52,9 @@
   "video": false,
   "vote_average": 6.2,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Prince Cecil",
         "original_name": "Prince Cecil",
-        "popularity": 0.092,
+        "popularity": 0.44,
         "profile_path": "/yxKAPc3OPeAyIeIkeJL3PTRR3tk.jpg",
         "cast_id": 1,
         "character": "",
@@ -75,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Arjun Kalyan",
         "original_name": "Arjun Kalyan",
-        "popularity": 0.0289,
+        "popularity": 0.4092,
         "profile_path": "/xVHRoGhgdeEQZCzYTwyB18Tsvbv.jpg",
         "cast_id": 2,
         "character": "",
@@ -89,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Aneesha Dama",
         "original_name": "Aneesha Dama",
-        "popularity": 0.1667,
+        "popularity": 0.442,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -103,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Bhavana Vazhapandal",
         "original_name": "Bhavana Vazhapandal",
-        "popularity": 0.0831,
+        "popularity": 0.7459,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -117,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Rajesh Vulli",
         "original_name": "Rajesh Vulli",
-        "popularity": 0.0071,
+        "popularity": 0.2863,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -131,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Sai Ketan Rao",
         "original_name": "Sai Ketan Rao",
-        "popularity": 0.0951,
+        "popularity": 0.5229,
         "profile_path": "/m9xIlFJOGpvON52NA2xEu4u7WFr.jpg",
         "cast_id": 6,
         "character": "",
@@ -145,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Jaiyetri Makana",
         "original_name": "Jaiyetri Makana",
-        "popularity": 0.0496,
+        "popularity": 0.4132,
         "profile_path": "/nTEaz0WhvtvFom0WuMSLIDj2dV1.jpg",
         "cast_id": 7,
         "character": "",
@@ -159,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Charan Lakkaraju",
         "original_name": "Charan Lakkaraju",
-        "popularity": 0.0311,
+        "popularity": 0.6942,
         "profile_path": "/hnUJ8NM2A1izIs7fEUMH5639iHr.jpg",
         "cast_id": 8,
         "character": "",
@@ -173,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.4174,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 14,
         "character": "",
@@ -187,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Pawan Suresh",
         "original_name": "Pawan Suresh",
-        "popularity": 0,
+        "popularity": 0.3049,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -201,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Shining Phani",
         "original_name": "Shining Phani",
-        "popularity": 0.0286,
+        "popularity": 0.5002,
         "profile_path": null,
         "cast_id": 16,
         "character": "",
@@ -212,12 +215,51 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 2115743,
+        "known_for_department": "Sound",
+        "name": "Sweekar Agasthi",
+        "original_name": "Sweekar Agasthi",
+        "popularity": 0.3278,
+        "profile_path": null,
+        "credit_id": "625553be0dea6e006590e465",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3503556,
+        "known_for_department": "Directing",
+        "name": "Aparna Malladi",
+        "original_name": "Aparna Malladi",
+        "popularity": 0.2686,
+        "profile_path": null,
+        "credit_id": "625553e2aaec7100505d26f8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268239,
+        "known_for_department": "Camera",
+        "name": "Naren Elan",
+        "original_name": "Naren Elan",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "6255534caaec7100505d24fe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1105605,
         "known_for_department": "Editing",
         "name": "Dharmendra Kakarala",
         "original_name": "Dharmendra Kakarala",
-        "popularity": 0.1348,
+        "popularity": 0.4085,
         "profile_path": null,
         "credit_id": "6255536be54d5d0066e40842",
         "department": "Editing",
@@ -230,7 +272,7 @@
         "known_for_department": "Directing",
         "name": "Aparna Malladi",
         "original_name": "Aparna Malladi",
-        "popularity": 0.0239,
+        "popularity": 0.2686,
         "profile_path": null,
         "credit_id": "625553ea6082eb004fdf533f",
         "department": "Writing",
@@ -239,65 +281,13 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2115743,
-        "known_for_department": "Sound",
-        "name": "Sweekar Agasthi",
-        "original_name": "Sweekar Agasthi",
-        "popularity": 0.1011,
-        "profile_path": null,
-        "credit_id": "625553be0dea6e006590e465",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2268239,
-        "known_for_department": "Camera",
-        "name": "Naren Elan",
-        "original_name": "Naren Elan",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6255534caaec7100505d24fe",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3503556,
-        "known_for_department": "Directing",
-        "name": "Aparna Malladi",
-        "original_name": "Aparna Malladi",
-        "popularity": 0.0239,
-        "profile_path": null,
-        "credit_id": "625553e2aaec7100505d26f8",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3503761,
         "known_for_department": "Writing",
         "name": "Shravya Kothalanka",
         "original_name": "Shravya Kothalanka",
-        "popularity": 0,
+        "popularity": 0.2808,
         "profile_path": null,
-        "credit_id": "625584438d2f8d0c1137f29c",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2035074,
-        "known_for_department": "Sound",
-        "name": "Ramya Behra",
-        "original_name": "Ramya Behra",
-        "popularity": 0.0993,
-        "profile_path": null,
-        "credit_id": "62558452aaec710e677d2ab9",
+        "credit_id": "625584491b1f3c0eebe17851",
         "department": "Sound",
         "job": "Playback Singer"
       },
@@ -308,7 +298,7 @@
         "known_for_department": "Crew",
         "name": "Rabin Subbu",
         "original_name": "Rabin Subbu",
-        "popularity": 0.1147,
+        "popularity": 0.3103,
         "profile_path": null,
         "credit_id": "6255846a6082eb0e2591fb92",
         "department": "Crew",
@@ -321,16 +311,26 @@
         "known_for_department": "Writing",
         "name": "Shravya Kothalanka",
         "original_name": "Shravya Kothalanka",
-        "popularity": 0,
+        "popularity": 0.2808,
         "profile_path": null,
-        "credit_id": "625584491b1f3c0eebe17851",
+        "credit_id": "625584438d2f8d0c1137f29c",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2035074,
+        "known_for_department": "Sound",
+        "name": "Ramya Behra",
+        "original_name": "Ramya Behra",
+        "popularity": 0.3162,
+        "profile_path": null,
+        "credit_id": "62558452aaec710e677d2ab9",
         "department": "Sound",
         "job": "Playback Singer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt14670198",
@@ -356,33 +356,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [
-      {
-        "aspect_ratio": 1.778,
-        "height": 810,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/4hLtzIcRe2q4oY8pv63XssDna2k.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1440
-      }
-    ],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 971,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/eP88j9SHXbZhJg4n9UvLZ4M0VE2.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 648
       }
     ]
   },
@@ -417,6 +390,38 @@
         "iso_3166_1": "IN",
         "title": "Pelli Kuturu Party",
         "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Saali Ke Side Effects",
+        "type": "Alternate"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 810,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4hLtzIcRe2q4oY8pv63XssDna2k.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1440
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 971,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/eP88j9SHXbZhJg4n9UvLZ4M0VE2.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 648
       }
     ]
   }

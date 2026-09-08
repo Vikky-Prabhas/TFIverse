@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Devatha",
   "overview": "Foreign-educated Venu falls for Lakshmi, his servant's daughter. However, he leaves for the city and forgets all about her only to discover that she is pregnant with his child.",
-  "popularity": 0.2144,
+  "popularity": 1.2042,
   "poster_path": "/oeRb8b5gpHEpTpGCA4BgFt0Eeld.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,13 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0033529",
+    "wikidata_id": "Q5266602",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.3466,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 1,
         "character": "",
@@ -52,12 +59,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1339084,
         "known_for_department": "Acting",
         "name": "Kumari",
         "original_name": "Kumari",
-        "popularity": 0.0673,
+        "popularity": 0.3404,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Mudigonda Lingamurthy",
         "original_name": "Mudigonda Lingamurthy",
-        "popularity": 0.1379,
+        "popularity": 0.5266,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -87,45 +94,13 @@
         "known_for_department": "Directing",
         "name": "B.N. Reddi",
         "original_name": "B.N. Reddi",
-        "popularity": 0.1642,
+        "popularity": 0.4217,
         "profile_path": null,
         "credit_id": "53ce35eec3a3687775004498",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0033529",
-    "wikidata_id": "Q5266602",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 790,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/oeRb8b5gpHEpTpGCA4BgFt0Eeld.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 527
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -143,5 +118,30 @@
         ]
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 790,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oeRb8b5gpHEpTpGCA4BgFt0Eeld.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 527
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

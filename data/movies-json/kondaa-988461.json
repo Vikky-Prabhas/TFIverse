@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "కొండా",
   "overview": "A biopic based on the life of Konda Murali and Konda Surekha from Warangal.",
-  "popularity": 0.2379,
+  "popularity": 1.472,
   "poster_path": "/uYAUR0Csnpw7UAatKlogtQ5Wd2N.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Thrigun",
         "original_name": "Thrigun",
-        "popularity": 0.3202,
+        "popularity": 2.6089,
         "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
         "cast_id": 1,
         "character": "Konda Murali",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Irra Mor",
         "original_name": "Irra Mor",
-        "popularity": 0.0286,
+        "popularity": 0.3111,
         "profile_path": null,
         "cast_id": 2,
         "character": "Konda Surekha",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Tulasi",
         "original_name": "Tulasi",
-        "popularity": 1.0118,
+        "popularity": 0.9555,
         "profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 5,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Abhilash Chaudhary",
         "original_name": "Abhilash Chaudhary",
-        "popularity": 0.0957,
+        "popularity": 0.3188,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Sravan Raghavendra",
         "original_name": "Sravan Raghavendra",
-        "popularity": 1.086,
+        "popularity": 1.4639,
         "profile_path": "/mFtJnFPmGaPXhUluS0bTB8HyT7q.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Prashant Karthi",
         "original_name": "Prashant Karthi",
-        "popularity": 0.0437,
+        "popularity": 0.3441,
         "profile_path": null,
         "cast_id": 11,
         "character": "RK",
@@ -138,25 +138,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 76813,
-        "known_for_department": "Directing",
-        "name": "Ram Gopal Varma",
-        "original_name": "Ram Gopal Varma",
-        "popularity": 0.9651,
-        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
-        "credit_id": "62ab8ffa5be00e0053b9fbbe",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 3590970,
         "known_for_department": "Writing",
         "name": "Bharath Kumar",
         "original_name": "Bharath Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.3387,
         "profile_path": null,
         "credit_id": "62ab902d202e11005195bc91",
         "department": "Writing",
@@ -169,16 +156,26 @@
         "known_for_department": "Directing",
         "name": "Ram Gopal Varma",
         "original_name": "Ram Gopal Varma",
-        "popularity": 0.9651,
+        "popularity": 2.0455,
+        "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
+        "credit_id": "62ab8ffa5be00e0053b9fbbe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76813,
+        "known_for_department": "Directing",
+        "name": "Ram Gopal Varma",
+        "original_name": "Ram Gopal Varma",
+        "popularity": 2.0455,
         "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
         "credit_id": "62ab9036c7176d0061eae4d1",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -187,8 +184,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -207,6 +204,18 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kondaa",
+        "type": "Alternate"
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -220,15 +229,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kondaa",
-        "type": "Alternate"
       }
     ]
   }

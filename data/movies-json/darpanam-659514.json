@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "దర్పణం",
   "overview": "A horror film directed by Ramakrishna Vempa, starring Tanishq Reddy, Alexius Macleod and Subhangi Pant in the lead roles.",
-  "popularity": 0.0882,
+  "popularity": 0.4632,
   "poster_path": "/sVQTyTYeoks4TB767efv2xP2Ngk.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,22 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Darpanam Trailer || Tanishq Reddy, Alexius Macleod,Subhangi Pant",
+        "key": "Gll8h5rxQo0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e0b33a5be6d88001600f1be",
+        "published_at": "2019-07-08T14:03:43.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Alexius Macleod",
         "original_name": "Alexius Macleod",
-        "popularity": 0.0143,
+        "popularity": 0.3027,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -71,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Shubhangi Pant",
         "original_name": "Shubhangi Pant",
-        "popularity": 0.0071,
+        "popularity": 0.2624,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -85,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Tanishq Reddy",
         "original_name": "Tanishq Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2622,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -101,27 +117,11 @@
         "known_for_department": "Directing",
         "name": "Ramakrishna Vempa",
         "original_name": "Ramakrishna Vempa",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "5e0b336b7a1bd600140a6bce",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Darpanam Trailer || Tanishq Reddy, Alexius Macleod,Subhangi Pant",
-        "key": "Gll8h5rxQo0",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "5e0b33a5be6d88001600f1be",
-        "published_at": "2019-07-08T14:03:43.000Z"
       }
     ]
   },
@@ -155,16 +155,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8892720",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -181,5 +171,15 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt8892720",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

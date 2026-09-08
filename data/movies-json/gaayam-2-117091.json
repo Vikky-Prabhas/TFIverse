@@ -25,22 +25,43 @@
   ],
   "original_language": "te",
   "original_title": "గాయం-2",
-  "overview": "Ram (Jagapathi Babu) is a restaurant owner in Bangkok. Ram leads a life happily with his wife Vidya (Vimala Raman) and adopted son Chaitanya (Pavansriram). One day he rescues a woman at his restaurant from a group of molesters and pays a heavy price.",
-  "popularity": 0.2236,
+  "overview": "Ram, a restaurant owner, decides to leave his wife, Vidya, and son, Chaitanya, in the care of an Indian-origin policeman in Bangkok and returns to India as Durga to face his old enemy, Guru Narayana.",
+  "popularity": 2.67,
   "poster_path": "/bbvNBIWNPwnyTuaZFU3f8LoTonI.jpg",
-  "production_companies": [],
-  "production_countries": [],
+  "production_companies": [
+    {
+      "id": 305029,
+      "logo_path": null,
+      "name": "Kartha Creations",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2010-09-03",
   "revenue": 0,
   "runtime": 150,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "History is Back",
   "title": "Gaayam 2",
   "video": false,
   "vote_average": 5,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -50,10 +71,10 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.8209,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
-        "character": "Actor",
+        "character": "Ram / Durga",
         "credit_id": "52fe4ba9c3a36847f820e63f",
         "order": 0
       },
@@ -64,10 +85,10 @@
         "known_for_department": "Acting",
         "name": "Vimala Raman",
         "original_name": "Vimala Raman",
-        "popularity": 0.4251,
+        "popularity": 1.1335,
         "profile_path": "/dnxnNSpn39J1qYzi12p7k4MOxHY.jpg",
         "cast_id": 2,
-        "character": "Actress",
+        "character": "Vidya",
         "credit_id": "52fe4ba9c3a36847f820e643",
         "order": 1
       },
@@ -78,10 +99,10 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 3,
-        "character": "Actor",
+        "character": "Lawyer Saab",
         "credit_id": "52fe4ba9c3a36847f820e647",
         "order": 2
       },
@@ -91,11 +112,11 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 4,
-        "character": "Actor",
+        "character": "Guru Narayan",
         "credit_id": "52fe4ba9c3a36847f820e64b",
         "order": 3
       },
@@ -106,12 +127,124 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.7675,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 5,
-        "character": "",
+        "character": "Aziz Pasha",
         "credit_id": "550914e1c3a3682b4e002bf6",
         "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6360507,
+        "known_for_department": "Acting",
+        "name": "Kota Prasad",
+        "original_name": "Kota Prasad",
+        "popularity": 0.4479,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Shankar Narayan",
+        "credit_id": "6a5e9d60c4f32a577063ea4a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86251,
+        "known_for_department": "Acting",
+        "name": "Ravi Kale",
+        "original_name": "Ravi Kale",
+        "popularity": 1.9253,
+        "profile_path": "/7QWF6ine4pE2RdCHJpXa2shQVCK.jpg",
+        "cast_id": 8,
+        "character": "ACP Murthy",
+        "credit_id": "6a5e9d6c229231b3564f640a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2619014,
+        "known_for_department": "Acting",
+        "name": "Raghunatha Reddy",
+        "original_name": "Raghunatha Reddy",
+        "popularity": 0.4728,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "I.G.",
+        "credit_id": "6a5e9d7dca3ea63f705d40b7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215912,
+        "known_for_department": "Acting",
+        "name": "Harsha Vardhan",
+        "original_name": "Harshavardhan",
+        "popularity": 1.3479,
+        "profile_path": "/A6mdUVQBu565oz20DzlxjGUWIZr.jpg",
+        "cast_id": 10,
+        "character": "Harsha",
+        "credit_id": "6a5e9d8cc4f32a577063ea5b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146145,
+        "known_for_department": "Acting",
+        "name": "Jeeva",
+        "original_name": "Jeeva",
+        "popularity": 1.6793,
+        "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
+        "cast_id": 11,
+        "character": "Pandyan",
+        "credit_id": "6a5e9d9ee081639ba24b15fb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107228,
+        "known_for_department": "Acting",
+        "name": "Annapoorna",
+        "original_name": "Annapoorna",
+        "popularity": 1.6302,
+        "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6a5e9dab716cee6c2c5d4028",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4116717,
+        "known_for_department": "Acting",
+        "name": "Pavan Sriram",
+        "original_name": "Pavan Sriram",
+        "popularity": 0.2901,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Chaitanya",
+        "credit_id": "6a5e9dbacf711b42bab80e2e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584324,
+        "known_for_department": "Acting",
+        "name": "Revathi",
+        "original_name": "Revathi",
+        "popularity": 2.2245,
+        "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
+        "cast_id": 14,
+        "character": "Anitha",
+        "credit_id": "6a5e9dca716cee6c2c5d4031",
+        "order": 12
       }
     ],
     "crew": [
@@ -122,16 +255,120 @@
         "known_for_department": "Directing",
         "name": "Praveen Sri",
         "original_name": "Praveen Sri",
-        "popularity": 0.0261,
+        "popularity": 0.4735,
         "profile_path": null,
         "credit_id": "62e601eebd588b0061ead44f",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3643752,
+        "known_for_department": "Directing",
+        "name": "Praveen Sri",
+        "original_name": "Praveen Sri",
+        "popularity": 0.4735,
+        "profile_path": null,
+        "credit_id": "6a5e9dde3610bf7fa6edbf30",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4054857,
+        "known_for_department": "Writing",
+        "name": "Ravi Reddy Mallu",
+        "original_name": "Ravi Reddy Mallu",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6a5e9df952c6a2c66b63ea3a",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3737075,
+        "known_for_department": "Directing",
+        "name": "Rajendra Reddy",
+        "original_name": "Rajendra Reddy",
+        "popularity": 0.3721,
+        "profile_path": null,
+        "credit_id": "6a5e9e062c3222b63c5d4069",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6360513,
+        "known_for_department": "Production",
+        "name": "C. Dharmakartha",
+        "original_name": "C. Dharmakartha",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a5e9e14d5b3718ba2020555",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2274447,
+        "known_for_department": "Production",
+        "name": "Bharath Chowdary",
+        "original_name": "Bharath Chowdary",
+        "popularity": 0.2633,
+        "profile_path": null,
+        "credit_id": "6a5e9e21e2bc7d23024b153e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994231,
+        "known_for_department": "Camera",
+        "name": "Anil Bandari",
+        "original_name": "Anil Bandari",
+        "popularity": 0.2702,
+        "profile_path": null,
+        "credit_id": "6a5e9e306dd17a7965b80d88",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504441,
+        "known_for_department": "Editing",
+        "name": "Prawin Pudi",
+        "original_name": "Prawin Pudi",
+        "popularity": 0.3216,
+        "profile_path": null,
+        "credit_id": "6a5e9e46e31aac0c92edbee8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a5e9e513610bf7fa6edbf3a",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt1725014",
@@ -139,18 +376,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Gaayam 2",
-        "type": "English Transliteration"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -166,6 +391,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Gaayam 2",
+        "type": "English Transliteration"
       }
     ]
   },

@@ -5,8 +5,12 @@
   "budget": 0,
   "genres": [
     {
-      "id": 10751,
-      "name": "Family"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     },
     {
       "id": 10749,
@@ -22,9 +26,16 @@
   "original_language": "te",
   "original_title": "ఆవిడా మా ఆవిడే",
   "overview": "Vikrant and Archana fall in love and get married. Eventually their marriage begins to crumble and Vikrant regrets his act. When he falls in love with another woman, Archana asks him to make a choice.",
-  "popularity": 0.5116,
+  "popularity": 0.7601,
   "poster_path": "/y1amdQqBdhyjzGX5RV8ZiBlUMLd.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 97938,
+      "logo_path": null,
+      "name": "Sri Jayabheri Art Productions",
+      "origin_country": ""
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
@@ -46,8 +57,8 @@
   "tagline": "",
   "title": "Aavida Maa Aavide",
   "video": false,
-  "vote_average": 5.7,
-  "vote_count": 5,
+  "vote_average": 5.25,
+  "vote_count": 6,
   "credits": {
     "cast": [
       {
@@ -57,10 +68,10 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.2798,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 1,
-        "character": "Actor",
+        "character": "C. I. Vikranth",
         "credit_id": "52fe4b5fc3a36847f8200955",
         "order": 0
       },
@@ -71,10 +82,10 @@
         "known_for_department": "Acting",
         "name": "Tabu",
         "original_name": "तबु",
-        "popularity": 2.0671,
+        "popularity": 2.9823,
         "profile_path": "/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg",
         "cast_id": 2,
-        "character": "Actress",
+        "character": "S. I. Archana",
         "credit_id": "52fe4b5fc3a36847f8200959",
         "order": 1
       },
@@ -85,10 +96,10 @@
         "known_for_department": "Acting",
         "name": "Heera Rajgopal",
         "original_name": "Heera Rajgopal",
-        "popularity": 0.3437,
+        "popularity": 3.1163,
         "profile_path": "/8ej49i7PVGnSjsZytLXbMfamDek.jpg",
         "cast_id": 3,
-        "character": "Actress",
+        "character": "Jhansi",
         "credit_id": "52fe4b5fc3a36847f820095d",
         "order": 2
       },
@@ -98,8 +109,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -112,9 +123,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "64e959285258ae012ca5422f",
@@ -127,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Ironleg Sastri",
         "original_name": "Ironleg Sastri",
-        "popularity": 0.1594,
+        "popularity": 0.4572,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -141,12 +152,124 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.5623,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 8,
         "character": "",
         "credit_id": "64e9597b594c9400e25fe850",
         "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584511,
+        "known_for_department": "Acting",
+        "name": "Mallikarjuna Rao",
+        "original_name": "Mallikarjuna Rao",
+        "popularity": 1.233,
+        "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "69ff856c39a5ef9d40317290",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334885,
+        "known_for_department": "Acting",
+        "name": "Amanchi Venkata Subrahmanyam",
+        "original_name": "Amanchi Venkata Subrahmanyam",
+        "popularity": 1.7342,
+        "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "69ff8588c0b1fa4ce6f876e0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591149,
+        "known_for_department": "Acting",
+        "name": "Giri Babu",
+        "original_name": "Giri Babu",
+        "popularity": 2.671,
+        "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "69ff85963607088a321e0572",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "69ff85b3da26afbf00630530",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584623,
+        "known_for_department": "Acting",
+        "name": "Rama Prabha",
+        "original_name": "Rama Prabha",
+        "popularity": 1.6321,
+        "profile_path": "/oLF9RSdde7KUTxurEciD7CeW54e.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "69ff85c3168db91cd3f87d06",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4221230,
+        "known_for_department": "Acting",
+        "name": "Visweswara Rao",
+        "original_name": "Garimalla Visweswara Rao",
+        "popularity": 0.2306,
+        "profile_path": "/28oEs46Sjdr6sMJNI5Y9m1s1ecy.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "69ff85e1b3b66c48c9f87ce7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4240531,
+        "known_for_department": "Acting",
+        "name": "Gadiraju Subba Rao",
+        "original_name": "Gadiraju Subba Rao",
+        "popularity": 0.2726,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "69ff85f1da26afbf0063053b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1137651,
+        "known_for_department": "Acting",
+        "name": "Sana",
+        "original_name": "Sana",
+        "popularity": 0.977,
+        "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "69ff8606318dbfc52363053b",
+        "order": 14
       }
     ],
     "crew": [
@@ -157,11 +280,141 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "52fe4b5fc3a36847f8200963",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568675,
+        "known_for_department": "Camera",
+        "name": "Ajayan Vincent",
+        "original_name": "Ajayan Vincent",
+        "popularity": 0.3951,
+        "profile_path": "/5bDLEPkMDnGpKJMXHVlmGqzckw1.jpg",
+        "credit_id": "69ff833b00313ca955ce2ce2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3377658,
+        "known_for_department": "Camera",
+        "name": "K. Ravindra Babu",
+        "original_name": "K. Ravindra Babu",
+        "popularity": 0.2883,
+        "profile_path": null,
+        "credit_id": "69ff8387ce5819ea6079d730",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3437958,
+        "known_for_department": "Art",
+        "name": "Ashok Kumar",
+        "original_name": "Ashok Kumar",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "69ff839f321c9e4d026305be",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "69ff844c59b3a8619a22172b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546771,
+        "known_for_department": "Writing",
+        "name": "Marudhuri Raja",
+        "original_name": "Marudhuri Raja",
+        "popularity": 0.514,
+        "profile_path": null,
+        "credit_id": "69ff84600548778e4dce2d8a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1932055,
+        "known_for_department": "Production",
+        "name": "Kishore Duggirala",
+        "original_name": "Kishore Duggirala",
+        "popularity": 0.2629,
+        "profile_path": null,
+        "credit_id": "69ff848395f27b8e2679db27",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191401,
+        "known_for_department": "Sound",
+        "name": "Sri Kommineni",
+        "original_name": "Sri Kommineni",
+        "popularity": 0.3524,
+        "profile_path": null,
+        "credit_id": "69ff84cd21aefa626ace2c73",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035077,
+        "known_for_department": "Writing",
+        "name": "Sirivennela Seetharama Sastry",
+        "original_name": "Sirivennela Seetharama Sastry",
+        "popularity": 0.8118,
+        "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
+        "credit_id": "69ff84f5b07cfb02cced7a76",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8311,
+        "known_for_department": "Crew",
+        "name": "Farah Khan",
+        "original_name": "Farah Khan",
+        "popularity": 1.0434,
+        "profile_path": "/rkAVUE9OfKYuYSCm0zEyjMZE3tC.jpg",
+        "credit_id": "69ff8515b26314701779d6c4",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237968,
+        "known_for_department": "Crew",
+        "name": "Raju Sundaram",
+        "original_name": "Raju Sundaram",
+        "popularity": 1.8892,
+        "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+        "credit_id": "69ff852659b3a8619a22173c",
+        "department": "Crew",
+        "job": "Choreographer"
       }
     ]
   },
@@ -182,9 +435,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
   },
@@ -194,6 +444,18 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Police Killadi",
+        "type": "Tamil Dubbed"
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -230,15 +492,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Police Killadi",
-        "type": "Tamil Dubbed"
       }
     ]
   }

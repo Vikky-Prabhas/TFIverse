@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కళ్యాణ వైభోగమే",
   "overview": "In spite of their disinterest, Shourya and Divya are both pressured to get married. When they realize they have the same problem, they hatch a plan to appease their parents.",
-  "popularity": 0.4169,
+  "popularity": 0.5966,
   "poster_path": "/veS9sgOV6NrgFjqOJOy2x0pcR8E.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,8 +41,8 @@
   "tagline": "One Life One Celebration",
   "title": "Kalyana Vaibhogame",
   "video": false,
-  "vote_average": 7.5,
-  "vote_count": 2,
+  "vote_average": 7.25,
+  "vote_count": 4,
   "credits": {
     "cast": [
       {
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Naga Shaurya",
         "original_name": "Naga Shaurya",
-        "popularity": 1.5407,
+        "popularity": 1.0624,
         "profile_path": "/2QEe3xPEYcQcyl1xzUytQbTA9x3.jpg",
         "cast_id": 0,
         "character": "Shourya",
@@ -64,9 +64,9 @@
         "gender": 1,
         "id": 1303647,
         "known_for_department": "Acting",
-        "name": "Malavika Nair",
+        "name": "Malvika Nair",
         "original_name": "Malavika Nair",
-        "popularity": 0.8724,
+        "popularity": 1.5049,
         "profile_path": "/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg",
         "cast_id": 3,
         "character": "Divya",
@@ -80,8 +80,8 @@
         "known_for_department": "Acting",
         "name": "Raasi",
         "original_name": "Raasi",
-        "popularity": 0.7164,
-        "profile_path": "/te4b8v3SbrPYX81qAY4SeJBccVP.jpg",
+        "popularity": 1.3424,
+        "profile_path": "/e3K8Oq0qjzAthJr67ptKUVnaP02.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "576dca619251416cab000609",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Pearle Maaney",
         "original_name": "Pearle Maaney",
-        "popularity": 0.3261,
+        "popularity": 0.7514,
         "profile_path": "/ocK1doRPA4KkzifOIFK4NIMnoRR.jpg",
         "cast_id": 5,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.1543,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 6,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3638,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 7,
         "character": "",
@@ -136,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Ashish Vidhyarthi",
         "original_name": "Ashish Vidhyarthi",
-        "popularity": 1.1464,
+        "popularity": 2.1499,
         "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
         "cast_id": 8,
         "character": "",
@@ -152,8 +152,8 @@
         "known_for_department": "Directing",
         "name": "B. V. Nandini Reddy",
         "original_name": "B. V. Nandini Reddy",
-        "popularity": 0.3355,
-        "profile_path": null,
+        "popularity": 0.8892,
+        "profile_path": "/zZkpHZdC19aKXFWHhgxyyozWAfr.jpg",
         "credit_id": "576dbe1cc3a368567c00010c",
         "department": "Directing",
         "job": "Director"
@@ -165,24 +165,11 @@
         "known_for_department": "Directing",
         "name": "B. V. Nandini Reddy",
         "original_name": "B. V. Nandini Reddy",
-        "popularity": 0.3355,
-        "profile_path": null,
+        "popularity": 0.8892,
+        "profile_path": "/zZkpHZdC19aKXFWHhgxyyozWAfr.jpg",
         "credit_id": "576dbe6ac3a3685679000112",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1765046,
-        "known_for_department": "Crew",
-        "name": "Vamsi Kaka",
-        "original_name": "Vamsi Kaka",
-        "popularity": 0.4333,
-        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
-        "credit_id": "59f1db319251416aaf030b8d",
-        "department": "Crew",
-        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -191,9 +178,22 @@
         "known_for_department": "Crew",
         "name": "Mahesh Koneru",
         "original_name": "Mahesh Koneru",
-        "popularity": 0.105,
+        "popularity": 0.3259,
         "profile_path": null,
         "credit_id": "59f1db249251416ad0032710",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1765046,
+        "known_for_department": "Crew",
+        "name": "Vamsi Kaka",
+        "original_name": "Vamsi Kaka",
+        "popularity": 0.4537,
+        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+        "credit_id": "59f1db319251416aaf030b8d",
         "department": "Crew",
         "job": "Public Relations"
       },
@@ -204,7 +204,7 @@
         "known_for_department": "Sound",
         "name": "Sunitha Upadrashta",
         "original_name": "Sunitha Upadrashta",
-        "popularity": 0.1098,
+        "popularity": 0.5075,
         "profile_path": "/52q2RvD7fRpKVku8VNyae9H7iNs.jpg",
         "credit_id": "5aea89a592514110a50021a5",
         "department": "Sound",
@@ -219,11 +219,16 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 187056,
+        "name": "woman director"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -239,14 +244,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 187056,
-        "name": "woman director"
       }
     ]
   },
@@ -296,5 +293,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

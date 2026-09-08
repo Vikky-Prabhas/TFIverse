@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "W/O రామ్",
   "overview": "With the police stalling the investigation into her husband's murder, Deeksha decides to set up an investigation of her own to find the killers. However, as she gets closer to the truth, she invites trouble from some dangerous people",
-  "popularity": 0.2412,
+  "popularity": 0.7952,
   "poster_path": "/rivt8TKVf7W25QzcjaHLf6mQbNH.jpg",
   "production_companies": [
     {
@@ -59,8 +59,238 @@
   "tagline": "",
   "title": "W/O Ram",
   "video": false,
-  "vote_average": 7,
-  "vote_count": 2,
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-07-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 161982,
+        "name": "murder investigation"
+      },
+      {
+        "id": 175421,
+        "name": "death of husband"
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 203751,
+        "known_for_department": "Acting",
+        "name": "Lakshmi Manchu",
+        "original_name": "Lakshmi Manchu",
+        "popularity": 1.2746,
+        "profile_path": "/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg",
+        "cast_id": 0,
+        "character": "Deeksha",
+        "credit_id": "5b517a8f0e0a26259900e6dc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003981,
+        "known_for_department": "Acting",
+        "name": "Srikanth",
+        "original_name": "శ్రీకాంత్",
+        "popularity": 3.4944,
+        "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+        "cast_id": 1,
+        "character": "Ram",
+        "credit_id": "5b517aa192514112ae00cc81",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1751708,
+        "known_for_department": "Acting",
+        "name": "Priyadarshi Pullikonda",
+        "original_name": "Priyadarshi Pullikonda",
+        "popularity": 0.8819,
+        "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
+        "cast_id": 2,
+        "character": "Chary",
+        "credit_id": "5b517ab8c3a3680f0c00e8fe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101860,
+        "known_for_department": "Acting",
+        "name": "Aadarsh Balakrishna",
+        "original_name": "Aadarsh Balakrishna",
+        "popularity": 0.9862,
+        "profile_path": "/rOmqQfm3ArplVU37PXhlOeUo7aW.jpg",
+        "cast_id": 3,
+        "character": "Rocky",
+        "credit_id": "5b517ac4c3a3680f1900f2e3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2049761,
+        "known_for_department": "Acting",
+        "name": "Samrat Reddy",
+        "original_name": "Samrat Reddy",
+        "popularity": 0.4626,
+        "profile_path": "/wrdaXOFeuXILALVByYKLZOtPLvL.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "5b517ae5c3a3680f0c00e942",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325340,
+        "known_for_department": "Acting",
+        "name": "Srushti Dange",
+        "original_name": "Srushti Dange",
+        "popularity": 1.5854,
+        "profile_path": "/iqhbdBvo3ISF2yDmJ4MnAkz9zyo.jpg",
+        "cast_id": 13,
+        "character": "Escort",
+        "credit_id": "619b0a08e2ff3200437636f1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246544,
+        "known_for_department": "Editing",
+        "name": "Bikkina Thammiraju",
+        "original_name": "Bikkina Thammiraju",
+        "popularity": 0.4287,
+        "profile_path": null,
+        "credit_id": "5b517b540e0a2625a900d806",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1668467,
+        "known_for_department": "Camera",
+        "name": "Samala Bhasker",
+        "original_name": "Samala Bhasker",
+        "popularity": 0.3286,
+        "profile_path": null,
+        "credit_id": "5b517b4ac3a3680f150121e9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293925,
+        "known_for_department": "Sound",
+        "name": "Raghu Dixit",
+        "original_name": "Raghu Dixit",
+        "popularity": 0.4127,
+        "profile_path": null,
+        "credit_id": "5b517b3d0e0a26259d00d251",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052164,
+        "known_for_department": "Directing",
+        "name": "Vijay Yelakanti",
+        "original_name": "Vijay Yelakanti",
+        "popularity": 0.3837,
+        "profile_path": null,
+        "credit_id": "5b517ce20e0a26259600e425",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052164,
+        "known_for_department": "Directing",
+        "name": "Vijay Yelakanti",
+        "original_name": "Vijay Yelakanti",
+        "popularity": 0.3837,
+        "profile_path": null,
+        "credit_id": "5b517ce992514112b800def6",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 203751,
+        "known_for_department": "Acting",
+        "name": "Lakshmi Manchu",
+        "original_name": "Lakshmi Manchu",
+        "popularity": 1.2746,
+        "profile_path": "/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg",
+        "credit_id": "5b517e1cc3a3680f0400d561",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052164,
+        "known_for_department": "Directing",
+        "name": "Vijay Yelakanti",
+        "original_name": "Vijay Yelakanti",
+        "popularity": 0.3837,
+        "profile_path": null,
+        "credit_id": "5b517cdc0e0a26259d00d440",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052164,
+        "known_for_department": "Directing",
+        "name": "Vijay Yelakanti",
+        "original_name": "Vijay Yelakanti",
+        "popularity": 0.3837,
+        "profile_path": null,
+        "credit_id": "5b517c1392514112ae00ce18",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt8190748",
+    "wikidata_id": "Q55391086",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": [
       {
@@ -86,30 +316,6 @@
         "official": true,
         "id": "5b517fc592514112b100d51d",
         "published_at": "2018-04-27T11:34:17.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8190748",
-    "wikidata_id": "Q55391086",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-07-20T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -278,212 +484,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 161982,
-        "name": "murder investigation"
-      },
-      {
-        "id": 175421,
-        "name": "death of husband"
-      }
-    ]
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 203751,
-        "known_for_department": "Acting",
-        "name": "Lakshmi Manchu",
-        "original_name": "Lakshmi Manchu",
-        "popularity": 0.7877,
-        "profile_path": "/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg",
-        "cast_id": 0,
-        "character": "Deeksha",
-        "credit_id": "5b517a8f0e0a26259900e6dc",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1003981,
-        "known_for_department": "Acting",
-        "name": "Srikanth",
-        "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
-        "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
-        "cast_id": 1,
-        "character": "Ram",
-        "credit_id": "5b517aa192514112ae00cc81",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1751708,
-        "known_for_department": "Acting",
-        "name": "Priyadarshi Pullikonda",
-        "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.4209,
-        "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
-        "cast_id": 2,
-        "character": "Chary",
-        "credit_id": "5b517ab8c3a3680f0c00e8fe",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 101860,
-        "known_for_department": "Acting",
-        "name": "Aadarsh Balakrishna",
-        "original_name": "Aadarsh Balakrishna",
-        "popularity": 0.2694,
-        "profile_path": "/rOmqQfm3ArplVU37PXhlOeUo7aW.jpg",
-        "cast_id": 3,
-        "character": "Rocky",
-        "credit_id": "5b517ac4c3a3680f1900f2e3",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2049761,
-        "known_for_department": "Acting",
-        "name": "Samrat Reddy",
-        "original_name": "Samrat Reddy",
-        "popularity": 0.0872,
-        "profile_path": "/wrdaXOFeuXILALVByYKLZOtPLvL.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "5b517ae5c3a3680f0c00e942",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1325340,
-        "known_for_department": "Acting",
-        "name": "Srushti Dange",
-        "original_name": "Srushti Dange",
-        "popularity": 0.5207,
-        "profile_path": "/iqhbdBvo3ISF2yDmJ4MnAkz9zyo.jpg",
-        "cast_id": 13,
-        "character": "Escort",
-        "credit_id": "619b0a08e2ff3200437636f1",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1668467,
-        "known_for_department": "Camera",
-        "name": "Samala Bhasker",
-        "original_name": "Samala Bhasker",
-        "popularity": 0.0857,
-        "profile_path": null,
-        "credit_id": "5b517b4ac3a3680f150121e9",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1293925,
-        "known_for_department": "Sound",
-        "name": "Raghu Dixit",
-        "original_name": "Raghu Dixit",
-        "popularity": 0.1728,
-        "profile_path": null,
-        "credit_id": "5b517b3d0e0a26259d00d251",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2052164,
-        "known_for_department": "Directing",
-        "name": "Vijay Yelakanti",
-        "original_name": "Vijay Yelakanti",
-        "popularity": 0.0789,
-        "profile_path": null,
-        "credit_id": "5b517c1392514112ae00ce18",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2052164,
-        "known_for_department": "Directing",
-        "name": "Vijay Yelakanti",
-        "original_name": "Vijay Yelakanti",
-        "popularity": 0.0789,
-        "profile_path": null,
-        "credit_id": "5b517cdc0e0a26259d00d440",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 203751,
-        "known_for_department": "Acting",
-        "name": "Lakshmi Manchu",
-        "original_name": "Lakshmi Manchu",
-        "popularity": 0.7877,
-        "profile_path": "/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg",
-        "credit_id": "5b517e1cc3a3680f0400d561",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2052164,
-        "known_for_department": "Directing",
-        "name": "Vijay Yelakanti",
-        "original_name": "Vijay Yelakanti",
-        "popularity": 0.0789,
-        "profile_path": null,
-        "credit_id": "5b517ce992514112b800def6",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2052164,
-        "known_for_department": "Directing",
-        "name": "Vijay Yelakanti",
-        "original_name": "Vijay Yelakanti",
-        "popularity": 0.0789,
-        "profile_path": null,
-        "credit_id": "5b517ce20e0a26259600e425",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1246544,
-        "known_for_department": "Editing",
-        "name": "Bikkina Thammiraju",
-        "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2198,
-        "profile_path": null,
-        "credit_id": "5b517b540e0a2625a900d806",
-        "department": "Editing",
-        "job": "Editor"
       }
     ]
   },

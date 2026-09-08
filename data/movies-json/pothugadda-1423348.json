@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pothugadda",
   "overview": "The story of two lovers who find themselves stuck in the midst of two powerful politicians from the \"pothugadda\" constituency. Pothugadda explores the corrupt side of politics,shedding light on the manipulations and exploitation that often define the system. It also highlights themes of sacrifics, resilience and the unwavering power of love. with a blend of romance, political drama, and social commentary, pothugadda presents a compelling narrative that reveals the complexities of relationships and the challenges of surviving the murky world of politics.",
-  "popularity": 0.1047,
+  "popularity": 1.1757,
   "poster_path": "/eJ7o9uWCuQZokzV5vjQmIP1fVW1.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt34383227",
+    "wikidata_id": "Q132063741",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Prudhvi Dandamudi",
         "original_name": "Prudhvi Dandamudi",
-        "popularity": 0,
+        "popularity": 0.3623,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -57,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Vismaya Sri",
         "original_name": "Vismaya Sri",
-        "popularity": 0.0071,
+        "popularity": 0.4707,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Aadukalam Naren",
         "original_name": "Adukalam Naren",
-        "popularity": 0.5238,
+        "popularity": 1.056,
         "profile_path": "/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Shatru",
         "original_name": "Shatru",
-        "popularity": 0.4616,
+        "popularity": 1.5386,
         "profile_path": "/9VJhUHAh66pPsMUAgZ3Ik49lcRW.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Prashant Karthi",
         "original_name": "Prashant Karthi",
-        "popularity": 0.0437,
+        "popularity": 0.3441,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -115,7 +122,7 @@
         "known_for_department": "Sound",
         "name": "Marcus.M",
         "original_name": "Marcus.M",
-        "popularity": 0,
+        "popularity": 0.2232,
         "profile_path": null,
         "credit_id": "6794b97e08c1729ec9187a95",
         "department": "Sound",
@@ -128,7 +135,7 @@
         "known_for_department": "Sound",
         "name": "Shravan Bharadwaj",
         "original_name": "Shravan Bharadwaj",
-        "popularity": 0.0871,
+        "popularity": 0.4759,
         "profile_path": null,
         "credit_id": "6794b9a508c1729ec9187a9e",
         "department": "Sound",
@@ -141,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Raksha Veeram",
         "original_name": "Raksha Veeram",
-        "popularity": 0.0143,
+        "popularity": 0.2808,
         "profile_path": null,
         "credit_id": "6794b9be57975f1b0b188942",
         "department": "Directing",
@@ -149,18 +156,11 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": "tt34383227",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -178,6 +178,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -205,8 +208,5 @@
         "width": 720
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

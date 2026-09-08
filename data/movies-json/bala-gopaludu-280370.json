@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "బాల గోపాలుడు",
   "overview": "Bala Gopaludu is a 1989 Telugu film directed by Kodi Ramakrishna. The film stars Balakrishna, Suhasini Mani Ratnam, Mohan Babu and Hema in lead roles.",
-  "popularity": 0.2286,
+  "popularity": 0.6363,
   "poster_path": "/fsOg9PHGKhU8u8M6rcpPn6cKqGy.jpg",
   "production_companies": [
     {
@@ -46,6 +46,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1300342",
+    "wikidata_id": "Q19570960",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -55,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 3,
         "character": "",
@@ -69,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "",
@@ -83,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 5,
         "character": "",
@@ -97,7 +107,7 @@
         "known_for_department": "Acting",
         "name": "Hema",
         "original_name": "Hema",
-        "popularity": 0.3148,
+        "popularity": 0.9583,
         "profile_path": "/4s1Kiq09KI4p7RFjmclEelLnyV8.jpg",
         "cast_id": 6,
         "character": "",
@@ -113,7 +123,7 @@
         "known_for_department": "Production",
         "name": "N V Prasad",
         "original_name": "N V Prasad",
-        "popularity": 0.0866,
+        "popularity": 0.264,
         "profile_path": null,
         "credit_id": "53b6d445c3a3685eb40028d1",
         "department": "Production",
@@ -126,7 +136,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b6d444c3a3685ec10029e1",
         "department": "Sound",
@@ -139,23 +149,13 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "53b6d4430e0a2676c4005899",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1300342",
-    "wikidata_id": "Q19570960",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -177,6 +177,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -192,8 +195,5 @@
         "width": 865
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

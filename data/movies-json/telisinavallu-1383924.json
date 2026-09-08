@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Telisinavallu",
   "overview": "Chaitra Loves her family and her family believes in superstitions. As they prepare for a Ritualistic-Cult Suicide, one person intrudes: The young man who loved Chaitra.",
-  "popularity": 0.2408,
+  "popularity": 0.5614,
   "poster_path": "/7iUfhKJgIDcM5pm3BFyO0TH3wbu.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,13 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
@@ -41,12 +48,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "videos": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -64,12 +67,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -97,5 +94,8 @@
         "width": 600
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

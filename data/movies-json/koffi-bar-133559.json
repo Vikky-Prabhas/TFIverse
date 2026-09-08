@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Koffi Bar",
   "overview": "Koffi Bar is about the way a life changes to couple of youngsters who by accident get to know some terror plans of terrorists in a coffee bar. This knowledge added with some romance lead them to a horrifying experience.",
-  "popularity": 0.2351,
+  "popularity": 0.9332,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Shashank",
         "original_name": "Shashank",
-        "popularity": 0.1804,
+        "popularity": 0.6079,
         "profile_path": "/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg",
         "cast_id": 2,
         "character": "",
@@ -62,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Atul Kulkarni",
         "original_name": "Atul Kulkarni",
-        "popularity": 0.8354,
+        "popularity": 1.395,
         "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
         "cast_id": 4,
         "character": "",
@@ -76,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Biyanka Desai",
         "original_name": "Biyanka Desai",
-        "popularity": 0.0168,
+        "popularity": 0.5124,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -92,23 +105,13 @@
         "known_for_department": "Directing",
         "name": "Geetha Krishna",
         "original_name": "Geetha Krishna",
-        "popularity": 0.0776,
+        "popularity": 1.1648,
         "profile_path": null,
         "credit_id": "57a6388dc3a3685fce000554",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -127,6 +130,11 @@
       }
     ]
   },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -135,13 +143,5 @@
         "type": "alternative spelling"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

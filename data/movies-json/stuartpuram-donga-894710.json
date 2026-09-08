@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "స్టూవర్ట్‌పురం దొంగ",
   "overview": "A biopic of ‘Tiger’ Nageswara Rao, a daredevil thief of Stuartpuram in the 1970s.",
-  "popularity": 0.1452,
+  "popularity": 1.3087,
   "poster_path": "/kBVEpEGd5cqWp2DVMhbW7kDcZth.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Bellamkonda Srinivas",
         "original_name": "Bellamkonda Srinivas",
-        "popularity": 1.0637,
+        "popularity": 1.2344,
         "profile_path": "/8EiUDObdAq4txMfaGVsev28Ss7y.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Johny Lever",
         "original_name": "Johny Lever",
-        "popularity": 1.2396,
+        "popularity": 1.8824,
         "profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
         "cast_id": 12,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Directing",
         "name": "K. S",
         "original_name": "K. S",
-        "popularity": 0.0071,
+        "popularity": 0.2632,
         "profile_path": null,
         "credit_id": "6185edbdd48cee00441d871b",
         "department": "Directing",
@@ -91,7 +91,7 @@
         "known_for_department": "Production",
         "name": "Bellamkonda Suresh",
         "original_name": "Bellamkonda Suresh",
-        "popularity": 0.1044,
+        "popularity": 0.3094,
         "profile_path": null,
         "credit_id": "6185ed06ddd52d0026b97703",
         "department": "Production",
@@ -100,37 +100,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1704831,
-        "known_for_department": "Art",
-        "name": "A. S. Prakash",
-        "original_name": "A. S. Prakash",
-        "popularity": 0.1783,
-        "profile_path": null,
-        "credit_id": "618606f9d388ae008a12ae62",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1712856,
-        "known_for_department": "Writing",
-        "name": "Rakendu Mouli",
-        "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.3438,
-        "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
-        "credit_id": "6186087b595a5600636d0ad5",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 225317,
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.3339,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "618606e313a3880044edcc6e",
         "department": "Sound",
@@ -143,7 +117,7 @@
         "known_for_department": "Editing",
         "name": "Bikkina Thammiraju",
         "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2835,
+        "popularity": 0.4287,
         "profile_path": null,
         "credit_id": "618606ede7414600438e5221",
         "department": "Editing",
@@ -152,15 +126,41 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1704831,
+        "known_for_department": "Art",
+        "name": "A. S. Prakash",
+        "original_name": "A. S. Prakash",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "618606f9d388ae008a12ae62",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1543279,
         "known_for_department": "Camera",
         "name": "Shyam K. Naidu",
         "original_name": "Shyam K. Naidu",
-        "popularity": 0.2257,
+        "popularity": 0.3322,
         "profile_path": null,
         "credit_id": "6186070d75f1ad00274565ad",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712856,
+        "known_for_department": "Writing",
+        "name": "Rakendu Mouli",
+        "original_name": "Rakendu Mouli Vennelakanti",
+        "popularity": 0.5423,
+        "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
+        "credit_id": "6186087b595a5600636d0ad5",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -169,13 +169,22 @@
         "known_for_department": "Writing",
         "name": "Shashank Vennelakanti",
         "original_name": "Shashank Vennelakanti",
-        "popularity": 0.0679,
+        "popularity": 0.3698,
         "profile_path": null,
         "credit_id": "6186085469d2800066daf9aa",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": []
   },
   "videos": {
     "results": []
@@ -186,12 +195,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
   },
   "images": {
     "backdrops": [],
@@ -218,8 +221,5 @@
         "width": 603
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

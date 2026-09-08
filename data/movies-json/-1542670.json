@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ఆదిత్య విక్రమ వ్యూహ",
   "overview": "Aditya Vikrama Vyuha is a crime thriller. Vikram is a private detective. He helps Aditya, a police officer, catch a serial killer named 'The Painter.' He kills only five to six people once a year, in the same month. Will Vikram find him? What is the motive behind the serial murders?",
-  "popularity": 0,
+  "popularity": 0.4025,
   "poster_path": "/pI8okdzPNKVzx5qKJ6jmhIng8BB.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -38,16 +38,6 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": []
-  },
   "videos": {
     "results": [
       {
@@ -64,11 +54,18 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -106,5 +103,8 @@
         "width": 1880
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

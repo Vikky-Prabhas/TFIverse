@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "AA23",
   "overview": "",
-  "popularity": 0.2954,
+  "popularity": 2.3241,
   "poster_path": "/8KpoR6l6JfdtYct65GXzo4klifn.jpg",
   "production_companies": [
     {
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Allu Arjun",
         "original_name": "అల్లు అర్జున్",
-        "popularity": 2.5039,
+        "popularity": 3.2405,
         "profile_path": "/wHr3bKhYpiDiYVMZLZqebeauEVw.jpg",
         "cast_id": 1,
         "character": "",
@@ -85,8 +85,8 @@
         "id": 1592411,
         "known_for_department": "Directing",
         "name": "Lokesh Kanagaraj",
-        "original_name": "Lokesh Kanagaraj",
-        "popularity": 6.6764,
+        "original_name": "லோகேஷ் கனகராஜ்",
+        "popularity": 2.7388,
         "profile_path": "/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg",
         "credit_id": "692895f80c1ed72ae8a75dca",
         "department": "Directing",
@@ -98,8 +98,8 @@
         "id": 1592411,
         "known_for_department": "Directing",
         "name": "Lokesh Kanagaraj",
-        "original_name": "Lokesh Kanagaraj",
-        "popularity": 6.6764,
+        "original_name": "லோகேஷ் கனகராஜ்",
+        "popularity": 2.7388,
         "profile_path": "/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg",
         "credit_id": "692899575b39bb2ce1249296",
         "department": "Writing",
@@ -112,7 +112,7 @@
         "known_for_department": "Sound",
         "name": "Anirudh Ravichander",
         "original_name": "அனிருத் ரவிச்சந்திரன்",
-        "popularity": 0.8492,
+        "popularity": 1.0746,
         "profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
         "credit_id": "692cc02a7e0dcb66bb511e5c",
         "department": "Sound",
@@ -125,7 +125,7 @@
         "known_for_department": "Production",
         "name": "Naveen Yerneni",
         "original_name": "Naveen Yerneni",
-        "popularity": 0.2054,
+        "popularity": 0.3721,
         "profile_path": "/iestiUKLGHblxeQtI0DF5ENCxLW.jpg",
         "credit_id": "692cc07272b51d32e93e9fac",
         "department": "Production",
@@ -138,7 +138,7 @@
         "known_for_department": "Production",
         "name": "Y. Ravi Shankar",
         "original_name": "Y. Ravi Shankar",
-        "popularity": 0.1606,
+        "popularity": 0.5174,
         "profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
         "credit_id": "692cc083564a12dd47286384",
         "department": "Production",
@@ -151,7 +151,7 @@
         "known_for_department": "Writing",
         "name": "Rathna Kumar",
         "original_name": "Rathna Kumar",
-        "popularity": 0.3359,
+        "popularity": 0.6339,
         "profile_path": "/rI9zRYRweUXvQZuf7k7PG4U0t9N.jpg",
         "credit_id": "6967dfafe53a5d65529f0fe1",
         "department": "Writing",
@@ -164,7 +164,7 @@
         "known_for_department": "Editing",
         "name": "Philomin Raj",
         "original_name": "Philomin Raj",
-        "popularity": 0.2398,
+        "popularity": 0.505,
         "profile_path": "/yetxlpQycCkshBOoD2o98t7JBk8.jpg",
         "credit_id": "6968b8dd8dc01ef73e01a5c3",
         "department": "Editing",
@@ -177,7 +177,7 @@
         "known_for_department": "Production",
         "name": "Bunny Vas",
         "original_name": "Bunny Vas",
-        "popularity": 0.0982,
+        "popularity": 0.3249,
         "profile_path": "/wuORjl5RorJUpLeWL6UspfC1zak.jpg",
         "credit_id": "699bfc4675ed3d7b47c5a6d5",
         "department": "Production",
@@ -190,7 +190,7 @@
         "known_for_department": "Writing",
         "name": "Heisenberg",
         "original_name": "Heisenberg",
-        "popularity": 0.1006,
+        "popularity": 0.2967,
         "profile_path": null,
         "credit_id": "699d5618b95c1a201ad477d0",
         "department": "Writing",
@@ -201,11 +201,18 @@
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39260915",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -242,13 +249,6 @@
         "width": 720
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt39260915",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "alternative_titles": {
     "titles": [

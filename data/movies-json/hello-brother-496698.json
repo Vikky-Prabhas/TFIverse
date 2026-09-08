@@ -5,8 +5,8 @@
   "budget": 0,
   "genres": [
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 35,
@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "హలో బ్రదర్",
   "overview": "A couple has twin sons with reflection mentality but one of the sons is abducted and left on the road by a criminal. Both brothers grow up with different personalities and when they cross each other's path misunderstanding arises.",
-  "popularity": 0.5143,
+  "popularity": 1.3777,
   "poster_path": "/f2BLnilf2ELTA1riVFB7GCr8Qse.jpg",
   "production_companies": [
     {
@@ -40,7 +40,7 @@
   ],
   "release_date": "1994-04-20",
   "revenue": 0,
-  "runtime": 152,
+  "runtime": 159,
   "softcore": false,
   "spoken_languages": [
     {
@@ -53,34 +53,10 @@
   "tagline": "",
   "title": "Hello Brother",
   "video": false,
-  "vote_average": 6.375,
+  "vote_average": 6.4,
   "vote_count": 16,
-  "external_ids": {
-    "imdb_id": "tt0282554",
-    "wikidata_id": "Q5708631",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1994-04-20T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "credits": {
     "cast": [
@@ -91,8 +67,8 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.2798,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 0,
         "character": "Deva & Ravi Varma",
         "credit_id": "5a50c68d9251411322008e94",
@@ -105,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 1,
         "character": "Ooha",
@@ -119,8 +95,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.13,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 2,
         "character": "Manga",
         "credit_id": "5a50c6adc3a3687562007e5f",
@@ -133,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.5623,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 6,
         "character": "Simhachalam",
@@ -146,9 +122,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 7,
         "character": "S.I.Thadi Mataiyya",
         "credit_id": "5a50c837c3a368751f00919a",
@@ -160,8 +136,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "Kaasi",
@@ -173,9 +149,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 9,
         "character": "Higaral",
@@ -189,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.5311,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 10,
         "character": "Chakravarthy",
@@ -203,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Napoleon",
         "original_name": "Napoleon",
-        "popularity": 0.2254,
+        "popularity": 2.862,
         "profile_path": "/sdOwjrQI2R6ozvhZMEwSY7dXeYP.jpg",
         "cast_id": 11,
         "character": "Mishra",
@@ -212,45 +188,17 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 5616972,
-        "known_for_department": "Acting",
-        "name": "Rajanala",
-        "original_name": "Rajanala",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 12,
-        "character": "Rajanala",
-        "credit_id": "6897efb9b787a192fb2677c6",
-        "order": 9
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5616973,
-        "known_for_department": "Acting",
-        "name": "Sangeetha",
-        "original_name": "Sangeetha",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 13,
-        "character": "Geetha",
-        "credit_id": "6897efcaaaa1bdb9a092eacc",
-        "order": 10
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 584668,
         "known_for_department": "Acting",
         "name": "Charan Raj",
         "original_name": "Charan Raj",
-        "popularity": 0.5279,
+        "popularity": 1.0584,
         "profile_path": "/mmEb8jPvyhg6BisENTxM3LQpaCr.jpg",
         "cast_id": 14,
         "character": "Misro",
         "credit_id": "6897efd83b2be8256b8ea86f",
-        "order": 11
+        "order": 9
       },
       {
         "adult": false,
@@ -259,12 +207,208 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 15,
         "character": "Akkamamba",
         "credit_id": "6897eff7b6edef11308da43d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052854,
+        "known_for_department": "Acting",
+        "name": "Sangeetha Krish",
+        "original_name": "Sangeetha Krish",
+        "popularity": 1.4597,
+        "profile_path": "/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg",
+        "cast_id": 36,
+        "character": "Geetha",
+        "credit_id": "69fe2995d1ebc2a73050e616",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591149,
+        "known_for_department": "Acting",
+        "name": "Giri Babu",
+        "original_name": "Giri Babu",
+        "popularity": 2.671,
+        "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
+        "cast_id": 37,
+        "character": "Manga's father",
+        "credit_id": "69fe29ab522cd5deee9bd759",
         "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 544889,
+        "known_for_department": "Acting",
+        "name": "Sudha",
+        "original_name": "Sudha",
+        "popularity": 1.5384,
+        "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
+        "cast_id": 38,
+        "character": "Manga's mother",
+        "credit_id": "69fe29bf55e88ba2fba5ed8a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325397,
+        "known_for_department": "Acting",
+        "name": "Srilakshmi",
+        "original_name": "Srilakshmi",
+        "popularity": 0.6371,
+        "profile_path": "/czQXxJ6c149HPmY0JSHPxEL5wXW.jpg",
+        "cast_id": 39,
+        "character": "Thadi Mataiyya's wife",
+        "credit_id": "69fe29d4daf39eea9c9bd8b7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584511,
+        "known_for_department": "Acting",
+        "name": "Mallikarjuna Rao",
+        "original_name": "Mallikarjuna Rao",
+        "popularity": 1.233,
+        "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
+        "cast_id": 40,
+        "character": "Constable Chitti",
+        "credit_id": "69fe29e956c492b666878af3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584675,
+        "known_for_department": "Acting",
+        "name": "Babu Mohan",
+        "original_name": "Babu Mohan",
+        "popularity": 1.6288,
+        "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
+        "cast_id": 41,
+        "character": "Satti Pandu",
+        "credit_id": "69fe29fb4cb319619050e616",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611382,
+        "known_for_department": "Acting",
+        "name": "Rajanala Kaleswara Rao",
+        "original_name": "Rajanala Kaleswara Rao",
+        "popularity": 0.5475,
+        "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
+        "cast_id": 42,
+        "character": "Rajanala",
+        "credit_id": "69fe2a0fc25e28488c8ab40d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585567,
+        "known_for_department": "Acting",
+        "name": "Shivaji Raja",
+        "original_name": "Shivaji Raja",
+        "popularity": 1.7055,
+        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+        "cast_id": 43,
+        "character": "Mitra's henchman",
+        "credit_id": "69fe2a21972fbc39a990ce39",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 588032,
+        "known_for_department": "Acting",
+        "name": "Narsing Yadav",
+        "original_name": "Narsing Yadav",
+        "popularity": 0.8676,
+        "profile_path": "/6XXilySySycI5Zf6jhGQgHzHgEz.jpg",
+        "cast_id": 44,
+        "character": "Mitra's henchman",
+        "credit_id": "69fe2a4505f425365e90cda9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661045,
+        "known_for_department": "Acting",
+        "name": "Gautam Raju",
+        "original_name": "Gautam Raju",
+        "popularity": 0.5814,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Inspector",
+        "credit_id": "69fe2a56c25e28488c8ab41e",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389659,
+        "known_for_department": "Acting",
+        "name": "Ashok Kumar",
+        "original_name": "Ashok Kumar",
+        "popularity": 0.4709,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Chakravarthy's brother-in-law",
+        "credit_id": "69fe2a6d05f425365e90cdac",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661313,
+        "known_for_department": "Acting",
+        "name": "Jenny",
+        "original_name": "Jenny",
+        "popularity": 0.7158,
+        "profile_path": "/fejSGfZwZtar4pES1rDMg9SYHlG.jpg",
+        "cast_id": 47,
+        "character": "Marvadi",
+        "credit_id": "69fe2a78a6f7a39603076c52",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341485,
+        "known_for_department": "Acting",
+        "name": "Ananth Babu",
+        "original_name": "Ananth Babu",
+        "popularity": 0.8884,
+        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
+        "cast_id": 48,
+        "character": "",
+        "credit_id": "69fe2a8922c22b7ded076c1e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430836,
+        "known_for_department": "Acting",
+        "name": "Kadambari Kiran",
+        "original_name": "Kadambari Kiran",
+        "popularity": 0.8561,
+        "profile_path": "/j6oQNoZw0pT40e0RdtyKB84VuIE.jpg",
+        "cast_id": 49,
+        "character": "Sentry",
+        "credit_id": "69fe2a936e6c9b382fa5eccc",
+        "order": 24
       }
     ],
     "crew": [
@@ -275,33 +419,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
-        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
-        "credit_id": "5a50c6c1c3a368755300901b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1332692,
-        "known_for_department": "Acting",
-        "name": "L. B. Sriram",
-        "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
-        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
-        "credit_id": "5a50c6eac3a368751f00908a",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1060277,
-        "known_for_department": "Directing",
-        "name": "E.V.V. Satyanarayana",
-        "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "5a50c80e9251411330008dbc",
         "department": "Writing",
@@ -314,7 +432,20 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "5a50c6c1c3a368755300901b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "68e4b52710fb2072ddc28222",
         "department": "Writing",
@@ -327,7 +458,7 @@
         "known_for_department": "Camera",
         "name": "K. Ravindra Babu",
         "original_name": "K. Ravindra Babu",
-        "popularity": 0.0441,
+        "popularity": 0.2883,
         "profile_path": null,
         "credit_id": "68e4b5439c0452f88f618346",
         "department": "Editing",
@@ -340,7 +471,7 @@
         "known_for_department": "Production",
         "name": "K. L. Narayana",
         "original_name": "K. L. Narayana",
-        "popularity": 0.0404,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "68e4b5d3f9a0a7ee5a36f149",
         "department": "Production",
@@ -353,7 +484,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "69904c37d070fa1121efaa12",
         "department": "Sound",
@@ -366,7 +497,7 @@
         "known_for_department": "Sound",
         "name": "Thotakura Somaraju",
         "original_name": "Thotakura Somaraju",
-        "popularity": 0.1819,
+        "popularity": 0.3745,
         "profile_path": null,
         "credit_id": "69904c5739453eee9b4ec9f9",
         "department": "Sound",
@@ -379,13 +510,150 @@
         "known_for_department": "Camera",
         "name": "S. Gopala Reddy",
         "original_name": "S. Gopala Reddy",
-        "popularity": 0.1402,
+        "popularity": 0.3357,
         "profile_path": null,
         "credit_id": "69904c7321fbe8ff138c9529",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332692,
+        "known_for_department": "Acting",
+        "name": "L. B. Sriram",
+        "original_name": "L. B. Sriram",
+        "popularity": 1.3224,
+        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
+        "credit_id": "69fe28210ea5d91cbaa5ec74",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199453,
+        "known_for_department": "Writing",
+        "name": "Ramani",
+        "original_name": "Ramani",
+        "popularity": 0.3064,
+        "profile_path": null,
+        "credit_id": "69fe288174eb8a36eea5ecc7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3437958,
+        "known_for_department": "Art",
+        "name": "Ashok Kumar",
+        "original_name": "Ashok Kumar",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "69fe28ae55e88ba2fba5ed7e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673473,
+        "known_for_department": "Crew",
+        "name": "Horse Babu",
+        "original_name": "Horse Babu",
+        "popularity": 0.5665,
+        "profile_path": null,
+        "credit_id": "69fe28c44cb319619050e602",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660553,
+        "known_for_department": "Writing",
+        "name": "Veturi Sundararama Murthy",
+        "original_name": "Veturi Sundararama Murthy",
+        "popularity": 0.3327,
+        "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
+        "credit_id": "69fe28db74eb8a36eea5ecdd",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2292001,
+        "known_for_department": "Writing",
+        "name": "Bhuvana Chandra",
+        "original_name": "Bhuvana Chandra",
+        "popularity": 0.3215,
+        "profile_path": "/AsD9UxT9kMLYMpkckrhNp0m0XtN.jpg",
+        "credit_id": "69fe28ea7336f085e3f6850d",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2229803,
+        "known_for_department": "Writing",
+        "name": "Vennelekanti",
+        "original_name": "Vennelekanti",
+        "popularity": 0.2832,
+        "profile_path": null,
+        "credit_id": "69fe28fc33818c06258ab33d",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89154,
+        "known_for_department": "Acting",
+        "name": "Prabhu Deva",
+        "original_name": "Prabhu Deva",
+        "popularity": 3.7944,
+        "profile_path": "/lfVxoyweEPkIu6zFa44ajPuSJA1.jpg",
+        "credit_id": "69fe291399685556054c7144",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237968,
+        "known_for_department": "Crew",
+        "name": "Raju Sundaram",
+        "original_name": "Raju Sundaram",
+        "popularity": 1.8892,
+        "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+        "credit_id": "69fe29202e15e1b5a9878c96",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199454,
+        "known_for_department": "Production",
+        "name": "Sanga Kumara Swamy",
+        "original_name": "Sanga Kumara Swamy",
+        "popularity": 0.2746,
+        "profile_path": null,
+        "credit_id": "69fe2943832bc977a6f68594",
+        "department": "Production",
+        "job": "Production Manager"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0282554",
+    "wikidata_id": "Q5708631",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -394,9 +662,6 @@
         "name": "twins"
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -445,5 +710,25 @@
         "width": 1280
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1994-04-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

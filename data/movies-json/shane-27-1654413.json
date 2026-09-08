@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Shane 27",
   "overview": "",
-  "popularity": 0.0362,
+  "popularity": 1.0018,
   "poster_path": null,
   "production_companies": [
     {
@@ -59,6 +59,21 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Shane Nigam",
         "original_name": "Shane Nigam",
-        "popularity": 0.6928,
+        "popularity": 1.7442,
         "profile_path": "/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg",
         "cast_id": 1,
         "character": "",
@@ -84,7 +99,7 @@
         "known_for_department": "Editing",
         "name": "Sagar Udagandla",
         "original_name": "Sagar Udagandla",
-        "popularity": 0,
+        "popularity": 0.3063,
         "profile_path": null,
         "credit_id": "69bc14fc82babb958aa98827",
         "department": "Directing",
@@ -97,7 +112,7 @@
         "known_for_department": "Editing",
         "name": "Sagar Udagandla",
         "original_name": "Sagar Udagandla",
-        "popularity": 0,
+        "popularity": 0.3063,
         "profile_path": null,
         "credit_id": "69bc1f5d70857e73f22c9c84",
         "department": "Writing",
@@ -110,7 +125,7 @@
         "known_for_department": "Sound",
         "name": "Sam C S",
         "original_name": "Sam C S",
-        "popularity": 0.7424,
+        "popularity": 0.9357,
         "profile_path": "/8BPr4V5PmGz28swrkxDI2bOl1i9.jpg",
         "credit_id": "69bc1f71798a53ea652c9c2e",
         "department": "Sound",
@@ -123,7 +138,7 @@
         "known_for_department": "Camera",
         "name": "Aboorvan",
         "original_name": "Aboorvan",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc1f86e56438a99823d999",
         "department": "Camera",
@@ -136,7 +151,7 @@
         "known_for_department": "Directing",
         "name": "Dwarakesh",
         "original_name": "Dwarakesh",
-        "popularity": 0.0071,
+        "popularity": 0.3044,
         "profile_path": null,
         "credit_id": "69bc1f9cdd0e003613052a1d",
         "department": "Camera",
@@ -149,7 +164,7 @@
         "known_for_department": "Writing",
         "name": "Nikhil Naidu",
         "original_name": "Nikhil Naidu",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc1fb769e92e07c53b9f18",
         "department": "Writing",
@@ -162,7 +177,7 @@
         "known_for_department": "Writing",
         "name": "Nikhil Naidu",
         "original_name": "Nikhil Naidu",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc1fc296773f0b9da989d5",
         "department": "Production",
@@ -175,7 +190,7 @@
         "known_for_department": "Editing",
         "name": "Ravi Mandla",
         "original_name": "Ravi Mandla",
-        "popularity": 0,
+        "popularity": 0.2143,
         "profile_path": null,
         "credit_id": "69bc1fcc6af8642c4f57dcaf",
         "department": "Editing",
@@ -188,7 +203,7 @@
         "known_for_department": "Directing",
         "name": "G Mallikarjuna Reddy",
         "original_name": "G Mallikarjuna Reddy",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc1fe9efc9f502f20529e6",
         "department": "Directing",
@@ -201,7 +216,7 @@
         "known_for_department": "Art",
         "name": "Karthik Aakavaram",
         "original_name": "Karthik Aakavaram",
-        "popularity": 0,
+        "popularity": 0.2143,
         "profile_path": null,
         "credit_id": "69bc1ff7e99f85df7223daac",
         "department": "Art",
@@ -214,7 +229,7 @@
         "known_for_department": "Directing",
         "name": "Parashuram S",
         "original_name": "Parashuram S",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "69bc200d7d78dcf5362c9c2c",
         "department": "Directing",
@@ -227,7 +242,7 @@
         "known_for_department": "Directing",
         "name": "Poulimi Suneel Kumar",
         "original_name": "Poulimi Suneel Kumar",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc202b6dd6a0ef8a2ca10d",
         "department": "Directing",
@@ -240,7 +255,7 @@
         "known_for_department": "Directing",
         "name": "Ranjan",
         "original_name": "Ranjan",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc203b209460736923da37",
         "department": "Directing",
@@ -253,7 +268,7 @@
         "known_for_department": "Directing",
         "name": "Rajesh indla",
         "original_name": "Rajesh indla",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc20474297e4600f2c9d90",
         "department": "Directing",
@@ -266,7 +281,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Divya Kantamaneni",
         "original_name": "Divya Kantamaneni",
-        "popularity": 0,
+        "popularity": 0.2236,
         "profile_path": null,
         "credit_id": "69bc20527d78dcf5362c9c36",
         "department": "Costume & Make-Up",
@@ -279,7 +294,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.2716,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "69bc20859c3955aacb23dc15",
         "department": "Crew",
@@ -292,7 +307,7 @@
         "known_for_department": "Visual Effects",
         "name": "Ashok Pulugujja",
         "original_name": "Ashok Pulugujja",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc20967c5effd7f223db09",
         "department": "Visual Effects",
@@ -305,7 +320,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Balu",
         "original_name": "Balu",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc20ababb6daaa8e57dbde",
         "department": "Costume & Make-Up",
@@ -318,7 +333,7 @@
         "known_for_department": "Production",
         "name": "Suresh Kumar",
         "original_name": "Suresh Kumar",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69bc212e84217d3024e13547",
         "department": "Production",
@@ -326,26 +341,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
   },
   "release_dates": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "alternative_titles": {
     "titles": []

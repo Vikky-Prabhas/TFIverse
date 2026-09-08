@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Howrah Bridge",
   "overview": "Arjun is a software engineer working in Kolkata. He loves Sweety right from his childhood and he finds it so difficult to forget her. He comes to Machavaram village for her and befriend her as childhood friend. They both get along well and after series of incidents she also falls for him and she cancels her marriage with her brother in law. This is the time where Arjun leaves the village and sends Sweety a video message and says he don’t want marriage with her. What is the reason for him to do so? What happens after that?",
-  "popularity": 0.532,
+  "popularity": 0.8268,
   "poster_path": "/h3ze3sHH8OfJEOjidMiiGFXtEVZ.jpg",
   "production_companies": [
     {
@@ -59,6 +59,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ravindran",
         "original_name": "Rahul Ravindran",
-        "popularity": 0.2363,
+        "popularity": 1.0167,
         "profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
         "cast_id": 2,
         "character": "Arjun",
@@ -82,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Chandini Chowdary",
         "original_name": "Chandini Chowdary",
-        "popularity": 0.4738,
+        "popularity": 0.6267,
         "profile_path": "/fdTnr31mXvexy7r6qobEYt3VPNk.jpg",
         "cast_id": 1,
         "character": "Sweety",
@@ -96,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.7675,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 3,
         "character": "",
@@ -109,8 +119,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,9 +132,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "",
@@ -138,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 6,
         "character": "",
@@ -152,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas Sreenu",
         "original_name": "Prabhas Sreenu",
-        "popularity": 0.2334,
+        "popularity": 1.3484,
         "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
         "cast_id": 7,
         "character": "",
@@ -166,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Vidyullekha Raman",
         "original_name": "Vidyullekha Raman",
-        "popularity": 0.3743,
+        "popularity": 0.9545,
         "profile_path": "/shYIb0u7bGOrgxvXJxkZosCCmeW.jpg",
         "cast_id": 8,
         "character": "",
@@ -180,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Manali Rathod",
         "original_name": "Manali Rathod",
-        "popularity": 0.1077,
+        "popularity": 0.7375,
         "profile_path": "/b3crDY8sBb8NwnMDmLGt9v7tVZm.jpg",
         "cast_id": 14,
         "character": "",
@@ -192,37 +202,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1748422,
-        "known_for_department": "Sound",
-        "name": "Shekar Chandra",
-        "original_name": "Shekar Chandra",
-        "popularity": 0.0659,
-        "profile_path": null,
-        "credit_id": "5a76dae0925141059f042447",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1972502,
-        "known_for_department": "Directing",
-        "name": "Rewon Yadhu",
-        "original_name": "Rewon Yadhu",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "5a76db05c3a36859fc048712",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1488793,
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "5a76db2c0e0a266430049b44",
         "department": "Editing",
@@ -235,11 +219,11 @@
         "known_for_department": "Directing",
         "name": "Rewon Yadhu",
         "original_name": "Rewon Yadhu",
-        "popularity": 0.0261,
+        "popularity": 0.3089,
         "profile_path": null,
-        "credit_id": "5a76dafe0e0a26642a048a2e",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5a76db05c3a36859fc048712",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -248,23 +232,39 @@
         "known_for_department": "Crew",
         "name": "Vijay Mishra",
         "original_name": "Vijay Mishra",
-        "popularity": 0.0143,
+        "popularity": 0.3107,
         "profile_path": null,
         "credit_id": "5a76db180e0a26642a048a4c",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748422,
+        "known_for_department": "Sound",
+        "name": "Shekar Chandra",
+        "original_name": "Shekar Chandra",
+        "popularity": 0.3119,
+        "profile_path": null,
+        "credit_id": "5a76dae0925141059f042447",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1972502,
+        "known_for_department": "Directing",
+        "name": "Rewon Yadhu",
+        "original_name": "Rewon Yadhu",
+        "popularity": 0.3089,
+        "profile_path": null,
+        "credit_id": "5a76dafe0e0a26642a048a2e",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": [
@@ -292,15 +292,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Howraah Bridge",
-        "type": "Telugu"
       }
     ]
   },
@@ -358,6 +349,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Howraah Bridge",
+        "type": "Telugu"
       }
     ]
   }

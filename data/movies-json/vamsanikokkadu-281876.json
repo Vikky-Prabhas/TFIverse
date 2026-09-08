@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Vamsanikokkadu",
   "overview": "Cast : Balakrishna, Ramyakrishna Music : Koti Director : Sarath",
-  "popularity": 0.3069,
+  "popularity": 1.3888,
   "poster_path": "/hoJdmCc4kLxOrwOGadLgFWx8BUj.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -35,108 +35,6 @@
   "vote_count": 0,
   "videos": {
     "results": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 150529,
-        "known_for_department": "Acting",
-        "name": "Nandamuri Balakrishna",
-        "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
-        "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
-        "cast_id": 0,
-        "character": "",
-        "credit_id": "53c3ac3d0e0a26158500c216",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 141701,
-        "known_for_department": "Acting",
-        "name": "Ramya Krishnan",
-        "original_name": "Ramya Krishnan",
-        "popularity": 2.2012,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "53c3ac450e0a26157900c383",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 581097,
-        "known_for_department": "Acting",
-        "name": "Aamani",
-        "original_name": "Aamani",
-        "popularity": 0.3229,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "53c3ac500e0a26158900c5ae",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "53c3ac580e0a26158500c219",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1041998,
-        "known_for_department": "Sound",
-        "name": "M. Ranga Rao",
-        "original_name": "M. Ranga Rao",
-        "popularity": 0.1345,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "53c3ac790e0a26158900c5b5",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1337559,
-        "known_for_department": "Directing",
-        "name": "Sarath",
-        "original_name": "Sarath",
-        "popularity": 0.1954,
-        "profile_path": null,
-        "credit_id": "53c3acb30e0a26158200c45b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 552984,
-        "known_for_department": "Sound",
-        "name": "Saluri Koteswara Rao",
-        "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.1762,
-        "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
-        "credit_id": "53c3acc50e0a26158900c5bd",
-        "department": "Sound",
-        "job": "Music"
-      }
-    ]
   },
   "keywords": {
     "keywords": []
@@ -171,6 +69,108 @@
         "iso_3166_1": "IN",
         "title": "Vamsanikokkadu",
         "type": ""
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150529,
+        "known_for_department": "Acting",
+        "name": "Nandamuri Balakrishna",
+        "original_name": "Nandamuri Balakrishna",
+        "popularity": 1.6369,
+        "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "53c3ac3d0e0a26158500c216",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141701,
+        "known_for_department": "Acting",
+        "name": "Ramya Krishnan",
+        "original_name": "Ramya Krishnan",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "53c3ac450e0a26157900c383",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 581097,
+        "known_for_department": "Acting",
+        "name": "Aamani",
+        "original_name": "Aamani",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "53c3ac500e0a26158900c5ae",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "53c3ac580e0a26158500c219",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041998,
+        "known_for_department": "Sound",
+        "name": "M. Ranga Rao",
+        "original_name": "M. Ranga Rao",
+        "popularity": 0.4328,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "53c3ac790e0a26158900c5b5",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337559,
+        "known_for_department": "Directing",
+        "name": "Sarath",
+        "original_name": "Sarath",
+        "popularity": 0.6515,
+        "profile_path": null,
+        "credit_id": "53c3acb30e0a26158200c45b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552984,
+        "known_for_department": "Sound",
+        "name": "Saluri Koteswara Rao",
+        "original_name": "Saluri Koteswara Rao",
+        "popularity": 0.5667,
+        "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
+        "credit_id": "53c3acc50e0a26158900c5bd",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
   },

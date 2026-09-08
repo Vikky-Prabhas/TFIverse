@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "FIGMENT",
   "overview": "A teenager is trapped in a loop in his hostel and must find a way to escape.",
-  "popularity": 0.0193,
+  "popularity": 0.4497,
   "poster_path": "/2I1skFWBx1JOn7NtZ4F4YaftbhB.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Akash Praveen",
         "original_name": "Akash Praveen",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 1,
         "character": "Jaya Shankar",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Sai Raj",
         "original_name": "Sai Raj",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": null,
         "cast_id": 2,
         "character": "Arav",
@@ -83,7 +83,7 @@
         "known_for_department": "Directing",
         "name": "Jaya Prakash Kadali",
         "original_name": "Jaya Prakash Kadali",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67dc22768af452f30fe9f0c1",
         "department": "Directing",
@@ -96,7 +96,7 @@
         "known_for_department": "Sound",
         "name": "Mada Charak",
         "original_name": "Mada Charak",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67dc45d5c60d5177adea1ea4",
         "department": "Sound",
@@ -109,7 +109,7 @@
         "known_for_department": "Crew",
         "name": "Hermes Deena",
         "original_name": "Hermes Deena",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67dc45e35ef4639ebae7b141",
         "department": "Crew",
@@ -122,7 +122,7 @@
         "known_for_department": "Production",
         "name": "Akash Praveen",
         "original_name": "Akash Praveen",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67dc46062dba6686257fb551",
         "department": "Production",
@@ -135,7 +135,7 @@
         "known_for_department": "Directing",
         "name": "Jaya Prakash Kadali",
         "original_name": "Jaya Prakash Kadali",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67dc461d0d339bb7147fc4d1",
         "department": "Editing",
@@ -146,13 +146,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": [
       {
@@ -160,6 +153,13 @@
         "name": "figment"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -177,9 +177,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "release_dates": {
     "results": [
       {
@@ -196,5 +193,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

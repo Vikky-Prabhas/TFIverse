@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఆనంద్",
   "overview": "A rich guy falls in love with an independent and strong-minded girl, and moves into her simple neighborhood to earn her love.",
-  "popularity": 0.3506,
+  "popularity": 0.7071,
   "poster_path": "/nEy1ue2wOGPfGsgVAhRzurRo6Xt.jpg",
   "production_companies": [
     {
@@ -59,8 +59,8 @@
   "tagline": "Manchi coffee lanti cinema!",
   "title": "Anand",
   "video": false,
-  "vote_average": 6.5,
-  "vote_count": 20,
+  "vote_average": 6.795,
+  "vote_count": 22,
   "credits": {
     "cast": [
       {
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Raja",
         "original_name": "Raja",
-        "popularity": 0.2891,
+        "popularity": 1.1919,
         "profile_path": "/ibHIlBmK6GLEKQPQd43YX0i9C8d.jpg",
         "cast_id": 1,
         "character": "Anand",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Kamalinee Mukherjee",
         "original_name": "Kamalinee Mukherjee",
-        "popularity": 0.6167,
+        "popularity": 0.9816,
         "profile_path": "/xoOdHUgXUAIzsrCgAwSsXT9pXrE.jpg",
         "cast_id": 5,
         "character": "Roopa",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Anish Kuruvilla",
         "original_name": "Anish Kuruvilla",
-        "popularity": 0.4246,
+        "popularity": 1.6501,
         "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
         "cast_id": 7,
         "character": "Raju",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Satya Krishnan",
         "original_name": "Satya Krishnan",
-        "popularity": 0.2301,
+        "popularity": 1.0771,
         "profile_path": "/8ymNkVGuJuAQkYcVc2ZZuxw6xov.jpg",
         "cast_id": 8,
         "character": "Anitha",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Anuj Gurwara",
         "original_name": "Anuj Gurwara",
-        "popularity": 0.1359,
+        "popularity": 0.4994,
         "profile_path": null,
         "cast_id": 9,
         "character": "Rahul",
@@ -140,7 +140,7 @@
         "known_for_department": "Production",
         "name": "Gopichand Lagadapati",
         "original_name": "Gopichand Lagadapati",
-        "popularity": 0.0071,
+        "popularity": 0.2788,
         "profile_path": null,
         "cast_id": 10,
         "character": "Ram",
@@ -154,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Gururaj Manepalli",
         "original_name": "Gururaj Manepalli",
-        "popularity": 0.1224,
+        "popularity": 0.3412,
         "profile_path": null,
         "cast_id": 15,
         "character": "Anand's Father",
@@ -168,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Shankar Melkote",
         "original_name": "Shankar Melkote",
-        "popularity": 0.0867,
+        "popularity": 0.6094,
         "profile_path": "/mfmmQ7zfIdZ6yXFDydWVXlzrAW3.jpg",
         "cast_id": 16,
         "character": "Roopa's Boss",
@@ -182,7 +182,7 @@
         "known_for_department": "Directing",
         "name": "Sekhar Kammula",
         "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
+        "popularity": 0.6492,
         "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
         "cast_id": 17,
         "character": "Cameo Appearance as Auto Driver",
@@ -196,7 +196,7 @@
         "known_for_department": "Sound",
         "name": "Sunitha Upadrashta",
         "original_name": "Sunitha Upadrashta",
-        "popularity": 0.1098,
+        "popularity": 0.5075,
         "profile_path": "/52q2RvD7fRpKVku8VNyae9H7iNs.jpg",
         "cast_id": 22,
         "character": "Roopa (Voice)",
@@ -212,20 +212,7 @@
         "known_for_department": "Directing",
         "name": "Sekhar Kammula",
         "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
-        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
-        "credit_id": "52fe4b709251416c910da5cb",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 215917,
-        "known_for_department": "Directing",
-        "name": "Sekhar Kammula",
-        "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
+        "popularity": 0.6492,
         "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
         "credit_id": "52fe4b709251416c910da5d5",
         "department": "Writing",
@@ -234,11 +221,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 215917,
+        "known_for_department": "Directing",
+        "name": "Sekhar Kammula",
+        "original_name": "Sekhar Kammula",
+        "popularity": 0.6492,
+        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
+        "credit_id": "52fe4b709251416c910da5cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 3630509,
         "known_for_department": "Crew",
         "name": "Nixon Cruz Master",
         "original_name": "Nixon Cruz Master",
-        "popularity": 0.1809,
+        "popularity": 0.3617,
         "profile_path": null,
         "credit_id": "62d7622acaa508004fffdbf4",
         "department": "Crew",
@@ -247,11 +247,37 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2314247,
+        "known_for_department": "Production",
+        "name": "Chandra Sekhar Kammula",
+        "original_name": "Chandra Sekhar Kammula",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "61c2b52ea93d25004139d74a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215917,
+        "known_for_department": "Directing",
+        "name": "Sekhar Kammula",
+        "original_name": "Sekhar Kammula",
+        "popularity": 0.6492,
+        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
+        "credit_id": "61c2b5102ac49900604e44a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2314682,
         "known_for_department": "Sound",
         "name": "K M Radha Krishnan",
         "original_name": "K M Radha Krishnan",
-        "popularity": 0.0901,
+        "popularity": 0.2823,
         "profile_path": null,
         "credit_id": "61c2b2f8544c410097b5be46",
         "department": "Sound",
@@ -264,7 +290,7 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.0586,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "61c2b366e25860006060be4e",
         "department": "Writing",
@@ -273,37 +299,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 215917,
-        "known_for_department": "Directing",
-        "name": "Sekhar Kammula",
-        "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
-        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
-        "credit_id": "61c2b5102ac49900604e44a0",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2314247,
-        "known_for_department": "Production",
-        "name": "Chandra Sekhar Kammula",
-        "original_name": "Chandra Sekhar Kammula",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "61c2b52ea93d25004139d74a",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 544993,
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "5964d8a69251410c56104f49",
         "department": "Editing",
@@ -316,16 +316,13 @@
         "known_for_department": "Camera",
         "name": "Vijay C. Kumar",
         "original_name": "Vijay C. Kumar",
-        "popularity": 0.0264,
+        "popularity": 0.328,
         "profile_path": null,
         "credit_id": "59914342c3a36806d500900b",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0857300",
@@ -336,6 +333,9 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -351,15 +351,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Anand",
-        "type": "Movie"
       }
     ]
   },
@@ -538,6 +529,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 626
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Anand",
+        "type": "Movie"
       }
     ]
   }

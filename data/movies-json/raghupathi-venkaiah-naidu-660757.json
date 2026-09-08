@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "రఘుపతి వెంకయ్య నాయుడు",
   "overview": "Raghupathi Venkaiah Naidu depicts the life journey and success of a legendary man who came to be known as the father of Telugu cinema.",
-  "popularity": 0.3263,
+  "popularity": 0.7586,
   "poster_path": "/ap4RwHihiddmRmBSEzDolSmGMEw.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.4543,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Vaahini",
         "original_name": "Vaahini",
-        "popularity": 0.0409,
+        "popularity": 0.276,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Maharshi Raghava",
         "original_name": "Maharshi Raghava",
-        "popularity": 0.1178,
+        "popularity": 0.6853,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -109,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Prasad Babu",
         "original_name": "Prasad Babu",
-        "popularity": 0.1678,
+        "popularity": 1.0868,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -123,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Raavi Kondala Rao",
         "original_name": "Raavi Kondala Rao",
-        "popularity": 0.266,
+        "popularity": 0.5413,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -137,7 +140,7 @@
         "known_for_department": "Editing",
         "name": "Sai Kanth",
         "original_name": "Sai Kanth",
-        "popularity": 0.0168,
+        "popularity": 0.302,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -151,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Shankar Melkote",
         "original_name": "Shankar Melkote",
-        "popularity": 0.0718,
+        "popularity": 0.6094,
         "profile_path": "/mfmmQ7zfIdZ6yXFDydWVXlzrAW3.jpg",
         "cast_id": 8,
         "character": "",
@@ -165,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 9,
         "character": "",
@@ -181,16 +184,13 @@
         "known_for_department": "Directing",
         "name": "Babji",
         "original_name": "Babji",
-        "popularity": 0.0592,
+        "popularity": 0.3221,
         "profile_path": null,
         "credit_id": "5e1080e25907de0012da5f7e",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt11354272",
@@ -201,9 +201,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -221,6 +218,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [

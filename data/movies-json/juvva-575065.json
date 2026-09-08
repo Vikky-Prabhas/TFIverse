@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Juvva",
   "overview": "Basavaraju is an arrogant rich kid who desperately lusts over his schoolmate Shruthi(Palak Lalwani). In that process, he kills the school principal and gets sentenced to jail for 14 years. Upset with this, Shruthi’s parents change her identity and shift her to Hyderabad. There, she gets close to Rana (Ranjith Somi), who is an easy going guy.  When everything seems to be going well in their life, Basavaraju comes out of the Jail and starts looking for Shruthi. Will Basavaraju find Shruthi’s whereabouts? What will Rana do to save his girl’s life?",
-  "popularity": 0.2276,
+  "popularity": 0.9037,
   "poster_path": "/hztUckOC9yodhcCBmLcLbSjkEoC.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,13 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt8108214",
+    "wikidata_id": "Q65320449",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Palak Lalwani",
         "original_name": "Palak Lalwani",
-        "popularity": 0.2256,
+        "popularity": 1.1599,
         "profile_path": "/k0oNciIyNXUAEjZM5soOJKSppG3.jpg",
         "cast_id": 1,
         "character": "",
@@ -64,12 +71,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1547723,
-        "known_for_department": "Writing",
-        "name": "Trikoti",
+        "known_for_department": "Directing",
+        "name": "Trikoti Peta",
         "original_name": "Trikoti",
-        "popularity": 0.0793,
+        "popularity": 0.3148,
         "profile_path": null,
         "credit_id": "5c4a3c2c9251410e2456ea1c",
         "department": "Directing",
@@ -93,32 +100,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt8108214",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-02-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -149,5 +132,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-02-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

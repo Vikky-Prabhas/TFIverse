@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ప్రేమిస్తున్నా",
   "overview": "A boy struggles to express his love to a girl he loves deeply, but she fails to understand his mental state. The burning flame in a loving heart seeks solitude and comfort, making it difficult to express emotions through words.",
-  "popularity": 0.0967,
+  "popularity": 0.8638,
   "poster_path": "/4f5ynafEmhJKIrfmDkbWcHzBoDy.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Sathvik Varma",
         "original_name": "Sathvik Varma",
-        "popularity": 0.2376,
+        "popularity": 0.5434,
         "profile_path": "/61GWgnQ3qTeULLhMHbdHVlZ2xg.jpg",
         "cast_id": 1,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Preeti Neha",
         "original_name": "Preeti Neha",
-        "popularity": 0,
+        "popularity": 0.3593,
         "profile_path": "/jR3ct5IkoATHIyvDlYgiGN9dmkk.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Viji Chandrasekhar",
         "original_name": "Viji Chandrasekhar",
-        "popularity": 0.384,
+        "popularity": 2.0323,
         "profile_path": "/aErRKX7Z6iS6kwFxVQhXxd3OQIr.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Subbu Panchu",
         "original_name": "Subbu Panchu",
-        "popularity": 0.2649,
+        "popularity": 0.9646,
         "profile_path": "/jxGqgwuOoV5ZwvV1vIr4eoKENod.jpg",
         "cast_id": 4,
         "character": "",
@@ -115,7 +115,7 @@
         "known_for_department": "Directing",
         "name": "Shankar Bhanu",
         "original_name": "Shankar Bhanu",
-        "popularity": 0.0071,
+        "popularity": 0.4768,
         "profile_path": null,
         "credit_id": "69143f11c5c5faff3aa0d63e",
         "department": "Directing",
@@ -139,8 +139,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt36812691",
+    "wikidata_id": "Q136876569",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -186,14 +190,10 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt36812691",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Rights",
   "overview": "Three rich friends (businessmen) from the city set out to meet a recluse writer in a village to get the film rights for his short story.",
-  "popularity": 0.0872,
+  "popularity": 1.4826,
   "poster_path": "/d79nHe5zo2yvyntaQK3TXzCMv3g.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,107 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2179236,
-        "known_for_department": "Directing",
-        "name": "Camp Sasi",
-        "original_name": "Camp Sasi",
-        "popularity": 0.1426,
-        "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
-        "cast_id": 4,
-        "character": "Raju",
-        "credit_id": "6539682d2811a1014d609ef4",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2198108,
-        "known_for_department": "Acting",
-        "name": "Pawan Ramesh",
-        "original_name": "Pawan Ramesh",
-        "popularity": 0.0404,
-        "profile_path": "/Tqr1U7K2jjNyU1SR70ZuZd7A9W.jpg",
-        "cast_id": 5,
-        "character": "Seenu",
-        "credit_id": "65396889091e62011baf9f9c",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4339420,
-        "known_for_department": "Directing",
-        "name": "Ramana Reddy",
-        "original_name": "Ramana Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "Sharath",
-        "credit_id": "653969472811a1012c98aa68",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2471232,
-        "known_for_department": "Camera",
-        "name": "S Vijay Kumar",
-        "original_name": "S Vijay Kumar",
-        "popularity": 0.0579,
-        "profile_path": null,
-        "cast_id": 7,
-        "character": "Writer Vijay Kumar",
-        "credit_id": "65396c902811a100c90a1ac4",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4339420,
-        "known_for_department": "Directing",
-        "name": "Ramana Reddy",
-        "original_name": "Ramana Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6539679224f2ce00ff70ec27",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2288307,
-        "known_for_department": "Camera",
-        "name": "Shashank Raghavula",
-        "original_name": "Shashank Raghavula",
-        "popularity": 0.0338,
-        "profile_path": "/xaZ7XjyjpvTvfo6CmlaOnuCMbYg.jpg",
-        "credit_id": "65396802955c6500e1fe5ef2",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3860290,
-        "known_for_department": "Sound",
-        "name": "Ravi Nidamarthy",
-        "original_name": "Ravi Nidamarthy",
-        "popularity": 0.0071,
-        "profile_path": "/sRonTi4K5G22OGwHHlWkdK8czAI.jpg",
-        "credit_id": "653967dd24f2ce00ad7e5d1e",
-        "department": "Sound",
-        "job": "Music"
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -151,12 +50,125 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 796,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/d79nHe5zo2yvyntaQK3TXzCMv3g.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 531
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2179236,
+        "known_for_department": "Directing",
+        "name": "Camp Sasi",
+        "original_name": "Camp Sasi",
+        "popularity": 0.475,
+        "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
+        "cast_id": 4,
+        "character": "Raju",
+        "credit_id": "6539682d2811a1014d609ef4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198108,
+        "known_for_department": "Acting",
+        "name": "Pawan Ramesh",
+        "original_name": "Pawan Ramesh",
+        "popularity": 0.6184,
+        "profile_path": "/Tqr1U7K2jjNyU1SR70ZuZd7A9W.jpg",
+        "cast_id": 5,
+        "character": "Seenu",
+        "credit_id": "65396889091e62011baf9f9c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4339420,
+        "known_for_department": "Directing",
+        "name": "Ramana Reddy",
+        "original_name": "Ramana Reddy",
+        "popularity": 0.411,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sharath",
+        "credit_id": "653969472811a1012c98aa68",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2471232,
+        "known_for_department": "Camera",
+        "name": "S Vijay Kumar",
+        "original_name": "S Vijay Kumar",
+        "popularity": 0.3331,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Writer Vijay Kumar",
+        "credit_id": "65396c902811a100c90a1ac4",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4339420,
+        "known_for_department": "Directing",
+        "name": "Ramana Reddy",
+        "original_name": "Ramana Reddy",
+        "popularity": 0.411,
+        "profile_path": null,
+        "credit_id": "6539679224f2ce00ff70ec27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3860290,
+        "known_for_department": "Sound",
+        "name": "Ravi Nidamarthy",
+        "original_name": "Ravi Nidamarthy",
+        "popularity": 0.2659,
+        "profile_path": "/sRonTi4K5G22OGwHHlWkdK8czAI.jpg",
+        "credit_id": "653967dd24f2ce00ad7e5d1e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288307,
+        "known_for_department": "Camera",
+        "name": "Shashank Raghavula",
+        "original_name": "Shashank Raghavula",
+        "popularity": 0.5763,
+        "profile_path": "/xaZ7XjyjpvTvfo6CmlaOnuCMbYg.jpg",
+        "credit_id": "65396802955c6500e1fe5ef2",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -175,26 +187,14 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 796,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/d79nHe5zo2yvyntaQK3TXzCMv3g.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 531
-      }
-    ]
   }
 }

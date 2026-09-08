@@ -34,7 +34,7 @@
   "original_language": "te",
   "original_title": "చుట్టాలున్నారు జాగ్రత్త",
   "overview": "A man accused of murder and his doppelganger search the real murderer.",
-  "popularity": 0.2114,
+  "popularity": 0.6658,
   "poster_path": "/roDR5R5eN1sOx9uWFmotDF6ow6q.jpg",
   "production_companies": [
     {
@@ -67,115 +67,15 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0186922",
+    "wikidata_id": "Q12997261",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 3581,
-        "name": "witness"
-      }
-    ]
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1470750,
-        "known_for_department": "Acting",
-        "name": "Krishna",
-        "original_name": "Krishna",
-        "popularity": 0.2139,
-        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
-        "cast_id": 1,
-        "character": "Ramesh & Gangulu",
-        "credit_id": "64f90e994ccc501867e9a5d0",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 109549,
-        "known_for_department": "Acting",
-        "name": "Sridevi",
-        "original_name": "Sridevi",
-        "popularity": 1.5226,
-        "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "64f90f474ccc5018664b5fc5",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1611649,
-        "known_for_department": "Directing",
-        "name": "B. V. Prasad",
-        "original_name": "B. V. Prasad",
-        "popularity": 0.0826,
-        "profile_path": null,
-        "credit_id": "64f90faba8b2ca00ac8a341d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1335748,
-        "known_for_department": "Production",
-        "name": "Alaparthi Suryanarayana Rao",
-        "original_name": "Alaparthi Suryanarayana Rao",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "64f9100dffc9de00fe3f372e",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1107022,
-        "known_for_department": "Acting",
-        "name": "M. Balayya",
-        "original_name": "M. Balayya",
-        "popularity": 0.1489,
-        "profile_path": null,
-        "credit_id": "64f910bd4ccc501865b25240",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1107022,
-        "known_for_department": "Acting",
-        "name": "M. Balayya",
-        "original_name": "M. Balayya",
-        "popularity": 0.1489,
-        "profile_path": null,
-        "credit_id": "64f910ada84a47011d47e7dc",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1037352,
-        "known_for_department": "Writing",
-        "name": "D. V. Narasa Raju",
-        "original_name": "D. V. Narasa Raju",
-        "popularity": 0.294,
-        "profile_path": null,
-        "credit_id": "64f911228e20c50cd62a759f",
-        "department": "Writing",
-        "job": "Dialogue"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -219,11 +119,111 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0186922",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470750,
+        "known_for_department": "Acting",
+        "name": "Krishna",
+        "original_name": "Krishna",
+        "popularity": 1.4125,
+        "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
+        "cast_id": 1,
+        "character": "Ramesh & Gangulu",
+        "credit_id": "64f90e994ccc501867e9a5d0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109549,
+        "known_for_department": "Acting",
+        "name": "Sridevi",
+        "original_name": "Sridevi",
+        "popularity": 1.9417,
+        "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "64f90f474ccc5018664b5fc5",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611649,
+        "known_for_department": "Directing",
+        "name": "B. V. Prasad",
+        "original_name": "B. V. Prasad",
+        "popularity": 0.3081,
+        "profile_path": null,
+        "credit_id": "64f90faba8b2ca00ac8a341d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107022,
+        "known_for_department": "Acting",
+        "name": "M. Balayya",
+        "original_name": "M. Balayya",
+        "popularity": 1.3523,
+        "profile_path": null,
+        "credit_id": "64f910ada84a47011d47e7dc",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335748,
+        "known_for_department": "Production",
+        "name": "Alaparthi Suryanarayana Rao",
+        "original_name": "Alaparthi Suryanarayana Rao",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "64f9100dffc9de00fe3f372e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107022,
+        "known_for_department": "Acting",
+        "name": "M. Balayya",
+        "original_name": "M. Balayya",
+        "popularity": 1.3523,
+        "profile_path": null,
+        "credit_id": "64f910bd4ccc501865b25240",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037352,
+        "known_for_department": "Writing",
+        "name": "D. V. Narasa Raju",
+        "original_name": "D. V. Narasa Raju",
+        "popularity": 0.8381,
+        "profile_path": null,
+        "credit_id": "64f911228e20c50cd62a759f",
+        "department": "Writing",
+        "job": "Dialogue"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3581,
+        "name": "witness"
+      }
+    ]
   }
 }

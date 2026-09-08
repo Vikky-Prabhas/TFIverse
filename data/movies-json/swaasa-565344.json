@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "శ్వాస",
   "overview": "",
-  "popularity": 0.0994,
+  "popularity": 1.4127,
   "poster_path": "/7eEtz3iuOkZjaeS6vGcxDRmM6hD.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Nikhil Siddhartha",
         "original_name": "Nikhil Siddhartha",
-        "popularity": 0.3877,
+        "popularity": 0.9327,
         "profile_path": "/rDWBNCcHMNRf7YDPi9qMDcdm2X3.jpg",
         "cast_id": 0,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Nivetha Thomas",
         "original_name": "Nivetha Thomas",
-        "popularity": 0.422,
+        "popularity": 1.308,
         "profile_path": "/vpharRnH1sDmlyVTwWYQxy8sQpC.jpg",
         "cast_id": 1,
         "character": "Swaasa",
@@ -77,11 +77,12 @@
     ],
     "crew": []
   },
-  "release_dates": {
-    "results": []
-  },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -118,11 +119,10 @@
   "alternative_titles": {
     "titles": []
   },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
   }
 }

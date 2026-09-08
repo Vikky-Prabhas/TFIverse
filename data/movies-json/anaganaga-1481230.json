@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అనగనగా",
   "overview": "A school teacher uses innovative storytelling methods to help struggling students, overcoming various challenges to achieve his goal.",
-  "popularity": 0.35,
+  "popularity": 0.903,
   "poster_path": "/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg",
   "production_companies": [
     {
@@ -53,8 +53,8 @@
   "tagline": "The Story",
   "title": "Anaganaga",
   "video": false,
-  "vote_average": 7.9,
-  "vote_count": 4,
+  "vote_average": 7.7,
+  "vote_count": 5,
   "credits": {
     "cast": [
       {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sumanth",
         "original_name": "Sumanth",
-        "popularity": 0.4526,
+        "popularity": 0.9161,
         "profile_path": "/1KbLdhw6S9A3EBM1dUyGfSOpzXO.jpg",
         "cast_id": 1,
         "character": "Vyaas",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Kajal Choudhary",
         "original_name": "Kajal Choudhary",
-        "popularity": 0.0143,
+        "popularity": 0.3751,
         "profile_path": null,
         "cast_id": 13,
         "character": "Bhagyalakshmi",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Anu Hasan",
         "original_name": "Anu Hasan",
-        "popularity": 0.329,
+        "popularity": 1.3242,
         "profile_path": "/3RAL49aXmIE5eY5Sg0cNBlQy5vD.jpg",
         "cast_id": 4,
         "character": "Rani Amma",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.4738,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 3,
         "character": "Raja Reddy",
@@ -120,7 +120,7 @@
         "known_for_department": "Writing",
         "name": "BVS Ravi",
         "original_name": "BVS Ravi",
-        "popularity": 0.1709,
+        "popularity": 1.0614,
         "profile_path": "/4DWsT19kDA5QbQuj9fWSuflBpq6.jpg",
         "cast_id": 6,
         "character": "Narasimha Patruni",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Rakesh Rachakonda",
         "original_name": "Rakesh Rachakonda",
-        "popularity": 0.0468,
+        "popularity": 0.2989,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Kaumudi Nemani",
         "original_name": "Kaumudi Nemani",
-        "popularity": 0.0551,
+        "popularity": 0.3735,
         "profile_path": null,
         "cast_id": 5,
         "character": "Dr. Pooja Reddy",
@@ -164,7 +164,7 @@
         "known_for_department": "Production",
         "name": "Rakesh Reddy Gaddam",
         "original_name": "Rakesh Reddy Gaddam",
-        "popularity": 0.0071,
+        "popularity": 0.3047,
         "profile_path": null,
         "credit_id": "68254e75e5b34d36067e899a",
         "department": "Production",
@@ -177,7 +177,7 @@
         "known_for_department": "Camera",
         "name": "Pavan Kumar Pappula",
         "original_name": "Pavan Kumar Pappula",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "682550e1284546e0e1a171b8",
         "department": "Camera",
@@ -190,7 +190,7 @@
         "known_for_department": "Directing",
         "name": "Sunny Sanjay",
         "original_name": "Sunny Sanjay",
-        "popularity": 0.0071,
+        "popularity": 0.3296,
         "profile_path": null,
         "credit_id": "682584f4ce81a3a9f16ef5a6",
         "department": "Directing",
@@ -203,7 +203,7 @@
         "known_for_department": "Writing",
         "name": "Deepthi Sree Juttada",
         "original_name": "Deepthi Sree Juttada",
-        "popularity": 0.0261,
+        "popularity": 0.2767,
         "profile_path": null,
         "credit_id": "68258562d332be6464a17314",
         "department": "Writing",
@@ -216,7 +216,7 @@
         "known_for_department": "Directing",
         "name": "Sunny Sanjay",
         "original_name": "Sunny Sanjay",
-        "popularity": 0.0071,
+        "popularity": 0.3296,
         "profile_path": null,
         "credit_id": "682585d2d332be6464a17317",
         "department": "Writing",
@@ -229,7 +229,7 @@
         "known_for_department": "Editing",
         "name": "Venkatesh Chunduru",
         "original_name": "Venkatesh Chunduru",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "69b652c60c3542ea125c97c9",
         "department": "Editing",
@@ -237,18 +237,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt33254177",
-    "wikidata_id": "Q134475957",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -266,6 +259,16 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt33254177",
+    "wikidata_id": "Q134475957",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -432,10 +435,17 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1439
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1200,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/hQElTcomPglaDj9dowV42WBqGG4.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 800
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

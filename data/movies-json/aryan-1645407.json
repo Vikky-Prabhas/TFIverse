@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ARYAN",
   "overview": "After a young man is found dead in his apartment under suspicious circumstances, a seasoned investigator uncovers a chilling link to a recent suicide tied to illegal betting. With no signs of forced entry and a cryptic handwritten note left behind, the case appears to be a calculated murder. But as hidden struggles surface, the truth proves far more unsettling than anyone imagined.",
-  "popularity": 0.0362,
+  "popularity": 0.4611,
   "poster_path": "/cP4dSk0mxASNAGt7Ijf5sAiADMI.jpg",
   "production_companies": [
     {
@@ -49,7 +49,7 @@
         "known_for_department": "Production",
         "name": "Dhanush Angirekula",
         "original_name": "Dhanush Angirekula",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 3,
         "character": "Aryan",
@@ -63,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Kavadi Mahesh",
         "original_name": "Kavadi Mahesh",
-        "popularity": 0,
+        "popularity": 0.2622,
         "profile_path": null,
         "cast_id": 4,
         "character": "CI Virat Krishna",
@@ -77,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Venkat Vikram",
         "original_name": "Venkat Vikram",
-        "popularity": 0,
+        "popularity": 0.2682,
         "profile_path": null,
         "cast_id": 5,
         "character": "SI Rahul",
@@ -91,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Shanker Rachuri",
         "original_name": "Shanker Rachuri",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 6,
         "character": "Vinay",
@@ -105,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Dasaradh Kumar",
         "original_name": "Dasaradh Kumar",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 7,
         "character": "Nitish",
@@ -121,7 +121,7 @@
         "known_for_department": "Camera",
         "name": "Sai Saketh",
         "original_name": "Sai Saketh",
-        "popularity": 0,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "69a61a3b76149db8ab743a0a",
         "department": "Camera",
@@ -134,7 +134,7 @@
         "known_for_department": "Directing",
         "name": "Jeevann Anumalla",
         "original_name": "Jeevann Anumalla",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "69a61c63b8276ef7de8dcf4c",
         "department": "Directing",
@@ -147,7 +147,7 @@
         "known_for_department": "Directing",
         "name": "Jeevann Anumalla",
         "original_name": "Jeevann Anumalla",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "69a61c75833cb227ab743ad4",
         "department": "Writing",
@@ -160,7 +160,7 @@
         "known_for_department": "Camera",
         "name": "Sai Saketh",
         "original_name": "Sai Saketh",
-        "popularity": 0,
+        "popularity": 0.2907,
         "profile_path": null,
         "credit_id": "69a61c8c004ee390e28dcef3",
         "department": "Editing",
@@ -173,7 +173,7 @@
         "known_for_department": "Sound",
         "name": "Srujan Avasarala",
         "original_name": "Srujan Avasarala",
-        "popularity": 0,
+        "popularity": 0.273,
         "profile_path": null,
         "credit_id": "69a6a1a9d771ade354743d44",
         "department": "Sound",
@@ -191,9 +191,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -210,6 +207,12 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -237,8 +240,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

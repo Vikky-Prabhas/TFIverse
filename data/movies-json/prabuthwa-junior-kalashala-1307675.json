@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Prabuthwa Junior Kalashala",
   "overview": "Vasu, a boy hailing from a humble village and belonging to a lower-middle-class family, emerges as the top student in his college. However, everything changes when he notices the name \"Kumari\" written on the college walls.",
-  "popularity": 0.2158,
+  "popularity": 0.6654,
   "poster_path": "/3Mn1nHLRhjo63zhOCvggPeJGsFv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Pranav Preetham",
         "original_name": "Pranav Preetham",
-        "popularity": 0.0071,
+        "popularity": 0.3022,
         "profile_path": null,
         "cast_id": 4,
         "character": "Seenu",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Shagnasri Venun",
         "original_name": "Shagnasri Venun",
-        "popularity": 0.0071,
+        "popularity": 0.444,
         "profile_path": "/iLPBR4Bz22x0OxGIll25j9XxVXn.jpg",
         "cast_id": 5,
         "character": "Kumari",
@@ -68,24 +68,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2784459,
-        "known_for_department": "Sound",
-        "name": "Syed Kamran",
-        "original_name": "Syed Kamran",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6676aaff30adafb4ea6ff93a",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2453937,
         "known_for_department": "Directing",
         "name": "Sreenath Pulakuram",
         "original_name": "Sreenath Pulakuram",
-        "popularity": 0.0071,
+        "popularity": 0.3651,
         "profile_path": null,
         "credit_id": "6676aadda1e15091fdd720dd",
         "department": "Writing",
@@ -98,7 +85,7 @@
         "known_for_department": "Directing",
         "name": "Sreenath Pulakuram",
         "original_name": "Sreenath Pulakuram",
-        "popularity": 0.0071,
+        "popularity": 0.3651,
         "profile_path": null,
         "credit_id": "6676aac7c83eb83e1eb093ca",
         "department": "Directing",
@@ -107,23 +94,30 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2784459,
+        "known_for_department": "Sound",
+        "name": "Syed Kamran",
+        "original_name": "Syed Kamran",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "6676aaff30adafb4ea6ff93a",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 5025502,
         "known_for_department": "Camera",
         "name": "Nikhil Surendran",
         "original_name": "Nikhil Surendran",
-        "popularity": 0.0071,
+        "popularity": 0.3465,
         "profile_path": "/2gYYJfUeUNTWESTgnFHHsoq3Oo6.jpg",
         "credit_id": "671e454f2685cb6563c11c95",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt32505165",
@@ -132,22 +126,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-06-21T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -185,6 +165,26 @@
         "width": 553
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-06-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Revu",
   "overview": "Revu is an action drama where some fishermen miss out on their existence by competing with big-engine boats. A boy named Bhushan makes a machine so that even a small boat can catch the fish in equal numbers compared to big engine boats. However, an unexpected turn of events leads to his tragic death. Will they save their village and existence from their clutches?",
-  "popularity": 0.1246,
+  "popularity": 0.7353,
   "poster_path": "/iNMRYff9l50UqrYqBUzbSwcWQrk.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,80 +28,6 @@
   "video": false,
   "vote_average": 1,
   "vote_count": 1,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5064451,
-        "known_for_department": "Acting",
-        "name": "Vamsiram Pendya",
-        "original_name": "Vamsiram Pendya",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6739bcb696be3a06fad947e0",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1332692,
-        "known_for_department": "Acting",
-        "name": "L. B. Sriram",
-        "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
-        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6739bcca281ac972ea44c348",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5064452,
-        "known_for_department": "Acting",
-        "name": "Swathi Bheemireddy",
-        "original_name": "Swathi Bheemireddy",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6739bce096be3a06fad9480b",
-        "order": 2
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5064450,
-        "known_for_department": "Directing",
-        "name": "Harinath Puli",
-        "original_name": "Harinath Puli",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6739bc9a96be3a06fad947ca",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt33144173",
-    "wikidata_id": "Q130223293",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -127,8 +53,82 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt33144173",
+    "wikidata_id": "Q130223293",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5064451,
+        "known_for_department": "Acting",
+        "name": "Vamsiram Pendya",
+        "original_name": "Vamsiram Pendya",
+        "popularity": 0.3786,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6739bcb696be3a06fad947e0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332692,
+        "known_for_department": "Acting",
+        "name": "L. B. Sriram",
+        "original_name": "L. B. Sriram",
+        "popularity": 1.3224,
+        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6739bcca281ac972ea44c348",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5064452,
+        "known_for_department": "Acting",
+        "name": "Swathi Bheemireddy",
+        "original_name": "Swathi Bheemireddy",
+        "popularity": 0.3315,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6739bce096be3a06fad9480b",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5064450,
+        "known_for_department": "Directing",
+        "name": "Harinath Puli",
+        "original_name": "Harinath Puli",
+        "popularity": 0.3201,
+        "profile_path": null,
+        "credit_id": "6739bc9a96be3a06fad947ca",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   },
   "images": {
     "backdrops": [

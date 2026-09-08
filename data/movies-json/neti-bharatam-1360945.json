@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Neti Bharatam",
   "overview": "A political action film, about a new cop in town taking on the entrenched corruption of his new city.",
-  "popularity": 0.1366,
+  "popularity": 1.6627,
   "poster_path": "/zP3wJkKtFbHWimIBOdhihmIgFOM.jpg",
   "production_companies": [],
   "production_countries": [
@@ -41,6 +41,174 @@
   "vote_count": 0,
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584259,
+        "known_for_department": "Acting",
+        "name": "Vijayashanti",
+        "original_name": "Vijayashanti",
+        "popularity": 1.4045,
+        "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "66f24ae8de2d52dfbd8d69d0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661827,
+        "known_for_department": "Acting",
+        "name": "Nagabhushanam",
+        "original_name": "Nagabhushanam",
+        "popularity": 0.7024,
+        "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "66f24b487300a5ba213bd570",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 647404,
+        "known_for_department": "Acting",
+        "name": "P. L. Narayana",
+        "original_name": "P. L. Narayana",
+        "popularity": 0.3703,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "66f24b7c583c56cdb1264954",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 580893,
+        "known_for_department": "Acting",
+        "name": "Rajyalakshmi",
+        "original_name": "Rajyalakshmi",
+        "popularity": 1.2319,
+        "profile_path": "/iVQrWhfnqd45IOU1pQNmgPW8t7w.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "66f24b8a7300a5ba213bd598",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585051,
+        "known_for_department": "Acting",
+        "name": "S. Varalakshmi",
+        "original_name": "S. Varalakshmi",
+        "popularity": 1.1826,
+        "profile_path": "/3nwbn3esERTaZIfas2dsIBO9t8G.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "66f24b947ff2bf57cd26e784",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91557,
+        "known_for_department": "Acting",
+        "name": "Suman",
+        "original_name": "Suman Talwar",
+        "popularity": 1.7241,
+        "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "694dc52fce8fe9bee32fb6f8",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4003423,
+        "known_for_department": "Directing",
+        "name": "T Krishna",
+        "original_name": "T Krishna",
+        "popularity": 0.3806,
+        "profile_path": "/5eTTS2ggR3eCv0gsB5co5Y0Q76q.jpg",
+        "credit_id": "66f24c4d7ff2bf57cd26e7cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4003423,
+        "known_for_department": "Directing",
+        "name": "T Krishna",
+        "original_name": "T Krishna",
+        "popularity": 0.3806,
+        "profile_path": "/5eTTS2ggR3eCv0gsB5co5Y0Q76q.jpg",
+        "credit_id": "66f24c560315b91f463b4c29",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2772384,
+        "known_for_department": "Writing",
+        "name": "M. V. S. Haranatha Rao",
+        "original_name": "M. V. S. Haranatha Rao",
+        "popularity": 0.4589,
+        "profile_path": "/s1AusagRF2MsBh2mi9hrAgGZDWL.jpg",
+        "credit_id": "66f24c6b6c3b7a8d648e0cc2",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1280549,
+        "known_for_department": "Editing",
+        "name": "P. Venkateswara Rao",
+        "original_name": "P. Venkateswara Rao",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "66f24c8b7300a5ba213bd5fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "66f24cc27ff2bf57cd26e7ea",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -74,173 +242,5 @@
         "width": 577
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584259,
-        "known_for_department": "Acting",
-        "name": "Vijayashanti",
-        "original_name": "Vijayashanti",
-        "popularity": 0.4156,
-        "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "66f24ae8de2d52dfbd8d69d0",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1661827,
-        "known_for_department": "Acting",
-        "name": "Nagabhushanam",
-        "original_name": "Nagabhushanam",
-        "popularity": 0.0545,
-        "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "66f24b487300a5ba213bd570",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 647404,
-        "known_for_department": "Acting",
-        "name": "P. L. Narayana",
-        "original_name": "P. L. Narayana",
-        "popularity": 0.1127,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "66f24b7c583c56cdb1264954",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 580893,
-        "known_for_department": "Acting",
-        "name": "Rajyalakshmi",
-        "original_name": "Rajyalakshmi",
-        "popularity": 0.3307,
-        "profile_path": "/iVQrWhfnqd45IOU1pQNmgPW8t7w.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "66f24b8a7300a5ba213bd598",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 585051,
-        "known_for_department": "Acting",
-        "name": "S. Varalakshmi",
-        "original_name": "S. Varalakshmi",
-        "popularity": 0.2755,
-        "profile_path": "/3nwbn3esERTaZIfas2dsIBO9t8G.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "66f24b947ff2bf57cd26e784",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 91557,
-        "known_for_department": "Acting",
-        "name": "Suman Talwar",
-        "original_name": "Suman Talwar",
-        "popularity": 0.691,
-        "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
-        "cast_id": 12,
-        "character": "",
-        "credit_id": "694dc52fce8fe9bee32fb6f8",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4003423,
-        "known_for_department": "Directing",
-        "name": "T Krishna",
-        "original_name": "T Krishna",
-        "popularity": 0.0143,
-        "profile_path": "/5eTTS2ggR3eCv0gsB5co5Y0Q76q.jpg",
-        "credit_id": "66f24c4d7ff2bf57cd26e7cb",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4003423,
-        "known_for_department": "Directing",
-        "name": "T Krishna",
-        "original_name": "T Krishna",
-        "popularity": 0.0143,
-        "profile_path": "/5eTTS2ggR3eCv0gsB5co5Y0Q76q.jpg",
-        "credit_id": "66f24c560315b91f463b4c29",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2772384,
-        "known_for_department": "Writing",
-        "name": "M. V. S. Haranatha Rao",
-        "original_name": "M. V. S. Haranatha Rao",
-        "popularity": 0.0614,
-        "profile_path": "/s1AusagRF2MsBh2mi9hrAgGZDWL.jpg",
-        "credit_id": "66f24c6b6c3b7a8d648e0cc2",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1280549,
-        "known_for_department": "Editing",
-        "name": "P. Venkateswara Rao",
-        "original_name": "P. Venkateswara Rao",
-        "popularity": 0.1114,
-        "profile_path": null,
-        "credit_id": "66f24c8b7300a5ba213bd5fd",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 933605,
-        "known_for_department": "Sound",
-        "name": "K. Chakravarthy",
-        "original_name": "Chakravarthy",
-        "popularity": 0.1741,
-        "profile_path": null,
-        "credit_id": "66f24cc27ff2bf57cd26e7ea",
-        "department": "Sound",
-        "job": "Music"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

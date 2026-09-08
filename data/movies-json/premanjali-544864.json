@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Premanjali",
   "overview": "",
-  "popularity": 0.0379,
+  "popularity": 0.466,
   "poster_path": "/v3H8MJfZbRSGunTuPi9WN2cPuIE.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sujay",
         "original_name": "Sujay",
-        "popularity": 0,
+        "popularity": 0.2625,
         "profile_path": null,
         "cast_id": 0,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Swetha Nel",
         "original_name": "Swetha Nel",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Production",
         "name": "R. V. Narayana Rao",
         "original_name": "R. V. Narayana Rao",
-        "popularity": 0.0143,
+        "popularity": 0.2184,
         "profile_path": null,
         "credit_id": "5b837b0d0e0a26459203acaf",
         "department": "Production",
@@ -107,7 +107,7 @@
         "known_for_department": "Production",
         "name": "R. Bangaru Naidu",
         "original_name": "R. Bangaru Naidu",
-        "popularity": 0,
+        "popularity": 0.2143,
         "profile_path": null,
         "credit_id": "5b837b2492514159d7033f96",
         "department": "Production",
@@ -120,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "R. Varun Dora",
         "original_name": "R. Varun Dora",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837abec3a3686558044b78",
         "department": "Writing",
@@ -133,7 +133,7 @@
         "known_for_department": "Camera",
         "name": "Bhaskar Dornala",
         "original_name": "Bhaskar Dornala",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837b500e0a264589033dc2",
         "department": "Camera",
@@ -146,7 +146,7 @@
         "known_for_department": "Directing",
         "name": "R. Varun Dora",
         "original_name": "R. Varun Dora",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b83799992514159d7033e57",
         "department": "Directing",
@@ -159,7 +159,7 @@
         "known_for_department": "Sound",
         "name": "P. Govardhan",
         "original_name": "P. Govardhan",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837aecc3a368654e02f765",
         "department": "Sound",
@@ -172,7 +172,7 @@
         "known_for_department": "Editing",
         "name": "Gopi Sindam",
         "original_name": "Gopi Sindam",
-        "popularity": 0,
+        "popularity": 0.2577,
         "profile_path": null,
         "credit_id": "5b837b61c3a368655103133a",
         "department": "Editing",
@@ -185,7 +185,7 @@
         "known_for_department": "Directing",
         "name": "R. Varun Dora",
         "original_name": "R. Varun Dora",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837ac50e0a264589033d63",
         "department": "Writing",
@@ -198,7 +198,7 @@
         "known_for_department": "Directing",
         "name": "R. Varun Dora",
         "original_name": "R. Varun Dora",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837acd92514159ce030728",
         "department": "Writing",
@@ -211,23 +211,13 @@
         "known_for_department": "Production",
         "name": "Raj Nazeer",
         "original_name": "Raj Nazeer",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b837b3692514159ce0307ac",
         "department": "Production",
         "job": "Line Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -248,6 +238,18 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Premaanjali",
+        "type": "spelling"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -276,13 +278,11 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Premaanjali",
-        "type": "spelling"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

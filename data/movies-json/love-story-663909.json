@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "లవ్ స్టోరీ",
   "overview": "Revanth and Mouni dream big when it comes to their lives. But with their social standing and gender proved to be a hindrance, will they manage to find a way to let their love prevail?",
-  "popularity": 0.6088,
+  "popularity": 3.0815,
   "poster_path": "/zP9tXuxoPRpCJM0UxbxZUHYB83n.jpg",
   "production_companies": [
     {
@@ -59,10 +59,255 @@
   "tagline": "",
   "title": "Love Story",
   "video": false,
-  "vote_average": 7.176,
-  "vote_count": 17,
+  "vote_average": 6.955,
+  "vote_count": 22,
   "videos": {
     "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237052,
+        "known_for_department": "Acting",
+        "name": "Naga Chaitanya Akkineni",
+        "original_name": "Naga Chaitanya Akkineni",
+        "popularity": 1.1066,
+        "profile_path": "/tV82v41Mj5rkIKWR5ryNFonAQKw.jpg",
+        "cast_id": 2,
+        "character": "Revanth",
+        "credit_id": "5e1e5c3a511d09001281e8da",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1473119,
+        "known_for_department": "Acting",
+        "name": "Sai Pallavi",
+        "original_name": "Sai Pallavi",
+        "popularity": 1.9211,
+        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg",
+        "cast_id": 1,
+        "character": "Mounica",
+        "credit_id": "5e1e5c2cd9f4a6001799d48e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 286670,
+        "known_for_department": "Acting",
+        "name": "Devayani",
+        "original_name": "Devayani",
+        "popularity": 2.1987,
+        "profile_path": "/p03hLBmgjmRErMXHqEDlwur45Ed.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "600fba5ad55c3d003f73e0bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559738,
+        "known_for_department": "Acting",
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
+        "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "615019f2c3514c008c976b11",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1275608,
+        "known_for_department": "Acting",
+        "name": "Easwari Rao",
+        "original_name": "ఈశ్వరీ రావు",
+        "popularity": 1.5377,
+        "profile_path": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "615019fdc3514c008c976b17",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105609,
+        "known_for_department": "Acting",
+        "name": "Uttej",
+        "original_name": "Uttej",
+        "popularity": 1.2843,
+        "profile_path": "/ntwumxdq3aYSi4fJln1kPa1JlD2.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "61501a16aaf89700635549ac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2864601,
+        "known_for_department": "Acting",
+        "name": "Chakrapani Ananda",
+        "original_name": "Chakrapani Ananda",
+        "popularity": 0.7389,
+        "profile_path": "/2jvujC0gUTWWIgsjR6YSjDbhzDw.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6159003388c659008fcb2530",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3226944,
+        "known_for_department": "Acting",
+        "name": "Gangavva",
+        "original_name": "Gangavva",
+        "popularity": 0.4262,
+        "profile_path": "/fpHfFGjdoGvvS3rXHLCH67uURGn.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6159004f12aabc0065257605",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307748,
+        "known_for_department": "Camera",
+        "name": "Vijay C. Kumar",
+        "original_name": "Vijay C. Kumar",
+        "popularity": 0.328,
+        "profile_path": null,
+        "credit_id": "6077ed587390c000449e6f8d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2952684,
+        "known_for_department": "Sound",
+        "name": "Pawan Ch",
+        "original_name": "Pawan Ch",
+        "popularity": 0.2706,
+        "profile_path": null,
+        "credit_id": "6077edc97390c0005b5bbd1a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2512764,
+        "known_for_department": "Sound",
+        "name": "Mangli Satyavathi",
+        "original_name": "Mangli Satyavathi",
+        "popularity": 0.4261,
+        "profile_path": "/pNnwokSzMriSNYfA39Pos01Gv4.jpg",
+        "credit_id": "616fe4c9d4b9d90061bfc8a9",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1909092,
+        "known_for_department": "Sound",
+        "name": "Jonita Gandhi",
+        "original_name": "Jonita Gandhi",
+        "popularity": 0.9735,
+        "profile_path": "/6iJMJ3vteATOYkAE3dyVnoJHdUr.jpg",
+        "credit_id": "617c2783387651002ace97be",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215917,
+        "known_for_department": "Directing",
+        "name": "Sekhar Kammula",
+        "original_name": "Sekhar Kammula",
+        "popularity": 0.6492,
+        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
+        "credit_id": "5e1e5c50511d090014820f59",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215917,
+        "known_for_department": "Directing",
+        "name": "Sekhar Kammula",
+        "original_name": "Sekhar Kammula",
+        "popularity": 0.6492,
+        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
+        "credit_id": "600fb79e92e55b004068d75c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544993,
+        "known_for_department": "Editing",
+        "name": "Marthand K Venkatesh",
+        "original_name": "Marthand K Venkatesh",
+        "popularity": 0.4927,
+        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
+        "credit_id": "600fb7f4c8113d003d94013c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2952682,
+        "known_for_department": "Production",
+        "name": "Puskur Ram Mohan Rao",
+        "original_name": "Puskur Ram Mohan Rao",
+        "popularity": 0.2956,
+        "profile_path": null,
+        "credit_id": "600fb856d70594003d27325f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2994534,
+        "known_for_department": "Production",
+        "name": "Narayan Das Narang",
+        "original_name": "Narayan Das Narang",
+        "popularity": 0.2525,
+        "profile_path": null,
+        "credit_id": "603cc2a50c4c160054b461e3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11384004",
+    "wikidata_id": "Q85216610",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -107,248 +352,17 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt11384004",
-    "wikidata_id": "Q85216610",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [
+  "alternative_titles": {
+    "titles": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 237052,
-        "known_for_department": "Acting",
-        "name": "Naga Chaitanya Akkineni",
-        "original_name": "Naga Chaitanya Akkineni",
-        "popularity": 0.8377,
-        "profile_path": "/pcGTJvzIC3JzcfNVzdA6IHo3e8k.jpg",
-        "cast_id": 2,
-        "character": "Revanth",
-        "credit_id": "5e1e5c3a511d09001281e8da",
-        "order": 0
+        "iso_3166_1": "IN",
+        "title": "Prematheeram",
+        "type": "Malayalam Dub"
       },
       {
-        "adult": false,
-        "gender": 1,
-        "id": 1473119,
-        "known_for_department": "Acting",
-        "name": "Sai Pallavi",
-        "original_name": "Sai Pallavi",
-        "popularity": 0.9451,
-        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg",
-        "cast_id": 1,
-        "character": "Mounica",
-        "credit_id": "5e1e5c2cd9f4a6001799d48e",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 286670,
-        "known_for_department": "Acting",
-        "name": "Devayani",
-        "original_name": "Devayani",
-        "popularity": 0.761,
-        "profile_path": "/p03hLBmgjmRErMXHqEDlwur45Ed.jpg",
-        "cast_id": 12,
-        "character": "",
-        "credit_id": "600fba5ad55c3d003f73e0bc",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 559738,
-        "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
-        "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
-        "cast_id": 18,
-        "character": "",
-        "credit_id": "615019f2c3514c008c976b11",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1275608,
-        "known_for_department": "Acting",
-        "name": "Easwari Rao",
-        "original_name": "ఈశ్వరీ రావు",
-        "popularity": 0.6731,
-        "profile_path": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
-        "cast_id": 19,
-        "character": "",
-        "credit_id": "615019fdc3514c008c976b17",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1105609,
-        "known_for_department": "Acting",
-        "name": "Uttej",
-        "original_name": "Uttej",
-        "popularity": 0.2941,
-        "profile_path": "/ntwumxdq3aYSi4fJln1kPa1JlD2.jpg",
-        "cast_id": 20,
-        "character": "",
-        "credit_id": "61501a16aaf89700635549ac",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2864601,
-        "known_for_department": "Acting",
-        "name": "Chakrapani Ananda",
-        "original_name": "Chakrapani Ananda",
-        "popularity": 0.1854,
-        "profile_path": "/2jvujC0gUTWWIgsjR6YSjDbhzDw.jpg",
-        "cast_id": 21,
-        "character": "",
-        "credit_id": "6159003388c659008fcb2530",
-        "order": 6
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3226944,
-        "known_for_department": "Acting",
-        "name": "Gangavva",
-        "original_name": "Gangavva",
-        "popularity": 0.1421,
-        "profile_path": "/fpHfFGjdoGvvS3rXHLCH67uURGn.jpg",
-        "cast_id": 22,
-        "character": "",
-        "credit_id": "6159004f12aabc0065257605",
-        "order": 7
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1307748,
-        "known_for_department": "Camera",
-        "name": "Vijay C. Kumar",
-        "original_name": "Vijay C. Kumar",
-        "popularity": 0.0264,
-        "profile_path": null,
-        "credit_id": "6077ed587390c000449e6f8d",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2952684,
-        "known_for_department": "Sound",
-        "name": "Pawan Ch",
-        "original_name": "Pawan Ch",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "credit_id": "6077edc97390c0005b5bbd1a",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2512764,
-        "known_for_department": "Sound",
-        "name": "Mangli Satyavathi",
-        "original_name": "Mangli Satyavathi",
-        "popularity": 0.0768,
-        "profile_path": "/pNnwokSzMriSNYfA39Pos01Gv4.jpg",
-        "credit_id": "616fe4c9d4b9d90061bfc8a9",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1909092,
-        "known_for_department": "Sound",
-        "name": "Jonita Gandhi",
-        "original_name": "Jonita Gandhi",
-        "popularity": 0.0894,
-        "profile_path": "/6iJMJ3vteATOYkAE3dyVnoJHdUr.jpg",
-        "credit_id": "617c2783387651002ace97be",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 215917,
-        "known_for_department": "Directing",
-        "name": "Sekhar Kammula",
-        "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
-        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
-        "credit_id": "5e1e5c50511d090014820f59",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 544993,
-        "known_for_department": "Editing",
-        "name": "Marthand K Venkatesh",
-        "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
-        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
-        "credit_id": "600fb7f4c8113d003d94013c",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 215917,
-        "known_for_department": "Directing",
-        "name": "Sekhar Kammula",
-        "original_name": "Sekhar Kammula",
-        "popularity": 0.3765,
-        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
-        "credit_id": "600fb79e92e55b004068d75c",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2952682,
-        "known_for_department": "Production",
-        "name": "Puskur Ram Mohan Rao",
-        "original_name": "Puskur Ram Mohan Rao",
-        "popularity": 0.0934,
-        "profile_path": null,
-        "credit_id": "600fb856d70594003d27325f",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2994534,
-        "known_for_department": "Production",
-        "name": "Narayan Das Narang",
-        "original_name": "Narayan Das Narang",
-        "popularity": 0.0597,
-        "profile_path": null,
-        "credit_id": "603cc2a50c4c160054b461e3",
-        "department": "Production",
-        "job": "Producer"
+        "iso_3166_1": "IN",
+        "title": "Unnaithaane",
+        "type": "Tamil"
       }
     ]
   },
@@ -747,20 +761,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Prematheeram",
-        "type": "Malayalam Dub"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Unnaithaane",
-        "type": "Tamil"
       }
     ]
   }

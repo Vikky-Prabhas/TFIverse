@@ -3,7 +3,16 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
   "homepage": "",
   "id": 308065,
   "imdb_id": "tt0338219",
@@ -11,15 +20,22 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Maavidakulu",
-  "overview": "Film starring Jagapathi Babu, Rachana and Poonam",
-  "popularity": 0.1144,
+  "original_title": "మావిడాకులు",
+  "overview": "Pratap and Priya are rivals at work and single parents. As they become neighbours, they start helping each other out. The arrival of their former spouses wreaks havoc in their lives.",
+  "popularity": 1.537,
   "poster_path": "/7DoiryOLYq8V2dGSruklp2rmKAQ.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 305486,
+      "logo_path": null,
+      "name": "Sri Balaji Art Creations",
+      "origin_country": ""
+    }
+  ],
   "production_countries": [],
   "release_date": "1998-01-01",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 142,
   "softcore": false,
   "spoken_languages": [
     {
@@ -43,7 +59,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.8209,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,21 +73,245 @@
         "known_for_department": "Acting",
         "name": "Rachana Banerjee",
         "original_name": "Rachana Banerjee",
-        "popularity": 0.5466,
+        "popularity": 1.0521,
         "profile_path": "/zM3R91tHNIEMeQGI1WDQ6Vl6pmi.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "624b18bccb71b8004e998a20",
         "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141695,
+        "known_for_department": "Acting",
+        "name": "Kota Srinivasa Rao",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a6449f59ca761c8fdd6dec7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6a644a04ae6be7520a6eddfa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584511,
+        "known_for_department": "Acting",
+        "name": "Mallikarjuna Rao",
+        "original_name": "Mallikarjuna Rao",
+        "popularity": 1.233,
+        "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6a644a119ca761c8fdd6ded1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148052,
+        "known_for_department": "Acting",
+        "name": "M. S. Narayana",
+        "original_name": "M. S. Narayana",
+        "popularity": 2.238,
+        "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6a644a20df5e2c6d28f97f94",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6a644a30c22f5905d9529232",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334885,
+        "known_for_department": "Acting",
+        "name": "Amanchi Venkata Subrahmanyam",
+        "original_name": "Amanchi Venkata Subrahmanyam",
+        "popularity": 1.7342,
+        "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6a644a4b4ec5a86c51f97e76",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565889,
+        "known_for_department": "Acting",
+        "name": "Ravi Babu",
+        "original_name": "Ravi Babu",
+        "popularity": 0.8019,
+        "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6a644a59a2eb44f40dd6df7b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1333388,
+        "known_for_department": "Acting",
+        "name": "Mamilla Shailaja Priya",
+        "original_name": "Mamilla Shailaja Priya",
+        "popularity": 1.238,
+        "profile_path": "/Ae9I3yBoUZusGlJiFIKZtQFZyFz.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6a644a664ad47a310923e110",
+        "order": 9
       }
     ],
-    "crew": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "6a644a7e73db1c7db92f910a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662102,
+        "known_for_department": "Writing",
+        "name": "Janardhan Maharshi",
+        "original_name": "Janardhan Maharshi",
+        "popularity": 0.9777,
+        "profile_path": "/tCthmImykaa3SaFyRQ8kaD0ZgMZ.jpg",
+        "credit_id": "6a644a926a5c450006ccf369",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "6a644aa1a2eb44f40dd6df90",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060277,
+        "known_for_department": "Directing",
+        "name": "E.V.V. Satyanarayana",
+        "original_name": "E.V.V. Satyanarayana",
+        "popularity": 1.4922,
+        "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
+        "credit_id": "6a644aae2786a0ddc8e8adf3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199453,
+        "known_for_department": "Writing",
+        "name": "Ramani",
+        "original_name": "Ramani",
+        "popularity": 0.3064,
+        "profile_path": null,
+        "credit_id": "6a644ac39ca761c8fdd6deda",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4140139,
+        "known_for_department": "Production",
+        "name": "J. Bhagavan",
+        "original_name": "J. Bhagavan",
+        "popularity": 0.3578,
+        "profile_path": null,
+        "credit_id": "6a644ad9fd9cd0fd0ee8ac9f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933424,
+        "known_for_department": "Production",
+        "name": "DVV Danayya",
+        "original_name": "DVV Danayya",
+        "popularity": 0.3678,
+        "profile_path": "/1M5FySUrRDmZTZgJNE7EcTK4sDQ.jpg",
+        "credit_id": "6a644af8cf51b60e9d6edf5a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139362,
+        "known_for_department": "Camera",
+        "name": "Chota K. Naidu",
+        "original_name": "Chota K. Naidu",
+        "popularity": 0.3377,
+        "profile_path": null,
+        "credit_id": "6a644b0e81adb8fd862f91c7",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552984,
+        "known_for_department": "Sound",
+        "name": "Saluri Koteswara Rao",
+        "original_name": "Saluri Koteswara Rao",
+        "popularity": 0.5667,
+        "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
+        "credit_id": "6a644b309a86275c4f6edd68",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt0338219",
@@ -80,21 +320,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/7DoiryOLYq8V2dGSruklp2rmKAQ.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -110,6 +340,32 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1Qynra94dx8zU6dUtA6T2Ddg4X3.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/7DoiryOLYq8V2dGSruklp2rmKAQ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
       }
     ]
   },

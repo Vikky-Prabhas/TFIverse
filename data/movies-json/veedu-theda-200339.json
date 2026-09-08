@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "వీడు తేడా",
   "overview": "Katthi Seenu (Nikhil Siddharth) is a carefree and brash youngster from Tirupati, who lives with his sister (Hema) and her husband (Krishna Bhagavaan). A chance meeting with Love Kumar (Ali) leads him to Bheemavaram, where he comes across Meghana (Pooja Bose). It is love at first sight for Seenu but Meghana does not reciprocate his feelings.  As the story progresses, it is revealed that Meghana has a past that is connected to the notorious don Liquor Shankar (Sayaji Shinde) and a jailed convict Das (Suman). They start pursuing Meghana and it is now up to Seenu to step in as her saviour.",
-  "popularity": 0.1756,
+  "popularity": 0.6713,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,9 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -55,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Nikhil Siddhartha",
         "original_name": "Nikhil Siddhartha",
-        "popularity": 0.4224,
+        "popularity": 0.9327,
         "profile_path": "/rDWBNCcHMNRf7YDPi9qMDcdm2X3.jpg",
         "cast_id": 1,
         "character": "Katthi Seenu",
@@ -69,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Puja Banerjee",
         "original_name": "Puja Banerjee",
-        "popularity": 0.6145,
+        "popularity": 1.0005,
         "profile_path": "/1x750E35nVWANJSlnU8ePWszwfn.jpg",
         "cast_id": 2,
         "character": "Meghana",
@@ -82,8 +79,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "Banana Baba",
@@ -97,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 4,
         "character": "FIL",
@@ -113,7 +110,7 @@
         "known_for_department": "Production",
         "name": "Kalyan Chakravarthy",
         "original_name": "Kalyan Chakravarthy",
-        "popularity": 0.0071,
+        "popularity": 0.2625,
         "profile_path": null,
         "credit_id": "625671100e4419009c9251e8",
         "department": "Production",
@@ -126,7 +123,7 @@
         "known_for_department": "Writing",
         "name": "Chinni Krishna",
         "original_name": "Chinni Krishna",
-        "popularity": 0.1653,
+        "popularity": 0.4948,
         "profile_path": null,
         "credit_id": "52fe4c83c3a368484e1ba5dd",
         "department": "Directing",
@@ -139,7 +136,7 @@
         "known_for_department": "Sound",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.2225,
+        "popularity": 0.4244,
         "profile_path": "/3GwwP1DbitIrJiP60RECDf9TwQC.jpg",
         "credit_id": "52fe4c83c3a368484e1ba5e9",
         "department": "Sound",
@@ -153,6 +150,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []

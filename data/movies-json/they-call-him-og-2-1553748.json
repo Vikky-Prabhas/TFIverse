@@ -20,26 +20,20 @@
   ],
   "homepage": "",
   "id": 1553748,
-  "imdb_id": null,
+  "imdb_id": "tt42036423",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
-  "original_title": "They Call Him OG 2",
+  "original_title": "దె కాల్ హిమ్ ఓజి 2",
   "overview": "After conquering Mumbai’s underworld, Ojas Gambheera is drawn back to Tokyo, where unfinished wars with the Yakuza await. In a city of blades and betrayals, OG faces enemies deadlier than ever before. What begins as vengeance now erupts into a fight for survival, power, and his eternal legacy.",
-  "popularity": 0.8379,
-  "poster_path": "/chNN2KaPwjebfhh1vWhGyIKBOj3.jpg",
+  "popularity": 2.5523,
+  "poster_path": "/uIabOYQGvk8Mi6B5hYWLVl9BhMT.jpg",
   "production_companies": [
     {
-      "id": 15228,
-      "logo_path": "/wd4BquqZZiiOq9iAkGL3ViANT1x.png",
-      "name": "UV Creations",
-      "origin_country": "IN"
-    },
-    {
-      "id": 68594,
+      "id": 69634,
       "logo_path": null,
-      "name": "DVV Entertainment",
+      "name": "Pawan Kalyan Creative Works",
       "origin_country": "IN"
     }
   ],
@@ -49,7 +43,7 @@
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2028-09-21",
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
@@ -60,15 +54,12 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Rumored",
-  "tagline": "Firestorm is Coming AGAIN",
+  "status": "Planned",
+  "tagline": "",
   "title": "They Call Him OG 2",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -78,10 +69,10 @@
         "known_for_department": "Acting",
         "name": "Pawan Kalyan",
         "original_name": "పవన్ కళ్యాణ్",
-        "popularity": 0.9856,
+        "popularity": 2.1916,
         "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
         "cast_id": 1,
-        "character": "Ojas \"OG\" Ghambeera",
+        "character": "Ojas 'OG' Ghambeera",
         "credit_id": "68d978a162b0ae5f3ee1c70e",
         "order": 0
       },
@@ -92,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Jackie Shroff",
         "original_name": "जय किशन श्राफ",
-        "popularity": 1.3381,
+        "popularity": 2.3253,
         "profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
         "cast_id": 3,
         "character": "Roy",
@@ -106,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Lal",
         "original_name": "Lal",
-        "popularity": 2.6903,
+        "popularity": 6.411,
         "profile_path": "/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg",
         "cast_id": 4,
         "character": "Ibrahim",
@@ -119,8 +110,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 6,
         "character": "Sathya Dada",
@@ -134,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Arjun Das",
         "original_name": "Arjun Das",
-        "popularity": 0.412,
+        "popularity": 2.2605,
         "profile_path": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
         "cast_id": 7,
         "character": "Arjun",
@@ -147,11 +138,11 @@
         "id": 85969,
         "known_for_department": "Acting",
         "name": "Emraan Hashmi",
-        "original_name": "Emraan Hashmi",
-        "popularity": 2.2195,
+        "original_name": "इमरान हाशमी",
+        "popularity": 2.0972,
         "profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
         "cast_id": 8,
-        "character": "Omkar \"Omi Bhau\" Varthaman",
+        "character": "Omkar 'Omi Bhau' Varthaman",
         "credit_id": "68d97a58430619af4438bcfd",
         "order": 5
       }
@@ -164,7 +155,7 @@
         "known_for_department": "Directing",
         "name": "Sujeeth",
         "original_name": "Sujeeth",
-        "popularity": 0.3811,
+        "popularity": 0.6519,
         "profile_path": null,
         "credit_id": "68d97a77266578fc79e1bb7a",
         "department": "Directing",
@@ -177,7 +168,7 @@
         "known_for_department": "Directing",
         "name": "Sujeeth",
         "original_name": "Sujeeth",
-        "popularity": 0.3811,
+        "popularity": 0.6519,
         "profile_path": null,
         "credit_id": "68d97a88ef910ececd2dea6d",
         "department": "Writing",
@@ -186,78 +177,26 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 933424,
-        "known_for_department": "Production",
-        "name": "DVV Danayya",
-        "original_name": "DVV Danayya",
-        "popularity": 0.1785,
-        "profile_path": "/1M5FySUrRDmZTZgJNE7EcTK4sDQ.jpg",
-        "credit_id": "68d97b3953f6f413a8c76762",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2222232,
-        "known_for_department": "Production",
-        "name": "Kalyan Dasari",
-        "original_name": "Kalyan Dasari",
-        "popularity": 0.0777,
-        "profile_path": "/p6rhDxPgMOz9Qhb8SfBw8nFsOdJ.jpg",
-        "credit_id": "68d97b4ea0fcc7403ce1bae2",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1543646,
-        "known_for_department": "Production",
-        "name": "Pramod Uppalapati",
-        "original_name": "Pramod Uppalapati",
-        "popularity": 0.0541,
-        "profile_path": null,
-        "credit_id": "68d97b6a57468290a62de8e5",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1543647,
-        "known_for_department": "Production",
-        "name": "Vamsi Krishna Reddy",
-        "original_name": "Vamsi Krishna Reddy",
-        "popularity": 0.0486,
-        "profile_path": null,
-        "credit_id": "68d97b85899a5a5cf8bb0919",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 585344,
         "known_for_department": "Sound",
         "name": "S. Thaman",
         "original_name": "S. Thaman",
-        "popularity": 0.5088,
+        "popularity": 0.8929,
         "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
-        "credit_id": "68d97edd004e86a2a1e1c5d7",
+        "credit_id": "6a1dbe7ff10ef19999480e8d",
         "department": "Sound",
-        "job": "Music Director"
+        "job": "Original Music Composer"
       }
     ]
   },
   "external_ids": {
-    "imdb_id": null,
+    "imdb_id": "tt42036423",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
+  "videos": {
     "results": []
   },
   "keywords": {
@@ -273,6 +212,23 @@
       {
         "id": 359533,
         "name": "sujeeth cinematic universe"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2028-09-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -302,34 +258,14 @@
     "logos": [],
     "posters": [
       {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/chNN2KaPwjebfhh1vWhGyIKBOj3.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/yuuroUXi8xql3IMEDBM09XNDjUK.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      },
-      {
         "aspect_ratio": 0.666,
-        "height": 1621,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/u7Bw5WlCdeHqvWCDkkhuQz8cs2g.jpg",
+        "height": 2959,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uIabOYQGvk8Mi6B5hYWLVl9BhMT.jpg",
         "vote_average": 0,
         "vote_count": 0,
-        "width": 1080
+        "width": 1971
       }
     ]
   },

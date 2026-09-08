@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sheelavathi",
   "overview": "The story is about Sheelavathi, a prostitute. The film revolves around the situations that forced her to choose the path of prostitution.",
-  "popularity": 0.1827,
+  "popularity": 0.4854,
   "poster_path": "/2r8ewNgElI2a6mGI1r1dEazHVkR.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -49,7 +49,7 @@
         "known_for_department": "Directing",
         "name": "Anvesh Puri",
         "original_name": "Anvesh Puri",
-        "popularity": 0,
+        "popularity": 0.2649,
         "profile_path": null,
         "credit_id": "6577377789d97f013ac97149",
         "department": "Directing",
@@ -73,27 +73,15 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.72,
-        "height": 1920,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/2r8ewNgElI2a6mGI1r1dEazHVkR.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1382
-      }
-    ]
-  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt22079830",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -112,11 +100,23 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt22079830",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.72,
+        "height": 1920,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/2r8ewNgElI2a6mGI1r1dEazHVkR.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1382
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

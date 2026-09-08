@@ -18,9 +18,16 @@
   "original_language": "te",
   "original_title": "ఇది కథ మాత్రమేనా?",
   "overview": "This short improvised fiction film is affectionately called Yugantar’s ‘hit’ film. In the midst of the very active autonomous women’s movement in India, Yugantar collaborated with the research and feminist activist collective Stree Shakhti Sanghatana, provoked by an urgency to broaden discourses and political practice on domestic violence. Through an intense period of a consciousness raising style sharing of their own varied and multi-layered experiences of domestic violence, members of both collectives created a script that focuses on isolation and depression while also developing a complex female character in the process of articulating her situation and finding support in female friendship.",
-  "popularity": 0.1116,
+  "popularity": 1.122,
   "poster_path": "/mQrEzrmLp4mdNZT49wi0JjANPay.jpg",
-  "production_companies": [],
+  "production_companies": [
+    {
+      "id": 304381,
+      "logo_path": null,
+      "name": "Yugantar",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
@@ -42,8 +49,8 @@
   "tagline": "",
   "title": "Is This Just a Story?",
   "video": false,
-  "vote_average": 8,
-  "vote_count": 1,
+  "vote_average": 7,
+  "vote_count": 2,
   "credits": {
     "cast": [
       {
@@ -53,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "K. Lalita",
         "original_name": "K. Lalita",
-        "popularity": 0.0071,
+        "popularity": 0.2611,
         "profile_path": null,
         "cast_id": 3,
         "character": "Wife",
@@ -67,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Purna Chandra Rao",
         "original_name": "Purna Chandra Rao",
-        "popularity": 0,
+        "popularity": 0.5752,
         "profile_path": null,
         "cast_id": 4,
         "character": "Husband",
@@ -81,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Rama Melkote",
         "original_name": "Rama Melkote",
-        "popularity": 0.0071,
+        "popularity": 0.2615,
         "profile_path": null,
         "cast_id": 5,
         "character": "Friend",
@@ -95,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "K. Shyamala",
         "original_name": "K. Shyamala",
-        "popularity": 0,
+        "popularity": 0.2649,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -109,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "K. Seetadevi",
         "original_name": "K. Seetadevi",
-        "popularity": 0.0071,
+        "popularity": 0.2409,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -125,7 +132,7 @@
         "known_for_department": "Camera",
         "name": "Navroze Contractor",
         "original_name": "Navroze Contractor",
-        "popularity": 0.064,
+        "popularity": 0.5472,
         "profile_path": null,
         "credit_id": "674232b79f40a7aaf6ea1d2d",
         "department": "Camera",
@@ -138,11 +145,106 @@
         "known_for_department": "Directing",
         "name": "Yugantar",
         "original_name": "Yugantar",
-        "popularity": 0.0071,
+        "popularity": 0.2276,
         "profile_path": "/pxmWL3qtahhWfhktMxovPLfoZIM.jpg",
         "credit_id": "674b0be6e2df00a3bb78506d",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5080885,
+        "known_for_department": "Directing",
+        "name": "Yugantar",
+        "original_name": "Yugantar",
+        "popularity": 0.2276,
+        "profile_path": "/pxmWL3qtahhWfhktMxovPLfoZIM.jpg",
+        "credit_id": "6a556a05b726418cbc76a7e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1437602,
+        "known_for_department": "Directing",
+        "name": "Deepa Dhanraj",
+        "original_name": "Deepa Dhanraj",
+        "popularity": 0.7435,
+        "profile_path": "/iIuWZWFcbY237pCsfdz3gmq3UNG.jpg",
+        "credit_id": "6a556a42f2cf630aff9c66d3",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt9686024",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival (Digitally Restored Version)",
+            "release_date": "2021-08-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CCSP (\"Filme como um Objeto no Espaço: Um Olhar Sobre Acervos de Cinema\")",
+            "release_date": "2026-07-25T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1983-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Porto, Batalha Centro de Cinema",
+            "release_date": "2023-03-19T00:00:00.000Z",
+            "type": 2
+          }
+        ]
       }
     ]
   },
@@ -193,42 +295,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt9686024",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1983-02-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": [
       {
         "iso_3166_1": "IN",
-        "title": "Idhi Katha Matramena?",
-        "type": ""
+        "title": "Idhi Katha Matramena",
+        "type": "Hindi transliterated title"
       }
     ]
   }

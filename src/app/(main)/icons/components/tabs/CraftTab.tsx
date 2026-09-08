@@ -1,17 +1,17 @@
 import { FaInstagram, FaTwitter, FaImdb, FaCar, FaHome, FaStar, FaQuoteLeft, FaDumbbell, FaMoneyBillWave, FaFilm, FaCrown, FaChartBar, FaMusic, FaFire, FaFistRaised, FaHandshake, FaPenNib, FaEye, FaCamera, FaIndustry, FaMicrophone, FaHeadphones, FaUserFriends, FaCut, FaNewspaper, FaUsers, FaTasks, FaCubes, FaUserTie, FaPalette, FaBuilding, FaMicrochip } from "react-icons/fa";
 export default function CraftTab({ data, theme, category }: { data: any, theme: any, category: string }) {
   const villainSpecialization = data.villainSpecialization || null;
-  const iconicAntagonistRoles = data.iconicAntagonistRoles || null;
-  const heroAntagonisms = data.heroAntagonisms || null;
+  const iconicAntagonistRoles = Array.isArray(data.iconicAntagonistRoles) ? data.iconicAntagonistRoles : [];
+  const heroAntagonisms = Array.isArray(data.heroAntagonisms) ? data.heroAntagonisms : [];
   const dualCareer = data.dualCareer || null;
   const comedySpecialization = data.comedySpecialization || null;
-  const iconicComedyRoles = data.iconicComedyRoles || null;
-  const heroComedyPartnerships = data.heroComedyPartnerships || null;
+  const iconicComedyRoles = Array.isArray(data.iconicComedyRoles) ? data.iconicComedyRoles : [];
+  const heroComedyPartnerships = Array.isArray(data.heroComedyPartnerships) ? data.heroComedyPartnerships : [];
   const characterVersatility = data.characterVersatility || null;
   const actingApproach = data.actingApproach || null;
   const screenChemistry = data.screenChemistry || null;
   const screenChemistryByCostar = data.screenChemistryByCostar || null;
-  const directorCollaborations = data.directorCollaborations || null;
+  const directorCollaborations = Array.isArray(data.directorCollaborations) ? data.directorCollaborations : [];
   const stuntExpertise = data.stuntExpertise || null;
   const actionVersatility = data.actionVersatility || null;
   const danceStyle = data.danceStyle || null;
@@ -25,22 +25,22 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
   const starCollaborations = data.starCollaborations || null;
   const musicalEssence = data.musicalEssence || null;
   const orchestralProfile = data.orchestralProfile || null;
-  const musicalInnovations = data.musicalInnovations || null;
+  const musicalInnovations = Array.isArray(data.musicalInnovations) ? data.musicalInnovations : [];
   const visionaryEssence = data.visionaryEssence || null;
   const filmmakingStyle = data.filmmakingStyle || null;
-  const iconicRoles = data.iconicRoles || null;
-  const transformations = data.transformations || null;
+  const iconicRoles = Array.isArray(data.iconicRoles) ? data.iconicRoles : [];
+  const transformations = Array.isArray(data.transformations) ? data.transformations : [];
   const voiceProfile = data.voiceProfile || null;
   const collaborations = data.collaborations || null;
   const filmmakerRelationships = data.filmmakerRelationships || null;
-  const iconicCharacterRoles = data.iconicCharacterRoles || data.characterRoles || [];
-  const heroPartnerships = data.heroPartnerships || [];
+  const iconicCharacterRoles = Array.isArray(data.iconicCharacterRoles) ? data.iconicCharacterRoles : (Array.isArray(data.characterRoles) ? data.characterRoles : []);
+  const heroPartnerships = Array.isArray(data.heroPartnerships) ? data.heroPartnerships : [];
   
   // Newly added missed vars
   const vocalProfile = data.vocalProfile || null;
   const genreVersatility = data.genreVersatility || null;
-  const musicDirectorCollaborations = data.musicDirectorCollaborations || null;
-  const duetPartnerships = data.duetPartnerships || null;
+  const musicDirectorCollaborations = Array.isArray(data.musicDirectorCollaborations) ? data.musicDirectorCollaborations : [];
+  const duetPartnerships = Array.isArray(data.duetPartnerships) ? data.duetPartnerships : [];
   const editingStyle = data.editingStyle || null;
   const pacingAndRhythm = data.pacingAndRhythm || null;
   const mediaInfluence = data.mediaInfluence || null;
@@ -94,7 +94,7 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
                 )}
 
                 {/* Iconic Antagonist Roles */}
-                {iconicAntagonistRoles.length > 0 && (
+                {Array.isArray(iconicAntagonistRoles) && iconicAntagonistRoles.length > 0 && (
                   <div className="mb-12">
                     <h3 className="text-xs font-black uppercase tracking-[0.3em] text-neutral-500 mb-8 px-2 flex items-center gap-3">
                       <FaFilm /> Iconic Antagonist Roles
@@ -234,7 +234,7 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
                 )}
 
                 {/* Iconic Comedy Roles */}
-                {iconicComedyRoles.length > 0 && (
+                {Array.isArray(iconicComedyRoles) && iconicComedyRoles.length > 0 && (
                   <div className="mb-12">
                     <h3 className="text-xs font-black uppercase tracking-[0.3em] text-neutral-500 mb-8 px-2 flex items-center gap-3">
                       <FaFilm /> Iconic Comedy Roles
@@ -384,7 +384,7 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
                 )}
 
                 {/* Character Artist: Iconic Character Roles */}
-                {iconicCharacterRoles.length > 0 && (
+                {Array.isArray(iconicCharacterRoles) && iconicCharacterRoles.length > 0 && (
                   <div className="mb-12">
                     <h3 className="text-xs font-black uppercase tracking-[0.3em] text-neutral-500 mb-8 px-2 flex items-center gap-3">
                       <FaFilm /> Iconic Character Roles
@@ -1596,7 +1596,7 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
                 )}
 
                 {/* Iconic Roles (Legend) */}
-                {iconicRoles.length > 0 && (
+                {Array.isArray(iconicRoles) && iconicRoles.length > 0 && (
                   <div>
                     <h3 className="text-xs font-black uppercase tracking-[0.3em] text-neutral-500 mb-8 px-2 flex items-center gap-3">
                       <FaStar /> Cinematic Milestones
@@ -1630,7 +1630,7 @@ export default function CraftTab({ data, theme, category }: { data: any, theme: 
                   </div>
                 )}
                 {/* Physical Transformations Timeline */}
-                {transformations.length > 0 && (
+                {Array.isArray(transformations) && transformations.length > 0 && (
                   <div>
                     <h3 className="text-xs font-black uppercase tracking-[0.3em] text-neutral-500 mb-8 px-2 flex items-center gap-3">
                       <FaStar /> Cinematic Transformations

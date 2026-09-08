@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sneha Geetham",
   "overview": "Sneha Geetham is made with college backdrop and looks at the aims and aspirations of the present generation youth and The director shows the way of thinking of students, their future plans, their goals, their life and all other points in detail in this movie. The film had delicate emotions and healthy comedy.",
-  "popularity": 0.3905,
+  "popularity": 0.7441,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt1808480",
+    "wikidata_id": "Q25999954",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Sundeep Kishan",
         "original_name": "Sundeep Kishan",
-        "popularity": 1.4654,
+        "popularity": 1.5055,
         "profile_path": "/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 2,
         "character": "Box Office Bhushanam",
@@ -81,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.3832,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 3,
         "character": "Papa Rao",
@@ -95,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Krishnudu",
         "original_name": "Krishnudu",
-        "popularity": 0.2076,
+        "popularity": 0.9206,
         "profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
         "cast_id": 4,
         "character": "Pitamaha",
@@ -109,8 +119,8 @@
         "known_for_department": "Acting",
         "name": "Shreya Dhanwanthary",
         "original_name": "Shreya Dhanwanthary",
-        "popularity": 0.6808,
-        "profile_path": "/kzLK1i4bQeajhzRAMPZAonAM6b7.jpg",
+        "popularity": 1.3231,
+        "profile_path": "/qBhM7VoKos61IGn2nqYErOgFjGW.jpg",
         "cast_id": 7,
         "character": "Sailu",
         "credit_id": "5d454bad2d1e403b46be9b89",
@@ -125,7 +135,7 @@
         "known_for_department": "Directing",
         "name": "Madhura Sridhar Reddy",
         "original_name": "Madhura Sridhar Reddy",
-        "popularity": 0.0545,
+        "popularity": 0.3261,
         "profile_path": "/kn1aYeUa1zOoDKc8lNS1aQtsbNr.jpg",
         "credit_id": "5a5b18680e0a267fe601b8fe",
         "department": "Writing",
@@ -138,20 +148,13 @@
         "known_for_department": "Directing",
         "name": "Madhura Sridhar Reddy",
         "original_name": "Madhura Sridhar Reddy",
-        "popularity": 0.0545,
+        "popularity": 0.3261,
         "profile_path": "/kn1aYeUa1zOoDKc8lNS1aQtsbNr.jpg",
         "credit_id": "5a5b185b0e0a267fe601b8f0",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1808480",
-    "wikidata_id": "Q25999954",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -173,15 +176,12 @@
   "keywords": {
     "keywords": []
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

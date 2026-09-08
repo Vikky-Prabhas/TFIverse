@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": "/6nLI4fpjv3HLIG6BssJ2rpEGWN9.jpg",
+  "backdrop_path": "/ibxJVc9x2McS6gzXGjBvdl0OXy5.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -30,8 +30,8 @@
   "original_language": "te",
   "original_title": "డేవిడ్ రెడ్డి",
   "overview": "Set in 1897 to 1922, the film is the story of a fearless rebel who rises from the ashes of caste oppression to take on the mighty British Empire.",
-  "popularity": 0.081,
-  "poster_path": "/lMImeM39vL6HxBrE6O4HFlH0ITG.jpg",
+  "popularity": 2.43,
+  "poster_path": "/nskayIOYPTO8jS9Mywdb39jEdF8.jpg",
   "production_companies": [
     {
       "id": 283282,
@@ -63,6 +63,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -72,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Manchu Manoj",
         "original_name": "Manchu Manoj",
-        "popularity": 0.5372,
+        "popularity": 2.0359,
         "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
         "cast_id": 1,
         "character": "David Reddy",
@@ -86,26 +89,54 @@
         "known_for_department": "Acting",
         "name": "Maria Ryaboshapka",
         "original_name": "Maria Ryaboshapka",
-        "popularity": 0.1159,
+        "popularity": 0.9059,
         "profile_path": "/2TEDJaLZOnRZ95Xm6ZwXIHImtOM.jpg",
         "cast_id": 16,
-        "character": "",
+        "character": "Clara Whitmore",
         "credit_id": "6942bc944f1e71007d2dbe8b",
         "order": 1
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 584718,
+        "gender": 1,
+        "id": 141701,
         "known_for_department": "Acting",
-        "name": "R. Parthiban",
-        "original_name": "R. Parthiban",
-        "popularity": 0.9732,
-        "profile_path": "/kmghnL3LAQJaBXsA7yoh8cE2gRd.jpg",
-        "cast_id": 17,
+        "name": "Ramya Krishnan",
+        "original_name": "Ramya Krishnan",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
+        "cast_id": 24,
         "character": "",
-        "credit_id": "6942bca22f8a731a6532a9d1",
+        "credit_id": "6a0e7d7023f5023423970977",
         "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585397,
+        "known_for_department": "Acting",
+        "name": "Samuthirakani",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "6a0e7d9614d960248538cf0c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79003,
+        "known_for_department": "Acting",
+        "name": "Abhay Deol",
+        "original_name": "Abhay Deol",
+        "popularity": 1.4127,
+        "profile_path": "/h7eVy3QlTVwbWL10dpY5Y9mVlFB.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "6a0e7d780ea0ba368338cf9a",
+        "order": 4
       },
       {
         "adult": false,
@@ -114,26 +145,12 @@
         "known_for_department": "Acting",
         "name": "Kanchana",
         "original_name": "Kanchana",
-        "popularity": 0.315,
+        "popularity": 1.1551,
         "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
         "cast_id": 18,
         "character": "",
         "credit_id": "6942bca7fbd43497284e3fbd",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 222760,
-        "known_for_department": "Acting",
-        "name": "Silambarasan",
-        "original_name": "Silambarasan",
-        "popularity": 0.931,
-        "profile_path": "/1T35CiKVldfxElZfQqaoN6GhvuU.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6940263af25acef7ad61a7cd",
-        "order": 4
+        "order": 5
       }
     ],
     "crew": [
@@ -144,7 +161,7 @@
         "known_for_department": "Directing",
         "name": "Hanuma Reddy Yakkanti",
         "original_name": "Hanuma Reddy Yakkanti",
-        "popularity": 0,
+        "popularity": 0.4606,
         "profile_path": null,
         "credit_id": "6940268d64c035ec52226fdd",
         "department": "Writing",
@@ -157,7 +174,7 @@
         "known_for_department": "Directing",
         "name": "Hanuma Reddy Yakkanti",
         "original_name": "Hanuma Reddy Yakkanti",
-        "popularity": 0,
+        "popularity": 0.4606,
         "profile_path": null,
         "credit_id": "6940269b8a41d523d4227166",
         "department": "Directing",
@@ -170,7 +187,7 @@
         "known_for_department": "Sound",
         "name": "Ravi Basrur",
         "original_name": "Ravi Basrur",
-        "popularity": 0.167,
+        "popularity": 0.5307,
         "profile_path": "/mlHRC8r4J3ZND7w80B59x3WeX1I.jpg",
         "credit_id": "694026a91339bca35a227192",
         "department": "Sound",
@@ -183,7 +200,7 @@
         "known_for_department": "Production",
         "name": "Nallagangula Venkat Reddy",
         "original_name": "Nallagangula Venkat Reddy",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "6940291752d414fffd61af77",
         "department": "Production",
@@ -196,7 +213,7 @@
         "known_for_department": "Production",
         "name": "Motukuri Bharath",
         "original_name": "Motukuri Bharath",
-        "popularity": 0.0071,
+        "popularity": 0.2635,
         "profile_path": null,
         "credit_id": "69402922ae003ff1ac7813fe",
         "department": "Production",
@@ -209,7 +226,7 @@
         "known_for_department": "Camera",
         "name": "Acharya Venu",
         "original_name": "Acharya Venu",
-        "popularity": 0.0071,
+        "popularity": 0.2823,
         "profile_path": null,
         "credit_id": "6940346668e179d2b504870d",
         "department": "Camera",
@@ -222,7 +239,7 @@
         "known_for_department": "Editing",
         "name": "Ujwal Kulkarni",
         "original_name": "Ujwal Kulkarni",
-        "popularity": 0.097,
+        "popularity": 0.4535,
         "profile_path": null,
         "credit_id": "6940347ed845834c1ebfc7d4",
         "department": "Editing",
@@ -235,7 +252,7 @@
         "known_for_department": "Crew",
         "name": "Supreme Sundar",
         "original_name": "Supreme Sundar",
-        "popularity": 0.2759,
+        "popularity": 0.6533,
         "profile_path": "/blmGRngQdCHkT9U2DzIAwUSraCv.jpg",
         "credit_id": "694034ab3ceb22757dfdacdf",
         "department": "Crew",
@@ -248,7 +265,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Hyndavi Suda",
         "original_name": "Hyndavi Suda",
-        "popularity": 0.0071,
+        "popularity": 0.318,
         "profile_path": null,
         "credit_id": "69425dc46b46f3ac46ab167a",
         "department": "Costume & Make-Up",
@@ -261,7 +278,7 @@
         "known_for_department": "Visual Effects",
         "name": "Ramaiah debbati",
         "original_name": "Ramaiah debbati",
-        "popularity": 0,
+        "popularity": 0.3017,
         "profile_path": null,
         "credit_id": "69425e15d7d701004ee81054",
         "department": "Visual Effects",
@@ -274,7 +291,7 @@
         "known_for_department": "Crew",
         "name": "GSK Media-Suresh Kumar",
         "original_name": "GSK Media Kumar",
-        "popularity": 0.0423,
+        "popularity": 0.3746,
         "profile_path": null,
         "credit_id": "69425e558bfe83a49de80feb",
         "department": "Crew",
@@ -287,7 +304,7 @@
         "known_for_department": "Crew",
         "name": "GSK Media Sreenivas",
         "original_name": "GSK Media Sreenivas",
-        "popularity": 0.0071,
+        "popularity": 0.2893,
         "profile_path": null,
         "credit_id": "69425e64ad6105b9847a29ee",
         "department": "Crew",
@@ -300,7 +317,7 @@
         "known_for_department": "Directing",
         "name": "Katigalla Subbarao",
         "original_name": "Katigalla Subbarao",
-        "popularity": 0,
+        "popularity": 0.2787,
         "profile_path": null,
         "credit_id": "6942bcf14f1e71007d2dbea1",
         "department": "Directing",
@@ -313,7 +330,7 @@
         "known_for_department": "Art",
         "name": "Ravi Jakkula",
         "original_name": "Ravi Jakkula",
-        "popularity": 0,
+        "popularity": 0.2746,
         "profile_path": null,
         "credit_id": "6942bd03e50effa0cf2dbe9f",
         "department": "Art",
@@ -326,7 +343,7 @@
         "known_for_department": "Production",
         "name": "Sravan Kumar Vandhanapu",
         "original_name": "Sravan Kumar Vandhanapu",
-        "popularity": 0,
+        "popularity": 0.3042,
         "profile_path": null,
         "credit_id": "6942bd1a3f2a7fc40d261005",
         "department": "Production",
@@ -339,7 +356,7 @@
         "known_for_department": "Production",
         "name": "Ananth Kancherla",
         "original_name": "Ananth Kancherla",
-        "popularity": 0.1947,
+        "popularity": 0.3262,
         "profile_path": null,
         "credit_id": "6942bd2be87cb39ff608f67e",
         "department": "Production",
@@ -352,11 +369,50 @@
         "known_for_department": "Sound",
         "name": "Nanndhu J",
         "original_name": "Nanndhu J",
-        "popularity": 0.0143,
+        "popularity": 0.2674,
         "profile_path": null,
         "credit_id": "6942bd4665b1dc1fae08f584",
         "department": "Sound",
         "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3458549,
+        "known_for_department": "Crew",
+        "name": "Wing Chun Anji",
+        "original_name": "Wing Chun Anji",
+        "popularity": 0.289,
+        "profile_path": null,
+        "credit_id": "6a0e7de3cbc51bb65330c827",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4508045,
+        "known_for_department": "Editing",
+        "name": "Vishnu Vardhan K",
+        "original_name": "Vishnu Vardhan K",
+        "popularity": 0.2669,
+        "profile_path": null,
+        "credit_id": "6a0e7e09d047e4b6cae2bd66",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6228700,
+        "known_for_department": "Directing",
+        "name": "Hemanth Potturi",
+        "original_name": "Hemanth Potturi",
+        "popularity": 0.294,
+        "profile_path": null,
+        "credit_id": "6a0e7e23fb2e790581461f17",
+        "department": "Directing",
+        "job": "Script Coordinator"
       }
     ]
   },
@@ -370,16 +426,29 @@
   "keywords": {
     "keywords": []
   },
+  "release_dates": {
+    "results": []
+  },
   "images": {
     "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ibxJVc9x2McS6gzXGjBvdl0OXy5.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2048
+      },
       {
         "aspect_ratio": 1.778,
         "height": 720,
         "iso_3166_1": null,
         "iso_639_1": null,
         "file_path": "/6nLI4fpjv3HLIG6BssJ2rpEGWN9.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 1280
       }
     ],
@@ -388,22 +457,36 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nskayIOYPTO8jS9Mywdb39jEdF8.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/lMImeM39vL6HxBrE6O4HFlH0ITG.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1504,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/g4nFnwbEFFlTHCuSIxmD3evgYXi.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1003
       }
     ]
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
   }
 }

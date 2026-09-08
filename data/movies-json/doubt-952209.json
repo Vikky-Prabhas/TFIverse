@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sandeham",
   "overview": "A story about a person suffering from Hypochondriasis during the Co-Vid19 Pandemic.",
-  "popularity": 0.0436,
+  "popularity": 0.4665,
   "poster_path": "/q2mQEvPf4pXlBCuEq3CWgwZuS50.jpg",
   "production_companies": [
     {
@@ -46,88 +46,19 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
+  "keywords": {
+    "keywords": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Protagonist",
-        "credit_id": "62388f4f8ac3d0001bc0ce1d",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62388f7e54a8ac001c25c00b",
-        "department": "Writing",
-        "job": "Story"
+        "id": 175922,
+        "name": "anxiety attack"
       },
       {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62388faf0752880072fee240",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "id": 209507,
+        "name": "anxiety disorder"
       },
       {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62388f89209f18001b649ef3",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62388f98894ed6001ca52ed1",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62388f7334e152001cd3145c",
-        "department": "Directing",
-        "job": "Director"
+        "id": 263237,
+        "name": "covid-19"
       }
     ]
   },
@@ -155,25 +86,6 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1887,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/q2mQEvPf4pXlBCuEq3CWgwZuS50.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1258
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": [
       {
@@ -190,19 +102,107 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": [
+  "credits": {
+    "cast": [
       {
-        "id": 175922,
-        "name": "anxiety attack"
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Protagonist",
+        "credit_id": "62388f4f8ac3d0001bc0ce1d",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62388f7e54a8ac001c25c00b",
+        "department": "Writing",
+        "job": "Story"
       },
       {
-        "id": 209507,
-        "name": "anxiety disorder"
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62388faf0752880072fee240",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
-        "id": 263237,
-        "name": "covid-19"
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62388f89209f18001b649ef3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62388f98894ed6001ca52ed1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62388f7334e152001cd3145c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1887,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/q2mQEvPf4pXlBCuEq3CWgwZuS50.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1258
       }
     ]
   }

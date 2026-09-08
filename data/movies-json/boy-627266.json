@@ -18,8 +18,8 @@
   "original_language": "te",
   "original_title": "బాయ్",
   "overview": "15 year old 'Mahi teja' is studying his 10th. His simple world revolves around his home, school, his best friend 'Vayu Nandan' and his first crush 'Varna' who is also in 10th but in different school. Mahi realizes that Varna has taken pre-admission in National College. So his mission is now to join the same college. But he is devastated to know that the college is considered a Gateway to the IITs and to get an admission the cut off mark in Mathematics is 95%. Mathematics. It's his worst nightmare. He does well in all the other subjects except Maths as he is scared of Mr. Nagendra kumar, his very strict Maths teacher. How he is able to overcome the maths phobia and achieves his goal is the rest of story.",
-  "popularity": 0.3197,
-  "poster_path": "/3Kn85YtsiozkYQgOAr1BQJo9Iip.jpg",
+  "popularity": 0.951,
+  "poster_path": "/hCBR4EPalfoOuMV7m9z9iLQESnX.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2019-08-23",
@@ -37,8 +37,8 @@
   "tagline": "Final Days of High School",
   "title": "Boy",
   "video": false,
-  "vote_average": 7,
-  "vote_count": 2,
+  "vote_average": 7.3,
+  "vote_count": 3,
   "videos": {
     "results": [
       {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Lakshya Sinha",
         "original_name": "Lakshya Sinha",
-        "popularity": 0.1339,
+        "popularity": 0.334,
         "profile_path": "/Arx7392NU3k6eSkSncibMHXh5sR.jpg",
         "cast_id": 2,
         "character": "Mahi Teja",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Sahiti",
         "original_name": "Sahiti",
-        "popularity": 0.0453,
+        "popularity": 0.3433,
         "profile_path": "/AqeNuuqHkMF9CrzL7XmM6rwrvCD.jpg",
         "cast_id": 3,
         "character": "Varna",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Vinay Varma",
         "original_name": "Vinay Varma",
-        "popularity": 0.3505,
+        "popularity": 0.5845,
         "profile_path": "/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg",
         "cast_id": 4,
         "character": "Nagendar Kumar",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Amar Viswaraj",
         "original_name": "Amar Viswaraj",
-        "popularity": 0,
+        "popularity": 0.3254,
         "profile_path": null,
         "credit_id": "5e2ee84598f1f10014fcbf45",
         "department": "Directing",
@@ -122,9 +122,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -142,6 +139,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": [
@@ -268,6 +268,16 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1549
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/a8h3tXbUclYl3RwhjTePE8VarFd.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
       }
     ],
     "logos": [],
@@ -288,6 +298,16 @@
         "iso_3166_1": null,
         "iso_639_1": null,
         "file_path": "/qZ98VCqP5fQCGJXN7xMV1irzIxH.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hCBR4EPalfoOuMV7m9z9iLQESnX.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000

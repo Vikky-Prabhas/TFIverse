@@ -16,9 +16,9 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Oka Radha Iddaru Krishnula Pelli",
-  "overview": "Oka Radha Iddaru Krishnula Pelli is a 2003 Telugu film directed by G.Nageswara Reddy and produced by DVV Danayya and J Bhagavan under Sri Balaji Creations. The film stars Srikanth, Prabhu Deva and Namitha in the lead roles.",
-  "popularity": 0.2878,
+  "original_title": "ఓ రాధ ఇద్దరు కృష్ణుల పెళ్ళి",
+  "overview": "",
+  "popularity": 2.566,
   "poster_path": "/ecJvhBW90ps9JblA6AttRCK0g6b.jpg",
   "production_companies": [
     {
@@ -33,7 +33,13 @@
   "revenue": 0,
   "runtime": 125,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Oka Radha Iddaru Krishnula Pelli",
@@ -49,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.7734,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 1,
         "character": "",
@@ -63,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Prabhu Deva",
         "original_name": "Prabhu Deva",
-        "popularity": 0.883,
+        "popularity": 3.7944,
         "profile_path": "/lfVxoyweEPkIu6zFa44ajPuSJA1.jpg",
         "cast_id": 2,
         "character": "",
@@ -77,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Namitha",
         "original_name": "Namitha",
-        "popularity": 1.4713,
+        "popularity": 1.1372,
         "profile_path": "/gq7dmXf49nuSG80NYMNdQydMwmF.jpg",
         "cast_id": 3,
         "character": "",
@@ -91,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 4,
         "character": "",
@@ -103,9 +109,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 5,
         "character": "",
@@ -119,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.4784,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 6,
         "character": "",
@@ -133,8 +139,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.87,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "6329e91bb6abc40091ff5e24",
@@ -146,8 +152,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -161,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 9,
         "character": "",
@@ -175,7 +181,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 10,
         "character": "",
@@ -189,7 +195,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 11,
         "character": "",
@@ -202,8 +208,8 @@
         "id": 435722,
         "known_for_department": "Acting",
         "name": "Kovai Sarala",
-        "original_name": "Kovai Sarala",
-        "popularity": 0.7882,
+        "original_name": "கோவை சரளா",
+        "popularity": 2.3248,
         "profile_path": "/rujbfPg6rp9DOphQZYUjll7KNPz.jpg",
         "cast_id": 12,
         "character": "",
@@ -219,7 +225,7 @@
         "known_for_department": "Directing",
         "name": "G. Nageswara Reddy",
         "original_name": "G. Nageswara Reddy",
-        "popularity": 0.3773,
+        "popularity": 1.042,
         "profile_path": null,
         "credit_id": "6329e97cef9d72007e34213e",
         "department": "Directing",
@@ -229,16 +235,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1316602",
-    "wikidata_id": "Q7081693",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -257,6 +253,16 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1316602",
+    "wikidata_id": "Q7081693",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "images": {
     "backdrops": [
       {
@@ -274,23 +280,23 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ecJvhBW90ps9JblA6AttRCK0g6b.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 1500,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
         "file_path": "/dUaAuaSmrUVe9RT7fcisKgd2qoT.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/ecJvhBW90ps9JblA6AttRCK0g6b.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },

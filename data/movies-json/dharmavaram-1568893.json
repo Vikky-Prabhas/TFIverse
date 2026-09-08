@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Dharmavaram",
   "overview": "Shiva, a 27-year-old manager, uncovers exploitation of local weavers in a failing silk saree cooperative. With the help of a girlfriend and friends, he confronts corrupt businessmen and establishes Dharmavaram sarees as an authentic brand.",
-  "popularity": 0.0363,
+  "popularity": 1.7224,
   "poster_path": "/bkcjUzBp522PTbt8FmSFfEYhCFb.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Sanyogita Yadav",
         "original_name": "Sanyogita Yadav",
-        "popularity": 0.0143,
+        "popularity": 0.4025,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Ehsan Khan",
         "original_name": "Ehsan Khan",
-        "popularity": 0.093,
+        "popularity": 0.524,
         "profile_path": "/epdnYXhbOi2V2QGfZAeUkEMgxgr.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Tejashree Jadhav",
         "original_name": "Tejashree Jadhav",
-        "popularity": 0.0214,
+        "popularity": 0.3661,
         "profile_path": "/kZnLjlP44mlFvL6P810WwGAAZUC.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Bhadram",
         "original_name": "Bhadram",
-        "popularity": 0.1178,
+        "popularity": 0.8678,
         "profile_path": "/6QHbHMBTsysO1vO2liDF25NRQzT.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Naveena Reddy",
         "original_name": "Naveena Reddy",
-        "popularity": 0.2834,
+        "popularity": 0.7963,
         "profile_path": "/5eDGHP7v1fvCJbvX6wA8ajFxGWM.jpg",
         "cast_id": 6,
         "character": "",
@@ -135,32 +135,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt38715543",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-10-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "alternative_titles": {
     "titles": []
@@ -191,5 +167,29 @@
         "width": 1200
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt38715543",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

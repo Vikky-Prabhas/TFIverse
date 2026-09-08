@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "U & I",
   "overview": "U and I is a youthful entertainer In which, Aditi and Alisha in lead roles and the story of this movie starts with the suicide attempt by the hero Rohan (Aditya) where he meets the heroine Swathi who is also in the same",
-  "popularity": 0,
+  "popularity": 0.4669,
   "poster_path": "/7lWuXvSVPgKKvzPGqHKOUZWWaYD.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,60 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5953368,
-        "known_for_department": "Acting",
-        "name": "Rohan",
-        "original_name": "Rohan",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Aditya",
-        "credit_id": "6970d29181500cff7b813d56",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5953369,
-        "known_for_department": "Acting",
-        "name": "Aditi Chowdary",
-        "original_name": "Aditi Chowdary",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Swati",
-        "credit_id": "6970d2abee5dd4aeb6ceb67c",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5953370,
-        "known_for_department": "Acting",
-        "name": "Alisha",
-        "original_name": "Alisha",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6970d2c746564bb6aaa90be8",
-        "order": 2
-      }
-    ],
-    "crew": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8857792",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -114,6 +60,13 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt8857792",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": [
       {
@@ -129,6 +82,9 @@
         "published_at": "2015-08-17T07:00:00.000Z"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -149,7 +105,51 @@
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953368,
+        "known_for_department": "Acting",
+        "name": "Rohan",
+        "original_name": "Rohan",
+        "popularity": 0.25,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Aditya",
+        "credit_id": "6970d29181500cff7b813d56",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953369,
+        "known_for_department": "Acting",
+        "name": "Aditi Chowdary",
+        "original_name": "Aditi Chowdary",
+        "popularity": 0.25,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Swati",
+        "credit_id": "6970d2abee5dd4aeb6ceb67c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953370,
+        "known_for_department": "Acting",
+        "name": "Alisha",
+        "original_name": "Alisha",
+        "popularity": 0.2559,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6970d2c746564bb6aaa90be8",
+        "order": 2
+      }
+    ],
+    "crew": []
   }
 }

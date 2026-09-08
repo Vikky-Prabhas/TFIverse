@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "పవిత్ర",
   "overview": "Pavitra and Kishtayya fall in love, but Pavitra is pressured to marry Chandrayya. Over time she begins to like Chandrayya, but becomes conflicted when Kishtayya ends up at their house.",
-  "popularity": 0.2361,
+  "popularity": 0.5299,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -28,19 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8793900",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -50,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 1,
         "character": "Pavitra",
@@ -62,9 +49,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 2,
         "character": "Chandrayya",
@@ -77,8 +64,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 3,
         "character": "Kishtayya",
@@ -92,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 4,
         "character": "Raghavayya",
@@ -102,8 +89,18 @@
     ],
     "crew": []
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt8793900",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -126,5 +123,8 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

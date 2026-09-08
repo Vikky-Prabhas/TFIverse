@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఇట్లు అమ్మ",
   "overview": "A traditional widow  transforms from a person of socio-psychological isolation to a person with the spirit of universal motherhood, social commitment and activism.",
-  "popularity": 0.1219,
+  "popularity": 1.716,
   "poster_path": "/glBGbIzGBTshO1XwFTmImt43SdU.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Revathi",
         "original_name": "Revathi",
-        "popularity": 1.1885,
+        "popularity": 2.2245,
         "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Kale",
         "original_name": "Ravi Kale",
-        "popularity": 0.2527,
+        "popularity": 1.9253,
         "profile_path": "/7QWF6ine4pE2RdCHJpXa2shQVCK.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Aruvi Bala",
         "original_name": "Aruvi Bala",
-        "popularity": 0.1681,
+        "popularity": 0.6891,
         "profile_path": "/euENjLUKN5tzo9iCeJ8wz4TaTmu.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Madhumita Krishna",
         "original_name": "Madhumita Krishna",
-        "popularity": 0.1157,
+        "popularity": 0.2863,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -122,9 +122,9 @@
         "id": 2640537,
         "known_for_department": "Acting",
         "name": "Mihira Sirithilaka",
-        "original_name": "Mihira Sirithilaka",
-        "popularity": 0.0465,
-        "profile_path": null,
+        "original_name": "මිහිර සිරිතිලක",
+        "popularity": 0.5314,
+        "profile_path": "/1HOVBV8k5zYJYkIqBc9iiJZzJPA.jpg",
         "cast_id": 15,
         "character": "",
         "credit_id": "6170b47413a32000244b3177",
@@ -137,7 +137,7 @@
         "known_for_department": "Writing",
         "name": "Sainath Thotapalli",
         "original_name": "Sainath Thotapalli",
-        "popularity": 0.0407,
+        "popularity": 0.5599,
         "profile_path": null,
         "cast_id": 16,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Prashanth",
         "original_name": "Prashanth",
-        "popularity": 0.0516,
+        "popularity": 0.4487,
         "profile_path": null,
         "cast_id": 17,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Production",
         "name": "Dr. Bommaku Murali",
         "original_name": "Dr. Bommaku Murali",
-        "popularity": 0.0071,
+        "popularity": 0.4686,
         "profile_path": null,
         "cast_id": 19,
         "character": "",
@@ -179,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Vineet Sai Kota",
         "original_name": "Vineet Sai Kota",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "cast_id": 20,
         "character": "",
@@ -190,25 +190,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1612316,
         "known_for_department": "Directing",
         "name": "Uma Maheswara Rao",
         "original_name": "Uma Maheswara Rao",
-        "popularity": 0.047,
-        "profile_path": null,
-        "credit_id": "6170ac6a894ed6006468b381",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1612316,
-        "known_for_department": "Directing",
-        "name": "Uma Maheswara Rao",
-        "original_name": "Uma Maheswara Rao",
-        "popularity": 0.047,
+        "popularity": 0.6043,
         "profile_path": null,
         "credit_id": "6170ac79a097dc002a96958a",
         "department": "Writing",
@@ -221,7 +208,7 @@
         "known_for_department": "Editing",
         "name": "Prawin Pudi",
         "original_name": "Prawin Pudi",
-        "popularity": 0.1078,
+        "popularity": 0.3216,
         "profile_path": null,
         "credit_id": "6170ab52a097dc004268fa02",
         "department": "Editing",
@@ -230,11 +217,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1612316,
+        "known_for_department": "Directing",
+        "name": "Uma Maheswara Rao",
+        "original_name": "Uma Maheswara Rao",
+        "popularity": 0.6043,
+        "profile_path": null,
+        "credit_id": "6170ac6a894ed6006468b381",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1638456,
         "known_for_department": "Sound",
         "name": "Sunny M.R.",
         "original_name": "Sunny M.R.",
-        "popularity": 0.1012,
+        "popularity": 0.3124,
         "profile_path": null,
         "credit_id": "6170ab87fd7aa400907f9372",
         "department": "Sound",
@@ -243,41 +243,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 999159,
-        "known_for_department": "Camera",
-        "name": "Madhu Ambat",
-        "original_name": "Madhu Ambat",
-        "popularity": 0.0858,
-        "profile_path": "/Aigs0ffIbHFjXtjSQKha5TMsecz.jpg",
-        "credit_id": "6170ac1b6728a80043da0cd6",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1612316,
         "known_for_department": "Directing",
         "name": "Uma Maheswara Rao",
         "original_name": "Uma Maheswara Rao",
-        "popularity": 0.047,
+        "popularity": 0.6043,
         "profile_path": null,
-        "credit_id": "6170ac4e0d5d85009159f2fa",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2195401,
-        "known_for_department": "Sound",
-        "name": "Lakshmi Narayanan",
-        "original_name": "Lakshmi Narayanan",
-        "popularity": 0.0311,
-        "profile_path": null,
-        "credit_id": "6170acf2271671008f66f960",
-        "department": "Sound",
-        "job": "Sound Designer"
+        "credit_id": "6170ac716728a8008cba2978",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -286,7 +260,7 @@
         "known_for_department": "Production",
         "name": "Dr. Bommaku Murali",
         "original_name": "Dr. Bommaku Murali",
-        "popularity": 0.0071,
+        "popularity": 0.4686,
         "profile_path": null,
         "credit_id": "6170b5895c5cc8002655e21f",
         "department": "Production",
@@ -299,7 +273,7 @@
         "known_for_department": "Crew",
         "name": "Suchitra Chandrabose",
         "original_name": "Suchitra Chandrabose",
-        "popularity": 0.1757,
+        "popularity": 0.7637,
         "profile_path": "/quv99XU4n0QlyryCOpqqxcHpqDm.jpg",
         "credit_id": "6170ab486d4c970027283c0f",
         "department": "Crew",
@@ -307,57 +281,47 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1612316,
         "known_for_department": "Directing",
         "name": "Uma Maheswara Rao",
         "original_name": "Uma Maheswara Rao",
-        "popularity": 0.047,
+        "popularity": 0.6043,
         "profile_path": null,
-        "credit_id": "6170ac716728a8008cba2978",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "6170ac4e0d5d85009159f2fa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 999159,
+        "known_for_department": "Camera",
+        "name": "Madhu Ambat",
+        "original_name": "Madhu Ambat",
+        "popularity": 0.3789,
+        "profile_path": "/Aigs0ffIbHFjXtjSQKha5TMsecz.jpg",
+        "credit_id": "6170ac1b6728a80043da0cd6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195401,
+        "known_for_department": "Sound",
+        "name": "Lakshmi Narayanan",
+        "original_name": "Lakshmi Narayanan",
+        "popularity": 0.3002,
+        "profile_path": null,
+        "credit_id": "6170acf2271671008f66f960",
+        "department": "Sound",
+        "job": "Sound Designer"
       }
     ]
   },
   "videos": {
     "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2021-10-08T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt15557314",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Anbudan Amma",
-        "type": "Tamil Version"
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -413,6 +377,42 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 569
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2021-10-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt15557314",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Anbudan Amma",
+        "type": "Tamil Version"
       }
     ]
   }

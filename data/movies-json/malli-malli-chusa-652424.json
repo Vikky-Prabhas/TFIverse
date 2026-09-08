@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మళ్ళీ మళ్ళీ చూశా",
   "overview": "Gautham is an orphan raised by an Army major in Vizag. Swapna is a college student from Hyderabad who loses the diary that Gautham finds. How he manages to impress her forms the rest of the tale.",
-  "popularity": 0.1324,
+  "popularity": 0.8909,
   "poster_path": "/yqZRAHqUQ0gu7RASvppRuIZD3nq.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,22 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Malli Malli Chusa Theatrical Trailer || Anurag Konidena, Shweta Avasthi, Cairvee Thakkar",
+        "key": "Waxk0-XWXZg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5de2a52b4f58010016011446",
+        "published_at": "2019-09-25T13:30:02.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -57,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Anurag Konidena",
         "original_name": "Anurag Konidena",
-        "popularity": 0.0214,
+        "popularity": 0.5046,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -71,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Kairavi Thakkar",
         "original_name": "Kairavi Thakkar",
-        "popularity": 0.0496,
+        "popularity": 0.3107,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -85,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Avasthi",
         "original_name": "Shweta Avasthi",
-        "popularity": 0.1544,
+        "popularity": 0.3866,
         "profile_path": "/pxtkoimE0qsJCpxEg5Nx9kDmskd.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.7675,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 6,
         "character": "",
@@ -113,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Mirchi Kiran",
         "original_name": "Mirchi Kiran",
-        "popularity": 0.1834,
+        "popularity": 0.9221,
         "profile_path": "/h47N3gRWRcTYxnjaopSkMD8x8qk.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,7 +143,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.4174,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 8,
         "character": "",
@@ -143,27 +159,11 @@
         "known_for_department": "Directing",
         "name": "Hemanth Karthik",
         "original_name": "Hemanth Karthik",
-        "popularity": 0.0071,
+        "popularity": 0.3316,
         "profile_path": null,
         "credit_id": "5de2a4b93faba000150ba9e2",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Malli Malli Chusa Theatrical Trailer || Anurag Konidena, Shweta Avasthi, Cairvee Thakkar",
-        "key": "Waxk0-XWXZg",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "5de2a52b4f58010016011446",
-        "published_at": "2019-09-25T13:30:02.000Z"
       }
     ]
   },
@@ -190,6 +190,12 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -237,11 +243,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

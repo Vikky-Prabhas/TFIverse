@@ -1,0 +1,449 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1750516,
+  "imdb_id": "tt43685971",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "పళ్లబురుసు",
+  "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
+  "popularity": 6.7471,
+  "poster_path": "/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+  "production_companies": [
+    {
+      "id": 44098,
+      "logo_path": "/eplqXZD7BVDvu4E2QyKRFkL7rtJ.png",
+      "name": "Annapurna Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 300128,
+      "logo_path": null,
+      "name": "Epic Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-08-14",
+  "revenue": 0,
+  "runtime": 140,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pallaburusu",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt43685971",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2701136,
+        "known_for_department": "Acting",
+        "name": "Sudhakar Reddy",
+        "original_name": "Sudhakar Reddy",
+        "popularity": 0.6545,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Shamboo",
+        "credit_id": "6a816c6b287f6988d5b339ca",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1999839,
+        "known_for_department": "Acting",
+        "name": "Muralidhar Goud",
+        "original_name": "Muralidhar Goud",
+        "popularity": 0.818,
+        "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
+        "cast_id": 2,
+        "character": "Tirupathi",
+        "credit_id": "6a816c8072da8ab880f8014a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4306912,
+        "known_for_department": "Acting",
+        "name": "Prajwal Yadma",
+        "original_name": "Prajwal Yadma",
+        "popularity": 0.5415,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Raviga",
+        "credit_id": "6a816c8f3a7edff7ac6c9995",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6415034,
+        "known_for_department": "Acting",
+        "name": "Gomathy Reddy",
+        "original_name": "Gomathy Reddy",
+        "popularity": 0.3963,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Swetha",
+        "credit_id": "6a816ca609b2e7860f72b65f",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161534,
+        "known_for_department": "Production",
+        "name": "Uday Chauhan",
+        "original_name": "Uday Chauhan",
+        "popularity": 0.3393,
+        "profile_path": null,
+        "credit_id": "6a816dd3c0d8d39bda72b624",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161534,
+        "known_for_department": "Production",
+        "name": "Uday Chauhan",
+        "original_name": "Uday Chauhan",
+        "popularity": 0.3393,
+        "profile_path": null,
+        "credit_id": "6a816de5f2559b3c2ef800de",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161534,
+        "known_for_department": "Production",
+        "name": "Uday Chauhan",
+        "original_name": "Uday Chauhan",
+        "popularity": 0.3393,
+        "profile_path": null,
+        "credit_id": "6a816df3361a98e65472b61b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161534,
+        "known_for_department": "Production",
+        "name": "Uday Chauhan",
+        "original_name": "Uday Chauhan",
+        "popularity": 0.3393,
+        "profile_path": null,
+        "credit_id": "6a816e06fa0e1c226fc93ffb",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3865801,
+        "known_for_department": "Camera",
+        "name": "Vinod K. Bangari",
+        "original_name": "Vinod K. Bangari",
+        "popularity": 0.2653,
+        "profile_path": null,
+        "credit_id": "6a816e2472da8ab880f8015e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2952684,
+        "known_for_department": "Sound",
+        "name": "Pawan Ch",
+        "original_name": "Pawan Ch",
+        "popularity": 0.2706,
+        "profile_path": null,
+        "credit_id": "6a816e3d0fa4eb12ae8914d5",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3798872,
+        "known_for_department": "Editing",
+        "name": "Srujana Adusumilli",
+        "original_name": "Srujana Adusumilli",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "credit_id": "6a816e4f6518a5c6e293f7e1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4570116,
+        "known_for_department": "Art",
+        "name": "Kshitij Jeevan Randhir",
+        "original_name": "Kshitij Jeevan Randhir",
+        "popularity": 0.2797,
+        "profile_path": null,
+        "credit_id": "6a816e698991a42e2ff801e3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5864660,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Princi Vaidh",
+        "original_name": "Princi Vaidh",
+        "popularity": 0.2819,
+        "profile_path": null,
+        "credit_id": "6a816e9c63753f8106c94078",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6415051,
+        "known_for_department": "Production",
+        "name": "Annapurna Studios",
+        "original_name": "Annapurna Studios",
+        "popularity": 0.3017,
+        "profile_path": null,
+        "credit_id": "6a816ec0b8283f7f6c940168",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3220399,
+        "known_for_department": "Production",
+        "name": "Vivek Krishnani",
+        "original_name": "Vivek Krishnani",
+        "popularity": 0.34,
+        "profile_path": null,
+        "credit_id": "6a816ecfbeae4e956b6c98e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4716246,
+        "known_for_department": "Production",
+        "name": "Aditya Pittie",
+        "original_name": "Aditya Pittie",
+        "popularity": 0.4685,
+        "profile_path": null,
+        "credit_id": "6a816ee109b2e7860f72b683",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pallaburusu Official Trailer | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
+        "key": "kXTdgb6QrsY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a817187a5fdb73d57891598",
+        "published_at": "2026-08-07T03:52:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pallaburusu Teaser | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
+        "key": "BnoxTrChKAY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6a8171a6361a98e65472b635",
+        "published_at": "2026-07-29T10:36:28.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 175676,
+        "name": "toothbrush"
+      },
+      {
+        "id": 380990,
+        "name": "pallaburusu"
+      },
+      {
+        "id": 380991,
+        "name": "latest telugu movies"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-08-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Prime Video ",
+            "release_date": "2026-09-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 768,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1365
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 3.207,
+        "height": 266,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9JZflnbF5xokozWzsdrJgCyYSaZ.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 853
+      },
+      {
+        "aspect_ratio": 3.583,
+        "height": 168,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lz86plVn2gqIGU9Jf4rrYUOHKGH.png",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 602
+      },
+      {
+        "aspect_ratio": 2.712,
+        "height": 278,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/5jS5lslxbU5SIQtM7OstdTyafsm.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 754
+      },
+      {
+        "aspect_ratio": 2.738,
+        "height": 244,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/7O63SbUlurjQZQhfd8zfNRhHhHn.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 668
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/pdBHPhJau3vKxhFAhZElTVpNQ73.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1799,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/bhBgb8RdXNWVOJy9DUOOGyTXo8M.jpg",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 1200
+      }
+    ]
+  }
+}

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "10th క్లాస్",
   "overview": "Srinu (Bharat) and Anjali (Sharanya) study tenth class in the same school. They fall in love with each other. Their friendship cum love thickens when they continue studying together in Intermediate. Later they get married and lead a family life. After initial struggling, Srinu gets a good job and Anjali gives birth to twins. But their happiness is short lived as Anjali dies in an accident. Srinu tries to commit suicide, but he is rescued by Sandhya (Sunaina). And how Srinu manage to lead his life without Anjali, forms the rest of the story.",
-  "popularity": 0.3284,
+  "popularity": 0.6327,
   "poster_path": "/3TV0UI7scYkF7qWx6LN71SVHcrp.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Bharat",
         "original_name": "Bharat",
-        "popularity": 0.0645,
+        "popularity": 0.4338,
         "profile_path": "/nt9SSgqO2oi8a2XWBXHzen5wefs.jpg",
         "cast_id": 2,
         "character": "Srinu",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Sunaina",
         "original_name": "Sunaina",
-        "popularity": 0.3669,
+        "popularity": 1.1609,
         "profile_path": "/9wGhgSm8bywiBVz80lXfkLS5q81.jpg",
         "cast_id": 4,
         "character": "Sandhya",
@@ -90,9 +90,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "Comedian",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Saranya Nag",
         "original_name": "Saranya Nag",
-        "popularity": 0.328,
+        "popularity": 0.5695,
         "profile_path": "/oKY3KsDGonYbNr4ueE2wMb4uQ5W.jpg",
         "cast_id": 9,
         "character": "Anjali",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 10,
         "character": "",
@@ -136,7 +136,7 @@
         "known_for_department": "Directing",
         "name": "Chandu",
         "original_name": "Chandu",
-        "popularity": 0.192,
+        "popularity": 0.3224,
         "profile_path": null,
         "credit_id": "52fe4b5fc3a36847f82008fd",
         "department": "Directing",
@@ -149,7 +149,7 @@
         "known_for_department": "Production",
         "name": "Venkata Shyam Prasad",
         "original_name": "Venkata Shyam Prasad",
-        "popularity": 0.0143,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "52fe4b5fc3a36847f82008f7",
         "department": "Production",
@@ -159,16 +159,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1603778",
-    "wikidata_id": "Q4547014",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -186,6 +176,19 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1603778",
+    "wikidata_id": "Q4547014",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -263,8 +266,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

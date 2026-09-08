@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కొత్త జీవితాలు",
   "overview": "Jyoti, a school teacher, falls in love with Gopal, an honest man. What happens when Raju, a wealthy landlord, tries to ruin their relationship with an intention of marrying Jyoti?",
-  "popularity": 0.2949,
+  "popularity": 1.366,
   "poster_path": "/wFmPgJuBuaP9Z7o2cZESoZ0jxUr.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Hari Prasad",
         "original_name": "Hari Prasad",
-        "popularity": 0,
+        "popularity": 0.4206,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -93,11 +93,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 585052,
+        "known_for_department": "Writing",
+        "name": "R. Selvaraj",
+        "original_name": "R. Selvaraj",
+        "popularity": 0.7733,
+        "profile_path": "/s9lGLuybt8PJX7diceVbtH7FTI.jpg",
+        "credit_id": "62c38ac52da84600817c315f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "62c38b0d4a4bfc007b281a2b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 238027,
         "known_for_department": "Directing",
         "name": "Bharathiraja",
         "original_name": "Bharathiraja",
-        "popularity": 0.3613,
+        "popularity": 3.1889,
         "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
         "credit_id": "62c38ad0af6e942c95271c08",
         "department": "Writing",
@@ -110,7 +136,7 @@
         "known_for_department": "Directing",
         "name": "Bharathiraja",
         "original_name": "Bharathiraja",
-        "popularity": 0.3613,
+        "popularity": 3.1889,
         "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
         "credit_id": "62c38a9c3a48c5007cb185fa",
         "department": "Directing",
@@ -119,37 +145,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1339589,
-        "known_for_department": "Camera",
-        "name": "B. Kannan",
-        "original_name": "B. Kannan",
-        "popularity": 0.0644,
-        "profile_path": null,
-        "credit_id": "62c38aef0443c9004d045af8",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585052,
-        "known_for_department": "Writing",
-        "name": "R. Selvaraj",
-        "original_name": "R. Selvaraj",
-        "popularity": 0.249,
-        "profile_path": null,
-        "credit_id": "62c38ac52da84600817c315f",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1488793,
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "62c38afff6fd18004ce2544b",
         "department": "Editing",
@@ -158,17 +158,20 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 76888,
-        "known_for_department": "Sound",
-        "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
-        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "62c38b0d4a4bfc007b281a2b",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "id": 1339589,
+        "known_for_department": "Camera",
+        "name": "B. Kannan",
+        "original_name": "B. Kannan",
+        "popularity": 0.3694,
+        "profile_path": "/uZyF2ZvnRCRI47ZEqW4qYjDzL6P.jpg",
+        "credit_id": "62c38aef0443c9004d045af8",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0155814",
@@ -179,28 +182,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.669,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/wFmPgJuBuaP9Z7o2cZESoZ0jxUr.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 502
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -216,6 +197,25 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.669,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wFmPgJuBuaP9Z7o2cZESoZ0jxUr.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 502
       }
     ]
   }

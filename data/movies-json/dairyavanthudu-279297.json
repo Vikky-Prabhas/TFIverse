@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Dairyavanthudu",
   "overview": "Kishore, an unemployed young man, lives with his brother Srinivasa. Things start to go down the hill when Kishore gets into a fight while saving a girl, Lavanya, from kidnappers.",
-  "popularity": 0.1711,
+  "popularity": 0.4917,
   "poster_path": "/nnBiMtT3jsFnbSrRooTNXRGRi8t.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 4,
         "character": "",
@@ -76,25 +76,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1335692,
-        "known_for_department": "Directing",
-        "name": "Lakshmi Deepak P",
-        "original_name": "Lakshmi Deepak P",
-        "popularity": 0.0621,
-        "profile_path": null,
-        "credit_id": "53b0ba45c3a3682ee60057c0",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 933605,
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0ba470e0a26597d007001",
         "department": "Sound",
@@ -107,11 +94,24 @@
         "known_for_department": "Production",
         "name": "Ram Deepak",
         "original_name": "Ram Deepak",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "53b0ba53c3a3682eea005876",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335692,
+        "known_for_department": "Directing",
+        "name": "Lakshmi Deepak P",
+        "original_name": "Lakshmi Deepak P",
+        "popularity": 0.4835,
+        "profile_path": null,
+        "credit_id": "53b0ba45c3a3682ee60057c0",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
@@ -124,6 +124,23 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -154,22 +171,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1986-11-26T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

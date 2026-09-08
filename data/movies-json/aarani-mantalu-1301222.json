@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Aarani Mantalu",
   "overview": "Ravi's (Chiranjeevi) sister Sarada (Subhashini) is raped and murdered by a gang of four, who is acquitted. Ravi gets revenge on the four rapists by killing each of them, but he finds each of them dead beforehand.",
-  "popularity": 0.0714,
+  "popularity": 1.3819,
   "poster_path": "/rjqM9f3YZHhnlN69yUyXTb4o5nA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,36 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1980-08-08T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
   },
@@ -70,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "",
@@ -83,9 +53,9 @@
         "id": 1335729,
         "known_for_department": "Acting",
         "name": "Kavitha",
-        "original_name": "Kavitha",
-        "popularity": 0.2762,
-        "profile_path": null,
+        "original_name": "கவிதா",
+        "popularity": 1.8224,
+        "profile_path": "/1aFgMnyAVvKDKXcpVzC5PNy6qy8.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "66627ae13120d5f72008986f",
@@ -98,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Prasad Babu",
         "original_name": "Prasad Babu",
-        "popularity": 0.1678,
+        "popularity": 1.0868,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -114,7 +84,7 @@
         "known_for_department": "Directing",
         "name": "K. Vasu",
         "original_name": "K. Vasu",
-        "popularity": 0.0716,
+        "popularity": 0.3713,
         "profile_path": null,
         "credit_id": "66627af48aca51a8a209b71b",
         "department": "Directing",
@@ -148,5 +118,35 @@
         "width": 600
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-08-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

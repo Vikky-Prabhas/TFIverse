@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Aakasmikam",
   "overview": "A Quest Of Truth and Vengeance is initiated by Bhavyanth when his Naive Brother Hemanth is Murdered and all the fingers point towards his Friends Girlfriend Sashi who's on the run, And Things Get Murkier For Everyone When SI Shekar Wants To Unravel the layers behind This Mystery.",
-  "popularity": 0.0297,
+  "popularity": 0.9844,
   "poster_path": "/pGj2FxtlMf6gbgwod4warIHDDOl.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Charan Kota",
         "original_name": "Charan Kota",
-        "popularity": 0,
+        "popularity": 0.4938,
         "profile_path": null,
         "cast_id": 1,
         "character": "Bhavyanth",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Sapna",
         "original_name": "Sapna",
-        "popularity": 0,
+        "popularity": 0.4409,
         "profile_path": null,
         "cast_id": 2,
         "character": "Sashi",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Mohith",
         "original_name": "Mohith",
-        "popularity": 0,
+        "popularity": 0.4149,
         "profile_path": null,
         "cast_id": 3,
         "character": "SI Shekar",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Pavan Jonnalagadda",
         "original_name": "Pavan Jonnalagadda",
-        "popularity": 0,
+        "popularity": 0.4126,
         "profile_path": null,
         "cast_id": 4,
         "character": "Koushik",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Srimanth",
         "original_name": "Srimanth",
-        "popularity": 0,
+        "popularity": 0.2709,
         "profile_path": null,
         "cast_id": 5,
         "character": "Hemanth",
@@ -134,28 +134,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4214833,
-        "known_for_department": "Acting",
-        "name": "Pavan Jonnalagadda",
-        "original_name": "Pavan Jonnalagadda",
-        "popularity": 0,
+        "id": 4214845,
+        "known_for_department": "Writing",
+        "name": "Abhinay Jonnalagadda",
+        "original_name": "Abhinay Jonnalagadda",
+        "popularity": 0.2918,
         "profile_path": null,
-        "credit_id": "64da56e1bf31f201cd50ab1d",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "64da56ca37109700c51c1c8b",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4214849,
-        "known_for_department": "Writing",
-        "name": "Ugavanth Vaddi",
-        "original_name": "Ugavanth Vaddi",
-        "popularity": 0,
+        "id": 4214850,
+        "known_for_department": "Camera",
+        "name": "Uday Veeru",
+        "original_name": "Uday Veeru",
+        "popularity": 0.3338,
         "profile_path": null,
-        "credit_id": "64da5711b77d4b114017d9c1",
-        "department": "Writing",
-        "job": "Dialogue"
+        "credit_id": "64da5723d100b600ada28b9e",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -164,7 +164,7 @@
         "known_for_department": "Production",
         "name": "Yogi Yesh",
         "original_name": "Yogi Yesh",
-        "popularity": 0,
+        "popularity": 0.3079,
         "profile_path": null,
         "credit_id": "64da572e59e8a900e2271989",
         "department": "Production",
@@ -177,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Pavan Jonnalagadda",
         "original_name": "Pavan Jonnalagadda",
-        "popularity": 0,
+        "popularity": 0.4126,
         "profile_path": null,
         "credit_id": "64da56f659e8a900ac06c2fb",
         "department": "Editing",
@@ -186,24 +186,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4214845,
-        "known_for_department": "Writing",
-        "name": "Abhinay Jonnalagadda",
-        "original_name": "Abhinay Jonnalagadda",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "64da56ca37109700c51c1c8b",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4214844,
         "known_for_department": "Writing",
         "name": "Abhinay Jonnalagadda",
         "original_name": "Abhinay Jonnalagadda",
-        "popularity": 0,
+        "popularity": 0.3089,
         "profile_path": null,
         "credit_id": "64da56c159e8a90139d53439",
         "department": "Writing",
@@ -212,17 +199,33 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4214850,
-        "known_for_department": "Camera",
-        "name": "Uday Veeru",
-        "original_name": "Uday Veeru",
-        "popularity": 0,
+        "id": 4214849,
+        "known_for_department": "Writing",
+        "name": "Ugavanth Vaddi",
+        "original_name": "Ugavanth Vaddi",
+        "popularity": 0.2928,
         "profile_path": null,
-        "credit_id": "64da5723d100b600ada28b9e",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "64da5711b77d4b114017d9c1",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214833,
+        "known_for_department": "Acting",
+        "name": "Pavan Jonnalagadda",
+        "original_name": "Pavan Jonnalagadda",
+        "popularity": 0.4126,
+        "profile_path": null,
+        "credit_id": "64da56e1bf31f201cd50ab1d",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": [
@@ -247,15 +250,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -271,5 +265,11 @@
         "width": 2000
       }
     ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Bhayam",
   "overview": "Bhayam is a 2007 Indian Telugu film, directed by D. Ranga Rao and Produced by D. Ranga Rao. The film stars Bharghav, Vamsi, Vidhya, Sriram, Soumya and Ramesh in lead roles. The music of the film was composed by T V S Raj.",
-  "popularity": 0.0453,
+  "popularity": 0.4314,
   "poster_path": "/36FXe7IlgVV1pOUWobG6l6XDKlo.jpg",
   "production_companies": [],
   "production_countries": [
@@ -54,7 +54,7 @@
         "known_for_department": "Directing",
         "name": "D. Ranga Rao",
         "original_name": "D. Ranga Rao",
-        "popularity": 0,
+        "popularity": 0.2582,
         "profile_path": null,
         "credit_id": "62d1ea457e348300512def31",
         "department": "Directing",
@@ -67,7 +67,7 @@
         "known_for_department": "Directing",
         "name": "D. Ranga Rao",
         "original_name": "D. Ranga Rao",
-        "popularity": 0,
+        "popularity": 0.2582,
         "profile_path": null,
         "credit_id": "62d1ea4fefca000050909c59",
         "department": "Writing",
@@ -85,34 +85,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/36FXe7IlgVV1pOUWobG6l6XDKlo.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "US",
-        "title": "Devil Dead",
-        "type": ""
-      }
-    ]
-  },
   "release_dates": {
     "results": [
       {
@@ -127,6 +99,34 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Devil Dead",
+        "type": ""
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/36FXe7IlgVV1pOUWobG6l6XDKlo.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
   }

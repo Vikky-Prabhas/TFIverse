@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Neetho",
   "overview": "Madhav, a college student, falls in love with Shalini and proposes her to act as his lover for thirty days without revealing his identity.",
-  "popularity": 0.2132,
+  "popularity": 0.9747,
   "poster_path": "/qggfBKH1d5XSBUgpsYMNTH0vI5N.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Directing",
         "name": "Prakash Kovelamudi",
         "original_name": "Prakash Kovelamudi",
-        "popularity": 0.1195,
+        "popularity": 0.5261,
         "profile_path": null,
         "cast_id": 2,
         "character": "Madhav",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Maheck Chahal",
         "original_name": "Maheck Chahal",
-        "popularity": 0.4337,
+        "popularity": 0.8522,
         "profile_path": "/pADGYbYGAcr1O87tudJJzYDjJLm.jpg",
         "cast_id": 3,
         "character": "Shalini",
@@ -73,7 +73,7 @@
         "known_for_department": "Writing",
         "name": "John Mahendran",
         "original_name": "John Mahendran",
-        "popularity": 0.2092,
+        "popularity": 0.4733,
         "profile_path": null,
         "credit_id": "68015c3bf39c730125d97102",
         "department": "Directing",
@@ -86,7 +86,7 @@
         "known_for_department": "Camera",
         "name": "Chota K. Naidu",
         "original_name": "Chota K. Naidu",
-        "popularity": 0.106,
+        "popularity": 0.3377,
         "profile_path": null,
         "credit_id": "68015ca561b1c4bb329a049b",
         "department": "Camera",
@@ -99,7 +99,7 @@
         "known_for_department": "Sound",
         "name": "Vidyasagar",
         "original_name": "Vidyasagar",
-        "popularity": 0.3034,
+        "popularity": 0.5272,
         "profile_path": "/f0mzntGkD90Brbg0db7w8WCPGIT.jpg",
         "credit_id": "68015cb661b1c4bb329a04a2",
         "department": "Sound",
@@ -112,7 +112,7 @@
         "known_for_department": "Production",
         "name": "Ramoji Rao",
         "original_name": "Ramoji Rao",
-        "popularity": 0.1602,
+        "popularity": 0.5488,
         "profile_path": "/67GLVYQW4pUZO4Zp7w93IOoGpc7.jpg",
         "credit_id": "68015cca61b1c4bb329a04a7",
         "department": "Production",
@@ -125,7 +125,7 @@
         "known_for_department": "Writing",
         "name": "John Mahendran",
         "original_name": "John Mahendran",
-        "popularity": 0.2092,
+        "popularity": 0.4733,
         "profile_path": null,
         "credit_id": "68015dc82e8958f0f9995751",
         "department": "Writing",
@@ -133,38 +133,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2002-06-27T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -222,5 +196,31 @@
         "width": 786
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2002-06-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

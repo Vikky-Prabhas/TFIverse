@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Kaliyuga Pandavulu",
   "overview": "Kaliyuga Pandavulu is action drama based movie in which, Vijay (Venkatesh) is a spoilt son of rich industrialist Chakrapani (Rao Gopal Rao) and his father encourages him for whatever misdeeds he does. Bharathi (Khushbu), a smart, intelligent, and middle class girl studies in the same college of Vijay and changes him to a better person. Vijay and Bharathi fall in love with each other and plan to get married. In Vijays absence Chakrapani who is against their marriage tarnishes Bharathis image and labels her as a prostitute. Vijay disbelieves that and saves her from suicide. There are so many victims like Bharathi so Vijay, Bharathi, and their three friends decide to fight against the injustice around and form a group called Kaliyuga Pandavulu. The rest of the story is how they succeed in fulfilling their commitment.",
-  "popularity": 0.3873,
+  "popularity": 0.7903,
   "poster_path": "/zy7SxuNrh4EsHIkLSBeMct4pbE0.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "Vijay",
@@ -65,9 +68,9 @@
         "gender": 1,
         "id": 82078,
         "known_for_department": "Acting",
-        "name": "Khushboo",
-        "original_name": "Khushboo",
-        "popularity": 3.0759,
+        "name": "Khusbhu Sundar",
+        "original_name": "குஷ்பு சுந்தர்",
+        "popularity": 3.095,
         "profile_path": "/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg",
         "cast_id": 4,
         "character": "Bharathi",
@@ -81,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.5446,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 5,
         "character": "Chakrapani",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Chitti Babu",
         "original_name": "Chitti Babu",
-        "popularity": 0.1104,
+        "popularity": 0.4759,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -111,7 +114,7 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "53b1831b0e0a265980008339",
         "department": "Directing",
@@ -124,7 +127,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b1831c0e0a265983008321",
         "department": "Sound",
@@ -137,7 +140,7 @@
         "known_for_department": "Production",
         "name": "D. Rama Naidu",
         "original_name": "D. Rama Naidu",
-        "popularity": 0.167,
+        "popularity": 0.4203,
         "profile_path": "/gGZgHVJmWIIu1RzjlxFmoKDDdW0.jpg",
         "credit_id": "53b18321c3a3682edb0066ce",
         "department": "Production",
@@ -145,8 +148,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt1674079",
@@ -200,8 +203,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

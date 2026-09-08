@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పేకాట పాపారావు",
   "overview": "An irresponsible man, who does not care about his family members and is addicted to gambling, spends most of his time at the club. He falls in love with a woman and marries; later finds out that she is a cop.",
-  "popularity": 0.2916,
+  "popularity": 0.8697,
   "poster_path": "/m43zzhX3vZBdGkZyaEHbQ87xYfF.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,142 +44,27 @@
   "video": false,
   "vote_average": 6.5,
   "vote_count": 2,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 545595,
-        "known_for_department": "Acting",
-        "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
-        "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
-        "cast_id": 6,
-        "character": "Paparao",
-        "credit_id": "58a83242925141567500729f",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 82078,
-        "known_for_department": "Acting",
-        "name": "Khushboo",
-        "original_name": "Khushboo",
-        "popularity": 3.0759,
-        "profile_path": "/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg",
-        "cast_id": 7,
-        "character": "Uma",
-        "credit_id": "58a832479251415691006f67",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 2,
-        "character": "Constable Neelakantam",
-        "credit_id": "58a832039251415661007262",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 589654,
-        "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
-        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
-        "cast_id": 3,
-        "character": "Abdullah",
-        "credit_id": "58a8321a925141565d007938",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 565890,
-        "known_for_department": "Acting",
-        "name": "Tanikella Bharani",
-        "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
-        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "cast_id": 4,
-        "character": "Harichandra",
-        "credit_id": "58a83223c3a3686641006ddc",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 584512,
-        "known_for_department": "Acting",
-        "name": "Nirmalamma",
-        "original_name": "Nirmalamma",
-        "popularity": 0.1774,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "Ramanamma",
-        "credit_id": "58a83232c3a368668d006baa",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 591151,
-        "known_for_department": "Acting",
-        "name": "Gundu Hanumantha Rao",
-        "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.3014,
-        "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
-        "cast_id": 9,
-        "character": "Gundu",
-        "credit_id": "661ffd8e3c4344017c0498c4",
-        "order": 6
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585567,
-        "known_for_department": "Acting",
-        "name": "Shivaji Raja",
-        "original_name": "Shivaji Raja",
-        "popularity": 0.3786,
-        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
-        "cast_id": 10,
-        "character": "Sivaji",
-        "credit_id": "661ffde26a300b017e338c2a",
-        "order": 7
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1141392,
-        "known_for_department": "Directing",
-        "name": "Y Nageswara Rao",
-        "original_name": "Y Nageswara Rao",
-        "popularity": 0.0797,
-        "profile_path": null,
-        "credit_id": "58a83286c3a368668d006bd9",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
   "videos": {
     "results": []
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0298500",
+    "wikidata_id": "Q24905603",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Pekata Papa Rao",
+        "type": ""
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -198,19 +83,134 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0298500",
-    "wikidata_id": "Q24905603",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": [
+  "credits": {
+    "cast": [
       {
-        "iso_3166_1": "IN",
-        "title": "Pekata Papa Rao",
-        "type": ""
+        "adult": false,
+        "gender": 2,
+        "id": 545595,
+        "known_for_department": "Acting",
+        "name": "Rajendra Prasad",
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
+        "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
+        "cast_id": 6,
+        "character": "Paparao",
+        "credit_id": "58a83242925141567500729f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82078,
+        "known_for_department": "Acting",
+        "name": "Khusbhu Sundar",
+        "original_name": "குஷ்பு சுந்தர்",
+        "popularity": 3.095,
+        "profile_path": "/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg",
+        "cast_id": 7,
+        "character": "Uma",
+        "credit_id": "58a832479251415691006f67",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 2,
+        "character": "Constable Neelakantam",
+        "credit_id": "58a832039251415661007262",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589654,
+        "known_for_department": "Acting",
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
+        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
+        "cast_id": 3,
+        "character": "Abdullah",
+        "credit_id": "58a8321a925141565d007938",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "cast_id": 4,
+        "character": "Harichandra",
+        "credit_id": "58a83223c3a3686641006ddc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584512,
+        "known_for_department": "Acting",
+        "name": "Nirmalamma",
+        "original_name": "Nirmalamma",
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
+        "cast_id": 5,
+        "character": "Ramanamma",
+        "credit_id": "58a83232c3a368668d006baa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591151,
+        "known_for_department": "Acting",
+        "name": "Gundu Hanumantha Rao",
+        "original_name": "Gundu Hanumantha Rao",
+        "popularity": 0.6514,
+        "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
+        "cast_id": 9,
+        "character": "Gundu",
+        "credit_id": "661ffd8e3c4344017c0498c4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585567,
+        "known_for_department": "Acting",
+        "name": "Shivaji Raja",
+        "original_name": "Shivaji Raja",
+        "popularity": 1.7055,
+        "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+        "cast_id": 10,
+        "character": "Sivaji",
+        "credit_id": "661ffde26a300b017e338c2a",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141392,
+        "known_for_department": "Directing",
+        "name": "Y Nageswara Rao",
+        "original_name": "Y Nageswara Rao",
+        "popularity": 0.4932,
+        "profile_path": null,
+        "credit_id": "58a83286c3a368668d006bd9",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },

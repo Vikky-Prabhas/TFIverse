@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "రాజమహల్",
   "overview": "",
-  "popularity": 0.1907,
+  "popularity": 0.6112,
   "poster_path": "/1rWn0GkNo2A7XK8LI8y6p4P9wcn.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "Gopi",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Krishnam Raju",
         "original_name": "Krishnam Raju",
-        "popularity": 0.351,
+        "popularity": 2.9074,
         "profile_path": "/bvZLQkr6U1kNNWmHZsRnPXOpg4J.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,9 +83,9 @@
         "id": 1423167,
         "known_for_department": "Acting",
         "name": "Vijayalalitha",
-        "original_name": "Vijayalalitha",
-        "popularity": 0.1739,
-        "profile_path": null,
+        "original_name": "விஜயலலிதா",
+        "popularity": 0.6471,
+        "profile_path": "/fT1jNft9jbaVpPAmaE3de34wdpO.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "69468619416d0f0d388eb21c",
@@ -95,8 +98,8 @@
         "known_for_department": "Acting",
         "name": "Jyothi Lakshmi",
         "original_name": "Jyothi Lakshmi",
-        "popularity": 0.3759,
-        "profile_path": null,
+        "popularity": 1.2725,
+        "profile_path": "/adiJL8TvTsNw3bD0IB9tLSRQpXZ.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "6946868657916fb0c42fb8c7",
@@ -109,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Thyagaraju",
         "original_name": "Thyagaraju",
-        "popularity": 0.0286,
+        "popularity": 0.8118,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -123,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Chalam",
         "original_name": "Chalam",
-        "popularity": 0.0482,
+        "popularity": 1.1997,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -136,9 +139,9 @@
         "id": 1423714,
         "known_for_department": "Acting",
         "name": "Jayakumari",
-        "original_name": "Jayakumari",
-        "popularity": 0.0835,
-        "profile_path": null,
+        "original_name": "ஜெய்குமாரி",
+        "popularity": 0.6109,
+        "profile_path": "/nYPGoikO8F5NjkEE5qQAbq2uxjA.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "694686a31869be1085072b0d",
@@ -148,13 +151,13 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1674888,
         "known_for_department": "Sound",
         "name": "T. V. Raju",
         "original_name": "T. V. Raju",
-        "popularity": 0.1212,
-        "profile_path": null,
+        "popularity": 0.3015,
+        "profile_path": "/9e0PjWVZ8eleTlDiEMe8N8bzLo5.jpg",
         "credit_id": "694686cde5069b831d7ab885",
         "department": "Sound",
         "job": "Original Music Composer"
@@ -166,7 +169,7 @@
         "known_for_department": "Sound",
         "name": "P. Susheela",
         "original_name": "P. Susheela",
-        "popularity": 0.0796,
+        "popularity": 0.5907,
         "profile_path": "/k5UIA5ihxo9ACiVZAdts6r03PN3.jpg",
         "credit_id": "69468701da1253e059072b71",
         "department": "Sound",
@@ -179,7 +182,7 @@
         "known_for_department": "Sound",
         "name": "S. Janaki",
         "original_name": "S. Janaki",
-        "popularity": 0.0863,
+        "popularity": 0.3872,
         "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
         "credit_id": "6946870a5d4fa96ce2154bea",
         "department": "Sound",
@@ -192,7 +195,7 @@
         "known_for_department": "Sound",
         "name": "L. R. Eswari",
         "original_name": "L. R. Eswari",
-        "popularity": 0.0389,
+        "popularity": 0.4867,
         "profile_path": "/nTyBiQeSbn4rSwI07FuJSf6PgyJ.jpg",
         "credit_id": "6946874a9926ecda96b1c2f3",
         "department": "Sound",
@@ -200,15 +203,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0187438",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -256,7 +252,11 @@
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt0187438",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

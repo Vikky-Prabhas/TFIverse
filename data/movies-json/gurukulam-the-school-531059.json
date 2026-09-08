@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Gurukulam – The School",
   "overview": "Gurukulam - The School, a short film which won more than 17 awards globally from various international film festivals.",
-  "popularity": 0.1311,
+  "popularity": 2.6119,
   "poster_path": "/8rnsWr2Xx7jwHsQTGt3Q2TtjE0z.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,16 +42,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt5664854",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "credits": {
     "cast": [
       {
@@ -61,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Ramakrishna Meka",
         "original_name": "Ramakrishna Meka",
-        "popularity": 0.1544,
+        "popularity": 0.4048,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -73,9 +63,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 2,
         "character": "",
@@ -86,25 +76,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 2068128,
-        "known_for_department": "Editing",
-        "name": "BVR Shiva kumar",
-        "original_name": "BVR Shiva kumar",
-        "popularity": 0.0914,
-        "profile_path": null,
-        "credit_id": "5b28ffb40e0a2659be00531b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 2068137,
         "known_for_department": "Sound",
         "name": "Gokul Abhishek",
         "original_name": "Gokul Abhishek",
-        "popularity": 0.0071,
+        "popularity": 0.2823,
         "profile_path": null,
         "credit_id": "5b2902069251412c8d005bb3",
         "department": "Sound",
@@ -117,7 +94,7 @@
         "known_for_department": "Editing",
         "name": "BVR Shiva kumar",
         "original_name": "BVR Shiva kumar",
-        "popularity": 0.0914,
+        "popularity": 0.4928,
         "profile_path": null,
         "credit_id": "5b290214c3a36847ad004f8a",
         "department": "Editing",
@@ -126,11 +103,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2068128,
+        "known_for_department": "Editing",
+        "name": "BVR Shiva kumar",
+        "original_name": "BVR Shiva kumar",
+        "popularity": 0.4928,
+        "profile_path": null,
+        "credit_id": "5b28ffb40e0a2659be00531b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1497110,
         "known_for_department": "Directing",
         "name": "Anup Bhandari",
         "original_name": "Anup Bhandari",
-        "popularity": 0.1479,
+        "popularity": 0.428,
         "profile_path": null,
         "credit_id": "6041efb8651fcf00448fb6e9",
         "department": "Sound",
@@ -138,24 +128,15 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt5664854",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.68,
-        "height": 1000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/8rnsWr2Xx7jwHsQTGt3Q2TtjE0z.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 680
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -173,5 +154,24 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.68,
+        "height": 1000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8rnsWr2Xx7jwHsQTGt3Q2TtjE0z.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 680
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

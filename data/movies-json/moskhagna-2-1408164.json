@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Moskhagna #2",
   "overview": "A feel good rom com",
-  "popularity": 0.1036,
+  "popularity": 0.4254,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -28,63 +28,31 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Planned",
+  "status": "Rumored",
   "tagline": "",
   "title": "Moskhagna #2",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4948713,
-        "known_for_department": "Acting",
-        "name": "Mokshagnya",
-        "original_name": "Mokshagnya",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "676e3d451efc2434cf12a166",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1790294,
-        "known_for_department": "Production",
-        "name": "Suryadevara Naga Vamsi",
-        "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1832,
-        "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
-        "credit_id": "676e3d5962ba310fc012c4c3",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1966148,
-        "known_for_department": "Directing",
-        "name": "Venky Atluri",
-        "original_name": "Venky Atluri",
-        "popularity": 1.8964,
-        "profile_path": "/iT5fIq1duh31r3wzcVfFf3Qom0B.jpg",
-        "credit_id": "676e3d668258294bb861612b",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+    "cast": [],
+    "crew": []
   },
   "videos": {
     "results": []
   },
   "release_dates": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -93,15 +61,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   }
 }

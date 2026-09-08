@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Muddula Menalludu",
   "overview": "The film shows a strong rivalry between two families passing from generations. At present, Madhava Rao (Nassar) and Raja (Nandumuri Balakrishna) are their heirs who live in the same premises constructing walls in between.",
-  "popularity": 0.2871,
+  "popularity": 1.3926,
   "poster_path": "/zpTywfdHWDB61wNbpvgzJjKgKvJ.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 1,
         "character": "Raja",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 2,
         "character": "Shanti",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4019,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 3,
         "character": "Madhava rao",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,24 +122,11 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "5ea54252ec45520027402893",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1429443,
-        "known_for_department": "Directing",
-        "name": "V. Azhagappan",
-        "original_name": "V. Azhagappan",
-        "popularity": 0.0748,
-        "profile_path": null,
-        "credit_id": "5ea542643faba0001e46ebe2",
-        "department": "Writing",
-        "job": "Story"
       },
       {
         "adult": false,
@@ -148,7 +135,7 @@
         "known_for_department": "Writing",
         "name": "Ganesh Patro",
         "original_name": "Ganesh Patro",
-        "popularity": 0.1068,
+        "popularity": 0.6081,
         "profile_path": null,
         "credit_id": "5ea542763faba0002546f5e6",
         "department": "Writing",
@@ -157,11 +144,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1429443,
+        "known_for_department": "Directing",
+        "name": "V. Azhagappan",
+        "original_name": "V. Azhagappan",
+        "popularity": 0.6653,
+        "profile_path": null,
+        "credit_id": "5ea542643faba0001e46ebe2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1337585,
         "known_for_department": "Camera",
         "name": "S. Gopala Reddy",
         "original_name": "S. Gopala Reddy",
-        "popularity": 0.1428,
+        "popularity": 0.3357,
         "profile_path": null,
         "credit_id": "5ea542e066f2d2001e3f1aa8",
         "department": "Production",
@@ -174,7 +174,7 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "5ee2a1f0f36a32001f92b74e",
         "department": "Sound",
@@ -194,9 +194,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -230,5 +227,8 @@
         "width": 1920
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

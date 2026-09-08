@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Baghdad Gaja Donga",
   "overview": "Vazeer, an evil commander, murders the sultan of Baghdad and imprisons his wife. Ibrahim, a blind agent, manages to rescue the prince who grows up as a robber and seeks revenge on Vazeer.",
-  "popularity": 0.0662,
+  "popularity": 0.6875,
   "poster_path": "/dPuW3dgNY8XXoEBQJ7uM5fkrNSm.jpg",
   "production_companies": [],
   "production_countries": [
@@ -33,6 +33,53 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003933,
+        "known_for_department": "Acting",
+        "name": "N.T. Rama Rao",
+        "original_name": "N.T. Rama Rao",
+        "popularity": 1.799,
+        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "67e1dc3ceba79f6ff7f054a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1123523,
+        "known_for_department": "Acting",
+        "name": "J. Jayalalithaa",
+        "original_name": "ஜெ. ஜெயலலிதா",
+        "popularity": 1.0387,
+        "profile_path": "/znPZmcmM1CXaMLEJc0nHrtUb9kE.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "67e1dc48ec98bf0a0d75cd4d",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585311,
+        "known_for_department": "Directing",
+        "name": "D. Yoganand",
+        "original_name": "Yoganand D",
+        "popularity": 0.8521,
+        "profile_path": null,
+        "credit_id": "67e273847b7313b5aef0552c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
   "videos": {
     "results": []
   },
@@ -45,9 +92,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -66,52 +110,8 @@
       }
     ]
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1003933,
-        "known_for_department": "Acting",
-        "name": "N.T. Rama Rao",
-        "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
-        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "67e1dc3ceba79f6ff7f054a9",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1123523,
-        "known_for_department": "Acting",
-        "name": "Jayalalithaa J",
-        "original_name": "Jayalalithaa J",
-        "popularity": 0.1433,
-        "profile_path": "/znPZmcmM1CXaMLEJc0nHrtUb9kE.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "67e1dc48ec98bf0a0d75cd4d",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585311,
-        "known_for_department": "Directing",
-        "name": "Yoganand D",
-        "original_name": "Yoganand D",
-        "popularity": 0.1138,
-        "profile_path": null,
-        "credit_id": "67e273847b7313b5aef0552c",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],

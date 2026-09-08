@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "LAW",
   "overview": "LAW is an Indian Telugu-language action film directed by GAGAN GOPAL MULKA and produced by RAMESH BABU MUNNA. The film features Kamal Kamaraju, Mauryani and Pooja Ramachandran in lead roles.",
-  "popularity": 0.1399,
+  "popularity": 0.411,
   "poster_path": "/9WnWgFtTy0UwKEqaBTAOvlaGaQv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,10 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "external_ids": {
     "imdb_id": "tt9220746",
     "wikidata_id": "Q60737636",
@@ -39,14 +35,35 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
   },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
   },
   "images": {
     "backdrops": [
@@ -72,23 +89,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2018-11-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

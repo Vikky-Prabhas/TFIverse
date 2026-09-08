@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Garuda Chapter 1",
   "overview": "Garuda Chapter 1 is directed by Kranthi Bala; starring Satyadev in the lead.",
-  "popularity": 0.1362,
+  "popularity": 0.6109,
   "poster_path": null,
   "production_companies": [
     {
@@ -63,8 +63,8 @@
         "id": 1546410,
         "known_for_department": "Acting",
         "name": "Satyadev Kancharana",
-        "original_name": "Satyadev Kancharana",
-        "popularity": 0.3699,
+        "original_name": "సత్యదేవ్ కంచరన",
+        "popularity": 1.1478,
         "profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
         "cast_id": 1,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Production",
         "name": "Mohit Rawlyani",
         "original_name": "Mohit Rawlyani",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "65a7583711386c012a690e3c",
         "department": "Production",
@@ -89,50 +89,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4485191,
-        "known_for_department": "Production",
-        "name": "Devansh Nama",
-        "original_name": "Devansh Nama",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "65a7582c51c01f01316094ab",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4485190,
         "known_for_department": "Directing",
         "name": "Kranthi Bala",
         "original_name": "Kranthi Bala",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "65a7580451c01f01226092a2",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1340549,
-        "known_for_department": "Sound",
-        "name": "Harshavardhan Rameshwar",
-        "original_name": "Harshavardhan Rameshwar",
-        "popularity": 0.1804,
-        "profile_path": null,
-        "credit_id": "65a7584611386c012d691028",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4485190,
-        "known_for_department": "Directing",
-        "name": "Kranthi Bala",
-        "original_name": "Kranthi Bala",
-        "popularity": 0.0143,
+        "popularity": 0.267,
         "profile_path": null,
         "credit_id": "65a757ef38765101271a328c",
         "department": "Directing",
@@ -141,13 +102,52 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4485190,
+        "known_for_department": "Directing",
+        "name": "Kranthi Bala",
+        "original_name": "Kranthi Bala",
+        "popularity": 0.267,
+        "profile_path": null,
+        "credit_id": "65a7580451c01f01226092a2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2190917,
         "known_for_department": "Production",
         "name": "Abhishek Nama",
         "original_name": "Abhishek Nama",
-        "popularity": 0.1603,
+        "popularity": 0.9529,
         "profile_path": null,
         "credit_id": "65a758205294e70124d2b1c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340549,
+        "known_for_department": "Sound",
+        "name": "Harshavardhan Rameshwar",
+        "original_name": "Harshavardhan Rameshwar",
+        "popularity": 0.3565,
+        "profile_path": null,
+        "credit_id": "65a7584611386c012d691028",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485191,
+        "known_for_department": "Production",
+        "name": "Devansh Nama",
+        "original_name": "Devansh Nama",
+        "popularity": 0.3231,
+        "profile_path": null,
+        "credit_id": "65a7582c51c01f01316094ab",
         "department": "Production",
         "job": "Producer"
       }
@@ -160,21 +160,21 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
   },
   "release_dates": {
     "results": []
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

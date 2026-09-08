@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "బకాసుర రెస్టారెంట్",
   "overview": "A group of five youngsters decides to make a wish, but it backfires as it leads them to unveil a supernatural force around them.",
-  "popularity": 0.1904,
+  "popularity": 0.8577,
   "poster_path": "/pyznPP82WBdWOYvKHbQq9bDv4Ng.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,110 +43,9 @@
   "video": false,
   "vote_average": 6.333,
   "vote_count": 3,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638475,
-        "known_for_department": "Acting",
-        "name": "Praveen",
-        "original_name": "Praveen",
-        "popularity": 0.2637,
-        "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "689c12684edcd1564f268b9b",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638514,
-        "known_for_department": "Acting",
-        "name": "Harsha Chemudu",
-        "original_name": "Viva Harsha",
-        "popularity": 0.4872,
-        "profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "689c1277f44e894201c700de",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2262423,
-        "known_for_department": "Acting",
-        "name": "Ramachandra Raju",
-        "original_name": "Ramachandra Raju",
-        "popularity": 0.5164,
-        "profile_path": "/kU1a4H8o1IQA25Lyq3cW70aufhT.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "689c128b9e81e6e63b268a3b",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5697888,
-        "known_for_department": "Acting",
-        "name": "Ramya priya",
-        "original_name": "Ramya priya",
-        "popularity": 0.047,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "68cccd4e2565e371931493da",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2008676,
-        "known_for_department": "Camera",
-        "name": "Bala Saraswathi",
-        "original_name": "Bala Saraswathi",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "68cccd926dacf3c6060a879b",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5697889,
-        "known_for_department": "Writing",
-        "name": "SJ shiva",
-        "original_name": "SJ shiva",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "68cccdae8f23aa82b20a87fe",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5697889,
-        "known_for_department": "Writing",
-        "name": "SJ shiva",
-        "original_name": "SJ shiva",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "68cccdba22cd1ef7b8149498",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
   "external_ids": {
     "imdb_id": "tt36793656",
-    "wikidata_id": null,
+    "wikidata_id": "Q135852737",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -166,6 +65,113 @@
         "published_at": "2025-08-03T13:26:33.000Z"
       }
     ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638475,
+        "known_for_department": "Acting",
+        "name": "Praveen",
+        "original_name": "Praveen",
+        "popularity": 1.3924,
+        "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "689c12684edcd1564f268b9b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638514,
+        "known_for_department": "Acting",
+        "name": "Harsha Chemudu",
+        "original_name": "Viva Harsha",
+        "popularity": 1.0162,
+        "profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "689c1277f44e894201c700de",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2262423,
+        "known_for_department": "Acting",
+        "name": "Ramachandra Raju",
+        "original_name": "Ramachandra Raju",
+        "popularity": 0.9289,
+        "profile_path": "/kU1a4H8o1IQA25Lyq3cW70aufhT.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "689c128b9e81e6e63b268a3b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5697888,
+        "known_for_department": "Acting",
+        "name": "Ramya priya",
+        "original_name": "Ramya priya",
+        "popularity": 0.3354,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68cccd4e2565e371931493da",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2008676,
+        "known_for_department": "Camera",
+        "name": "Bala Saraswathi",
+        "original_name": "Bala Saraswathi",
+        "popularity": 0.2744,
+        "profile_path": null,
+        "credit_id": "68cccd926dacf3c6060a879b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5697889,
+        "known_for_department": "Writing",
+        "name": "SJ shiva",
+        "original_name": "SJ shiva",
+        "popularity": 0.2841,
+        "profile_path": null,
+        "credit_id": "68cccdae8f23aa82b20a87fe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5697889,
+        "known_for_department": "Writing",
+        "name": "SJ shiva",
+        "original_name": "SJ shiva",
+        "popularity": 0.2841,
+        "profile_path": null,
+        "credit_id": "68cccdba22cd1ef7b8149498",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -191,9 +197,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -241,8 +244,5 @@
         "width": 1365
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": "/tXierBtxb2u3XwwTeU1NnEjnkb9.jpg",
+  "backdrop_path": "/z6K4kbXT4D5o0t52ZX2m6RkFqfz.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -26,8 +26,8 @@
   "original_language": "te",
   "original_title": "సూయోధన",
   "overview": "A young Foley artist has grown up hearing a mysterious voice called Suyodhana and often visualises a figure resembling Duryodhana. Raised by his mother and supported by his childhood friend and partner, his life takes a turn when he is accused of his father’s murder, leading to an investigation that uncovers deeper layers of his past.",
-  "popularity": 1.3726,
-  "poster_path": "/s56x3fGTN6J1jbBMBDnLY7t4iyU.jpg",
+  "popularity": 1.7868,
+  "poster_path": "/xKFffg930NgDsPg1LAKNRsFSk9I.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2026-03-27",
@@ -45,8 +45,8 @@
   "tagline": "",
   "title": "Suyodhana",
   "video": false,
-  "vote_average": 7,
-  "vote_count": 1,
+  "vote_average": 6,
+  "vote_count": 3,
   "credits": {
     "cast": [
       {
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.5618,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 1,
         "character": "",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Drishika Chander",
         "original_name": "Drishika Chander",
-        "popularity": 0.0143,
+        "popularity": 0.3663,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kumar",
         "original_name": "Sai Kumar",
-        "popularity": 0.4687,
+        "popularity": 1.2911,
         "profile_path": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
         "cast_id": 3,
         "character": "",
@@ -98,7 +98,7 @@
         "known_for_department": "Directing",
         "name": "Devi Prasad",
         "original_name": "Devi Prasad",
-        "popularity": 0.7577,
+        "popularity": 1.3359,
         "profile_path": "/l63FZ8rFIc5jLz8dAzoKcLfKBQb.jpg",
         "cast_id": 4,
         "character": "",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Rajshri Nair",
         "original_name": "Rajshri Nair",
-        "popularity": 0.2873,
+        "popularity": 1.6704,
         "profile_path": "/pYqirSBEogl3hMvnAkXFKmOhPoT.jpg",
         "cast_id": 5,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Oi",
         "original_name": "Vishnu Oi",
-        "popularity": 0.2977,
+        "popularity": 0.5908,
         "profile_path": "/A46W2WAH9T0HK8YkbQZiZAyOaES.jpg",
         "cast_id": 6,
         "character": "",
@@ -142,7 +142,7 @@
         "known_for_department": "Directing",
         "name": "YS Madav Reddy",
         "original_name": "YS Madav Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.307,
         "profile_path": null,
         "credit_id": "69c4a48b9ec93c309609c316",
         "department": "Directing",
@@ -155,13 +155,20 @@
         "known_for_department": "Sound",
         "name": "Jay Krish",
         "original_name": "Jay Krish",
-        "popularity": 0.0914,
+        "popularity": 0.3676,
         "profile_path": null,
         "credit_id": "69c4a4ad3828dcd7034f1bc6",
         "department": "Sound",
         "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt40744793",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -178,13 +185,6 @@
         "published_at": "2026-03-22T11:30:27.000Z"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt40744793",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -214,6 +214,9 @@
   "keywords": {
     "keywords": []
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
@@ -222,6 +225,16 @@
         "iso_3166_1": "US",
         "iso_639_1": "en",
         "file_path": "/5NNt1Vc6xix1fhsUoj78UKM4CBo.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/z6K4kbXT4D5o0t52ZX2m6RkFqfz.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1920
@@ -239,8 +252,8 @@
       {
         "aspect_ratio": 1.778,
         "height": 1080,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/tXierBtxb2u3XwwTeU1NnEjnkb9.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -255,16 +268,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2560
-      },
-      {
-        "aspect_ratio": 1.778,
-        "height": 1080,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/z6K4kbXT4D5o0t52ZX2m6RkFqfz.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1920
       }
     ],
     "logos": [
@@ -290,6 +293,16 @@
       }
     ],
     "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1476,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xKFffg930NgDsPg1LAKNRsFSk9I.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 984
+      },
       {
         "aspect_ratio": 0.75,
         "height": 1600,
@@ -319,20 +332,7 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 900
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1476,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/xKFffg930NgDsPg1LAKNRsFSk9I.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 984
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

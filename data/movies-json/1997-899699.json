@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "1997",
   "overview": "Based on True Events happened in Andhra Pradesh.",
-  "popularity": 0.2727,
+  "popularity": 0.5773,
   "poster_path": "/80aX07VWiDbyrX8VIAuTKWUOtSv.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Mohan",
         "original_name": "Dr. Mohan",
-        "popularity": 0.0352,
+        "popularity": 0.2832,
         "profile_path": "/tkWufTZQ5AH3p7RfxGORxJh7ebI.jpg",
         "cast_id": 1,
         "character": "Vikram Rathod",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.456,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 2,
         "character": "Chari",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Chandra",
         "original_name": "Naveen Chandra",
-        "popularity": 0.8324,
+        "popularity": 1.6073,
         "profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
         "cast_id": 3,
         "character": "Jagapathi",
@@ -99,7 +99,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -111,9 +111,9 @@
         "gender": 2,
         "id": 584746,
         "known_for_department": "Acting",
-        "name": "Pithamagan Mahadevan",
+        "name": "Ramaraju",
         "original_name": "Pithamagan Mahadevan",
-        "popularity": 0.2575,
+        "popularity": 1.3883,
         "profile_path": "/6972iELEYgfRhYDe2fkDsEpF1At.jpg",
         "cast_id": 5,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 6,
         "character": "",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4177,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 7,
         "character": "",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Sandhyarani Ravupalli",
         "original_name": "Sandhyarani Ravupalli",
-        "popularity": 0.0071,
+        "popularity": 0.4033,
         "profile_path": "/lwDoO8e0lfuUaoFvuqZ05ORY1DE.jpg",
         "cast_id": 14,
         "character": "",
@@ -169,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Shriyanka",
         "original_name": "Shriyanka",
-        "popularity": 0.0646,
+        "popularity": 0.4276,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -183,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "I Dream Anjali",
         "original_name": "I Dream Anjali",
-        "popularity": 0.5177,
+        "popularity": 0.84,
         "profile_path": "/hJRA2lNyInl7pc0PAEEQVt7NjD2.jpg",
         "cast_id": 18,
         "character": "",
@@ -194,12 +194,51 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 2336804,
+        "known_for_department": "Camera",
+        "name": "Chitty Babu",
+        "original_name": "Chitty Babu",
+        "popularity": 0.285,
+        "profile_path": null,
+        "credit_id": "6195fd72149565008ff6a722",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2425505,
+        "known_for_department": "Crew",
+        "name": "Suresh Kondeti",
+        "original_name": "Suresh Kondeti",
+        "popularity": 0.3166,
+        "profile_path": null,
+        "credit_id": "6196073a528b2e002b494415",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3144709,
+        "known_for_department": "Acting",
+        "name": "Dr. Mohan",
+        "original_name": "Dr. Mohan",
+        "popularity": 0.2832,
+        "profile_path": "/tkWufTZQ5AH3p7RfxGORxJh7ebI.jpg",
+        "credit_id": "6195fd38cb75d10090114c30",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1211510,
         "known_for_department": "Editing",
         "name": "Nandamuri Hari",
         "original_name": "Nandamuri Hari",
-        "popularity": 0.0845,
+        "popularity": 0.2993,
         "profile_path": null,
         "credit_id": "6195fd8425b9550062c23118",
         "department": "Editing",
@@ -212,7 +251,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Mohan",
         "original_name": "Dr. Mohan",
-        "popularity": 0.0352,
+        "popularity": 0.2832,
         "profile_path": "/tkWufTZQ5AH3p7RfxGORxJh7ebI.jpg",
         "credit_id": "6195fd31cb75d10090114c2b",
         "department": "Directing",
@@ -221,24 +260,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3144709,
-        "known_for_department": "Acting",
-        "name": "Dr. Mohan",
-        "original_name": "Dr. Mohan",
-        "popularity": 0.0352,
-        "profile_path": "/tkWufTZQ5AH3p7RfxGORxJh7ebI.jpg",
-        "credit_id": "6195fd38cb75d10090114c30",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 552984,
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "6195fd45fc5f06006ac3b1d2",
         "department": "Sound",
@@ -246,16 +272,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 2336804,
-        "known_for_department": "Camera",
-        "name": "Chitty Babu",
-        "original_name": "Chitty Babu",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6195fd72149565008ff6a722",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "gender": 1,
+        "id": 2512764,
+        "known_for_department": "Sound",
+        "name": "Mangli Satyavathi",
+        "original_name": "Mangli Satyavathi",
+        "popularity": 0.4261,
+        "profile_path": "/pNnwokSzMriSNYfA39Pos01Gv4.jpg",
+        "credit_id": "619605711feac10042b4216c",
+        "department": "Sound",
+        "job": "Playback Singer"
       },
       {
         "adult": false,
@@ -264,7 +290,7 @@
         "known_for_department": "Art",
         "name": "Krishna Chitoor",
         "original_name": "Krishna Chitoor",
-        "popularity": 0,
+        "popularity": 0.3073,
         "profile_path": null,
         "credit_id": "61960c6671458f002a9e6e52",
         "department": "Art",
@@ -277,37 +303,11 @@
         "known_for_department": "Production",
         "name": "Meenakshi Ramavath",
         "original_name": "Meenakshi Ramavath",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": null,
         "credit_id": "6195fd21eb14fa0066f8d8b0",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2425505,
-        "known_for_department": "Crew",
-        "name": "Suresh Kondeti",
-        "original_name": "Suresh Kondeti",
-        "popularity": 0.0777,
-        "profile_path": null,
-        "credit_id": "6196073a528b2e002b494415",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2512764,
-        "known_for_department": "Sound",
-        "name": "Mangli Satyavathi",
-        "original_name": "Mangli Satyavathi",
-        "popularity": 0.0768,
-        "profile_path": "/pNnwokSzMriSNYfA39Pos01Gv4.jpg",
-        "credit_id": "619605711feac10042b4216c",
-        "department": "Sound",
-        "job": "Playback Singer"
       }
     ]
   },
@@ -318,8 +318,28 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2021-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -420,25 +440,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2021-11-26T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

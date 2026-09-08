@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ramudu Bheemudu",
   "overview": "Ramudu Bheemudu is a 1988 Telugu drama film produced by C.H.V.V. Satyanarayana and directed by K. Murali Mohana Rao. Starring Nandamuri Balakrishna, Radha, Suhasini in the lead roles and music composed by Chakravarthy",
-  "popularity": 0.4489,
+  "popularity": 0.7022,
   "poster_path": "/iMErgnxnA0LaJK72GFWbGx8n9pf.jpg",
   "production_companies": [
     {
@@ -41,6 +41,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt12701012",
+    "wikidata_id": "Q13008098",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -50,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.5728,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 1,
         "character": "Ramudu and Bheemudu",
@@ -64,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.7094,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 2,
         "character": "Swathi",
@@ -78,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Radha",
         "original_name": "Radha",
-        "popularity": 0.856,
+        "popularity": 1.4479,
         "profile_path": "/7oVE51UtIsbkkriBF7fOiJ52zDJ.jpg",
         "cast_id": 13,
         "character": "Manga",
@@ -92,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 4,
         "character": "Suyodhana Rao",
@@ -106,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 5,
         "character": "Tata Rao",
@@ -120,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 6,
         "character": "Rajashekaram",
@@ -136,7 +143,7 @@
         "known_for_department": "Production",
         "name": "C.H.V.V. Satyanarayana",
         "original_name": "C.H.V.V. Satyanarayana",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5f13d30465c26c0038be6553",
         "department": "Production",
@@ -145,24 +152,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1337554,
-        "known_for_department": "Camera",
-        "name": "Nandamuri Mohana Krishna",
-        "original_name": "Nandamuri Mohana Krishna",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "5f13d2f178570e003257e5f2",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 933605,
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "5f13d2c94083b30034043224",
         "department": "Sound",
@@ -171,11 +165,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1337554,
+        "known_for_department": "Camera",
+        "name": "Nandamuri Mohana Krishna",
+        "original_name": "Nandamuri Mohana Krishna",
+        "popularity": 0.2984,
+        "profile_path": null,
+        "credit_id": "5f13d2f178570e003257e5f2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 87706,
         "known_for_department": "Directing",
         "name": "K. Murali Mohana Rao",
         "original_name": "K. Murali Mohana Rao",
-        "popularity": 0.4718,
+        "popularity": 0.6716,
         "profile_path": "/ffqlo3bMu8ddDh0vJtZXCbUHPdg.jpg",
         "credit_id": "603ca39de267de583f5021ef",
         "department": "Directing",
@@ -185,13 +192,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt12701012",
-    "wikidata_id": "Q13008098",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": []
@@ -213,9 +213,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -231,5 +228,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

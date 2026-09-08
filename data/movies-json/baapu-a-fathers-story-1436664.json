@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Baapu - A Father's Story",
   "overview": "Mallanna's father decides to trade his life to secure relief funds for the family, but forgets. Funding for his final days, how will they make the ends meet?",
-  "popularity": 0.0357,
+  "popularity": 0.523,
   "poster_path": "/zwjAtrlT1swTJEdT4dhGdHidTjE.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,22 +34,19 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt35229809",
+    "wikidata_id": "Q132716703",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [],
     "crew": []
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt35229809",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -138,5 +135,8 @@
         "width": 1446
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

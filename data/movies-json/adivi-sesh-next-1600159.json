@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "#Adivi sesh next",
   "overview": "",
-  "popularity": 0.0239,
+  "popularity": 0.411,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,12 +34,12 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": []
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -54,12 +54,12 @@
   "release_dates": {
     "results": []
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

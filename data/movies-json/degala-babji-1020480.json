@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "డేగల బాబ్జి",
   "overview": "Babji is a murder suspect who also is an emotionally unstable man. He describes the modes operandi behind the crime he committed that eventually helps the cops disclose unfolded facts.",
-  "popularity": 0.1399,
+  "popularity": 1.9644,
   "poster_path": "/5BCyQgz2n1LKdp6f4015CUjooC6.jpg",
   "production_companies": [
     {
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Bandla Ganesh",
         "original_name": "Bandla Ganesh",
-        "popularity": 0.4823,
+        "popularity": 0.8209,
         "profile_path": "/874gkTlQBZRawZbvF28bslX09KJ.jpg",
         "cast_id": 1,
         "character": "",
@@ -75,12 +78,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 3688000,
+        "known_for_department": "Directing",
+        "name": "Venkat Chandra",
+        "original_name": "Venkat Chandra",
+        "popularity": 0.6101,
+        "profile_path": null,
+        "credit_id": "6314a41f7fcab30091dcf766",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 584718,
         "known_for_department": "Acting",
         "name": "R. Parthiban",
         "original_name": "R. Parthiban",
-        "popularity": 0.9648,
+        "popularity": 1.4726,
         "profile_path": "/kmghnL3LAQJaBXsA7yoh8cE2gRd.jpg",
         "credit_id": "6314a44d0284200080770f46",
         "department": "Writing",
@@ -88,16 +104,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 3688000,
-        "known_for_department": "Directing",
-        "name": "Venkat Chandra",
-        "original_name": "Venkat Chandra",
-        "popularity": 0.0071,
+        "gender": 2,
+        "id": 3767386,
+        "known_for_department": "Camera",
+        "name": "D. Arun Prasad",
+        "original_name": "D. Arun Prasad",
+        "popularity": 0.2541,
         "profile_path": null,
-        "credit_id": "6314a41f7fcab30091dcf766",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "63621f4fa6a4c10082da4998",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -106,7 +122,7 @@
         "known_for_department": "Production",
         "name": "Swathi Chandra",
         "original_name": "Swathi Chandra",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "63621fa6a6a4c1007a88368c",
         "department": "Production",
@@ -115,15 +131,41 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2009577,
-        "known_for_department": "Directing",
-        "name": "Gopi Krisna",
-        "original_name": "Gopi Krisna",
-        "popularity": 0,
+        "id": 3516886,
+        "known_for_department": "Sound",
+        "name": "Linus Madiri",
+        "original_name": "Linus Madiri",
+        "popularity": 0.2566,
         "profile_path": null,
-        "credit_id": "63622522858678007d83354b",
-        "department": "Directing",
-        "job": "Co-Director"
+        "credit_id": "6362232b4202280081654b7a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1663538,
+        "known_for_department": "Editing",
+        "name": "S.B. Uddhav",
+        "original_name": "S.B. Uddhav",
+        "popularity": 0.2985,
+        "profile_path": null,
+        "credit_id": "63622372a6a4c10082da4cb6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546771,
+        "known_for_department": "Writing",
+        "name": "Marudhuri Raja",
+        "original_name": "Marudhuri Raja",
+        "popularity": 0.514,
+        "profile_path": null,
+        "credit_id": "6362238e7f6c8d0082586014",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -132,7 +174,7 @@
         "known_for_department": "Writing",
         "name": "Vaidehi",
         "original_name": "Vaidehi",
-        "popularity": 0,
+        "popularity": 0.2976,
         "profile_path": null,
         "credit_id": "63622458e18e3f0090948fa4",
         "department": "Writing",
@@ -145,7 +187,7 @@
         "known_for_department": "Crew",
         "name": "Phani Kandukuri",
         "original_name": "Phani Kandukuri",
-        "popularity": 0.0555,
+        "popularity": 0.2788,
         "profile_path": null,
         "credit_id": "6362246807e281007a9cfe0a",
         "department": "Crew",
@@ -154,37 +196,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1663538,
-        "known_for_department": "Editing",
-        "name": "S.B. Uddhav",
-        "original_name": "S.B. Uddhav",
-        "popularity": 0.0839,
-        "profile_path": null,
-        "credit_id": "63622372a6a4c10082da4cb6",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2558945,
-        "known_for_department": "Art",
-        "name": "Gandhi Nadikudikar",
-        "original_name": "Gandhi Nadikudikar",
-        "popularity": 0.0662,
-        "profile_path": null,
-        "credit_id": "6362249907e281008296dc1d",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2558946,
         "known_for_department": "Crew",
         "name": "Naidu Surendra Kumar",
         "original_name": "Naidu Surendra Kumar",
-        "popularity": 0.0827,
+        "popularity": 0.285,
         "profile_path": null,
         "credit_id": "6362247740d0fe00826890d4",
         "department": "Crew",
@@ -193,11 +209,50 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3318455,
+        "known_for_department": "Production",
+        "name": "Shakthi Graphiste",
+        "original_name": "Shakthi Graphiste",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "credit_id": "6362248aa6a4c10082da4d79",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2558945,
+        "known_for_department": "Art",
+        "name": "Gandhi Nadikudikar",
+        "original_name": "Gandhi Nadikudikar",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "6362249907e281008296dc1d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2009577,
+        "known_for_department": "Directing",
+        "name": "Gopi Krisna",
+        "original_name": "Gopi Krisna",
+        "popularity": 0.2662,
+        "profile_path": null,
+        "credit_id": "63622522858678007d83354b",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3767403,
         "known_for_department": "Camera",
         "name": "Nuka Ramesh",
         "original_name": "Nuka Ramesh",
-        "popularity": 0,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "636226450f52650079a112b4",
         "department": "Camera",
@@ -206,72 +261,17 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3516886,
-        "known_for_department": "Sound",
-        "name": "Linus Madiri",
-        "original_name": "Linus Madiri",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6362232b4202280081654b7a",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2280596,
         "known_for_department": "Sound",
         "name": "Vijay Dayal",
         "original_name": "Vijay Dayal",
-        "popularity": 0.0143,
+        "popularity": 0.2794,
         "profile_path": null,
         "credit_id": "63622662e18e3f0079f9a698",
         "department": "Sound",
         "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3767386,
-        "known_for_department": "Camera",
-        "name": "D. Arun Prasad",
-        "original_name": "D. Arun Prasad",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "63621f4fa6a4c10082da4998",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1546771,
-        "known_for_department": "Writing",
-        "name": "Marudhuri Raja",
-        "original_name": "Marudhuri Raja",
-        "popularity": 0.0978,
-        "profile_path": null,
-        "credit_id": "6362238e7f6c8d0082586014",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3318455,
-        "known_for_department": "Production",
-        "name": "Shakthi Graphiste",
-        "original_name": "Shakthi Graphiste",
-        "popularity": 0.0538,
-        "profile_path": null,
-        "credit_id": "6362248aa6a4c10082da4d79",
-        "department": "Production",
-        "job": "Publicist"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -293,16 +293,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt15387160",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -318,5 +308,15 @@
         "width": 2000
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt15387160",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

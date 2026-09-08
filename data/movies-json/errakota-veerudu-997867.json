@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ఎర్రకోట వీరుడు",
   "overview": "Errakota Veerudu is a Telugu film released in 1973. Produced by T Gopalakrishna under the banner of TGK Films, MSP Sarathy directed the film. Nandamuri Taraka Rama Rao and Savitri are playing the lead roles in the film, which has music by Ghantasala Vijayakumar.",
-  "popularity": 0.2724,
+  "popularity": 0.9113,
   "poster_path": "/jAn9Dsr8yng4SZObIfU6XFHe96J.jpg",
   "production_companies": [
     {
@@ -59,6 +59,13 @@
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 6,
         "character": "",
@@ -82,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3868,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 7,
         "character": "",
@@ -96,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "B. Saroja Devi",
         "original_name": "B. Saroja Devi",
-        "popularity": 0.289,
+        "popularity": 2.132,
         "profile_path": "/qeMj8p2AsTuqLLx97bDUGOaLCaS.jpg",
         "cast_id": 8,
         "character": "",
@@ -110,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Kaleswara Rao",
         "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1986,
+        "popularity": 0.5475,
         "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
         "cast_id": 9,
         "character": "",
@@ -123,8 +130,8 @@
         "id": 545006,
         "known_for_department": "Acting",
         "name": "M. N. Nambiar",
-        "original_name": "M. N. Nambiar",
-        "popularity": 0.6135,
+        "original_name": "எம். என். நம்பியார்",
+        "popularity": 3.7723,
         "profile_path": "/neeF4jM09EaRB70PZJHDLogPEoN.jpg",
         "cast_id": 10,
         "character": "",
@@ -137,8 +144,8 @@
         "id": 584370,
         "known_for_department": "Acting",
         "name": "Thengai Srinivasan",
-        "original_name": "Thengai Srinivasan",
-        "popularity": 0.3216,
+        "original_name": "தேங்காய் சீனிவாசன்",
+        "popularity": 1.8708,
         "profile_path": "/ri71dy01Qo8ptHbQXByxzpMmo3Q.jpg",
         "cast_id": 11,
         "character": "",
@@ -154,7 +161,7 @@
         "known_for_department": "Writing",
         "name": "Rajashree",
         "original_name": "Rajashree",
-        "popularity": 0.0311,
+        "popularity": 0.4389,
         "profile_path": null,
         "credit_id": "62c9893e498bc206934aca81",
         "department": "Writing",
@@ -167,7 +174,7 @@
         "known_for_department": "Production",
         "name": "T. Gopala Krishna",
         "original_name": "T. Gopala Krishna",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "62c988cf3d4d96004c9f81f0",
         "department": "Production",
@@ -180,7 +187,7 @@
         "known_for_department": "Sound",
         "name": "Ghantasala Vijaykumar",
         "original_name": "Ghantasala Vijaykumar",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "62c988f8e0ca7f0054cf0794",
         "department": "Sound",
@@ -193,7 +200,7 @@
         "known_for_department": "Sound",
         "name": "T. Chalapathi Rao",
         "original_name": "T. Chalapathi Rao",
-        "popularity": 0.0538,
+        "popularity": 0.2794,
         "profile_path": null,
         "credit_id": "62c988eb595a56094ee2ec38",
         "department": "Sound",
@@ -206,36 +213,13 @@
         "known_for_department": "Editing",
         "name": "M. S. Parthasarathy",
         "original_name": "M.S.P. Sarathy",
-        "popularity": 0.083,
+        "popularity": 0.2752,
         "profile_path": null,
         "credit_id": "62c9892439a1a60516426cfe",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Errakota Veerudu Telugu Full Length Movie || ఎర్రకోట వీరుడు సినిమా || NTR , Savitri",
-        "key": "gzPj9mJiscU",
-        "site": "YouTube",
-        "size": 720,
-        "type": "Trailer",
-        "official": false,
-        "id": "62c9859eeea34d004d739ce8",
-        "published_at": "2013-10-26T00:30:00.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -256,9 +240,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -286,5 +267,24 @@
         "width": 1000
       }
     ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Errakota Veerudu Telugu Full Length Movie || ఎర్రకోట వీరుడు సినిమా || NTR , Savitri",
+        "key": "gzPj9mJiscU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "62c9859eeea34d004d739ce8",
+        "published_at": "2013-10-26T00:30:00.000Z"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

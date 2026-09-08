@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "చంద్రముఖి మళ్లీ వచ్చింది",
   "overview": "Chandramukhi returns for revenge!",
-  "popularity": 0.0214,
+  "popularity": 0.4687,
   "poster_path": "/r56DfL9M78j3nHUwBiojZvBoT0n.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,14 +44,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "videos": {
+    "results": []
+  },
+  "release_dates": {
     "results": []
   },
   "alternative_titles": {
@@ -63,11 +62,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "credits": {
     "cast": [],
@@ -79,11 +79,11 @@
         "known_for_department": "Directing",
         "name": "Shyam Ramsay",
         "original_name": "Shyam Ramsay",
-        "popularity": 0.2152,
+        "popularity": 0.6578,
         "profile_path": "/urz4vNw3R6RAix5q4bDHPviQgAP.jpg",
-        "credit_id": "620d675c5cea180043df56a4",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "620d674ff794ad0042bdce8a",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -92,11 +92,11 @@
         "known_for_department": "Directing",
         "name": "Shyam Ramsay",
         "original_name": "Shyam Ramsay",
-        "popularity": 0.2152,
+        "popularity": 0.6578,
         "profile_path": "/urz4vNw3R6RAix5q4bDHPviQgAP.jpg",
-        "credit_id": "620d674ff794ad0042bdce8a",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "620d675c5cea180043df56a4",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },

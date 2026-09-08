@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ప్రేమ అంత ఈజీ కాదు",
   "overview": "A romantic drama film directed by Esshwar, starring Rhajesh Kumar, Priya Augustin and Prajwal Pooviaha in the lead roles.",
-  "popularity": 0.21,
+  "popularity": 0.5044,
   "poster_path": "/jFAoKvWKmVRuSKizZm08Hqwn1Tb.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Priya Augustin",
         "original_name": "Priya Augustin",
-        "popularity": 0,
+        "popularity": 0.2914,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Rhajesh Kumar",
         "original_name": "Rhajesh Kumar",
-        "popularity": 0,
+        "popularity": 0.2735,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Prajju Poovaiah",
         "original_name": "Prajju Poovaiah",
-        "popularity": 0.0071,
+        "popularity": 0.2769,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Kedar Shankara",
         "original_name": "Kedar Shankara",
-        "popularity": 0.1459,
+        "popularity": 0.3946,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.2457,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 10,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Avinash",
         "original_name": "Avinash",
-        "popularity": 0.5867,
+        "popularity": 1.4232,
         "profile_path": "/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg",
         "cast_id": 12,
         "character": "",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Mukhtar Khan",
         "original_name": "Mukhtar Khan",
-        "popularity": 0.2859,
+        "popularity": 0.9043,
         "profile_path": "/etbXzuRuQmmNryLcKFENnHo8itz.jpg",
         "cast_id": 13,
         "character": "",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Ramprasad",
         "original_name": "Jabardasth Ramprasad",
-        "popularity": 0.3747,
+        "popularity": 1.9622,
         "profile_path": "/ud7ejWOdrED63N8tMCFQUmirftZ.jpg",
         "cast_id": 14,
         "character": "",
@@ -171,13 +171,40 @@
         "known_for_department": "Directing",
         "name": "Esshwar",
         "original_name": "Esshwar",
-        "popularity": 0.0503,
+        "popularity": 0.2694,
         "profile_path": null,
         "credit_id": "5df3030c4a4bf600145191ef",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2019-03-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "videos": {
     "results": [
@@ -198,13 +225,6 @@
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -218,26 +238,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2019-03-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

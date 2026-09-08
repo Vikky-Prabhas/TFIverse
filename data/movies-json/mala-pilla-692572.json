@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mala Pilla",
   "overview": "Based on a Gudipati Venkatachalam story, it is a social drama showcasing the discrimination against scheduled castes through a love story between a Brahmin boy and a Dalit girl.",
-  "popularity": 0.1712,
+  "popularity": 1.4609,
   "poster_path": "/4BsEyziFGWyZY19o2z3lx1D57RN.jpg",
   "production_companies": [
     {
@@ -55,49 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Mala Pilla Full Movie HD |  Kanchanamala | Gali Venkateswara Rao | Govindarajula Subba",
-        "key": "GHR5meNgegA",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Featurette",
-        "official": false,
-        "id": "67cfc25c66892bad62811392",
-        "published_at": "2022-11-13T07:45:01.000Z"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "1938-09-25T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -107,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Kanchanamala",
         "original_name": "Kanchanamala",
-        "popularity": 0.0722,
+        "popularity": 0.3329,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -121,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Govindarajula Subba Rao",
         "original_name": "Govindarajula Subba Rao",
-        "popularity": 0.1169,
+        "popularity": 0.5232,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -135,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "P. Suri Babu",
         "original_name": "P. Suri Babu",
-        "popularity": 0,
+        "popularity": 0.3505,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -151,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Gudavalli Ramabrahmam",
         "original_name": "Gudavalli Ramabrahmam",
-        "popularity": 0.0143,
+        "popularity": 0.4404,
         "profile_path": null,
         "credit_id": "5e93a79d84448e001a90da6e",
         "department": "Directing",
@@ -164,13 +121,20 @@
         "known_for_department": "Writing",
         "name": "Tapi Dharma Rao Naidu",
         "original_name": "Tapi Dharma Rao Naidu",
-        "popularity": 0.0474,
+        "popularity": 0.4756,
         "profile_path": null,
         "credit_id": "5e93a7d1ccb15f00136fbc42",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -206,6 +170,42 @@
         "vote_average": 0.166,
         "vote_count": 2,
         "width": 630
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "1938-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mala Pilla Full Movie HD |  Kanchanamala | Gali Venkateswara Rao | Govindarajula Subba",
+        "key": "GHR5meNgegA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "67cfc25c66892bad62811392",
+        "published_at": "2022-11-13T07:45:01.000Z"
       }
     ]
   },

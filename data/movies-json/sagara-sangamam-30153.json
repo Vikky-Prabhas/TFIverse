@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "సాగర సంగమం",
   "overview": "When a passionate classical dancer, Balakrishna, falls in love with Madhavi, a woman who admires his talent, fate separates them. Years later, as he drowns in sorrow and self-destruction, an unexpected encounter rekindles his lost hopes, emotions and talent.",
-  "popularity": 0.8096,
+  "popularity": 1.5005,
   "poster_path": "/hdg47CcaBfLf0DttUoav45boYtL.jpg",
   "production_companies": [
     {
@@ -57,8 +57,8 @@
   "tagline": "In love with art, and each other.",
   "title": "Sagara Sangamam",
   "video": false,
-  "vote_average": 7.35,
-  "vote_count": 20,
+  "vote_average": 7.696,
+  "vote_count": 23,
   "credits": {
     "cast": [
       {
@@ -68,10 +68,10 @@
         "known_for_department": "Acting",
         "name": "Kamal Haasan",
         "original_name": "Kamal Haasan",
-        "popularity": 1.9288,
+        "popularity": 2.5692,
         "profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
         "cast_id": 5,
-        "character": "Bala Krishna \"Balu\"",
+        "character": "Balakrishna 'Balu'",
         "credit_id": "5819756cc3a3680947003fe7",
         "order": 0
       },
@@ -82,8 +82,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7694,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 6,
         "character": "Madhavi",
         "credit_id": "5819758cc3a3680958003c94",
@@ -96,10 +96,10 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 7,
-        "character": "Ragupathy \"Raghu\"",
+        "character": "Ragupathy 'Raghu'",
         "credit_id": "5819759e925141339c003eed",
         "order": 2
       },
@@ -110,8 +110,8 @@
         "known_for_department": "Sound",
         "name": "S.P. Sailaja",
         "original_name": "S.P. Sailaja",
-        "popularity": 0.1435,
-        "profile_path": null,
+        "popularity": 0.502,
+        "profile_path": "/saFBDylbonCq0d6YhPo5fOEtc3J.jpg",
         "cast_id": 8,
         "character": "Sailaja",
         "credit_id": "581975b3c3a368094b003bc0",
@@ -119,13 +119,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 9,
         "character": "Balu's uncle",
         "credit_id": "581975c7c3a3680947004007",
@@ -138,8 +138,8 @@
         "known_for_department": "Acting",
         "name": "Janaki",
         "original_name": "Janaki",
-        "popularity": 0.2196,
-        "profile_path": null,
+        "popularity": 1.3116,
+        "profile_path": "/8xGefQ0sVOQuOgp64FTojoReQJx.jpg",
         "cast_id": 10,
         "character": "Balu's Mother",
         "credit_id": "581975db92514133ab003a9b",
@@ -152,7 +152,7 @@
         "known_for_department": "Directing",
         "name": "Chakri Toleti",
         "original_name": "Chakri Toleti",
-        "popularity": 0.2406,
+        "popularity": 1.306,
         "profile_path": "/1WMxmuwxv2NdsBDdg4hkNM85gsV.jpg",
         "cast_id": 17,
         "character": "Teen photographer",
@@ -166,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Potti Prasad",
         "original_name": "Potti Prasad",
-        "popularity": 0.0849,
+        "popularity": 0.7293,
         "profile_path": null,
         "cast_id": 18,
         "character": "Sivayya",
@@ -175,31 +175,17 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1336547,
-        "known_for_department": "Acting",
-        "name": "S. K. Misro",
-        "original_name": "S. K. Misro",
-        "popularity": 0.0919,
-        "profile_path": null,
-        "cast_id": 19,
-        "character": "Film choreographer",
-        "credit_id": "5fdde21beb093200424f84e3",
-        "order": 8
-      },
-      {
-        "adult": false,
         "gender": 1,
         "id": 237970,
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.839,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 21,
         "character": "Geeta",
         "credit_id": "5fdde24dd70594003e28daf8",
-        "order": 9
+        "order": 8
       },
       {
         "adult": false,
@@ -208,12 +194,12 @@
         "known_for_department": "Acting",
         "name": "Manju Bhargavi",
         "original_name": "Manju Bhargavi",
-        "popularity": 0.1309,
+        "popularity": 0.8045,
         "profile_path": "/2hWAF3kJHKhcXGdpcfDhihLl3ql.jpg",
         "cast_id": 20,
         "character": "Classical dancer",
         "credit_id": "5fdde232b0ba7e00409e953e",
-        "order": 10
+        "order": 9
       },
       {
         "adult": false,
@@ -222,11 +208,25 @@
         "known_for_department": "Acting",
         "name": "Mohan Sharma",
         "original_name": "Mohan Sharma",
-        "popularity": 0.299,
+        "popularity": 0.7519,
         "profile_path": "/k6YSmsli27fpceT3ymTNUry8T7A.jpg",
         "cast_id": 22,
         "character": "Venugopala Rathnam",
         "credit_id": "5fdde266d70594003f2918cd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1336547,
+        "known_for_department": "Acting",
+        "name": "S. K. Misro",
+        "original_name": "S. K. Misro",
+        "popularity": 0.4529,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Film choreographer",
+        "credit_id": "5fdde21beb093200424f84e3",
         "order": 11
       }
     ],
@@ -238,24 +238,11 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "58197479c3a3680947003f8b",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 928860,
-        "known_for_department": "Writing",
-        "name": "Jandhyala Subramanya Sastry",
-        "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
-        "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
-        "credit_id": "581974ec92514133a5003a5b",
-        "department": "Writing",
-        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -264,7 +251,7 @@
         "known_for_department": "Production",
         "name": "Edida Nageswara Rao",
         "original_name": "Edida Nageswara Rao",
-        "popularity": 0.0751,
+        "popularity": 0.2681,
         "profile_path": null,
         "credit_id": "58197545c3a368095c0037b0",
         "department": "Production",
@@ -273,15 +260,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 76888,
-        "known_for_department": "Sound",
-        "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
-        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "5f5a726863d9370036ae675d",
-        "department": "Sound",
-        "job": "Music"
+        "id": 928860,
+        "known_for_department": "Writing",
+        "name": "Jandhyala Subramanya Sastry",
+        "original_name": "Jandhyala Subramanya Sastry",
+        "popularity": 0.8332,
+        "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
+        "credit_id": "581974ec92514133a5003a5b",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -290,7 +277,7 @@
         "known_for_department": "Editing",
         "name": "G. G. Krishna Rao",
         "original_name": "G. G. Krishna Rao",
-        "popularity": 0.127,
+        "popularity": 0.297,
         "profile_path": null,
         "credit_id": "5f5a75f0079a970037b64e40",
         "department": "Editing",
@@ -303,7 +290,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "5fb82bdb6ee3d700409b47c1",
         "department": "Writing",
@@ -316,7 +303,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "5fb82bea8a84d2003e7a77c6",
         "department": "Writing",
@@ -329,7 +316,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Nivas",
         "original_name": "P. S. Nivas",
-        "popularity": 0.1747,
+        "popularity": 0.3987,
         "profile_path": null,
         "credit_id": "5fb82c3776eecf003e760039",
         "department": "Camera",
@@ -342,8 +329,8 @@
         "known_for_department": "Art",
         "name": "Thotta Tharani",
         "original_name": "Thotta Tharani",
-        "popularity": 0.1674,
-        "profile_path": null,
+        "popularity": 0.5036,
+        "profile_path": "/YFMRhWq7qpJpCm4Ls5AYc0tphA.jpg",
         "credit_id": "69fcf493bd6ba3e898d9abe1",
         "department": "Art",
         "job": "Art Direction"
@@ -355,7 +342,7 @@
         "known_for_department": "Directing",
         "name": "N.V. Vijay",
         "original_name": "N.V. Vijay",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "69fcf4b8654e13a9935a0155",
         "department": "Directing",
@@ -368,7 +355,7 @@
         "known_for_department": "Sound",
         "name": "Raghawachari",
         "original_name": "Raghawachari",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69fcf509dc1e08bd5bc48575",
         "department": "Sound",
@@ -381,7 +368,7 @@
         "known_for_department": "Sound",
         "name": "A.R. Swaminathan",
         "original_name": "A.R. Swaminathan",
-        "popularity": 0,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "69fcf6bbcac334593b368938",
         "department": "Sound",
@@ -394,7 +381,7 @@
         "known_for_department": "Sound",
         "name": "B.N. Tiwari",
         "original_name": "B.N. Tiwari",
-        "popularity": 0.0362,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "69fcf6d76997731532c48593",
         "department": "Sound",
@@ -407,7 +394,7 @@
         "known_for_department": "Camera",
         "name": "Satyanarayan K.",
         "original_name": "Satyanarayan K.",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69fcf6f0a8b8979834c48700",
         "department": "Camera",
@@ -420,7 +407,7 @@
         "known_for_department": "Crew",
         "name": "V. Seshu Parupalli",
         "original_name": "V. Seshu Parupalli",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "69fcf721f9400e09e190c6fc",
         "department": "Crew",
@@ -433,7 +420,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Surya Rao",
         "original_name": "Surya Rao",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "69fcf782772a638da990c718",
         "department": "Costume & Make-Up",
@@ -446,13 +433,29 @@
         "known_for_department": "Sound",
         "name": "AS Laxmi Narayanan",
         "original_name": "AS Laxmi Narayanan",
-        "popularity": 0.1609,
+        "popularity": 0.351,
         "profile_path": null,
         "credit_id": "69fcf843e846edfcd2d9abfb",
         "department": "Sound",
         "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a1dc389a0194c33334810e3",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0086231",
@@ -460,25 +463,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 33457,
-        "name": "alcoholic"
-      },
-      {
-        "id": 160269,
-        "name": "lost love"
-      },
-      {
-        "id": 281402,
-        "name": "folk dance"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -494,6 +478,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 33457,
+        "name": "alcoholic"
+      },
+      {
+        "id": 160269,
+        "name": "lost love"
+      },
+      {
+        "id": 281402,
+        "name": "folk dance"
       }
     ]
   },

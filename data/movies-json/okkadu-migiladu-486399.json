@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ఒక్కడు మిగిలాడు",
   "overview": "'Okkadu Migiladu' is the story of displaced Sri Lankan Tamilians who find themselves stuck with the tag of 'refugees' all their lives. The mistreatment they face both in India and Sri Lanka, with either country refusing to accept them as their own, forms the crux of the story.",
-  "popularity": 0.2567,
+  "popularity": 2.3118,
   "poster_path": "/dQCHGxOOmt1u6EP9lW4W93HNFDL.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Manchu Manoj",
         "original_name": "Manchu Manoj",
-        "popularity": 0.5266,
+        "popularity": 2.0359,
         "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
         "cast_id": 0,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 1,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 2,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Anisha Ambrose",
         "original_name": "Anisha Ambrose",
-        "popularity": 0.176,
+        "popularity": 1.0309,
         "profile_path": "/fDgSKRLoMMMB1YVPl8TDR6imovI.jpg",
         "cast_id": 3,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Milind Gunaji",
         "original_name": "Milind Gunaji",
-        "popularity": 0.586,
+        "popularity": 1.1786,
         "profile_path": "/tzbUSc8bQw9d8mblgQDVxUGHV91.jpg",
         "cast_id": 4,
         "character": "",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Murali Mohan",
         "original_name": "Murali Mohan",
-        "popularity": 0.3614,
+        "popularity": 1.3936,
         "profile_path": "/otex9PxT1wXvvR4ATVG5lZH5UDV.jpg",
         "cast_id": 5,
         "character": "",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 12,
         "character": "",
@@ -159,7 +159,7 @@
         "known_for_department": "Directing",
         "name": "Ajay Nuthakki",
         "original_name": "Ajay Nuthakki",
-        "popularity": 0.0261,
+        "popularity": 0.5475,
         "profile_path": "/pHWxCx1jz9FOPuwjicwEb2jwrc9.jpg",
         "cast_id": 13,
         "character": "",
@@ -170,12 +170,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 1481542,
+        "known_for_department": "Camera",
+        "name": "Ramaraju",
+        "original_name": "Ramaraju",
+        "popularity": 0.4962,
+        "profile_path": null,
+        "credit_id": "5a0e122bc3a3686280001ce1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1096591,
         "known_for_department": "Directing",
         "name": "Ajay Nuthakki",
         "original_name": "Ajay Nuthakki",
-        "popularity": 0.0261,
+        "popularity": 0.5475,
         "profile_path": "/pHWxCx1jz9FOPuwjicwEb2jwrc9.jpg",
         "credit_id": "5a0e111bc3a368628c00169b",
         "department": "Directing",
@@ -188,20 +201,7 @@
         "known_for_department": "Directing",
         "name": "Ajay Nuthakki",
         "original_name": "Ajay Nuthakki",
-        "popularity": 0.0261,
-        "profile_path": "/pHWxCx1jz9FOPuwjicwEb2jwrc9.jpg",
-        "credit_id": "5a0e112992514138f3001943",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1096591,
-        "known_for_department": "Directing",
-        "name": "Ajay Nuthakki",
-        "original_name": "Ajay Nuthakki",
-        "popularity": 0.0261,
+        "popularity": 0.5475,
         "profile_path": "/pHWxCx1jz9FOPuwjicwEb2jwrc9.jpg",
         "credit_id": "5a0e115bc3a36862920017bd",
         "department": "Writing",
@@ -210,65 +210,43 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 465587,
-        "known_for_department": "Writing",
-        "name": "Gopi Mohan",
-        "original_name": "Gopi Mohan",
-        "popularity": 0.2309,
-        "profile_path": "/mvLYdlSAGWj0RvzbCCPtGcG3KfK.jpg",
-        "credit_id": "5a0e116e92514138e4001a2a",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1481542,
-        "known_for_department": "Camera",
-        "name": "Ramaraju",
-        "original_name": "Ramaraju",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "credit_id": "5a0e122bc3a3686280001ce1",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1924856,
         "known_for_department": "Sound",
         "name": "Siva R Nandigam",
         "original_name": "Siva R Nandigam",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "5a0e127592514138f0001b85",
         "department": "Sound",
         "job": "Original Music Composer"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 228595,
-        "name": "ltte"
       },
       {
-        "id": 239675,
-        "name": "sri lankan tamil war"
+        "adult": false,
+        "gender": 2,
+        "id": 1096591,
+        "known_for_department": "Directing",
+        "name": "Ajay Nuthakki",
+        "original_name": "Ajay Nuthakki",
+        "popularity": 0.5475,
+        "profile_path": "/pHWxCx1jz9FOPuwjicwEb2jwrc9.jpg",
+        "credit_id": "5a0e112992514138f3001943",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 465587,
+        "known_for_department": "Writing",
+        "name": "Gopi Mohan",
+        "original_name": "Gopi Mohan",
+        "popularity": 1.198,
+        "profile_path": "/mvLYdlSAGWj0RvzbCCPtGcG3KfK.jpg",
+        "credit_id": "5a0e116e92514138e4001a2a",
+        "department": "Writing",
+        "job": "Screenplay"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt7380226",
-    "wikidata_id": null,
-    "facebook_id": "OkkaduMigiladu",
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -287,8 +265,27 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": [
+      {
+        "id": 228595,
+        "name": "ltte"
+      },
+      {
+        "id": 239675,
+        "name": "sri lankan tamil war"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt7380226",
+    "wikidata_id": "Q106390614",
+    "facebook_id": "OkkaduMigiladu",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -305,5 +302,8 @@
         "width": 630
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

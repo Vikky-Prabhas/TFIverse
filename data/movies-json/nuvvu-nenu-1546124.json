@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Nuvvu Nenu",
   "overview": "Shiva (Kalyan Ram) and Vennela (Spurthi) fall in love during their college years, but life after graduation pulls them apart. Misunderstandings, career choices, and circumstances lead to a painful separation. Nuvvu Nenu follows their bittersweet journey of love, heartbreak, and the question of whether fate will bring them back together.",
-  "popularity": 0.4206,
+  "popularity": 0.4955,
   "poster_path": "/pI3cy7cuj4buicCDqlk8pupmICw.jpg",
   "production_companies": [
     {
@@ -77,134 +77,6 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 2,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5687783,
-        "known_for_department": "Acting",
-        "name": "Kalyan Ram",
-        "original_name": "Kalyan Ram",
-        "popularity": 0.0071,
-        "profile_path": "/mL053HcX8V8CCJrW6Gzs2a1x1Mj.jpg",
-        "cast_id": 1,
-        "character": "Shiva Ram",
-        "credit_id": "68c62ede00511b012a21fe4a",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5687785,
-        "known_for_department": "Directing",
-        "name": "Teja M",
-        "original_name": "Teja M",
-        "popularity": 0,
-        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
-        "cast_id": 2,
-        "character": "Director",
-        "credit_id": "68c62f0e11b5aedc16230acc",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5687787,
-        "known_for_department": "Acting",
-        "name": "arjun",
-        "original_name": "arjun",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "arjun",
-        "credit_id": "68c62f22417dfccb60230ae2",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5687788,
-        "known_for_department": "Acting",
-        "name": "mohith",
-        "original_name": "mohith",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "karthik",
-        "credit_id": "68c62f3d76c84c2649f21a23",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5687785,
-        "known_for_department": "Directing",
-        "name": "Teja M",
-        "original_name": "Teja M",
-        "popularity": 0,
-        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
-        "credit_id": "68c62fab417dfccb60230ae8",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5687783,
-        "known_for_department": "Acting",
-        "name": "Kalyan Ram",
-        "original_name": "Kalyan Ram",
-        "popularity": 0.0071,
-        "profile_path": "/mL053HcX8V8CCJrW6Gzs2a1x1Mj.jpg",
-        "credit_id": "68c62fc2d70093032d230b12",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5687785,
-        "known_for_department": "Directing",
-        "name": "Teja M",
-        "original_name": "Teja M",
-        "popularity": 0,
-        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
-        "credit_id": "68c62fd5417dfccb60230af2",
-        "department": "Crew",
-        "job": "Cinematography"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 304995,
-        "name": "feel good"
-      },
-      {
-        "id": 321897,
-        "name": "indiefilm collective"
-      },
-      {
-        "id": 346087,
-        "name": "low-budget filmmaking"
-      },
-      {
-        "id": 357988,
-        "name": "low budget film"
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -233,20 +105,127 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
+  "credits": {
+    "cast": [
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "this is a telugu indie film made with budget of 8000rs( = $100), and less crew and cast in just 8 days",
-            "release_date": "2025-02-14T00:00:00.000Z",
-            "type": 4
-          }
-        ]
+        "adult": false,
+        "gender": 2,
+        "id": 5687783,
+        "known_for_department": "Acting",
+        "name": "Kalyan Ram",
+        "original_name": "Kalyan Ram",
+        "popularity": 0.2622,
+        "profile_path": "/mL053HcX8V8CCJrW6Gzs2a1x1Mj.jpg",
+        "cast_id": 1,
+        "character": "Shiva Ram",
+        "credit_id": "68c62ede00511b012a21fe4a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5687785,
+        "known_for_department": "Directing",
+        "name": "Teja M",
+        "original_name": "Teja M",
+        "popularity": 0.2559,
+        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
+        "cast_id": 2,
+        "character": "Director",
+        "credit_id": "68c62f0e11b5aedc16230acc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5687787,
+        "known_for_department": "Acting",
+        "name": "arjun",
+        "original_name": "arjun",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "arjun",
+        "credit_id": "68c62f22417dfccb60230ae2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5687788,
+        "known_for_department": "Acting",
+        "name": "mohith",
+        "original_name": "mohith",
+        "popularity": 0.2617,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "karthik",
+        "credit_id": "68c62f3d76c84c2649f21a23",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5687785,
+        "known_for_department": "Directing",
+        "name": "Teja M",
+        "original_name": "Teja M",
+        "popularity": 0.2559,
+        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
+        "credit_id": "68c62fab417dfccb60230ae8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5687783,
+        "known_for_department": "Acting",
+        "name": "Kalyan Ram",
+        "original_name": "Kalyan Ram",
+        "popularity": 0.2622,
+        "profile_path": "/mL053HcX8V8CCJrW6Gzs2a1x1Mj.jpg",
+        "credit_id": "68c62fc2d70093032d230b12",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5687785,
+        "known_for_department": "Directing",
+        "name": "Teja M",
+        "original_name": "Teja M",
+        "popularity": 0.2559,
+        "profile_path": "/l73NsG4SZneJIg4sm9iCaN7dYKJ.jpg",
+        "credit_id": "68c62fd5417dfccb60230af2",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 275276,
+        "name": "feelgood"
+      },
+      {
+        "id": 321897,
+        "name": "indiefilm collective"
+      },
+      {
+        "id": 346087,
+        "name": "low-budget filmmaking"
       }
     ]
   },
@@ -279,5 +258,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "this is a telugu indie film made with budget of 8000rs( = $100), and less crew and cast in just 8 days",
+            "release_date": "2025-02-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

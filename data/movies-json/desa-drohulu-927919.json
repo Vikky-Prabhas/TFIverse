@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "దేశద్రోహులు",
   "overview": "",
-  "popularity": 0.306,
+  "popularity": 0.7112,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -44,19 +44,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -66,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Bhanuchander",
         "original_name": "Bhanuchander",
-        "popularity": 0.3522,
+        "popularity": 0.6416,
         "profile_path": "/wOGSHy867uQB6xHbQ9A7yFEUO4g.jpg",
         "cast_id": 1,
         "character": "",
@@ -80,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.5311,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 2,
         "character": "",
@@ -94,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 3,
         "character": "",
@@ -103,13 +90,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0567,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "61e5397befcea9001c277555",
@@ -120,9 +107,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "",
@@ -136,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Menon",
         "original_name": "Shweta Menon",
-        "popularity": 0.6057,
+        "popularity": 3.5826,
         "profile_path": "/31RBamV8AyHSmkrbp9FGYJCehiP.jpg",
         "cast_id": 6,
         "character": "",
@@ -145,6 +132,28 @@
       }
     ],
     "crew": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "DeshaDrohulu",
+        "type": "alternative spelling"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -167,14 +176,5 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "DeshaDrohulu",
-        "type": "alternative spelling"
-      }
-    ]
   }
 }

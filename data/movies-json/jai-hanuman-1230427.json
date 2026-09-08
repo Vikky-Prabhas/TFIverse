@@ -14,12 +14,8 @@
       "name": "Fantasy"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
-    },
-    {
-      "id": 12,
-      "name": "Adventure"
+      "id": 28,
+      "name": "Action"
     }
   ],
   "homepage": "",
@@ -31,7 +27,7 @@
   "original_language": "te",
   "original_title": "జై హనుమాన్",
   "overview": "",
-  "popularity": 0.4203,
+  "popularity": 0.8646,
   "poster_path": "/orJt4FiG2OCVZrE4cObIgoiH2DR.jpg",
   "production_companies": [
     {
@@ -64,12 +60,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt31032120",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "credits": {
     "cast": [
@@ -79,8 +71,8 @@
         "id": 1752058,
         "known_for_department": "Acting",
         "name": "Rishab Shetty",
-        "original_name": "Rishab Shetty",
-        "popularity": 0.5322,
+        "original_name": "ರಿಶಾಬ್ ಶೆಟ್ಟಿ",
+        "popularity": 1.2758,
         "profile_path": "/eRaOUg2B02XH1l6P4juGzaPDr3u.jpg",
         "cast_id": 7,
         "character": "Hanuman",
@@ -89,17 +81,59 @@
       },
       {
         "adult": false,
+        "gender": 1,
+        "id": 1267400,
+        "known_for_department": "Acting",
+        "name": "Wamiqa Gabbi",
+        "original_name": "Wamiqa Gabbi",
+        "popularity": 2.5045,
+        "profile_path": "/e1CNXkH2scGeoabOTowFJJxX2YF.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6a7adb1a9219a86b678b2218",
+        "order": 1
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 215910,
         "known_for_department": "Acting",
         "name": "Rana Daggubati",
-        "original_name": "Rana Daggubati",
-        "popularity": 1.1535,
-        "profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+        "original_name": "రానా దగ్గుబాటి",
+        "popularity": 2.5345,
+        "profile_path": "/q0Rw0e9RogMD0zJ0Heq0GotDYoy.jpg",
         "cast_id": 12,
         "character": "",
         "credit_id": "672f745e45b870231962a649",
-        "order": 1
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2022636,
+        "known_for_department": "Acting",
+        "name": "Amritha Aiyer",
+        "original_name": "Amritha Aiyer",
+        "popularity": 1.2069,
+        "profile_path": "/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a670257af2d3de21529516e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527498,
+        "known_for_department": "Acting",
+        "name": "Teja Sajja",
+        "original_name": "Teja Sajja",
+        "popularity": 1.3075,
+        "profile_path": "/7MhRbb4VTRpk199CsX4vnYqQRd2.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6a67025eb82943c098b3457d",
+        "order": 4
       }
     ],
     "crew": [
@@ -110,11 +144,11 @@
         "known_for_department": "Directing",
         "name": "Prasanth Varma",
         "original_name": "Prasanth Varma",
-        "popularity": 0.2963,
+        "popularity": 0.8731,
         "profile_path": null,
-        "credit_id": "65a21d0fd35dea0123d49f0e",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "65a21ce8c3926601283dcf51",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -123,22 +157,9 @@
         "known_for_department": "Directing",
         "name": "Prasanth Varma",
         "original_name": "Prasanth Varma",
-        "popularity": 0.2963,
+        "popularity": 0.8731,
         "profile_path": null,
-        "credit_id": "65a21ce8c3926601283dcf51",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4495109,
-        "known_for_department": "Writing",
-        "name": "scriptsville",
-        "original_name": "scriptsville",
-        "popularity": 0.0883,
-        "profile_path": "/jm2ULMnCzDccY5FrbFjDIFcSQ0o.jpg",
-        "credit_id": "65af72c3848eb9010a9a55de",
+        "credit_id": "65a21d0fd35dea0123d49f0e",
         "department": "Writing",
         "job": "Screenplay"
       },
@@ -149,7 +170,7 @@
         "known_for_department": "Production",
         "name": "Naveen Yerneni",
         "original_name": "Naveen Yerneni",
-        "popularity": 0.2639,
+        "popularity": 0.3721,
         "profile_path": "/iestiUKLGHblxeQtI0DF5ENCxLW.jpg",
         "credit_id": "67237241974a676c6df37793",
         "department": "Production",
@@ -162,7 +183,7 @@
         "known_for_department": "Production",
         "name": "Y. Ravi Shankar",
         "original_name": "Y. Ravi Shankar",
-        "popularity": 0.1851,
+        "popularity": 0.5174,
         "profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
         "credit_id": "6723731f1601419f73620ce0",
         "department": "Production",
@@ -175,7 +196,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "6994522c1519eceeb828846f",
         "department": "Sound",
@@ -188,7 +209,7 @@
         "known_for_department": "Camera",
         "name": "Nimish Ravi",
         "original_name": "Nimish Ravi",
-        "popularity": 0.1321,
+        "popularity": 0.356,
         "profile_path": "/3prTwkLnNym21TUYBjgs1RtlOmr.jpg",
         "credit_id": "69c7d6594efa63a93dad9be4",
         "department": "Camera",
@@ -201,7 +222,7 @@
         "known_for_department": "Directing",
         "name": "Prasanth Varma",
         "original_name": "Prasanth Varma",
-        "popularity": 0.2963,
+        "popularity": 0.8731,
         "profile_path": null,
         "credit_id": "69c7d66dcf653321ef074675",
         "department": "Writing",
@@ -214,7 +235,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Pragathi Rishab Shetty",
         "original_name": "Pragathi Rishab Shetty",
-        "popularity": 0.1052,
+        "popularity": 0.2789,
         "profile_path": null,
         "credit_id": "69ccf03b0c5d5baea6ce051b",
         "department": "Production",
@@ -222,37 +243,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 327755,
-        "name": "hanu-man 2"
-      },
-      {
-        "id": 327756,
-        "name": "hanu-man"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Hanu-Man 2",
-        "type": "Unofficial Title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "PVCU7",
-        "type": "Project lineup"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt31032120",
+    "wikidata_id": "Q130753368",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -348,6 +344,35 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1365
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 327755,
+        "name": "hanu-man 2"
+      },
+      {
+        "id": 327756,
+        "name": "hanu-man"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Hanu-Man 2",
+        "type": "Unofficial Title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "PVCU7",
+        "type": "Project lineup"
       }
     ]
   }

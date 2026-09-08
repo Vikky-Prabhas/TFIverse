@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pilla Nuvvu Leni Jeevitham",
   "overview": "Pilla Nuvvu Leni Jeevitham is the kind of film which borrows a little bit of everything from the magic recipe of a commercial entertainer, although it doesn't quite leave a mark of its own in the end.",
-  "popularity": 0.2832,
+  "popularity": 1.2531,
   "poster_path": "/2pLoXL7Zq5LkgimtnkptJ6VLn2j.jpg",
   "production_companies": [
     {
@@ -44,11 +44,8 @@
   "tagline": "",
   "title": "Pilla Nuvvu Leni Jeevitham",
   "video": false,
-  "vote_average": 4.8,
-  "vote_count": 5,
-  "videos": {
-    "results": []
-  },
+  "vote_average": 4.429,
+  "vote_count": 7,
   "credits": {
     "cast": [
       {
@@ -58,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Sai Durgha Tej",
         "original_name": "Sai Dharam Tej",
-        "popularity": 0.61,
+        "popularity": 1.3448,
         "profile_path": "/lX3rI99DmyIXn8yaUW2i0wA1X4Q.jpg",
         "cast_id": 0,
         "character": "",
@@ -70,10 +67,10 @@
         "gender": 1,
         "id": 1166967,
         "known_for_department": "Acting",
-        "name": "Regina Cassandra",
-        "original_name": "Regina Cassandra",
-        "popularity": 0.488,
-        "profile_path": "/n3eiWhFQ3oFU1zWwEPsMR3rptjS.jpg",
+        "name": "Regena Cassandrra",
+        "original_name": "ரெஜினா கசாண்ட்ரா",
+        "popularity": 2.3562,
+        "profile_path": "/ypUo0oOCjY2FMhjrNBeCR9esmpS.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "54691b9f22136e68cf0016ee",
@@ -85,8 +82,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 5,
         "character": "",
@@ -100,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 4,
         "character": "",
@@ -114,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.2205,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 8,
         "character": "",
@@ -128,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.7272,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 6,
         "character": "",
@@ -144,7 +141,7 @@
         "known_for_department": "Directing",
         "name": "A.S. Ravi Kumar Chowdary",
         "original_name": "A.S. Ravi Kumar Chowdary",
-        "popularity": 0.2568,
+        "popularity": 0.4511,
         "profile_path": null,
         "credit_id": "559304abc3a36869e800156e",
         "department": "Writing",
@@ -157,7 +154,7 @@
         "known_for_department": "Directing",
         "name": "A.S. Ravi Kumar Chowdary",
         "original_name": "A.S. Ravi Kumar Chowdary",
-        "popularity": 0.2568,
+        "popularity": 0.4511,
         "profile_path": null,
         "credit_id": "559304a69251410e920016bf",
         "department": "Directing",
@@ -170,7 +167,7 @@
         "known_for_department": "Sound",
         "name": "Anudeep Dev",
         "original_name": "Anudeep Dev",
-        "popularity": 0.1481,
+        "popularity": 0.422,
         "profile_path": "/xgSw7SmN20QhC1YXSiBmzr4dVIG.jpg",
         "credit_id": "65b7397c0cd32a017ce6f95f",
         "department": "Sound",
@@ -183,7 +180,7 @@
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3304,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "68c6089fc20a9a6a3b0d8bad",
         "department": "Production",
@@ -196,7 +193,7 @@
         "known_for_department": "Production",
         "name": "Bunny Vas",
         "original_name": "Bunny Vas",
-        "popularity": 0.1465,
+        "popularity": 0.3249,
         "profile_path": "/wuORjl5RorJUpLeWL6UspfC1zak.jpg",
         "credit_id": "68c60fc86de66963d0e61771",
         "department": "Production",
@@ -204,12 +201,34 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt4195522",
     "wikidata_id": "Q18388597",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1079,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2pLoXL7Zq5LkgimtnkptJ6VLn2j.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 720
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -228,26 +247,7 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1079,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/2pLoXL7Zq5LkgimtnkptJ6VLn2j.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 720
-      }
-    ]
   }
 }

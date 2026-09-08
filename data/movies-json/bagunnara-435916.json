@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bagunnara?",
   "overview": "A young woman meets a man and falls in love with him but things take a turn when her father learns about their relationship and he plans to separate them.",
-  "popularity": 0.2145,
+  "popularity": 0.7279,
   "poster_path": null,
   "production_companies": [
     {
@@ -45,12 +45,12 @@
     "cast": [
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1107024,
         "known_for_department": "Acting",
         "name": "Vadde Naveen",
         "original_name": "Vadde Naveen",
-        "popularity": 0.1916,
+        "popularity": 0.9117,
         "profile_path": "/tvmu4D10f8zbQHFVDmCFa7nnX2h.jpg",
         "cast_id": 0,
         "character": "",
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Priya Gill",
         "original_name": "Priya Gill",
-        "popularity": 0.24,
+        "popularity": 2.122,
         "profile_path": "/uzEqEkkT2lFmXT6KBkxxNyj0oId.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.5623,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 3,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Fakruddin",
         "original_name": "Fakruddin",
-        "popularity": 0.0496,
+        "popularity": 0.2738,
         "profile_path": null,
         "credit_id": "65dae8f91750510187f94b73",
         "department": "Directing",
@@ -121,7 +121,7 @@
         "known_for_department": "Writing",
         "name": "Marudhuri Raja",
         "original_name": "Marudhuri Raja",
-        "popularity": 0.0978,
+        "popularity": 0.514,
         "profile_path": null,
         "credit_id": "65dae94a9f1be70185697da1",
         "department": "Writing",
@@ -134,7 +134,7 @@
         "known_for_department": "Sound",
         "name": "Deva",
         "original_name": "Deva",
-        "popularity": 0.5372,
+        "popularity": 0.4512,
         "profile_path": "/nmqZFoKHq52PpAgkd1wdjO11ne.jpg",
         "credit_id": "65dae96905b549017b17238f",
         "department": "Sound",
@@ -147,7 +147,7 @@
         "known_for_department": "Camera",
         "name": "Shyam K. Naidu",
         "original_name": "Shyam K. Naidu",
-        "popularity": 0.2257,
+        "popularity": 0.3322,
         "profile_path": null,
         "credit_id": "65dae9774c1d9a017d6f9834",
         "department": "Camera",
@@ -160,7 +160,7 @@
         "known_for_department": "Editing",
         "name": "Marthand K Venkatesh",
         "original_name": "Marthand K Venkatesh",
-        "popularity": 0.2685,
+        "popularity": 0.4927,
         "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
         "credit_id": "65dae99105b549017b1723e0",
         "department": "Editing",
@@ -173,7 +173,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Reza Shariffi",
         "original_name": "Reza Shariffi",
-        "popularity": 0.1644,
+        "popularity": 0.2993,
         "profile_path": null,
         "credit_id": "65dae9a99b6e4701860056ef",
         "department": "Costume & Make-Up",
@@ -186,7 +186,7 @@
         "known_for_department": "Production",
         "name": "Pilli Jayasree Anand",
         "original_name": "Pilli Jayasree Anand",
-        "popularity": 0.0071,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "65dae9ef9f1be70185697ea1",
         "department": "Production",
@@ -199,7 +199,7 @@
         "known_for_department": "Production",
         "name": "Pilli Sanjay Anand",
         "original_name": "Pilli Sanjay Anand",
-        "popularity": 0,
+        "popularity": 0.2402,
         "profile_path": null,
         "credit_id": "65daea01e9c0dc0186c19cdb",
         "department": "Production",
@@ -220,6 +220,11 @@
   "keywords": {
     "keywords": []
   },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
   "release_dates": {
     "results": [
       {
@@ -236,11 +241,6 @@
         ]
       }
     ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "alternative_titles": {
     "titles": []

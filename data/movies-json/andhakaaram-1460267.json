@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Andhakaaram",
   "overview": "Explores the subconscious horrors of a writer who struck in writer's block",
-  "popularity": 0.126,
+  "popularity": 0.4658,
   "poster_path": "/xMJGYK8yQgTeuuLVtJGfWczadK7.jpg",
   "production_companies": [
     {
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Rathnappa reddy",
         "original_name": "Rathnappa reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2755,
         "profile_path": null,
         "cast_id": 1,
         "character": "Writer",
@@ -81,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "Si Raa Re",
         "original_name": "Si Raa Re",
-        "popularity": 0.0143,
+        "popularity": 0.2552,
         "profile_path": "/1hGtBJfsp7qmqTBWdEAus421miK.jpg",
         "credit_id": "67f27b598b1f32eb79d9bf42",
         "department": "Directing",
@@ -94,7 +94,7 @@
         "known_for_department": "Directing",
         "name": "Si Raa Re",
         "original_name": "Si Raa Re",
-        "popularity": 0.0143,
+        "popularity": 0.2552,
         "profile_path": "/1hGtBJfsp7qmqTBWdEAus421miK.jpg",
         "credit_id": "67f27b717b43bdce20acee0e",
         "department": "Writing",
@@ -107,7 +107,7 @@
         "known_for_department": "Directing",
         "name": "Si Raa Re",
         "original_name": "Si Raa Re",
-        "popularity": 0.0143,
+        "popularity": 0.2552,
         "profile_path": "/1hGtBJfsp7qmqTBWdEAus421miK.jpg",
         "credit_id": "67f27b9cf5a80aa54599e414",
         "department": "Editing",
@@ -120,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "Si Raa Re",
         "original_name": "Si Raa Re",
-        "popularity": 0.0143,
+        "popularity": 0.2552,
         "profile_path": "/1hGtBJfsp7qmqTBWdEAus421miK.jpg",
         "credit_id": "67f27bb6e1d5c23c6ed955ac",
         "department": "Production",
@@ -133,7 +133,7 @@
         "known_for_department": "Directing",
         "name": "Siddi Ajith Kumar",
         "original_name": "Siddi Ajith Kumar",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67f27bd9f5a80aa54599e463",
         "department": "Directing",
@@ -146,7 +146,7 @@
         "known_for_department": "Crew",
         "name": "Tarun BVS",
         "original_name": "Tarun BVS",
-        "popularity": 0.0071,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "67f27c09f5a80aa54599e487",
         "department": "Crew",
@@ -154,15 +154,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt36456732",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": [
@@ -179,9 +179,6 @@
         "name": "siraaresque"
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -226,5 +223,8 @@
         "width": 2000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

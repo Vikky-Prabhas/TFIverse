@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కథ",
   "overview": "After her family gets murdered, Chitra, a lonely girl, spends a year in an asylum. She is petrified when she witnesses another murder and refuses to believe that it is her hallucination.",
-  "popularity": 0.1912,
+  "popularity": 1.7726,
   "poster_path": "/aI1UbBFvYSoclZZG65BK3h8hgm4.jpg",
   "production_companies": [
     {
@@ -51,21 +51,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kadha",
-        "type": "Alternate"
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -75,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Genelia D'Souza",
         "original_name": "Genelia D'Souza",
-        "popularity": 1.0316,
+        "popularity": 1.3405,
         "profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
         "cast_id": 4,
         "character": "Chitra Singh",
@@ -89,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Thrigun",
         "original_name": "Thrigun",
-        "popularity": 0.2571,
+        "popularity": 2.6089,
         "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
         "cast_id": 5,
         "character": "Krishna",
@@ -102,8 +87,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 6,
         "character": "Circle Inspector",
@@ -116,8 +101,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 7,
         "character": "Kanakala rao",
@@ -131,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.1738,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 8,
         "character": "Constable Raju",
@@ -145,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Tulasi",
         "original_name": "Tulasi",
-        "popularity": 0.9058,
+        "popularity": 0.9555,
         "profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
         "cast_id": 9,
         "character": "",
@@ -157,24 +142,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1574274,
-        "known_for_department": "Directing",
-        "name": "Raga Srinivas",
-        "original_name": "Raga Srinivas",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "credit_id": "639f2fc04f33ad007c71437d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1522879,
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.1461,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "639f2fe29bcd0f283a3dd2b3",
         "department": "Writing",
@@ -183,11 +155,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1574274,
+        "known_for_department": "Directing",
+        "name": "Raga Srinivas",
+        "original_name": "Raga Srinivas",
+        "popularity": 0.4785,
+        "profile_path": null,
+        "credit_id": "639f2fc04f33ad007c71437d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3836068,
         "known_for_department": "Sound",
         "name": "S. K. Balachandran",
         "original_name": "S. K. Balachandran",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "63eb59648e870200a98901c5",
         "department": "Sound",
@@ -195,28 +180,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1649353",
-    "wikidata_id": "Q6376065",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/aI1UbBFvYSoclZZG65BK3h8hgm4.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -234,5 +199,40 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kadha",
+        "type": "Alternate"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aI1UbBFvYSoclZZG65BK3h8hgm4.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1649353",
+    "wikidata_id": "Q6376065",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

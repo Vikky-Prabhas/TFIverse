@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Uttama Kali Purushudu",
   "overview": "The story takes multiple twists and turns, involving love, deception, and revenge. A bright young man decides to bring about change in society by choosing the wrong path. A challenging criminal investigation attempts to find the culprit, shaping the story and delivering a social message for the evolution of a crime-free society.",
-  "popularity": 0.0143,
+  "popularity": 0.4883,
   "poster_path": "/usUXFagONh50No3k24HYkOWkoML.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Writing",
         "name": "Nanda Kishore",
         "original_name": "Nanda Kishore",
-        "popularity": 0.1312,
+        "popularity": 0.8211,
         "profile_path": null,
         "cast_id": 1,
         "character": "Hero",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Ruchira",
         "original_name": "Ruchira",
-        "popularity": 0,
+        "popularity": 0.2437,
         "profile_path": null,
         "cast_id": 2,
         "character": "Heroine",
@@ -98,7 +98,7 @@
         "known_for_department": "Directing",
         "name": "Sandeep Podishetti",
         "original_name": "Sandeep Podishetti",
-        "popularity": 0.0071,
+        "popularity": 0.3019,
         "profile_path": null,
         "credit_id": "67acd38c645669137e9f31a4",
         "department": "Directing",
@@ -106,15 +106,21 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt14678138",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -132,9 +138,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "release_dates": {
     "results": [
       {
@@ -151,8 +154,5 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

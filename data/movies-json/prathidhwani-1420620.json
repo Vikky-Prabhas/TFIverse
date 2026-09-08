@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ప్రతిధ్వని",
   "overview": "Akhil commits a murder in rage and the echoes of guilt haunt him forever. Did he redeem himself?",
-  "popularity": 0.0521,
+  "popularity": 0.4388,
   "poster_path": "/nchwU7yUTeAsMF43ffKG9VLaYkc.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,22 +44,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [],
     "crew": [
@@ -70,7 +54,7 @@
         "known_for_department": "Directing",
         "name": "Dev Subhashish",
         "original_name": "Michael Dev",
-        "popularity": 0,
+        "popularity": 0.2803,
         "profile_path": "/4bi7PsZyiO2fQSMHpaoUuG5NKsR.jpg",
         "credit_id": "678e52819d5e363d1964f7f2",
         "department": "Directing",
@@ -83,13 +67,29 @@
         "known_for_department": "Directing",
         "name": "Dev Subhashish",
         "original_name": "Michael Dev",
-        "popularity": 0,
+        "popularity": 0.2803,
         "profile_path": "/4bi7PsZyiO2fQSMHpaoUuG5NKsR.jpg",
         "credit_id": "678e528f9d5e363d1964f7f8",
         "department": "Writing",
         "job": "Writer"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": []

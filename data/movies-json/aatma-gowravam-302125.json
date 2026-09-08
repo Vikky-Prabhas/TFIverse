@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఆత్మ గౌరవం",
   "overview": "A zamindar who does not have any heir wishes to adopt Srinivas. However, his wife is against it and instead wants to adopt Venu, who is her sister's son.",
-  "popularity": 0.341,
+  "popularity": 1.0703,
   "poster_path": "/8hXl25OuQVMDn8zn3NzkMlzIvVb.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,9 +48,6 @@
   "video": false,
   "vote_average": 7.5,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -58,9 +55,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Kanchana",
         "original_name": "Kanchana",
-        "popularity": 0.315,
+        "popularity": 1.1551,
         "profile_path": "/5MIFRK08ooRWugaZbhDKoWilmx6.jpg",
         "cast_id": 2,
         "character": "",
@@ -88,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 3,
         "character": "",
@@ -102,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Chalam",
         "original_name": "Chalam",
-        "popularity": 0.0482,
+        "popularity": 1.1997,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -116,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 5,
         "character": "",
@@ -128,37 +125,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1660755,
-        "known_for_department": "Camera",
-        "name": "P. S. Selvaraj",
-        "original_name": "P. S. Selvaraj",
-        "popularity": 0.1246,
-        "profile_path": null,
-        "credit_id": "5fc3acfe2bcf67003dc13469",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1139301,
-        "known_for_department": "Sound",
-        "name": "Saluri Rajeswara Rao",
-        "original_name": "Saluri Rajeswara Rao",
-        "popularity": 0.1248,
-        "profile_path": "/9qsMNtwJ24NSFEpGnxojcu9pT0z.jpg",
-        "credit_id": "5fc3aca8d2f5b5003ed80768",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 544978,
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "5fc3ac1f4d6791003ed949e6",
         "department": "Writing",
@@ -167,15 +138,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 544978,
-        "known_for_department": "Directing",
-        "name": "K. Viswanath",
-        "original_name": "K. Viswanath",
-        "popularity": 0.4169,
-        "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
-        "credit_id": "5fc3ac11b84f9400420bc19d",
-        "department": "Directing",
-        "job": "Director"
+        "id": 1139301,
+        "known_for_department": "Sound",
+        "name": "Saluri Rajeswara Rao",
+        "original_name": "Saluri Rajeswara Rao",
+        "popularity": 0.302,
+        "profile_path": "/9qsMNtwJ24NSFEpGnxojcu9pT0z.jpg",
+        "credit_id": "5fc3aca8d2f5b5003ed80768",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660755,
+        "known_for_department": "Camera",
+        "name": "P. S. Selvaraj",
+        "original_name": "P. S. Selvaraj",
+        "popularity": 0.3788,
+        "profile_path": null,
+        "credit_id": "5fc3acfe2bcf67003dc13469",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -184,7 +168,7 @@
         "known_for_department": "Production",
         "name": "D. Madhusudhana Rao",
         "original_name": "D. Madhusudhana Rao",
-        "popularity": 0.1401,
+        "popularity": 0.4156,
         "profile_path": null,
         "credit_id": "5fc3ac72813cb60040767d82",
         "department": "Production",
@@ -193,20 +177,33 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 544978,
+        "known_for_department": "Directing",
+        "name": "K. Viswanath",
+        "original_name": "K. Viswanath",
+        "popularity": 1.345,
+        "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
+        "credit_id": "5fc3ac11b84f9400420bc19d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1703037,
         "known_for_department": "Editing",
         "name": "M. S. Mani",
         "original_name": "M. S. Mani",
-        "popularity": 0.1106,
-        "profile_path": null,
+        "popularity": 0.3626,
+        "profile_path": "/m4pGiUlYPujBMt7MsJfhhA76hbf.jpg",
         "credit_id": "5fc3ad110328b9003c68f69e",
         "department": "Editing",
         "job": "Editor"
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0260678",
@@ -214,6 +211,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గూడుపుఠాణి",
   "overview": "Upon eloping and seeking refuge in a secluded temple in the forest, Giri and Siri get trapped inside. Their troubles worsen when a group of armed thieves break in to steal the Goddess' gold.",
-  "popularity": 0.1363,
+  "popularity": 0.651,
   "poster_path": "/unQLDBa61HXYUWNkvBXuFzlyhuf.jpg",
   "production_companies": [
     {
@@ -55,8 +55,211 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412713,
+        "known_for_department": "Acting",
+        "name": "Saptagiri",
+        "original_name": "Saptagiri",
+        "popularity": 1.7707,
+        "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
+        "cast_id": 1,
+        "character": "Giri",
+        "credit_id": "6181d2aef6596f004363a2f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2476413,
+        "known_for_department": "Acting",
+        "name": "Neha Solanki",
+        "original_name": "Neha Solanki",
+        "popularity": 1.2307,
+        "profile_path": "/gTjDVEOlwSBetjmAzTfMxvil1Zp.jpg",
+        "cast_id": 2,
+        "character": "Siri",
+        "credit_id": "6181d2c0d388ae0043f613f4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543594,
+        "known_for_department": "Sound",
+        "name": "Raghu Kunche",
+        "original_name": "Raghu Kunche",
+        "popularity": 0.4288,
+        "profile_path": "/pTZPnDqhe9NSDaPZgIoStucSVd3.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6181d2d0d388ae008a0b7d68",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341485,
+        "known_for_department": "Acting",
+        "name": "Ananth Babu",
+        "original_name": "Ananth Babu",
+        "popularity": 0.8884,
+        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6181d2dfe741460043869df0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648895,
+        "known_for_department": "Acting",
+        "name": "Raghu Karumanchi",
+        "original_name": "Raghu Karumanchi",
+        "popularity": 0.4393,
+        "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "6181dd7aa097dc004289f59e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3286255,
+        "known_for_department": "Camera",
+        "name": "Pavan Chenna",
+        "original_name": "Pavan Chenna",
+        "popularity": 0.2715,
+        "profile_path": null,
+        "credit_id": "6181dd578ed03f002d050241",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3294936,
+        "known_for_department": "Production",
+        "name": "Parupati Srinivas Reddy",
+        "original_name": "Parupati Srinivas Reddy",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "credit_id": "6181dd083876510063201144",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3294924,
+        "known_for_department": "Directing",
+        "name": "K. M. Kumar",
+        "original_name": "K. M. Kumar",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "6181da52c7c22400656a7126",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3294924,
+        "known_for_department": "Directing",
+        "name": "K. M. Kumar",
+        "original_name": "K. M. Kumar",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "6181dc59d388ae002cf9759f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3294924,
+        "known_for_department": "Directing",
+        "name": "K. M. Kumar",
+        "original_name": "K. M. Kumar",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "6181dc60d236e600902c8064",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2456252,
+        "known_for_department": "Directing",
+        "name": "Dhulipudi Phani Pradeep",
+        "original_name": "Dhulipudi Phani Pradeep",
+        "popularity": 0.4858,
+        "profile_path": null,
+        "credit_id": "6181dc9fd236e6004345f4c0",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3294940,
+        "known_for_department": "Sound",
+        "name": "Pratap Vidya",
+        "original_name": "Pratap Vidya",
+        "popularity": 0.2663,
+        "profile_path": null,
+        "credit_id": "6181dd7139a1a6004334ce9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3294937,
+        "known_for_department": "Production",
+        "name": "Katari Ramesh",
+        "original_name": "Katari Ramesh",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6181dd1ecb6db50042b9dab7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3031479,
+        "known_for_department": "Crew",
+        "name": "Shaolin Mallesh",
+        "original_name": "Shaolin Mallesh",
+        "popularity": 0.2657,
+        "profile_path": null,
+        "credit_id": "61934862957e6d00298201a9",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2120694,
+        "known_for_department": "Editing",
+        "name": "Bontala Nagaeswar Reddy",
+        "original_name": "Bontala Nagaeswar Reddy",
+        "popularity": 0.2747,
+        "profile_path": null,
+        "credit_id": "633e96025a99150079ee4726",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -74,6 +277,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt15416668",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -132,223 +342,13 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "videos": {
     "results": []
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1412713,
-        "known_for_department": "Acting",
-        "name": "Saptagiri",
-        "original_name": "Saptagiri",
-        "popularity": 0.377,
-        "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
-        "cast_id": 1,
-        "character": "Giri",
-        "credit_id": "6181d2aef6596f004363a2f9",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2476413,
-        "known_for_department": "Acting",
-        "name": "Neha Solanki",
-        "original_name": "Neha Solanki",
-        "popularity": 0.2616,
-        "profile_path": "/gTjDVEOlwSBetjmAzTfMxvil1Zp.jpg",
-        "cast_id": 2,
-        "character": "Siri",
-        "credit_id": "6181d2c0d388ae0043f613f4",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1543594,
-        "known_for_department": "Sound",
-        "name": "Raghu Kunche",
-        "original_name": "Raghu Kunche",
-        "popularity": 0.1297,
-        "profile_path": "/pTZPnDqhe9NSDaPZgIoStucSVd3.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6181d2d0d388ae008a0b7d68",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1341485,
-        "known_for_department": "Acting",
-        "name": "Ananth Babu",
-        "original_name": "Ananth Babu",
-        "popularity": 0.316,
-        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6181d2dfe741460043869df0",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1648895,
-        "known_for_department": "Acting",
-        "name": "Raghu Karumanchi",
-        "original_name": "Raghu Karumanchi",
-        "popularity": 0.1934,
-        "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
-        "cast_id": 15,
-        "character": "",
-        "credit_id": "6181dd7aa097dc004289f59e",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3286255,
-        "known_for_department": "Camera",
-        "name": "Pavan Chenna",
-        "original_name": "Pavan Chenna",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dd578ed03f002d050241",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3294936,
-        "known_for_department": "Production",
-        "name": "Parupati Srinivas Reddy",
-        "original_name": "Parupati Srinivas Reddy",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dd083876510063201144",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3294924,
-        "known_for_department": "Directing",
-        "name": "K. M. Kumar",
-        "original_name": "K. M. Kumar",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181da52c7c22400656a7126",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3294924,
-        "known_for_department": "Directing",
-        "name": "K. M. Kumar",
-        "original_name": "K. M. Kumar",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dc59d388ae002cf9759f",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3294924,
-        "known_for_department": "Directing",
-        "name": "K. M. Kumar",
-        "original_name": "K. M. Kumar",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dc60d236e600902c8064",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2456252,
-        "known_for_department": "Directing",
-        "name": "Dhulipudi Phani Pradeep",
-        "original_name": "Dhulipudi Phani Pradeep",
-        "popularity": 0.051,
-        "profile_path": null,
-        "credit_id": "6181dc9fd236e6004345f4c0",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3294940,
-        "known_for_department": "Sound",
-        "name": "Pratap Vidya",
-        "original_name": "Pratap Vidya",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dd7139a1a6004334ce9b",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3294937,
-        "known_for_department": "Production",
-        "name": "Katari Ramesh",
-        "original_name": "Katari Ramesh",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6181dd1ecb6db50042b9dab7",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3031479,
-        "known_for_department": "Crew",
-        "name": "Shaolin Mallesh",
-        "original_name": "Shaolin Mallesh",
-        "popularity": 0.0855,
-        "profile_path": null,
-        "credit_id": "61934862957e6d00298201a9",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2120694,
-        "known_for_department": "Editing",
-        "name": "Bontala Nagaeswar Reddy",
-        "original_name": "Bontala Nagaeswar Reddy",
-        "popularity": 0.082,
-        "profile_path": null,
-        "credit_id": "633e96025a99150079ee4726",
-        "department": "Editing",
-        "job": "Editor"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt15416668",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   }
 }

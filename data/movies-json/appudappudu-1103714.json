@@ -20,9 +20,9 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Appudappudu",
+  "original_title": "అప్పుడప్పుడు",
   "overview": "Sundeep and Radhika get married at their parents' behest. However, things take a turn when they soon realise how wrong they are for each other and plan to get a divorce.",
-  "popularity": 0.3722,
+  "popularity": 1.0561,
   "poster_path": "/ylXKPVWLtwtIiSOIRnBcmXw2G8c.jpg",
   "production_companies": [],
   "production_countries": [
@@ -43,7 +43,7 @@
     }
   ],
   "status": "Released",
-  "tagline": "IN LOVE",
+  "tagline": "",
   "title": "Appudappudu",
   "video": false,
   "vote_average": 0,
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Raja",
         "original_name": "Raja",
-        "popularity": 0.2891,
+        "popularity": 1.1919,
         "profile_path": "/ibHIlBmK6GLEKQPQd43YX0i9C8d.jpg",
         "cast_id": 1,
         "character": "Sundeep",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sriya Reddy",
         "original_name": "Sriya Reddy",
-        "popularity": 1.1683,
+        "popularity": 1.4235,
         "profile_path": "/6AwGUf0uj7Dr6cwZkC53KNihPdj.jpg",
         "cast_id": 2,
         "character": "Radhika",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 4,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.5188,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 5,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 6,
         "character": "",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Sudha",
         "original_name": "Sudha",
-        "popularity": 0.4112,
+        "popularity": 1.5384,
         "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
         "cast_id": 7,
         "character": "",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 8,
         "character": "",
@@ -169,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 9,
         "character": "",
@@ -183,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -199,20 +199,7 @@
         "known_for_department": "Directing",
         "name": "Chandra Siddhartha",
         "original_name": "Chandra Siddhartha",
-        "popularity": 0.1526,
-        "profile_path": null,
-        "credit_id": "641c4c07a3e4ba00a1072662",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107018,
-        "known_for_department": "Directing",
-        "name": "Chandra Siddhartha",
-        "original_name": "Chandra Siddhartha",
-        "popularity": 0.1526,
+        "popularity": 0.4356,
         "profile_path": null,
         "credit_id": "641c4c6c95c0af007cd1028e",
         "department": "Writing",
@@ -225,7 +212,7 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.2133,
+        "popularity": 0.3934,
         "profile_path": null,
         "credit_id": "641c4cbbf9aa4700e2faac39",
         "department": "Sound",
@@ -234,11 +221,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1107018,
+        "known_for_department": "Directing",
+        "name": "Chandra Siddhartha",
+        "original_name": "Chandra Siddhartha",
+        "popularity": 0.4356,
+        "profile_path": null,
+        "credit_id": "641c4c07a3e4ba00a1072662",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3975745,
         "known_for_department": "Crew",
         "name": "K G soman",
         "original_name": "K G soman",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "641c4d1124b3330081ff6680",
         "department": "Crew",
@@ -255,9 +255,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -276,15 +273,31 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ylXKPVWLtwtIiSOIRnBcmXw2G8c.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/uaKnJWHKcJUaSZsJc8furEpyk9R.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -293,8 +306,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/bZnxev5YmjtFIUAroMwHijkuvCJ.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -303,26 +316,13 @@
       {
         "aspect_ratio": 0.667,
         "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/eyVE6WY76o7AnEn5HKb7F8RAoMz.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/ylXKPVWLtwtIiSOIRnBcmXw2G8c.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

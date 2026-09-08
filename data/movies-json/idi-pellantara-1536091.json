@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Idi Pellantara",
   "overview": "Radha runs away from her abusive husband, and begins a new life with Deepak. However, things take a turn when her husband returns and starts torturing her again.",
-  "popularity": 0.067,
+  "popularity": 0.5421,
   "poster_path": "/b6FlYLpZDBp2IClFGeJVfdSOHGx.jpg",
   "production_companies": [],
   "production_countries": [
@@ -38,6 +38,9 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -45,9 +48,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 2,
         "character": "Radha",
@@ -61,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 3,
         "character": "",
@@ -75,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 7,
         "character": "Deepak",
@@ -91,7 +94,7 @@
         "known_for_department": "Directing",
         "name": "Vijay Bhaskar",
         "original_name": "Vijay Bhaskar",
-        "popularity": 0.0071,
+        "popularity": 0.2765,
         "profile_path": null,
         "credit_id": "68adabbb4f457c2748449919",
         "department": "Directing",
@@ -104,7 +107,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "68adabfa2e055fbb7f670e0e",
         "department": "Sound",
@@ -117,16 +120,13 @@
         "known_for_department": "Production",
         "name": "Kranthi Kumar",
         "original_name": "Kranthi Kumar",
-        "popularity": 0.1141,
+        "popularity": 0.8524,
         "profile_path": null,
         "credit_id": "68adac1d3fcea4610d9db98c",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []

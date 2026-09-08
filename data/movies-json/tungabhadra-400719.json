@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Tungabhadra",
   "overview": "Sai Korrapati who has not only produced big films like Eega and Legend has also made few small movies with different themes. Coming from his production house Tungabhadra caught the attention of Telugu movie lovers.",
-  "popularity": 0.2989,
+  "popularity": 0.7632,
   "poster_path": "/qRXaBwA4FxJ88NPg54r4itupG2I.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Thrigun",
         "original_name": "Thrigun",
-        "popularity": 0.2571,
+        "popularity": 2.6089,
         "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
         "cast_id": 0,
         "character": "Sreenu",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Dimple Chopade",
         "original_name": "Dimple Chopade",
-        "popularity": 0.211,
+        "popularity": 0.6401,
         "profile_path": "/yWuKRA1qH7JgRP3bGGNhX2ffhs6.jpg",
         "cast_id": 1,
         "character": "Gowri",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Charandeep",
         "original_name": "Charandeep",
-        "popularity": 0.1776,
+        "popularity": 0.5793,
         "profile_path": "/aV18GfEmzYp278Al3WARDRxNYje.jpg",
         "cast_id": 2,
         "character": "Thrimurtulu",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Sathyaraj",
         "original_name": "Sathyaraj",
-        "popularity": 1.4955,
+        "popularity": 1.9376,
         "profile_path": "/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg",
         "cast_id": 3,
         "character": "Ramaraju",
@@ -115,9 +115,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 4,
         "character": "Paiditalli",
         "credit_id": "5bfba89b0e0a2636ce009a7b",
@@ -132,7 +132,7 @@
         "known_for_department": "Directing",
         "name": "Srinivasa Krishna",
         "original_name": "Srinivasa Krishna",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "5bfba91a0e0a2636ce009b02",
         "department": "Writing",
@@ -145,27 +145,11 @@
         "known_for_department": "Directing",
         "name": "Srinivasa Krishna",
         "original_name": "Srinivasa Krishna",
-        "popularity": 0,
+        "popularity": 0.2705,
         "profile_path": null,
         "credit_id": "5bfba8b5925141172200931c",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Tungabhadra Latest Movie Theatrical Trailer - Adith, Dimple Chopde, Satyaraj",
-        "key": "wjDrh0vKqzc",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "5bfba9660e0a26360e00939c",
-        "published_at": "2015-02-17T14:48:14.000Z"
       }
     ]
   },
@@ -178,6 +162,22 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 800,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/qRXaBwA4FxJ88NPg54r4itupG2I.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 533
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -196,19 +196,19 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+  "videos": {
+    "results": [
       {
-        "aspect_ratio": 0.666,
-        "height": 800,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/qRXaBwA4FxJ88NPg54r4itupG2I.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 533
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tungabhadra Latest Movie Theatrical Trailer - Adith, Dimple Chopde, Satyaraj",
+        "key": "wjDrh0vKqzc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5bfba9660e0a26360e00939c",
+        "published_at": "2015-02-17T14:48:14.000Z"
       }
     ]
   },

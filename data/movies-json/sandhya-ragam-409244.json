@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "సంధ్యారాగం",
   "overview": "",
-  "popularity": 0.2413,
+  "popularity": 0.7908,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 0,
         "character": "Kalyan",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Prabha",
         "original_name": "Prabha",
-        "popularity": 0.0784,
+        "popularity": 0.7436,
         "profile_path": "/jtI1W48Jr8g8hHmrUEeCRAOQXv9.jpg",
         "cast_id": 1,
         "character": "Geetha",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 3,
         "character": "Koteswarudu",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 11,
         "character": "Giri",
@@ -104,13 +104,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1611653,
         "known_for_department": "Acting",
         "name": "Roja Ramani",
         "original_name": "Roja Ramani",
-        "popularity": 0.4233,
-        "profile_path": null,
+        "popularity": 0.6852,
+        "profile_path": "/v7mQJIXusWWj9AJAjfO97BdWlnS.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "57a019199251412c62000ea5",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "S. Varalakshmi",
         "original_name": "S. Varalakshmi",
-        "popularity": 0.2755,
+        "popularity": 1.1826,
         "profile_path": "/3nwbn3esERTaZIfas2dsIBO9t8G.jpg",
         "cast_id": 5,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Nirmala",
         "original_name": "Nirmala",
-        "popularity": 0.1275,
+        "popularity": 0.3414,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Master Purushottam",
         "original_name": "Master Purushottam",
-        "popularity": 0.0143,
+        "popularity": 0.3307,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Baby Rani",
         "original_name": "Baby Rani",
-        "popularity": 0.1354,
+        "popularity": 0.5156,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -179,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Raavi Kondala Rao",
         "original_name": "Raavi Kondala Rao",
-        "popularity": 0.266,
+        "popularity": 0.5413,
         "profile_path": null,
         "cast_id": 17,
         "character": "",
@@ -193,8 +193,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 19,
         "character": "",
         "credit_id": "6967a73a431eb0dc56686ebe",
@@ -204,38 +204,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 591149,
-        "known_for_department": "Acting",
-        "name": "Giri Babu",
-        "original_name": "Giri Babu",
-        "popularity": 0.4574,
-        "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
-        "credit_id": "57a0197e925141033700246c",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1660099,
-        "known_for_department": "Writing",
-        "name": "Appalacharya",
-        "original_name": "Appalacharya",
-        "popularity": 0.0193,
-        "profile_path": null,
-        "credit_id": "57a01a14c3a3681d6c00134f",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 1660100,
         "known_for_department": "Crew",
         "name": "Vijay Kumar",
         "original_name": "Vijay Kumar",
-        "popularity": 0.0071,
+        "popularity": 0.2577,
         "profile_path": null,
         "credit_id": "57a01a63c3a36829b3000f04",
         "department": "Crew",
@@ -243,12 +217,25 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
+        "id": 591149,
+        "known_for_department": "Acting",
+        "name": "Giri Babu",
+        "original_name": "Giri Babu",
+        "popularity": 2.671,
+        "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
+        "credit_id": "57a0197e925141033700246c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1660101,
         "known_for_department": "Editing",
-        "name": "Kanda Swamy",
+        "name": "Kandhaswamy",
         "original_name": "Kanda Swamy",
-        "popularity": 0,
+        "popularity": 0.2708,
         "profile_path": null,
         "credit_id": "57a01a75c3a3682a4000102a",
         "department": "Editing",
@@ -257,11 +244,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 1660099,
+        "known_for_department": "Writing",
+        "name": "Appalacharya",
+        "original_name": "Appalacharya",
+        "popularity": 0.311,
+        "profile_path": null,
+        "credit_id": "57a01a14c3a3681d6c00134f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1660102,
         "known_for_department": "Production",
         "name": "Y. Sridevi",
         "original_name": "Y. Sridevi",
-        "popularity": 0.0071,
+        "popularity": 0.2624,
         "profile_path": null,
         "credit_id": "57a01a8992514103370024d9",
         "department": "Production",
@@ -274,7 +274,7 @@
         "known_for_department": "Writing",
         "name": "Appalacharya",
         "original_name": "Appalacharya",
-        "popularity": 0.0193,
+        "popularity": 0.311,
         "profile_path": null,
         "credit_id": "6967a6cd33b4eed792686fa0",
         "department": "Writing",
@@ -287,7 +287,7 @@
         "known_for_department": "Directing",
         "name": "P. N. Ramachandra Rao",
         "original_name": "P. N. Ramachandra Rao",
-        "popularity": 0.0793,
+        "popularity": 0.5166,
         "profile_path": null,
         "credit_id": "6967a7586127100567703883",
         "department": "Directing",
@@ -300,13 +300,16 @@
         "known_for_department": "Sound",
         "name": "Pasupuleti Ramesh Naidu",
         "original_name": "Pasupuleti Ramesh Naidu",
-        "popularity": 0,
+        "popularity": 0.2839,
         "profile_path": null,
         "credit_id": "6967a77bdff3a99b5c36d8c4",
         "department": "Sound",
         "job": "Original Music Composer"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0364646",
@@ -318,8 +321,10 @@
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -337,11 +342,6 @@
         ]
       }
     ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "alternative_titles": {
     "titles": []

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Chitrangada",
   "overview": "Chitrangada or Chitra is suddenly attracted towards women, sexually. Being a psychology professor herself, Chitra is stunned and clueless about the phenomenon and also faces complaints from staff and students about her changed behavior. Chitra sets off to the US in order to unravel the mystery behind her dreams and sudden change in behavior.",
-  "popularity": 0.2105,
+  "popularity": 0.8988,
   "poster_path": "/5neZmNTpHCZ8DKVdiE7UG05KunW.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,9 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Anjali",
         "original_name": "Anjali",
-        "popularity": 2.5653,
+        "popularity": 1.2595,
         "profile_path": "/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
         "cast_id": 1,
         "character": "Chitra",
@@ -57,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Sakshi Gulati",
         "original_name": "Sakshi Gulati",
-        "popularity": 0.139,
+        "popularity": 0.6486,
         "profile_path": "/zfJ8l1sFUZb5MuZH14LmbWamBld.jpg",
         "cast_id": 0,
         "character": "Samyukta",
@@ -73,7 +76,7 @@
         "known_for_department": "Directing",
         "name": "Ashok G.",
         "original_name": "Ashok G.",
-        "popularity": 0.1135,
+        "popularity": 0.419,
         "profile_path": "/xcJszvQiZSMjAjqSVSqC5XkM11i.jpg",
         "credit_id": "60555cf46f6a990054c5a330",
         "department": "Directing",
@@ -108,12 +111,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -129,5 +126,8 @@
         "width": 861
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

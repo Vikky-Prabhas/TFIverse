@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "The Front Page",
   "overview": "An aspiring filmmaker narrates a highly complex story to a producer. As his story unfolds, we will find out if the narrator is successful in getting his story approved.",
-  "popularity": 0.0573,
+  "popularity": 0.5369,
   "poster_path": "/kdM4oPvTqTWVc79fqIBkcYF0FQw.jpg",
   "production_companies": [
     {
@@ -40,117 +40,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2187317,
-        "known_for_department": "Acting",
-        "name": "Suhas",
-        "original_name": "Suhas",
-        "popularity": 0.4476,
-        "profile_path": "/4TZK8EkWiWPiC7wvDu4yFIXP41D.jpg",
-        "cast_id": 4,
-        "character": "filmmaker",
-        "credit_id": "64636dc68c44b9780af28375",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4065359,
-        "known_for_department": "Acting",
-        "name": "Sridhar",
-        "original_name": "Sridhar",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "64636decdbbb420136386ae2",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4065336,
-        "known_for_department": "Directing",
-        "name": "Filmian",
-        "original_name": "Filmian",
-        "popularity": 0.162,
-        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
-        "credit_id": "64636c94ef8b3200e3aea6e3",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4065340,
-        "known_for_department": "Production",
-        "name": "Anurag",
-        "original_name": "Anurag",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "64636cb50f36550119078196",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4065343,
-        "known_for_department": "Production",
-        "name": "Sharath",
-        "original_name": "Sharath",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "64636ce9dbbb420153078bd8",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3279921,
-        "known_for_department": "Editing",
-        "name": "Kodati Pavan Kalyan",
-        "original_name": "Kodati Pavan Kalyan",
-        "popularity": 0.1263,
-        "profile_path": null,
-        "credit_id": "64636e58a672540164df8076",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4065363,
-        "known_for_department": "Crew",
-        "name": "Shreekar Khajandar",
-        "original_name": "Shreekar Khajandar",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "64636e2ba672540185894ffe",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2225005,
-        "known_for_department": "Sound",
-        "name": "Karthik Rodriguez",
-        "original_name": "Karthik Rodriguez",
-        "popularity": 0.0672,
-        "profile_path": null,
-        "credit_id": "64636e18a672540164df8060",
-        "department": "Sound",
-        "job": "Music"
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -174,12 +65,6 @@
         "published_at": "2017-07-07T12:19:26.000Z"
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -211,6 +96,121 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2187317,
+        "known_for_department": "Acting",
+        "name": "Suhas",
+        "original_name": "Suhas",
+        "popularity": 1.153,
+        "profile_path": "/4TZK8EkWiWPiC7wvDu4yFIXP41D.jpg",
+        "cast_id": 4,
+        "character": "filmmaker",
+        "credit_id": "64636dc68c44b9780af28375",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4065359,
+        "known_for_department": "Acting",
+        "name": "Sridhar",
+        "original_name": "Sridhar",
+        "popularity": 0.2654,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "64636decdbbb420136386ae2",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4065336,
+        "known_for_department": "Directing",
+        "name": "Filmian",
+        "original_name": "Filmian",
+        "popularity": 0.3398,
+        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
+        "credit_id": "64636c94ef8b3200e3aea6e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4065363,
+        "known_for_department": "Crew",
+        "name": "Shreekar Khajandar",
+        "original_name": "Shreekar Khajandar",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "credit_id": "64636e2ba672540185894ffe",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3279921,
+        "known_for_department": "Editing",
+        "name": "Kodati Pavan Kalyan",
+        "original_name": "Kodati Pavan Kalyan",
+        "popularity": 0.3739,
+        "profile_path": null,
+        "credit_id": "64636e58a672540164df8076",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4065343,
+        "known_for_department": "Production",
+        "name": "Sharath",
+        "original_name": "Sharath",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "64636ce9dbbb420153078bd8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2225005,
+        "known_for_department": "Sound",
+        "name": "Karthik Rodriguez",
+        "original_name": "Karthik Rodriguez",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "64636e18a672540164df8060",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4065340,
+        "known_for_department": "Production",
+        "name": "Anurag",
+        "original_name": "Anurag",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "credit_id": "64636cb50f36550119078196",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   }

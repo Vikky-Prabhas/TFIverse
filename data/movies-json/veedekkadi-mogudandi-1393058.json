@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Veedekkadi mogudandi",
   "overview": "An astrologer claims that Sriram's wife will die during childbirth so he decides to remain a bachelor but his family get him married to Sruthi who then gets pregnant. Will she survive the pregnancy?",
-  "popularity": 0.0214,
+  "popularity": 0.7757,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,27 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1575706",
+    "wikidata_id": "Q97356129",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu",
-        "popularity": 0.0071,
+        "popularity": 0.348,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -59,7 +80,7 @@
         "known_for_department": "Directing",
         "name": "E.V.V. Satyanarayana",
         "original_name": "E.V.V. Satyanarayana",
-        "popularity": 0.3511,
+        "popularity": 1.4922,
         "profile_path": "/dYTWo7GAyYEGr0zrkiHvw7EdIaF.jpg",
         "credit_id": "67441a437b825e685b4ea7d1",
         "department": "Directing",
@@ -67,28 +88,7 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1575706",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "release_dates": {
     "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

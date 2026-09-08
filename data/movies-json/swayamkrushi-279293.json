@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Swayamkrushi",
   "overview": "An uneducated cobbler, Sambayya, raises his late sister's son and harbours feelings for Sarada. Unable to marry Sarada, Sambayya settles down with Ganga, but another problem knocks at his door.",
-  "popularity": 0.3135,
+  "popularity": 0.7972,
   "poster_path": "/5o0J5YAtnrwqfULc3qGEVVYBfAk.jpg",
   "production_companies": [
     {
@@ -49,11 +49,8 @@
   "tagline": "",
   "title": "Swayamkrushi",
   "video": false,
-  "vote_average": 9.3,
-  "vote_count": 3,
-  "videos": {
-    "results": []
-  },
+  "vote_average": 8.75,
+  "vote_count": 4,
   "credits": {
     "cast": [
       {
@@ -63,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Sambayya",
@@ -77,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.46,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 4,
         "character": "Ganga",
@@ -91,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.5892,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 5,
         "character": "Sarada",
         "credit_id": "53b0b973c3a3682edb0058cf",
@@ -105,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Charan Raj",
         "original_name": "Charan Raj",
-        "popularity": 0.5279,
+        "popularity": 1.0584,
         "profile_path": "/mmEb8jPvyhg6BisENTxM3LQpaCr.jpg",
         "cast_id": 6,
         "character": "Govind",
@@ -118,8 +115,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -133,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.2209,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 8,
         "character": "",
@@ -147,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Sarvadaman D. Banerjee",
         "original_name": "Sarvadaman D. Banerjee",
-        "popularity": 0.2047,
+        "popularity": 0.5941,
         "profile_path": null,
         "cast_id": 9,
         "character": "Bhaskar",
@@ -161,7 +158,7 @@
         "known_for_department": "Writing",
         "name": "M. V. S. Haranatha Rao",
         "original_name": "M. V. S. Haranatha Rao",
-        "popularity": 0.0869,
+        "popularity": 0.4589,
         "profile_path": "/s1AusagRF2MsBh2mi9hrAgGZDWL.jpg",
         "cast_id": 19,
         "character": "",
@@ -175,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "P. L. Narayana",
         "original_name": "P. L. Narayana",
-        "popularity": 0.1478,
+        "popularity": 0.3703,
         "profile_path": null,
         "cast_id": 20,
         "character": "",
@@ -189,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "S. K. Misro",
         "original_name": "S. K. Misro",
-        "popularity": 0.1061,
+        "popularity": 0.4529,
         "profile_path": null,
         "cast_id": 21,
         "character": "",
@@ -203,8 +200,8 @@
         "known_for_department": "Acting",
         "name": "Janaki",
         "original_name": "Janaki",
-        "popularity": 0.3132,
-        "profile_path": null,
+        "popularity": 1.3116,
+        "profile_path": "/8xGefQ0sVOQuOgp64FTojoReQJx.jpg",
         "cast_id": 22,
         "character": "",
         "credit_id": "69fd18b9a3ceda5277f680e4",
@@ -214,12 +211,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 544978,
+        "known_for_department": "Directing",
+        "name": "K. Viswanath",
+        "original_name": "K. Viswanath",
+        "popularity": 1.345,
+        "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
+        "credit_id": "53b0b963c3a3682edf005545",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 1335687,
         "known_for_department": "Sound",
         "name": "Ramesh Naidu",
         "original_name": "Ramesh Naidu",
-        "popularity": 0.0363,
+        "popularity": 0.3361,
         "profile_path": null,
         "credit_id": "53b0b9680e0a26597d006feb",
         "department": "Sound",
@@ -228,24 +238,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 544978,
-        "known_for_department": "Directing",
-        "name": "K. Viswanath",
-        "original_name": "K. Viswanath",
-        "popularity": 0.4169,
-        "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
-        "credit_id": "53b0b963c3a3682edf005545",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2035077,
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "64c7df17cadb6b00e75e2509",
         "department": "Writing",
@@ -258,7 +255,7 @@
         "known_for_department": "Camera",
         "name": "Lok Singh",
         "original_name": "Lok Singh",
-        "popularity": 0.0071,
+        "popularity": 0.3696,
         "profile_path": null,
         "credit_id": "69fb8654ae5c7fae87bf7251",
         "department": "Crew",
@@ -271,7 +268,7 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "69fb866c25a9a41807a344bf",
         "department": "Writing",
@@ -284,7 +281,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "69fb8697623b1ea6651d32ac",
         "department": "Writing",
@@ -297,7 +294,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4169,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "69fb86da604fdf39efa344bb",
         "department": "Writing",
@@ -310,7 +307,7 @@
         "known_for_department": "Editing",
         "name": "G. G. Krishna Rao",
         "original_name": "G. G. Krishna Rao",
-        "popularity": 0.1125,
+        "popularity": 0.297,
         "profile_path": null,
         "credit_id": "69fb870525a9a41807a344cc",
         "department": "Editing",
@@ -323,7 +320,7 @@
         "known_for_department": "Production",
         "name": "Edida Nageswara Rao",
         "original_name": "Edida Nageswara Rao",
-        "popularity": 0.0615,
+        "popularity": 0.2681,
         "profile_path": null,
         "credit_id": "69fd17f45e1ffade6b8786d8",
         "department": "Production",
@@ -335,8 +332,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "69fd1843fc030cfa73f680d3",
         "department": "Sound",
@@ -349,7 +346,7 @@
         "known_for_department": "Sound",
         "name": "S. Janaki",
         "original_name": "S. Janaki",
-        "popularity": 0.0863,
+        "popularity": 0.3872,
         "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
         "credit_id": "69fd1857e8f71781910767a6",
         "department": "Sound",
@@ -360,29 +357,15 @@
   "keywords": {
     "keywords": []
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt0246262",
     "wikidata_id": "Q7654078",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1987-09-03T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -469,6 +452,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1987-09-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

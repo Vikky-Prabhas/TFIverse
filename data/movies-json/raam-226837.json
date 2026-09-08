@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "రామ్",
   "overview": "",
-  "popularity": 0.206,
+  "popularity": 0.5417,
   "poster_path": "/iplS8Oa5QdYZdcb7JwxHO4zuKQS.jpg",
   "production_companies": [],
   "production_countries": [
@@ -37,15 +37,8 @@
   "tagline": "",
   "title": "Raam",
   "video": false,
-  "vote_average": 10,
-  "vote_count": 1,
-  "external_ids": {
-    "imdb_id": "tt1285003",
-    "wikidata_id": "Q7278402",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
+  "vote_average": 6.5,
+  "vote_count": 2,
   "videos": {
     "results": []
   },
@@ -58,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 2.0264,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 1,
         "character": "Raam",
@@ -72,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Genelia D'Souza",
         "original_name": "Genelia D'Souza",
-        "popularity": 1.0316,
+        "popularity": 1.3405,
         "profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
         "cast_id": 2,
         "character": "Janaki",
@@ -86,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Hrishitaa Bhatt",
         "original_name": "Hrishitaa Bhatt",
-        "popularity": 0.4034,
+        "popularity": 0.962,
         "profile_path": "/4kV1o6U7OENwOSv9h4ujDijAGTw.jpg",
         "cast_id": 3,
         "character": "Jyothika",
@@ -102,13 +95,23 @@
         "known_for_department": "Directing",
         "name": "Nimmala Shankar",
         "original_name": "Nimmala Shankar",
-        "popularity": 0.0379,
+        "popularity": 0.8323,
         "profile_path": null,
         "credit_id": "6990579a33d289771124cfa5",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1285003",
+    "wikidata_id": "Q7278402",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -167,8 +170,5 @@
         "type": "Hindi Dubbed"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

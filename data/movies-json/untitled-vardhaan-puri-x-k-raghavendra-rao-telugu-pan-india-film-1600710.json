@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Untitled Vardhaan Puri x K Raghavendra Rao Telugu Pan India Film",
   "overview": "An untitled Telugu Pan India film.",
-  "popularity": 0.0143,
+  "popularity": 0.6773,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Vardhaan Puri",
         "original_name": "Vardhan Puri",
-        "popularity": 0.0784,
+        "popularity": 0.5353,
         "profile_path": "/H5bKtqovSC95rjgOtzMQJu03Mc.jpg",
         "cast_id": 1,
         "character": "",
@@ -58,28 +65,21 @@
     ],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
   "videos": {
     "results": []
   },
   "release_dates": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

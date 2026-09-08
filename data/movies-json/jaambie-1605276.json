@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "జాంబీ",
   "overview": "Two dumb, pretentious, good-for-nothing gangsters, Anna and Dhed Dimag along with Shiva are waiting for Mallesh's death news. All hell breaks loose when they get a visit from a Zombie, sorry Jaambie who happens to look like Mallesh... or... is the Jaambie, Mallesh himself?",
-  "popularity": 0.3613,
+  "popularity": 0.5643,
   "poster_path": "/pBcNXupUGupuWkHZlar29V1dpTx.jpg",
   "production_companies": [
     {
@@ -59,6 +59,30 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +92,7 @@
         "known_for_department": "Directing",
         "name": "Dev Subhashish",
         "original_name": "Michael Dev",
-        "popularity": 0,
+        "popularity": 0.2803,
         "profile_path": "/4bi7PsZyiO2fQSMHpaoUuG5NKsR.jpg",
         "cast_id": 3,
         "character": "Anna",
@@ -82,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Kavadi Mahesh",
         "original_name": "Kavadi Mahesh",
-        "popularity": 0,
+        "popularity": 0.2622,
         "profile_path": null,
         "cast_id": 4,
         "character": "Shiva",
@@ -96,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Aashrith Akula",
         "original_name": "Aashrith Akula",
-        "popularity": 0,
+        "popularity": 0.3276,
         "profile_path": null,
         "cast_id": 5,
         "character": "Dhed Dimag",
@@ -110,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Shanker Rachuri",
         "original_name": "Shanker Rachuri",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 12,
         "character": "Mallesh",
@@ -126,7 +150,7 @@
         "known_for_department": "Directing",
         "name": "Dev Subhashish",
         "original_name": "Michael Dev",
-        "popularity": 0,
+        "popularity": 0.2803,
         "profile_path": "/4bi7PsZyiO2fQSMHpaoUuG5NKsR.jpg",
         "credit_id": "6950ff89a5dc163eac7c6f4f",
         "department": "Directing",
@@ -139,7 +163,7 @@
         "known_for_department": "Directing",
         "name": "Dev Subhashish",
         "original_name": "Michael Dev",
-        "popularity": 0,
+        "popularity": 0.2803,
         "profile_path": "/4bi7PsZyiO2fQSMHpaoUuG5NKsR.jpg",
         "credit_id": "6950ffa01b00c463ffcbcdf2",
         "department": "Writing",
@@ -152,7 +176,7 @@
         "known_for_department": "Crew",
         "name": "Sai Saketh",
         "original_name": "Sai Saketh",
-        "popularity": 0,
+        "popularity": 0.2616,
         "profile_path": null,
         "credit_id": "695100f51748af5a5bc3756a",
         "department": "Crew",
@@ -165,7 +189,7 @@
         "known_for_department": "Crew",
         "name": "Sai Saketh",
         "original_name": "Sai Saketh",
-        "popularity": 0,
+        "popularity": 0.2616,
         "profile_path": null,
         "credit_id": "695101730f0f03840970f1b8",
         "department": "Editing",
@@ -178,7 +202,7 @@
         "known_for_department": "Crew",
         "name": "Sai Saketh",
         "original_name": "Sai Saketh",
-        "popularity": 0,
+        "popularity": 0.2616,
         "profile_path": null,
         "credit_id": "6970a17c3a08352b6a7573de",
         "department": "Sound",
@@ -191,7 +215,7 @@
         "known_for_department": "Production",
         "name": "Dhanush Angirekula",
         "original_name": "Dhanush Angirekula",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "6970a1b85bf006459e0388ce",
         "department": "Production",
@@ -204,7 +228,7 @@
         "known_for_department": "Art",
         "name": "Vignesh Benny",
         "original_name": "Vignesh Benny",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "credit_id": "6970a1db7761eaa967ceb3c5",
         "department": "Art",
@@ -217,47 +241,13 @@
         "known_for_department": "Art",
         "name": "Ashish Vardhan",
         "original_name": "Ashish Vardhan",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "6970a28d5222d0f5f00388c4",
         "department": "Art",
         "job": "Graphic Designer"
       }
     ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 9253,
-        "name": "slapstick comedy"
-      },
-      {
-        "id": 12377,
-        "name": "zombie"
-      },
-      {
-        "id": 241031,
-        "name": "gangster comedy"
-      },
-      {
-        "id": 352581,
-        "name": "comedy horror"
-      },
-      {
-        "id": 364488,
-        "name": "zombie comedy"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -286,24 +276,34 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": [
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-01-24T00:00:00.000Z",
-            "type": 4
-          }
-        ]
+        "id": 9253,
+        "name": "slapstick comedy"
+      },
+      {
+        "id": 12377,
+        "name": "zombie"
+      },
+      {
+        "id": 241031,
+        "name": "gangster comedy"
+      },
+      {
+        "id": 352581,
+        "name": "comedy horror"
+      },
+      {
+        "id": 364488,
+        "name": "zombie comedy"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   }
 }

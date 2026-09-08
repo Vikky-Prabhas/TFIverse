@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Chiranjeeva",
   "overview": "What happens when one man starts seeing everyone’s future? A hilarious socio-fantasy ride filled with chaos, charm, and twists of fate!",
-  "popularity": 0.4428,
+  "popularity": 1.8674,
   "poster_path": "/xVjBadMUMB2iHiUVtaUxZHGkFHY.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Raj Tarun",
         "original_name": "Raj Tarun",
-        "popularity": 0.3241,
+        "popularity": 0.7232,
         "profile_path": "/mSPPLTJfzmGRrmTG23IZ4VhWVcp.jpg",
         "cast_id": 1,
         "character": "",
@@ -69,8 +69,8 @@
         "known_for_department": "Acting",
         "name": "Kushitha Kallapu",
         "original_name": "Kushitha Kallapu",
-        "popularity": 0,
-        "profile_path": "/Ai8V9G11slQwkAqwrZSIaTehLU3.jpg",
+        "popularity": 0.4368,
+        "profile_path": "/35fBVU5UY1jl0e6PYgk3UpLLDsC.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "690e2931aebdc1993d874368",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.4141,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 3,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Tasty Teja",
         "original_name": "Tasty Teja",
-        "popularity": 0.0214,
+        "popularity": 0.524,
         "profile_path": "/6XX1ggH6lyruZgGZgHruGjWUv4w.jpg",
         "cast_id": 4,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Sanjay Krishna",
         "original_name": "Sanjay Krishna",
-        "popularity": 0.0379,
+        "popularity": 0.4157,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -125,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Emmanuel",
         "original_name": "Jabardasth Emmanuel",
-        "popularity": 0.0787,
+        "popularity": 0.5429,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -141,7 +141,7 @@
         "known_for_department": "Directing",
         "name": "Abhinaya Krishna",
         "original_name": "Abhinaya Krishna",
-        "popularity": 0,
+        "popularity": 0.7725,
         "profile_path": null,
         "credit_id": "690e551ee24e363ff987454d",
         "department": "Directing",
@@ -149,35 +149,18 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt38589147",
-    "wikidata_id": null,
+    "wikidata_id": "Q136765306",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-11-07T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -203,6 +186,23 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   },

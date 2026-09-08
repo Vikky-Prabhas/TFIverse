@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "People's Encounter",
   "overview": "The film is based on the situations in Andhra Pradesh in the early 1990s",
-  "popularity": 0.1802,
+  "popularity": 1.0619,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Vinod Kumar",
         "original_name": "Vinod Kumar",
-        "popularity": 0.1193,
+        "popularity": 0.6566,
         "profile_path": "/72Sz1EH0Me4MIG7qbvQFsxU6oDA.jpg",
         "cast_id": 3,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 4,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 5,
         "character": "Vishwa",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 6,
         "character": "Savitri",
@@ -106,31 +106,41 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 2359814,
-        "known_for_department": "Directing",
-        "name": "Mohan Gandhi",
-        "original_name": "Mohan Gandhi",
-        "popularity": 0.0731,
-        "profile_path": null,
-        "credit_id": "668d6630b035e8134d9eaee6",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 225318,
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "668d6657060dde57b76b0764",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2359814,
+        "known_for_department": "Directing",
+        "name": "Mohan Gandhi",
+        "original_name": "Mohan Gandhi",
+        "popularity": 0.44,
+        "profile_path": null,
+        "credit_id": "668d6630b035e8134d9eaee6",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0834138",
+    "wikidata_id": "Q7165548",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -152,22 +162,12 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0834138",
-    "wikidata_id": "Q7165548",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

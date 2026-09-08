@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "అదృష్టవంతుడు",
   "overview": "",
-  "popularity": 0.1023,
+  "popularity": 0.8475,
   "poster_path": null,
   "production_companies": [
     {
@@ -46,23 +46,8 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
-  "external_ids": {
-    "imdb_id": "tt0186800",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "credits": {
     "cast": [
@@ -73,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -87,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5977,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 2,
         "character": "",
@@ -101,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2088,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 3,
         "character": "",
@@ -115,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 4,
         "character": "",
@@ -129,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.5446,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 5,
         "character": "",
@@ -143,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 6,
         "character": "",
@@ -157,8 +142,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "694f8c2edb0d7128e48ce52c",
@@ -171,8 +156,8 @@
         "known_for_department": "Acting",
         "name": "Jyothi Lakshmi",
         "original_name": "Jyothi Lakshmi",
-        "popularity": 0.3633,
-        "profile_path": null,
+        "popularity": 1.2725,
+        "profile_path": "/adiJL8TvTsNw3bD0IB9tLSRQpXZ.jpg",
         "cast_id": 8,
         "character": "",
         "credit_id": "694f8c374d7877550afb10e7",
@@ -187,7 +172,7 @@
         "known_for_department": "Writing",
         "name": "Bhamidipati Radhakrishna",
         "original_name": "Bhamidipati Radhakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.5525,
         "profile_path": null,
         "credit_id": "694f8c56db0d7128e48ce52f",
         "department": "Writing",
@@ -200,7 +185,7 @@
         "known_for_department": "Writing",
         "name": "Bhamidipati Radhakrishna",
         "original_name": "Bhamidipati Radhakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.5525,
         "profile_path": null,
         "credit_id": "694f8c6051a689d7eb072eae",
         "department": "Writing",
@@ -213,7 +198,7 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.1238,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "694f8c6d35e86b53f47abdd4",
         "department": "Writing",
@@ -226,7 +211,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "694f8c83c3a6b6044a073238",
         "department": "Sound",
@@ -234,12 +219,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 3615877,
-        "known_for_department": "Crew",
+        "known_for_department": "Camera",
         "name": "Pushpala Gopi Krishna",
         "original_name": "Pushpala Gopi Krishna",
-        "popularity": 0,
+        "popularity": 0.2646,
         "profile_path": null,
         "credit_id": "694f8c915bf3702a7b8eb6e2",
         "department": "Camera",
@@ -252,7 +237,7 @@
         "known_for_department": "Production",
         "name": "Adusumilli Lakshmi Kumar",
         "original_name": "Adusumilli Lakshmi Kumar",
-        "popularity": 0,
+        "popularity": 0.2652,
         "profile_path": null,
         "credit_id": "694f8cb9ad4c32e4ac8ce226",
         "department": "Production",
@@ -265,13 +250,16 @@
         "known_for_department": "Directing",
         "name": "G. C. Sekar",
         "original_name": "G. C. Sekar",
-        "popularity": 0.0071,
+        "popularity": 0.4101,
         "profile_path": null,
         "credit_id": "694f8cc84c308211c68eb8c9",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -289,6 +277,18 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0186800",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": [

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ఆకతాయి",
   "overview": "Vikrant, a tech-savvy student, figures out that he is not the biological son of his parents. When his foster parents get mysteriously murdered, he decided to find who his actual dad and mom are.",
-  "popularity": 0.2168,
+  "popularity": 2.1209,
   "poster_path": "/ccOaGDk1c5PvATxUACNpfYh2gHe.jpg",
   "production_companies": [
     {
@@ -59,6 +59,9 @@
   "video": false,
   "vote_average": 5.5,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -68,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Aashish Raj",
         "original_name": "Aashish Raj",
-        "popularity": 0,
+        "popularity": 0.3743,
         "profile_path": null,
         "cast_id": 0,
         "character": "Vikrant",
@@ -82,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Rukshar Dhillon",
         "original_name": "Rukshar Dhillon",
-        "popularity": 0.4008,
+        "popularity": 0.8526,
         "profile_path": "/2V5Y4Fs7cwIGyUl3nAxArIateGe.jpg",
         "cast_id": 1,
         "character": "Anagha",
@@ -96,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Pradeep Ram Singh Rawat",
         "original_name": "Pradeep Ram Singh Rawat",
-        "popularity": 0.3625,
+        "popularity": 2.5977,
         "profile_path": "/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg",
         "cast_id": 2,
         "character": "Jehangir",
@@ -108,9 +111,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 3,
         "character": "",
@@ -124,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Ameesha Patel",
         "original_name": "Ameesha Patel",
-        "popularity": 1.1836,
+        "popularity": 0.7635,
         "profile_path": "/d6FmmnSylIxvmJezAJLkPpJ9z1t.jpg",
         "cast_id": 4,
         "character": "Item Number",
@@ -137,8 +140,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -152,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Ramki",
         "original_name": "Ramki",
-        "popularity": 0.6093,
+        "popularity": 2.2275,
         "profile_path": "/vLlfDwmoNzQJsmuVQezZbJyb387.jpg",
         "cast_id": 6,
         "character": "",
@@ -166,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 7,
         "character": "",
@@ -180,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Surya Bhagawan Das",
         "original_name": "Surya Bhagawan Das",
-        "popularity": 0.4717,
+        "popularity": 2.0323,
         "profile_path": "/fflRAfFuyvM4QIGkS3EVcqIjVm1.jpg",
         "cast_id": 13,
         "character": "",
@@ -196,7 +199,7 @@
         "known_for_department": "Directing",
         "name": "Rom Bhimana",
         "original_name": "Rom Bhimana",
-        "popularity": 0.0071,
+        "popularity": 0.5219,
         "profile_path": null,
         "credit_id": "5a6937f10e0a260d7b009206",
         "department": "Directing",
@@ -209,7 +212,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.3339,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "5a69383bc3a3685abc00881d",
         "department": "Sound",
@@ -218,11 +221,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1339512,
+        "known_for_department": "Editing",
+        "name": "M. R. Varmaa",
+        "original_name": "M. R. Varmaa",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "5a6939b3c3a3685a7d008197",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1966559,
         "known_for_department": "Directing",
         "name": "Rom Bhimana",
         "original_name": "Rom Bhimana",
-        "popularity": 0.0071,
+        "popularity": 0.5219,
         "profile_path": null,
         "credit_id": "5a6937f89251414a2b008b8d",
         "department": "Writing",
@@ -235,29 +251,13 @@
         "known_for_department": "Camera",
         "name": "Venkat Gangadhari",
         "original_name": "Venkat Gangadhari",
-        "popularity": 0,
+        "popularity": 0.3022,
         "profile_path": null,
         "credit_id": "5a693a279251414a19008fd2",
         "department": "Camera",
         "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1339512,
-        "known_for_department": "Editing",
-        "name": "M. R. Varmaa",
-        "original_name": "M. R. Varmaa",
-        "popularity": 0.1983,
-        "profile_path": null,
-        "credit_id": "5a6939b3c3a3685a7d008197",
-        "department": "Editing",
-        "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt6340092",
@@ -283,42 +283,6 @@
       {
         "id": 207844,
         "name": "college student"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-03-10T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Akatayi",
-        "type": "Telugu"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Asathuranda",
-        "type": "Tamil Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Asatthuranda",
-        "type": "Tamil Dubbed"
       }
     ]
   },
@@ -446,6 +410,42 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Akatayi",
+        "type": "Telugu"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Asathuranda",
+        "type": "Tamil Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Asatthuranda",
+        "type": "Tamil Dubbed"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-03-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "పచ్చీస్‌",
   "overview": "A gambling addict's desperate need for money causes him to venture into an uncharted realm where it seems like things can only get much worse.",
-  "popularity": 0.0746,
+  "popularity": 0.6649,
   "poster_path": "/f0PUZLuWlMWcs8RP4pBVbhVaH5J.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Swetaa Varma",
         "original_name": "Swetaa Varma",
-        "popularity": 0.331,
+        "popularity": 0.8067,
         "profile_path": "/iRmJO40fo2CwpSs5kHznXooYQg0.jpg",
         "cast_id": 3,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.5566,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 4,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2472,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 5,
         "character": "RK",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Dayanand Reddy",
         "original_name": "Dayanand Reddy",
-        "popularity": 0.6659,
+        "popularity": 0.7576,
         "profile_path": "/8rP0hqbamgqPCVkjMhbXtydAYI4.jpg",
         "cast_id": 6,
         "character": "",
@@ -97,26 +97,26 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3122958,
+        "id": 3122957,
         "known_for_department": "Directing",
-        "name": "Rama Sai",
-        "original_name": "Rama Sai",
-        "popularity": 0.0071,
+        "name": "Sri Krishna",
+        "original_name": "Sri Krishna",
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "60c5269493828e00783543ec",
+        "credit_id": "60c526797dfda60046b3c3f2",
         "department": "Directing",
         "job": "Director"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 3122957,
+        "id": 3122958,
         "known_for_department": "Directing",
-        "name": "Sri Krishna",
-        "original_name": "Sri Krishna",
-        "popularity": 0,
+        "name": "Rama Sai",
+        "original_name": "Rama Sai",
+        "popularity": 0.265,
         "profile_path": null,
-        "credit_id": "60c526797dfda60046b3c3f2",
+        "credit_id": "60c5269493828e00783543ec",
         "department": "Directing",
         "job": "Director"
       }
@@ -125,15 +125,15 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt14311942",
-    "wikidata_id": null,
+    "wikidata_id": "Q107348955",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -151,9 +151,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -251,5 +248,8 @@
         "width": 1343
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -31,7 +31,7 @@
   "original_language": "te",
   "original_title": "MAD",
   "overview": "Set in an engineering college and revolves around the antics of the students there, primarily the boys, who get a kick out of torturing the hostel warden.",
-  "popularity": 6.9682,
+  "popularity": 1.7774,
   "poster_path": "/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg",
   "production_companies": [
     {
@@ -68,10 +68,63 @@
   "tagline": "",
   "title": "MAD",
   "video": false,
-  "vote_average": 6.462,
-  "vote_count": 26,
+  "vote_average": 6.569,
+  "vote_count": 29,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt28820189",
+    "wikidata_id": "Q123085104",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "credits": {
     "cast": [
@@ -81,8 +134,8 @@
         "id": 3234630,
         "known_for_department": "Acting",
         "name": "Sangeeth Shobhan",
-        "original_name": "Sangeeth Shobhan",
-        "popularity": 0.6741,
+        "original_name": "సంగీత్ శోభన్",
+        "popularity": 0.8673,
         "profile_path": "/7Vox31bH7XmgPNJzMKGa4uGyjW8.jpg",
         "cast_id": 1,
         "character": "Damodhar \"DD\"",
@@ -96,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Narne Nithin",
         "original_name": "Narne Nithin",
-        "popularity": 0.1617,
+        "popularity": 0.5782,
         "profile_path": "/vMHKPkAyHgW5pBS3ds3Ayp8ROF8.jpg",
         "cast_id": 5,
         "character": "Ashok",
@@ -110,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Ram Nithin",
         "original_name": "Ram Nithin",
-        "popularity": 0.0657,
+        "popularity": 0.6575,
         "profile_path": "/dvGpq6BzgX3lyxu4uWEjp5MF83W.jpg",
         "cast_id": 6,
         "character": "Manoj",
@@ -124,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Oi",
         "original_name": "Vishnu Oi",
-        "popularity": 0.3235,
+        "popularity": 0.5908,
         "profile_path": "/A46W2WAH9T0HK8YkbQZiZAyOaES.jpg",
         "cast_id": 10,
         "character": "Ganesh \"Laddu\"",
@@ -138,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "Sri Gouri Priya Reddy",
         "original_name": "Sri Gouri Priya Reddy",
-        "popularity": 0.7184,
+        "popularity": 2.3211,
         "profile_path": "/aLUBrLtig6XjNltUXRQyNXbTCiV.jpg",
         "cast_id": 7,
         "character": "Shruthi",
@@ -152,7 +205,7 @@
         "known_for_department": "Acting",
         "name": "Ananthika Sanilkumar",
         "original_name": "Ananthika Sanilkumar",
-        "popularity": 0.1902,
+        "popularity": 0.9074,
         "profile_path": "/kseTOgntXALcIiyUbCivxeTDCpG.jpg",
         "cast_id": 8,
         "character": "Jennie Sharma",
@@ -166,7 +219,7 @@
         "known_for_department": "Acting",
         "name": "Gopika Udayan",
         "original_name": "Gopika Udayan",
-        "popularity": 0.0867,
+        "popularity": 0.3522,
         "profile_path": "/pAorpWR3YQ1pnTpTwQ9N4Neidny.jpg",
         "cast_id": 9,
         "character": "Radha",
@@ -179,8 +232,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 2,
         "character": "Purushotham",
@@ -194,7 +247,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.2537,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 11,
         "character": "Ganesh's Father",
@@ -208,7 +261,7 @@
         "known_for_department": "Art",
         "name": "Ravi Anthony",
         "original_name": "Ravi Anthony",
-        "popularity": 0.0511,
+        "popularity": 0.3293,
         "profile_path": null,
         "cast_id": 35,
         "character": "Anthony Rodriguez",
@@ -222,7 +275,7 @@
         "known_for_department": "Acting",
         "name": "Karthikeya Samala",
         "original_name": "Karthikeya Samala",
-        "popularity": 0.0286,
+        "popularity": 0.5051,
         "profile_path": null,
         "cast_id": 42,
         "character": "Shiva",
@@ -236,7 +289,7 @@
         "known_for_department": "Writing",
         "name": "Srikanth N Reddy",
         "original_name": "Srikanth N Reddy",
-        "popularity": 0.0583,
+        "popularity": 0.3617,
         "profile_path": null,
         "cast_id": 36,
         "character": "Srikanth",
@@ -250,7 +303,7 @@
         "known_for_department": "Production",
         "name": "Raghuram Sreepada",
         "original_name": "Raghuram Sreepada",
-        "popularity": 0.0214,
+        "popularity": 0.2663,
         "profile_path": null,
         "cast_id": 37,
         "character": "Xerox Janardhan",
@@ -264,7 +317,7 @@
         "known_for_department": "Acting",
         "name": "Sivannarayana Naripeddi",
         "original_name": "Sivannarayana Naripeddi",
-        "popularity": 0.2705,
+        "popularity": 0.8748,
         "profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
         "cast_id": 39,
         "character": "Shruthi's Father",
@@ -278,7 +331,7 @@
         "known_for_department": "Acting",
         "name": "Racha Ravi",
         "original_name": "Racha Ravi",
-        "popularity": 0.1357,
+        "popularity": 0.6089,
         "profile_path": "/fA6mnllOYcjKNiEYnlmkc0syenN.jpg",
         "cast_id": 34,
         "character": "Peon",
@@ -292,7 +345,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Teja Nannimala",
         "original_name": "Ravi Teja Nannimala",
-        "popularity": 0.1321,
+        "popularity": 1.096,
         "profile_path": "/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg",
         "cast_id": 38,
         "character": "Security Guard",
@@ -306,7 +359,7 @@
         "known_for_department": "Directing",
         "name": "Anudeep",
         "original_name": "Anudeep",
-        "popularity": 0.1468,
+        "popularity": 0.6008,
         "profile_path": "/5JUcvDyerQBoGXtSmBo9wuJA5et.jpg",
         "cast_id": 40,
         "character": "College senior",
@@ -322,7 +375,7 @@
         "known_for_department": "Writing",
         "name": "Kalyan Shankar",
         "original_name": "Kalyan Shankar",
-        "popularity": 0.1363,
+        "popularity": 0.5286,
         "profile_path": null,
         "credit_id": "651c86b5c50ad200eabffd11",
         "department": "Directing",
@@ -335,7 +388,7 @@
         "known_for_department": "Sound",
         "name": "Bheems Ceciroleo",
         "original_name": "Bheems Ceciroleo",
-        "popularity": 0.1797,
+        "popularity": 0.4598,
         "profile_path": "/7hvcYmXPX2AvMf8k8xWhNdn9qZe.jpg",
         "credit_id": "65201af6c50ad2014dd1348b",
         "department": "Sound",
@@ -348,7 +401,7 @@
         "known_for_department": "Production",
         "name": "Sai Soujanya",
         "original_name": "Sai Soujanya",
-        "popularity": 0.1795,
+        "popularity": 0.4016,
         "profile_path": null,
         "credit_id": "65201b76967cc73427f490b2",
         "department": "Production",
@@ -361,7 +414,7 @@
         "known_for_department": "Camera",
         "name": "Shamdat Sainudeen",
         "original_name": "Shamdat Sainudeen",
-        "popularity": 0.1648,
+        "popularity": 0.4793,
         "profile_path": null,
         "credit_id": "65201b130721660139c89b93",
         "department": "Camera",
@@ -374,7 +427,7 @@
         "known_for_department": "Production",
         "name": "Haarika Suryadevara",
         "original_name": "Haarika Suryadevara",
-        "popularity": 0.0071,
+        "popularity": 0.2888,
         "profile_path": null,
         "credit_id": "65201b5774507d00ac48a8e6",
         "department": "Production",
@@ -387,7 +440,7 @@
         "known_for_department": "Editing",
         "name": "Naveen Nooli",
         "original_name": "Naveen Nooli",
-        "popularity": 0.247,
+        "popularity": 0.5164,
         "profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
         "credit_id": "65201b035b1240011d7df51c",
         "department": "Editing",
@@ -400,7 +453,7 @@
         "known_for_department": "Writing",
         "name": "Kalyan Shankar",
         "original_name": "Kalyan Shankar",
-        "popularity": 0.1363,
+        "popularity": 0.5286,
         "profile_path": null,
         "credit_id": "65201a3807216600ff390c03",
         "department": "Writing",
@@ -413,7 +466,7 @@
         "known_for_department": "Sound",
         "name": "M. R. Rajakrishnan",
         "original_name": "M. R. Rajakrishnan",
-        "popularity": 0.2305,
+        "popularity": 0.4325,
         "profile_path": null,
         "credit_id": "65201ba5c50ad2012c1c6571",
         "department": "Sound",
@@ -426,7 +479,7 @@
         "known_for_department": "Camera",
         "name": "Dinesh Krishnan B.",
         "original_name": "Dinesh Krishnan B.",
-        "popularity": 0.0669,
+        "popularity": 0.335,
         "profile_path": null,
         "credit_id": "65201b1b07216600ff390c89",
         "department": "Camera",
@@ -439,7 +492,7 @@
         "known_for_department": "Art",
         "name": "Arasavilli Ram Kumaar",
         "original_name": "Arasavilli Ram Kumaar",
-        "popularity": 0.0071,
+        "popularity": 0.2649,
         "profile_path": null,
         "credit_id": "65201b975b124000ad6907cd",
         "department": "Art",
@@ -452,7 +505,7 @@
         "known_for_department": "Writing",
         "name": "Ravi Kumar Bhaskarabhatla",
         "original_name": "Ravi Kumar Bhaskarabhatla",
-        "popularity": 0.1071,
+        "popularity": 0.3786,
         "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
         "credit_id": "65201bd707216600ff390ce3",
         "department": "Writing",
@@ -465,7 +518,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Chinmayee Kakileti",
         "original_name": "Chinmayee Kakileti",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "65201c3b3d3557013a9faf68",
         "department": "Costume & Make-Up",
@@ -478,7 +531,7 @@
         "known_for_department": "Crew",
         "name": "Karunakar",
         "original_name": "Karunakar",
-        "popularity": 0.0379,
+        "popularity": 0.2828,
         "profile_path": null,
         "credit_id": "65201bb8c50ad2012c1c657a",
         "department": "Crew",
@@ -491,7 +544,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.2919,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "65201c7ac50ad200ad83f9f4",
         "department": "Crew",
@@ -504,7 +557,7 @@
         "known_for_department": "Writing",
         "name": "Kasarla Shyam",
         "original_name": "Kasarla Shyam",
-        "popularity": 0.1615,
+        "popularity": 0.4009,
         "profile_path": null,
         "credit_id": "65201bc8c50ad2014dd13500",
         "department": "Writing",
@@ -517,7 +570,7 @@
         "known_for_department": "Directing",
         "name": "Vijay Kumar Moturi",
         "original_name": "Vijay Kumar Moturi",
-        "popularity": 0,
+        "popularity": 0.2495,
         "profile_path": null,
         "credit_id": "65201c24967cc734260c6d5e",
         "department": "Directing",
@@ -530,7 +583,7 @@
         "known_for_department": "Production",
         "name": "Anand Rajendran",
         "original_name": "Anand Rajendran",
-        "popularity": 0.13,
+        "popularity": 0.3216,
         "profile_path": null,
         "credit_id": "65201c61967cc73425f38f08",
         "department": "Production",
@@ -543,7 +596,7 @@
         "known_for_department": "Writing",
         "name": "Bombay Bole",
         "original_name": "Bombay Bole",
-        "popularity": 0.0071,
+        "popularity": 0.2543,
         "profile_path": null,
         "credit_id": "65201beb3d355700adb61106",
         "department": "Writing",
@@ -556,7 +609,7 @@
         "known_for_department": "Writing",
         "name": "Raghuram",
         "original_name": "Raghuram",
-        "popularity": 0.0495,
+        "popularity": 0.2656,
         "profile_path": null,
         "credit_id": "65201bf807216600ff390cf4",
         "department": "Writing",
@@ -569,7 +622,7 @@
         "known_for_department": "Crew",
         "name": "Lakshmi Venugopal",
         "original_name": "Lakshmi Venugopal",
-        "popularity": 0.1132,
+        "popularity": 0.3108,
         "profile_path": "/jUbNekFC04sxG2obEqwt28FGhsA.jpg",
         "credit_id": "65201c73967cc73425f38f0f",
         "department": "Crew",
@@ -582,7 +635,7 @@
         "known_for_department": "Crew",
         "name": "PRO Nani",
         "original_name": "PRO Nani",
-        "popularity": 0.0143,
+        "popularity": 0.2788,
         "profile_path": null,
         "credit_id": "65201c873d355700c5f39acd",
         "department": "Crew",
@@ -595,7 +648,7 @@
         "known_for_department": "Editing",
         "name": "Vivek Anand",
         "original_name": "Vivek Anand",
-        "popularity": 0.1617,
+        "popularity": 0.3773,
         "profile_path": "/hWnKDWqENHGXENnWis9MG8cThKf.jpg",
         "credit_id": "652021175b1240013c7cd02c",
         "department": "Editing",
@@ -608,20 +661,13 @@
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "67615251870cc3c00fb5004c",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt28820189",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -771,12 +817,22 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/rPcCHNdyqwfck4UkvbUPuZyao4f.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 2048,
         "iso_3166_1": "US",
         "iso_639_1": "en",
         "file_path": "/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 1366
       },
       {
@@ -788,16 +844,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1067
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/rPcCHNdyqwfck4UkvbUPuZyao4f.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
       },
       {
         "aspect_ratio": 0.667,
@@ -828,52 +874,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 853
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "CA",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-10-06T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      },
-      {
-        "iso_3166_1": "GB",
-        "release_dates": [
-          {
-            "certification": "12A",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-10-07T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      },
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-10-06T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

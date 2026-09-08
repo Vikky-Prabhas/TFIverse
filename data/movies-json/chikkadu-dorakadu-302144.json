@@ -30,7 +30,7 @@
   "original_language": "te",
   "original_title": "చిక్కడు దొరకడు",
   "overview": "The adventures of Chikkadu and Dorakadu to find the hidden treasure and to eliminate the baddies from their kingdom.",
-  "popularity": 0.3148,
+  "popularity": 0.5682,
   "poster_path": "/cAo5bbgb2uVCa39VGo9D8hmyf0D.jpg",
   "production_companies": [],
   "production_countries": [
@@ -56,6 +56,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt0854121",
+    "wikidata_id": "Q25207994",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -65,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 4,
         "character": "Chikkadu",
@@ -79,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.1879,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 5,
         "character": "Dorakadu / Dilipa Chakravarthy",
@@ -91,9 +101,9 @@
         "gender": 1,
         "id": 1123523,
         "known_for_department": "Acting",
-        "name": "Jayalalithaa J",
-        "original_name": "Jayalalithaa J",
-        "popularity": 0.1702,
+        "name": "J. Jayalalithaa",
+        "original_name": "ஜெ. ஜெயலலிதா",
+        "popularity": 1.0387,
         "profile_path": "/znPZmcmM1CXaMLEJc0nHrtUb9kE.jpg",
         "cast_id": 3,
         "character": "Priyamvada Devi",
@@ -107,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Kumari",
         "original_name": "Krishna Kumari",
-        "popularity": 0.2172,
+        "popularity": 0.5892,
         "profile_path": "/fNt3SvjChrIjjhX6SsVgZhAPV27.jpg",
         "cast_id": 6,
         "character": "Padmavathi Devi",
@@ -121,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Mikkilineni",
         "original_name": "Mikkilineni",
-        "popularity": 0.2719,
+        "popularity": 1.1035,
         "profile_path": "/hixximPs8FRe2pHlBjqyi01ZwyY.jpg",
         "cast_id": 7,
         "character": "",
@@ -135,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 8,
         "character": "",
@@ -148,9 +158,9 @@
         "id": 1423167,
         "known_for_department": "Acting",
         "name": "Vijayalalitha",
-        "original_name": "Vijayalalitha",
-        "popularity": 0.1739,
-        "profile_path": null,
+        "original_name": "விஜயலலிதா",
+        "popularity": 0.6471,
+        "profile_path": "/fT1jNft9jbaVpPAmaE3de34wdpO.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "66083602021cee017c4aaef0",
@@ -163,7 +173,7 @@
         "known_for_department": "Acting",
         "name": "Chhaya Devi",
         "original_name": "Chhaya Devi",
-        "popularity": 0.2364,
+        "popularity": 1.1509,
         "profile_path": "/x8uKV8mWfFQytCanKLWi5Pyz2Ao.jpg",
         "cast_id": 10,
         "character": "",
@@ -179,7 +189,7 @@
         "known_for_department": "Directing",
         "name": "B. Vittalacharya",
         "original_name": "B. Vittalacharya",
-        "popularity": 0.1769,
+        "popularity": 1.2261,
         "profile_path": "/5VVol9nOqcUhjUyspmjA27daqVC.jpg",
         "credit_id": "5f612ae9069f0e00359f26df",
         "department": "Directing",
@@ -192,13 +202,16 @@
         "known_for_department": "Writing",
         "name": "Vituri",
         "original_name": "Vituri",
-        "popularity": 0.0286,
+        "popularity": 0.2647,
         "profile_path": null,
         "credit_id": "5f612af1db154f0037fe6dd4",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -215,19 +228,6 @@
         "width": 500
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0854121",
-    "wikidata_id": "Q25207994",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [

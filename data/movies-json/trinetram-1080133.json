@@ -20,8 +20,8 @@
   "original_language": "te",
   "original_title": "Trinetram",
   "overview": "Using black magic, an evil spirit tries to harm the husband of a devotee of Goddess Durga. Although she tries many tricks, she finally succumbs to the wife's faith in god and leaves the man unharmed.",
-  "popularity": 0.187,
-  "poster_path": null,
+  "popularity": 0.8829,
+  "poster_path": "/eVHrOwilo71aOuDDAzGKFTSqbN2.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "2002-01-01",
@@ -35,6 +35,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -44,8 +47,8 @@
         "known_for_department": "Acting",
         "name": "Raasi",
         "original_name": "Raasi",
-        "popularity": 0.7164,
-        "profile_path": "/te4b8v3SbrPYX81qAY4SeJBccVP.jpg",
+        "popularity": 1.3424,
+        "profile_path": "/e3K8Oq0qjzAthJr67ptKUVnaP02.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "63d648f1c15b5500f0b731b0",
@@ -58,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Shiju",
         "original_name": "Shiju",
-        "popularity": 0.1349,
+        "popularity": 1.6122,
         "profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
         "cast_id": 3,
         "character": "",
@@ -74,26 +77,13 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.2546,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "63d648df3dc313009defe02b",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt8857488",
-    "wikidata_id": "Q126102664",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -112,12 +102,33 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt8857488",
+    "wikidata_id": "Q126102664",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
-    "posters": []
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eVHrOwilo71aOuDDAzGKFTSqbN2.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

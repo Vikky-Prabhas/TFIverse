@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Radha Gopalam",
   "overview": "Gopalam (Srikanth) performs tapas and gets Radha (Sneha) as his wife. Gopalam is an assistant public prosecutor. Radha is the daughter of Judge (Ranganath). She applies for a law degree after marriage and passes the exams with high honors. Radha is superior and more talented than Gopalam at work. This trait infuriates Gopalam and it causes a rift between him and Radha. The rest of the story is all about how they survive the ego tiff.",
-  "popularity": 0.4023,
+  "popularity": 1.4136,
   "poster_path": "/ApKVCu0oeHaIdYgWqH4dCHWO5eD.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,6 +44,9 @@
   "video": false,
   "vote_average": 6.75,
   "vote_count": 4,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -53,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 0,
         "character": "",
@@ -67,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Sneha",
         "original_name": "Sneha",
-        "popularity": 3.6828,
+        "popularity": 3.2155,
         "profile_path": "/cCfLk43SbEcx1lAzja037wKTzAs.jpg",
         "cast_id": 1,
         "character": "",
@@ -81,8 +84,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "57a63d8092514118d80024ea",
@@ -95,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 3,
         "character": "",
@@ -108,8 +111,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -125,24 +128,11 @@
         "known_for_department": "Directing",
         "name": "Bapu",
         "original_name": "Bapu",
-        "popularity": 0.3507,
+        "popularity": 1.3469,
         "profile_path": null,
         "credit_id": "61b65cb2873f00001b133351",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3730323,
-        "known_for_department": "Camera",
-        "name": "Murali Y Krishna",
-        "original_name": "Murali Y Krishna",
-        "popularity": 0.0071,
-        "profile_path": "/p0LVlXgaxihRPzTWcEsyT7BAeHm.jpg",
-        "credit_id": "634196f91b7c590079183a7b",
-        "department": "Camera",
-        "job": "Camera Operator"
       },
       {
         "adult": false,
@@ -151,36 +141,36 @@
         "known_for_department": "Camera",
         "name": "R. K. Raju",
         "original_name": "R. K. Raju",
-        "popularity": 0.0143,
+        "popularity": 0.2632,
         "profile_path": null,
         "credit_id": "634196cde1ad790079ea81d4",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3730323,
+        "known_for_department": "Camera",
+        "name": "Murali Y Krishna",
+        "original_name": "Murali Y Krishna",
+        "popularity": 0.2715,
+        "profile_path": "/p0LVlXgaxihRPzTWcEsyT7BAeHm.jpg",
+        "credit_id": "634196f91b7c590079183a7b",
+        "department": "Camera",
+        "job": "Camera Operator"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt0432011",
+    "wikidata_id": "Q7280171",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2005-02-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [],
@@ -208,12 +198,22 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0432011",
-    "wikidata_id": "Q7280171",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-02-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

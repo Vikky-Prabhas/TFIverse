@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pranam",
   "overview": "Film starring M.S. Narayana, Allari Naresh and Rallapalli",
-  "popularity": 0.2494,
+  "popularity": 1.8069,
   "poster_path": "/jNWflRzQ64OIbuV4yww0qpuqU1v.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,9 +34,6 @@
   "video": false,
   "vote_average": 3,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -46,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Allari Naresh",
         "original_name": "Allari Naresh",
-        "popularity": 0.6832,
+        "popularity": 1.9234,
         "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
         "cast_id": 4,
         "character": "Sivudu / Kaasi",
@@ -60,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Sadha",
         "original_name": "Sadha",
-        "popularity": 0.485,
+        "popularity": 1.0222,
         "profile_path": "/odbgKzeByn3Zq5LysHkiXPezElx.jpg",
         "cast_id": 5,
         "character": "Kathyayani / Uma",
@@ -74,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Seetha",
         "original_name": "Seetha",
-        "popularity": 0.6869,
+        "popularity": 5.0529,
         "profile_path": "/gMIqg8c4gnP9mO40rCW7Sc0ei8D.jpg",
         "cast_id": 6,
         "character": "Sivudu's mother",
@@ -88,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 7,
         "character": "Uma's brother",
@@ -102,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.2205,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 8,
         "character": "Uma's brother's nephew",
@@ -116,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Anitha Chowdary",
         "original_name": "Anitha Chowdary",
-        "popularity": 0.6018,
+        "popularity": 1.4382,
         "profile_path": "/eKt7WZOpzaoGRgtdt787u6cnucj.jpg",
         "cast_id": 9,
         "character": "",
@@ -130,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -143,8 +140,8 @@
         "id": 435722,
         "known_for_department": "Acting",
         "name": "Kovai Sarala",
-        "original_name": "Kovai Sarala",
-        "popularity": 0.7882,
+        "original_name": "கோவை சரளா",
+        "popularity": 2.3248,
         "profile_path": "/rujbfPg6rp9DOphQZYUjll7KNPz.jpg",
         "cast_id": 11,
         "character": "",
@@ -158,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -172,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Rajan P Dev",
         "original_name": "Rajan P Dev",
-        "popularity": 0.7002,
+        "popularity": 3.6482,
         "profile_path": "/AnxJVFT3LnEOMzNhnR90zzASWVW.jpg",
         "cast_id": 13,
         "character": "",
@@ -183,16 +180,16 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 4493605,
-        "known_for_department": "Directing",
-        "name": "Malli",
-        "original_name": "Malli",
-        "popularity": 0.0526,
+        "gender": 2,
+        "id": 1653868,
+        "known_for_department": "Editing",
+        "name": "Basava Peddireddy",
+        "original_name": "Basava Peddireddy",
+        "popularity": 0.282,
         "profile_path": null,
-        "credit_id": "65ae196867b613010c5ff039",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "65ae1998f8aee8010b1f1e44",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -201,7 +198,7 @@
         "known_for_department": "Camera",
         "name": "Bharani K. Dharan",
         "original_name": "Bharani K. Dharan",
-        "popularity": 0.0737,
+        "popularity": 0.2634,
         "profile_path": null,
         "credit_id": "65ae198d67b61300afefc3c9",
         "department": "Crew",
@@ -209,18 +206,50 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 1653868,
-        "known_for_department": "Editing",
-        "name": "Basava Peddireddy",
-        "original_name": "Basava Peddireddy",
-        "popularity": 0.1031,
+        "gender": 0,
+        "id": 4493605,
+        "known_for_department": "Directing",
+        "name": "Malli",
+        "original_name": "Malli",
+        "popularity": 0.3543,
         "profile_path": null,
-        "credit_id": "65ae1998f8aee8010b1f1e44",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "65ae196867b613010c5ff039",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1285133",
+    "wikidata_id": "Q7237200",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/jNWflRzQ64OIbuV4yww0qpuqU1v.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -236,35 +265,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1285133",
-    "wikidata_id": "Q7237200",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/jNWflRzQ64OIbuV4yww0qpuqU1v.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   }

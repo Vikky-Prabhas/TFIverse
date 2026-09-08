@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Wife Off",
   "overview": "Avani marries her childhood love but soon faces unexpected trauma. What follows is a tale of vengeance with twists and turns at every corner.",
-  "popularity": 0.0388,
+  "popularity": 0.7458,
   "poster_path": "/97qsW2wdIfeslTQn4n0JaZTbusC.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Divyasree Gurugubelli",
         "original_name": "Divyasree Gurugubelli",
-        "popularity": 0,
+        "popularity": 0.289,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Abhinav Manikanta",
         "original_name": "Abhinav Manikanta",
-        "popularity": 0.0143,
+        "popularity": 0.2352,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Nikhil Gajula",
         "original_name": "Nikhil Gajula",
-        "popularity": 0.0168,
+        "popularity": 0.4473,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -96,7 +96,7 @@
         "known_for_department": "Directing",
         "name": "Bhanu Yerubandi",
         "original_name": "Bhanu Yerubandi",
-        "popularity": 0,
+        "popularity": 0.306,
         "profile_path": null,
         "credit_id": "67920d807c2da21c06b57c85",
         "department": "Directing",
@@ -109,31 +109,11 @@
         "known_for_department": "Sound",
         "name": "Praneeth Namboori",
         "original_name": "Praneeth Namboori",
-        "popularity": 0,
+        "popularity": 0.284,
         "profile_path": null,
         "credit_id": "67920d9ba5176ed97e4705e7",
         "department": "Sound",
         "job": "Music Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-01-23T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   },
@@ -171,10 +151,30 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-01-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

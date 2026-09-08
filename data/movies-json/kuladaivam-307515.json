@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Kuladaivam",
   "overview": "",
-  "popularity": 0.0261,
+  "popularity": 0.4059,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -31,19 +31,9 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0390174",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [],
     "crew": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -62,12 +52,22 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0390174",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

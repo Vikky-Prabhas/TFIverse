@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ప్రయాణం",
   "overview": "This is a story of a boy and girl who meet for the first time in an airport and fall in love before they board their respective flights. Dhruv is the boy and Harika is the girl. Both of them are two distinctive individuals. Dhruv is a kind of boy who loves to take chances in life. Harika is the one who likes to make right choices in life, She is doing Masters in Lifestyles Design Academy in Malaysia. Right now she is on her way to INDIA to meet a prospective groom whom her parents have chosen for her. Dhruv falls in love at first sight with Harika when he sees her in airport. But he has only two hours to make her fall in love with him. The rest of the story is all about how he succeeds in it.",
-  "popularity": 0.2711,
+  "popularity": 1.1632,
   "poster_path": "/iIYZn1knh5WXd2fEgGGenFclpBW.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,123 +46,14 @@
   "tagline": "",
   "title": "Prayanam",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 3,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1013090,
-        "known_for_department": "Acting",
-        "name": "Manchu Manoj",
-        "original_name": "Manchu Manoj",
-        "popularity": 0.5266,
-        "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "52fe48319251416c9108387f",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1107253,
-        "known_for_department": "Acting",
-        "name": "Payal Ghosh",
-        "original_name": "Payal Ghosh",
-        "popularity": 0.0859,
-        "profile_path": "/zxpg0LUqHQvqBGuuBeZ9i1SxpfN.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "52fe48319251416c91083883",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "52fe48319251416c91083887",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1107254,
-        "known_for_department": "Acting",
-        "name": "Kalpika Ganesh",
-        "original_name": "Kalpika Ganesh",
-        "popularity": 0.3044,
-        "profile_path": "/7q7UPxKI3Kuw9hC3QpNBxULzBuh.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "52fe48319251416c9108388b",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107255,
-        "known_for_department": "Acting",
-        "name": "Janardhan",
-        "original_name": "Janardhan",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "52fe48319251416c9108388f",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1107256,
-        "known_for_department": "Acting",
-        "name": "Tameem",
-        "original_name": "Tameem",
-        "popularity": 0.0429,
-        "profile_path": null,
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "52fe48319251416c91083893",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1107252,
-        "known_for_department": "Directing",
-        "name": "Chandra Sekhar Yeleti",
-        "original_name": "Chandra Sekhar Yeleti",
-        "popularity": 0.2855,
-        "profile_path": "/2N4mhSqWaJ3ztTDvb0c9xRZM0fb.jpg",
-        "credit_id": "52fe48319251416c9108387b",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
+  "vote_average": 6.5,
+  "vote_count": 4,
   "external_ids": {
     "imdb_id": "tt1473105",
     "wikidata_id": "Q7238993",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -180,6 +71,115 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013090,
+        "known_for_department": "Acting",
+        "name": "Manchu Manoj",
+        "original_name": "Manchu Manoj",
+        "popularity": 2.0359,
+        "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe48319251416c9108387f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107253,
+        "known_for_department": "Acting",
+        "name": "Payal Ghosh",
+        "original_name": "Payal Ghosh",
+        "popularity": 0.4713,
+        "profile_path": "/zxpg0LUqHQvqBGuuBeZ9i1SxpfN.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "52fe48319251416c91083883",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe48319251416c91083887",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107254,
+        "known_for_department": "Acting",
+        "name": "Kalpika Ganesh",
+        "original_name": "Kalpika Ganesh",
+        "popularity": 1.2863,
+        "profile_path": "/7q7UPxKI3Kuw9hC3QpNBxULzBuh.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe48319251416c9108388b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107255,
+        "known_for_department": "Acting",
+        "name": "Janardhan",
+        "original_name": "Janardhan",
+        "popularity": 0.6267,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "52fe48319251416c9108388f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107256,
+        "known_for_department": "Acting",
+        "name": "Tameem",
+        "original_name": "Tameem",
+        "popularity": 0.4672,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "52fe48319251416c91083893",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107252,
+        "known_for_department": "Directing",
+        "name": "Chandra Sekhar Yeleti",
+        "original_name": "Chandra Sekhar Yeleti",
+        "popularity": 0.7025,
+        "profile_path": "/2N4mhSqWaJ3ztTDvb0c9xRZM0fb.jpg",
+        "credit_id": "52fe48319251416c9108387b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [

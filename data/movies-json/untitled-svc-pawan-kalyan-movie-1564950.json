@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Untitled SVC - Pawan Kalyan Movie",
   "overview": "",
-  "popularity": 0.0861,
+  "popularity": 0.9027,
   "poster_path": null,
   "production_companies": [
     {
@@ -46,6 +46,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -55,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Pawan Kalyan",
         "original_name": "పవన్ కళ్యాణ్",
-        "popularity": 0.9856,
+        "popularity": 2.1916,
         "profile_path": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg",
         "cast_id": 1,
         "character": "",
@@ -71,7 +74,7 @@
         "known_for_department": "Production",
         "name": "Dil Raju",
         "original_name": "Dil Raju",
-        "popularity": 0.0949,
+        "popularity": 0.5112,
         "profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
         "credit_id": "692d439204bf856d62398bc4",
         "department": "Production",
@@ -84,7 +87,7 @@
         "known_for_department": "Production",
         "name": "Shirish",
         "original_name": "Shirish",
-        "popularity": 0.1221,
+        "popularity": 0.3609,
         "profile_path": null,
         "credit_id": "692d439b7e0dcb66bb511fae",
         "department": "Production",
@@ -92,10 +95,7 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
+  "release_dates": {
     "results": []
   },
   "external_ids": {
@@ -105,6 +105,9 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "keywords": {
     "keywords": []
   },
@@ -112,8 +115,5 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "release_dates": {
-    "results": []
   }
 }

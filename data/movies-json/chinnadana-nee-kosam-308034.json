@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "చిన్నదానా  నీ  కోసం",
   "overview": "Nithin falls in love with Nandini and tries to woo her while their friendship blooms. However, Nandini leaves for a Europe trip with Reddy Garu without informing him which causes him to tail them.",
-  "popularity": 0.3283,
+  "popularity": 1.8042,
   "poster_path": "/aU8JNpWSNj9SVPLfSbInM5zhU5f.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -41,8 +41,18 @@
   "tagline": "",
   "title": "Chinnadana Nee Kosam",
   "video": false,
-  "vote_average": 5.8,
-  "vote_count": 6,
+  "vote_average": 5.625,
+  "vote_count": 8,
+  "external_ids": {
+    "imdb_id": "tt4305766",
+    "wikidata_id": "Q18111213",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 1.7752,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 2,
         "character": "",
@@ -66,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Mishti Chakravarty",
         "original_name": "Mishti Chakravarty",
-        "popularity": 0.3538,
+        "popularity": 0.5018,
         "profile_path": "/dp4dELhzoiYYc8L5KYSenvbq0YF.jpg",
         "cast_id": 3,
         "character": "",
@@ -80,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4637,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 4,
         "character": "",
@@ -94,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.5508,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 5,
         "character": "",
@@ -108,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Sithara",
         "original_name": "Sithara",
-        "popularity": 0.422,
+        "popularity": 0.837,
         "profile_path": "/9km7P6HyYOg0qMFMicgbg64Fkn5.jpg",
         "cast_id": 6,
         "character": "",
@@ -120,9 +130,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 7,
         "character": "",
@@ -138,7 +148,7 @@
         "known_for_department": "Directing",
         "name": "A. Karunakaran",
         "original_name": "A. Karunakaran",
-        "popularity": 0.2258,
+        "popularity": 0.8228,
         "profile_path": "/6bh35iAEujdtE4wbR5XCJbIdntt.jpg",
         "credit_id": "556727da925141477d001c2d",
         "department": "Writing",
@@ -151,7 +161,7 @@
         "known_for_department": "Directing",
         "name": "A. Karunakaran",
         "original_name": "A. Karunakaran",
-        "popularity": 0.2258,
+        "popularity": 0.8228,
         "profile_path": "/6bh35iAEujdtE4wbR5XCJbIdntt.jpg",
         "credit_id": "556727d1c3a368174600192c",
         "department": "Directing",
@@ -164,7 +174,7 @@
         "known_for_department": "Sound",
         "name": "Anudeep Dev",
         "original_name": "Anudeep Dev",
-        "popularity": 0.1481,
+        "popularity": 0.422,
         "profile_path": "/xgSw7SmN20QhC1YXSiBmzr4dVIG.jpg",
         "credit_id": "65b73953d55c3d017cfa8f06",
         "department": "Sound",
@@ -172,44 +182,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt4305766",
-    "wikidata_id": "Q18111213",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Sabse Badhkar Hum 3",
-        "type": "Hindi Dubbed"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2014-12-25T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -255,6 +229,32 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Sabse Badhkar Hum 3",
+        "type": "Hindi Dubbed"
       }
     ]
   }

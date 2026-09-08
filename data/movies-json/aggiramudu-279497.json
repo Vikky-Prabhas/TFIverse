@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అగ్గిరాముడు",
   "overview": "",
-  "popularity": 0.2722,
+  "popularity": 1.6606,
   "poster_path": "/awlFTUJcpIrlHhD7atHNKcHBjlM.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.1208,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "Aggi Ramudu / Vijay",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Amala Akkineni",
         "original_name": "Amala Akkineni",
-        "popularity": 0.508,
+        "popularity": 2.5656,
         "profile_path": "/fyBWFzUTya2GVIx74NX9cX7ZtfL.jpg",
         "cast_id": 4,
         "character": "Manasa",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gautami Tadimalla",
         "original_name": "Gautami Tadimalla",
-        "popularity": 0.5163,
+        "popularity": 1.9093,
         "profile_path": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg",
         "cast_id": 5,
         "character": "Malli",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Sharada",
         "original_name": "Sharada",
-        "popularity": 0.4022,
+        "popularity": 1.7033,
         "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
         "cast_id": 6,
         "character": "Justice Janaki Devi",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.5679,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 7,
         "character": "Saroja",
@@ -122,8 +122,8 @@
         "id": 467845,
         "known_for_department": "Acting",
         "name": "Rohini",
-        "original_name": "Rohini",
-        "popularity": 0.8977,
+        "original_name": "రోహిణి",
+        "popularity": 5.9439,
         "profile_path": "/oeT5DXeqsTY17DtJLTGpQec91fr.jpg",
         "cast_id": 8,
         "character": "Manasa (voice)",
@@ -139,7 +139,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b17fe4c3a3682eee0065c7",
         "department": "Sound",
@@ -152,7 +152,7 @@
         "known_for_department": "Production",
         "name": "Sekar M Krishna",
         "original_name": "Sekar M Krishna",
-        "popularity": 0.0071,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "53b17fea0e0a26597d00839e",
         "department": "Production",
@@ -165,7 +165,7 @@
         "known_for_department": "Directing",
         "name": "S S Ravichandra",
         "original_name": "S S Ravichandra",
-        "popularity": 0.0071,
+        "popularity": 0.4484,
         "profile_path": null,
         "credit_id": "53b17fe3c3a3682ed80063a1",
         "department": "Directing",
@@ -186,6 +186,23 @@
   "keywords": {
     "keywords": []
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1990-04-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -204,22 +221,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1990-04-17T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

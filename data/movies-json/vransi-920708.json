@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": "/iZbZjYflt859q8hR7bsvApeDLr5.jpg",
+  "backdrop_path": "/pTHqIW0CN5LeB1Uk8hxGpySGGOG.jpg",
   "belongs_to_collection": null,
   "budget": 150000000,
   "genres": [
@@ -26,8 +26,8 @@
   "original_language": "te",
   "original_title": "వారణాసి",
   "overview": "Follows Rudhra's perilous adventures as ancient Varanasi stands on the brink of catastrophe from a looming asteroid in 2027 CE, unfolding across multiple timelines and distant continents.",
-  "popularity": 2.0296,
-  "poster_path": "/bBl3z0bMqt9piOmLDzgbKR8RECJ.jpg",
+  "popularity": 3.4273,
+  "poster_path": "/9XHgX5XEQt95nwZIlp2yiMaw65D.jpg",
   "production_companies": [
     {
       "id": 98173,
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Babu",
         "original_name": "Mahesh Babu",
-        "popularity": 3.8257,
+        "popularity": 2.406,
         "profile_path": "/fcxgYi1h6vywacUg8asM6S0IIhf.jpg",
         "cast_id": 1,
         "character": "Rudhra / Lord Rama",
@@ -88,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Priyanka Chopra Jonas",
         "original_name": "Priyanka Chopra Jonas",
-        "popularity": 7.4703,
-        "profile_path": "/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg",
+        "popularity": 5.3523,
+        "profile_path": "/hh48u9scic0nITGtzi9b6rJeAtT.jpg",
         "cast_id": 22,
         "character": "Mandakini",
         "credit_id": "67947552559e2d974b485a47",
@@ -101,9 +101,9 @@
         "id": 117690,
         "known_for_department": "Acting",
         "name": "Prithviraj Sukumaran",
-        "original_name": "Prithviraj Sukumaran",
-        "popularity": 1.9703,
-        "profile_path": "/oxLS80XtmMJVHbTfFCfXMJvE5i9.jpg",
+        "original_name": "പൃഥ്വിരാജ് സുകുമാരൻ",
+        "popularity": 12.8908,
+        "profile_path": "/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg",
         "cast_id": 23,
         "character": "Kumbha",
         "credit_id": "67c5cfe14b1639904ae77353",
@@ -115,13 +115,27 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 52,
         "character": "",
         "credit_id": "694aa634c0569d5cb3fb1b7c",
         "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2225027,
+        "known_for_department": "Acting",
+        "name": "Raja Chembolu",
+        "original_name": "Raja Chembolu",
+        "popularity": 0.8764,
+        "profile_path": "/hWYmCpzj6MeuCUVxBCoK2Gbd6ge.jpg",
+        "cast_id": 56,
+        "character": "",
+        "credit_id": "6a0e94df4407148cae461e07",
+        "order": 4
       }
     ],
     "crew": [
@@ -131,9 +145,9 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.0192,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "61caf389c7c224004186cd06",
         "department": "Directing",
         "job": "Director"
@@ -144,8 +158,8 @@
         "id": 147022,
         "known_for_department": "Writing",
         "name": "Vijayendra Prasad",
-        "original_name": "Vijayendra Prasad",
-        "popularity": 0.3763,
+        "original_name": "వి. విజయేంద్ర ప్రసాద్",
+        "popularity": 2.1807,
         "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
         "credit_id": "65aab3bf7caa470136098bf2",
         "department": "Writing",
@@ -158,7 +172,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "65ad2bb5158c8500ebb8d1f7",
         "department": "Sound",
@@ -171,7 +185,7 @@
         "known_for_department": "Production",
         "name": "K. L. Narayana",
         "original_name": "K. L. Narayana",
-        "popularity": 0.0404,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "65cb1416a06efe0163763176",
         "department": "Production",
@@ -184,7 +198,7 @@
         "known_for_department": "Editing",
         "name": "Bikkina Thammiraju",
         "original_name": "Bikkina Thammiraju",
-        "popularity": 0.2198,
+        "popularity": 0.4287,
         "profile_path": null,
         "credit_id": "65d1b79e77c01f01870f5200",
         "department": "Editing",
@@ -197,7 +211,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Vinod",
         "original_name": "P. S. Vinod",
-        "popularity": 0.217,
+        "popularity": 0.4138,
         "profile_path": null,
         "credit_id": "66e9821d5168a896e11ebebf",
         "department": "Camera",
@@ -210,7 +224,7 @@
         "known_for_department": "Sound",
         "name": "Kaala Bhairava",
         "original_name": "Kaala Bhairava",
-        "popularity": 0.0856,
+        "popularity": 0.4295,
         "profile_path": null,
         "credit_id": "69120c5514dc73b323d25cc5",
         "department": "Sound",
@@ -223,7 +237,7 @@
         "known_for_department": "Writing",
         "name": "Chaitanya Prasad",
         "original_name": "Chaitanya Prasad",
-        "popularity": 0.0566,
+        "popularity": 0.3361,
         "profile_path": null,
         "credit_id": "69120c6db5004f2d5ea0cbdd",
         "department": "Writing",
@@ -236,7 +250,7 @@
         "known_for_department": "Acting",
         "name": "Shruti Haasan",
         "original_name": "Shruti Haasan",
-        "popularity": 1.5472,
+        "popularity": 1.8155,
         "profile_path": "/1zYJuSccSA45VVBdgozpRcL99Rd.jpg",
         "credit_id": "6916c501ef8b0e08de876814",
         "department": "Sound",
@@ -244,12 +258,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1606145,
         "known_for_department": "Costume & Make-Up",
         "name": "Rama Rajamouli",
         "original_name": "Rama Rajamouli",
-        "popularity": 0.2437,
+        "popularity": 0.3836,
         "profile_path": null,
         "credit_id": "6918780b5a5c69041b40ece7",
         "department": "Costume & Make-Up",
@@ -262,7 +276,7 @@
         "known_for_department": "Production",
         "name": "S. S. Karthikeya",
         "original_name": "S S Karthikeya",
-        "popularity": 0.2215,
+        "popularity": 0.5918,
         "profile_path": "/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg",
         "credit_id": "69187819a5ef06b8d24c9bae",
         "department": "Production",
@@ -270,13 +284,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1606118,
         "known_for_department": "Visual Effects",
         "name": "V. Srinivas Mohan",
         "original_name": "V. Srinivas Mohan",
-        "popularity": 0.1691,
-        "profile_path": null,
+        "popularity": 0.3028,
+        "profile_path": "/8bTun5Am1UGV9kD9bXLvBR7uAZn.jpg",
         "credit_id": "6918782b7a7eb793f69ae39c",
         "department": "Visual Effects",
         "job": "Visual Effects Supervisor"
@@ -288,7 +302,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "691d56962250d1afcf2d029b",
         "department": "Writing",
@@ -301,7 +315,7 @@
         "known_for_department": "Directing",
         "name": "Deva Katta",
         "original_name": "Deva Katta",
-        "popularity": 0.2626,
+        "popularity": 0.5414,
         "profile_path": null,
         "credit_id": "691d56a1c91fc39b332e18c3",
         "department": "Writing",
@@ -309,12 +323,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2162375,
         "known_for_department": "Crew",
         "name": "King Solomon",
         "original_name": "King Solomon",
-        "popularity": 0.1244,
+        "popularity": 0.3576,
         "profile_path": null,
         "credit_id": "691d56ceeb917c9c2824f384",
         "department": "Crew",
@@ -327,7 +341,7 @@
         "known_for_department": "Production",
         "name": "Sri Valli M M",
         "original_name": "Sri Valli M M",
-        "popularity": 0.0745,
+        "popularity": 0.2847,
         "profile_path": null,
         "credit_id": "691d56db633ea4398924f320",
         "department": "Production",
@@ -335,12 +349,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2325136,
         "known_for_department": "Art",
         "name": "Mohan Bingi",
         "original_name": "Mohan Bingi",
-        "popularity": 0.0143,
+        "popularity": 0.4351,
         "profile_path": null,
         "credit_id": "691d5706c91fc39b332e18ec",
         "department": "Art",
@@ -348,12 +362,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2119467,
         "known_for_department": "Art",
         "name": "Sandeep Suvarna",
         "original_name": "Sandeep Suvarna",
-        "popularity": 0.1164,
+        "popularity": 0.3103,
         "profile_path": null,
         "credit_id": "691d5714239040d9a257cfc3",
         "department": "Art",
@@ -361,12 +375,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1941526,
         "known_for_department": "Editing",
         "name": "Andreas Brückl",
         "original_name": "Andreas Brückl",
-        "popularity": 0.0851,
+        "popularity": 0.3529,
         "profile_path": null,
         "credit_id": "691d57218696215ece2d4187",
         "department": "Editing",
@@ -379,7 +393,7 @@
         "known_for_department": "Sound",
         "name": "Kannan Ganpat",
         "original_name": "Kannan Ganpat",
-        "popularity": 0.1891,
+        "popularity": 0.3866,
         "profile_path": null,
         "credit_id": "691d572c3e8c87680afc1dd7",
         "department": "Sound",
@@ -392,7 +406,7 @@
         "known_for_department": "Sound",
         "name": "Manoj M. Goswami",
         "original_name": "Manoj M. Goswami",
-        "popularity": 0.1828,
+        "popularity": 0.3477,
         "profile_path": null,
         "credit_id": "6939458c3f3a1608be06a092",
         "department": "Sound",
@@ -404,9 +418,9 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.0192,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "694aac4a7894fbe8ef812ef9",
         "department": "Writing",
         "job": "Screenplay"
@@ -417,8 +431,8 @@
         "id": 147022,
         "known_for_department": "Writing",
         "name": "Vijayendra Prasad",
-        "original_name": "Vijayendra Prasad",
-        "popularity": 0.3763,
+        "original_name": "వి. విజయేంద్ర ప్రసాద్",
+        "popularity": 2.1807,
         "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
         "credit_id": "694aac9829dcd3763f7aca72",
         "department": "Writing",
@@ -431,7 +445,7 @@
         "known_for_department": "Camera",
         "name": "S. Gopala Reddy",
         "original_name": "S. Gopala Reddy",
-        "popularity": 0.1428,
+        "popularity": 0.3357,
         "profile_path": null,
         "credit_id": "694aacaba3218202cc812dac",
         "department": "Production",
@@ -446,15 +460,32 @@
     "instagram_id": "varanasimovie",
     "twitter_id": "varanasimovie"
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2027-04-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "keywords": {
     "keywords": [
       {
-        "id": 801,
-        "name": "bounty hunter"
+        "id": 1701,
+        "name": "hero"
       },
       {
-        "id": 409,
-        "name": "africa"
+        "id": 9032,
+        "name": "excavation"
       },
       {
         "id": 2035,
@@ -477,6 +508,14 @@
         "name": "underwater"
       },
       {
+        "id": 14991,
+        "name": "tentacle"
+      },
+      {
+        "id": 41586,
+        "name": "archaeologist"
+      },
+      {
         "id": 175428,
         "name": "adventurer"
       },
@@ -493,6 +532,14 @@
         "name": "globetrotting"
       },
       {
+        "id": 219404,
+        "name": "action hero"
+      },
+      {
+        "id": 240119,
+        "name": "father son relationship"
+      },
+      {
         "id": 325778,
         "name": "bold"
       },
@@ -507,23 +554,6 @@
       {
         "id": 362307,
         "name": "globe trotter"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2027-04-07T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -555,28 +585,37 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "SSMB29",
+        "type": "Alternate working title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Globetrotter",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Varanasi",
+        "type": "Simplified"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Vaaranaasi",
+        "type": "Alternative"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "S.S. Rajamouli's వారణాసి",
+        "type": "alternate spelling telugu title"
+      }
+    ]
+  },
   "images": {
     "backdrops": [
-      {
-        "aspect_ratio": 1.778,
-        "height": 1152,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/iZbZjYflt859q8hR7bsvApeDLr5.jpg",
-        "vote_average": 3.334,
-        "vote_count": 3,
-        "width": 2048
-      },
-      {
-        "aspect_ratio": 1.778,
-        "height": 900,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/pTHqIW0CN5LeB1Uk8hxGpySGGOG.jpg",
-        "vote_average": 3.334,
-        "vote_count": 2,
-        "width": 1600
-      },
       {
         "aspect_ratio": 1.778,
         "height": 900,
@@ -589,13 +628,63 @@
       },
       {
         "aspect_ratio": 1.778,
-        "height": 720,
+        "height": 900,
         "iso_3166_1": null,
         "iso_639_1": null,
-        "file_path": "/dllrLDoxGo6ztBDLmKCciHoQqq7.jpg",
-        "vote_average": 0.166,
+        "file_path": "/pTHqIW0CN5LeB1Uk8hxGpySGGOG.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iZbZjYflt859q8hR7bsvApeDLr5.jpg",
+        "vote_average": 1.75,
+        "vote_count": 5,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aCzuLjuc0AmmzzFD3wSgZUZK2EN.jpg",
+        "vote_average": 1.75,
         "vote_count": 2,
-        "width": 1280
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/BhmNbhtueR6O8vyV30BYLrAm48.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2B8dUWGIcOEDVvPBqKFeu6UhWio.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tEaQfHcDVWCdgO5pYzLRRfdNrBP.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
       }
     ],
     "logos": [
@@ -608,6 +697,16 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 4277
+      },
+      {
+        "aspect_ratio": 1.361,
+        "height": 1359,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/j0GHqXiaAmJqcwdd9OFZgwOHSJh.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1850
       },
       {
         "aspect_ratio": 2.909,
@@ -626,7 +725,7 @@
         "iso_639_1": "en",
         "file_path": "/pXe7jRHjkdfK4qkA6L6luQuZ43I.png",
         "vote_average": 0.166,
-        "vote_count": 1,
+        "vote_count": 2,
         "width": 864
       },
       {
@@ -652,16 +751,6 @@
     ],
     "posters": [
       {
-        "aspect_ratio": 0.666,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/bBl3z0bMqt9piOmLDzgbKR8RECJ.jpg",
-        "vote_average": 6.722,
-        "vote_count": 9,
-        "width": 1999
-      },
-      {
         "aspect_ratio": 0.667,
         "height": 1500,
         "iso_3166_1": "US",
@@ -670,6 +759,16 @@
         "vote_average": 6.042,
         "vote_count": 12,
         "width": 1000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bBl3z0bMqt9piOmLDzgbKR8RECJ.jpg",
+        "vote_average": 5.25,
+        "vote_count": 10,
+        "width": 1999
       },
       {
         "aspect_ratio": 0.667,
@@ -703,16 +802,6 @@
       },
       {
         "aspect_ratio": 0.667,
-        "height": 1503,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/yPfCO3M6AWATTyuQ3ZHR4295Q1u.jpg",
-        "vote_average": 1.444,
-        "vote_count": 9,
-        "width": 1002
-      },
-      {
-        "aspect_ratio": 0.667,
         "height": 1620,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
@@ -720,16 +809,6 @@
         "vote_average": 1.222,
         "vote_count": 3,
         "width": 1080
-      },
-      {
-        "aspect_ratio": 0.666,
-        "height": 1470,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/m3Nx4aB0XefTMnzjaaUsVvOxTRl.jpg",
-        "vote_average": 0.958,
-        "vote_count": 4,
-        "width": 979
       },
       {
         "aspect_ratio": 0.667,
@@ -740,16 +819,6 @@
         "vote_average": 0.958,
         "vote_count": 4,
         "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1920,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/eO1uOTXLgEVyyBCc5UkNhapvrgM.jpg",
-        "vote_average": 0.854,
-        "vote_count": 8,
-        "width": 1280
       },
       {
         "aspect_ratio": 0.667,
@@ -830,35 +899,16 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "SSMB29",
-        "type": "Alternate working title"
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Globetrotter",
-        "type": "working title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Varanasi",
-        "type": "Simplified"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Vaaranaasi",
-        "type": "Alternative"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "S.S. Rajamouli's వారణాసి",
-        "type": "alternate spelling telugu title"
+        "aspect_ratio": 0.666,
+        "height": 1537,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ukJmk4XduRozcDtOTlGjjSsU7fV.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1023
       }
     ]
   }

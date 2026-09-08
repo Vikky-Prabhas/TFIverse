@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Lorry Chapter 1",
   "overview": "Harshavardan, an ex-convict mechanic, is tasked to deliver a lorry with a valuable load to Mumbai. He gets entangled with the villainous Pratap, who wants to become CM through illegal means.",
-  "popularity": 0.0416,
+  "popularity": 0.5012,
   "poster_path": "/aKBAzaWPzs5AF9PC3PPXkxyIa7F.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -32,12 +32,25 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": "tt32206571",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -66,12 +79,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": [
       {
@@ -88,21 +95,14 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2024-08-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt32206571",
+    "wikidata_id": "Q127607512",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

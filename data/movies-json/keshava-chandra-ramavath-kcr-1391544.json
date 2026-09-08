@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Keshava Chandra Ramavath",
   "overview": "A young tribal boy from Telangana, develops an ardent admiration for Chief Minister KCR after facing injustice. Defying norms, he embarks on a journey as \"Chota KCR,\" inspired by the leader's vision and policies.",
-  "popularity": 0.1138,
+  "popularity": 0.4109,
   "poster_path": "/f7VBIjE9rszNmFG3BEUTqGyyAKv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -50,32 +50,12 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2024-11-22T00:00:00.000Z",
-            "type": 2
-          }
-        ]
-      }
-    ]
-  },
   "external_ids": {
     "imdb_id": "tt34129838",
-    "wikidata_id": null,
+    "wikidata_id": "Q131177752",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "keywords": {
     "keywords": []
@@ -104,6 +84,26 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 800
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
       }
     ]
   }

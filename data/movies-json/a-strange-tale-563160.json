@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "अजीब दास्ताँ",
   "overview": "A short spin-off of Story Discussion, a cult meta-fiction webseries. After the success of 'Sithara', Mohan Kumar sends writer Harsha to Goa, to come up with a screenplay that is set in Goa.",
-  "popularity": 0.1917,
+  "popularity": 1.497,
   "poster_path": "/eQrzIhNgb9Kkm88uOXe7V4jBfcK.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt9042454",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Bhagath",
         "original_name": "మోహన్ భగత్",
-        "popularity": 0.1528,
+        "popularity": 0.4976,
         "profile_path": null,
         "cast_id": 0,
         "character": "Mohan Bhagath",
@@ -62,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Harsha Vardhana Nannapaneni",
         "original_name": "Harsha Vardhana Nannapaneni",
-        "popularity": 0,
+        "popularity": 0.319,
         "profile_path": null,
         "cast_id": 1,
         "character": "Harsha",
@@ -76,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Thanmai Bolt",
         "original_name": "Thanmai Bolt",
-        "popularity": 0.1214,
+        "popularity": 0.6636,
         "profile_path": "/csD5Zw4KW0NAG4mSN6t2zc6oG2P.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +99,7 @@
         "known_for_department": "Directing",
         "name": "Rohit Penumatsa",
         "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
+        "popularity": 0.4299,
         "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
         "credit_id": "5bf413df9251415cc409036a",
         "department": "Directing",
@@ -105,7 +112,7 @@
         "known_for_department": "Sound",
         "name": "Vivek Sagar",
         "original_name": "Vivek Sagar",
-        "popularity": 0.1866,
+        "popularity": 0.535,
         "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
         "credit_id": "5bf413f1c3a36818b60a878c",
         "department": "Sound",
@@ -118,7 +125,7 @@
         "known_for_department": "Directing",
         "name": "Rohit Penumatsa",
         "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
+        "popularity": 0.4299,
         "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
         "credit_id": "5eadaace0b7316001c3e70af",
         "department": "Editing",
@@ -126,12 +133,24 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt9042454",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ajeeb Dastan Trailer ll RunwayReel Originals ll Directed by Rohit Penumatsa",
+        "key": "7hzUvFQWV78",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6135a9782cde980044cfce8d",
+        "published_at": "2018-06-02T12:19:32.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -165,25 +184,6 @@
         "width": 1438
       }
     ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Ajeeb Dastan Trailer ll RunwayReel Originals ll Directed by Rohit Penumatsa",
-        "key": "7hzUvFQWV78",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "6135a9782cde980044cfce8d",
-        "published_at": "2018-06-02T12:19:32.000Z"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": []

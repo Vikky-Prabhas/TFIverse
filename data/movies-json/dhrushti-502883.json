@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "దృష్టి",
   "overview": "A photographer's life, who is  temporarily wheelchair driven, goes into deep trouble, once he  witnesses a murder through his camera.",
-  "popularity": 0.3153,
+  "popularity": 0.5961,
   "poster_path": "/wWzopWD7wK33UnvSaekQgUdbZhe.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ravindran",
         "original_name": "Rahul Ravindran",
-        "popularity": 0.2363,
+        "popularity": 1.0167,
         "profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
         "cast_id": 1,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Pavani Gangireddy",
         "original_name": "Pavani Gangireddy",
-        "popularity": 0.2823,
+        "popularity": 0.7823,
         "profile_path": "/r454n0MTbEQq9OOlphJWQrd1ADb.jpg",
         "cast_id": 2,
         "character": "",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 3,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Satya Prakash",
         "original_name": "Satya Prakash",
-        "popularity": 0.3196,
+        "popularity": 0.7548,
         "profile_path": "/858vQ4NMh89fjjKEIeCh15oW5Y1.jpg",
         "cast_id": 4,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Pramodini Pammi",
         "original_name": "Pramodini Pammi",
-        "popularity": 0.415,
+        "popularity": 1.6537,
         "profile_path": "/5678celBmFlkvoaUbRf5fUnBNHx.jpg",
         "cast_id": 6,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2183,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 5,
         "character": "",
@@ -154,7 +154,7 @@
         "known_for_department": "Camera",
         "name": "Bal Reddy",
         "original_name": "Bal Reddy",
-        "popularity": 0.0322,
+        "popularity": 0.2947,
         "profile_path": null,
         "credit_id": "613a925a07faa20062d2ca5e",
         "department": "Camera",
@@ -167,24 +167,11 @@
         "known_for_department": "Directing",
         "name": "Ram Abbaraju",
         "original_name": "Ram Abbaraju",
-        "popularity": 0.181,
+        "popularity": 0.3853,
         "profile_path": null,
         "credit_id": "5a765aecc3a36859cf039d50",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1972406,
-        "known_for_department": "Directing",
-        "name": "Ram Abbaraju",
-        "original_name": "Ram Abbaraju",
-        "popularity": 0.181,
-        "profile_path": null,
-        "credit_id": "5d3bf68b21621b0012edb6f0",
-        "department": "Writing",
-        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -193,7 +180,7 @@
         "known_for_department": "Editing",
         "name": "S.B. Uddhav",
         "original_name": "S.B. Uddhav",
-        "popularity": 0.0658,
+        "popularity": 0.2985,
         "profile_path": null,
         "credit_id": "5d3bf59fa1d332000f0b2ce6",
         "department": "Editing",
@@ -202,41 +189,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1972406,
-        "known_for_department": "Directing",
-        "name": "Ram Abbaraju",
-        "original_name": "Ram Abbaraju",
-        "popularity": 0.181,
-        "profile_path": null,
-        "credit_id": "5d3bf69121621b0013edb450",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2149048,
         "known_for_department": "Production",
         "name": "S. Mohan",
         "original_name": "S. Mohan",
-        "popularity": 0.0143,
+        "popularity": 0.2708,
         "profile_path": null,
         "credit_id": "5d3bf60cede1b00015ea3d35",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1972406,
-        "known_for_department": "Directing",
-        "name": "Ram Abbaraju",
-        "original_name": "Ram Abbaraju",
-        "popularity": 0.181,
-        "profile_path": null,
-        "credit_id": "5d3bf684a1d33200100b3f89",
-        "department": "Writing",
-        "job": "Story"
       },
       {
         "adult": false,
@@ -245,11 +206,50 @@
         "known_for_department": "Sound",
         "name": "Naresh Kumaran",
         "original_name": "Naresh Kumaran",
-        "popularity": 0.1289,
+        "popularity": 0.282,
         "profile_path": null,
         "credit_id": "5d3bf67921621b0011edbdfd",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1972406,
+        "known_for_department": "Directing",
+        "name": "Ram Abbaraju",
+        "original_name": "Ram Abbaraju",
+        "popularity": 0.3853,
+        "profile_path": null,
+        "credit_id": "5d3bf684a1d33200100b3f89",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1972406,
+        "known_for_department": "Directing",
+        "name": "Ram Abbaraju",
+        "original_name": "Ram Abbaraju",
+        "popularity": 0.3853,
+        "profile_path": null,
+        "credit_id": "5d3bf68b21621b0012edb6f0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1972406,
+        "known_for_department": "Directing",
+        "name": "Ram Abbaraju",
+        "original_name": "Ram Abbaraju",
+        "popularity": 0.3853,
+        "profile_path": null,
+        "credit_id": "5d3bf69121621b0013edb450",
+        "department": "Writing",
+        "job": "Dialogue"
       }
     ]
   },
@@ -284,20 +284,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Drushti",
-        "type": "Telugu"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Dhrusti",
-        "type": "Telugu"
-      }
-    ]
-  },
   "release_dates": {
     "results": [
       {
@@ -312,6 +298,20 @@
             "type": 6
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Drushti",
+        "type": "Telugu"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Dhrusti",
+        "type": "Telugu"
       }
     ]
   },

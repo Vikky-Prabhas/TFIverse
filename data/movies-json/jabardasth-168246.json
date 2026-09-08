@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Jabardasth",
   "overview": "Telugu romantic comedy film written and directed by Nandini Reddy under the banner of Sri Sai Ganesh Productions.",
-  "popularity": 0.4989,
+  "popularity": 1.2405,
   "poster_path": null,
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Siddharth",
         "original_name": "Siddharth",
-        "popularity": 2.9865,
+        "popularity": 1.2129,
         "profile_path": "/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg",
         "cast_id": 1,
         "character": "Bairraju",
@@ -78,8 +78,8 @@
         "known_for_department": "Acting",
         "name": "Samantha Ruth Prabhu",
         "original_name": "సమంత రూత్ ప్రభు",
-        "popularity": 1.0385,
-        "profile_path": "/iGQ0AT1bNULlrJwSOGSRqLDSfGG.jpg",
+        "popularity": 2.0307,
+        "profile_path": "/FFGYlhLQK7FWzPLtmOb1QHTDAh.jpg",
         "cast_id": 2,
         "character": "Shreya",
         "credit_id": "52fe4cc7c3a36847f823e4ef",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.4917,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 3,
         "character": "Javed Ibrahim",
@@ -106,8 +106,8 @@
         "known_for_department": "Acting",
         "name": "Nithya Menen",
         "original_name": "Nithya Menen",
-        "popularity": 2.0665,
-        "profile_path": "/2X31LkjRO3FYKIsDRiIGXuqk6Sq.jpg",
+        "popularity": 3.3241,
+        "profile_path": "/cVHQMaKwUEzcxlHC54fgbEG66KT.jpg",
         "cast_id": 4,
         "character": "Saraswati",
         "credit_id": "52fe4cc7c3a36847f823e4f7",
@@ -117,29 +117,29 @@
     "crew": [
       {
         "adult": false,
-        "gender": 1,
-        "id": 225389,
-        "known_for_department": "Directing",
-        "name": "B. V. Nandini Reddy",
-        "original_name": "B. V. Nandini Reddy",
-        "popularity": 0.2303,
-        "profile_path": null,
-        "credit_id": "52fe4cc7c3a36847f823e4fd",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 552986,
         "known_for_department": "Production",
         "name": "Bellamkonda Suresh",
         "original_name": "Bellamkonda Suresh",
-        "popularity": 0.0849,
+        "popularity": 0.3094,
         "profile_path": null,
         "credit_id": "52fe4cc7c3a36847f823e503",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225389,
+        "known_for_department": "Directing",
+        "name": "B. V. Nandini Reddy",
+        "original_name": "B. V. Nandini Reddy",
+        "popularity": 0.8892,
+        "profile_path": "/zZkpHZdC19aKXFWHhgxyyozWAfr.jpg",
+        "credit_id": "52fe4cc7c3a36847f823e4fd",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -148,7 +148,7 @@
         "known_for_department": "Sound",
         "name": "S. Thaman",
         "original_name": "S. Thaman",
-        "popularity": 0.5088,
+        "popularity": 0.8929,
         "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
         "credit_id": "52fe4cc7c3a36847f823e50f",
         "department": "Sound",
@@ -156,12 +156,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt2699290",
-    "wikidata_id": "Q17058423",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": [
@@ -178,6 +174,13 @@
         "name": "woman director"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2699290",
+    "wikidata_id": "Q17058423",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -200,9 +203,6 @@
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "videos": {
-    "results": []
   },
   "alternative_titles": {
     "titles": [

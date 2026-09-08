@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Magadheerudu",
   "overview": "Magadheerudu is family drama based movie in which, The young son in the family is facing all the troubles to put up the family financially as well as between the members who are not agreeing with each other. Chiranjeevi is the youngest son in Satyanarayana",
-  "popularity": 0.3064,
+  "popularity": 1.1835,
   "poster_path": "/lWRk7Hym2tuCakFSiYstEr9hSga.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,9 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -42,7 +45,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -56,7 +59,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.6012,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 4,
         "character": "",
@@ -68,9 +71,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 5,
         "character": "",
@@ -84,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.2209,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 6,
         "character": "",
@@ -98,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "",
@@ -112,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 8,
         "character": "",
@@ -126,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 9,
         "character": "",
@@ -137,16 +140,16 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 584681,
-        "known_for_department": "Production",
-        "name": "Maganti Ravindranath Chowdary",
-        "original_name": "Maganti Ravindranath Chowdary",
-        "popularity": 0.0362,
+        "gender": 2,
+        "id": 584680,
+        "known_for_department": "Directing",
+        "name": "Vijaya Bapineedu",
+        "original_name": "Vijaya Bapineedu",
+        "popularity": 0.4757,
         "profile_path": null,
-        "credit_id": "53b0bb140e0a265980006f64",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "53b0bb10c3a3682eea005890",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -155,7 +158,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0bb12c3a3682edb005918",
         "department": "Sound",
@@ -163,44 +166,28 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 584680,
-        "known_for_department": "Directing",
-        "name": "Vijaya Bapineedu",
-        "original_name": "Vijaya Bapineedu",
-        "popularity": 0.1414,
+        "gender": 0,
+        "id": 584681,
+        "known_for_department": "Production",
+        "name": "Maganti Ravindranath Chowdary",
+        "original_name": "Maganti Ravindranath Chowdary",
+        "popularity": 0.2688,
         "profile_path": null,
-        "credit_id": "53b0bb10c3a3682eea005890",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "53b0bb140e0a265980006f64",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt0246052",
+    "wikidata_id": "Q6729586",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1986-03-06T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -228,11 +215,24 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0246052",
-    "wikidata_id": "Q6729586",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

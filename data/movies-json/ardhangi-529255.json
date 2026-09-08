@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అర్ధాంగి",
   "overview": "Zamindar Bhujangarao (Gummadi) has two sons. The elder son Raghunath Rao (Akkineni Nageswara Rao) born to his first wife is a retard. After her death, he married Rajeswari (Santha Kumari) and the couple has a son Nagendra Rao / Naagu (Jaggaiah) a man of vices. Impressed by the way Padma (Savitri) a village girl faced Naagu when he threatened to take their farm lands, the Zamindar fixes Naagu’s marriage with her. But Rajeswari vetoes the alliance and suggests to perform her marriage with Raghu. After marriage, Padma learns that Raghu became a retard due to the opium-fed during his childhood to put him to sleep by the maid, Ayamma (Vijayalakshmi).",
-  "popularity": 0.3259,
+  "popularity": 1.2153,
   "poster_path": "/zONvfmKzpG2yzXRkvaCpTLK3ZBk.jpg",
   "production_companies": [
     {
@@ -62,9 +62,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 0,
         "character": "Raghunatha Rao / Raghu",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3868,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 1,
         "character": "Padma",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4144,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 2,
         "character": "Zamindar",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "P. Santha Kumari",
         "original_name": "P. Santha Kumari",
-        "popularity": 0.0728,
+        "popularity": 0.6231,
         "profile_path": "/9QRG3ZXGHbNAT1GQ8AsWorXSC4u.jpg",
         "cast_id": 3,
         "character": "Rajeswari Devi",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 4,
         "character": "Nagendra Rao / Nagu",
@@ -136,7 +136,33 @@
         "known_for_department": "Directing",
         "name": "P. Pullaiah",
         "original_name": "P. Pullaiah",
-        "popularity": 0.1924,
+        "popularity": 0.5504,
+        "profile_path": null,
+        "credit_id": "5b1d1cf00e0a261fa702874f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007016,
+        "known_for_department": "Sound",
+        "name": "Master Venu",
+        "original_name": "Master Venu",
+        "popularity": 0.3626,
+        "profile_path": null,
+        "credit_id": "5b1d1d81c3a36848eb0203b1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1082128,
+        "known_for_department": "Directing",
+        "name": "P. Pullaiah",
+        "original_name": "P. Pullaiah",
+        "popularity": 0.5504,
         "profile_path": null,
         "credit_id": "5b1d1ce10e0a261f80027209",
         "department": "Directing",
@@ -149,20 +175,7 @@
         "known_for_department": "Directing",
         "name": "P. Pullaiah",
         "original_name": "P. Pullaiah",
-        "popularity": 0.1924,
-        "profile_path": null,
-        "credit_id": "5b1d1cf00e0a261fa702874f",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1082128,
-        "known_for_department": "Directing",
-        "name": "P. Pullaiah",
-        "original_name": "P. Pullaiah",
-        "popularity": 0.1924,
+        "popularity": 0.5504,
         "profile_path": null,
         "credit_id": "5b1d1d5ec3a36848e9027504",
         "department": "Writing",
@@ -171,24 +184,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1007016,
-        "known_for_department": "Sound",
-        "name": "Master Venu",
-        "original_name": "Master Venu",
-        "popularity": 0.0538,
-        "profile_path": null,
-        "credit_id": "5b1d1d81c3a36848eb0203b1",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1660479,
         "known_for_department": "Writing",
         "name": "Acharya Aatreya",
         "original_name": "Acharya Aatreya",
-        "popularity": 0.1408,
+        "popularity": 0.5798,
         "profile_path": null,
         "credit_id": "5f61c8de156cc70036df299d",
         "department": "Writing",
@@ -196,12 +196,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0255807",
-    "wikidata_id": "Q4788033",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -220,6 +219,16 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0255807",
+    "wikidata_id": "Q4788033",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -235,14 +244,5 @@
         "width": 500
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

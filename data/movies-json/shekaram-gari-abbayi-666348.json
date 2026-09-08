@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Shekaram Gari Abbayi",
   "overview": "Hero Sadhik (Vinu Maddipati) lays down the family of heroine Apsara (Akshaya), including family. Loves Apsara at first glance. He befriends her and then tells her about his love. But Apsara is rejecting that he has no job and responsibility.",
-  "popularity": 0.1077,
+  "popularity": 0.6227,
   "poster_path": "/g8Dvit0YR7Ismy4WzGXGsq5JNpX.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Vinnu Maddipati",
         "original_name": "Vinnu Maddipati",
-        "popularity": 0.0214,
+        "popularity": 0.2837,
         "profile_path": "/hPgb9V9LPcYCbBPGNmv5mGktToL.jpg",
         "cast_id": 4,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Directing",
         "name": "Sai Akshatha",
         "original_name": "Sai Akshatha",
-        "popularity": 0.0071,
+        "popularity": 0.2607,
         "profile_path": "/xgbdmNC5NlG6RCLD6gRMa0T2Pfk.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,9 +74,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 5,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1452,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,13 +106,23 @@
         "known_for_department": "Directing",
         "name": "Sai Akshatha",
         "original_name": "Sai Akshatha",
-        "popularity": 0.0071,
+        "popularity": 0.2607,
         "profile_path": "/xgbdmNC5NlG6RCLD6gRMa0T2Pfk.jpg",
         "credit_id": "5e29531998f1f10018f5a6f5",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt7981494",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -130,16 +140,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt7981494",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -156,9 +156,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -186,5 +183,8 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

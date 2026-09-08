@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Chinarayudu",
   "overview": "Chinarayudu is a 1992 Telugu film directed by B. Gopal. The film stars Venkatesh, Vijayashanti, Kota Srinivasan Rao and Nirmalamma in lead roles.",
-  "popularity": 0.2365,
+  "popularity": 0.7326,
   "poster_path": "/3JE7gIh1Db8SrMk7m45EFgoPoq7.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 4,
         "character": "",
@@ -69,9 +69,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "53b17e140e0a26598c0085da",
@@ -79,13 +79,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 584512,
         "known_for_department": "Acting",
         "name": "Nirmalamma",
         "original_name": "Nirmalamma",
-        "popularity": 0.1774,
-        "profile_path": null,
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "53b17e15c3a3682ee20068c3",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.427,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 7,
         "character": "",
@@ -114,7 +114,7 @@
         "known_for_department": "Production",
         "name": "Prasad P R",
         "original_name": "Prasad P R",
-        "popularity": 0.0143,
+        "popularity": 0.261,
         "profile_path": null,
         "credit_id": "53b17e0d0e0a2659890082be",
         "department": "Production",
@@ -126,8 +126,8 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "53b17df70e0a265975008300",
         "department": "Sound",
@@ -140,7 +140,7 @@
         "known_for_department": "Directing",
         "name": "B. Gopal",
         "original_name": "B. Gopal",
-        "popularity": 0.2596,
+        "popularity": 1.1269,
         "profile_path": "/c0lIwqgWn5pIfU4tz86HYnL0cb9.jpg",
         "credit_id": "53b17df2c3a3682edb006667",
         "department": "Directing",
@@ -153,7 +153,7 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.4135,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "5f0d7f1c81c7be0032fc5d9d",
         "department": "Writing",
@@ -161,15 +161,35 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt0317241",
     "wikidata_id": "Q5100119",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -198,27 +218,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1992-06-30T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

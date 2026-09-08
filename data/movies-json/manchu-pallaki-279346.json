@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మంచుపల్లకీ",
   "overview": "The story of 4 friends, and how their lives are forever changed by the entry of a newcomer into their neighbourhood.",
-  "popularity": 0.4989,
+  "popularity": 1.1112,
   "poster_path": "/aYjW8q796lHHJvh62qlGgs4v8lb.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Sekhar",
@@ -61,8 +61,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 5,
         "character": "Hari",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Sai Chand",
         "original_name": "Sai Chand",
-        "popularity": 0.3443,
+        "popularity": 1.1101,
         "profile_path": "/1siMncMiqyu6zu8Xw1feVuVhbSy.jpg",
         "cast_id": 7,
         "character": "Kumar",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Narayana Rao Uppalapati",
         "original_name": "Narayana Rao Uppalapati",
-        "popularity": 0.0977,
+        "popularity": 0.7083,
         "profile_path": null,
         "cast_id": 6,
         "character": "Vasu",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Girish",
         "original_name": "Girish",
-        "popularity": 0.0311,
+        "popularity": 0.2674,
         "profile_path": null,
         "cast_id": 8,
         "character": "Gandhi",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "Geeta",
@@ -127,13 +127,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 9,
         "character": "Geeta's Father",
         "credit_id": "659f766e946318012b5006fd",
@@ -146,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "P. L. Narayana",
         "original_name": "P. L. Narayana",
-        "popularity": 0.1127,
+        "popularity": 0.3703,
         "profile_path": null,
         "cast_id": 10,
         "character": "Vasu's Colleague",
@@ -160,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.4174,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 11,
         "character": "Sammalamma",
@@ -174,7 +174,7 @@
         "known_for_department": "Acting",
         "name": "Bheemeswara Rao",
         "original_name": "Bheemeswara Rao",
-        "popularity": 0.0589,
+        "popularity": 0.4046,
         "profile_path": null,
         "cast_id": 12,
         "character": "Doctor",
@@ -188,7 +188,7 @@
         "known_for_department": "Acting",
         "name": "Devadasu Kanakala",
         "original_name": "Devadasu Kanakala",
-        "popularity": 0.0986,
+        "popularity": 0.5802,
         "profile_path": null,
         "cast_id": 13,
         "character": "Sekhar's Colleague",
@@ -204,7 +204,7 @@
         "known_for_department": "Production",
         "name": "M R Prasada Rao",
         "original_name": "M R Prasada Rao",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0d0b6c3a3682ee2005d02",
         "department": "Production",
@@ -217,7 +217,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "53b0d0a20e0a2659800071ed",
         "department": "Directing",
@@ -226,11 +226,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1419806,
+        "known_for_department": "Directing",
+        "name": "S. Rajasekar",
+        "original_name": "S. Rajasekar",
+        "popularity": 0.8518,
+        "profile_path": "/d1aw3Iyu0zNlJEp5Nj8aeUx2bYM.jpg",
+        "credit_id": "659f77ef39549a012039284a",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3006868,
+        "known_for_department": "Sound",
+        "name": "Nagendra",
+        "original_name": "Nagendra",
+        "popularity": 0.3212,
+        "profile_path": "/1vAG5vTciOkm0rkZyfFjma4jxac.jpg",
+        "credit_id": "659f785f58efd301248f6f85",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1335735,
         "known_for_department": "Sound",
         "name": "Rajan",
         "original_name": "Rajan",
-        "popularity": 0.1146,
+        "popularity": 0.3503,
         "profile_path": "/i04cj2yQnLNN47xIEVgIIyJpmmz.jpg",
         "credit_id": "659f78a193828e012ef37171",
         "department": "Sound",
@@ -239,15 +265,41 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 584673,
+        "known_for_department": "Writing",
+        "name": "Yandamuri Veerendranath",
+        "original_name": "Yandamuri Veerendranath",
+        "popularity": 0.8362,
+        "profile_path": null,
+        "credit_id": "659f781439549a012c3929f6",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1670512,
         "known_for_department": "Camera",
         "name": "Hari Anumolu",
         "original_name": "Hari Anumolu",
-        "popularity": 0.1204,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "659f782939549a012c392a04",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419806,
+        "known_for_department": "Directing",
+        "name": "S. Rajasekar",
+        "original_name": "S. Rajasekar",
+        "popularity": 0.8518,
+        "profile_path": "/d1aw3Iyu0zNlJEp5Nj8aeUx2bYM.jpg",
+        "credit_id": "659f77cd39549a012c3929c4",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
@@ -256,7 +308,7 @@
         "known_for_department": "Editing",
         "name": "Anil Dattatreya",
         "original_name": "Anil Dattatreya",
-        "popularity": 0.0071,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "659f783e76eecf012a654497",
         "department": "Editing",
@@ -269,68 +321,13 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "659f7772e24e3a01276e6d65",
         "department": "Writing",
         "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1419806,
-        "known_for_department": "Acting",
-        "name": "S. Rajasekar",
-        "original_name": "S. Rajasekar",
-        "popularity": 0.0404,
-        "profile_path": null,
-        "credit_id": "659f77ef39549a012039284a",
-        "department": "Writing",
-        "job": "Original Film Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3006868,
-        "known_for_department": "Sound",
-        "name": "Nagendra",
-        "original_name": "Nagendra",
-        "popularity": 0.1011,
-        "profile_path": "/1vAG5vTciOkm0rkZyfFjma4jxac.jpg",
-        "credit_id": "659f785f58efd301248f6f85",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1419806,
-        "known_for_department": "Acting",
-        "name": "S. Rajasekar",
-        "original_name": "S. Rajasekar",
-        "popularity": 0.0404,
-        "profile_path": null,
-        "credit_id": "659f77cd39549a012c3929c4",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584673,
-        "known_for_department": "Writing",
-        "name": "Yandamuri Veerendranath",
-        "original_name": "Yandamuri Veerendranath",
-        "popularity": 0.2238,
-        "profile_path": null,
-        "credit_id": "659f781439549a012c3929f6",
-        "department": "Writing",
-        "job": "Dialogue"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0248168",
@@ -339,21 +336,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/aYjW8q796lHHJvh62qlGgs4v8lb.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": [
@@ -363,9 +350,6 @@
         "type": ""
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -381,6 +365,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aYjW8q796lHHJvh62qlGgs4v8lb.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
       }
     ]
   }

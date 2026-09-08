@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "భలే అమ్మాయిలు",
   "overview": "Rao cheats Girija. So her sister Saroja decides to teach him a lesson. In this process, she falls in love with Anand.",
-  "popularity": 0.0789,
+  "popularity": 0.4104,
   "poster_path": "/wGbsDurLsqUD7Zyo0C4OHvkMX1H.jpg",
   "production_companies": [],
   "production_countries": [
@@ -33,10 +33,6 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "external_ids": {
     "imdb_id": "tt0256648",
     "wikidata_id": "Q16342384",
@@ -46,29 +42,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1957-01-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [],
@@ -95,5 +68,32 @@
         "width": 709
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1957-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Vicky Dada",
   "overview": "Vicky Daada is a 1989 Telugu-language crime film produced by D. Sivaprasad Reddy under the Kamakshi Art Movies banner, directed by A. Kodandarami Reddy. It stars Akkineni Nagarjuna, Radha, Juhi Chawla in the lead roles and music composed by Raj-Koti. The film was recorded as a Super Hit at the box office. The film was dubbed into Hindi as Meri Duniya",
-  "popularity": 0.2415,
+  "popularity": 1.5183,
   "poster_path": "/ryfR0QjZH0J6s9B0ZIZL0Lc2lzD.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,8 +37,8 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.2798,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 1,
         "character": "Vicky Dada",
         "credit_id": "5fb57de3eb64f1004179bcc5",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Radha",
         "original_name": "Radha",
-        "popularity": 0.856,
+        "popularity": 1.4479,
         "profile_path": "/7oVE51UtIsbkkriBF7fOiJ52zDJ.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Juhi Chawla Mehta",
         "original_name": "Juhi Chawla Mehta",
-        "popularity": 0.885,
+        "popularity": 1.5772,
         "profile_path": "/gyZLscSW3dYYe3N5K2YcYtRnbq5.jpg",
         "cast_id": 3,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "619606d0cb75d10020ffb0f0",
         "department": "Sound",
@@ -94,7 +94,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.4415,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "5fb57e51e640d60042438888",
         "department": "Directing",
@@ -107,38 +107,11 @@
         "known_for_department": "Writing",
         "name": "Veturi Sundararama Murthy",
         "original_name": "Veturi Sundararama Murthy",
-        "popularity": 0.0586,
+        "popularity": 0.3327,
         "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
         "credit_id": "5fb57feac15f8900408d92a2",
         "department": "Writing",
         "job": "Lyricist"
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [
-      {
-        "aspect_ratio": 3.147,
-        "height": 1145,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/gNQuPSXbCLDmjb6znReftmWnTxo.png",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 3603
-      }
-    ],
-    "posters": [
-      {
-        "aspect_ratio": 0.669,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/ryfR0QjZH0J6s9B0ZIZL0Lc2lzD.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 502
       }
     ]
   },
@@ -169,6 +142,33 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [
+      {
+        "aspect_ratio": 3.147,
+        "height": 1145,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/gNQuPSXbCLDmjb6znReftmWnTxo.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3603
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.669,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ryfR0QjZH0J6s9B0ZIZL0Lc2lzD.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 502
       }
     ]
   },

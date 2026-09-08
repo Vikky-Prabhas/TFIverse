@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Trikaali",
   "overview": "A writer's creations step out of his stories, haunting his reality and demanding justice. As fiction and truth collide, he becomes a prisoner in a terrifying narrative beyond his control.",
-  "popularity": 0.0453,
+  "popularity": 0.8964,
   "poster_path": "/bGN0pSFQexZQsRa9SwTrAW4eIQr.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,9 +52,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -64,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Nagarajan Kannan",
         "original_name": "Nagarajan Kannan",
-        "popularity": 0.0143,
+        "popularity": 0.3154,
         "profile_path": "/hXptt4t2KFgRDFvebpyztQGMQhT.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Delhi Ganesh",
         "original_name": "Delhi Ganesh",
-        "popularity": 0.2975,
+        "popularity": 5.2331,
         "profile_path": "/8oMzQRumoUs5a6iStcK1B3znY1D.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Boxer Dheena",
         "original_name": "Boxer Dheena",
-        "popularity": 0.2869,
+        "popularity": 0.8442,
         "profile_path": "/dlGNV1eKIwvUvlo8FUVkJ8kkQbz.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Mu Ramaswamy",
         "original_name": "Mu Ramaswamy",
-        "popularity": 0.1289,
+        "popularity": 0.5977,
         "profile_path": "/17CSjqDnxldxUSwhbC4LxBdwEj4.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,9 +119,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -142,6 +136,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -172,5 +169,8 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "రణం",
   "overview": "Ranam (Telugu: రణం, English: Battle) is a Telugu film which stars Gopichand and Kamna Jethmalani. Choreographer-turned-director Amma Rajasekhar directed this film. The film was a hit at the box office. This is Gopichand's third consecutive hit as a lead actor. The film was dubbed into Tamil as \"Stalin\" and remade into Oriya as \"Mahanayak\".  Maheswari (Kamna Jethmalani) is sister of Bhagawati (Biju Menon), a mafia don in Hyderabad. Chinna (Gopichand), classmate of Maheshwari, inadvertently enters into a row with the gang members of Bhagawati, and falls in love with Maheswari. The rest of the story is all about how Chinna resorts to a mind game on Bhagavati to win his sister.",
-  "popularity": 0.4085,
+  "popularity": 1.0636,
   "poster_path": "/6bh8FtCt3L74vWMUNES7u3gbo2E.jpg",
   "production_companies": [
     {
@@ -57,8 +57,11 @@
   "tagline": "",
   "title": "Ranam",
   "video": false,
-  "vote_average": 4.4,
+  "vote_average": 4.357,
   "vote_count": 7,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -66,9 +69,9 @@
         "gender": 2,
         "id": 237325,
         "known_for_department": "Acting",
-        "name": "Gopichand",
-        "original_name": "Gopichand",
-        "popularity": 1.1431,
+        "name": "T. Gopichand",
+        "original_name": "టి. గోపీచంద్",
+        "popularity": 1.6621,
         "profile_path": "/faFnhPCmtdL6qKhroiyHjgS8lqN.jpg",
         "cast_id": 2,
         "character": "",
@@ -82,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Kamna Jethmalani",
         "original_name": "Kamna Jethmalani",
-        "popularity": 0.4195,
+        "popularity": 0.9612,
         "profile_path": "/hqwWBWHYKhP2KqiZoj3aK9So4gk.jpg",
         "cast_id": 3,
         "character": "",
@@ -96,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Biju Menon",
         "original_name": "Biju Menon",
-        "popularity": 1.5977,
+        "popularity": 5.3597,
         "profile_path": "/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,9 +111,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "",
@@ -124,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.6108,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 9,
         "character": "",
@@ -138,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.3832,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 10,
         "character": "",
@@ -152,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.393,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 12,
         "character": "",
@@ -166,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.5188,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 13,
         "character": "",
@@ -180,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Rama Prabha",
         "original_name": "Rama Prabha",
-        "popularity": 0.364,
+        "popularity": 1.6321,
         "profile_path": "/oLF9RSdde7KUTxurEciD7CeW54e.jpg",
         "cast_id": 18,
         "character": "",
@@ -192,9 +195,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 19,
         "character": "",
@@ -208,7 +211,7 @@
         "known_for_department": "Acting",
         "name": "Vajja Venkata Giridhar",
         "original_name": "Vajja Venkata Giridhar",
-        "popularity": 0.1147,
+        "popularity": 0.605,
         "profile_path": "/k1hI5Gw7ep18YYLro8ax4syaGLo.jpg",
         "cast_id": 20,
         "character": "",
@@ -222,7 +225,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Jahnavi Ellore",
         "original_name": "Jahnavi Ellore",
-        "popularity": 0.1432,
+        "popularity": 0.5536,
         "profile_path": "/q9gc7SR1N3f5BfdeEYWxtzwsPUp.jpg",
         "cast_id": 21,
         "character": "",
@@ -238,7 +241,7 @@
         "known_for_department": "Writing",
         "name": "Amma Rajasekhar",
         "original_name": "Amma Rajasekhar",
-        "popularity": 0.07,
+        "popularity": 0.6998,
         "profile_path": "/JS7cEnGGcbzGNEZrzN1g8o4wnK.jpg",
         "credit_id": "54ebb2d992514113bf0003a4",
         "department": "Directing",
@@ -251,7 +254,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.3339,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "54ebb2e392514115480002b2",
         "department": "Sound",
@@ -264,7 +267,7 @@
         "known_for_department": "Writing",
         "name": "Marudhuri Raja",
         "original_name": "Marudhuri Raja",
-        "popularity": 0.0978,
+        "popularity": 0.514,
         "profile_path": null,
         "credit_id": "56681bbcc3a36836b40026a9",
         "department": "Writing",
@@ -277,7 +280,7 @@
         "known_for_department": "Editing",
         "name": "Gautham Raju",
         "original_name": "Gautham Raju",
-        "popularity": 0.1828,
+        "popularity": 0.4474,
         "profile_path": null,
         "credit_id": "56681bdbc3a36836a6002ade",
         "department": "Editing",
@@ -290,7 +293,7 @@
         "known_for_department": "Writing",
         "name": "Amma Rajasekhar",
         "original_name": "Amma Rajasekhar",
-        "popularity": 0.07,
+        "popularity": 0.6998,
         "profile_path": "/JS7cEnGGcbzGNEZrzN1g8o4wnK.jpg",
         "credit_id": "56681baec3a36836ac002c40",
         "department": "Writing",
@@ -303,16 +306,13 @@
         "known_for_department": "Writing",
         "name": "Amma Rajasekhar",
         "original_name": "Amma Rajasekhar",
-        "popularity": 0.07,
+        "popularity": 0.6998,
         "profile_path": "/JS7cEnGGcbzGNEZrzN1g8o4wnK.jpg",
         "credit_id": "56681ba592514174110026e5",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -341,20 +341,6 @@
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Surya Jalta Nahin Jalata Hai",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Surya",
-        "type": "Hindi Dubbed"
-      }
-    ]
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -368,6 +354,20 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Surya Jalta Nahin Jalata Hai",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Surya",
+        "type": "Hindi Dubbed"
       }
     ]
   }

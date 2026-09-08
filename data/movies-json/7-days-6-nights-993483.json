@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "7 రోజులు 6 రాత్రులు",
   "overview": "Anand is a wannabe filmmaker who is tired of waiting for his first break. He faces a major setback in his personal life when his girlfriend Vinni moves to the US all of a sudden. Ahead of his friend Mangalam's wedding, he and the friend travel to Goa to spend a good time. There, Anand develops a bond with Rathika, a young girl working at a restaurant. Meanwhile, Mangalam gets into a relationship with a location manager named Ameya.",
-  "popularity": 0.2146,
+  "popularity": 1.1179,
   "poster_path": "/bvnlFt9CR4mzcNnoxwAVkvAK2EX.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Sumanth Ashwin",
         "original_name": "Sumanth Ashwin",
-        "popularity": 0.1858,
+        "popularity": 0.6441,
         "profile_path": "/kIFjobwqzSKWYAkwj7OcmKPP3b.jpg",
         "cast_id": 1,
         "character": "Anand",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Rohan Manoj",
         "original_name": "Rohan Manoj",
-        "popularity": 0.0239,
+        "popularity": 0.3223,
         "profile_path": "/jvsnxDLIuOnbfXuITo9GGllPmL3.jpg",
         "cast_id": 2,
         "character": "Mangalam",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Meher Chahal",
         "original_name": "Meher Chahal",
-        "popularity": 0.0604,
+        "popularity": 0.4052,
         "profile_path": "/i05vtn5yhr0ir6wrIJ6o35aEDxF.jpg",
         "cast_id": 3,
         "character": "Rathika",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Krithika Shetty",
         "original_name": "Krithika Shetty",
-        "popularity": 0,
+        "popularity": 0.276,
         "profile_path": "/vAEFvBvsfKpc4z2nkzvoyKGTkdl.jpg",
         "cast_id": 6,
         "character": "",
@@ -101,7 +101,7 @@
         "known_for_department": "Production",
         "name": "M. S. Raju",
         "original_name": "M. S. Raju",
-        "popularity": 0.3215,
+        "popularity": 0.5932,
         "profile_path": null,
         "credit_id": "62bdbfc897eab400967a56c0",
         "department": "Directing",
@@ -114,7 +114,7 @@
         "known_for_department": "Production",
         "name": "M. S. Raju",
         "original_name": "M. S. Raju",
-        "popularity": 0.3215,
+        "popularity": 0.5932,
         "profile_path": null,
         "credit_id": "62bdbfd2eb64f1058d79aab7",
         "department": "Writing",
@@ -122,15 +122,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt15310668",
-    "wikidata_id": null,
+    "wikidata_id": "Q113040110",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -151,9 +151,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -180,5 +177,8 @@
         "width": 2000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

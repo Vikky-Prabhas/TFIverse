@@ -11,6 +11,14 @@
     {
       "id": 28,
       "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ],
   "homepage": "http://eegamovie.com/",
@@ -22,7 +30,7 @@
   "original_language": "te",
   "original_title": "ఈగ",
   "overview": "Nani is a flower decorator, madly in love with his neighbor Bindhu. He gets killed by the baddie, Sudeep, a powerful businessman. Nani comes back as a housefly to get his revenge.",
-  "popularity": 1.3244,
+  "popularity": 3.8631,
   "poster_path": "/pX7fn4EZrg2YFlV4GNMIfHDOQZ6.jpg",
   "production_companies": [
     {
@@ -53,8 +61,43 @@
   "tagline": "The Ultimate Revenge Story.",
   "title": "Eega",
   "video": false,
-  "vote_average": 7.082,
-  "vote_count": 244,
+  "vote_average": 7.094,
+  "vote_count": 265,
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6155,
+        "name": "afterlife"
+      },
+      {
+        "id": 5484,
+        "name": "reincarnation"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 237086,
+        "name": "bilingual"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2258337",
+    "wikidata_id": "Q3234794",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -62,9 +105,9 @@
         "gender": 2,
         "id": 389604,
         "known_for_department": "Acting",
-        "name": "Sudeepa",
+        "name": "Kichcha Sudeepa",
         "original_name": "Sudeep",
-        "popularity": 0.9103,
+        "popularity": 1.7535,
         "profile_path": "/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg",
         "cast_id": 2,
         "character": "Sudeep",
@@ -78,8 +121,8 @@
         "known_for_department": "Acting",
         "name": "Samantha Ruth Prabhu",
         "original_name": "సమంత రూత్ ప్రభు",
-        "popularity": 1.0385,
-        "profile_path": "/iGQ0AT1bNULlrJwSOGSRqLDSfGG.jpg",
+        "popularity": 2.0307,
+        "profile_path": "/FFGYlhLQK7FWzPLtmOb1QHTDAh.jpg",
         "cast_id": 4,
         "character": "Bindhu",
         "credit_id": "52fe4bc59251416c7510d7cd",
@@ -91,9 +134,9 @@
         "id": 225387,
         "known_for_department": "Acting",
         "name": "Nani",
-        "original_name": "Nani",
-        "popularity": 1.4451,
-        "profile_path": "/csRjrh58D90LhFNiqNEUTohzoIK.jpg",
+        "original_name": "నాని",
+        "popularity": 2.9802,
+        "profile_path": "/jfOH4sUWs3VXuGUlo0VLMYNRBQ4.jpg",
         "cast_id": 3,
         "character": "Nani",
         "credit_id": "52fe4bc59251416c7510d7c9",
@@ -106,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Adithya Menon",
         "original_name": "Adithya Menon",
-        "popularity": 0.3584,
+        "popularity": 1.2561,
         "profile_path": "/5cmnhtj6npxjKQ8SwqopNfnHBYD.jpg",
         "cast_id": 20,
         "character": "Sudeep's Business Partner",
@@ -120,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3639,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 7,
         "character": "Thief",
@@ -134,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Devadarshini",
         "original_name": "Devadarshini",
-        "popularity": 0.7068,
+        "popularity": 1.3654,
         "profile_path": "/gSq4nM6z82LfI4yjL116P1RDkb0.jpg",
         "cast_id": 6,
         "character": "Bindu's sister-in-law",
@@ -148,7 +191,7 @@
         "known_for_department": "Acting",
         "name": "Chatrapathi Sekhar",
         "original_name": "Chatrapathi Sekhar",
-        "popularity": 0.3946,
+        "popularity": 1.1827,
         "profile_path": "/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg",
         "cast_id": 38,
         "character": "Tantra",
@@ -162,7 +205,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Reddy",
         "original_name": "Srinivasa Reddy",
-        "popularity": 0.4494,
+        "popularity": 1.3572,
         "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
         "cast_id": 10,
         "character": "Sudeep's Personal Assistant",
@@ -176,7 +219,7 @@
         "known_for_department": "Acting",
         "name": "Noel Sean",
         "original_name": "Noel Sean",
-        "popularity": 0.1867,
+        "popularity": 0.4203,
         "profile_path": null,
         "cast_id": 21,
         "character": "Nani's Friend",
@@ -190,7 +233,7 @@
         "known_for_department": "Acting",
         "name": "Sivannarayana Naripeddi",
         "original_name": "Sivannarayana Naripeddi",
-        "popularity": 0.2705,
+        "popularity": 0.8748,
         "profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
         "cast_id": 39,
         "character": "Priest",
@@ -204,7 +247,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.1543,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 41,
         "character": "Thief's friend",
@@ -216,9 +259,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.6126,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 51,
         "character": "Thief's Manager",
@@ -232,7 +275,7 @@
         "known_for_department": "Acting",
         "name": "Hamsa Nandini",
         "original_name": "Hamsa Nandini",
-        "popularity": 0.2949,
+        "popularity": 0.4988,
         "profile_path": "/oUIUJb8H5KVQk080zncuTFcznbT.jpg",
         "cast_id": 9,
         "character": "Chandrakala",
@@ -245,11 +288,11 @@
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.0192,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "cast_id": 37,
-        "character": "Narrator(Voice)",
+        "character": "Narrator (voice)",
         "credit_id": "61c76bac33ad8f001fb34dd9",
         "order": 13
       },
@@ -260,10 +303,10 @@
         "known_for_department": "Sound",
         "name": "Chinmayi Sripaada",
         "original_name": "Chinmayi Sripaada",
-        "popularity": 0.1032,
+        "popularity": 0.5392,
         "profile_path": "/j3bkeLC42zmfu38suUpK2CyxVXG.jpg",
         "cast_id": 50,
-        "character": "Bindu (Voice)",
+        "character": "Bindu (voice)",
         "credit_id": "6708b417c5fcf5a1634f4872",
         "order": 14
       },
@@ -274,7 +317,7 @@
         "known_for_department": "Acting",
         "name": "Sri Simha",
         "original_name": "Sri Simha Koduri",
-        "popularity": 0.1891,
+        "popularity": 0.7191,
         "profile_path": "/muzsjXflMjLQUAVhoZxvlepgeKZ.jpg",
         "cast_id": 52,
         "character": "Bindu's Colleague",
@@ -285,25 +328,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1244579,
-        "known_for_department": "Art",
-        "name": "Raveendar",
-        "original_name": "Raveendar",
-        "popularity": 0.131,
-        "profile_path": null,
-        "credit_id": "625454a0447f9c7113a6dab7",
-        "department": "Art",
-        "job": "Art Direction"
-      },
-      {
-        "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1606145,
         "known_for_department": "Costume & Make-Up",
         "name": "Rama Rajamouli",
         "original_name": "Rama Rajamouli",
-        "popularity": 0.2437,
+        "popularity": 0.3836,
         "profile_path": null,
         "credit_id": "625454b1d8e225159431106d",
         "department": "Costume & Make-Up",
@@ -312,12 +342,25 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1244579,
+        "known_for_department": "Art",
+        "name": "Raveendar",
+        "original_name": "Raveendar",
+        "popularity": 0.3873,
+        "profile_path": null,
+        "credit_id": "625454a0447f9c7113a6dab7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 147021,
         "known_for_department": "Directing",
         "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.0192,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
         "credit_id": "52fe4bc59251416c7510d7c1",
         "department": "Directing",
         "job": "Director"
@@ -328,8 +371,8 @@
         "id": 147022,
         "known_for_department": "Writing",
         "name": "Vijayendra Prasad",
-        "original_name": "Vijayendra Prasad",
-        "popularity": 0.3763,
+        "original_name": "వి. విజయేంద్ర ప్రసాద్",
+        "popularity": 2.1807,
         "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
         "credit_id": "5901389892514155b50039ec",
         "department": "Writing",
@@ -342,22 +385,9 @@
         "known_for_department": "Writing",
         "name": "Jagadish Talasila",
         "original_name": "Jagadish Talasila",
-        "popularity": 0.0289,
+        "popularity": 0.3532,
         "profile_path": null,
         "credit_id": "5a084d57c3a3683406016643",
-        "department": "Directing",
-        "job": "Assistant Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1309359,
-        "known_for_department": "Camera",
-        "name": "Suresh Ragutu",
-        "original_name": "Suresh Ragutu",
-        "popularity": 0.1974,
-        "profile_path": null,
-        "credit_id": "5a084da99251414c2d017756",
         "department": "Directing",
         "job": "Assistant Director"
       },
@@ -368,7 +398,7 @@
         "known_for_department": "Production",
         "name": "Sai Korrapati",
         "original_name": "Sai Korrapati",
-        "popularity": 0.1041,
+        "popularity": 0.3567,
         "profile_path": null,
         "credit_id": "5a084dcf9251414c19016c9c",
         "department": "Production",
@@ -377,11 +407,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 147021,
+        "known_for_department": "Directing",
+        "name": "S. S. Rajamouli",
+        "original_name": "ఎస్.ఎస్. రాజమౌళి",
+        "popularity": 3.7052,
+        "profile_path": "/qPskSZxvoYflC8Bye4tGNBSroy5.jpg",
+        "credit_id": "5a084e069251414bce0172d3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1662102,
         "known_for_department": "Writing",
         "name": "Janardhan Maharshi",
         "original_name": "Janardhan Maharshi",
-        "popularity": 0.1741,
+        "popularity": 0.9777,
         "profile_path": "/tCthmImykaa3SaFyRQ8kaD0ZgMZ.jpg",
         "credit_id": "5a084de79251414bce0172a1",
         "department": "Writing",
@@ -390,15 +433,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 147021,
-        "known_for_department": "Directing",
-        "name": "S. S. Rajamouli",
-        "original_name": "S. S. Rajamouli",
-        "popularity": 1.0192,
-        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
-        "credit_id": "5a084e069251414bce0172d3",
-        "department": "Writing",
-        "job": "Screenplay"
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "5a084eabc3a36833ee016c6e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309359,
+        "known_for_department": "Camera",
+        "name": "Suresh Ragutu",
+        "original_name": "Suresh Ragutu",
+        "popularity": 0.3535,
+        "profile_path": null,
+        "credit_id": "5a084da99251414c2d017756",
+        "department": "Directing",
+        "job": "Assistant Director"
       },
       {
         "adult": false,
@@ -407,7 +463,7 @@
         "known_for_department": "Camera",
         "name": "K.K. Senthil Kumar",
         "original_name": "K.K. Senthil Kumar",
-        "popularity": 0.0902,
+        "popularity": 0.314,
         "profile_path": "/q8OngLi4xFoWFnMG6zkM2lR5glJ.jpg",
         "credit_id": "5a084e109251414c19016cf0",
         "department": "Camera",
@@ -420,7 +476,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "5a084e4f9251414bc6017557",
         "department": "Sound",
@@ -433,24 +489,11 @@
         "known_for_department": "Sound",
         "name": "Akula Bhaskar",
         "original_name": "Akula Bhaskar",
-        "popularity": 0.0261,
+        "popularity": 0.2735,
         "profile_path": null,
         "credit_id": "5a084e5fc3a36833ee016bfd",
         "department": "Sound",
         "job": "Sound Effects Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1488793,
-        "known_for_department": "Editing",
-        "name": "Kotagiri Venkateswara Rao",
-        "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
-        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
-        "credit_id": "5a084eabc3a36833ee016c6e",
-        "department": "Editing",
-        "job": "Editor"
       },
       {
         "adult": false,
@@ -459,7 +502,7 @@
         "known_for_department": "Directing",
         "name": "J.V.V. Sathyanarayana",
         "original_name": "J.V.V. Sathyanarayana",
-        "popularity": 0.0214,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "5a5e7cd49251412e9d00010a",
         "department": "Directing",
@@ -472,7 +515,7 @@
         "known_for_department": "Editing",
         "name": "BVR Shiva kumar",
         "original_name": "BVR Shiva kumar",
-        "popularity": 0.1243,
+        "popularity": 0.4928,
         "profile_path": null,
         "credit_id": "5b29029dc3a36847c0005633",
         "department": "Editing",
@@ -480,12 +523,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2162375,
         "known_for_department": "Crew",
         "name": "King Solomon",
         "original_name": "King Solomon",
-        "popularity": 0.1244,
+        "popularity": 0.3576,
         "profile_path": null,
         "credit_id": "64a2c3028289a0010cec88ed",
         "department": "Crew",
@@ -498,7 +541,7 @@
         "known_for_department": "Directing",
         "name": "Vijay Yelakanti",
         "original_name": "Vijay Yelakanti",
-        "popularity": 0.0789,
+        "popularity": 0.3837,
         "profile_path": null,
         "credit_id": "5b517cca92514112b100d1a0",
         "department": "Directing",
@@ -511,7 +554,7 @@
         "known_for_department": "Production",
         "name": "Daggubati Suresh Babu",
         "original_name": "Daggubati Suresh Babu",
-        "popularity": 0.1157,
+        "popularity": 0.43,
         "profile_path": "/ugysor71gHswoftlEeftZJTffo9.jpg",
         "credit_id": "5c75204c0e0a260b4c19c05b",
         "department": "Production",
@@ -524,7 +567,7 @@
         "known_for_department": "Production",
         "name": "S. S. Karthikeya",
         "original_name": "S S Karthikeya",
-        "popularity": 0.2215,
+        "popularity": 0.5918,
         "profile_path": "/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg",
         "credit_id": "6708934c265a5f8bc5707545",
         "department": "Art",
@@ -537,7 +580,7 @@
         "known_for_department": "Writing",
         "name": "S. S. Kanchi",
         "original_name": "S.S. Kanchi",
-        "popularity": 0.4223,
+        "popularity": 0.8276,
         "profile_path": "/1SHjFBOEuW5jHPDCPOsbvMXe8eE.jpg",
         "credit_id": "6708b54c8d487f65412858a0",
         "department": "Writing",
@@ -550,7 +593,7 @@
         "known_for_department": "Visual Effects",
         "name": "Pete Draper",
         "original_name": "Pete Draper",
-        "popularity": 0.0505,
+        "popularity": 0.2878,
         "profile_path": null,
         "credit_id": "6708b5dd8d487f6541285976",
         "department": "Visual Effects",
@@ -563,7 +606,7 @@
         "known_for_department": "Visual Effects",
         "name": "R. C. Kamalakannan",
         "original_name": "R. C. Kamalakannan",
-        "popularity": 0.0574,
+        "popularity": 0.2807,
         "profile_path": null,
         "credit_id": "6708b637265a5f8bc5708575",
         "department": "Visual Effects",
@@ -576,7 +619,7 @@
         "known_for_department": "Art",
         "name": "Rahul Venugopal",
         "original_name": "Rahul Venugopal",
-        "popularity": 0.0071,
+        "popularity": 0.2799,
         "profile_path": null,
         "credit_id": "6708b65fc5fcf5a1634f4a8c",
         "department": "Art",
@@ -589,7 +632,7 @@
         "known_for_department": "Directing",
         "name": "Ashwin Gangaraju",
         "original_name": "Ashwin Gangaraju",
-        "popularity": 0.0765,
+        "popularity": 0.429,
         "profile_path": null,
         "credit_id": "689473b9a04440de8d28a3f2",
         "department": "Directing",
@@ -602,7 +645,7 @@
         "known_for_department": "Directing",
         "name": "Ashwin Gangaraju",
         "original_name": "Ashwin Gangaraju",
-        "popularity": 0.0765,
+        "popularity": 0.429,
         "profile_path": null,
         "credit_id": "689473eb7b4df2b04b07c508",
         "department": "Writing",
@@ -615,7 +658,7 @@
         "known_for_department": "Writing",
         "name": "Mankombu Gopalakrishnan",
         "original_name": "Mankombu Gopalakrishnan",
-        "popularity": 0.0464,
+        "popularity": 0.5702,
         "profile_path": "/3Wds5asPwDdM0xrYj3AYnnmx6zz.jpg",
         "credit_id": "694ac10c24937a5336155ea2",
         "department": "Writing",
@@ -651,38 +694,133 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt2258337",
-    "wikidata_id": "Q3234794",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2012-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-09T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nuit S. S. Rajamouli, Bienvenue à S. S. Rajamouli, Institut Lumière, Lyon",
+            "release_date": "2026-07-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Sortie en salles",
+            "release_date": "2026-06-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Sortie Blu-ray",
+            "release_date": "2026-06-16T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "Runtime cut to 2 hrs",
+            "release_date": "2012-10-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2012-07-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
-  "keywords": {
-    "keywords": [
+  "alternative_titles": {
+    "titles": [
       {
-        "id": 6155,
-        "name": "afterlife"
+        "iso_3166_1": "IN",
+        "title": "Naan Ee",
+        "type": "Tamil Bilingual"
       },
       {
-        "id": 5484,
-        "name": "reincarnation"
+        "iso_3166_1": "IN",
+        "title": "நான் ஈ",
+        "type": "தமிழ்"
       },
       {
-        "id": 9748,
-        "name": "revenge"
+        "iso_3166_1": "IN",
+        "title": "Makkhi",
+        "type": "Hindi Dub"
       },
       {
-        "id": 9826,
-        "name": "murder"
+        "iso_3166_1": "IN",
+        "title": "Eecha",
+        "type": "Malayalam Dubbed"
       },
       {
-        "id": 13006,
-        "name": "torture"
+        "iso_3166_1": "KR",
+        "title": "나는 파리다",
+        "type": ""
       },
       {
-        "id": 237086,
-        "name": "bilingual"
+        "iso_3166_1": "IN",
+        "title": "ഈച്ച",
+        "type": "Malayalam"
       }
     ]
   },
@@ -864,6 +1002,16 @@
       },
       {
         "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "file_path": "/fRnUneA1BatlG7Mg5sV69a4nrqV.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 1500,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
@@ -1024,16 +1172,6 @@
       },
       {
         "aspect_ratio": 0.667,
-        "height": 1104,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/4Q5sQPJktfgXUhUS1kygGB4FUGZ.jpg",
-        "vote_average": 0.166,
-        "vote_count": 1,
-        "width": 736
-      },
-      {
-        "aspect_ratio": 0.667,
         "height": 750,
         "iso_3166_1": "IN",
         "iso_639_1": "ml",
@@ -1071,91 +1209,26 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 525
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "AE",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2012-07-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       },
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "hi",
-            "note": "Runtime cut to 2 hrs",
-            "release_date": "2012-10-12T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2012-07-06T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "file_path": "/9kaIqDdij2GLVcwbll2ZqSQPuEO.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 720
       },
       {
-        "iso_3166_1": "JP",
-        "release_dates": [
-          {
-            "certification": "G",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2013-09-16T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Naan Ee",
-        "type": "Tamil Bilingual"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "நான் ஈ",
-        "type": "தமிழ்"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Makkhi",
-        "type": "Hindi Dub"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Eecha",
-        "type": "Malayalam Dubbed"
-      },
-      {
-        "iso_3166_1": "KR",
-        "title": "나는 파리다",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "ഈച്ച",
-        "type": "Malayalam"
+        "aspect_ratio": 0.75,
+        "height": 2000,
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "file_path": "/ayCJwKm1VsNjCv7CsGDmdtBrXWg.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1501
       }
     ]
   }

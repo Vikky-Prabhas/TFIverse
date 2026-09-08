@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Gatham",
   "overview": "",
-  "popularity": 0.067,
+  "popularity": 0.4324,
   "poster_path": "/sN4IpLivU2E7f1qExpcg284YWsL.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Yuvaraj Sagar",
         "original_name": "Yuvaraj Sagar",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Soumya",
         "original_name": "Soumya",
-        "popularity": 0.0168,
+        "popularity": 0.2629,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Sonia",
         "original_name": "Sonia",
-        "popularity": 0.0071,
+        "popularity": 0.2803,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Shafir",
         "original_name": "Shafir",
-        "popularity": 0,
+        "popularity": 0.2728,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -102,11 +102,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2265877,
+        "known_for_department": "Sound",
+        "name": "Vidya Dharani",
+        "original_name": "Vidya Dharani",
+        "popularity": 0.2588,
+        "profile_path": null,
+        "credit_id": "5c8be6bb9251410ceac58075",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2265876,
         "known_for_department": "Directing",
         "name": "B.s.vasu",
         "original_name": "B.s.vasu",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5c8be692c3a368645d1001ea",
         "department": "Directing",
@@ -119,24 +132,11 @@
         "known_for_department": "Directing",
         "name": "B.s.vasu",
         "original_name": "B.s.vasu",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5c8be6a00e0a264badc3c704",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2265877,
-        "known_for_department": "Sound",
-        "name": "Vidya Dharani",
-        "original_name": "Vidya Dharani",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5c8be6bb9251410ceac58075",
-        "department": "Sound",
-        "job": "Music Director"
       }
     ]
   },
@@ -147,27 +147,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.722,
-        "height": 1024,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/sN4IpLivU2E7f1qExpcg284YWsL.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 739
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -188,5 +172,21 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.722,
+        "height": 1024,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sN4IpLivU2E7f1qExpcg284YWsL.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 739
+      }
+    ]
   }
 }

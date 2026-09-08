@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Budugu",
   "overview": "Vamsi Krishna suffers from ADHD and therefore suffers miserably at school life. Due to his lack of performance in class and deviltry issues, he is constantly nagged by his parents. His studding mother Pooja spends time over his betterment but couldn’t comply with the difficulties of coping with a ADHD child since she has no clue what Bunny aka. Vamsi was going through. One fine day, parents decide to send him to boarding, thinking this to be the only viable option available for his improvement. And that’s where Bunny starts getting abnormal and starts getting connected to Diya. Who is Diya? Why did Parents consult a Psychiatrist Geetha? What happens next forms the rest of the story line.",
-  "popularity": 0.216,
+  "popularity": 0.6711,
   "poster_path": "/tsozY8HTafbrbqONZ0Bjb4ES1fs.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Indu Anand",
         "original_name": "Indu Anand",
-        "popularity": 0.0696,
+        "popularity": 0.7037,
         "profile_path": "/mwyhLwqKHG1O9TW9RgJpZ12Qx8A.jpg",
         "cast_id": 1,
         "character": "Shakuntaladevi",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Lakshmi Manchu",
         "original_name": "Lakshmi Manchu",
-        "popularity": 0.7877,
+        "popularity": 1.2746,
         "profile_path": "/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg",
         "cast_id": 3,
         "character": "Pooja",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Indraja",
         "original_name": "Indraja",
-        "popularity": 0.3524,
+        "popularity": 1.4897,
         "profile_path": "/p9MJgtbY0N32nI2ugjBPDpIsqRi.jpg",
         "cast_id": 8,
         "character": "Dr. Geetha Reddy",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Sana",
         "original_name": "Sana",
-        "popularity": 0.2251,
+        "popularity": 0.977,
         "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
         "cast_id": 9,
         "character": "Shashi",
@@ -115,7 +115,7 @@
         "known_for_department": "Visual Effects",
         "name": "Pradeep Pudi",
         "original_name": "Pradeep Pudi",
-        "popularity": 0.0892,
+        "popularity": 0.3343,
         "profile_path": null,
         "credit_id": "61825b0acb6db5002c2a39c6",
         "department": "Visual Effects",
@@ -128,7 +128,7 @@
         "known_for_department": "Directing",
         "name": "Manmohan",
         "original_name": "Manmohan",
-        "popularity": 0.0546,
+        "popularity": 0.3263,
         "profile_path": null,
         "credit_id": "5910ec6fc3a36865190344c9",
         "department": "Directing",
@@ -141,7 +141,7 @@
         "known_for_department": "Directing",
         "name": "Manmohan",
         "original_name": "Manmohan",
-        "popularity": 0.0546,
+        "popularity": 0.3263,
         "profile_path": null,
         "credit_id": "5a580642c3a3681e68000b71",
         "department": "Writing",
@@ -154,7 +154,7 @@
         "known_for_department": "Sound",
         "name": "Sai Karthik",
         "original_name": "Sai Karthik",
-        "popularity": 0.1586,
+        "popularity": 0.3815,
         "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
         "credit_id": "5a58064dc3a3681e78000ba3",
         "department": "Sound",
@@ -167,7 +167,7 @@
         "known_for_department": "Camera",
         "name": "Suresh Ragutu",
         "original_name": "Suresh Ragutu",
-        "popularity": 0.1974,
+        "popularity": 0.3535,
         "profile_path": null,
         "credit_id": "5a580659c3a3681e5f000ac1",
         "department": "Camera",
@@ -178,15 +178,15 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt5167532",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -204,9 +204,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -243,5 +240,8 @@
         "width": 706
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

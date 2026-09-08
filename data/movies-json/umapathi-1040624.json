@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఉమాపతి",
   "overview": "",
-  "popularity": 0.2713,
+  "popularity": 1.2805,
   "poster_path": "/beHuAxgMpqsdDdcH1j8IpaggZhh.jpg",
   "production_companies": [
     {
@@ -58,6 +58,16 @@
   "videos": {
     "results": []
   },
+  "external_ids": {
+    "imdb_id": "tt28686243",
+    "wikidata_id": "Q124311956",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -67,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Anurag Konidena",
         "original_name": "Anurag Konidena",
-        "popularity": 0.0214,
+        "popularity": 0.5046,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -81,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Avika Gor",
         "original_name": "Avika Gor",
-        "popularity": 0.3913,
+        "popularity": 1.2945,
         "profile_path": "/2HJXqe3Y98nw2lDESNmwAM6cfQ8.jpg",
         "cast_id": 2,
         "character": "",
@@ -95,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 3,
         "character": "",
@@ -109,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "Tulasi",
         "original_name": "Tulasi",
-        "popularity": 0.9058,
+        "popularity": 0.9555,
         "profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
         "cast_id": 4,
         "character": "",
@@ -123,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Praveen",
         "original_name": "Praveen",
-        "popularity": 0.1974,
+        "popularity": 1.3924,
         "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
         "cast_id": 5,
         "character": "",
@@ -137,7 +147,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Ramprasad",
         "original_name": "Jabardasth Ramprasad",
-        "popularity": 0.2558,
+        "popularity": 1.9622,
         "profile_path": "/ud7ejWOdrED63N8tMCFQUmirftZ.jpg",
         "cast_id": 6,
         "character": "",
@@ -151,7 +161,7 @@
         "known_for_department": "Acting",
         "name": "Bhadram",
         "original_name": "Bhadram",
-        "popularity": 0.1178,
+        "popularity": 0.8678,
         "profile_path": "/6QHbHMBTsysO1vO2liDF25NRQzT.jpg",
         "cast_id": 7,
         "character": "",
@@ -165,7 +175,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Reddy",
         "original_name": "Srinivasa Reddy",
-        "popularity": 0.4494,
+        "popularity": 1.3572,
         "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
         "cast_id": 8,
         "character": "",
@@ -179,7 +189,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi Jaya Vani",
         "original_name": "Gummadi Jaya Vani",
-        "popularity": 0.0662,
+        "popularity": 0.4293,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -191,26 +201,13 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2450182,
+        "id": 2279500,
         "known_for_department": "Writing",
-        "name": "Chandrabose",
-        "original_name": "Chandrabose",
-        "popularity": 0.14,
-        "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
-        "credit_id": "635a02138d2f8d007d26c26e",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3759556,
-        "known_for_department": "Writing",
-        "name": "Murthy Devagupthapu",
-        "original_name": "Murthy Devagupthapu",
-        "popularity": 0.083,
-        "profile_path": null,
-        "credit_id": "635a024a6d97e6007a57a2c0",
+        "name": "Ravi Kumar Bhaskarabhatla",
+        "original_name": "Ravi Kumar Bhaskarabhatla",
+        "popularity": 0.3786,
+        "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
+        "credit_id": "635a021f2d8ef30079fe2a30",
         "department": "Writing",
         "job": "Lyricist"
       },
@@ -221,7 +218,7 @@
         "known_for_department": "Sound",
         "name": "Shakthi Kanth Karthick",
         "original_name": "Shakti Kanth",
-        "popularity": 0.1371,
+        "popularity": 0.5174,
         "profile_path": null,
         "credit_id": "635a01d12d8ef3008139794c",
         "department": "Sound",
@@ -230,15 +227,41 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2279500,
+        "id": 3759556,
         "known_for_department": "Writing",
-        "name": "Ravi Kumar Bhaskarabhatla",
-        "original_name": "Ravi Kumar Bhaskarabhatla",
-        "popularity": 0.1071,
-        "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
-        "credit_id": "635a021f2d8ef30079fe2a30",
+        "name": "Murthy Devagupthapu",
+        "original_name": "Murthy Devagupthapu",
+        "popularity": 0.3985,
+        "profile_path": null,
+        "credit_id": "635a024a6d97e6007a57a2c0",
         "department": "Writing",
         "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2450182,
+        "known_for_department": "Writing",
+        "name": "Chandrabose",
+        "original_name": "Chandrabose",
+        "popularity": 1.0259,
+        "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
+        "credit_id": "635a02138d2f8d007d26c26e",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3311360,
+        "known_for_department": "Crew",
+        "name": "Sai Satish",
+        "original_name": "Sai Sathish Parvathaneni",
+        "popularity": 0.4145,
+        "profile_path": null,
+        "credit_id": "635a7e9aca7ec6008574a9c6",
+        "department": "Crew",
+        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -247,24 +270,11 @@
         "known_for_department": "Editing",
         "name": "Gautham Raju",
         "original_name": "Gautham Raju",
-        "popularity": 0.17,
+        "popularity": 0.4474,
         "profile_path": null,
         "credit_id": "635a7ebb3c887d0091556dcd",
         "department": "Editing",
         "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3311360,
-        "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
-        "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1184,
-        "profile_path": null,
-        "credit_id": "635a7e9aca7ec6008574a9c6",
-        "department": "Crew",
-        "job": "Public Relations"
       },
       {
         "adult": false,
@@ -273,7 +283,7 @@
         "known_for_department": "Writing",
         "name": "P. Satish Chandrashekar",
         "original_name": "P. Satish Chandrashekar",
-        "popularity": 0.0214,
+        "popularity": 0.2912,
         "profile_path": null,
         "credit_id": "635a7f86ca7ec6008574aa27",
         "department": "Writing",
@@ -286,7 +296,7 @@
         "known_for_department": "Writing",
         "name": "A. Sarkunam",
         "original_name": "A. Sarkunam",
-        "popularity": 0.2207,
+        "popularity": 0.7409,
         "profile_path": null,
         "credit_id": "635a7fa687e63e007cf934ce",
         "department": "Writing",
@@ -295,40 +305,30 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3759939,
-        "known_for_department": "Directing",
-        "name": "Satya Dwarapudi",
-        "original_name": "Satya Dwarapudi",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "635a7ed18d2f8d007d2705be",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3759940,
         "known_for_department": "Camera",
         "name": "Raghavendra",
         "original_name": "Raghavendra",
-        "popularity": 0.051,
+        "popularity": 0.2843,
         "profile_path": null,
         "credit_id": "635a7f0c6d97e600826bfaa5",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3759939,
+        "known_for_department": "Directing",
+        "name": "Satya Dwarapudi",
+        "original_name": "Satya Dwarapudi",
+        "popularity": 0.3473,
+        "profile_path": null,
+        "credit_id": "635a7ed18d2f8d007d2705be",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt28686243",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -344,15 +344,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Umapathy",
-        "type": "Alternate"
       }
     ]
   },
@@ -380,6 +371,15 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 981
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Umapathy",
+        "type": "Alternate"
       }
     ]
   }

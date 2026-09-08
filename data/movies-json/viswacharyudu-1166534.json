@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Viswacharyudu",
   "overview": "Viswacharyudu is the story of a Godhead, who reincarnates as a sage to establish and spread the worship of Lord Vishnu (Vaishnavism) in India. Upholding righteousness was one of the main purposes behind his birth. He dedicates his entire life towards fulfilling his duty as a Vaishnavite, bestowed upon by Lord Vishnu himself. This movie takes us through his life story.",
-  "popularity": 0.1465,
+  "popularity": 0.4676,
   "poster_path": "/9mJGb40PZe1hfLTSw2V3OLjsaNb.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Bhushan",
         "original_name": "Bhushan",
-        "popularity": 0.0362,
+        "popularity": 0.2563,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -69,8 +69,8 @@
         "known_for_department": "Acting",
         "name": "Karuna Bhushan",
         "original_name": "Karuna Bhushan",
-        "popularity": 0.0168,
-        "profile_path": "/q8LMItOuE5kjoNL9wIKZDfDdtaM.jpg",
+        "popularity": 0.2818,
+        "profile_path": "/eljoap6zatX7QBOG5z5vTLCVo9g.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "64def621d100b614b15a9261",
@@ -81,33 +81,30 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4221116,
-        "known_for_department": "Directing",
-        "name": "Meer",
-        "original_name": "Meer",
-        "popularity": 0.051,
-        "profile_path": "/r5YCroyGE92rKh7H6TPvTQo4sOa.jpg",
-        "credit_id": "64def5edd100b614b2efce7a",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4221118,
         "known_for_department": "Production",
         "name": "Chakravarthula Acharya",
         "original_name": "Chakravarthula Acharya",
-        "popularity": 0,
+        "popularity": 0.2975,
         "profile_path": null,
         "credit_id": "64def5fcb77d4b1141f92302",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4221116,
+        "known_for_department": "Directing",
+        "name": "Meer",
+        "original_name": "Meer",
+        "popularity": 0.2979,
+        "profile_path": "/r5YCroyGE92rKh7H6TPvTQo4sOa.jpg",
+        "credit_id": "64def5edd100b614b2efce7a",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -116,8 +113,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -146,10 +143,13 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": []
   },
   "videos": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

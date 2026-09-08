@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Nenu Aadhi Madyalo Maa Nanna",
   "overview": "",
-  "popularity": 0.1994,
+  "popularity": 0.7973,
   "poster_path": "/eXsnqbKApEBGrB3LfZXL0nmTQQs.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,16 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -62,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Ramakrishna Meka",
         "original_name": "Ramakrishna Meka",
-        "popularity": 0.1544,
+        "popularity": 0.4048,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -76,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Renuka",
         "original_name": "Renuka",
-        "popularity": 0.5713,
+        "popularity": 1.2156,
         "profile_path": "/bjwxXUFDzC7TNbyfLsVhhEnCsof.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Manoj Nandam",
         "original_name": "Manoj Nandam",
-        "popularity": 0.2589,
+        "popularity": 0.7499,
         "profile_path": "/kpTD7b83tE7wrrHYty8y8O0NQqU.jpg",
         "cast_id": 5,
         "character": "",
@@ -106,7 +96,7 @@
         "known_for_department": "Directing",
         "name": "Prem Chand",
         "original_name": "Prem Chand",
-        "popularity": 0.0214,
+        "popularity": 0.4317,
         "profile_path": null,
         "credit_id": "5d19c638ca4f670021d68d5c",
         "department": "Directing",
@@ -117,21 +107,8 @@
   "keywords": {
     "keywords": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 1600,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/eXsnqbKApEBGrB3LfZXL0nmTQQs.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1200
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -150,7 +127,30 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eXsnqbKApEBGrB3LfZXL0nmTQQs.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
   }
 }

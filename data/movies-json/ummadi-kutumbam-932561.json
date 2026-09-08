@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఉమ్మడి కుటుంబం",
   "overview": "Four brothers live happily together as a joint family. But when misunderstandings arises between them, they need to overcome them to live happily again.",
-  "popularity": 0.2765,
+  "popularity": 1.0027,
   "poster_path": "/ode4BVDM0HDNTvpCy8XU9oB8NNq.jpg",
   "production_companies": [
     {
@@ -51,6 +51,13 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0264126",
+    "wikidata_id": "Q7881693",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "Ramu",
@@ -74,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3868,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 2,
         "character": "Rama",
@@ -88,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Kumari",
         "original_name": "Krishna Kumari",
-        "popularity": 0.2172,
+        "popularity": 0.5892,
         "profile_path": "/fNt3SvjChrIjjhX6SsVgZhAPV27.jpg",
         "cast_id": 3,
         "character": "Sarada",
@@ -102,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 4,
         "character": "Nagaiah",
@@ -116,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Nagabhushanam",
         "original_name": "Nagabhushanam",
-        "popularity": 0.0672,
+        "popularity": 0.7024,
         "profile_path": "/k15yCgKqJiCRkIe87QK4UrPr9jQ.jpg",
         "cast_id": 5,
         "character": "Zamindar Bhavani Prasad",
@@ -130,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 6,
         "character": "Chandram",
@@ -144,8 +151,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.1642,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 7,
         "character": "Dr. Mukunda Rao",
         "credit_id": "61f619cd81140f008e465569",
@@ -158,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 8,
         "character": "Pasupathi",
@@ -172,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Raja Babu",
         "original_name": "Raja Babu",
-        "popularity": 0.1263,
+        "popularity": 0.8339,
         "profile_path": "/hQBSR46T1qXie1VWGVKAuBNpiIb.jpg",
         "cast_id": 9,
         "character": "Tippayya",
@@ -186,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Mukkamala",
         "original_name": "Mukkamala",
-        "popularity": 0.2844,
+        "popularity": 0.9731,
         "profile_path": "/o8NNoUw06cv0KIGfujrsg73aUJg.jpg",
         "cast_id": 10,
         "character": "Subbaiah",
@@ -200,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 11,
         "character": "Gowri",
@@ -214,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "L. Vijayalakshmi",
         "original_name": "L. Vijayalakshmi",
-        "popularity": 0.257,
+        "popularity": 0.9163,
         "profile_path": "/uhHo9vmXtVCZJdaZnq9HJVF5WA1.jpg",
         "cast_id": 12,
         "character": "Mohini",
@@ -226,28 +233,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 585311,
-        "known_for_department": "Directing",
-        "name": "Yoganand D",
-        "original_name": "Yoganand D",
-        "popularity": 0.1187,
-        "profile_path": null,
-        "credit_id": "61f61a4781140f008e465692",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1003933,
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "credit_id": "61f61a8ddfaae900f5dc0e83",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585311,
+        "known_for_department": "Directing",
+        "name": "D. Yoganand",
+        "original_name": "Yoganand D",
+        "popularity": 0.8521,
+        "profile_path": null,
+        "credit_id": "61f61a4781140f008e465692",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -256,23 +263,13 @@
         "known_for_department": "Writing",
         "name": "Samudrala Jr",
         "original_name": "Samudrala Jr",
-        "popularity": 0.1673,
+        "popularity": 0.4265,
         "profile_path": null,
         "credit_id": "61f61a5d0c4c16001af7d200",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0264126",
-    "wikidata_id": "Q7881693",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": [
@@ -281,6 +278,9 @@
         "name": "family drama"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [

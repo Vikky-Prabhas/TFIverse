@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "క్రాంతి",
   "overview": "Ram's life is shattered when his girlfriend Sandhya is found murdered just before their wedding. But when his cousin Ramya disappears under mysterious circumstances,, he must snap out of his stupor before it’s too late.",
-  "popularity": 0.1129,
+  "popularity": 1.9572,
   "poster_path": "/iFr3zunRVhtnSBY8IxYk845cMuK.jpg",
   "production_companies": [
     {
@@ -46,136 +46,6 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 3,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1712856,
-        "known_for_department": "Writing",
-        "name": "Rakendu Mouli",
-        "original_name": "Rakendu Mouli Vennelakanti",
-        "popularity": 0.4181,
-        "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
-        "cast_id": 1,
-        "character": "Ram",
-        "credit_id": "6401d3ab278d8a00a2f8881f",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3693818,
-        "known_for_department": "Acting",
-        "name": "Inaya Sultana",
-        "original_name": "Inaya Sultana",
-        "popularity": 0.0289,
-        "profile_path": "/dV6TgIICL2XhF6DsAUWzrgXsCQC.jpg",
-        "cast_id": 2,
-        "character": "Sandhya",
-        "credit_id": "6401d3c5278d8a008aa463d4",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3947131,
-        "known_for_department": "Acting",
-        "name": "Sravani Shetty",
-        "original_name": "Sravani Shetty",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6401d3e3c7176d00a8e9ae18",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2482177,
-        "known_for_department": "Acting",
-        "name": "Yamuna Srinidhi",
-        "original_name": "Yamuna Srinidhi",
-        "popularity": 0.0286,
-        "profile_path": "/veXGIh2TB10uqYKzlWcpjIb7dvN.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6401d3fa278d8a0086e38b5e",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3947156,
-        "known_for_department": "Directing",
-        "name": "Bhima Shankar",
-        "original_name": "Bhima Shankar",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "6401d9fc9f1be700e678c403",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3947160,
-        "known_for_department": "Editing",
-        "name": "KCB Hari",
-        "original_name": "KCB Hari",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6401da62699fb700877585f5",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3947159,
-        "known_for_department": "Crew",
-        "name": "Kishore Boyadipu",
-        "original_name": "Kishore Boyadipu",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6401da45278d8a00a2f88ac0",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3326028,
-        "known_for_department": "Art",
-        "name": "Gyan Singh",
-        "original_name": "Gyan Singh",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6401da31699fb700e6fec91f",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3941294,
-        "known_for_department": "Production",
-        "name": "Bhargav Manne",
-        "original_name": "Bhargav Manne",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "credit_id": "6401da1c699fb7008f9cc88d",
-        "department": "Production",
-        "job": "Producer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
@@ -183,17 +53,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kranthi",
-        "type": ""
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -209,6 +73,15 @@
             "type": 4
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kranthi",
+        "type": ""
       }
     ]
   },
@@ -266,6 +139,133 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 683
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712856,
+        "known_for_department": "Writing",
+        "name": "Rakendu Mouli",
+        "original_name": "Rakendu Mouli Vennelakanti",
+        "popularity": 0.5423,
+        "profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
+        "cast_id": 1,
+        "character": "Ram",
+        "credit_id": "6401d3ab278d8a00a2f8881f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3693818,
+        "known_for_department": "Acting",
+        "name": "Inaya Sultana",
+        "original_name": "ఇనాయా సుల్తానా",
+        "popularity": 0.6788,
+        "profile_path": "/dV6TgIICL2XhF6DsAUWzrgXsCQC.jpg",
+        "cast_id": 2,
+        "character": "Sandhya",
+        "credit_id": "6401d3c5278d8a008aa463d4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3947131,
+        "known_for_department": "Acting",
+        "name": "Sravani Shetty",
+        "original_name": "Sravani Shetty",
+        "popularity": 0.3032,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6401d3e3c7176d00a8e9ae18",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2482177,
+        "known_for_department": "Acting",
+        "name": "Yamuna Srinidhi",
+        "original_name": "Yamuna Srinidhi",
+        "popularity": 0.5063,
+        "profile_path": "/veXGIh2TB10uqYKzlWcpjIb7dvN.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6401d3fa278d8a0086e38b5e",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947159,
+        "known_for_department": "Crew",
+        "name": "Kishore Boyadipu",
+        "original_name": "Kishore Boyadipu",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "6401da45278d8a00a2f88ac0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947156,
+        "known_for_department": "Directing",
+        "name": "Bhima Shankar",
+        "original_name": "Bhima Shankar",
+        "popularity": 0.3433,
+        "profile_path": null,
+        "credit_id": "6401d9fc9f1be700e678c403",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3326028,
+        "known_for_department": "Art",
+        "name": "Gyan Singh",
+        "original_name": "Gyan Singh",
+        "popularity": 0.26,
+        "profile_path": null,
+        "credit_id": "6401da31699fb700e6fec91f",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3941294,
+        "known_for_department": "Production",
+        "name": "Bhargav Manne",
+        "original_name": "Bhargav Manne",
+        "popularity": 0.2876,
+        "profile_path": null,
+        "credit_id": "6401da1c699fb7008f9cc88d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947160,
+        "known_for_department": "Editing",
+        "name": "KCB Hari",
+        "original_name": "KCB Hari",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "6401da62699fb700877585f5",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   }

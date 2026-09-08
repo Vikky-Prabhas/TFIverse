@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "The Conversation",
   "overview": "What starts off as a routine therapy session for Michael slowly turns out to be not what it seems.",
-  "popularity": 0,
+  "popularity": 0.7823,
   "poster_path": "/gus2BNCorc2pbYR0awYT2mvtCoH.jpg",
   "production_companies": [
     {
@@ -63,60 +63,8 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-02-01T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5274501,
-        "known_for_department": "Acting",
-        "name": "Siddharth",
-        "original_name": "Siddharth",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Doctor",
-        "credit_id": "694af78fcf7b67db108ec465",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5785328,
-        "known_for_department": "Acting",
-        "name": "Gopi",
-        "original_name": "Gopi",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Michael",
-        "credit_id": "694af79a32b230feb18ec1e6",
-        "order": 1
-      },
       {
         "adult": false,
         "gender": 0,
@@ -124,11 +72,39 @@
         "known_for_department": "Crew",
         "name": "Dharani",
         "original_name": "Dharani",
-        "popularity": 0,
+        "popularity": 0.2993,
         "profile_path": null,
         "cast_id": 22,
         "character": "",
         "credit_id": "694b0121c07abdfe791560d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6318009,
+        "known_for_department": "Directing",
+        "name": "Siddharth Devaraju",
+        "original_name": "Siddharth Devaraju",
+        "popularity": 0.399,
+        "profile_path": "/zl7amp76iAxeMDekNMGbZvy24hv.jpg",
+        "cast_id": 27,
+        "character": "Doctor",
+        "credit_id": "6a43addebc7dc258b3f65788",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6318012,
+        "known_for_department": "Directing",
+        "name": "Gopi Pulluru",
+        "original_name": "Gopi Pulluru",
+        "popularity": 0.3187,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Michael",
+        "credit_id": "6a43aded18140b9a1282944d",
         "order": 2
       }
     ],
@@ -140,7 +116,7 @@
         "known_for_department": "Directing",
         "name": "Abhinav",
         "original_name": "Abhinav",
-        "popularity": 0,
+        "popularity": 0.2635,
         "profile_path": null,
         "credit_id": "694afd62c2b88060a27aca71",
         "department": "Directing",
@@ -153,7 +129,7 @@
         "known_for_department": "Directing",
         "name": "Abhinav",
         "original_name": "Abhinav",
-        "popularity": 0,
+        "popularity": 0.2635,
         "profile_path": null,
         "credit_id": "694afeec7f93f41a5d8cf311",
         "department": "Writing",
@@ -166,7 +142,7 @@
         "known_for_department": "Crew",
         "name": "Dharani",
         "original_name": "Dharani",
-        "popularity": 0,
+        "popularity": 0.2993,
         "profile_path": null,
         "credit_id": "694aff39c2b88060a27aca84",
         "department": "Art",
@@ -179,7 +155,7 @@
         "known_for_department": "Crew",
         "name": "Dharani",
         "original_name": "Dharani",
-        "popularity": 0,
+        "popularity": 0.2993,
         "profile_path": null,
         "credit_id": "694affcf5d4fa96ce2155f0a",
         "department": "Lighting",
@@ -188,37 +164,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 5274501,
-        "known_for_department": "Acting",
-        "name": "Siddharth",
-        "original_name": "Siddharth",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "694b0061ea4043936f2fcb23",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5274501,
-        "known_for_department": "Acting",
-        "name": "Siddharth",
-        "original_name": "Siddharth",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "694b00a1a27b750e60fb1cd7",
-        "department": "Sound",
-        "job": "Sound Designer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4959777,
         "known_for_department": "Acting",
         "name": "Kaushika Gutti",
         "original_name": "Kaushika Gutti",
-        "popularity": 0,
+        "popularity": 0.4516,
         "profile_path": null,
         "credit_id": "694b00dc3d9133497715612e",
         "department": "Sound",
@@ -231,7 +181,7 @@
         "known_for_department": "Camera",
         "name": "Snigdha Sheryll",
         "original_name": "Snigdha Sheryll",
-        "popularity": 0,
+        "popularity": 0.2946,
         "profile_path": null,
         "credit_id": "697b9cfc0422586f49a7efcf",
         "department": "Camera",
@@ -244,7 +194,7 @@
         "known_for_department": "Directing",
         "name": "Abhinav",
         "original_name": "Abhinav",
-        "popularity": 0,
+        "popularity": 0.2635,
         "profile_path": null,
         "credit_id": "697b9d0f4959f7b99c8f8e99",
         "department": "Camera",
@@ -257,7 +207,7 @@
         "known_for_department": "Art",
         "name": "Hiran",
         "original_name": "Hiran",
-        "popularity": 0,
+        "popularity": 0.3159,
         "profile_path": null,
         "credit_id": "697b9d3e831d6a316fb81eea",
         "department": "Art",
@@ -270,13 +220,46 @@
         "known_for_department": "Sound",
         "name": "Srujan",
         "original_name": "Srujan",
-        "popularity": 0,
+        "popularity": 0.3318,
         "profile_path": null,
         "credit_id": "697b9d6ff71c3bfe3eb81cf4",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6318009,
+        "known_for_department": "Directing",
+        "name": "Siddharth Devaraju",
+        "original_name": "Siddharth Devaraju",
+        "popularity": 0.399,
+        "profile_path": "/zl7amp76iAxeMDekNMGbZvy24hv.jpg",
+        "credit_id": "6a43ae126b946672a9bc6013",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6318009,
+        "known_for_department": "Directing",
+        "name": "Siddharth Devaraju",
+        "original_name": "Siddharth Devaraju",
+        "popularity": 0.399,
+        "profile_path": "/zl7amp76iAxeMDekNMGbZvy24hv.jpg",
+        "credit_id": "6a43ae23f5a637f82c576037",
+        "department": "Sound",
+        "job": "Sound Designer"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -320,5 +303,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-02-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

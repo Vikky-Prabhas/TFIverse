@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "హార్ట్ అటాక్",
   "overview": "A romantic drama which aims to allure the urban crowd, stars Nithiin Reddy and Adah Sharma. With a tagline `I need one hour kiss to burn 300 calories` - that suggests the film is high on romantic quotient",
-  "popularity": 0.3303,
+  "popularity": 2.2387,
   "poster_path": "/7tIZpbmC9TJnYyWd44vHcmcuOXZ.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,8 +46,8 @@
   "tagline": "Intense and passionate",
   "title": "Heart Attack",
   "video": false,
-  "vote_average": 4.8,
-  "vote_count": 11,
+  "vote_average": 4.5,
+  "vote_count": 14,
   "credits": {
     "cast": [
       {
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 2.0264,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 1,
         "character": "Varun",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Adah Sharma",
         "original_name": "Adah Sharma",
-        "popularity": 1.62,
+        "popularity": 1.7758,
         "profile_path": "/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg",
         "cast_id": 2,
         "character": "Hayati",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Vikramjeet Virk",
         "original_name": "Vikramjeet Virk",
-        "popularity": 0.1995,
+        "popularity": 1.0773,
         "profile_path": "/wxKUMEy7dTcOw7ct3WjJBR8TWIR.jpg",
         "cast_id": 13,
         "character": "Makarand Kamati",
@@ -98,8 +98,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 3,
         "character": "",
@@ -112,8 +112,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "Iskcon Ramana",
@@ -125,9 +125,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.7675,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 6,
         "character": "",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Tejaswi Madivada",
         "original_name": "Tejaswi Madivada",
-        "popularity": 0.2718,
+        "popularity": 0.8243,
         "profile_path": "/1XRKVC9IEqf0k6Yj1R69xCc0dUA.jpg",
         "cast_id": 14,
         "character": "Shriya",
@@ -166,12 +166,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 119891,
+        "known_for_department": "Directing",
+        "name": "Puri Jagannadh",
+        "original_name": "పూరీ జగన్నాథ్",
+        "popularity": 2.7213,
+        "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
+        "credit_id": "52fe4e829251416c9113419d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 562223,
         "known_for_department": "Camera",
         "name": "Amol Rathod",
         "original_name": "Amol Rathod",
-        "popularity": 0.1265,
+        "popularity": 0.3066,
         "profile_path": null,
         "credit_id": "52fe4e829251416c91134197",
         "department": "Camera",
@@ -183,25 +196,12 @@
         "id": 119891,
         "known_for_department": "Directing",
         "name": "Puri Jagannadh",
-        "original_name": "Puri Jagannadh",
-        "popularity": 0.788,
+        "original_name": "పూరీ జగన్నాథ్",
+        "popularity": 2.7213,
         "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
-        "credit_id": "52fe4e829251416c9113419d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 119891,
-        "known_for_department": "Directing",
-        "name": "Puri Jagannadh",
-        "original_name": "Puri Jagannadh",
-        "popularity": 0.788,
-        "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
-        "credit_id": "54180594c3a36819a40026d1",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "541805870e0a26380400263a",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -210,7 +210,7 @@
         "known_for_department": "Sound",
         "name": "Anup Rubens",
         "original_name": "Anup Rubens",
-        "popularity": 0.0666,
+        "popularity": 0.3792,
         "profile_path": "/yfAPR7VRlZp4deOLNtESUd6uhSY.jpg",
         "credit_id": "541805acc3a36819a8002728",
         "department": "Sound",
@@ -222,17 +222,14 @@
         "id": 119891,
         "known_for_department": "Directing",
         "name": "Puri Jagannadh",
-        "original_name": "Puri Jagannadh",
-        "popularity": 0.788,
+        "original_name": "పూరీ జగన్నాథ్",
+        "popularity": 2.7213,
         "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
-        "credit_id": "541805870e0a26380400263a",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "54180594c3a36819a40026d1",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt3542320",
@@ -240,6 +237,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -260,6 +260,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -348,8 +351,5 @@
         "width": 1129
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

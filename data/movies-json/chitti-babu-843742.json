@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Chitti Babu",
   "overview": "Chitti Babu is an upcoming Telugu movie. The movie is directed by Ajay Koundinya and will feature Sai Jaswanth, Renu Varma, P. Vijay Kumar and Kumar Mittapalli as lead characters.",
-  "popularity": 0.0557,
+  "popularity": 0.424,
   "poster_path": "/5HXnCfMcbq10mwsmSLNFi7J47CG.jpg",
   "production_companies": [],
   "production_countries": [
@@ -38,6 +38,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -47,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Koundinya",
         "original_name": "Ajay Koundinya",
-        "popularity": 0,
+        "popularity": 0.2632,
         "profile_path": null,
         "cast_id": 1,
         "character": "Director",
@@ -61,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sai Jaswanth",
         "original_name": "Sai Jaswanth",
-        "popularity": 0,
+        "popularity": 0.2635,
         "profile_path": null,
         "cast_id": 2,
         "character": "Actor",
@@ -75,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Renu Varma",
         "original_name": "Renu Varma",
-        "popularity": 0,
+        "popularity": 0.2837,
         "profile_path": null,
         "cast_id": 3,
         "character": "Actor",
@@ -89,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "P.  Vijay Kumar",
         "original_name": "P.  Vijay Kumar",
-        "popularity": 0.0143,
+        "popularity": 0.2844,
         "profile_path": null,
         "cast_id": 4,
         "character": "Actor",
@@ -103,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Kumar Mittapalli",
         "original_name": "Kumar Mittapalli",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "cast_id": 5,
         "character": "Actor",
@@ -119,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Koundinya",
         "original_name": "Ajay Koundinya",
-        "popularity": 0,
+        "popularity": 0.2632,
         "profile_path": null,
         "credit_id": "618bbcf5ddd52d0042c55260",
         "department": "Directing",
@@ -132,7 +135,7 @@
         "known_for_department": "Production",
         "name": "Ramanjaneyulu Javvaji",
         "original_name": "Ramanjaneyulu Javvaji",
-        "popularity": 0.0404,
+        "popularity": 0.2725,
         "profile_path": null,
         "credit_id": "618bbd05d55e4d008ee26cbe",
         "department": "Production",
@@ -146,17 +149,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 281809,
-        "name": "chitti babu"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -175,8 +167,13 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": [
+      {
+        "id": 281809,
+        "name": "chitti babu"
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -193,5 +190,8 @@
         "width": 1200
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

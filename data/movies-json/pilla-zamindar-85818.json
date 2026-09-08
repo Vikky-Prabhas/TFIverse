@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పిల్లజమీందార్",
   "overview": "PJ is the grandson of a wealthy zamindar and an irresponsible youngster who is spoilt by the pampering and excessive money. His grandfather writes a will with several conditions before he dies. He writes the will that PJ will inherit his entire wealth only if he completes his graduation as a common man without any luxeries. The rest of the story is all about how PJ learns about values and life as he achieves his goal.",
-  "popularity": 0.8199,
+  "popularity": 1.422,
   "poster_path": "/5xO7sOhqb2Avx52gqySMCS6Ie1d.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,21 +46,13 @@
   "tagline": "*Conditions Apply",
   "title": "Pilla Zamindar",
   "video": false,
-  "vote_average": 7.2,
-  "vote_count": 26,
-  "videos": {
-    "results": [
+  "vote_average": 7.4,
+  "vote_count": 29,
+  "keywords": {
+    "keywords": [
       {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Pilla Zamindar Back 2 Back All Comedy Scenes - Telugu Comedy Scenes",
-        "key": "-2QH70a-2nc",
-        "site": "YouTube",
-        "size": 720,
-        "type": "Featurette",
-        "official": false,
-        "id": "5e819a24ce4ddc00187466e5",
-        "published_at": "2015-01-24T12:38:16.000Z"
+        "id": 192166,
+        "name": "rich brat"
       }
     ]
   },
@@ -71,41 +63,27 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 192166,
-        "name": "rich brat"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
+  "alternative_titles": {
+    "titles": [
       {
         "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2011-10-14T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "title": "Pilla Jamindar",
+        "type": "alternative Telugu title"
       },
       {
-        "iso_3166_1": "US",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2011-10-14T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "iso_3166_1": "IN",
+        "title": "Danveer",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "పిల్ల జమీందార్",
+        "type": "alternative Telugu title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Jameen",
+        "type": "Tamil Dubbed"
       }
     ]
   },
@@ -187,27 +165,49 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pilla Zamindar Back 2 Back All Comedy Scenes - Telugu Comedy Scenes",
+        "key": "-2QH70a-2nc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": false,
+        "id": "5e819a24ce4ddc00187466e5",
+        "published_at": "2015-01-24T12:38:16.000Z"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "Pilla Jamindar",
-        "type": "alternative Telugu title"
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-10-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       },
       {
-        "iso_3166_1": "IN",
-        "title": "Danveer",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "పిల్ల జమీందార్",
-        "type": "alternative Telugu title"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Jameen",
-        "type": "Tamil Dubbed"
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-10-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -219,9 +219,9 @@
         "id": 225387,
         "known_for_department": "Acting",
         "name": "Nani",
-        "original_name": "Nani",
-        "popularity": 1.4451,
-        "profile_path": "/csRjrh58D90LhFNiqNEUTohzoIK.jpg",
+        "original_name": "నాని",
+        "popularity": 2.9802,
+        "profile_path": "/jfOH4sUWs3VXuGUlo0VLMYNRBQ4.jpg",
         "cast_id": 1001,
         "character": "Praveen \"PJ\" Jayaramaraju",
         "credit_id": "52fe495e9251416c910aafff",
@@ -234,7 +234,7 @@
         "known_for_department": "Acting",
         "name": "Hariprriya",
         "original_name": "Hariprriya",
-        "popularity": 0.3833,
+        "popularity": 0.5902,
         "profile_path": "/dCTxo6k27da4CXvQjp2IBZiWi2S.jpg",
         "cast_id": 1006,
         "character": "Sindhu",
@@ -247,8 +247,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 1007,
         "character": "\"Military\" Rajanna",
@@ -262,7 +262,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.4738,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 1019,
         "character": "Kanna Babu",
@@ -276,7 +276,7 @@
         "known_for_department": "Acting",
         "name": "Dhanraj Sukhram",
         "original_name": "Dhanraj Sukhram",
-        "popularity": 0.1543,
+        "popularity": 0.6798,
         "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
         "cast_id": 1008,
         "character": "Jaatheeyam",
@@ -290,7 +290,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3639,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 1003,
         "character": "Maqbool",
@@ -304,7 +304,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 0.834,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 1005,
         "character": "Pulakesi",
@@ -318,7 +318,7 @@
         "known_for_department": "Acting",
         "name": "Karan Vijay",
         "original_name": "Karan Vijay",
-        "popularity": 0.0286,
+        "popularity": 0.2828,
         "profile_path": null,
         "cast_id": 1026,
         "character": "Puranam Nagaraju",
@@ -332,7 +332,7 @@
         "known_for_department": "Production",
         "name": "Harish Koyalagundla",
         "original_name": "Harish Koyalagundla",
-        "popularity": 0.0843,
+        "popularity": 0.2932,
         "profile_path": null,
         "cast_id": 1027,
         "character": "Viplavam",
@@ -346,7 +346,7 @@
         "known_for_department": "Acting",
         "name": "Randhir Gatla",
         "original_name": "Randhir Gatla",
-        "popularity": 0.0935,
+        "popularity": 0.4556,
         "profile_path": "/8P98Lb7olC38roppGpSNO6sN0pr.jpg",
         "cast_id": 1013,
         "character": "Ambiraju",
@@ -360,7 +360,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Neni",
         "original_name": "Naveen Neni",
-        "popularity": 0.1466,
+        "popularity": 1.0076,
         "profile_path": "/xoFaW0c4vLJNHMqkMUJ1GXskEIh.jpg",
         "cast_id": 1025,
         "character": "Chamki",
@@ -374,7 +374,7 @@
         "known_for_department": "Acting",
         "name": "Raghu Karumanchi",
         "original_name": "Raghu Karumanchi",
-        "popularity": 0.1701,
+        "popularity": 0.4393,
         "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
         "cast_id": 1012,
         "character": "Ramana",
@@ -388,7 +388,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 1010,
         "character": "Uddhandam",
@@ -402,7 +402,7 @@
         "known_for_department": "Acting",
         "name": "Sameer Hasan",
         "original_name": "Sameer Hasan",
-        "popularity": 0.2725,
+        "popularity": 0.9723,
         "profile_path": "/mNKhHh2OSejWrEXNzPVkF7pnWRr.jpg",
         "cast_id": 1017,
         "character": "Science Teacher",
@@ -416,7 +416,7 @@
         "known_for_department": "Acting",
         "name": "Sarika Ramachandran Rao",
         "original_name": "Sarika Ramachandran Rao",
-        "popularity": 0.051,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 1024,
         "character": "Hindi Teacher",
@@ -430,7 +430,7 @@
         "known_for_department": "Acting",
         "name": "Tarzan",
         "original_name": "Tarzan",
-        "popularity": 0.182,
+        "popularity": 0.5303,
         "profile_path": "/1VEHr7JWUzeCte4cqvg2glz0w1S.jpg",
         "cast_id": 1023,
         "character": "Sports Teacher",
@@ -444,7 +444,7 @@
         "known_for_department": "Acting",
         "name": "Nagineedu Vellanki",
         "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2642,
+        "popularity": 0.8704,
         "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
         "cast_id": 1009,
         "character": "Rudra Ramaraju",
@@ -458,7 +458,7 @@
         "known_for_department": "Acting",
         "name": "Naramalli Sivaprasad",
         "original_name": "Naramalli Sivaprasad",
-        "popularity": 0.0441,
+        "popularity": 0.6137,
         "profile_path": "/r5IjOTH9mSUpXkET3PaLlSiVrX7.jpg",
         "cast_id": 1021,
         "character": "Lawyer Sharath Chandra",
@@ -472,7 +472,7 @@
         "known_for_department": "Acting",
         "name": "Bindu Madhavi",
         "original_name": "Bindu Madhavi",
-        "popularity": 0.3565,
+        "popularity": 1.2768,
         "profile_path": "/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg",
         "cast_id": 1020,
         "character": "Amrutha",
@@ -486,7 +486,7 @@
         "known_for_department": "Acting",
         "name": "Kosuri Venugopal",
         "original_name": "Kosuri Venugopal",
-        "popularity": 0.0855,
+        "popularity": 0.27,
         "profile_path": "/AbFk4I581q6F1foVr8SnXLfLecu.jpg",
         "cast_id": 1022,
         "character": "Super Market Owner",
@@ -500,7 +500,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 1011,
         "character": "Sarkar",
@@ -514,7 +514,7 @@
         "known_for_department": "Acting",
         "name": "Venu",
         "original_name": "Venu Tillu",
-        "popularity": 0.1163,
+        "popularity": 0.6907,
         "profile_path": "/m367s4YmY92g3Woi3LpU6ahbOtm.jpg",
         "cast_id": 1015,
         "character": "Bang Kok",
@@ -528,7 +528,7 @@
         "known_for_department": "Acting",
         "name": "Narsing Yadav",
         "original_name": "Narsing Yadav",
-        "popularity": 0.1885,
+        "popularity": 0.8676,
         "profile_path": "/6XXilySySycI5Zf6jhGQgHzHgEz.jpg",
         "cast_id": 1014,
         "character": "Adavi",
@@ -542,7 +542,7 @@
         "known_for_department": "Acting",
         "name": "Shankar Melkote",
         "original_name": "Shankar Melkote",
-        "popularity": 0.0718,
+        "popularity": 0.6094,
         "profile_path": "/mfmmQ7zfIdZ6yXFDydWVXlzrAW3.jpg",
         "cast_id": 1018,
         "character": "PJ's Ex-College Principal",
@@ -556,7 +556,7 @@
         "known_for_department": "Acting",
         "name": "Meghna Naidu",
         "original_name": "Meghna Naidu",
-        "popularity": 0.1897,
+        "popularity": 1.3274,
         "profile_path": "/ooUPTUD5oiQlWNBpYnBRrvZjQz9.jpg",
         "cast_id": 1016,
         "character": "Item Girl",
@@ -572,76 +572,11 @@
         "known_for_department": "Directing",
         "name": "Ashok G.",
         "original_name": "Ashok G.",
-        "popularity": 0.1547,
+        "popularity": 0.419,
         "profile_path": "/xcJszvQiZSMjAjqSVSqC5XkM11i.jpg",
         "credit_id": "52fe495e9251416c910aaffb",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4315802,
-        "known_for_department": "Editing",
-        "name": "Praveen Poodi",
-        "original_name": "Praveen Poodi",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "652687770cb33516f74584cb",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2704293,
-        "known_for_department": "Acting",
-        "name": "D.S. Rao",
-        "original_name": "D.S. Rao",
-        "popularity": 0.0709,
-        "profile_path": null,
-        "credit_id": "652686940cb33516f7458458",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 584786,
-        "known_for_department": "Sound",
-        "name": "V. Selvaganesh",
-        "original_name": "V. Selvaganesh",
-        "popularity": 0.0689,
-        "profile_path": null,
-        "credit_id": "652686d3d399e600e364555b",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4315798,
-        "known_for_department": "Art",
-        "name": "Manivasan",
-        "original_name": "Manivasan",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "65268710629b2c00ffedee10",
-        "department": "Art",
-        "job": "Art Direction"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1901425,
-        "known_for_department": "Camera",
-        "name": "Sai Sriram",
-        "original_name": "Sai Sriram",
-        "popularity": 0.1635,
-        "profile_path": null,
-        "credit_id": "652686acea84c7012d6deca3",
-        "department": "Crew",
-        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -650,7 +585,7 @@
         "known_for_department": "Directing",
         "name": "Ashok G.",
         "original_name": "Ashok G.",
-        "popularity": 0.1547,
+        "popularity": 0.419,
         "profile_path": "/xcJszvQiZSMjAjqSVSqC5XkM11i.jpg",
         "credit_id": "65268654629b2c0139a7afb0",
         "department": "Writing",
@@ -663,7 +598,7 @@
         "known_for_department": "Writing",
         "name": "Kim Eun-sook",
         "original_name": "김은숙",
-        "popularity": 1.6112,
+        "popularity": 2.7864,
         "profile_path": "/iRI1bowXqsZ4BLrQ4A6RXuqlFUd.jpg",
         "credit_id": "65268672d399e600c6774dc3",
         "department": "Writing",
@@ -672,11 +607,76 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2704293,
+        "known_for_department": "Acting",
+        "name": "D.S. Rao",
+        "original_name": "D.S. Rao",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "652686940cb33516f7458458",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1901425,
+        "known_for_department": "Camera",
+        "name": "Sai Sriram",
+        "original_name": "Sai Sriram",
+        "popularity": 0.3713,
+        "profile_path": null,
+        "credit_id": "652686acea84c7012d6deca3",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 584786,
+        "known_for_department": "Sound",
+        "name": "V. Selvaganesh",
+        "original_name": "V. Selvaganesh",
+        "popularity": 0.5967,
+        "profile_path": null,
+        "credit_id": "652686d3d399e600e364555b",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4315798,
+        "known_for_department": "Art",
+        "name": "Manivasan",
+        "original_name": "Manivasan",
+        "popularity": 0.2649,
+        "profile_path": null,
+        "credit_id": "65268710629b2c00ffedee10",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4315802,
+        "known_for_department": "Editing",
+        "name": "Praveen Poodi",
+        "original_name": "Praveen Poodi",
+        "popularity": 0.2677,
+        "profile_path": null,
+        "credit_id": "652687770cb33516f74584cb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4315804,
         "known_for_department": "Writing",
         "name": "Chandrasekhar Gudimada",
         "original_name": "Chandrasekhar Gudimada",
-        "popularity": 0.0143,
+        "popularity": 0.2484,
         "profile_path": null,
         "credit_id": "652687b0d399e600c6774e96",
         "department": "Writing",

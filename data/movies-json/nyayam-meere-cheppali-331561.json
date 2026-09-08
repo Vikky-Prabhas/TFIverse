@@ -3,7 +3,16 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "homepage": "",
   "id": 331561,
   "imdb_id": "tt1411911",
@@ -11,15 +20,20 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Nyayam Meere Cheppali",
-  "overview": "A 1985 Telugu movie.",
-  "popularity": 0.2438,
+  "original_title": "న్యాయం మీరే చెప్పాలి",
+  "overview": "A professor finds his life shattered due to the corrupt activities in the city. Realising that the law is unable to deal with the anti-social elements, he takes it upon himself to punish the culprits.",
+  "popularity": 1.2377,
   "poster_path": null,
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "1985-02-08",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 131,
   "softcore": false,
   "spoken_languages": [
     {
@@ -34,21 +48,38 @@
   "video": false,
   "vote_average": 5,
   "vote_count": 3,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
         "adult": false,
         "gender": 2,
-        "id": 1335686,
+        "id": 91557,
         "known_for_department": "Acting",
-        "name": "Kongara Jaggayya",
-        "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
-        "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
-        "cast_id": 0,
-        "character": "",
-        "credit_id": "550b3f2cc3a36848830021eb",
+        "name": "Suman",
+        "original_name": "Suman Talwar",
+        "popularity": 1.7241,
+        "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
+        "cast_id": 2,
+        "character": "Prabhakar",
+        "credit_id": "6a592ff6b9236e661162727a",
         "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584418,
+        "known_for_department": "Acting",
+        "name": "Jayasudha",
+        "original_name": "Jayasudha",
+        "popularity": 1.5468,
+        "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
+        "cast_id": 3,
+        "character": "Kranti",
+        "credit_id": "6a5930039c2f88d0f334fa49",
+        "order": 1
       },
       {
         "adult": false,
@@ -56,22 +87,180 @@
         "id": 91555,
         "known_for_department": "Acting",
         "name": "Rajinikanth",
-        "original_name": "Rajinikanth",
-        "popularity": 1.6903,
+        "original_name": "ரஜினிகாந்த்",
+        "popularity": 2.2551,
         "profile_path": "/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Atmaram",
         "credit_id": "550b3f31c3a368487d0021bc",
-        "order": 1
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335686,
+        "known_for_department": "Acting",
+        "name": "Kongara Jaggayya",
+        "original_name": "Kongara Jaggayya",
+        "popularity": 1.183,
+        "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
+        "cast_id": 0,
+        "character": "Judge",
+        "credit_id": "550b3f2cc3a36848830021eb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267544,
+        "known_for_department": "Acting",
+        "name": "Prabhakar Reddy",
+        "original_name": "Prabhakar Reddy",
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
+        "cast_id": 4,
+        "character": "Sathyamurthy",
+        "credit_id": "6a593033f4d1555b76d644ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208884,
+        "known_for_department": "Acting",
+        "name": "Kanta Rao",
+        "original_name": "Kanta Rao",
+        "popularity": 0.9033,
+        "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
+        "cast_id": 5,
+        "character": "M. Bhaskara Rao",
+        "credit_id": "6a593049be8ae2cc645874ab",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584670,
+        "known_for_department": "Acting",
+        "name": "Nutan Prasad",
+        "original_name": "Nutan Prasad",
+        "popularity": 1.8659,
+        "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
+        "cast_id": 6,
+        "character": "Mahanandam",
+        "credit_id": "6a5930549461347398aed4bb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4962836,
+        "known_for_department": "Acting",
+        "name": "Eeswara Rao",
+        "original_name": "Eeswara Rao",
+        "popularity": 0.3977,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Suresh",
+        "credit_id": "6a593065f0e8b93d454a6042",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422554,
+        "known_for_department": "Acting",
+        "name": "Banerjee",
+        "original_name": "Banerjee",
+        "popularity": 0.9465,
+        "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
+        "cast_id": 8,
+        "character": "Chidanandam",
+        "credit_id": "6a593073208069fa895874a1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42208,
+        "known_for_department": "Acting",
+        "name": "Gulshan Grover",
+        "original_name": "Gulshan Grover",
+        "popularity": 1.5616,
+        "profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+        "cast_id": 9,
+        "character": "Dilip",
+        "credit_id": "6a5930863cd06de1e343e653",
+        "order": 9
       }
     ],
-    "crew": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335982,
+        "known_for_department": "Directing",
+        "name": "G Rammohan Rao",
+        "original_name": "G Rammohan Rao",
+        "popularity": 0.4107,
+        "profile_path": null,
+        "credit_id": "6a5930a798fdc0c77e4a6695",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660479,
+        "known_for_department": "Writing",
+        "name": "Acharya Aatreya",
+        "original_name": "Acharya Aatreya",
+        "popularity": 0.5798,
+        "profile_path": null,
+        "credit_id": "6a5930b4dfd5b335b2074bd3",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1158189,
+        "known_for_department": "Writing",
+        "name": "Shabd Kumar",
+        "original_name": "Shabd Kumar",
+        "popularity": 0.4063,
+        "profile_path": null,
+        "credit_id": "6a5930cd9c2f88d0f334fa63",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335745,
+        "known_for_department": "Production",
+        "name": "Venkineli Satyanarayana",
+        "original_name": "Venkineli Satyanarayana",
+        "popularity": 0.2694,
+        "profile_path": null,
+        "credit_id": "6a5930ddf805a81e5caed386",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "6a5930eabf9e5997d00749f5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt1411911",
@@ -79,6 +268,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [

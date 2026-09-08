@@ -18,8 +18,8 @@
   "original_language": "te",
   "original_title": "పడమటి సంధ్యారాగం",
   "overview": "The story of an Indian girl falling in love with an American in 80s USA.",
-  "popularity": 0.6056,
-  "poster_path": "/l8LjJvB19vJjCHIRgorulBSYF4L.jpg",
+  "popularity": 1.5238,
+  "poster_path": "/yLjLYdRtQSb0mA12E71pNGUwsyw.jpg",
   "production_companies": [
     {
       "id": 118478,
@@ -54,7 +54,7 @@
   "tagline": "",
   "title": "Padamati Sandhya Ragam",
   "video": false,
-  "vote_average": 6.25,
+  "vote_average": 6.2,
   "vote_count": 4,
   "credits": {
     "cast": [
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.46,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 0,
         "character": "Sandhya",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Thomas Jane",
         "original_name": "Thomas Jane",
-        "popularity": 3.3322,
+        "popularity": 4.1532,
         "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
         "cast_id": 1,
         "character": "Chris",
@@ -89,30 +89,16 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2314886,
-        "known_for_department": "Acting",
-        "name": "Anandan Sivamani",
-        "original_name": "Anandan Sivamani",
-        "popularity": 0.0239,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "Ronald",
-        "credit_id": "5cde7d83c3a3685e74c09492",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2314887,
         "known_for_department": "Acting",
         "name": "Gummuluri Sastry",
         "original_name": "Gummuluri Sastry",
-        "popularity": 0.0495,
+        "popularity": 0.4796,
         "profile_path": null,
         "cast_id": 5,
         "character": "Adinarayana",
         "credit_id": "5cde7d8f9251411bbecdfcee",
-        "order": 3
+        "order": 2
       },
       {
         "adult": false,
@@ -121,11 +107,25 @@
         "known_for_department": "Acting",
         "name": "Meer Abdulla",
         "original_name": "Meer Abdulla",
-        "popularity": 0.0495,
+        "popularity": 0.5029,
         "profile_path": null,
         "cast_id": 6,
         "character": "Ramarao",
         "credit_id": "5cde7d9c0e0a260f6ecb3093",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1054352,
+        "known_for_department": "Sound",
+        "name": "Sivamani",
+        "original_name": "Sivamani",
+        "popularity": 0.3585,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Ronald",
+        "credit_id": "6a8b190b140f30789c09497d",
         "order": 4
       },
       {
@@ -135,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Seshagiri Rao",
         "original_name": "Seshagiri Rao",
-        "popularity": 0.0404,
+        "popularity": 0.358,
         "profile_path": null,
         "cast_id": 7,
         "character": "Seshagiri Rao",
@@ -149,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Ashajyothy",
         "original_name": "Ashajyothy",
-        "popularity": 0.0877,
+        "popularity": 0.2654,
         "profile_path": null,
         "cast_id": 8,
         "character": "Sudha",
@@ -163,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Chitturi",
         "original_name": "Ravi Chitturi",
-        "popularity": 0.0552,
+        "popularity": 0.3363,
         "profile_path": null,
         "cast_id": 9,
         "character": "Doctor Ravi",
@@ -177,7 +177,7 @@
         "known_for_department": "Acting",
         "name": "Bhushan Rao",
         "original_name": "Bhushan Rao",
-        "popularity": 0.0168,
+        "popularity": 0.4827,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -191,12 +191,180 @@
         "known_for_department": "Acting",
         "name": "Benjiman York",
         "original_name": "Benjiman York",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 3,
         "character": "Young Chris",
         "credit_id": "5cde7d550e0a260ad1cb3810",
         "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431405,
+        "known_for_department": "Acting",
+        "name": "Sudheshna Reddy",
+        "original_name": "Sudheshna Reddy",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Anita",
+        "credit_id": "6a8b14549b403629ce58bc2d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335296,
+        "known_for_department": "Acting",
+        "name": "Suthi Velu",
+        "original_name": "Suthi Velu",
+        "popularity": 1.2086,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Natanalayam Manager",
+        "credit_id": "6a8b14834b7eb328943ea6d3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431408,
+        "known_for_department": "Acting",
+        "name": "Vijay",
+        "original_name": "Vijay",
+        "popularity": 0.2809,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Ganapathi",
+        "credit_id": "6a8b156f1921ece6c458bd04",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431409,
+        "known_for_department": "Acting",
+        "name": "Johnson",
+        "original_name": "Johnson",
+        "popularity": 0.2964,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "6a8b15be5db024da26e05374",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431410,
+        "known_for_department": "Acting",
+        "name": "Godman",
+        "original_name": "Godman",
+        "popularity": 0.2577,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "6a8b15e1d972436c930d5a8e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431411,
+        "known_for_department": "Acting",
+        "name": "Elizabeth",
+        "original_name": "Elizabeth",
+        "popularity": 0.2715,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "6a8b15f71921ece6c458bd18",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431413,
+        "known_for_department": "Acting",
+        "name": "Vijay Kothari",
+        "original_name": "Vijay Kothari",
+        "popularity": 0.2702,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "6a8b162ac7e1bf62c958bbf7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431416,
+        "known_for_department": "Acting",
+        "name": "Bindu",
+        "original_name": "Bindu",
+        "popularity": 0.283,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "6a8b164ae14ef050c60d5ace",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431427,
+        "known_for_department": "Acting",
+        "name": "Rama Sastry",
+        "original_name": "Rama Sastry",
+        "popularity": 0.267,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "6a8b17af648afa0b9e95be97",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431428,
+        "known_for_department": "Acting",
+        "name": "Seetha Sastry",
+        "original_name": "Seetha Sastry",
+        "popularity": 0.2853,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "6a8b17f90a02dbbde8cfdb75",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431430,
+        "known_for_department": "Acting",
+        "name": "Mrunalini",
+        "original_name": "Mrunalini",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "6a8b181adcc2388633d0c455",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6431431,
+        "known_for_department": "Acting",
+        "name": "Baby Rohini",
+        "original_name": "Baby Rohini",
+        "popularity": 0.3044,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "6a8b19f0e0278e2ed3d5367f",
+        "order": 21
       }
     ],
     "crew": [
@@ -207,37 +375,11 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5b2a1cc292514138e5004433",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2314889,
-        "known_for_department": "Acting",
-        "name": "Meer Abdulla",
-        "original_name": "Meer Abdulla",
-        "popularity": 0.0495,
-        "profile_path": null,
-        "credit_id": "5cde7e56925141485acdf27f",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584585,
-        "known_for_department": "Sound",
-        "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
-        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
-        "credit_id": "5cde7e1a9251413a77cde5ca",
-        "department": "Sound",
-        "job": "Music"
       },
       {
         "adult": false,
@@ -246,24 +388,11 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5cde7e0c0e0a260ad1cb3887",
         "department": "Writing",
         "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2314894,
-        "known_for_department": "Production",
-        "name": "Gummaluri Sastry",
-        "original_name": "Gummaluri Sastry",
-        "popularity": 0.0409,
-        "profile_path": null,
-        "credit_id": "5cde7e3bc3a3685e74c095a4",
-        "department": "Production",
-        "job": "Producer"
       },
       {
         "adult": false,
@@ -272,7 +401,7 @@
         "known_for_department": "Editing",
         "name": "Gautham Raju",
         "original_name": "Gautham Raju",
-        "popularity": 0.1828,
+        "popularity": 0.4474,
         "profile_path": null,
         "credit_id": "5cde7e24c3a36846bcc094f7",
         "department": "Editing",
@@ -281,28 +410,41 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2599291,
-        "known_for_department": "Acting",
-        "name": "Govindarajula Subba Rao",
-        "original_name": "Govindarajula Subba Rao",
-        "popularity": 0.137,
+        "id": 2314894,
+        "known_for_department": "Production",
+        "name": "Gummaluri Sastry",
+        "original_name": "Gummaluri Sastry",
+        "popularity": 0.2563,
         "profile_path": null,
-        "credit_id": "698d1c8e9443864deafb1dfe",
+        "credit_id": "5cde7e3bc3a3685e74c095a4",
         "department": "Production",
         "job": "Producer"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 6197452,
-        "known_for_department": "Crew",
-        "name": "Pilli Diwakar",
-        "original_name": "Pilli Diwakar",
-        "popularity": 0,
+        "id": 2314889,
+        "known_for_department": "Acting",
+        "name": "Meer Abdulla",
+        "original_name": "Meer Abdulla",
+        "popularity": 0.5029,
         "profile_path": null,
-        "credit_id": "69fcfbc50d8d2f7aa8aa9360",
-        "department": "Crew",
-        "job": "Cinematography"
+        "credit_id": "5cde7e56925141485acdf27f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2599291,
+        "known_for_department": "Acting",
+        "name": "Govindarajula Subba Rao",
+        "original_name": "Govindarajula Subba Rao",
+        "popularity": 0.5232,
+        "profile_path": null,
+        "credit_id": "698d1c8e9443864deafb1dfe",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -311,7 +453,7 @@
         "known_for_department": "Art",
         "name": "K V Ramana",
         "original_name": "K V Ramana",
-        "popularity": 0.0143,
+        "popularity": 0.2647,
         "profile_path": null,
         "credit_id": "69fcfc643f9025446790c78f",
         "department": "Art",
@@ -324,28 +466,81 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3749,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "69fd00370664ce2766368a18",
         "department": "Writing",
         "job": "Screenplay"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 10188,
-        "name": "interracial marriage"
       },
       {
-        "id": 10194,
-        "name": "interracial romance"
+        "adult": false,
+        "gender": 0,
+        "id": 6197452,
+        "known_for_department": "Crew",
+        "name": "Pilli Diwakar",
+        "original_name": "Pilli Diwakar",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a46b5ab3d10260fb7e4c590",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "6a46b5be3d10260fb7e4c59b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1872424,
+        "known_for_department": "Sound",
+        "name": "S. Janaki",
+        "original_name": "S. Janaki",
+        "popularity": 0.3872,
+        "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
+        "credit_id": "6a8b1bbd473c05126395c07e",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661887,
+        "known_for_department": "Sound",
+        "name": "S.P. Sailaja",
+        "original_name": "S.P. Sailaja",
+        "popularity": 0.502,
+        "profile_path": "/saFBDylbonCq0d6YhPo5fOEtc3J.jpg",
+        "credit_id": "6a8b1be5007b773570e05155",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "6a8b1c17bc80c345e5e0524d",
+        "department": "Sound",
+        "job": "Playback Singer"
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0251919",
@@ -353,26 +548,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1987-01-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [],
@@ -411,12 +586,44 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/l8LjJvB19vJjCHIRgorulBSYF4L.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1987-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10188,
+        "name": "interracial marriage"
+      },
+      {
+        "id": 10194,
+        "name": "interracial romance"
       }
     ]
   }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "నివాసి",
   "overview": "An action thriller film by Satheesh Regalla, starring Shekhar Varma and Viviya Santh in the lead roles.",
-  "popularity": 0.1616,
+  "popularity": 0.5531,
   "poster_path": "/pvQruGO9JLvrolxJEvfIY2HY8Ys.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Shekhar Varma",
         "original_name": "Shekhar Varma",
-        "popularity": 0.0614,
+        "popularity": 0.2884,
         "profile_path": "/ryKjZxyEy3j8lp94rPNbj9UBCnj.jpg",
         "cast_id": 1,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Viviya Santh",
         "original_name": "Viviya Santh",
-        "popularity": 0.2651,
+        "popularity": 1.3075,
         "profile_path": "/iOZYPjxBZxurBIirdmQlEoYJ4dA.jpg",
         "cast_id": 2,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Sudharshan Reddy",
         "original_name": "Sudharshan Reddy",
-        "popularity": 0.0214,
+        "popularity": 0.3452,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash",
         "original_name": "Jayaprakash",
-        "popularity": 0.6566,
+        "popularity": 1.7941,
         "profile_path": "/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg",
         "cast_id": 4,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Vidhya Vijayakumar",
         "original_name": "Vidhya Vijayakumar",
-        "popularity": 0.3501,
+        "popularity": 0.9239,
         "profile_path": "/5OhGv4U34JBbcd7rc4Yc1AgG1yT.jpg",
         "cast_id": 5,
         "character": "",
@@ -133,7 +133,7 @@
         "known_for_department": "Directing",
         "name": "Satheesh Regalla",
         "original_name": "Satheesh Regalla",
-        "popularity": 0,
+        "popularity": 0.2647,
         "profile_path": null,
         "credit_id": "5dcb9d1ccc277c0014dfa5e4",
         "department": "Directing",
@@ -147,28 +147,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.706,
-        "height": 1417,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/pvQruGO9JLvrolxJEvfIY2HY8Ys.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "videos": {
     "results": []
@@ -187,6 +165,28 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 1417,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pvQruGO9JLvrolxJEvfIY2HY8Ys.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
       }
     ]
   }

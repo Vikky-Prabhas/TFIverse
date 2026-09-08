@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కేడి నెంబర్ 1",
   "overview": "Krishna, a gangster, searches aggressively for a rival gang that circulates fake currency after his family's reputation is ruined. Meanwhile, a police officer tries to stop his illegal activities. It is a remake of Dus Numbri (1976).",
-  "popularity": 0.2253,
+  "popularity": 0.5918,
   "poster_path": "/jeOB7av9Nf6FfvdnVQAB6dYV51E.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,13 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -59,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "",
@@ -73,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 2,
         "character": "",
@@ -87,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 3,
         "character": "",
@@ -101,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 4,
         "character": "",
@@ -117,7 +110,7 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "660f85ed4a4bf6017c286b70",
         "department": "Directing",
@@ -125,8 +118,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -145,6 +145,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -161,10 +164,7 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   }
 }

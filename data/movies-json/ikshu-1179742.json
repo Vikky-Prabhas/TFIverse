@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ikshu",
   "overview": "Ikshva, a 16-year-old boy seeks help from a police officer to find his missing parents. An uninvited guest and local goons turn his fate around. Will he find his parents?",
-  "popularity": 0.0261,
+  "popularity": 0.4102,
   "poster_path": "/3lPc8ppzbIzB8CREmv7w1BlnCsi.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,12 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -44,34 +50,11 @@
         "known_for_department": "Directing",
         "name": "V. V. Rushika",
         "original_name": "V. V. Rushika",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "6522500d0cb33516fec3385e",
         "department": "Directing",
         "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "hi",
-            "note": "",
-            "release_date": "2022-09-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -88,6 +71,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "",
+            "release_date": "2022-09-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అంతిమ తీర్పు",
   "overview": "",
-  "popularity": 0.248,
+  "popularity": 0.6919,
   "poster_path": "/2ZQplXFOpq1rZs9GeT9gnlvNVsv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Sai Dhanshika",
         "original_name": "Sai Dhanshika",
-        "popularity": 0.7191,
+        "popularity": 0.9603,
         "profile_path": "/5rs0yfqpqlIIndCmqa1CbCXGzgq.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Vimala Raman",
         "original_name": "Vimala Raman",
-        "popularity": 0.502,
+        "popularity": 1.1335,
         "profile_path": "/dnxnNSpn39J1qYzi12p7k4MOxHY.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Amit Kumar Tiwari",
         "original_name": "Amit Kumar Tiwari",
-        "popularity": 0.1502,
+        "popularity": 0.9808,
         "profile_path": "/razxVbGJjULO7pW2r0AXpcS9mFg.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Ganesh Venkatraman",
         "original_name": "Ganesh Venkatraman",
-        "popularity": 0.2033,
+        "popularity": 0.8659,
         "profile_path": "/p9lK3JKTQxnNuTWPHVg4DbApus5.jpg",
         "cast_id": 4,
         "character": "Bose Sinha",
@@ -104,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Satya Prakash",
         "original_name": "Satya Prakash",
-        "popularity": 0.3075,
+        "popularity": 0.7548,
         "profile_path": "/858vQ4NMh89fjjKEIeCh15oW5Y1.jpg",
         "cast_id": 5,
         "character": "",
@@ -118,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Chitram Seenu",
         "original_name": "Chitram Seenu",
-        "popularity": 0.3623,
+        "popularity": 1.0353,
         "profile_path": "/eCS28XnylQPrweJ9h5xzsa7F6EW.jpg",
         "cast_id": 6,
         "character": "",
@@ -132,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Naga Mahesh",
         "original_name": "Naga Mahesh",
-        "popularity": 0.2422,
+        "popularity": 0.7434,
         "profile_path": "/jx2QdDAKx48GcAiIblA8EWduKfn.jpg",
         "cast_id": 7,
         "character": "",
@@ -144,24 +154,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1001825,
-        "known_for_department": "Production",
-        "name": "N. Sudhakar Reddy",
-        "original_name": "N. Sudhakar Reddy",
-        "popularity": 0.1965,
-        "profile_path": "/iJddkhx5i37jySOH20VIGgOWAJr.jpg",
-        "credit_id": "63fdaf08699fb700e6fcdad3",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2098998,
         "known_for_department": "Editing",
         "name": "Garry BH",
         "original_name": "Garry BH",
-        "popularity": 0.2797,
+        "popularity": 0.3913,
         "profile_path": null,
         "credit_id": "63fdada29653f600853c51a3",
         "department": "Editing",
@@ -174,7 +171,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "63fdadce7a4ee7007c725ff3",
         "department": "Sound",
@@ -183,15 +180,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2266695,
-        "known_for_department": "Crew",
-        "name": "Dragon Prakash",
-        "original_name": "Dragon Prakash",
-        "popularity": 0.0732,
+        "id": 1001825,
+        "known_for_department": "Production",
+        "name": "N. Sudhakar Reddy",
+        "original_name": "N. Sudhakar Reddy",
+        "popularity": 0.3709,
+        "profile_path": "/iJddkhx5i37jySOH20VIGgOWAJr.jpg",
+        "credit_id": "63fdaf08699fb700e6fcdad3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4773276,
+        "known_for_department": "Directing",
+        "name": "A. Abhiramu",
+        "original_name": "A. Abhiramu",
+        "popularity": 0.2883,
         "profile_path": null,
-        "credit_id": "666b16df679dc22df4fe5312",
-        "department": "Crew",
-        "job": "Fight Choreographer"
+        "credit_id": "666b1666b577b5786ae94e16",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -200,11 +210,63 @@
         "known_for_department": "Writing",
         "name": "Murali Ramesh",
         "original_name": "Murali Ramesh",
-        "popularity": 0.0143,
+        "popularity": 0.302,
         "profile_path": null,
         "credit_id": "666b16894aee3d662b5ab253",
         "department": "Writing",
         "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2266695,
+        "known_for_department": "Crew",
+        "name": "Dragon Prakash",
+        "original_name": "Dragon Prakash",
+        "popularity": 0.3267,
+        "profile_path": null,
+        "credit_id": "666b16df679dc22df4fe5312",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3960516,
+        "known_for_department": "Crew",
+        "name": "Devaraj",
+        "original_name": "Devaraj",
+        "popularity": 0.3097,
+        "profile_path": null,
+        "credit_id": "666b16f5e2073c2ad45ab246",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998588,
+        "known_for_department": "Writing",
+        "name": "Kasarla Shyam",
+        "original_name": "Kasarla Shyam",
+        "popularity": 0.4009,
+        "profile_path": null,
+        "credit_id": "666b179b7efe857f2b70ab36",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2279501,
+        "known_for_department": "Writing",
+        "name": "Vanamali",
+        "original_name": "Vanamali",
+        "popularity": 0.3196,
+        "profile_path": null,
+        "credit_id": "666b17a483ce4002c9e94e4d",
+        "department": "Writing",
+        "job": "Lyricist"
       },
       {
         "adult": false,
@@ -213,7 +275,7 @@
         "known_for_department": "Crew",
         "name": "Eshwar Penti",
         "original_name": "Eshwar Penti",
-        "popularity": 0.0614,
+        "popularity": 0.4472,
         "profile_path": null,
         "credit_id": "666b17c1a919039ee5a79d84",
         "department": "Crew",
@@ -226,7 +288,7 @@
         "known_for_department": "Production",
         "name": "Sujeeth Ads",
         "original_name": "Sujeeth Ads",
-        "popularity": 0.0071,
+        "popularity": 0.2885,
         "profile_path": null,
         "credit_id": "666b1852c27731c195515223",
         "department": "Production",
@@ -239,75 +301,13 @@
         "known_for_department": "Crew",
         "name": "V. R. Madhu",
         "original_name": "V. R. Madhu",
-        "popularity": 0.0239,
+        "popularity": 0.3194,
         "profile_path": null,
         "credit_id": "666b1864e98105e42738292a",
         "department": "Crew",
         "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1998588,
-        "known_for_department": "Writing",
-        "name": "Kasarla Shyam",
-        "original_name": "Kasarla Shyam",
-        "popularity": 0.1601,
-        "profile_path": null,
-        "credit_id": "666b179b7efe857f2b70ab36",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3960516,
-        "known_for_department": "Crew",
-        "name": "Devaraj",
-        "original_name": "Devaraj",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "666b16f5e2073c2ad45ab246",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4773276,
-        "known_for_department": "Directing",
-        "name": "A. Abhiramu",
-        "original_name": "A. Abhiramu",
-        "popularity": 0.0261,
-        "profile_path": null,
-        "credit_id": "666b1666b577b5786ae94e16",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2279501,
-        "known_for_department": "Writing",
-        "name": "Vanamali",
-        "original_name": "Vanamali",
-        "popularity": 0.1322,
-        "profile_path": null,
-        "credit_id": "666b17a483ce4002c9e94e4d",
-        "department": "Writing",
-        "job": "Lyricist"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -326,6 +326,20 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Antima Theerpu",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Anthima Theerpu",
+        "type": "Alternate"
       }
     ]
   },
@@ -383,20 +397,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1024
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Antima Theerpu",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Anthima Theerpu",
-        "type": "Alternate"
       }
     ]
   }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "డిటెక్టివ్ నారద",
   "overview": "Narada, a private detective, sets out to investigate the case of a girl whose pregnancy is a mystery to everyone around her.",
-  "popularity": 0.2747,
+  "popularity": 0.7548,
   "poster_path": "/s1ds739DG2WU5yrbX30HhJ58Tc3.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 1,
         "character": "Narada",
@@ -67,8 +67,8 @@
         "known_for_department": "Acting",
         "name": "Mohini",
         "original_name": "Mohini",
-        "popularity": 0.3377,
-        "profile_path": "/dA4bpPoVfRihZZuHVy7T7cfIFJL.jpg",
+        "popularity": 3.0011,
+        "profile_path": "/h4P1Nwl5bswA2n2d4gPLJ6k2pV.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "60f9b8fc07e28100467b53f5",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Nirosha",
         "original_name": "Nirosha",
-        "popularity": 0.2248,
+        "popularity": 0.6945,
         "profile_path": "/kIgzfmU3Q5QhSrvvmVLzgByEegF.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 4,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.2699,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 10,
         "character": "",
@@ -125,46 +125,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "60f9b9a2f1759c007661d059",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638411,
-        "known_for_department": "Camera",
-        "name": "M. V. Raghu",
-        "original_name": "M. V. Raghu",
-        "popularity": 0.1353,
-        "profile_path": null,
-        "credit_id": "60f9b996f1759c0046689e5d",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 37242,
-        "known_for_department": "Editing",
-        "name": "Sreekar Prasad",
-        "original_name": "Sreekar Prasad",
-        "popularity": 0.3076,
-        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
-        "credit_id": "60f9b95ac439c0007288de3a",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "60f9b94f97fdec004590cefa",
         "department": "Directing",
@@ -173,15 +134,71 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 37242,
+        "known_for_department": "Editing",
+        "name": "Sreekar Prasad",
+        "original_name": "Sreekar Prasad",
+        "popularity": 0.508,
+        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+        "credit_id": "60f9b95ac439c0007288de3a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "60f9b964944a570075da66df",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638411,
+        "known_for_department": "Camera",
+        "name": "M. V. Raghu",
+        "original_name": "M. V. Raghu",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "60f9b996f1759c0046689e5d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "60f9b9a2f1759c007661d059",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -194,6 +211,15 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Detective Naarada",
+        "type": ""
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -231,32 +257,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Detective Naarada",
-        "type": ""
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1992-01-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

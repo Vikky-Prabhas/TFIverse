@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఈ అబ్బాయి చాలా మంచోడు",
   "overview": "Vivek's father thinks love is all about carnal pleasures, whereas his lover Bharathi's mother thinks men must be dominated. To disprove their parents' beliefs, the couple decide to live together.",
-  "popularity": 0.3389,
+  "popularity": 1.6477,
   "poster_path": null,
   "production_companies": [
     {
@@ -55,6 +55,16 @@
   "video": false,
   "vote_average": 4.3,
   "vote_count": 3,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt2363161",
+    "wikidata_id": "Q5347004",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +73,8 @@
         "id": 146935,
         "known_for_department": "Acting",
         "name": "Ravi Teja",
-        "original_name": "Ravi Teja",
-        "popularity": 0.9088,
+        "original_name": "రవితేజ",
+        "popularity": 3.081,
         "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
         "cast_id": 1,
         "character": "Vivekananda",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Vani",
         "original_name": "Vani",
-        "popularity": 0.0256,
+        "popularity": 0.3117,
         "profile_path": null,
         "cast_id": 2,
         "character": "Bharathi",
@@ -92,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Rathnam",
         "original_name": "Ajay Rathnam",
-        "popularity": 0.3123,
+        "popularity": 1.8558,
         "profile_path": "/rp3JaGD554QTNzd7fAoKg742nq2.jpg",
         "cast_id": 3,
         "character": "Vivekananda's father",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Sangeetha Krish",
         "original_name": "Sangeetha Krish",
-        "popularity": 1.0861,
+        "popularity": 1.4597,
         "profile_path": "/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg",
         "cast_id": 4,
         "character": "Jeevitha",
@@ -120,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Preeti Nigam",
         "original_name": "Preeti Nigam",
-        "popularity": 0.0937,
+        "popularity": 0.5671,
         "profile_path": null,
         "cast_id": 6,
         "character": "Vivekananda's step-mother",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Sana",
         "original_name": "Sana",
-        "popularity": 0.2251,
+        "popularity": 0.977,
         "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
         "cast_id": 7,
         "character": "Bharathi's mother",
@@ -148,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 8,
         "character": "Bharathi's father",
@@ -162,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Vidya Vathi",
         "original_name": "Vidya Vathi",
-        "popularity": 0.0071,
+        "popularity": 0.3448,
         "profile_path": null,
         "cast_id": 9,
         "character": "Vivekananda's sister",
@@ -178,7 +188,7 @@
         "known_for_department": "Directing",
         "name": "Agathiyan",
         "original_name": "Agathiyan",
-        "popularity": 0.1873,
+        "popularity": 1.1179,
         "profile_path": null,
         "credit_id": "52fe4ba9c3a36847f820e4e9",
         "department": "Directing",
@@ -191,7 +201,7 @@
         "known_for_department": "Camera",
         "name": "Rajesh Yadav",
         "original_name": "Rajesh Yadav",
-        "popularity": 0.0576,
+        "popularity": 0.2667,
         "profile_path": null,
         "credit_id": "62c2fbef9672ed23ceff1c86",
         "department": "Camera",
@@ -204,7 +214,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "62c2fc0eaf6e942c96a0bf90",
         "department": "Sound",
@@ -217,7 +227,7 @@
         "known_for_department": "Production",
         "name": "B. V. S. N. Prasad",
         "original_name": "B. V. S. N. Prasad",
-        "popularity": 0,
+        "popularity": 0.3162,
         "profile_path": null,
         "credit_id": "62c2fbde544c41004cb7a75b",
         "department": "Production",
@@ -230,7 +240,7 @@
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "62c2fbfcf1b5711fe5ec8801",
         "department": "Editing",
@@ -243,26 +253,13 @@
         "known_for_department": "Directing",
         "name": "Agathiyan",
         "original_name": "Agathiyan",
-        "popularity": 0.1873,
+        "popularity": 1.1179,
         "profile_path": null,
         "credit_id": "62c2fbca9672ed23ceff1c72",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt2363161",
-    "wikidata_id": "Q5347004",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -280,6 +277,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],

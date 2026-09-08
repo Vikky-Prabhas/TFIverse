@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Pandem",
   "overview": "Seenu, an unemployed man, spends his days roaming around his village with a gang of six people. However, he soon decides to take part in the local elections in order to win the love of a woman.",
-  "popularity": 0.335,
+  "popularity": 0.7035,
   "poster_path": "/mM775jOOj6WNnsvFjhoMwA11lJr.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Kaveri",
         "original_name": "Kaveri",
-        "popularity": 0.7571,
+        "popularity": 1.1406,
         "profile_path": "/n5nIWrtoe3FGVt5RsVP3feqpnIy.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Draksharamam Saroja",
         "original_name": "Draksharamam Saroja",
-        "popularity": 0.0379,
+        "popularity": 0.3257,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Directing",
         "name": "Sabhapati",
         "original_name": "Sabhapati",
-        "popularity": 0.0286,
+        "popularity": 0.3241,
         "profile_path": null,
         "credit_id": "5cb70fca0e0a266b93eefd94",
         "department": "Directing",
@@ -105,7 +105,7 @@
         "known_for_department": "Writing",
         "name": "Vegnesa Satish",
         "original_name": "Vegnesa Satish",
-        "popularity": 0.0143,
+        "popularity": 0.2794,
         "profile_path": null,
         "credit_id": "5cb70fd90e0a266ba2eef336",
         "department": "Writing",
@@ -115,6 +115,26 @@
   },
   "videos": {
     "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "external_ids": {
     "imdb_id": "tt3440154",
@@ -139,26 +159,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2005-02-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

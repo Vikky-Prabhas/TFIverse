@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Vareva",
   "overview": "Rishi (Gautam) is a happy going engineering student who falls in love with Sandhya (Shambavi), his classmate. Sandhya’s father (Devan) is a rich business man but he accepts their love. Gautam takes the heroine to Vizag to take the blessings of his mom. Suddently, he’ll be attacked in Vizag by some goons and everyone feels that it is Devan who did it. But it is by a Vizag goon Bhupathi (Ashish Vidyarthi), as Gautham accidentally kills his brother while saving one of his friends. Bhupati’s batch chase him and how Gautham solves the problem is all about the movie.",
-  "popularity": 0.1116,
+  "popularity": 2.7547,
   "poster_path": "/4sHBzY5zB0Yv0CT503Yqs4Q2tyu.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -47,8 +50,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,9 +60,6 @@
       }
     ],
     "crew": []
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt6925254",
@@ -70,22 +70,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.707,
-        "height": 900,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/4sHBzY5zB0Yv0CT503Yqs4Q2tyu.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 636
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -106,5 +90,21 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 900,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/4sHBzY5zB0Yv0CT503Yqs4Q2tyu.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 636
+      }
+    ]
   }
 }

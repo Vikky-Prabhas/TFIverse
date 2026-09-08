@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మెంటల్ కృష్ణా",
   "overview": "",
-  "popularity": 0.16,
+  "popularity": 1.6762,
   "poster_path": "/a4Xyh46jLTN57KTZNjyDpUy4I5o.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 0,
         "character": "Muddu Krishna",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Satya Krishnan",
         "original_name": "Satya Krishnan",
-        "popularity": 0.2301,
+        "popularity": 1.0771,
         "profile_path": "/8ymNkVGuJuAQkYcVc2ZZuxw6xov.jpg",
         "cast_id": 1,
         "character": "Satya",
@@ -75,8 +75,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 2,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 3,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Ranganath",
         "original_name": "Ranganath",
-        "popularity": 0.3078,
+        "popularity": 1.5237,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 5,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "credit_id": "5964d406c3a36828fc0f6188",
         "department": "Directing",
@@ -161,7 +161,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "credit_id": "5964d40c9251410bfa1155d4",
         "department": "Writing",
@@ -169,8 +169,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1583318",
+    "wikidata_id": "Q16343689",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -188,6 +195,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -218,15 +228,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1583318",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

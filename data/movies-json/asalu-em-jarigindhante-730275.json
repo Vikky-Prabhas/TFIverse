@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Asalu Em Jarigindhante",
   "overview": "",
-  "popularity": 0.1752,
+  "popularity": 0.4954,
   "poster_path": "/of9bdAMx1FIIBVIMGMik43ahzYY.jpg",
   "production_companies": [
     {
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Mahendran",
         "original_name": "Mahendran",
-        "popularity": 0.3149,
+        "popularity": 1.5328,
         "profile_path": "/eqv9gaikHJkzrTA78VdWxVcnbyo.jpg",
         "cast_id": 8,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Sri Pallavi",
         "original_name": "Sri Pallavi",
-        "popularity": 0.0071,
+        "popularity": 0.3873,
         "profile_path": "/kpAiHN4QMe2qKyzJEDYmrIjtknU.jpg",
         "cast_id": 9,
         "character": "",
@@ -100,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Shaani Pagadala",
         "original_name": "Shaani Pagadala",
-        "popularity": 0.0387,
+        "popularity": 0.4241,
         "profile_path": "/1IJKa9GkgTRj1D8MnAeE15sKIUb.jpg",
         "credit_id": "6193309d15376c0042e1fa5a",
         "department": "Production",
@@ -113,7 +113,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Bandari",
         "original_name": "Srinivas Bandari",
-        "popularity": 0.0071,
+        "popularity": 0.2699,
         "profile_path": null,
         "credit_id": "5f2c05aa3009aa003871a872",
         "department": "Directing",
@@ -122,37 +122,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2286995,
-        "known_for_department": "Sound",
-        "name": "Charan Arjun",
-        "original_name": "Charan Arjun",
-        "popularity": 0.0476,
-        "profile_path": null,
-        "credit_id": "5f2c0637b02f5e0037decc08",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2733241,
-        "known_for_department": "Camera",
-        "name": "Karna Pyarasani",
-        "original_name": "Karna Pyarasani",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5f2c0607b02f5e0036df4779",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2733238,
         "known_for_department": "Directing",
         "name": "Srinivas Bandari",
         "original_name": "Srinivas Bandari",
-        "popularity": 0.0071,
+        "popularity": 0.2699,
         "profile_path": null,
         "credit_id": "5f2c05bff1759c00378bbad8",
         "department": "Writing",
@@ -165,7 +139,7 @@
         "known_for_department": "Directing",
         "name": "Surya Dondapati",
         "original_name": "Surya Dondapati",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "5f2c05d8b02f5e0036df465b",
         "department": "Directing",
@@ -174,20 +148,46 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2733241,
+        "known_for_department": "Camera",
+        "name": "Karna Pyarasani",
+        "original_name": "Karna Pyarasani",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "5f2c0607b02f5e0036df4779",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2286995,
         "known_for_department": "Sound",
         "name": "Charan Arjun",
         "original_name": "Charan Arjun",
-        "popularity": 0.0476,
+        "popularity": 0.3194,
         "profile_path": null,
         "credit_id": "5f2c0621f1759c003589ac04",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2286995,
+        "known_for_department": "Sound",
+        "name": "Charan Arjun",
+        "original_name": "Charan Arjun",
+        "popularity": 0.3194,
+        "profile_path": null,
+        "credit_id": "5f2c0637b02f5e0037decc08",
+        "department": "Writing",
+        "job": "Lyricist"
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt12839816",
@@ -212,6 +212,12 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -239,11 +245,5 @@
         "width": 616
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

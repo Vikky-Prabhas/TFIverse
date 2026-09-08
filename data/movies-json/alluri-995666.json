@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "అల్లూరి",
   "overview": "Iqbal, the son of a retired police constable, is keen to become a cop too but fails to take charge of his ambition. In need of motivation, Iqbal’s father sets his son on a mission to trace the journey arc of an inspirational police officer, Alluri Sita Rama Raju. The journey takes Iqbal to Kothavalasa, Dharakonda, Vizag and Hyderabad, all the places where Alluri discharged his duties and left an indelible mark on eliminating corruption and crime.",
-  "popularity": 0.4104,
+  "popularity": 0.7488,
   "poster_path": "/eBUEJZbHzTjBpSwgCb512DK5NiE.jpg",
   "production_companies": [
     {
@@ -55,6 +55,13 @@
   "video": false,
   "vote_average": 4.5,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt21287752",
+    "wikidata_id": "Q115803542",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +70,8 @@
         "id": 1751749,
         "known_for_department": "Acting",
         "name": "Sree Vishnu",
-        "original_name": "Sree Vishnu",
-        "popularity": 0.2141,
+        "original_name": "శ్రీ విష్ణు",
+        "popularity": 1.02,
         "profile_path": "/fSbWn5uUjPMgEtIIrZiJoiU9v1C.jpg",
         "cast_id": 1,
         "character": "A. S. Rama Raju (Alluri Sita Rama Raju)",
@@ -78,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Kayadu Lohar",
         "original_name": "Kayadu Lohar",
-        "popularity": 0.8631,
+        "popularity": 2.4844,
         "profile_path": "/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg",
         "cast_id": 2,
         "character": "Sandhya",
@@ -92,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Madhusudhan Rao",
         "original_name": "Madhusudhan Rao",
-        "popularity": 0.6274,
+        "popularity": 2.0411,
         "profile_path": "/e6BpJSqq9KBnsY6p95nrrXRsI0V.jpg",
         "cast_id": 4,
         "character": "",
@@ -118,9 +125,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,8 +141,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "62c2d0506a300b00599e5965",
@@ -148,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.369,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2472,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 8,
         "character": "",
@@ -176,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi Jaya Vani",
         "original_name": "Gummadi Jaya Vani",
-        "popularity": 0.0662,
+        "popularity": 0.4293,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -190,7 +197,7 @@
         "known_for_department": "Acting",
         "name": "Naveena Reddy",
         "original_name": "Naveena Reddy",
-        "popularity": 0.2834,
+        "popularity": 0.7963,
         "profile_path": "/5eDGHP7v1fvCJbvX6wA8ajFxGWM.jpg",
         "cast_id": 25,
         "character": "",
@@ -206,7 +213,7 @@
         "known_for_department": "Writing",
         "name": "B S Pradeep Varma",
         "original_name": "B S Pradeep Varma",
-        "popularity": 0.0718,
+        "popularity": 0.2889,
         "profile_path": null,
         "credit_id": "62c2d0a82a210c06ca11c88f",
         "department": "Writing",
@@ -219,7 +226,7 @@
         "known_for_department": "Writing",
         "name": "B S Pradeep Varma",
         "original_name": "B S Pradeep Varma",
-        "popularity": 0.0718,
+        "popularity": 0.2889,
         "profile_path": null,
         "credit_id": "62c2d0b46a300b00599e5992",
         "department": "Directing",
@@ -232,7 +239,7 @@
         "known_for_department": "Production",
         "name": "Bekkem Venugopal",
         "original_name": "Bekkem Venugopal",
-        "popularity": 0.0538,
+        "popularity": 0.3193,
         "profile_path": null,
         "credit_id": "62c2d6fa6a300b00599e5d5f",
         "department": "Production",
@@ -245,7 +252,7 @@
         "known_for_department": "Sound",
         "name": "Harshavardhan Rameshwar",
         "original_name": "Harshavardhan Rameshwar",
-        "popularity": 0.1924,
+        "popularity": 0.3565,
         "profile_path": null,
         "credit_id": "62c2d7069672ed23ceff0741",
         "department": "Sound",
@@ -258,7 +265,7 @@
         "known_for_department": "Production",
         "name": "Bekkem Babita",
         "original_name": "Bekkem Babita",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": null,
         "credit_id": "62c2d777a313b8004c495f6a",
         "department": "Production",
@@ -271,7 +278,7 @@
         "known_for_department": "Camera",
         "name": "Raju Thota",
         "original_name": "Raju Thota",
-        "popularity": 0.0949,
+        "popularity": 0.2906,
         "profile_path": null,
         "credit_id": "62c2d783544c410059de68ec",
         "department": "Camera",
@@ -284,7 +291,7 @@
         "known_for_department": "Editing",
         "name": "Dharmendra Kakarala",
         "original_name": "Dharmendra Kakarala",
-        "popularity": 0.1855,
+        "popularity": 0.4085,
         "profile_path": null,
         "credit_id": "62c2d78e22e4802ab37c822e",
         "department": "Editing",
@@ -297,7 +304,7 @@
         "known_for_department": "Art",
         "name": "Vithal Kosanam",
         "original_name": "Vithal Kosanam",
-        "popularity": 0.0945,
+        "popularity": 0.2866,
         "profile_path": null,
         "credit_id": "62c2d79da313b8005962615e",
         "department": "Art",
@@ -310,7 +317,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.332,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "62c2d8049672ed23d0950975",
         "department": "Crew",
@@ -323,7 +330,7 @@
         "known_for_department": "Production",
         "name": "Dhani Aelay",
         "original_name": "Dhani Aelay",
-        "popularity": 0.2704,
+        "popularity": 0.3889,
         "profile_path": null,
         "credit_id": "62c2d80c3a48c5004cbf7946",
         "department": "Production",
@@ -336,7 +343,7 @@
         "known_for_department": "Writing",
         "name": "Rambabu Gosala",
         "original_name": "Rambabu Gosala",
-        "popularity": 0.0753,
+        "popularity": 0.3027,
         "profile_path": null,
         "credit_id": "62c2d82c6a300b00599e5dfe",
         "department": "Writing",
@@ -349,7 +356,7 @@
         "known_for_department": "Directing",
         "name": "Suresh Siddani",
         "original_name": "Suresh Siddani",
-        "popularity": 0,
+        "popularity": 0.2625,
         "profile_path": null,
         "credit_id": "62c2dd2b3a48c5004cbf7c31",
         "department": "Directing",
@@ -362,7 +369,7 @@
         "known_for_department": "Production",
         "name": "Mallela Sitaramaraju",
         "original_name": "Mallela Sitaramaraju",
-        "popularity": 0.0071,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "62c2dd46f1b5711fe60e1064",
         "department": "Production",
@@ -375,7 +382,7 @@
         "known_for_department": "Production",
         "name": "Nagarjuna Vadde",
         "original_name": "Nagarjuna Vadde",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "62c2dd5d544c41004cb79631",
         "department": "Production",
@@ -388,7 +395,7 @@
         "known_for_department": "Crew",
         "name": "Ram Krishan",
         "original_name": "Ramakrishna Master",
-        "popularity": 0.0741,
+        "popularity": 0.3036,
         "profile_path": null,
         "credit_id": "64ccffcd764b99011df5e529",
         "department": "Crew",
@@ -398,13 +405,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt21287752",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -422,12 +422,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -595,5 +589,11 @@
         "width": 813
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

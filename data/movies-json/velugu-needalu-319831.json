@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Velugu Needalu",
   "overview": "The life of 2 friends suguna (Savitri) and chandram (Nageshwara Rao) is potrayed as they and people around them swing between happiness and misery ( denoted as light and shadow).",
-  "popularity": 0.2611,
+  "popularity": 1.129,
   "poster_path": "/vi3hTm3uQfjF4KjAygHNS6KPXsp.jpg",
   "production_companies": [
     {
@@ -58,9 +58,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2993,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 0,
         "character": "Chandram",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3791,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 1,
         "character": "Suguna",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.2949,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 2,
         "character": "Kanaka Durgamma",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.2838,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 3,
         "character": "Rao Bahadur Venkataramaiah",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1796,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 4,
         "character": "Vengalappa",
@@ -132,7 +132,7 @@
         "known_for_department": "Directing",
         "name": "Adurthi Subba Rao",
         "original_name": "Adurthi Subba Rao",
-        "popularity": 0.2058,
+        "popularity": 0.5855,
         "profile_path": null,
         "credit_id": "57935b2f9251413dae00a2ac",
         "department": "Directing",
@@ -145,7 +145,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "57935b4292514169ab008706",
         "department": "Directing",
@@ -153,12 +153,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1654976,
         "known_for_department": "Sound",
         "name": "Pendyala Nageswara Rao",
         "original_name": "Pendyala Nageswara Rao",
-        "popularity": 0.0457,
+        "popularity": 0.3498,
         "profile_path": "/b9kRyrGIPrdkMhreEX42sXUjjkD.jpg",
         "credit_id": "57937948c3a368631c00992c",
         "department": "Sound",
@@ -171,7 +171,7 @@
         "known_for_department": "Production",
         "name": "D. Madhusudhana Rao",
         "original_name": "D. Madhusudhana Rao",
-        "popularity": 0.0807,
+        "popularity": 0.4156,
         "profile_path": null,
         "credit_id": "5fc3a65bd2f5b50040d7c593",
         "department": "Production",
@@ -184,7 +184,7 @@
         "known_for_department": "Directing",
         "name": "Adurthi Subba Rao",
         "original_name": "Adurthi Subba Rao",
-        "popularity": 0.2058,
+        "popularity": 0.5855,
         "profile_path": null,
         "credit_id": "5fc3a679b84f9400400ab0b7",
         "department": "Writing",
@@ -197,7 +197,7 @@
         "known_for_department": "Directing",
         "name": "C. V. Sridhar",
         "original_name": "C. V. Sridhar",
-        "popularity": 0.5059,
+        "popularity": 0.9485,
         "profile_path": "/r6SB5cYxm4epWyrCsMjRoZr8eGB.jpg",
         "credit_id": "5fc3a688a88587004207e34e",
         "department": "Writing",
@@ -210,7 +210,7 @@
         "known_for_department": "Writing",
         "name": "Acharya Aatreya",
         "original_name": "Acharya Aatreya",
-        "popularity": 0.1163,
+        "popularity": 0.5798,
         "profile_path": null,
         "credit_id": "5fc3a69e174a870041e2ffb0",
         "department": "Writing",
@@ -223,7 +223,7 @@
         "known_for_department": "Camera",
         "name": "P. S. Selvaraj",
         "original_name": "P. S. Selvaraj",
-        "popularity": 0.1048,
+        "popularity": 0.3788,
         "profile_path": null,
         "credit_id": "5fc3a6b76c449c003d394276",
         "department": "Camera",
@@ -236,16 +236,13 @@
         "known_for_department": "Editing",
         "name": "M. S. Mani",
         "original_name": "M. S. Mani",
-        "popularity": 0.0932,
-        "profile_path": null,
+        "popularity": 0.3626,
+        "profile_path": "/m4pGiUlYPujBMt7MsJfhhA76hbf.jpg",
         "credit_id": "5fc3a6c8174a870040e2959f",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0264145",
@@ -254,8 +251,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -311,5 +308,8 @@
         "type": ""
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

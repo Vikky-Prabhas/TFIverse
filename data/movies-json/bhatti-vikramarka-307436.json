@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bhatti Vikramarka",
   "overview": "Bollywood 1960",
-  "popularity": 0.0521,
+  "popularity": 0.4219,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -35,16 +35,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0330054",
-    "wikidata_id": "Q4901448",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -62,12 +52,22 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0330054",
+    "wikidata_id": "Q4901448",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

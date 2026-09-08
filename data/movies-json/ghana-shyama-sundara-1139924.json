@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Ghana Shyama Sundara",
   "overview": "NAME: GHANA  JOB: SOUND & PAINTING ARTIST  TYPE: VERY LOW-KEY PERSON HIGHLY CREATIVE, LONE WOLF MATERIAL.  EXTREMIST WITH THOUGHTS DEEPER THAN OCEANS SHORT-TEMPERED,  LOVES:  CHALLENGES, BLACK BLOTHS, SURPRISING PEOPLE WITH HIS CREATIVE ACTIONS, WALKING IN EMPTY STREETS  HATES:  CROWDED PLACES, STREET LIGHTS WITH WHITE BULBS, SPORTS BIKES WITH PLASTIC SKIN, PEOPLE WITH TWO FACES",
-  "popularity": 0.0599,
+  "popularity": 0.4987,
   "poster_path": "/6rhy7qLqPNyEDUOcUbsMihRYnO0.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,29 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/6rhy7qLqPNyEDUOcUbsMihRYnO0.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -88,93 +65,28 @@
   "keywords": {
     "keywords": []
   },
-  "credits": {
-    "cast": [
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
       {
-        "adult": false,
-        "gender": 2,
-        "id": 4065336,
-        "known_for_department": "Directing",
-        "name": "Filmian",
-        "original_name": "Filmian",
-        "popularity": 0.1487,
-        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
-        "cast_id": 6,
-        "character": "Ghana",
-        "credit_id": "65b3af4aa0f1a20146be3498",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3602870,
-        "known_for_department": "Editing",
-        "name": "Govardhan Sathvik",
-        "original_name": "Govardhan Sathvik",
-        "popularity": 0,
-        "profile_path": "/oOByMkMuEeDWsRAZeElot192nVl.jpg",
-        "credit_id": "65b3aeabd236e60184c03f40",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4065336,
-        "known_for_department": "Directing",
-        "name": "Filmian",
-        "original_name": "Filmian",
-        "popularity": 0.1487,
-        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
-        "credit_id": "6488aeb999259c00ff108c4d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4065336,
-        "known_for_department": "Directing",
-        "name": "Filmian",
-        "original_name": "Filmian",
-        "popularity": 0.1487,
-        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
-        "credit_id": "6488aec899259c01392d1bfc",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4110127,
-        "known_for_department": "Sound",
-        "name": "REE",
-        "original_name": "REE",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6488aee07ef3810104a5c27d",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4110129,
-        "known_for_department": "Crew",
-        "name": "Legion",
-        "original_name": "Legion",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6488af0f99259c01392d1c15",
-        "department": "Crew",
-        "job": "Cinematography"
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6rhy7qLqPNyEDUOcUbsMihRYnO0.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -192,5 +104,93 @@
         ]
       }
     ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4065336,
+        "known_for_department": "Directing",
+        "name": "Filmian",
+        "original_name": "Filmian",
+        "popularity": 0.3398,
+        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
+        "cast_id": 6,
+        "character": "Ghana",
+        "credit_id": "65b3af4aa0f1a20146be3498",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3602870,
+        "known_for_department": "Editing",
+        "name": "Govardhan Sathvik",
+        "original_name": "Govardhan Sathvik",
+        "popularity": 0.3013,
+        "profile_path": "/oOByMkMuEeDWsRAZeElot192nVl.jpg",
+        "credit_id": "65b3aeabd236e60184c03f40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4065336,
+        "known_for_department": "Directing",
+        "name": "Filmian",
+        "original_name": "Filmian",
+        "popularity": 0.3398,
+        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
+        "credit_id": "6488aeb999259c00ff108c4d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4065336,
+        "known_for_department": "Directing",
+        "name": "Filmian",
+        "original_name": "Filmian",
+        "popularity": 0.3398,
+        "profile_path": "/lA3q2fvBPDVgu8D3fsrEsnxNe4K.jpg",
+        "credit_id": "6488aec899259c01392d1bfc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110127,
+        "known_for_department": "Sound",
+        "name": "REE",
+        "original_name": "REE",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6488aee07ef3810104a5c27d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110129,
+        "known_for_department": "Crew",
+        "name": "Legion",
+        "original_name": "Legion",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6488af0f99259c01392d1c15",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

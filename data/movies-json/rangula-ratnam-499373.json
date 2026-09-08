@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "రంగులరాట్నం",
   "overview": "Vishnu is a mama's boy, dependent on his widowed mother for everything. He falls in love with Keerthi the second he lays eyes on her. But what happens when his world is shaken apart? Can he cope and keep up with his love?",
-  "popularity": 0.4816,
+  "popularity": 2.1181,
   "poster_path": "/zs2YBYd0IwPtEQYTkZQ5rcMliqO.jpg",
   "production_companies": [],
   "production_countries": [
@@ -50,8 +50,27 @@
   "tagline": "",
   "title": "Rangula Ratnam",
   "video": false,
-  "vote_average": 8,
-  "vote_count": 1,
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5893,
+        "name": "mama's boy"
+      },
+      {
+        "id": 12279,
+        "name": "family drama"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt7820526",
+    "wikidata_id": "Q96401232",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Raj Tarun",
         "original_name": "Raj Tarun",
-        "popularity": 0.3507,
+        "popularity": 0.7232,
         "profile_path": "/mSPPLTJfzmGRrmTG23IZ4VhWVcp.jpg",
         "cast_id": 0,
         "character": "Vishnu",
@@ -75,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Chitra Shukla",
         "original_name": "Chitra Shukla",
-        "popularity": 0.349,
+        "popularity": 0.7853,
         "profile_path": "/yrD7S2T7YGqo45atr5DfBu28LSN.jpg",
         "cast_id": 3,
         "character": "",
@@ -89,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Sithara",
         "original_name": "Sithara",
-        "popularity": 0.422,
+        "popularity": 0.837,
         "profile_path": "/9km7P6HyYOg0qMFMicgbg64Fkn5.jpg",
         "cast_id": 1,
         "character": "",
@@ -102,8 +121,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 8,
         "character": "",
@@ -117,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.5618,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 2,
         "character": "",
@@ -131,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4177,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 9,
         "character": "",
@@ -147,7 +166,7 @@
         "known_for_department": "Directing",
         "name": "Shree Ranjani",
         "original_name": "Shree Ranjani",
-        "popularity": 0.0352,
+        "popularity": 0.5043,
         "profile_path": "/A5kohDUCPucXhYVNaYPSG3eJJkL.jpg",
         "credit_id": "5a608507c3a36877b30159fa",
         "department": "Directing",
@@ -160,7 +179,7 @@
         "known_for_department": "Sound",
         "name": "Sricharan Pakala",
         "original_name": "Sricharan Pakala",
-        "popularity": 0.1149,
+        "popularity": 0.3297,
         "profile_path": null,
         "credit_id": "5a608607c3a36877cc0141b2",
         "department": "Sound",
@@ -173,7 +192,7 @@
         "known_for_department": "Directing",
         "name": "Shree Ranjani",
         "original_name": "Shree Ranjani",
-        "popularity": 0.0352,
+        "popularity": 0.5043,
         "profile_path": "/A5kohDUCPucXhYVNaYPSG3eJJkL.jpg",
         "credit_id": "5a60851dc3a36878680120dc",
         "department": "Writing",
@@ -186,7 +205,7 @@
         "known_for_department": "Editing",
         "name": "Sreekar Prasad",
         "original_name": "Sreekar Prasad",
-        "popularity": 0.2848,
+        "popularity": 0.508,
         "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
         "credit_id": "5a6085c7c3a368781c011e3c",
         "department": "Editing",
@@ -207,25 +226,6 @@
         "official": false,
         "id": "5a6085b10e0a265072014117",
         "published_at": "2018-01-08T08:26:50.000Z"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt7820526",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 5893,
-        "name": "mama's boy"
-      },
-      {
-        "id": 12279,
-        "name": "family drama"
       }
     ]
   },

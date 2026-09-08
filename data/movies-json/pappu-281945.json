@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pappu",
   "overview": "A healthy man, who is unlucky in life and is always taken for granted, falls in love with his employer's daughter. However, when she gets kidnapped, he is sent to rescue her.",
-  "popularity": 0.2337,
+  "popularity": 1.0909,
   "poster_path": "/nYojQ8Zt19r0tluUhqYeznko9KQ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,13 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt1743354",
-    "wikidata_id": "Q13001664",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -50,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Krishnudu",
         "original_name": "Krishnudu",
-        "popularity": 0.2007,
+        "popularity": 0.9206,
         "profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
         "cast_id": 0,
         "character": "",
@@ -64,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Subbaraju",
         "original_name": "Subbaraju",
-        "popularity": 0.5604,
+        "popularity": 1.8362,
         "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Dipika Parmar",
         "original_name": "Dipika Parmar",
-        "popularity": 0.0214,
+        "popularity": 0.3016,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -92,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Narsing Yadav",
         "original_name": "Narsing Yadav",
-        "popularity": 0.1885,
+        "popularity": 0.8676,
         "profile_path": "/6XXilySySycI5Zf6jhGQgHzHgEz.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Shankar Melkote",
         "original_name": "Shankar Melkote",
-        "popularity": 0.0718,
+        "popularity": 0.6094,
         "profile_path": "/mfmmQ7zfIdZ6yXFDydWVXlzrAW3.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,11 +115,11 @@
         "known_for_department": "Directing",
         "name": "Sapan Pasuparthi",
         "original_name": "Sapan Pasuparthi",
-        "popularity": 0,
+        "popularity": 0.3167,
         "profile_path": null,
-        "credit_id": "53c3e8eb0e0a26158f00c493",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "53c3e8dd0e0a26157c00c7d6",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -135,19 +128,26 @@
         "known_for_department": "Directing",
         "name": "Sapan Pasuparthi",
         "original_name": "Sapan Pasuparthi",
-        "popularity": 0,
+        "popularity": 0.3167,
         "profile_path": null,
-        "credit_id": "53c3e8dd0e0a26157c00c7d6",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "53c3e8eb0e0a26158f00c493",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt1743354",
+    "wikidata_id": "Q13001664",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [

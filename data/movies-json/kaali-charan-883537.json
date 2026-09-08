@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Kaalicharan",
   "overview": "In the year 1980’s story happens in Usilampatti, with Madurai’s nativity, fragrance and culture background.",
-  "popularity": 0.2822,
+  "popularity": 0.8161,
   "poster_path": "/sTWo4uebrCAbnGNA5pMWwbrrkLg.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,174 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 588013,
+        "known_for_department": "Acting",
+        "name": "Chaitanya Krishna",
+        "original_name": "Chaitanya Krishna",
+        "popularity": 0.7995,
+        "profile_path": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6163976f21621b0062e5c9ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1054350,
+        "known_for_department": "Acting",
+        "name": "Chandhini Tamilarasan",
+        "original_name": "Chandhini Tamilarasan",
+        "popularity": 0.9775,
+        "profile_path": "/gagKU6nnLytGhtdpfUquNq7CdaN.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6163910e33ec260091a35abf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1306586,
+        "known_for_department": "Acting",
+        "name": "Kavita Srinivasan",
+        "original_name": "Kavita Srinivasan",
+        "popularity": 0.3289,
+        "profile_path": "/tC5d0jgkuT86EstinnlbjoW91Xy.jpg",
+        "cast_id": 2,
+        "character": "Kalavathi",
+        "credit_id": "61639117b865eb0061c823cf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213430,
+        "known_for_department": "Acting",
+        "name": "Nagineedu Vellanki",
+        "original_name": "Nagineedu Vellanki",
+        "popularity": 0.8704,
+        "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "616391adcee481008d1939b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586629,
+        "known_for_department": "Acting",
+        "name": "Rao Ramesh",
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
+        "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "616397f4f9aa470029993bc1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2117163,
+        "known_for_department": "Acting",
+        "name": "Pankaj Kesari",
+        "original_name": "Pankaj Kesari",
+        "popularity": 0.4259,
+        "profile_path": "/iYsYJ3X10AnxaBOfGXO6Zf5lFlw.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6163980e33ec260065465a37",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1307979,
+        "known_for_department": "Sound",
+        "name": "Nandhan Raj",
+        "original_name": "Nandhan Raj",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "6163923018b751006142d317",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3266439,
+        "known_for_department": "Directing",
+        "name": "Sri Prawin Kumar",
+        "original_name": "Sri Prawin Kumar",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "616392bdd18b2400447eae12",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3266439,
+        "known_for_department": "Directing",
+        "name": "Sri Prawin Kumar",
+        "original_name": "Sri Prawin Kumar",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "616392cb33ec260028f27e11",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3266439,
+        "known_for_department": "Directing",
+        "name": "Sri Prawin Kumar",
+        "original_name": "Sri Prawin Kumar",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "61639291fe5c91008815b4ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1839163,
+        "known_for_department": "Writing",
+        "name": "Thamarai",
+        "original_name": "Thamarai",
+        "popularity": 0.4373,
+        "profile_path": "/1WwkOKYzyJrAks3r5RMe3mOBfEV.jpg",
+        "credit_id": "616392419d592c00441da0ff",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3266439,
+        "known_for_department": "Directing",
+        "name": "Sri Prawin Kumar",
+        "original_name": "Sri Prawin Kumar",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "616392a391745b0044185453",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
   "videos": {
     "results": [
       {
@@ -54,13 +222,6 @@
         "published_at": "2014-12-31T22:24:58.000Z"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt12874614",
-    "wikidata_id": "Q114678729",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -81,6 +242,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt12874614",
+    "wikidata_id": "Q114678729",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -134,174 +302,6 @@
         "iso_3166_1": "IN",
         "title": "Kaalicharan",
         "type": "Telugu (Alternate Spelling)"
-      }
-    ]
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 588013,
-        "known_for_department": "Acting",
-        "name": "Chaitanya Krishna",
-        "original_name": "Chaitanya Krishna",
-        "popularity": 0.2169,
-        "profile_path": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg",
-        "cast_id": 11,
-        "character": "",
-        "credit_id": "6163976f21621b0062e5c9ed",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1054350,
-        "known_for_department": "Acting",
-        "name": "Chandhini Tamilarasan",
-        "original_name": "Chandhini Tamilarasan",
-        "popularity": 0.2372,
-        "profile_path": "/gagKU6nnLytGhtdpfUquNq7CdaN.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "6163910e33ec260091a35abf",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1306586,
-        "known_for_department": "Acting",
-        "name": "Kavita Srinivasan",
-        "original_name": "Kavita Srinivasan",
-        "popularity": 0.0662,
-        "profile_path": "/tC5d0jgkuT86EstinnlbjoW91Xy.jpg",
-        "cast_id": 2,
-        "character": "Kalavathi",
-        "credit_id": "61639117b865eb0061c823cf",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 213430,
-        "known_for_department": "Acting",
-        "name": "Nagineedu Vellanki",
-        "original_name": "Nagineedu Vellanki",
-        "popularity": 0.2642,
-        "profile_path": "/bqB6ri0ZPKUmzQJNcBIAjOwITu9.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "616391adcee481008d1939b9",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 586629,
-        "known_for_department": "Acting",
-        "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
-        "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
-        "cast_id": 12,
-        "character": "",
-        "credit_id": "616397f4f9aa470029993bc1",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2117163,
-        "known_for_department": "Acting",
-        "name": "Pankaj Kesari",
-        "original_name": "Pankaj Kesari",
-        "popularity": 0.0459,
-        "profile_path": "/iYsYJ3X10AnxaBOfGXO6Zf5lFlw.jpg",
-        "cast_id": 13,
-        "character": "",
-        "credit_id": "6163980e33ec260065465a37",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1307979,
-        "known_for_department": "Sound",
-        "name": "Nandhan Raj",
-        "original_name": "Nandhan Raj",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6163923018b751006142d317",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1839163,
-        "known_for_department": "Writing",
-        "name": "Thamarai",
-        "original_name": "Thamarai",
-        "popularity": 0.1856,
-        "profile_path": "/1WwkOKYzyJrAks3r5RMe3mOBfEV.jpg",
-        "credit_id": "616392419d592c00441da0ff",
-        "department": "Writing",
-        "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3266439,
-        "known_for_department": "Directing",
-        "name": "Sri Prawin Kumar",
-        "original_name": "Sri Prawin Kumar",
-        "popularity": 0.0511,
-        "profile_path": null,
-        "credit_id": "61639291fe5c91008815b4ab",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3266439,
-        "known_for_department": "Directing",
-        "name": "Sri Prawin Kumar",
-        "original_name": "Sri Prawin Kumar",
-        "popularity": 0.0511,
-        "profile_path": null,
-        "credit_id": "616392a391745b0044185453",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3266439,
-        "known_for_department": "Directing",
-        "name": "Sri Prawin Kumar",
-        "original_name": "Sri Prawin Kumar",
-        "popularity": 0.0511,
-        "profile_path": null,
-        "credit_id": "616392bdd18b2400447eae12",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3266439,
-        "known_for_department": "Directing",
-        "name": "Sri Prawin Kumar",
-        "original_name": "Sri Prawin Kumar",
-        "popularity": 0.0511,
-        "profile_path": null,
-        "credit_id": "616392cb33ec260028f27e11",
-        "department": "Writing",
-        "job": "Screenplay"
       }
     ]
   }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "అక్క పెత్తనం చెల్లెలి కాపురం",
   "overview": "",
-  "popularity": 0.2811,
+  "popularity": 0.5642,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -52,8 +52,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Satyanarayana",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 2,
         "character": "Ranganayaki",
@@ -81,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Vikram",
         "original_name": "Vikram",
-        "popularity": 1.1023,
-        "profile_path": "/c171LQMyHtULZC0RmuIHiiFDOjv.jpg",
+        "popularity": 2.577,
+        "profile_path": "/o11aBHj4gFkTPgh6zsLHPq67b0b.jpg",
         "cast_id": 3,
         "character": "Radha Krishna",
         "credit_id": "62bf563fe640d6004ed00d80",
@@ -94,9 +94,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 4,
         "character": "Brahmaji",
         "credit_id": "62bf564b28723c00593a18dc",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.427,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 5,
         "character": "Peon Satyam",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Suthi Velu",
         "original_name": "Suthi Velu",
-        "popularity": 0.3068,
+        "popularity": 1.2086,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Ananth Babu",
         "original_name": "Ananth Babu",
-        "popularity": 0.2663,
+        "popularity": 0.8884,
         "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
         "cast_id": 7,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 8,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Y. Vijaya",
         "original_name": "Y. Vijaya",
-        "popularity": 0.668,
+        "popularity": 2.2151,
         "profile_path": "/zyo1kuf67tOhWtecyn8uGaahDsS.jpg",
         "cast_id": 9,
         "character": "Ammaji",
@@ -179,7 +179,7 @@
         "known_for_department": "Production",
         "name": "Maganti Sudhakar",
         "original_name": "Maganti Sudhakar",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -193,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Radha Prashanthi",
         "original_name": "Radha Prashanthi",
-        "popularity": 0,
+        "popularity": 0.2719,
         "profile_path": null,
         "cast_id": 17,
         "character": "Radha",
@@ -207,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Srikanya",
         "original_name": "Srikanya",
-        "popularity": 0.115,
+        "popularity": 0.7204,
         "profile_path": null,
         "cast_id": 18,
         "character": "Sona",
@@ -218,12 +218,38 @@
     "crew": [
       {
         "adult": false,
+        "gender": 0,
+        "id": 3608283,
+        "known_for_department": "Sound",
+        "name": "Vasu Rao",
+        "original_name": "Vasu Rao",
+        "popularity": 0.2708,
+        "profile_path": null,
+        "credit_id": "62bf57da12197e005ca71c5d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1974027,
+        "known_for_department": "Editing",
+        "name": "B. Krishnam Raju",
+        "original_name": "B. Krishnam Raju",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "credit_id": "62bf57c8325a5100c25e2235",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 1335262,
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62bf572d9672ed007ee91e0f",
         "department": "Directing",
@@ -236,24 +262,11 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "credit_id": "62bf5735cf4a64005888cbc4",
         "department": "Writing",
         "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584865,
-        "known_for_department": "Directing",
-        "name": "Agathiyan",
-        "original_name": "Agathiyan",
-        "popularity": 0.1873,
-        "profile_path": null,
-        "credit_id": "62bf574c105611005b5e9097",
-        "department": "Writing",
-        "job": "Original Story"
       },
       {
         "adult": false,
@@ -262,7 +275,7 @@
         "known_for_department": "Production",
         "name": "Maganti Sudhakar",
         "original_name": "Maganti Sudhakar",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "62bf575b12197e004fb12dec",
         "department": "Production",
@@ -270,29 +283,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1974027,
-        "known_for_department": "Editing",
-        "name": "B. Krishnam Raju",
-        "original_name": "B. Krishnam Raju",
-        "popularity": 0.0434,
+        "gender": 2,
+        "id": 584865,
+        "known_for_department": "Directing",
+        "name": "Agathiyan",
+        "original_name": "Agathiyan",
+        "popularity": 1.1179,
         "profile_path": null,
-        "credit_id": "62bf57c8325a5100c25e2235",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3608283,
-        "known_for_department": "Sound",
-        "name": "Vasu Rao",
-        "original_name": "Vasu Rao",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "62bf57da12197e005ca71c5d",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "credit_id": "62bf574c105611005b5e9097",
+        "department": "Writing",
+        "job": "Original Story"
       }
     ]
   },
@@ -305,23 +305,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Akka Pethanam Chelleli Kapuram",
-        "type": ""
-      }
-    ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -339,5 +322,22 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Akka Pethanam Chelleli Kapuram",
+        "type": ""
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "వేట",
   "overview": "Veta is a Adventure based movie in which, the story is set in pre-independence period of India. Chiranjeevi is set to become captain of the ship and also ready to marry his beautiful lover. But this was resented by two of his enemies and they plot to throw him in jail. while in jail , he meets an old man who was a wealthy zamindar. He informs Chiranjeevi about the secret treasure which he could use to avenge the suffering meted to him by his enemies.Chiranjeevi plans an escape and once out of jail, he kills each and every enemy of his in different ways.",
-  "popularity": 0.2488,
+  "popularity": 1.7815,
   "poster_path": "/s7wvpqocU3sqx7yCmp94YUltODc.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,9 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 4,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -42,7 +45,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -56,8 +59,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7318,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "53b0bab20e0a265986006d91",
@@ -70,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 5,
         "character": "",
@@ -84,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4098,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 6,
         "character": "",
@@ -98,8 +101,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.5892,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "53b0bab90e0a265979006f0a",
@@ -112,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Ranganath",
         "original_name": "Ranganath",
-        "popularity": 0.3078,
+        "popularity": 1.5237,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -124,28 +127,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 933605,
-        "known_for_department": "Sound",
-        "name": "K. Chakravarthy",
-        "original_name": "Chakravarthy",
-        "popularity": 0.1305,
-        "profile_path": null,
-        "credit_id": "53b0baaa0e0a265980006f57",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 584666,
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.4415,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "53b0baa80e0a265975006fd1",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "53b0baaa0e0a265980006f57",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -154,7 +157,7 @@
         "known_for_department": "Production",
         "name": "Tirupathi Reddy M",
         "original_name": "Tirupathi Reddy M",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0baaec3a3682ef100572b",
         "department": "Production",
@@ -167,7 +170,7 @@
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "64cfcddbd9f4a603bafad27e",
         "department": "Writing",
@@ -175,8 +178,29 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt0246313",
+    "wikidata_id": "Q7923544",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-05-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -241,29 +265,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0246313",
-    "wikidata_id": "Q7923544",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1986-05-28T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

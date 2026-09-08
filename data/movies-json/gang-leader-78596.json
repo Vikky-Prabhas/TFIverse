@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Gang Leader",
   "overview": "Rajaram, youngest of three brothers, owns up to another's crime in order to fund his middle brother's education. He is shattered when he learns about the culprits behind his eldest brother's murder.",
-  "popularity": 0.4389,
+  "popularity": 0.8089,
   "poster_path": "/6gALL6FJSqyu9udXydnfyoJWbiB.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,9 @@
   "video": false,
   "vote_average": 7.2,
   "vote_count": 4,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 4,
         "character": "Rajaram",
@@ -66,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 5,
         "character": "Kanyakumari",
@@ -80,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Murali Mohan",
         "original_name": "Murali Mohan",
-        "popularity": 0.3614,
+        "popularity": 1.3936,
         "profile_path": "/otex9PxT1wXvvR4ATVG5lZH5UDV.jpg",
         "cast_id": 6,
         "character": "Raghupati",
@@ -94,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Sudha",
         "original_name": "Sudha",
-        "popularity": 0.4601,
+        "popularity": 1.5384,
         "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
         "cast_id": 7,
         "character": "",
@@ -108,8 +111,8 @@
         "known_for_department": "Acting",
         "name": "R. Sarathkumar",
         "original_name": "R. Sarathkumar",
-        "popularity": 0.9036,
-        "profile_path": "/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg",
+        "popularity": 1.9687,
+        "profile_path": "/z9hCUd4jzSF1WQS4qOCefOcdLwV.jpg",
         "cast_id": 8,
         "character": "Raghava",
         "credit_id": "52fe49a9c3a368484e13719f",
@@ -122,8 +125,8 @@
         "known_for_department": "Acting",
         "name": "Sumalatha",
         "original_name": "Sumalatha",
-        "popularity": 0.6452,
-        "profile_path": "/lfIs0x9MudhZM3yY2AcKSLsh2ks.jpg",
+        "popularity": 2.3663,
+        "profile_path": "/6XPwXGUZ4bwJ1XRZNsOJ89uE4KU.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "52fe49a9c3a368484e1371a3",
@@ -136,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Anandaraj",
         "original_name": "Anandaraj",
-        "popularity": 0.4517,
+        "popularity": 1.6093,
         "profile_path": "/gZxzckfurzV0oQOME8b1ATNoMHD.jpg",
         "cast_id": 10,
         "character": "",
@@ -150,7 +153,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.5446,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 11,
         "character": "Ekambaram",
@@ -164,7 +167,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 12,
         "character": "Jailer",
@@ -178,7 +181,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 13,
         "character": "Sidhanthi",
@@ -190,24 +193,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 92057,
-        "known_for_department": "Sound",
-        "name": "Bappi Lahiri",
-        "original_name": "Bappi Lahiri",
-        "popularity": 0.2827,
-        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
-        "credit_id": "52fe49a9c3a368484e13717f",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 584680,
         "known_for_department": "Directing",
         "name": "Vijaya Bapineedu",
         "original_name": "Vijaya Bapineedu",
-        "popularity": 0.1172,
+        "popularity": 0.4757,
         "profile_path": null,
         "credit_id": "52fe49a9c3a368484e137185",
         "department": "Directing",
@@ -220,11 +210,24 @@
         "known_for_department": "Production",
         "name": "Maganti Ravindranath Chowdary",
         "original_name": "Maganti Ravindranath Chowdary",
-        "popularity": 0.0362,
+        "popularity": 0.2688,
         "profile_path": null,
         "credit_id": "52fe49a9c3a368484e13718b",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92057,
+        "known_for_department": "Sound",
+        "name": "Bappi Lahiri",
+        "original_name": "Bappi Lahiri",
+        "popularity": 0.5219,
+        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
+        "credit_id": "52fe49a9c3a368484e13717f",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
   },
@@ -235,8 +238,22 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1991-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -306,23 +323,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1991-05-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

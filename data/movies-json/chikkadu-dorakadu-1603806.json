@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Chikkadu Dorakadu",
   "overview": "",
-  "popularity": 0.0693,
+  "popularity": 1.4818,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -60,8 +60,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Raja",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Rajani",
         "original_name": "Rajani",
-        "popularity": 0.8476,
+        "popularity": 1.1894,
         "profile_path": "/1lMmqGXKLn7znayGZEK6sR2HZKh.jpg",
         "cast_id": 2,
         "character": "Seetha devi",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 3,
         "character": "Peddodu satyam",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 4,
         "character": "Chinnodu sivam",
@@ -116,8 +116,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "Bullodu sundaram",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Suthi Velu",
         "original_name": "Suthi Velu",
-        "popularity": 0.3168,
+        "popularity": 1.2086,
         "profile_path": null,
         "cast_id": 6,
         "character": "Dumbu",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Suthi Veerabhadra Rao",
         "original_name": "Suthi Veerabhadra Rao",
-        "popularity": 0.2414,
+        "popularity": 0.8966,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -161,7 +161,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "694cfc3637935bc522154708",
         "department": "Directing",
@@ -174,7 +174,7 @@
         "known_for_department": "Sound",
         "name": "Thotakura Somaraju",
         "original_name": "Thotakura Somaraju",
-        "popularity": 0.1819,
+        "popularity": 0.3745,
         "profile_path": null,
         "credit_id": "6983947a262ccc2e4c6ee683",
         "department": "Sound",
@@ -187,7 +187,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "69839484f0960f4c029d1338",
         "department": "Sound",
@@ -198,20 +198,15 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt0271429",
     "wikidata_id": "Q24905498",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "release_dates": {
     "results": [
@@ -232,5 +227,10 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

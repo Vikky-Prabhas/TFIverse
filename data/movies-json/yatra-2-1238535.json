@@ -27,7 +27,7 @@
   "original_language": "te",
   "original_title": "Yatra 2",
   "overview": "The life of the former Chief Minister of Andhra Pradesh, the late YS Rajasekhara Reddy.",
-  "popularity": 0.407,
+  "popularity": 0.769,
   "poster_path": "/bb2hiXqT322d1vNVuiqJUSf9ayX.jpg",
   "production_companies": [
     {
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Jiiva",
         "original_name": "Jiiva",
-        "popularity": 7.42,
+        "popularity": 1.995,
         "profile_path": "/1AsFMY3Fha7BvYmw4jShQtNTZjp.jpg",
         "cast_id": 1,
         "character": "YS Jagan",
@@ -82,8 +82,8 @@
         "id": 124111,
         "known_for_department": "Acting",
         "name": "Mammootty",
-        "original_name": "Mammootty",
-        "popularity": 1.8613,
+        "original_name": "മമ്മൂട്ടി",
+        "popularity": 4.9579,
         "profile_path": "/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg",
         "cast_id": 2,
         "character": "Y.S. Rajashekar Reddy",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 4,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Suzanne Bernert",
         "original_name": "Suzanne Bernert",
-        "popularity": 0.1643,
+        "popularity": 0.6733,
         "profile_path": "/f4hxdoeEJkwrp5zvWwhHsveZnN9.jpg",
         "cast_id": 5,
         "character": "",
@@ -125,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Manjrekar",
         "original_name": "Mahesh Manjrekar",
-        "popularity": 0.9169,
+        "popularity": 1.2839,
         "profile_path": "/4lFytre6m4SruIUpUIoyNjsMo7F.jpg",
         "cast_id": 3,
         "character": "Chandrababu Naidu",
@@ -139,7 +139,7 @@
         "known_for_department": "Acting",
         "name": "Rajiv Kumar Aneja",
         "original_name": "Rajiv Kumar Aneja",
-        "popularity": 0.0338,
+        "popularity": 0.5105,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -155,7 +155,7 @@
         "known_for_department": "Production",
         "name": "Shiva Meka",
         "original_name": "Shiva Meka",
-        "popularity": 0.0071,
+        "popularity": 0.2454,
         "profile_path": null,
         "credit_id": "65b9e73f7390c0017cd02983",
         "department": "Production",
@@ -168,7 +168,7 @@
         "known_for_department": "Sound",
         "name": "Santhosh Narayanan",
         "original_name": "Santhosh Narayanan",
-        "popularity": 0.2483,
+        "popularity": 0.6401,
         "profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
         "credit_id": "65b9e750da9ef2017ca74c65",
         "department": "Sound",
@@ -176,12 +176,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1387730,
         "known_for_department": "Directing",
         "name": "Mahi V. Raghav",
         "original_name": "Mahi V. Raghav",
-        "popularity": 0.1637,
+        "popularity": 0.5581,
         "profile_path": null,
         "credit_id": "65b9e72c8c31590147f19026",
         "department": "Writing",
@@ -189,12 +189,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1387730,
         "known_for_department": "Directing",
         "name": "Mahi V. Raghav",
         "original_name": "Mahi V. Raghav",
-        "popularity": 0.1637,
+        "popularity": 0.5581,
         "profile_path": null,
         "credit_id": "65b9e72246e75f0161bb8f9f",
         "department": "Directing",
@@ -202,12 +202,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1387730,
         "known_for_department": "Directing",
         "name": "Mahi V. Raghav",
         "original_name": "Mahi V. Raghav",
-        "popularity": 0.1637,
+        "popularity": 0.5581,
         "profile_path": null,
         "credit_id": "65b9e7465be00e01615ac1d4",
         "department": "Production",
@@ -231,32 +231,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt28325940",
-    "wikidata_id": null,
+    "wikidata_id": "Q124246779",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-02-08T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -295,7 +278,24 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-02-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

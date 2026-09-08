@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Seetharama Kalyanam",
   "overview": "The story starts with a conflict between two villages Ramapuram and Raghavapuram for Lord Rama statues. In that conflict, Raja's father who is the president of Ramapuram has been killed by Govindaiah brother-Subbaramaiah. Taking into that mind Raja's elder brother Rangayya kills Subbaramaiah and is sentenced to jail. After few years, Raja falls in love with one of his colleague in college without knowing that she is Subbaramayya's daughter, her name is Vara Laxmi. But their love was accepted neither by Laxmi's brother Hari nor by Govindayya. The rest of the film is all about how Raja struggles to marry Lakshmi with creating the relationship between both the families.",
-  "popularity": 0.1592,
+  "popularity": 1.7256,
   "poster_path": "/6XdXYQJ69DWEIIpFgymwJh8jZGr.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 0,
         "character": "Raja",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Rajani",
         "original_name": "Rajani",
-        "popularity": 0.6292,
+        "popularity": 1.1894,
         "profile_path": "/1lMmqGXKLn7znayGZEK6sR2HZKh.jpg",
         "cast_id": 1,
         "character": "Lakshmi",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 2,
         "character": "Govindaiah",
@@ -108,24 +108,11 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5b1aa3dcc3a36848f80135f2",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584606,
-        "known_for_department": "Sound",
-        "name": "K. V. Mahadevan",
-        "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
-        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
-        "credit_id": "5b1aa4310e0a261f9a014327",
-        "department": "Sound",
-        "job": "Music Director"
       },
       {
         "adult": false,
@@ -134,7 +121,7 @@
         "known_for_department": "Production",
         "name": "K Murari",
         "original_name": "K Murari",
-        "popularity": 0.1218,
+        "popularity": 0.3369,
         "profile_path": null,
         "credit_id": "5b1aa4049251414bbb0169f4",
         "department": "Production",
@@ -147,42 +134,29 @@
         "known_for_department": "Writing",
         "name": "Jandhyala Subramanya Sastry",
         "original_name": "Jandhyala Subramanya Sastry",
-        "popularity": 0.3576,
+        "popularity": 0.8332,
         "profile_path": "/ly4RquWKMbwjc4aUYfiN92mHa60.jpg",
         "credit_id": "5b1aa418c3a36848eb00f9c0",
         "department": "Writing",
         "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584606,
+        "known_for_department": "Sound",
+        "name": "K. V. Mahadevan",
+        "original_name": "K. V. Mahadevan",
+        "popularity": 0.3367,
+        "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
+        "credit_id": "5b1aa4310e0a261f9a014327",
+        "department": "Sound",
+        "job": "Music Director"
       }
     ]
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/6XdXYQJ69DWEIIpFgymwJh8jZGr.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -200,6 +174,32 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/6XdXYQJ69DWEIIpFgymwJh8jZGr.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

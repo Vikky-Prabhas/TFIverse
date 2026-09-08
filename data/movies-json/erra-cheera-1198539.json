@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Erra Cheera",
   "overview": "This story narrates violation of the human rights,and it is focussed on the other side of the system how a common woman will Be treated by the system.",
-  "popularity": 0.0256,
+  "popularity": 0.5659,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -33,55 +33,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3701570,
-        "known_for_department": "Acting",
-        "name": "Sonakshi Verma",
-        "original_name": "Sonakshi Verma",
-        "popularity": 0.2397,
-        "profile_path": "/i6QWZIAWVkWXEMAIk84dDvmIWev.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "653fef6b1d1bf401016244df",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4348471,
-        "known_for_department": "Acting",
-        "name": "Manoj Muthyam",
-        "original_name": "Manoj Muthyam",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "653fef76bc2cb3014d4bfc49",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4348470,
-        "known_for_department": "Directing",
-        "name": "Valmeeki Vaddemani",
-        "original_name": "Valmeeki Vaddemani",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "653fef17c8a5ac013a880734",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt13032384",
@@ -90,11 +43,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -117,5 +67,55 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3701570,
+        "known_for_department": "Acting",
+        "name": "Sonakshi Verma",
+        "original_name": "Sonakshi Verma",
+        "popularity": 0.4686,
+        "profile_path": "/i6QWZIAWVkWXEMAIk84dDvmIWev.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "653fef6b1d1bf401016244df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4348471,
+        "known_for_department": "Acting",
+        "name": "Manoj Muthyam",
+        "original_name": "Manoj Muthyam",
+        "popularity": 0.2986,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "653fef76bc2cb3014d4bfc49",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4348470,
+        "known_for_department": "Directing",
+        "name": "Valmeeki Vaddemani",
+        "original_name": "Valmeeki Vaddemani",
+        "popularity": 0.3213,
+        "profile_path": null,
+        "credit_id": "653fef17c8a5ac013a880734",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

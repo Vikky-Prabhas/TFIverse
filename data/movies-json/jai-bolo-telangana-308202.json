@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "aజై బోలో తెలంగాణ",
   "overview": "Film from Nimmala Shankar",
-  "popularity": 0.3104,
+  "popularity": 1.5999,
   "poster_path": "/AcHKaTG52NQj4A6Ff0BK8nDaMY6.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,8 +42,8 @@
   "tagline": "",
   "title": "Jai Bolo Telangana",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 6,
+  "vote_count": 1,
   "credits": {
     "cast": [
       {
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 8,
         "character": "Bandhagi Gopanna",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Smriti Irani",
         "original_name": "Smriti Irani",
-        "popularity": 0.2548,
+        "popularity": 0.5246,
         "profile_path": "/mnEJbjDjmwAKR70cZdYpvYwrQMC.jpg",
         "cast_id": 9,
         "character": "Jayamma",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Meera Nandan",
         "original_name": "Meera Nandan",
-        "popularity": 0.2959,
+        "popularity": 3.232,
         "profile_path": "/x1Zwzw2RHDjDobuWBQqH2rH6b6L.jpg",
         "cast_id": 10,
         "character": "Sahaja",
@@ -95,7 +95,7 @@
         "known_for_department": "Editing",
         "name": "Sanga Pratap Kumar",
         "original_name": "Sanga Pratap Kumar",
-        "popularity": 0.0214,
+        "popularity": 0.3565,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2372,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "65cbf0f200508a017b43062d",
         "department": "Editing",
@@ -124,7 +124,7 @@
         "known_for_department": "Directing",
         "name": "Nimmala Shankar",
         "original_name": "Nimmala Shankar",
-        "popularity": 0.0404,
+        "popularity": 0.8323,
         "profile_path": null,
         "credit_id": "65cbf154f925320163c08ad3",
         "department": "Directing",
@@ -137,7 +137,7 @@
         "known_for_department": "Directing",
         "name": "Nimmala Shankar",
         "original_name": "Nimmala Shankar",
-        "popularity": 0.0404,
+        "popularity": 0.8323,
         "profile_path": null,
         "credit_id": "65cbf1586611b40184324dc2",
         "department": "Writing",
@@ -150,7 +150,7 @@
         "known_for_department": "Directing",
         "name": "Nimmala Shankar",
         "original_name": "Nimmala Shankar",
-        "popularity": 0.0404,
+        "popularity": 0.8323,
         "profile_path": null,
         "credit_id": "65cbf15d6dc507017cb2d715",
         "department": "Writing",
@@ -163,7 +163,7 @@
         "known_for_department": "Directing",
         "name": "Nimmala Shankar",
         "original_name": "Nimmala Shankar",
-        "popularity": 0.0404,
+        "popularity": 0.8323,
         "profile_path": null,
         "credit_id": "65cbf165ad50f00162ec33a0",
         "department": "Production",
@@ -176,7 +176,7 @@
         "known_for_department": "Sound",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.2225,
+        "popularity": 0.4244,
         "profile_path": "/3GwwP1DbitIrJiP60RECDf9TwQC.jpg",
         "credit_id": "65cbf27ea3491101647d11f0",
         "department": "Sound",
@@ -189,7 +189,7 @@
         "known_for_department": "Camera",
         "name": "T. Surendra Reddy",
         "original_name": "T. Surendra Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2588,
         "profile_path": null,
         "credit_id": "669d4740a690f2cf3c880b2f",
         "department": "Camera",
@@ -224,6 +224,12 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -239,11 +245,5 @@
         "width": 667
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

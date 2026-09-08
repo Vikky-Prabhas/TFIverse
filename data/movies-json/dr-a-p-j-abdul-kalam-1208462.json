@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Dr. A. P. J. Abdul Kalam",
   "overview": "The inspirational journey of Dr. Avul Pakir Jainulabdeen Abdul Kalam, Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007.",
-  "popularity": 0.0892,
+  "popularity": 0.7752,
   "poster_path": "/uMpM1KIrdqhXjRNxxstckBGpzDf.jpg",
   "production_companies": [
     {
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Mohammad Ali",
         "original_name": "Mohammad Ali",
-        "popularity": 0.0071,
+        "popularity": 0.2604,
         "profile_path": null,
         "cast_id": 6,
         "character": "Dr. Avul Pakir Jainulabdeen Abdul Kalam",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Sharik Khan jr",
         "original_name": "Sharik Khan jr",
-        "popularity": 0.0361,
+        "popularity": 0.5987,
         "profile_path": "/hljIVbP6049fNfxmXwGe5WDtT5G.jpg",
         "cast_id": 7,
         "character": "Lead",
@@ -110,24 +110,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4390305,
-        "known_for_department": "Directing",
-        "name": "Prince Jagadeesh Daneti",
-        "original_name": "Prince Jagadeesh Daneti",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "655d49c3e942ee00ac89c863",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4390308,
         "known_for_department": "Production",
         "name": "Suvarna Pappu",
         "original_name": "Suvarna Pappu",
-        "popularity": 0,
+        "popularity": 0.2955,
         "profile_path": null,
         "credit_id": "655d49e8fab3fa011ba8aff3",
         "department": "Production",
@@ -140,20 +127,7 @@
         "known_for_department": "Directing",
         "name": "Prince Jagadeesh Daneti",
         "original_name": "Prince Jagadeesh Daneti",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "655d49d8e942ee00fef1caa5",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4390305,
-        "known_for_department": "Directing",
-        "name": "Prince Jagadeesh Daneti",
-        "original_name": "Prince Jagadeesh Daneti",
-        "popularity": 0,
+        "popularity": 0.4124,
         "profile_path": null,
         "credit_id": "655d49cfe942ee00ac89c877",
         "department": "Production",
@@ -162,24 +136,65 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4390305,
+        "known_for_department": "Directing",
+        "name": "Prince Jagadeesh Daneti",
+        "original_name": "Prince Jagadeesh Daneti",
+        "popularity": 0.4124,
+        "profile_path": null,
+        "credit_id": "655d49d8e942ee00fef1caa5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4390311,
         "known_for_department": "Production",
         "name": "Christopher M. Corrigan",
         "original_name": "Christopher M. Corrigan",
-        "popularity": 0,
+        "popularity": 0.303,
         "profile_path": null,
         "credit_id": "655d49fb266778014e940b5e",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4390305,
+        "known_for_department": "Directing",
+        "name": "Prince Jagadeesh Daneti",
+        "original_name": "Prince Jagadeesh Daneti",
+        "popularity": 0.4124,
+        "profile_path": null,
+        "credit_id": "655d49c3e942ee00ac89c863",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt15845656",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/uMpM1KIrdqhXjRNxxstckBGpzDf.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "keywords": {
     "keywords": [
@@ -202,28 +217,6 @@
       {
         "id": 252104,
         "name": "2000s"
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/uMpM1KIrdqhXjRNxxstckBGpzDf.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },
@@ -256,5 +249,12 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt15845656",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

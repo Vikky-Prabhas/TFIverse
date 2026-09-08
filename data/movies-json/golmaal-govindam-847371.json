@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గోల్‌మాల్ గోవిందం",
   "overview": "A trickster blackmails a trio of men, all of whom ill-treated a woman.",
-  "popularity": 0.2111,
+  "popularity": 1.4344,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -48,6 +48,13 @@
   "video": false,
   "vote_average": 7.5,
   "vote_count": 2,
+  "external_ids": {
+    "imdb_id": "tt0260055",
+    "wikidata_id": "Q24905595",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -56,8 +63,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Golmaal Govindam",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 2,
         "character": "Manmadha Rao",
@@ -85,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 3,
         "character": "Gopala Krishnaiah",
@@ -99,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 11,
         "character": "Sudhakar",
@@ -113,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Chilukoti Kashi Viswanath",
         "original_name": "Chilukoti Kashi Viswanath",
-        "popularity": 0,
+        "popularity": 0.3359,
         "profile_path": null,
         "cast_id": 12,
         "character": "Orphanage Warden",
@@ -127,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Y. Vijaya",
         "original_name": "Y. Vijaya",
-        "popularity": 0.9054,
+        "popularity": 2.2151,
         "profile_path": "/zyo1kuf67tOhWtecyn8uGaahDsS.jpg",
         "cast_id": 13,
         "character": "Gundamma",
@@ -141,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Kallu Chidambaram",
         "original_name": "Kallu Chidambaram",
-        "popularity": 0.2838,
+        "popularity": 1.0616,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -155,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Chidathala Apparao",
         "original_name": "Chidathala Apparao",
-        "popularity": 0.0418,
+        "popularity": 0.3358,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -169,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Kalpana Rai",
         "original_name": "Kalpana Rai",
-        "popularity": 0.2428,
+        "popularity": 0.6668,
         "profile_path": "/x3Nsq29SWSvQMCfbq8TlEgXvnNS.jpg",
         "cast_id": 16,
         "character": "",
@@ -185,7 +192,7 @@
         "known_for_department": "Directing",
         "name": "Rama Rao Tatineni",
         "original_name": "Rama Rao Tatineni",
-        "popularity": 0.413,
+        "popularity": 1.2219,
         "profile_path": "/1aeQQr5S2PRDHnIwcKrRocMO9xV.jpg",
         "credit_id": "60e0bb5d9979d200294aa6f4",
         "department": "Directing",
@@ -198,7 +205,7 @@
         "known_for_department": "Writing",
         "name": "Malladi Venkata Krishnamurthy",
         "original_name": "Malladi Venkata Krishnamurthy",
-        "popularity": 0.1904,
+        "popularity": 0.4628,
         "profile_path": null,
         "credit_id": "61e4946e904f6d004254248d",
         "department": "Writing",
@@ -207,15 +214,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 987471,
-        "known_for_department": "Directing",
-        "name": "Rama Rao Tatineni",
-        "original_name": "Rama Rao Tatineni",
-        "popularity": 0.413,
-        "profile_path": "/1aeQQr5S2PRDHnIwcKrRocMO9xV.jpg",
-        "credit_id": "61e4947ba410c80041273df3",
-        "department": "Writing",
-        "job": "Screenplay"
+        "id": 1670512,
+        "known_for_department": "Camera",
+        "name": "Hari Anumolu",
+        "original_name": "Hari Anumolu",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "credit_id": "61e494bb162bc300429dfbda",
+        "department": "Camera",
+        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -224,7 +231,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "61e494aa2d93750041a3fe49",
         "department": "Sound",
@@ -233,24 +240,24 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1670512,
-        "known_for_department": "Camera",
-        "name": "Hari Anumolu",
-        "original_name": "Hari Anumolu",
-        "popularity": 0.158,
-        "profile_path": null,
-        "credit_id": "61e494bb162bc300429dfbda",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "id": 987471,
+        "known_for_department": "Directing",
+        "name": "Rama Rao Tatineni",
+        "original_name": "Rama Rao Tatineni",
+        "popularity": 1.2219,
+        "profile_path": "/1aeQQr5S2PRDHnIwcKrRocMO9xV.jpg",
+        "credit_id": "61e4947ba410c80041273df3",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 2795129,
         "known_for_department": "Editing",
         "name": "Krishnaswamy",
         "original_name": "Krishnaswamy",
-        "popularity": 0.0658,
+        "popularity": 0.255,
         "profile_path": null,
         "credit_id": "61e4950035811d00662233db",
         "department": "Editing",
@@ -260,6 +267,9 @@
   },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -277,16 +287,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0260055",
-    "wikidata_id": "Q24905595",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],

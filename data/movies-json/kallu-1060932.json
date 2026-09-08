@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కళ్ళు",
   "overview": "With the help of an editor, one of the five blind friends has his eyesight restored. Instead of being grateful, he resorts to vicious ways, corrupted by the society and environment around him.",
-  "popularity": 0.2352,
+  "popularity": 0.697,
   "poster_path": "/2ZkDSnMZx8CD39xGeAxMYvf6vMp.jpg",
   "production_companies": [
     {
@@ -58,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Shivaji Raja",
         "original_name": "Shivaji Raja",
-        "popularity": 0.4312,
+        "popularity": 1.7055,
         "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
         "cast_id": 1,
         "character": "",
@@ -72,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.4317,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 2,
         "character": "",
@@ -86,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Kallu Chidambaram",
         "original_name": "Kallu Chidambaram",
-        "popularity": 0.2838,
+        "popularity": 1.0616,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -99,8 +99,8 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "cast_id": 4,
         "character": "",
@@ -114,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Delhi Rajeshwari",
         "original_name": "Delhi Rajeshwari",
-        "popularity": 0.1882,
+        "popularity": 0.6184,
         "profile_path": "/d6sGEt3xUOHgmYWC1je9FeSC6Zi.jpg",
         "cast_id": 5,
         "character": "",
@@ -128,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 6,
         "character": "",
@@ -144,7 +144,7 @@
         "known_for_department": "Camera",
         "name": "M. V. Raghu",
         "original_name": "M. V. Raghu",
-        "popularity": 0.0689,
+        "popularity": 0.3114,
         "profile_path": null,
         "credit_id": "639882958a88b200c4e34215",
         "department": "Writing",
@@ -153,50 +153,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 584510,
-        "known_for_department": "Acting",
-        "name": "Gollapudi Maruti Rao",
-        "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
-        "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
-        "credit_id": "639882d6d05a0300f85b015a",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638411,
-        "known_for_department": "Camera",
-        "name": "M. V. Raghu",
-        "original_name": "M. V. Raghu",
-        "popularity": 0.0689,
-        "profile_path": null,
-        "credit_id": "6398824dd05a0300cf2b3f85",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638411,
-        "known_for_department": "Camera",
-        "name": "M. V. Raghu",
-        "original_name": "M. V. Raghu",
-        "popularity": 0.0689,
-        "profile_path": null,
-        "credit_id": "639882b079b3d400912880b2",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2035077,
         "known_for_department": "Writing",
         "name": "Sirivennela Seetharama Sastry",
         "original_name": "Sirivennela Seetharama Sastry",
-        "popularity": 0.1571,
+        "popularity": 0.8118,
         "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
         "credit_id": "63988319a1a9ba00a000804b",
         "department": "Writing",
@@ -209,11 +170,11 @@
         "known_for_department": "Camera",
         "name": "M. V. Raghu",
         "original_name": "M. V. Raghu",
-        "popularity": 0.0689,
+        "popularity": 0.3114,
         "profile_path": null,
-        "credit_id": "639882728a88b200c4e341fb",
-        "department": "Crew",
-        "job": "Cinematography"
+        "credit_id": "639882b079b3d400912880b2",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -221,17 +182,53 @@
         "id": 584585,
         "known_for_department": "Sound",
         "name": "S. P. Balasubramaniam",
-        "original_name": "S. P. Balasubramaniam",
-        "popularity": 0.4224,
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
         "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
         "credit_id": "63988393a1a9ba00e2085008",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584510,
+        "known_for_department": "Acting",
+        "name": "Gollapudi Maruti Rao",
+        "original_name": "Gollapudi Maruti Rao",
+        "popularity": 0.6855,
+        "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
+        "credit_id": "639882d6d05a0300f85b015a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638411,
+        "known_for_department": "Camera",
+        "name": "M. V. Raghu",
+        "original_name": "M. V. Raghu",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "6398824dd05a0300cf2b3f85",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638411,
+        "known_for_department": "Camera",
+        "name": "M. V. Raghu",
+        "original_name": "M. V. Raghu",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "639882728a88b200c4e341fb",
+        "department": "Crew",
+        "job": "Cinematography"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt3978978",
@@ -239,6 +236,22 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1863,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2ZkDSnMZx8CD39xGeAxMYvf6vMp.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1242
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -260,20 +273,7 @@
   "alternative_titles": {
     "titles": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1863,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/2ZkDSnMZx8CD39xGeAxMYvf6vMp.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1242
-      }
-    ]
+  "keywords": {
+    "keywords": []
   }
 }

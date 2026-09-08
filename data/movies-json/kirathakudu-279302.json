@@ -17,8 +17,8 @@
   ],
   "original_language": "te",
   "original_title": "కిరాతకుడు",
-  "overview": "Kiratakudu is a action oriented movie in which, Chiranjeevi played a rather unusual role, who hates his father to the core and does not support him even when is getting destroyed. Chakravarthy (Jaggayya), who is a prominent industrialist in the city, is president of the interpol and his son Charan (chiru) is a reputed sportsman, but there is no love between them. Charan, spends his life with friends and alchohol to overcome his loneliness.Despite chakravarti",
-  "popularity": 0.4236,
+  "overview": "",
+  "popularity": 1.3947,
   "poster_path": "/ipc1VjEzvGsqvdA8p4wKNi4Q9gm.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -26,16 +26,19 @@
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Kirathakudu",
   "video": false,
   "vote_average": 5.5,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -45,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "Charan",
@@ -59,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.6841,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "Swetha",
@@ -73,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2523,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 5,
         "character": "Chakravarthy",
@@ -87,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 6,
         "character": "Dharmateja",
@@ -101,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 7,
         "character": "",
@@ -115,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 8,
         "character": "",
@@ -129,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 9,
         "character": "",
@@ -142,8 +145,8 @@
         "id": 584265,
         "known_for_department": "Acting",
         "name": "Silk Smitha",
-        "original_name": "Silk Smitha",
-        "popularity": 0.521,
+        "original_name": "சில்க் ஸ்மிதா",
+        "popularity": 2.8364,
         "profile_path": "/vIwAk32e90mbDZ1qz8cu03bOKGn.jpg",
         "cast_id": 10,
         "character": "",
@@ -157,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Prabhakar",
         "original_name": "Prabhakar",
-        "popularity": 0.2416,
+        "popularity": 1.9413,
         "profile_path": "/4u4NKAjoVbBq1Gm0SyTIws1n9T1.jpg",
         "cast_id": 11,
         "character": "",
@@ -173,7 +176,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.3713,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "53b0bb42c3a3682ee60057da",
         "department": "Directing",
@@ -182,40 +185,33 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1305700,
-        "known_for_department": "Directing",
-        "name": "K. Hariharan",
-        "original_name": "K. Hariharan",
-        "popularity": 0.1638,
-        "profile_path": null,
-        "credit_id": "53b0be12c3a3682ee6005814",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
         "credit_id": "53b0bb45c3a3682ed800566f",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305700,
+        "known_for_department": "Directing",
+        "name": "K. Hariharan",
+        "original_name": "K. Hariharan",
+        "popularity": 0.3594,
+        "profile_path": null,
+        "credit_id": "53b0be12c3a3682ee6005814",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0245995",
-    "wikidata_id": "Q15692512",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -234,10 +230,23 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ipc1VjEzvGsqvdA8p4wKNi4Q9gm.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
       {
         "aspect_ratio": 0.667,
         "height": 1536,
@@ -257,20 +266,17 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/ipc1VjEzvGsqvdA8p4wKNi4Q9gm.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
   },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0245995",
+    "wikidata_id": "Q15692512",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

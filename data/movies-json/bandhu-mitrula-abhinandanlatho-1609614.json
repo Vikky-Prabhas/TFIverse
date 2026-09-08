@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bandhu mitrula abhinandanlatho",
   "overview": "A wedding movie set in rural Telangana culture",
-  "popularity": 0.0071,
+  "popularity": 0.5115,
   "poster_path": null,
   "production_companies": [
     {
@@ -40,7 +40,7 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Released",
+  "status": "Rumored",
   "tagline": "",
   "title": "Bandhu mitrula abhinandanlatho",
   "video": false,
@@ -48,6 +48,27 @@
   "vote_count": 0,
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "credits": {
     "cast": [
@@ -58,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Ram Nithin",
         "original_name": "Ram Nithin",
-        "popularity": 0.0657,
+        "popularity": 0.6575,
         "profile_path": "/dvGpq6BzgX3lyxu4uWEjp5MF83W.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,33 +95,12 @@
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "695a2d96eae819ca56cbcc75",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

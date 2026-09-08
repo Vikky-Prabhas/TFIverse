@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "సిరా",
   "overview": "Sira meaning ink, depicts the inner turmoil of a writer at ,Conscious, Subconscious and Unconscious levels and his relationship with world, which is again inner and outer.",
-  "popularity": 0.321,
+  "popularity": 0.8755,
   "poster_path": "/lp3M3hDzmyYJkoThT9wmAfISj0D.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Jhansi",
         "original_name": "Jhansi",
-        "popularity": 0.2463,
+        "popularity": 0.7242,
         "profile_path": "/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg",
         "cast_id": 2,
         "character": "",
@@ -78,11 +78,11 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "credit_id": "639ec230688cd00084ce4775",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "639ec242223e2000a8b4596e",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -91,11 +91,11 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "credit_id": "639ec242223e2000a8b4596e",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "639ec230688cd00084ce4775",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
@@ -105,6 +105,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": []
@@ -125,13 +128,10 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   }
 }

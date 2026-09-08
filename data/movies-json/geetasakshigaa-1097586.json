@@ -22,8 +22,8 @@
   "original_language": "te",
   "original_title": "గీతసాక్షిగా",
   "overview": "In Hyderabad, Arjun,a DJ leads a happy life with his family and falls for Amulya. Suddenly his life turns upside down as the police arrest him for allegedly raping and killing an innocent girl. After 5 years, ACP Roopesh reopens the case to find out the truth behind the heinous crime.",
-  "popularity": 0.2743,
-  "poster_path": "/iGVDKYLf5rc9JUwCNA2XtIa7wHu.jpg",
+  "popularity": 1.3222,
+  "poster_path": "/lAwTx3aTbtl4SwF2PsgHLJiuHhB.jpg",
   "production_companies": [
     {
       "id": 195348,
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Aadarsh",
         "original_name": "Aadarsh",
-        "popularity": 0.0382,
+        "popularity": 0.5613,
         "profile_path": null,
         "cast_id": 1,
         "character": "Arjun",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Chitra Shukla",
         "original_name": "Chitra Shukla",
-        "popularity": 0.2433,
+        "popularity": 0.7853,
         "profile_path": "/yrD7S2T7YGqo45atr5DfBu28LSN.jpg",
         "cast_id": 2,
         "character": "Amulya",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Roopesh Shetty",
         "original_name": "Roopesh Shetty",
-        "popularity": 0.0071,
+        "popularity": 0.5341,
         "profile_path": null,
         "cast_id": 3,
         "character": "ACP Roopesh",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Charishma Sreekar",
         "original_name": "Charishma Sreekar",
-        "popularity": 0.0143,
+        "popularity": 0.5494,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Iyengar",
         "original_name": "Srikanth Iyengar",
-        "popularity": 0.3429,
+        "popularity": 1.0324,
         "profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
         "cast_id": 5,
         "character": "Joseph",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Bharani Shankar",
         "original_name": "Bharani Shankar",
-        "popularity": 0.1189,
+        "popularity": 0.2715,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Anitha Chowdary",
         "original_name": "Anitha Chowdary",
-        "popularity": 0.6456,
+        "popularity": 1.4382,
         "profile_path": "/eKt7WZOpzaoGRgtdt787u6cnucj.jpg",
         "cast_id": 8,
         "character": "",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Nellore Sudharshan",
         "original_name": "Nellore Sudharshan",
-        "popularity": 0.3,
+        "popularity": 1.1599,
         "profile_path": "/8kpem5ZHfy90DYyYE9QamqrE6eb.jpg",
         "cast_id": 9,
         "character": "",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.4141,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 10,
         "character": "",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Jayasri Rachakonda",
         "original_name": "Jayasri Rachakonda",
-        "popularity": 0.0889,
+        "popularity": 0.4919,
         "profile_path": "/jUnRQIR5Ju31ntlHT7er4uVeVvD.jpg",
         "cast_id": 25,
         "character": "",
@@ -218,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Vadlamani Srinivas",
         "original_name": "Vadlamani Srinivas",
-        "popularity": 0.2204,
+        "popularity": 1.007,
         "profile_path": "/AxSe41CKf4JdcN7DzaAFc8ymhV.jpg",
         "cast_id": 26,
         "character": "",
@@ -230,37 +233,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3963370,
-        "known_for_department": "Art",
-        "name": "Koyyalamudi Rakesh",
-        "original_name": "Koyyalamudi Rakesh",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "64115b8ab4224200826f09d6",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3256094,
-        "known_for_department": "Crew",
-        "name": "Anish",
-        "original_name": "Anish",
-        "popularity": 0.0853,
-        "profile_path": null,
-        "credit_id": "64115afbfe6c1800f9bd0329",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3963371,
         "known_for_department": "Costume & Make-Up",
         "name": "Anjali Mattipalli",
         "original_name": "Anjali Mattipalli",
-        "popularity": 0.0071,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "64115c80a6c10400c0c5eddb",
         "department": "Costume & Make-Up",
@@ -269,11 +246,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3963370,
+        "known_for_department": "Art",
+        "name": "Koyyalamudi Rakesh",
+        "original_name": "Koyyalamudi Rakesh",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "credit_id": "64115b8ab4224200826f09d6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2343507,
         "known_for_department": "Crew",
         "name": "Dhee Yashwanth",
         "original_name": "Dhee Yashwanth",
-        "popularity": 0.0286,
+        "popularity": 0.3042,
         "profile_path": null,
         "credit_id": "64115b4de18e3f07e954137d",
         "department": "Crew",
@@ -282,28 +272,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3955274,
-        "known_for_department": "Writing",
-        "name": "Anthony Mattipalli",
-        "original_name": "Anthony Mattipalli",
-        "popularity": 0.0143,
+        "id": 3256094,
+        "known_for_department": "Crew",
+        "name": "Anish",
+        "original_name": "Anish",
+        "popularity": 0.2715,
         "profile_path": null,
-        "credit_id": "640964aff9a3fb00f2d3a061",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3955274,
-        "known_for_department": "Writing",
-        "name": "Anthony Mattipalli",
-        "original_name": "Anthony Mattipalli",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "640964b731644b00819d17be",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "64115afbfe6c1800f9bd0329",
+        "department": "Crew",
+        "job": "Choreographer"
       },
       {
         "adult": false,
@@ -312,7 +289,20 @@
         "known_for_department": "Writing",
         "name": "Chetan Raj",
         "original_name": "Chetan Raj",
-        "popularity": 0,
+        "popularity": 0.4218,
+        "profile_path": null,
+        "credit_id": "6409649027167100a26fdd31",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3955273,
+        "known_for_department": "Writing",
+        "name": "Chetan Raj",
+        "original_name": "Chetan Raj",
+        "popularity": 0.4218,
         "profile_path": null,
         "credit_id": "6409649b7776f0008c2f4883",
         "department": "Production",
@@ -325,7 +315,7 @@
         "known_for_department": "Writing",
         "name": "Puchcha Ramakrishna",
         "original_name": "Puchcha Ramakrishna",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "640964d632cc2b00e8b98780",
         "department": "Writing",
@@ -338,37 +328,11 @@
         "known_for_department": "Writing",
         "name": "Rahman",
         "original_name": "Rahman",
-        "popularity": 0.1148,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "64096537f9a3fb00b9647752",
         "department": "Writing",
         "job": "Lyricist"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3955276,
-        "known_for_department": "Camera",
-        "name": "Venkata Hanuma Narisetti",
-        "original_name": "Venkata Hanuma Narisetti",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "640964f354f6eb00b8a8136e",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2977314,
-        "known_for_department": "Editing",
-        "name": "Kishore Maddali",
-        "original_name": "Kishore Maddali",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6409651154f6eb00993ceafc",
-        "department": "Editing",
-        "job": "Editor"
       },
       {
         "adult": false,
@@ -377,11 +341,24 @@
         "known_for_department": "Sound",
         "name": "Gopi Sundar",
         "original_name": "Gopi Sundar",
-        "popularity": 0.4305,
+        "popularity": 0.4665,
         "profile_path": "/wfMEDekbAN0gOxvSTgSTGBfCN6b.jpg",
         "credit_id": "640964c132cc2b00bb2e3412",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3955274,
+        "known_for_department": "Writing",
+        "name": "Anthony Mattipalli",
+        "original_name": "Anthony Mattipalli",
+        "popularity": 0.3429,
+        "profile_path": null,
+        "credit_id": "640964b731644b00819d17be",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -390,7 +367,7 @@
         "known_for_department": "Crew",
         "name": "Pruthvi Shekar",
         "original_name": "Pruthvi Shekar",
-        "popularity": 0.0771,
+        "popularity": 0.307,
         "profile_path": "/l0w4lc58NisDNLyfhTeq7P8JZs1.jpg",
         "credit_id": "640965d8f9a3fb007afa8305",
         "department": "Crew",
@@ -399,23 +376,82 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3955273,
-        "known_for_department": "Writing",
-        "name": "Chetan Raj",
-        "original_name": "Chetan Raj",
-        "popularity": 0,
+        "id": 3955276,
+        "known_for_department": "Camera",
+        "name": "Venkata Hanuma Narisetti",
+        "original_name": "Venkata Hanuma Narisetti",
+        "popularity": 0.2541,
         "profile_path": null,
-        "credit_id": "6409649027167100a26fdd31",
+        "credit_id": "640964f354f6eb00b8a8136e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3955274,
+        "known_for_department": "Writing",
+        "name": "Anthony Mattipalli",
+        "original_name": "Anthony Mattipalli",
+        "popularity": 0.3429,
+        "profile_path": null,
+        "credit_id": "640964aff9a3fb00f2d3a061",
         "department": "Writing",
-        "job": "Story"
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2977314,
+        "known_for_department": "Editing",
+        "name": "Kishore Maddali",
+        "original_name": "Kishore Maddali",
+        "popularity": 0.2584,
+        "profile_path": null,
+        "credit_id": "6409651154f6eb00993ceafc",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt22207772",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "గీత సాక్షిగా",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Geeta Sakshigaa",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Geeta Saakshigaa",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Geetha Sakshigaa",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "GeetaSaakshigaa",
+        "type": "Alternate"
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -460,8 +496,29 @@
         "width": 1280
       }
     ],
-    "logos": [],
+    "logos": [
+      {
+        "aspect_ratio": 4.692,
+        "height": 445,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lGOBXHIBDufLXH45QRdI5Tctbj2.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2088
+      }
+    ],
     "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/lAwTx3aTbtl4SwF2PsgHLJiuHhB.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 900
+      },
       {
         "aspect_ratio": 0.667,
         "height": 1589,
@@ -536,45 +593,17 @@
             "note": "",
             "release_date": "2023-03-22T00:00:00.000Z",
             "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-08-13T00:00:00.000Z",
+            "type": 4
           }
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "గీత సాక్షిగా",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Geeta Sakshigaa",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Geeta Saakshigaa",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Geetha Sakshigaa",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "GeetaSaakshigaa",
-        "type": "Alternate"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt22207772",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

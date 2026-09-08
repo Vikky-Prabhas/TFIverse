@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Madhanam",
   "overview": "A love drama based on true incidents.",
-  "popularity": 0.2261,
+  "popularity": 1.0072,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -46,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 3,
         "character": "",
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Ajay Ghosh",
         "original_name": "Ajay Ghosh",
-        "popularity": 0.3688,
+        "popularity": 1.1781,
         "profile_path": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg",
         "cast_id": 4,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sithara",
         "original_name": "Sithara",
-        "popularity": 0.3915,
+        "popularity": 0.837,
         "profile_path": "/9km7P6HyYOg0qMFMicgbg64Fkn5.jpg",
         "cast_id": 5,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Bhavana Rao",
         "original_name": "Bhavana Rao",
-        "popularity": 0.1121,
+        "popularity": 0.5699,
         "profile_path": "/c8kkrr4w5ptIiuMs85H0axNXGo4.jpg",
         "cast_id": 6,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Sayee",
         "original_name": "Srinivasa Sayee",
-        "popularity": 0.2796,
+        "popularity": 0.8324,
         "profile_path": "/kSLCfIIZofGPhJBfAFE8LRyzcN8.jpg",
         "cast_id": 7,
         "character": "",
@@ -118,11 +118,11 @@
         "known_for_department": "Directing",
         "name": "Ajay Sai Manikandan",
         "original_name": "Ajay Sai Manikandan",
-        "popularity": 0,
+        "popularity": 0.4229,
         "profile_path": null,
-        "credit_id": "5de9381b7646fd00119b1ea6",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "5de93811a7e363001674707c",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -131,13 +131,16 @@
         "known_for_department": "Directing",
         "name": "Ajay Sai Manikandan",
         "original_name": "Ajay Sai Manikandan",
-        "popularity": 0,
+        "popularity": 0.4229,
         "profile_path": null,
-        "credit_id": "5de93811a7e363001674707c",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5de9381b7646fd00119b1ea6",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "external_ids": {
     "imdb_id": "tt10851886",
@@ -145,14 +148,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "release_dates": {
     "results": [
@@ -171,7 +166,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

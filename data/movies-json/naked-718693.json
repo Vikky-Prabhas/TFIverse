@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "తెలుగు",
   "overview": "Story of a married couple in whose house a servant boy works. The couple are constantly fighting and on the verge of a break-up and then one day something happens which puts all 3 of them through a dizzying tension.",
-  "popularity": 0.4589,
+  "popularity": 2.3328,
   "poster_path": "/6dftC316u3aINieTpcwlb89L1Gj.jpg",
   "production_companies": [
     {
@@ -53,7 +53,7 @@
   "tagline": "",
   "title": "Naked",
   "video": false,
-  "vote_average": 1.2,
+  "vote_average": 1.25,
   "vote_count": 4,
   "credits": {
     "cast": [
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Sweety",
         "original_name": "Sweety",
-        "popularity": 0.0214,
+        "popularity": 0.3666,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Muni",
         "original_name": "Muni",
-        "popularity": 0,
+        "popularity": 0.5203,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -86,13 +86,13 @@
         "order": 1
       },
       {
-        "adult": true,
+        "adult": false,
         "gender": 0,
         "id": 2693138,
         "known_for_department": "Acting",
         "name": "Deepak",
         "original_name": "Deepak",
-        "popularity": 0,
+        "popularity": 0.3787,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Ram Gopal Varma",
         "original_name": "Ram Gopal Varma",
-        "popularity": 0.9651,
+        "popularity": 2.0455,
         "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
         "credit_id": "5ef3b8e9967cc700364763e2",
         "department": "Directing",
@@ -122,6 +122,25 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Naked Nanga Nagnam Trailer 2 | Ram Gopal Varma | #NNN | Latest Movie Trailers 2020 | #RGV",
+        "key": "7KZnREqUsIY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "5ef3b82862fcd30033d0acfd",
+        "published_at": "2020-06-20T15:30:01.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -159,34 +178,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Naked Nanga Nagnam",
-        "type": "Alternate"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Naked Nanga Nagnam Trailer 2 | Ram Gopal Varma | #NNN | Latest Movie Trailers 2020 | #RGV",
-        "key": "7KZnREqUsIY",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Trailer",
-        "official": false,
-        "id": "5ef3b82862fcd30033d0acfd",
-        "published_at": "2020-06-20T15:30:01.000Z"
-      }
-    ]
-  },
   "release_dates": {
     "results": [
       {
@@ -201,6 +192,15 @@
             "type": 4
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Naked Nanga Nagnam",
+        "type": "Alternate"
       }
     ]
   }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Mogudu Kaavali",
   "overview": "",
-  "popularity": 0.1751,
+  "popularity": 0.4689,
   "poster_path": "/17J0qReRWE6pI1gancwkhmI38w2.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Gayathri",
         "original_name": "Gayathri",
-        "popularity": 0.0986,
+        "popularity": 0.8108,
         "profile_path": "/rLZCuy2YZO7qE6SYUg699q6e7kN.jpg",
         "cast_id": 6,
         "character": "",
@@ -83,7 +83,7 @@
         "known_for_department": "Sound",
         "name": "J V Raghavulu",
         "original_name": "J V Raghavulu",
-        "popularity": 0.0357,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "53b0d671c3a3682ef10059b5",
         "department": "Sound",
@@ -96,7 +96,7 @@
         "known_for_department": "Directing",
         "name": "Katta Subba Rao",
         "original_name": "Katta Subba Rao",
-        "popularity": 0.0784,
+        "popularity": 0.3718,
         "profile_path": null,
         "credit_id": "53b0d66fc3a3682edf0057dd",
         "department": "Directing",
@@ -109,7 +109,7 @@
         "known_for_department": "Production",
         "name": "Thammareddy Krishna Murthy",
         "original_name": "Thammareddy Krishna Murthy",
-        "popularity": 0.1293,
+        "popularity": 0.4972,
         "profile_path": null,
         "credit_id": "53b0d67dc3a3682ed80058f9",
         "department": "Production",
@@ -122,16 +122,13 @@
         "known_for_department": "Production",
         "name": "Tammareddy Bharadwaja",
         "original_name": "Tammareddy Bharadwaja",
-        "popularity": 0.1363,
+        "popularity": 0.4803,
         "profile_path": "/8oKKdkip4hzNuoGlrZzWGPNsrtq.jpg",
         "credit_id": "5c614599925141250af9f39e",
         "department": "Production",
         "job": "Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt0246081",
@@ -140,27 +137,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/17J0qReRWE6pI1gancwkhmI38w2.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -176,6 +154,28 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/17J0qReRWE6pI1gancwkhmI38w2.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
       }
     ]
   }

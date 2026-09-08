@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కృష్ణ రావు సుప్ర్మార్కెట్",
   "overview": "Krishna Rao Supermarket is a Telugu movie starring Kriishna and Elsa Ghosh in prominent roles. It is a drama directed by Sreenath Pulakuram, with Bhole Shavali as the musician, forming part of the crew.",
-  "popularity": 0.1776,
+  "popularity": 0.9621,
   "poster_path": "/mzJUxDQNvdCGrwe63pLQUbFklO1.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Elsa Ghosh",
         "original_name": "Elsa Ghosh",
-        "popularity": 0.0569,
+        "popularity": 0.5597,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gautam Raju",
         "original_name": "Gautam Raju",
-        "popularity": 0.2761,
+        "popularity": 0.5814,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "Sreenath Pulakuram",
         "original_name": "Sreenath Pulakuram",
-        "popularity": 0.0071,
+        "popularity": 0.3651,
         "profile_path": null,
         "credit_id": "5dc788f07d2bc100134577fe",
         "department": "Directing",
@@ -105,11 +105,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11122324",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -128,15 +132,8 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt11122324",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -153,5 +150,8 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

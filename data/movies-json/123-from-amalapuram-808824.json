@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "123 ఫర్మ అమలాపురం",
   "overview": "Paramdham, Pedda, and Chinna are three spoilt brats who fall in love with the same girl. Later, they move to Vizag due to their reputation and help a girl overcome her troubles and move ahead in life.",
-  "popularity": 0.2857,
+  "popularity": 1.3375,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4544,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Production",
         "name": "Raja Sridhar",
         "original_name": "Raja Sridhar",
-        "popularity": 0.0828,
+        "popularity": 0.3966,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.2699,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Nithya Das",
         "original_name": "Nithya Das",
-        "popularity": 0.161,
+        "popularity": 1.2238,
         "profile_path": "/hO18CCKAhbM4RTvHbsCVdYsWNYd.jpg",
         "cast_id": 4,
         "character": "",
@@ -113,8 +113,10 @@
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "release_dates": {
     "results": [
@@ -133,9 +135,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "alternative_titles": {
+    "titles": []
   }
 }

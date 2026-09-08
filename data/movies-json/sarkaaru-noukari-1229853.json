@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sarkaaru Noukari",
   "overview": "In the year 1996, the entire nation was politically facing a serious issue. In addition, the country was suffering from another dangerous problem. In this scenario, a Government Employee took up the responsibility.",
-  "popularity": 0.2249,
+  "popularity": 0.7076,
   "poster_path": "/s8WBBbP2FPgxNAAsqwvqMqDmH0B.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,19 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt28266209",
+    "wikidata_id": "Q124306650",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Akash Goparaju",
         "original_name": "Akash Goparaju",
-        "popularity": 0.0143,
+        "popularity": 0.2871,
         "profile_path": null,
         "cast_id": 1,
         "character": "Gopal",
@@ -62,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Bhavana Vazhapandal",
         "original_name": "Bhavana Vazhapandal",
-        "popularity": 0.0831,
+        "popularity": 0.7459,
         "profile_path": null,
         "cast_id": 2,
         "character": "Satya",
@@ -76,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 3,
         "character": "Sarpanch",
@@ -90,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Madhulatha Reddy",
         "original_name": "Madhulatha Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2956,
         "profile_path": null,
         "cast_id": 5,
         "character": "Ganga",
@@ -104,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Sayee",
         "original_name": "Srinivasa Sayee",
-        "popularity": 0.2796,
+        "popularity": 0.8324,
         "profile_path": "/kSLCfIIZofGPhJBfAFE8LRyzcN8.jpg",
         "cast_id": 12,
         "character": "",
@@ -118,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar Reddy",
         "original_name": "Sudhakar Reddy",
-        "popularity": 0.0589,
+        "popularity": 0.6545,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -132,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Sammeta Gandhi",
         "original_name": "Sammeta Gandhi",
-        "popularity": 0.248,
+        "popularity": 0.8223,
         "profile_path": "/pmtOoc6hoowP3wrISj5hlOsMTbe.jpg",
         "cast_id": 14,
         "character": "",
@@ -146,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Mani Chandana",
         "original_name": "Mani Chandana",
-        "popularity": 0.2009,
+        "popularity": 0.5266,
         "profile_path": "/xPbpUIfHKRPNAuT4xEQfM8dVIQg.jpg",
         "cast_id": 15,
         "character": "",
@@ -157,16 +170,16 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 2876456,
-        "known_for_department": "Editing",
-        "name": "Raghavendra Varma Indukuri",
-        "original_name": "Raghavendra Varma Indukuri",
-        "popularity": 0.0193,
+        "gender": 0,
+        "id": 4477375,
+        "known_for_department": "Sound",
+        "name": "Sandilya Pisapati",
+        "original_name": "Sandilya Pisapati",
+        "popularity": 0.2712,
         "profile_path": null,
-        "credit_id": "65a14d2e21621b012659659e",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "65a14cabccde04012b8b915c",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -175,11 +188,37 @@
         "known_for_department": "Camera",
         "name": "Shekar Ganganamoni",
         "original_name": "Shekar Ganganamoni",
-        "popularity": 0.0416,
+        "popularity": 0.3169,
         "profile_path": null,
         "credit_id": "65a14c4e4ba5220125e6d213",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2558943,
+        "known_for_department": "Camera",
+        "name": "Shekar Ganganamoni",
+        "original_name": "Shekar Ganganamoni",
+        "popularity": 0.3169,
+        "profile_path": null,
+        "credit_id": "65a14c63678259012fe8dff7",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2876456,
+        "known_for_department": "Editing",
+        "name": "Raghavendra Varma Indukuri",
+        "original_name": "Raghavendra Varma Indukuri",
+        "popularity": 0.2951,
+        "profile_path": null,
+        "credit_id": "65a14d2e21621b012659659e",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -188,37 +227,11 @@
         "known_for_department": "Sound",
         "name": "Suresh Bobbili",
         "original_name": "Suresh Bobbili",
-        "popularity": 0.0836,
+        "popularity": 0.2767,
         "profile_path": null,
         "credit_id": "65a14cf14ba522012ee6d2c3",
         "department": "Sound",
         "job": "Sound Effects"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2558943,
-        "known_for_department": "Camera",
-        "name": "Shekar Ganganamoni",
-        "original_name": "Shekar Ganganamoni",
-        "popularity": 0.0416,
-        "profile_path": null,
-        "credit_id": "65a14c63678259012fe8dff7",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4477375,
-        "known_for_department": "Sound",
-        "name": "Sandilya Pisapati",
-        "original_name": "Sandilya Pisapati",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "65a14cabccde04012b8b915c",
-        "department": "Sound",
-        "job": "Music"
       },
       {
         "adult": false,
@@ -227,49 +240,11 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "65a14d7919690c012e8ac94b",
         "department": "Production",
         "job": "Producer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt28266209",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-01-01T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "Prime Video ",
-            "release_date": "2024-01-11T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   },
@@ -320,7 +295,32 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-01-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Prime Video ",
+            "release_date": "2024-01-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

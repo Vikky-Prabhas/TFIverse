@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Tantra",
   "overview": "A timid girl named Rekha possesses an extraordinary power to perceive spirits. When she encounters a malevolent tantric, she's drawn into unraveling dark occult mysteries, putting her life at risk.",
-  "popularity": 0.1462,
+  "popularity": 0.6692,
   "poster_path": "/42AfBmHJjm3oFfyoWfjyd0wt372.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -32,8 +32,15 @@
   "tagline": "",
   "title": "Tantra",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 3,
+  "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt28535416",
+    "wikidata_id": "Q128799591",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Ananya Nagalla",
         "original_name": "Ananya Nagalla",
-        "popularity": 0.2741,
+        "popularity": 0.8589,
         "profile_path": "/dRHfKUDjeHeb1wTkeJ9cTX4Usoi.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Dhanush Raghumudri",
         "original_name": "Dhanush Raghumudri",
-        "popularity": 0.0143,
+        "popularity": 0.2886,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Saloni Aswani",
         "original_name": "Saloni Aswani",
-        "popularity": 0,
+        "popularity": 0.2825,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -85,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Temper Vamsi",
         "original_name": "Temper Vamsi",
-        "popularity": 0.2952,
+        "popularity": 10.5605,
         "profile_path": "/7QmDysL95O4LFocakRIZeE2Np9Q.jpg",
         "cast_id": 5,
         "character": "",
@@ -101,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Srinivas Gopisetti",
         "original_name": "Srinivas Gopisetti",
-        "popularity": 0,
+        "popularity": 0.2986,
         "profile_path": null,
         "credit_id": "65f64f2e594c94017c371d9d",
         "department": "Directing",
@@ -112,12 +119,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt28535416",
-    "wikidata_id": "Q128799591",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -256,8 +259,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

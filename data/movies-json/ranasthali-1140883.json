@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "రణస్థలి",
   "overview": "Basava is a warrior consumed by vengeance, eagerly awaiting his confrontation with his enemy, Badra.",
-  "popularity": 0.0991,
+  "popularity": 0.9114,
   "poster_path": "/qkWXawttZmBwZH83nU3oogxGbHf.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Ammu Abhirami",
         "original_name": "Ammu Abhirami",
-        "popularity": 0.5408,
+        "popularity": 1.3791,
         "profile_path": "/6PV6Hf4p9urqlzLTmxvaovfhel4.jpg",
         "cast_id": 3,
         "character": "Eshwari",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Neela Madhava Dharma",
         "original_name": "Neela Madhava Dharma",
-        "popularity": 0.0071,
+        "popularity": 0.2798,
         "profile_path": null,
         "cast_id": 5,
         "character": "Basava",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Chandni Rao",
         "original_name": "Chandni Rao",
-        "popularity": 0.088,
+        "popularity": 0.4873,
         "profile_path": "/wWGj8GBWY6DSx4nK98CHI1kams4.jpg",
         "cast_id": 9,
         "character": "Ammulu",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Jami",
         "original_name": "Shiva Jami",
-        "popularity": 0.0071,
+        "popularity": 0.4151,
         "profile_path": null,
         "cast_id": 7,
         "character": "Badra",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3575,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 4,
         "character": "Chakravarthy",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Sammeta Gandhi",
         "original_name": "Sammeta Gandhi",
-        "popularity": 0.2837,
+        "popularity": 0.8223,
         "profile_path": "/pmtOoc6hoowP3wrISj5hlOsMTbe.jpg",
         "cast_id": 6,
         "character": "Munniya, Basava's Father",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Madhumani",
         "original_name": "Madhumani",
-        "popularity": 0.2,
+        "popularity": 0.7215,
         "profile_path": "/q5YP1TW3QCdHrStDWWekLFw95jB.jpg",
         "cast_id": 8,
         "character": "Athamma",
@@ -146,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "Chatrapathi Sekhar",
         "original_name": "Chatrapathi Sekhar",
-        "popularity": 0.2607,
+        "popularity": 1.1827,
         "profile_path": "/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg",
         "cast_id": 13,
         "character": "Sai",
@@ -160,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Prashanth Pandu",
         "original_name": "Prashanth Pandu",
-        "popularity": 0.0071,
+        "popularity": 0.3571,
         "profile_path": null,
         "cast_id": 10,
         "character": "Sudarshan",
@@ -174,7 +174,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Vetti",
         "original_name": "Srinivas Vetti",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 11,
         "character": "Venkatesh",
@@ -188,7 +188,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Medida",
         "original_name": "Nagendra Medida",
-        "popularity": 0,
+        "popularity": 0.3751,
         "profile_path": null,
         "cast_id": 12,
         "character": "Vaara",
@@ -204,7 +204,7 @@
         "known_for_department": "Writing",
         "name": "Parasuram Srinivas",
         "original_name": "Parasuram Srinivas",
-        "popularity": 0.0143,
+        "popularity": 0.2842,
         "profile_path": null,
         "credit_id": "648bceda559d2200e2050fc5",
         "department": "Writing",
@@ -217,7 +217,7 @@
         "known_for_department": "Writing",
         "name": "Parasuram Srinivas",
         "original_name": "Parasuram Srinivas",
-        "popularity": 0.0143,
+        "popularity": 0.2842,
         "profile_path": null,
         "credit_id": "648bcef0c2ff3d00c598d334",
         "department": "Directing",
@@ -235,9 +235,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -254,6 +251,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -291,8 +294,5 @@
         "width": 802
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

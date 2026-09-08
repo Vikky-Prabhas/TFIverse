@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ది అమెరికన్ డ్రీమ్",
   "overview": "Rahul, a middle-class boy next door not happy with his lifestyle decides to go to the US and pursue his dreams. Unlike the dreamy US life, Rahul struggles a lot with the reality of hardship and part-time jobs. Unfortunate events take life a turn one night when he hits a woman with the car on road.",
-  "popularity": 0.1158,
+  "popularity": 2.2548,
   "poster_path": "/l6ch1zxJglfkuY9z10UYx0ywLLX.jpg",
   "production_companies": [
     {
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Prince Cecil",
         "original_name": "Prince Cecil",
-        "popularity": 0.092,
+        "popularity": 0.44,
         "profile_path": "/yxKAPc3OPeAyIeIkeJL3PTRR3tk.jpg",
         "cast_id": 1,
         "character": "Rahul",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Neha Krishna",
         "original_name": "Neha Krishna",
-        "popularity": 0.0256,
+        "popularity": 0.5192,
         "profile_path": null,
         "cast_id": 2,
         "character": "Riya",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 3,
         "character": "",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Raviteja Mukkavalli",
         "original_name": "Raviteja Mukkavalli",
-        "popularity": 0,
+        "popularity": 0.6464,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Sri Mirajkar",
         "original_name": "Sri Mirajkar",
-        "popularity": 0.0071,
+        "popularity": 0.276,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Phani Rampalli",
         "original_name": "Phani Rampalli",
-        "popularity": 0,
+        "popularity": 0.3226,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -159,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Anil Sankaramanchi",
         "original_name": "Anil Sankaramanchi",
-        "popularity": 0,
+        "popularity": 0.7108,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -173,7 +173,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.2537,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 9,
         "character": "",
@@ -187,7 +187,7 @@
         "known_for_department": "Acting",
         "name": "Sri Ram Reddy Asireddy",
         "original_name": "Sri Ram Reddy Asireddy",
-        "popularity": 0.0214,
+        "popularity": 0.5343,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -201,7 +201,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Kumar Marka",
         "original_name": "Ravi Kumar Marka",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -213,15 +213,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3382006,
-        "known_for_department": "Production",
-        "name": "Pradeep Reddy",
-        "original_name": "Pradeep Reddy",
-        "popularity": 0.0071,
+        "id": 3382003,
+        "known_for_department": "Sound",
+        "name": "Abhinay T.J.",
+        "original_name": "Abhinay T.J.",
+        "popularity": 0.3852,
         "profile_path": null,
-        "credit_id": "61e1180a2811a1006979dcce",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "61e117afffd44d006bceb173",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -230,7 +230,7 @@
         "known_for_department": "Editing",
         "name": "Sasank Vupputuri",
         "original_name": "Sasank Vupputuri",
-        "popularity": 0.0143,
+        "popularity": 0.2709,
         "profile_path": null,
         "credit_id": "61e117e9a6fdaa0068fdbb3b",
         "department": "Editing",
@@ -238,12 +238,25 @@
       },
       {
         "adult": false,
+        "gender": 0,
+        "id": 3382006,
+        "known_for_department": "Production",
+        "name": "Pradeep Reddy",
+        "original_name": "Pradeep Reddy",
+        "popularity": 0.2836,
+        "profile_path": null,
+        "credit_id": "61e1180a2811a1006979dcce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
         "gender": 2,
         "id": 3381997,
         "known_for_department": "Directing",
         "name": "Vighnesh Koushik",
         "original_name": "Vighnesh Koushik",
-        "popularity": 0.0071,
+        "popularity": 0.3503,
         "profile_path": null,
         "credit_id": "61e119f6b9a0bd00425930ee",
         "department": "Writing",
@@ -251,42 +264,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 3382003,
-        "known_for_department": "Sound",
-        "name": "Abhinay T.J.",
-        "original_name": "Abhinay T.J.",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "61e117afffd44d006bceb173",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 3381997,
         "known_for_department": "Directing",
         "name": "Vighnesh Koushik",
         "original_name": "Vighnesh Koushik",
-        "popularity": 0.0071,
+        "popularity": 0.3503,
         "profile_path": null,
         "credit_id": "61e11578c4f552001d16e260",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3382004,
-        "known_for_department": "Crew",
-        "name": "Adam Chapman",
-        "original_name": "Adam Chapman",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "61e219bbd8e225001a724042",
-        "department": "Camera",
-        "job": "Director of Photography"
       },
       {
         "adult": false,
@@ -295,16 +282,56 @@
         "known_for_department": "Camera",
         "name": "Abhiraj Nair",
         "original_name": "Abhiraj Nair",
-        "popularity": 0,
+        "popularity": 0.2713,
         "profile_path": null,
         "credit_id": "61e219adffd44d00443ea3ed",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382004,
+        "known_for_department": "Crew",
+        "name": "Adam Chapman",
+        "original_name": "Adam Chapman",
+        "popularity": 0.2971,
+        "profile_path": null,
+        "credit_id": "61e219bbd8e225001a724042",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Aha",
+            "release_date": "2022-01-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt15281288",
+    "wikidata_id": "Q110823645",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -403,34 +430,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "Aha",
-            "release_date": "2022-01-14T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt15281288",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

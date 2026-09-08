@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Chandraharam",
   "overview": "Chandhanaraju is a prince whose life is preserved within the necklace he wears. He should overcome several hurdles to marry his dream girl.",
-  "popularity": 0.2234,
+  "popularity": 0.5823,
   "poster_path": "/guDA1OUsCB60QylURz2DpOlncav.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -46,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.6555,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 6,
         "character": "Prince Chandan",
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3868,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 7,
         "character": "Chanchala",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sriranjani",
         "original_name": "Sriranjani",
-        "popularity": 0.0741,
+        "popularity": 0.5402,
         "profile_path": "/vIn6SxijaI59mDgscY9xoh0Qn05.jpg",
         "cast_id": 8,
         "character": "Gauri",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.3549,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 9,
         "character": "Mali",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Relangi Venkata Ramaiah",
         "original_name": "Relangi Venkata Ramaiah",
-        "popularity": 0.1994,
+        "popularity": 0.784,
         "profile_path": "/D9KpsYaU6Yx0l7NV4P2a2RA97a.jpg",
         "cast_id": 10,
         "character": "Dhumaketu",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Nageswara Rao",
         "original_name": "Rajanala Nageswara Rao",
-        "popularity": 0.1478,
+        "popularity": 0.4196,
         "profile_path": "/hCCMVmPhScEmtkdMeeiFGIYRxLD.jpg",
         "cast_id": 11,
         "character": "",
@@ -130,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Rushyendramani",
         "original_name": "Rushyendramani",
-        "popularity": 0.1829,
+        "popularity": 0.5611,
         "profile_path": "/2eOl2udZHT3FmohrSw8XGS55pOy.jpg",
         "cast_id": 12,
         "character": "Maridamma",
@@ -144,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.4348,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 13,
         "character": "",
@@ -160,24 +160,11 @@
         "known_for_department": "Directing",
         "name": "Kamalakara Kameshwara Rao",
         "original_name": "Kamalakara Kameshwara Rao",
-        "popularity": 0.2088,
+        "popularity": 0.5273,
         "profile_path": null,
         "credit_id": "6432bcb81f98d10222219d82",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1139300,
-        "known_for_department": "Camera",
-        "name": "Marcus Bartley",
-        "original_name": "Marcus Bartley",
-        "popularity": 0.1039,
-        "profile_path": "/3w2sH4idbXzoWTZInUY9QCdWxfv.jpg",
-        "credit_id": "6432bd019a643506ab78e34a",
-        "department": "Crew",
-        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -186,7 +173,7 @@
         "known_for_department": "Writing",
         "name": "Pingali Nagendra Rao",
         "original_name": "Pingali Nagendra Rao",
-        "popularity": 0.2499,
+        "popularity": 0.4712,
         "profile_path": "/jynmHGc2hzRma2mJgbR2wc1XNsf.jpg",
         "credit_id": "6432bce4e92d8300f46cff6a",
         "department": "Writing",
@@ -194,16 +181,16 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1139299,
-        "known_for_department": "Sound",
-        "name": "Ghantasala",
-        "original_name": "Ghantasala",
-        "popularity": 0.1147,
-        "profile_path": null,
-        "credit_id": "6432bd84924ce600d548de96",
-        "department": "Sound",
-        "job": "Music"
+        "gender": 2,
+        "id": 1139300,
+        "known_for_department": "Camera",
+        "name": "Marcus Bartley",
+        "original_name": "Marcus Bartley",
+        "popularity": 0.2944,
+        "profile_path": "/3w2sH4idbXzoWTZInUY9QCdWxfv.jpg",
+        "credit_id": "6432bd019a643506ab78e34a",
+        "department": "Crew",
+        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -212,11 +199,24 @@
         "known_for_department": "Editing",
         "name": "C. P. Jambulingam",
         "original_name": "C. P. Jambulingam",
-        "popularity": 0.0607,
+        "popularity": 0.3894,
         "profile_path": null,
         "credit_id": "6432bd1f924ce600d548de6c",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139299,
+        "known_for_department": "Sound",
+        "name": "Ghantasala",
+        "original_name": "Ghantasala",
+        "popularity": 0.3387,
+        "profile_path": null,
+        "credit_id": "6432bd84924ce600d548de96",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
   },
@@ -226,25 +226,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.666,
-        "height": 1600,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/guDA1OUsCB60QylURz2DpOlncav.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 1066
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "keywords": {
     "keywords": []
@@ -263,6 +244,25 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1600,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/guDA1OUsCB60QylURz2DpOlncav.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1066
       }
     ]
   }

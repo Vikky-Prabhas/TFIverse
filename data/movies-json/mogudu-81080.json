@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మొగుడు",
   "overview": "Mogudu is a 2011 Telugu film directed by Krishna Vamsi starring Gopichand, Taapsee Pannu, Shraddha Das in the lead roles with Gadde Rajendra Prasad, Roja and Naresh in supporting roles. The film is all about how a man truly becomes mogudu (husband) when he understands his wife and wins her love. The film released on 4 November 2011",
-  "popularity": 0.3289,
+  "popularity": 0.8319,
   "poster_path": "/3iyYZtOgac0jm2eNxUHXNqTnI0C.jpg",
   "production_companies": [],
   "production_countries": [
@@ -42,8 +42,8 @@
   "tagline": "",
   "title": "Mogudu",
   "video": false,
-  "vote_average": 3.5,
-  "vote_count": 6,
+  "vote_average": 3.4,
+  "vote_count": 8,
   "credits": {
     "cast": [
       {
@@ -51,9 +51,9 @@
         "gender": 2,
         "id": 237325,
         "known_for_department": "Acting",
-        "name": "Gopichand",
-        "original_name": "Gopichand",
-        "popularity": 1.1431,
+        "name": "T. Gopichand",
+        "original_name": "టి. గోపీచంద్",
+        "popularity": 1.6621,
         "profile_path": "/faFnhPCmtdL6qKhroiyHjgS8lqN.jpg",
         "cast_id": 1,
         "character": "Ramprasad (Bujji)",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Taapsee Pannu",
         "original_name": "Taapsee Pannu",
-        "popularity": 1.1031,
+        "popularity": 1.735,
         "profile_path": "/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg",
         "cast_id": 2,
         "character": "Rajeshwari",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Shraddha Das",
         "original_name": "Shraddha Das",
-        "popularity": 0.3788,
+        "popularity": 1.8383,
         "profile_path": "/zt3UYBlohKs8arf1JJaahWZUwwb.jpg",
         "cast_id": 3,
         "character": "Jo",
@@ -94,8 +94,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 4,
         "character": "Anjaneya Prasad",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.5508,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 5,
         "character": "Shankar Rao",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Roja Selvamani",
         "original_name": "Roja Selvamani",
-        "popularity": 0.3732,
+        "popularity": 1.5373,
         "profile_path": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg",
         "cast_id": 8,
         "character": "A politician Chamundeshwari",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.3832,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 9,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Krishnudu",
         "original_name": "Krishnudu",
-        "popularity": 0.2076,
+        "popularity": 0.9206,
         "profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
         "cast_id": 10,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Harsha Vardhan",
         "original_name": "Harshavardhan",
-        "popularity": 0.7932,
+        "popularity": 1.3479,
         "profile_path": "/A6mdUVQBu565oz20DzlxjGUWIZr.jpg",
         "cast_id": 11,
         "character": "",
@@ -179,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 12,
         "character": "",
@@ -195,7 +195,7 @@
         "known_for_department": "Directing",
         "name": "Pasupuleti Krishna Vamsi",
         "original_name": "Pasupuleti Krishna Vamsi",
-        "popularity": 0.2086,
+        "popularity": 0.8728,
         "profile_path": "/2yYVLXYFaoFzRtPaKga0mqamHU6.jpg",
         "credit_id": "52fe47f59251416c9107b4f9",
         "department": "Directing",
@@ -203,15 +203,15 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt2093185",
     "wikidata_id": "Q6890738",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []

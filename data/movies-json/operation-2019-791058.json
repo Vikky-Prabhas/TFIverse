@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ఆపరేషన్ 2019",
   "overview": "After serving time in prison, a non-resident Indian decides to venture into politics to gain power and bring about widespread social change.",
-  "popularity": 0.1594,
+  "popularity": 1.3411,
   "poster_path": "/rPQHwgzWHutGYK39jDKufzZTRxF.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 1,
         "character": "",
@@ -57,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Manchu Manoj",
         "original_name": "Manchu Manoj",
-        "popularity": 0.5266,
+        "popularity": 2.0359,
         "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
         "cast_id": 2,
         "character": "Police officer",
@@ -73,7 +76,7 @@
         "known_for_department": "Directing",
         "name": "Karanam P. Babji",
         "original_name": "కరణం బాబ్జి",
-        "popularity": 0.0168,
+        "popularity": 0.3053,
         "profile_path": null,
         "credit_id": "6664d0a49122c33cf4fcb4bc",
         "department": "Directing",
@@ -81,18 +84,35 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "external_ids": {
     "imdb_id": "tt9390198",
-    "wikidata_id": null,
+    "wikidata_id": "Q112567558",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -120,25 +140,5 @@
         "width": 847
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2018-12-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

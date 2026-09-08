@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మాయదారి మల్లిగాడు",
   "overview": "An evil Munasabu Gangaraju murders Bala Brahmandanda Swamy and accuses Mallanna of the crime. However, Ramu witnesses his father's heinous act and cannot decide whether to hide the truth or reveal it.",
-  "popularity": 0.0588,
+  "popularity": 0.5783,
   "poster_path": "/fRu6Ayy2ySeFioISmGONK3aBdVw.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "Mallanna",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Manjula Vijayakumar",
         "original_name": "Manjula Vijayakumar",
-        "popularity": 0.4704,
+        "popularity": 1.8038,
         "profile_path": "/46zkEG4JOYnRw7OG8StufvacHMW.jpg",
         "cast_id": 5,
         "character": "Chandrika",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Jayanthi",
         "original_name": "Jayanthi",
-        "popularity": 0.3299,
+        "popularity": 0.7744,
         "profile_path": "/oiJBjzu8sU6QCyYfrO91AXJEyhw.jpg",
         "cast_id": 2,
         "character": "Pankajam",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Anjali Devi",
         "original_name": "Anjali Devi",
-        "popularity": 0.2088,
+        "popularity": 1.0438,
         "profile_path": "/tdikuflNRFwaO38eSBlmK3FMXkg.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,8 +108,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "680e42a55a9b78d27280f730",
@@ -121,12 +121,31 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt0299028",
-    "wikidata_id": null,
+    "wikidata_id": "Q13006211",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.698,
+        "height": 2092,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/fRu6Ayy2ySeFioISmGONK3aBdVw.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1460
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -151,25 +170,6 @@
         "iso_3166_1": "IN",
         "title": "మాయదారి మల్లిగాడు",
         "type": ""
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.698,
-        "height": 2092,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/fRu6Ayy2ySeFioISmGONK3aBdVw.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1460
       }
     ]
   }

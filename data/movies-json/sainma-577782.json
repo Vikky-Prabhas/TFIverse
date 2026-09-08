@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Sainma",
   "overview": "In a small sleepy town called Vikarabad, trouble is brewing. Ramu aided by his faithful sidekick Galeez, fail in their masterplan to elope with Ramu's sweetheart Ramula for the third time. Ramu must now find out a way to marry Ramula, with her family's approval.",
-  "popularity": 0.1474,
+  "popularity": 0.9087,
   "poster_path": "/9tGYedVwrXRT9PIQqnGPh1mVZ1F.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ramakrishna",
         "original_name": "Rahul Ramakrishna",
-        "popularity": 0.1797,
+        "popularity": 1.4709,
         "profile_path": "/jsRbEXcUgR8zniBb3UTGOqrtxV9.jpg",
         "cast_id": 1,
         "character": "Ramu",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Oi",
         "original_name": "Vishnu Oi",
-        "popularity": 0.3235,
+        "popularity": 0.5908,
         "profile_path": "/A46W2WAH9T0HK8YkbQZiZAyOaES.jpg",
         "cast_id": 4,
         "character": "Galeez",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Madhulatha Reddy",
         "original_name": "Madhulatha Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2956,
         "profile_path": null,
         "cast_id": 5,
         "character": "Ramula",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Chaitanya Joshi",
         "original_name": "Krishna Chaitanya Joshi",
-        "popularity": 0,
+        "popularity": 0.3267,
         "profile_path": null,
         "cast_id": 6,
         "character": "Ravi",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "N. Srinivas Kaushik",
         "original_name": "N. Srinivas Kaushik",
-        "popularity": 0.0143,
+        "popularity": 0.4792,
         "profile_path": null,
         "cast_id": 7,
         "character": "Kishan",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "N. Prem Kumar Naik",
         "original_name": "N. Prem Kumar Naik",
-        "popularity": 0.0143,
+        "popularity": 0.4471,
         "profile_path": null,
         "cast_id": 8,
         "character": "Ravi's Uncle",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "B. Manemma",
         "original_name": "B. Manemma",
-        "popularity": 0.0261,
+        "popularity": 0.3091,
         "profile_path": null,
         "cast_id": 9,
         "character": "Ramu's Mother",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "John Kottoly",
         "original_name": "John Kottoly",
-        "popularity": 0.0071,
+        "popularity": 0.5954,
         "profile_path": null,
         "cast_id": 10,
         "character": "Director",
@@ -176,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Upendra Varma",
         "original_name": "Upendra Varma",
-        "popularity": 0.0357,
+        "popularity": 0.3139,
         "profile_path": null,
         "cast_id": 11,
         "character": "Assistant Director",
@@ -192,7 +192,7 @@
         "known_for_department": "Directing",
         "name": "Tharun Bhascker",
         "original_name": "Tharun Bhascker",
-        "popularity": 1.0896,
+        "popularity": 1.1133,
         "profile_path": "/fNG54JOFz3gZfgu1E6tCI0cg3jE.jpg",
         "credit_id": "5c4adce30e0a267069c7e732",
         "department": "Directing",
@@ -205,19 +205,13 @@
         "known_for_department": "Sound",
         "name": "Vivek Sagar",
         "original_name": "Vivek Sagar",
-        "popularity": 0.1866,
+        "popularity": 0.535,
         "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
         "credit_id": "5c4add6fc3a36847898c31e4",
         "department": "Sound",
         "job": "Music"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt7329576",
@@ -226,25 +220,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2015-08-22T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -269,6 +249,26 @@
         "vote_average": 0.166,
         "vote_count": 1,
         "width": 650
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-08-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
       }
     ]
   }

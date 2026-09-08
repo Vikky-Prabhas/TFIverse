@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "వజ్రాయుధం",
   "overview": "Vajrayudham is a 1985 Indian Telugu film, directed by K. Raghavendra Rao and Produced by K.Lingamurthy. The film stars Krishna, Sridevi and Rao Gopalarao in lead roles. The music of the film was composed by Chakravarthy.",
-  "popularity": 0.2011,
+  "popularity": 1.9118,
   "poster_path": "/2GuDQ4s0ldEnTitSqRThuiuwZ6N.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Sridevi",
         "original_name": "Sridevi",
-        "popularity": 1.5226,
+        "popularity": 1.9417,
         "profile_path": "/6wxquADm0CMYMon04uEI48ZiBBf.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 3,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3837,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "672db709caf727f3748ab4c2",
         "department": "Directing",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.5253,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "credit_id": "672db73a4b30e929cd6f2721",
         "department": "Writing",
@@ -123,7 +123,7 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.3383,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "672db7444b30e929cd6f272b",
         "department": "Writing",
@@ -136,7 +136,7 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.3383,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "672db75c7dcab2a0a617c31e",
         "department": "Writing",
@@ -149,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.5253,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "credit_id": "672db7654b30e929cd6f2740",
         "department": "Writing",
@@ -162,7 +162,7 @@
         "known_for_department": "Production",
         "name": "K. Lingamurthy",
         "original_name": "K. Lingamurthy",
-        "popularity": 0,
+        "popularity": 0.2908,
         "profile_path": null,
         "credit_id": "672db7a2ebe21def08c8eea3",
         "department": "Production",
@@ -173,6 +173,9 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt0187573",
     "wikidata_id": "Q16345085",
@@ -180,25 +183,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1985-07-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -216,7 +202,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1985-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

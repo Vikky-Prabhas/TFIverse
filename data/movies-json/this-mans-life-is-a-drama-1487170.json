@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Narudi Brathuku Natana",
   "overview": "Abhi stays in his room with a broken heart, Sanju feds up with him. Sanju helps Abhi to find the post breakup vibes.",
-  "popularity": 0.0379,
+  "popularity": 0.4,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Revanth",
         "original_name": "Revanth",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "cast_id": 1,
         "character": "Sanju",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Bharadwaj",
         "original_name": "Bharadwaj",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "cast_id": 2,
         "character": "AB",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Anugna",
         "original_name": "Anugna",
-        "popularity": 0.0071,
+        "popularity": 0.2643,
         "profile_path": null,
         "cast_id": 3,
         "character": "Suchi, Date Girl",
@@ -96,13 +96,23 @@
         "known_for_department": "Directing",
         "name": "Nikhil",
         "original_name": "Nikhil",
-        "popularity": 0,
+        "popularity": 0.2611,
         "profile_path": null,
         "credit_id": "68336e40604f44035672fa64",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "videos": {
     "results": [
@@ -120,21 +130,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": []
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [

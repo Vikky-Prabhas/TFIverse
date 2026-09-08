@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "రాజా చెయ్యి వేస్తే",
   "overview": "An aspiring film director narrates a breath-taking story to his girlfriend in a coffee shop. An unknown message knocks the door the next day, asking him to write a love story. He sends his own love story, which impresses the stranger, but he asks for an action ending for killing a brutal villain. Hero sends a thrilling plot. This time the stranger sends a parcel with a gun to kill the real life brutal villain implying the same plot this time. Hero ends up knowing the cruel intentions of the villain and tries to escape from this trap. But he receives a message showing his girlfriend meeting a planned accident. That states a warning that there is no going back. Can a common man really attempt to kill a brutal villain for his loved ones? Who is the unknown stranger behind this? How will hero unfold the mysterious murder plan?",
-  "popularity": 0.3131,
+  "popularity": 2.0156,
   "poster_path": "/sVujTAKrQ1mIBo197OJrbysNTa1.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Nara Rohith",
         "original_name": "నారా రోహిత్",
-        "popularity": 0.5101,
+        "popularity": 1.1027,
         "profile_path": "/nfgWrE7d3IJwCDhwzg895djIQbB.jpg",
         "cast_id": 0,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Isha Talwar",
         "original_name": "Isha Talwar",
-        "popularity": 0.351,
+        "popularity": 0.8532,
         "profile_path": "/dVRrb9aLf6s1XmtIkpSbzuMl0Uv.jpg",
         "cast_id": 1,
         "character": "",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Taraka Ratna",
         "original_name": "Nandamuri Taraka Ratna",
-        "popularity": 0.1251,
+        "popularity": 1.019,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 3,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Sound",
         "name": "Sai Karthik",
         "original_name": "Sai Karthik",
-        "popularity": 0.1135,
+        "popularity": 0.3815,
         "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
         "credit_id": "6139a1d65800c400629556fd",
         "department": "Sound",
@@ -139,7 +139,7 @@
         "known_for_department": "Camera",
         "name": "Samala Bhasker",
         "original_name": "Samala Bhasker",
-        "popularity": 0.0882,
+        "popularity": 0.3286,
         "profile_path": null,
         "credit_id": "633408f6dd4716007b99f8a1",
         "department": "Camera",
@@ -148,28 +148,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1668465,
-        "known_for_department": "Directing",
-        "name": "Pradeep Chilukuri",
-        "original_name": "Pradeep Chilukuri",
-        "popularity": 0.0256,
-        "profile_path": null,
-        "credit_id": "57b8ac0fc3a3682ed7000a5f",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1668466,
         "known_for_department": "Production",
         "name": "Sai Korrapati",
         "original_name": "Sai Korrapati",
-        "popularity": 0.1041,
+        "popularity": 0.3567,
         "profile_path": null,
         "credit_id": "57b8ac7392514118a8000b57",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1668465,
+        "known_for_department": "Directing",
+        "name": "Pradeep Chilukuri",
+        "original_name": "Pradeep Chilukuri",
+        "popularity": 0.4332,
+        "profile_path": null,
+        "credit_id": "57b8ac0fc3a3682ed7000a5f",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
@@ -191,23 +191,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2016-04-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -233,6 +216,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2016-04-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

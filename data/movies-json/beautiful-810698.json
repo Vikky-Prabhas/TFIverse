@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Beautiful",
   "overview": "Rini (Naina Ganguly) and Mayank (Parth Suri) are lovers who live in Dharavi and have different outlooks of life. What happens when she begrudgingly finds success and misunderstandings crop up between them?",
-  "popularity": 0.1355,
+  "popularity": 0.8871,
   "poster_path": "/ar1JYB9Gz4K8qEOdF33u21H1SAO.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Naina Ganguly",
         "original_name": "Naina Ganguly",
-        "popularity": 0.3886,
+        "popularity": 0.6463,
         "profile_path": "/y4uBiHgRhwWF6Slv2HqOtUVVk3r.jpg",
         "cast_id": 3,
         "character": "Rini",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Parth Suri",
         "original_name": "Parth Suri",
-        "popularity": 0.1238,
+        "popularity": 0.3579,
         "profile_path": "/jUvqwPobv38j6fduR6ijiYVlIoL.jpg",
         "cast_id": 4,
         "character": "Mayank",
@@ -85,11 +85,11 @@
         "known_for_department": "Directing",
         "name": "Agasthya Manju",
         "original_name": "Agasthya Manju",
-        "popularity": 0.0565,
+        "popularity": 0.399,
         "profile_path": null,
-        "credit_id": "605e194b435011006b221413",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "605e1955761421006c2a39e2",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -98,11 +98,11 @@
         "known_for_department": "Directing",
         "name": "Agasthya Manju",
         "original_name": "Agasthya Manju",
-        "popularity": 0.0565,
+        "popularity": 0.399,
         "profile_path": null,
-        "credit_id": "605e1955761421006c2a39e2",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "605e194b435011006b221413",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
@@ -122,15 +122,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt11095208",
     "wikidata_id": "Q124254267",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -148,9 +148,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -198,5 +195,8 @@
         "width": 1813
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

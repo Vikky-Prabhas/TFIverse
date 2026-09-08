@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Maa Abbayi",
   "overview": "For the protagonist ‘abbai’ (Sree Vishnu), life is all about taking care of his elder sister and doting parents until they are all killed in a mysterious bomb blast. The plot follows this youngster going all out to avenge their deaths.",
-  "popularity": 0.2571,
+  "popularity": 1.38,
   "poster_path": "/478SX1tSbLpecq6nyh2Zfqte7AB.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -45,24 +45,8 @@
   "tagline": "",
   "title": "Maa Abbayi",
   "video": false,
-  "vote_average": 10,
-  "vote_count": 1,
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Maa Abbayi Official Theatrical Trailer | Sree Vishnu | Chitra Shukla | Kumar Vatti | Suresh Bobbili",
-        "key": "OqxzbLmdRSg",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "5981a03dc3a3680caa01003a",
-        "published_at": "2017-02-21T15:00:02.000Z"
-      }
-    ]
-  },
+  "vote_average": 6.333,
+  "vote_count": 3,
   "credits": {
     "cast": [
       {
@@ -71,11 +55,11 @@
         "id": 1751749,
         "known_for_department": "Acting",
         "name": "Sree Vishnu",
-        "original_name": "Sree Vishnu",
-        "popularity": 0.2141,
+        "original_name": "శ్రీ విష్ణు",
+        "popularity": 1.02,
         "profile_path": "/fSbWn5uUjPMgEtIIrZiJoiU9v1C.jpg",
         "cast_id": 0,
-        "character": "",
+        "character": "Abbayi",
         "credit_id": "5a61c09fc3a368535a01114e",
         "order": 0
       },
@@ -86,25 +70,71 @@
         "known_for_department": "Acting",
         "name": "Chitra Shukla",
         "original_name": "Chitra Shukla",
-        "popularity": 0.349,
+        "popularity": 0.7853,
         "profile_path": "/yrD7S2T7YGqo45atr5DfBu28LSN.jpg",
         "cast_id": 1,
-        "character": "",
+        "character": "Ammudu",
         "credit_id": "5a61c0a69251410e23012448",
         "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831800,
+        "known_for_department": "Acting",
+        "name": "Y. Kasi Viswanath",
+        "original_name": "Y. Kasi Viswanath",
+        "popularity": 1.206,
+        "profile_path": "/sXLyWwvlfNSFfpp4PA1N5K9EuUE.jpg",
+        "cast_id": 2,
+        "character": "Abbayi's father",
+        "credit_id": "6a7467a037581f1f163ec8ac",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1137651,
+        "known_for_department": "Acting",
+        "name": "Sana",
+        "original_name": "Sana",
+        "popularity": 0.977,
+        "profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
+        "cast_id": 3,
+        "character": "Abbayi's mother",
+        "credit_id": "6a7467c36e0dca832503b0a6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332691,
+        "known_for_department": "Acting",
+        "name": "Rajitha",
+        "original_name": "Rajitha",
+        "popularity": 0.9232,
+        "profile_path": "/hJboXrXGnLff4Prqut67stRJNml.jpg",
+        "cast_id": 4,
+        "character": "Ammudu's mother",
+        "credit_id": "6a7467fabb3a40bc1e8b08dd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2249477,
+        "known_for_department": "Acting",
+        "name": "Sivannarayana Naripeddi",
+        "original_name": "Sivannarayana Naripeddi",
+        "popularity": 0.8748,
+        "profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
+        "cast_id": 5,
+        "character": "Ammudu's father",
+        "credit_id": "6a7468085a44881e2f3ec993",
+        "order": 5
       }
     ],
     "crew": []
-  },
-  "external_ids": {
-    "imdb_id": "tt9638298",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": [
@@ -112,23 +142,6 @@
         "iso_3166_1": "IN",
         "title": "Vishnu Shastra",
         "type": "Hindi Dubbed"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2017-03-17T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -156,6 +169,49 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt9638298",
+    "wikidata_id": "Q96391297",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Maa Abbayi Official Theatrical Trailer | Sree Vishnu | Chitra Shukla | Kumar Vatti | Suresh Bobbili",
+        "key": "OqxzbLmdRSg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5981a03dc3a3680caa01003a",
+        "published_at": "2017-02-21T15:00:02.000Z"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-03-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

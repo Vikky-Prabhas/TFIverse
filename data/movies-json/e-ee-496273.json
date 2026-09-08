@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "E Ee",
   "overview": "",
-  "popularity": 0.1128,
+  "popularity": 1.1515,
   "poster_path": "/bNFcWFuLyT2FFAZM1K21cDdLyk4.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,41 +37,24 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 2,
-  "credits": {
-    "cast": [
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
       {
-        "adult": false,
-        "gender": 1,
-        "id": 1340563,
-        "known_for_department": "Acting",
-        "name": "Naira Shah",
-        "original_name": "Naira Shah",
-        "popularity": 0.1792,
-        "profile_path": "/dFvkBy22J7K87BfTDFmFga2uxDQ.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5d4be2d1002134001427b970",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2381496,
-        "known_for_department": "Directing",
-        "name": "Ram Ganpati Rao",
-        "original_name": "Ram Ganpati Rao",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "5d4be2f24dc34a001262e2dc",
-        "department": "Directing",
-        "job": "Director"
+        "aspect_ratio": 0.75,
+        "height": 1000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bNFcWFuLyT2FFAZM1K21cDdLyk4.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 750
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt10169754",
@@ -80,8 +63,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -100,22 +83,39 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
+  "credits": {
+    "cast": [
       {
-        "aspect_ratio": 0.75,
-        "height": 1000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/bNFcWFuLyT2FFAZM1K21cDdLyk4.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 750
+        "adult": false,
+        "gender": 1,
+        "id": 1340563,
+        "known_for_department": "Acting",
+        "name": "Naira Shah",
+        "original_name": "Naira Shah",
+        "popularity": 0.6084,
+        "profile_path": "/dFvkBy22J7K87BfTDFmFga2uxDQ.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5d4be2d1002134001427b970",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381496,
+        "known_for_department": "Directing",
+        "name": "Ram Ganpati Rao",
+        "original_name": "Ram Ganpati Rao",
+        "popularity": 0.4481,
+        "profile_path": null,
+        "credit_id": "5d4be2f24dc34a001262e2dc",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   }

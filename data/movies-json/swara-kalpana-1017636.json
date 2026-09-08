@@ -20,10 +20,10 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Swara Kalpana",
+  "original_title": "స్వరకల్పన",
   "overview": "",
-  "popularity": 0.4597,
-  "poster_path": "/wZSJY9g6cLs10mmevhHE5Pec1yY.jpg",
+  "popularity": 3.6818,
+  "poster_path": "/5Ww39bQr1OMGeAgt61vMuCfmJQ7.jpg",
   "production_companies": [],
   "production_countries": [],
   "release_date": "1989-06-07",
@@ -43,6 +43,13 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0274915",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -52,7 +59,7 @@
         "known_for_department": "Acting",
         "name": "SriRam Edida",
         "original_name": "SriRam Edida",
-        "popularity": 0.0404,
+        "popularity": 0.5196,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -66,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Seetha",
         "original_name": "Seetha",
-        "popularity": 0.6028,
+        "popularity": 5.0529,
         "profile_path": "/gMIqg8c4gnP9mO40rCW7Sc0ei8D.jpg",
         "cast_id": 2,
         "character": "",
@@ -79,9 +86,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "630a6c0323bcf40080f4a11b",
@@ -93,8 +100,8 @@
         "id": 584415,
         "known_for_department": "Acting",
         "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.5178,
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
         "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Somayajulu J V",
         "original_name": "Somayajulu J V",
-        "popularity": 0.2209,
+        "popularity": 1.2795,
         "profile_path": "/oT1qD39zifPBixECtza4zjsnIgw.jpg",
         "cast_id": 6,
         "character": "",
@@ -136,7 +143,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -148,43 +155,30 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 565890,
-        "known_for_department": "Acting",
-        "name": "Tanikella Bharani",
-        "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
-        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
-        "credit_id": "630a6c4cda10f0007e3988ab",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1181067,
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2766,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "630a6c3835811d0077aa6c42",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 2.5196,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "credit_id": "630a6c4cda10f0007e3988ab",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0274915",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -203,16 +197,22 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
       {
         "aspect_ratio": 1.778,
         "height": 720,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/djHacKdP5DU6puMftJd9n0gG0bb.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -222,24 +222,24 @@
     "logos": [],
     "posters": [
       {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/5Ww39bQr1OMGeAgt61vMuCfmJQ7.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
         "aspect_ratio": 0.75,
         "height": 1333,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/9SWjfdx5wmCT7YprHztNkoSPd9I.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/5Ww39bQr1OMGeAgt61vMuCfmJQ7.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       },
       {
         "aspect_ratio": 0.667,
@@ -254,8 +254,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1248,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/wZSJY9g6cLs10mmevhHE5Pec1yY.jpg",
         "vote_average": 0,
         "vote_count": 0,

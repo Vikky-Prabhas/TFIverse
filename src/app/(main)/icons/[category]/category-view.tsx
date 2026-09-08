@@ -122,7 +122,8 @@ export default function CategoryView({
 // Separate Client Component for Individual Cards to handle image errors
 const ProfileCard = memo(function ProfileCard({ person, categoryConfig, categorySlug }: { person: any, categoryConfig: any, categorySlug: string }) {
   const [imgError, setImgError] = useState(false);
-  const portraitUrl = person.images?.portrait?.url || person.images?.avatar?.url;
+  const tmdbUrl = person.profilePath ? `https://image.tmdb.org/t/p/w500${person.profilePath}` : null;
+  const portraitUrl = (tmdbUrl || person.images?.portrait?.url || person.images?.avatar?.url || "").replace("www.themoviedb.org", "image.tmdb.org");
   
   const isHeroines = categorySlug === "heroines";
   const isDirectors = ["directors", "producers", "line-producers", "stunt-directors"].includes(categorySlug);

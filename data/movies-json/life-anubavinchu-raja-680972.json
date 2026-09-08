@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "లైఫ్ అనుభవించు రాజా",
   "overview": "Life Anubavinchu Raja is a romantic comedy that tells the story of a man who loses everything and decides to become a saint and search for the purpose of his life.",
-  "popularity": 0.1021,
+  "popularity": 0.9004,
   "poster_path": "/9T77Jyx32gpgZ1tnhiXXehilDrl.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Sravani Nikki",
         "original_name": "Sravani Nikki",
-        "popularity": 0.0143,
+        "popularity": 0.6257,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Teja Nannimala",
         "original_name": "Ravi Teja Nannimala",
-        "popularity": 0.1375,
+        "popularity": 1.096,
         "profile_path": "/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg",
         "cast_id": 5,
         "character": "",
@@ -105,7 +105,7 @@
         "known_for_department": "Directing",
         "name": "Suresh Thirumur",
         "original_name": "Suresh Thirumur",
-        "popularity": 0.0071,
+        "popularity": 0.2723,
         "profile_path": null,
         "credit_id": "5e62486c8e2ba60014dea60b",
         "department": "Directing",
@@ -113,28 +113,15 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt11779090",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Life Anubavinchu Raja Trailer #2 | Raviteja, Sravani Nikki, Shruti Shetty | Suresh Thirumur",
-        "key": "_jn5W_kaUpo",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": true,
-        "id": "5e6248a8357c000016334f29",
-        "published_at": "2020-02-09T04:40:33.000Z"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -152,9 +139,6 @@
         ]
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -179,6 +163,22 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Life Anubavinchu Raja Trailer #2 | Raviteja, Sravani Nikki, Shruti Shetty | Suresh Thirumur",
+        "key": "_jn5W_kaUpo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e6248a8357c000016334f29",
+        "published_at": "2020-02-09T04:40:33.000Z"
       }
     ]
   },

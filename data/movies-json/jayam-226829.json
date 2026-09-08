@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Jayam",
   "overview": "The story is centered in a village where the parents of first cousins Sujatha (Sadha) and Raghu (Gopichand) decide that both will be married when they become adults. As a child, Sujatha's uncle gives her anklets, which she wears as she grows up. As they grow older, Raghu is caught smuggling money from his house. At school, Raghu beats up a kid for talking to Sujatha. They quarrel, and soon Raghu's family leaves for another village. Sujatha grows to be an attractive college girl, while the villain Raghu becomes a good-for-nothing character. On her way to college, Sujatha meets up with Venkat (Nitin), a poor but handsome, charming enthusiastic boy, and soon after their quarrels they fall in love.",
-  "popularity": 0.5131,
+  "popularity": 2.4673,
   "poster_path": "/yImLtxucFUGCzLoyN3YpmdK8oG0.jpg",
   "production_companies": [],
   "production_countries": [
@@ -37,8 +37,18 @@
   "tagline": "",
   "title": "Jayam",
   "video": false,
-  "vote_average": 6.7,
-  "vote_count": 9,
+  "vote_average": 6.773,
+  "vote_count": 11,
+  "external_ids": {
+    "imdb_id": "tt1797416",
+    "wikidata_id": "Q6167503",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +58,7 @@
         "known_for_department": "Acting",
         "name": "Nithiin",
         "original_name": "Nithiin",
-        "popularity": 1.7752,
+        "popularity": 1.4423,
         "profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
         "cast_id": 1,
         "character": "Venkat",
@@ -62,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Sadha",
         "original_name": "Sadha",
-        "popularity": 0.485,
+        "popularity": 1.0222,
         "profile_path": "/odbgKzeByn3Zq5LysHkiXPezElx.jpg",
         "cast_id": 4,
         "character": "Sujatha",
@@ -74,9 +84,9 @@
         "gender": 2,
         "id": 237325,
         "known_for_department": "Acting",
-        "name": "Gopichand",
-        "original_name": "Gopichand",
-        "popularity": 1.1431,
+        "name": "T. Gopichand",
+        "original_name": "టి. గోపీచంద్",
+        "popularity": 1.6621,
         "profile_path": "/faFnhPCmtdL6qKhroiyHjgS8lqN.jpg",
         "cast_id": 5,
         "character": "Raghu",
@@ -90,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Siva Krishna",
         "original_name": "Siva Krishna",
-        "popularity": 0.0214,
+        "popularity": 0.3124,
         "profile_path": null,
         "cast_id": 6,
         "character": "Sujatha's Father",
@@ -104,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Prasad Babu",
         "original_name": "Prasad Babu",
-        "popularity": 0.2469,
+        "popularity": 1.0868,
         "profile_path": null,
         "cast_id": 7,
         "character": "Raghu's father",
@@ -118,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.393,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 8,
         "character": "",
@@ -132,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.5188,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 9,
         "character": "Alibaba",
@@ -146,7 +156,7 @@
         "known_for_department": "Acting",
         "name": "Supreet",
         "original_name": "Supreet",
-        "popularity": 0.362,
+        "popularity": 1.6404,
         "profile_path": "/3HZopNIG3zeaSpbGjEvsdmoXjaR.jpg",
         "cast_id": 10,
         "character": "",
@@ -160,7 +170,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1797,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -174,7 +184,7 @@
         "known_for_department": "Acting",
         "name": "Duvvasi Mohan",
         "original_name": "Duvvasi Mohan",
-        "popularity": 0.3439,
+        "popularity": 0.9488,
         "profile_path": "/oN2XhpPwZWXP544QhMrkrekTP2X.jpg",
         "cast_id": 12,
         "character": "",
@@ -188,7 +198,7 @@
         "known_for_department": "Acting",
         "name": "Shakeela",
         "original_name": "Shakeela",
-        "popularity": 0.7707,
+        "popularity": 1.2283,
         "profile_path": "/u37qWvTmxFDgvXMwm8bL4g69djI.jpg",
         "cast_id": 13,
         "character": "",
@@ -202,7 +212,7 @@
         "known_for_department": "Acting",
         "name": "Srilakshmi",
         "original_name": "Srilakshmi",
-        "popularity": 0.1215,
+        "popularity": 0.6371,
         "profile_path": "/czQXxJ6c149HPmY0JSHPxEL5wXW.jpg",
         "cast_id": 15,
         "character": "",
@@ -216,12 +226,26 @@
         "known_for_department": "Acting",
         "name": "Sivaji Sontineni",
         "original_name": "Sivaji Sontineni",
-        "popularity": 1.2267,
+        "popularity": 1.1302,
         "profile_path": "/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg",
         "cast_id": 21,
         "character": "Venkat (Voice)",
         "credit_id": "6507feb78a88b200e39e8ae2",
         "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6369742,
+        "known_for_department": "Acting",
+        "name": "Anamika Pravallika",
+        "original_name": "Anamika Pravallika",
+        "popularity": 0.3922,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6a6506b5bdab3ba9b670b798",
+        "order": 13
       }
     ],
     "crew": [
@@ -232,7 +256,7 @@
         "known_for_department": "Directing",
         "name": "Teja",
         "original_name": "Teja",
-        "popularity": 0.3993,
+        "popularity": 0.8923,
         "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
         "credit_id": "52fe4e899251416c75159c5f",
         "department": "Directing",
@@ -245,11 +269,11 @@
         "known_for_department": "Directing",
         "name": "Teja",
         "original_name": "Teja",
-        "popularity": 0.3993,
+        "popularity": 0.8923,
         "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
-        "credit_id": "6013da7fb5bc21003b9a631b",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "6013da881b70ae003d5cecbe",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -258,11 +282,24 @@
         "known_for_department": "Directing",
         "name": "Teja",
         "original_name": "Teja",
-        "popularity": 0.3993,
+        "popularity": 0.8923,
         "profile_path": "/b0ajaj9r5tte39uwfAncsTgNaDG.jpg",
-        "credit_id": "6013da881b70ae003d5cecbe",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "6013da7fb5bc21003b9a631b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646405,
+        "known_for_department": "Editing",
+        "name": "Shankar Suri",
+        "original_name": "Shankar Suri",
+        "popularity": 0.2973,
+        "profile_path": null,
+        "credit_id": "6013daf502842000402e7a79",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -271,7 +308,7 @@
         "known_for_department": "Directing",
         "name": "R. P. Patnaik",
         "original_name": "R. P. Patnaik",
-        "popularity": 0.2133,
+        "popularity": 0.3934,
         "profile_path": null,
         "credit_id": "6013daafdd83fa003f9de65e",
         "department": "Sound",
@@ -284,24 +321,23 @@
         "known_for_department": "Camera",
         "name": "Sameer Reddy",
         "original_name": "Sameer Reddy",
-        "popularity": 0.3114,
+        "popularity": 0.3607,
         "profile_path": null,
         "credit_id": "6013dabcea84c7003ec087d7",
         "department": "Camera",
         "job": "Director of Photography"
-      },
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
       {
-        "adult": false,
-        "gender": 0,
-        "id": 1646405,
-        "known_for_department": "Editing",
-        "name": "Shankar Suri",
-        "original_name": "Shankar Suri",
-        "popularity": 0.0536,
-        "profile_path": null,
-        "credit_id": "6013daf502842000402e7a79",
-        "department": "Editing",
-        "job": "Editor"
+        "iso_3166_1": "IN",
+        "title": "Phir Hogi Pyar Ki Jeet",
+        "type": ""
       }
     ]
   },
@@ -366,28 +402,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1797416",
-    "wikidata_id": "Q6167503",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Phir Hogi Pyar Ki Jeet",
-        "type": ""
       }
     ]
   }

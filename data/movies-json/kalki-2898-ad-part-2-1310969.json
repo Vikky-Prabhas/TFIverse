@@ -24,14 +24,14 @@
   ],
   "homepage": "",
   "id": 1310969,
-  "imdb_id": null,
+  "imdb_id": "tt40184910",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "కల్కి 2898-ఎ.డి: భాగం 2",
   "overview": "",
-  "popularity": 1.1143,
+  "popularity": 3.2083,
   "poster_path": "/jFkZXnKCYJYFtx2D5dcspjgoZdD.jpg",
   "production_companies": [
     {
@@ -64,6 +64,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt40184910",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -73,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Amitabh Bachchan",
         "original_name": "Amitabh Bachchan",
-        "popularity": 2.0827,
+        "popularity": 2.4033,
         "profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
         "cast_id": 2,
         "character": "Ashwatthama",
@@ -87,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Haasan",
         "original_name": "Kamal Haasan",
-        "popularity": 1.9288,
+        "popularity": 2.5692,
         "profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
         "cast_id": 4,
         "character": "Supreme Yaskin",
@@ -101,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas",
         "original_name": "Prabhas",
-        "popularity": 2.6943,
+        "popularity": 2.9801,
         "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
         "cast_id": 1,
         "character": "Bhairava",
@@ -115,7 +125,7 @@
         "known_for_department": "Acting",
         "name": "Sai Pallavi",
         "original_name": "Sai Pallavi",
-        "popularity": 0.8223,
+        "popularity": 1.9211,
         "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg",
         "cast_id": 22,
         "character": "SUM-80 'Sumathi'",
@@ -124,31 +134,45 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 150197,
+        "gender": 1,
+        "id": 1546398,
         "known_for_department": "Acting",
-        "name": "Pasupathy",
-        "original_name": "Pasupathy",
-        "popularity": 0.6308,
-        "profile_path": "/5acprpMj9trXNd8QOoKwssjkXkb.jpg",
-        "cast_id": 17,
-        "character": "Veeran",
-        "credit_id": "66843272ead3fb472b816404",
+        "name": "Disha Patani",
+        "original_name": "दिशा पाटनी",
+        "popularity": 2.1632,
+        "profile_path": "/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg",
+        "cast_id": 11,
+        "character": "Roxie",
+        "credit_id": "66820a0e70eace5dc91e3658",
         "order": 4
       },
       {
         "adult": false,
         "gender": 1,
-        "id": 1546398,
+        "id": 1108120,
         "known_for_department": "Acting",
-        "name": "Disha Patani",
-        "original_name": "Disha Patani",
-        "popularity": 1.4107,
-        "profile_path": "/oWfHKrvbk3Ak6UnrzDlAoZu7nlh.jpg",
-        "cast_id": 11,
-        "character": "Roxie",
-        "credit_id": "66820a0e70eace5dc91e3658",
+        "name": "Alia Bhatt",
+        "original_name": "आलिया भट्ट",
+        "popularity": 3.3349,
+        "profile_path": "/lAgBZgHKTo6amIO9CfNxUbm1usH.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "6a30ce54be6701bc7153043b",
         "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150197,
+        "known_for_department": "Acting",
+        "name": "Pasupathy",
+        "original_name": "Pasupathy",
+        "popularity": 1.2759,
+        "profile_path": "/luiNwyZPi2snUB7mA4MTyQ1tvU3.jpg",
+        "cast_id": 17,
+        "character": "Veeran",
+        "credit_id": "66843272ead3fb472b816404",
+        "order": 6
       },
       {
         "adult": false,
@@ -157,12 +181,12 @@
         "known_for_department": "Acting",
         "name": "Keya Nair",
         "original_name": "Keya Nair",
-        "popularity": 0.0645,
+        "popularity": 0.3537,
         "profile_path": null,
         "cast_id": 16,
         "character": "Raia",
         "credit_id": "6684324ab3054e3e1a81610c",
-        "order": 6
+        "order": 7
       },
       {
         "adult": false,
@@ -171,12 +195,12 @@
         "known_for_department": "Acting",
         "name": "Kavya Ramachandran",
         "original_name": "Kavya Ramachandran",
-        "popularity": 0.0264,
+        "popularity": 0.7961,
         "profile_path": null,
         "cast_id": 20,
         "character": "Lilly",
         "credit_id": "668ecd6b4205d22722b85a81",
-        "order": 7
+        "order": 8
       },
       {
         "adult": false,
@@ -185,12 +209,12 @@
         "known_for_department": "Acting",
         "name": "Ayaz Pasha",
         "original_name": "Ayaz Pasha",
-        "popularity": 0.0646,
+        "popularity": 0.2942,
         "profile_path": null,
         "cast_id": 18,
         "character": "Ajju",
         "credit_id": "6684328addefc146609b2949",
-        "order": 8
+        "order": 9
       },
       {
         "adult": false,
@@ -199,12 +223,12 @@
         "known_for_department": "Acting",
         "name": "Harshith Malgireddy",
         "original_name": "Harshith Malgireddy",
-        "popularity": 0.2211,
+        "popularity": 0.5264,
         "profile_path": null,
         "cast_id": 19,
         "character": "Luke",
         "credit_id": "668432a084dc1e385efb1cf1",
-        "order": 9
+        "order": 10
       },
       {
         "adult": false,
@@ -213,12 +237,12 @@
         "known_for_department": "Acting",
         "name": "Humhu",
         "original_name": "Humhu",
-        "popularity": 0.0558,
+        "popularity": 0.2988,
         "profile_path": null,
         "cast_id": 21,
         "character": "Krane",
         "credit_id": "668ecd7593458b3d6139c65f",
-        "order": 10
+        "order": 11
       }
     ],
     "crew": [
@@ -229,7 +253,7 @@
         "known_for_department": "Directing",
         "name": "Nag Ashwin",
         "original_name": "Nag Ashwin",
-        "popularity": 0.4557,
+        "popularity": 0.7237,
         "profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
         "credit_id": "6682097c4c8f19a024ef5786",
         "department": "Directing",
@@ -238,15 +262,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1508808,
-        "known_for_department": "Directing",
-        "name": "Nag Ashwin",
-        "original_name": "Nag Ashwin",
-        "popularity": 0.4557,
-        "profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
-        "credit_id": "66820991527a10fa2c16497b",
-        "department": "Writing",
-        "job": "Story"
+        "id": 585264,
+        "known_for_department": "Production",
+        "name": "C. Ashwini Dutt",
+        "original_name": "C. Ashwini Dutt",
+        "popularity": 0.3164,
+        "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
+        "credit_id": "668209a26a8e55ec12c3d5c3",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -255,35 +279,9 @@
         "known_for_department": "Production",
         "name": "Swapna Dutt",
         "original_name": "Swapna Dutt",
-        "popularity": 0.0984,
+        "popularity": 0.3864,
         "profile_path": "/7L8M2G11CjIS7DC9hBuoDepcdh9.jpg",
         "credit_id": "668209b192f61d91b0164a4c",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1508808,
-        "known_for_department": "Directing",
-        "name": "Nag Ashwin",
-        "original_name": "Nag Ashwin",
-        "popularity": 0.4557,
-        "profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
-        "credit_id": "66820985fc6b0cd40ec81a8b",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585264,
-        "known_for_department": "Production",
-        "name": "C. Ashwini Dutt",
-        "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1645,
-        "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
-        "credit_id": "668209a26a8e55ec12c3d5c3",
         "department": "Production",
         "job": "Producer"
       },
@@ -294,7 +292,7 @@
         "known_for_department": "Production",
         "name": "Priyanka Dutt",
         "original_name": "Priyanka Dutt",
-        "popularity": 0.1311,
+        "popularity": 0.3287,
         "profile_path": "/g1ywPat0gvNXDKcWGKUDKcQMhgT.jpg",
         "credit_id": "668209c43ffc4e3af71208aa",
         "department": "Production",
@@ -307,29 +305,23 @@
         "known_for_department": "Directing",
         "name": "Nag Ashwin",
         "original_name": "Nag Ashwin",
-        "popularity": 0.4557,
+        "popularity": 0.7237,
         "profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
-        "credit_id": "6684319ab2912a0cd61b9805",
+        "credit_id": "6a30dc9084271f78c2d8363f",
         "department": "Writing",
-        "job": "Dialogue"
+        "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": []
   },
   "keywords": {
     "keywords": [
+      {
+        "id": 5484,
+        "name": "reincarnation"
+      },
       {
         "id": 9663,
         "name": "sequel"
@@ -347,9 +339,6 @@
         "name": "kalki cinematic universe"
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -376,5 +365,8 @@
         "width": 1080
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

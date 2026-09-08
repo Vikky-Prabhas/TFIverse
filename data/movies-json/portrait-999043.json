@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "PORTRAIT.",
   "overview": "A portrait of man dealing with himself on a rainy day. Part realistic, part expressionist.",
-  "popularity": 0.1455,
+  "popularity": 0.4245,
   "poster_path": "/2mFlxqeVCPK8zh1CJomWsEYZagm.jpg",
   "production_companies": [
     {
@@ -44,7 +44,7 @@
         "known_for_department": "Directing",
         "name": "Y. Nithin",
         "original_name": "Y. Nithin",
-        "popularity": 0.0214,
+        "popularity": 0.2865,
         "profile_path": null,
         "cast_id": 1,
         "character": "Protagonist",
@@ -60,20 +60,7 @@
         "known_for_department": "Directing",
         "name": "Y. Nithin",
         "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "62cd16fbe8d028004f1a354f",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
+        "popularity": 0.2865,
         "profile_path": null,
         "credit_id": "62cd170887a27a004f0e840d",
         "department": "Editing",
@@ -86,11 +73,11 @@
         "known_for_department": "Directing",
         "name": "Y. Nithin",
         "original_name": "Y. Nithin",
-        "popularity": 0.0214,
+        "popularity": 0.2865,
         "profile_path": null,
-        "credit_id": "62cd17154a4bfc00504af71c",
-        "department": "Sound",
-        "job": "Sound Designer"
+        "credit_id": "62cd16fbe8d028004f1a354f",
+        "department": "Crew",
+        "job": "Cinematography"
       },
       {
         "adult": false,
@@ -99,20 +86,29 @@
         "known_for_department": "Directing",
         "name": "Y. Nithin",
         "original_name": "Y. Nithin",
-        "popularity": 0.0214,
+        "popularity": 0.2865,
         "profile_path": null,
         "credit_id": "62cd17244b9bae1a3b71eae7",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "62cd17154a4bfc00504af71c",
+        "department": "Sound",
+        "job": "Sound Designer"
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": "nithin.yella",
-    "instagram_id": "nonarrativefilms",
-    "twitter_id": "YellaNithin"
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": [
@@ -146,9 +142,6 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "release_dates": {
     "results": [
       {
@@ -165,6 +158,16 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": "nithin.yella",
+    "instagram_id": "nonarrativefilms",
+    "twitter_id": "YellaNithin"
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -192,8 +195,5 @@
         "width": 725
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

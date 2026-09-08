@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/5JhjauAesTjOemdTkJVFeAgBtF9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1703675,
+  "imdb_id": "tt42316559",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Ramani Kalyanam",
+  "overview": "Follows a visually impaired girl and a boy who cannot walk as their lives intersect through a matchmaking arrangement.",
+  "popularity": 1.6585,
+  "poster_path": "/g8KJHtfvavQAzYdv5nvTb87Mjvx.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-05-22",
+  "revenue": 0,
+  "runtime": 126,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ramani Kalyanam",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3727602,
+        "known_for_department": "Acting",
+        "name": "Mahaboob Basha",
+        "original_name": "Mahaboob Basha",
+        "popularity": 0.3973,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Teasing Guy in Pub",
+        "credit_id": "6a1c1aa0516b395dcd88d749",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6027700,
+        "known_for_department": "Acting",
+        "name": "Deepshikha Chandran",
+        "original_name": "Deepshikha Chandran",
+        "popularity": 0.2986,
+        "profile_path": "/2TblNdqz1hFkf9oa9b35aXeJUEF.jpg",
+        "cast_id": 4,
+        "character": "Sanjana",
+        "credit_id": "6a1c1ab695ca11d80f08bade",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2280052,
+        "known_for_department": "Acting",
+        "name": "Surya Vasishta",
+        "original_name": "Surya Vasishta",
+        "popularity": 0.9031,
+        "profile_path": "/aXNgu20KR33sYxTEW5UpP7T75u2.jpg",
+        "cast_id": 5,
+        "character": "Raj",
+        "credit_id": "6a1d9e4c7aba8b4b41cab6d2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544991,
+        "known_for_department": "Directing",
+        "name": "Srinivas Reddy",
+        "original_name": "Srinivas Reddy",
+        "popularity": 0.5667,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6a1d9e73d7529862749c6b73",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1661804,
+        "known_for_department": "Acting",
+        "name": "Shyamala",
+        "original_name": "Shyamala",
+        "popularity": 0.8061,
+        "profile_path": "/oMVU5ZiYQGhF64ItD2FLtZCWA5C.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6a1d9e86a15c8837dfcc69f9",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5371486,
+        "known_for_department": "Directing",
+        "name": "Vijay Mahireddy",
+        "original_name": "Vijay Mahireddy",
+        "popularity": 0.4969,
+        "profile_path": null,
+        "credit_id": "6a182b0fc09f806406156ac5",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ramani Kalyanam Trailer | Surya Vashistta | Deepshikha Chandran | Premieres June 12 | ETVWIN",
+        "key": "4oXGHHbmXdA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a2ce8371e19928439232832",
+        "published_at": "2026-06-11T09:08:45.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-05-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Sun NXT",
+            "release_date": "2026-06-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt42316559",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5JhjauAesTjOemdTkJVFeAgBtF9.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1537,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/g8KJHtfvavQAzYdv5nvTb87Mjvx.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1023
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/pnycd3SipSeoS1zBj1FZsIPVpsc.jpg",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 1000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

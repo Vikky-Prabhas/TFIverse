@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Bava Nachadu",
   "overview": "A happily married couple, involving a simple village girl and her good looking actor husband, face a turbulent challenge when the wife's younger sister gets infatuated with her sisters husband.",
-  "popularity": 0.3728,
+  "popularity": 1.0632,
   "poster_path": "/7Goa0HdErvdiaRWfn6QfYeSR7QJ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,16 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt1604887",
-    "wikidata_id": "Q4873626",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -62,8 +52,8 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.0828,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 1,
         "character": "Actor",
         "credit_id": "52fe45aac3a36847f80d3a73",
@@ -75,8 +65,8 @@
         "id": 141705,
         "known_for_department": "Acting",
         "name": "Simran",
-        "original_name": "Simran",
-        "popularity": 1.9379,
+        "original_name": "சிம்ரன்",
+        "popularity": 3.5238,
         "profile_path": "/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
         "cast_id": 2,
         "character": "Actress",
@@ -90,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Reema Sen",
         "original_name": "Reema Sen",
-        "popularity": 0.6177,
+        "popularity": 2.0995,
         "profile_path": "/f5Xe92gA1BXa4BddAxnysRZwnjf.jpg",
         "cast_id": 3,
         "character": "Actress",
@@ -106,13 +96,26 @@
         "known_for_department": "Directing",
         "name": "K. S. Ravikumar",
         "original_name": "K. S. Ravikumar",
-        "popularity": 0.8113,
+        "popularity": 2.0456,
         "profile_path": "/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg",
         "credit_id": "52fe45aac3a36847f80d3a81",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1604887",
+    "wikidata_id": "Q4873626",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -170,8 +173,5 @@
         "width": 2000
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

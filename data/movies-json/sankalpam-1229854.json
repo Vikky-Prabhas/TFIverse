@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "సంకల్పం",
   "overview": "Against mafia opposition, Krishna Murthy aims to establish a biscuit factory on his father's land.",
-  "popularity": 0.1344,
+  "popularity": 0.8484,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -28,9 +28,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -40,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 1,
         "character": "Krishna Murthy",
@@ -54,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Gautami Tadimalla",
         "original_name": "Gautami Tadimalla",
-        "popularity": 0.5163,
+        "popularity": 1.9093,
         "profile_path": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg",
         "cast_id": 2,
         "character": "Rukmini",
@@ -67,8 +64,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.9783,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 3,
         "character": "Gaddapalugu Chenchu Ramayya",
@@ -84,7 +81,7 @@
         "known_for_department": "Production",
         "name": "A. M. Rathnam",
         "original_name": "A. M. Rathnam",
-        "popularity": 0.307,
+        "popularity": 0.6545,
         "profile_path": null,
         "credit_id": "65a091206782590126e8a6b7",
         "department": "Directing",
@@ -92,8 +89,26 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt6882602",
+    "wikidata_id": "Q18809337",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -111,20 +126,5 @@
         ]
       }
     ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6882602",
-    "wikidata_id": "Q18809337",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

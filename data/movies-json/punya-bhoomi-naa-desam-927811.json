@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పుణ్యభూమి నాదేశం",
   "overview": "A lazy, alcoholic youngster is thrown out of his village at a very young age by his mother for disobeying her orders. He meets a journalist who urges him to mete out justice to those in need of it.",
-  "popularity": 0.3017,
+  "popularity": 0.899,
   "poster_path": "/ud2Tx4cUSoOkOWk9WamOmHuI2Oc.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 2,
         "character": "Bharath",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Meena",
         "original_name": "Meena",
-        "popularity": 5.1352,
+        "popularity": 2.76,
         "profile_path": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
         "cast_id": 3,
         "character": "Swathi",
@@ -92,7 +92,7 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
         "cast_id": 4,
         "character": "Bangaraiah",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Subhashri",
         "original_name": "Subhashri",
-        "popularity": 0.4694,
+        "popularity": 1.1363,
         "profile_path": "/icE71nLDJmTuhmmU3xzM8HtUcsu.jpg",
         "cast_id": 5,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 6,
         "character": "",
@@ -133,8 +133,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.427,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 8,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3125,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 9,
         "character": "",
@@ -176,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Narra Venkateswara Rao",
         "original_name": "Narra Venkateswara Rao",
-        "popularity": 0.2077,
+        "popularity": 1.6152,
         "profile_path": "/dhpd7PAY06hhHDDOEsLIUFFTMQZ.jpg",
         "cast_id": 10,
         "character": "",
@@ -190,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 11,
         "character": "",
@@ -204,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 12,
         "character": "",
@@ -218,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Manchu Manoj",
         "original_name": "Manchu Manoj",
-        "popularity": 0.5266,
+        "popularity": 2.0359,
         "profile_path": "/eNIxi8fVrv97VAhwPFiw6iSU2Y1.jpg",
         "cast_id": 13,
         "character": "",
@@ -230,41 +230,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 583608,
-        "known_for_department": "Writing",
-        "name": "K.K. Singh",
-        "original_name": "K.K. Singh",
-        "popularity": 0.0951,
-        "profile_path": null,
-        "credit_id": "61e490df0cd44600937154ec",
-        "department": "Writing",
-        "job": "Original Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584666,
-        "known_for_department": "Directing",
-        "name": "A. Kodandarami Reddy",
-        "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.3713,
-        "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
-        "credit_id": "61e491f0f5c824001a1469a4",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585268,
-        "known_for_department": "Acting",
-        "name": "Mohan Babu",
-        "original_name": "Mohan Babu",
-        "popularity": 0.5568,
-        "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
-        "credit_id": "61e491fb0cd44600937158cf",
-        "department": "Production",
-        "job": "Producer"
+        "id": 92057,
+        "known_for_department": "Sound",
+        "name": "Bappi Lahiri",
+        "original_name": "Bappi Lahiri",
+        "popularity": 0.5219,
+        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
+        "credit_id": "61e492190cd32a0042f8e14b",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -273,7 +247,7 @@
         "known_for_department": "Writing",
         "name": "K. V. Anand",
         "original_name": "K. V. Anand",
-        "popularity": 0.2129,
+        "popularity": 0.4405,
         "profile_path": "/6Yo3J2yWpOWNqH1hlAakuwltzAC.jpg",
         "credit_id": "61e4920e4e4dff001ca6af7f",
         "department": "Camera",
@@ -282,20 +256,49 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 92057,
-        "known_for_department": "Sound",
-        "name": "Bappi Lahiri",
-        "original_name": "Bappi Lahiri",
-        "popularity": 0.2827,
-        "profile_path": "/5HBI7ecr8YtTVinhXx5Yd90cxHN.jpg",
-        "credit_id": "61e492190cd32a0042f8e14b",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "id": 583608,
+        "known_for_department": "Writing",
+        "name": "K.K. Singh",
+        "original_name": "K.K. Singh",
+        "popularity": 0.4525,
+        "profile_path": null,
+        "credit_id": "61e490df0cd44600937154ec",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585268,
+        "known_for_department": "Acting",
+        "name": "Mohan Babu",
+        "original_name": "Mohan Babu",
+        "popularity": 2.7182,
+        "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
+        "credit_id": "61e491fb0cd44600937158cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584666,
+        "known_for_department": "Directing",
+        "name": "A. Kodandarami Reddy",
+        "original_name": "A. Kodandarami Reddy",
+        "popularity": 1.4088,
+        "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
+        "credit_id": "61e491f0f5c824001a1469a4",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt1212133",
@@ -303,29 +306,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1995-03-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -353,5 +333,25 @@
         "width": 500
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-03-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "U kathe hero",
   "overview": "The film revolves around a small police investigation in Rudravaram village, which leads to solving a mystery around the underworld.",
-  "popularity": 0.0831,
+  "popularity": 0.4553,
   "poster_path": "/ijldEWnwNPdbskU4b20Pz2JCoku.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Lahari Shari",
         "original_name": "Lahari Shari",
-        "popularity": 0.1346,
+        "popularity": 0.5266,
         "profile_path": "/8aTpZs8uYEmhinOVGPFbnzwgNpn.jpg",
         "cast_id": 1,
         "character": "Nandini",
@@ -60,6 +60,9 @@
       }
     ],
     "crew": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt9479454",
@@ -85,6 +88,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -100,11 +106,5 @@
         "width": 516
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

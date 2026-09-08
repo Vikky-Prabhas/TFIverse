@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "బుర్రకథ",
   "overview": "Abhiram  is a man born with two brains – splitting into the massy Abhi and classy Ram whenever triggered by loud noises. How he copes with it forms the crux of the story.",
-  "popularity": 0.1911,
+  "popularity": 1.6433,
   "poster_path": "/53IXCKvCjyjND9QbxS0qrbxKsxp.jpg",
   "production_companies": [
     {
@@ -55,6 +55,13 @@
   "video": false,
   "vote_average": 6,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt10286746",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Aadi Saikumar",
         "original_name": "Aadi Saikumar",
-        "popularity": 0.5775,
+        "popularity": 1.3584,
         "profile_path": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Mishti Chakravarty",
         "original_name": "Mishti Chakravarty",
-        "popularity": 0.2974,
+        "popularity": 0.5018,
         "profile_path": "/dp4dELhzoiYYc8L5KYSenvbq0YF.jpg",
         "cast_id": 19,
         "character": "",
@@ -92,8 +99,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "5d1376040e0a26641acccdd2",
@@ -105,8 +112,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 3,
         "character": "",
@@ -120,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 4,
         "character": "",
@@ -134,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Abhimanyu Singh",
         "original_name": "Abhimanyu Singh",
-        "popularity": 0.4576,
+        "popularity": 1.7106,
         "profile_path": "/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
         "cast_id": 5,
         "character": "",
@@ -148,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Gayatri Gupta",
         "original_name": "Gayatri Gupta",
-        "popularity": 0.0935,
+        "popularity": 0.4416,
         "profile_path": "/aJlbNUzixI72ENmVQ1RSzLe2FTF.jpg",
         "cast_id": 6,
         "character": "",
@@ -162,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas Sreenu",
         "original_name": "Prabhas Sreenu",
-        "popularity": 0.2334,
+        "popularity": 1.3484,
         "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
         "cast_id": 7,
         "character": "",
@@ -176,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Fish Venkat",
         "original_name": "Fish Venkat",
-        "popularity": 0.2351,
+        "popularity": 0.6894,
         "profile_path": "/rPP4bQ9fo3GMVkxNQvQVO0UbPTT.jpg",
         "cast_id": 8,
         "character": "",
@@ -190,7 +197,7 @@
         "known_for_department": "Acting",
         "name": "Naira Shah",
         "original_name": "Naira Shah",
-        "popularity": 0.1118,
+        "popularity": 0.6084,
         "profile_path": "/dFvkBy22J7K87BfTDFmFga2uxDQ.jpg",
         "cast_id": 20,
         "character": "",
@@ -204,7 +211,7 @@
         "known_for_department": "Acting",
         "name": "Chammak Chandra",
         "original_name": "Chammak Chandra",
-        "popularity": 0.2707,
+        "popularity": 1.3289,
         "profile_path": "/xEtdW0GJozV3rIi2ZLJo4na7piE.jpg",
         "cast_id": 21,
         "character": "",
@@ -218,7 +225,7 @@
         "known_for_department": "Acting",
         "name": "Mani Chandana",
         "original_name": "Mani Chandana",
-        "popularity": 0.2009,
+        "popularity": 0.5266,
         "profile_path": "/xPbpUIfHKRPNAuT4xEQfM8dVIQg.jpg",
         "cast_id": 24,
         "character": "",
@@ -229,25 +236,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1834420,
-        "known_for_department": "Writing",
-        "name": "Diamond Ratnababu",
-        "original_name": "Diamond Ratnababu",
-        "popularity": 0.1646,
-        "profile_path": null,
-        "credit_id": "5d1377049251416ecbb93260",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 1729500,
         "known_for_department": "Art",
         "name": "Suresh Chinna",
         "original_name": "Suresh Chinna",
-        "popularity": 0.0256,
+        "popularity": 0.2747,
         "profile_path": null,
         "credit_id": "5d1377ac9251410c95b926c3",
         "department": "Art",
@@ -256,24 +250,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1834420,
-        "known_for_department": "Writing",
-        "name": "Diamond Ratnababu",
-        "original_name": "Diamond Ratnababu",
-        "popularity": 0.1646,
-        "profile_path": null,
-        "credit_id": "5d1376fe0e0a267b12cb80e3",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1339512,
         "known_for_department": "Editing",
         "name": "M. R. Varmaa",
         "original_name": "M. R. Varmaa",
-        "popularity": 0.2209,
+        "popularity": 0.3366,
         "profile_path": null,
         "credit_id": "5d1377bb925141524dc2d9ee",
         "department": "Editing",
@@ -282,24 +263,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1834420,
-        "known_for_department": "Writing",
-        "name": "Diamond Ratnababu",
-        "original_name": "Diamond Ratnababu",
-        "popularity": 0.1646,
-        "profile_path": null,
-        "credit_id": "5d1376dc0e0a267dcecb7377",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1267542,
         "known_for_department": "Sound",
         "name": "Sai Karthik",
         "original_name": "Sai Karthik",
-        "popularity": 0.1586,
+        "popularity": 0.3815,
         "profile_path": "/wKsLkQ3IeXMKpqdzF45zS8tvJYC.jpg",
         "credit_id": "5d13770fc3a36870fc1f9165",
         "department": "Sound",
@@ -312,11 +280,24 @@
         "known_for_department": "Writing",
         "name": "Diamond Ratnababu",
         "original_name": "Diamond Ratnababu",
-        "popularity": 0.1646,
+        "popularity": 0.7039,
         "profile_path": null,
-        "credit_id": "5d1376f7925141076abc10ca",
+        "credit_id": "5d1376dc0e0a267dcecb7377",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834420,
+        "known_for_department": "Writing",
+        "name": "Diamond Ratnababu",
+        "original_name": "Diamond Ratnababu",
+        "popularity": 0.7039,
+        "profile_path": null,
+        "credit_id": "5d1376fe0e0a267b12cb80e3",
         "department": "Writing",
-        "job": "Story"
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -325,11 +306,24 @@
         "known_for_department": "Camera",
         "name": "C. Ramprasad",
         "original_name": "C. Ramprasad",
-        "popularity": 0.1318,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "5d1377459251416e14b855e2",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834420,
+        "known_for_department": "Writing",
+        "name": "Diamond Ratnababu",
+        "original_name": "Diamond Ratnababu",
+        "popularity": 0.7039,
+        "profile_path": null,
+        "credit_id": "5d1376f7925141076abc10ca",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
@@ -338,11 +332,24 @@
         "known_for_department": "Production",
         "name": "Srikanth Deepala",
         "original_name": "Srikanth Deepala",
-        "popularity": 0.0071,
+        "popularity": 0.2753,
         "profile_path": null,
         "credit_id": "5d137750925141524dc2d9b4",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834420,
+        "known_for_department": "Writing",
+        "name": "Diamond Ratnababu",
+        "original_name": "Diamond Ratnababu",
+        "popularity": 0.7039,
+        "profile_path": null,
+        "credit_id": "5d1377049251416ecbb93260",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -351,7 +358,7 @@
         "known_for_department": "Writing",
         "name": "Tajuddin Syed",
         "original_name": "Tajuddin Syed",
-        "popularity": 0.0689,
+        "popularity": 0.424,
         "profile_path": null,
         "credit_id": "6035b69a223e20004003651b",
         "department": "Writing",
@@ -364,7 +371,7 @@
         "known_for_department": "Writing",
         "name": "Tajuddin Syed",
         "original_name": "Tajuddin Syed",
-        "popularity": 0.0689,
+        "popularity": 0.424,
         "profile_path": null,
         "credit_id": "6035b6cca14e10003ed06640",
         "department": "Writing",
@@ -372,35 +379,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt10286746",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2019-06-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "alternative_titles": {
     "titles": [
@@ -466,6 +449,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2019-06-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Clouds Of August",
   "overview": "A dental student reminisces various episodes in her life.",
-  "popularity": 0.0725,
+  "popularity": 0.6702,
   "poster_path": "/2b0GmiTBbReaYtBxhKweVWI2Ppc.jpg",
   "production_companies": [
     {
@@ -55,19 +55,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -77,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Chetana Buddhiraju",
         "original_name": "Chetana Buddhiraju",
-        "popularity": 0,
+        "popularity": 0.3922,
         "profile_path": null,
         "cast_id": 5,
         "character": "Nidhi",
@@ -91,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Sreeyansh Reddy",
         "original_name": "Sreeyansh Reddy",
-        "popularity": 0,
+        "popularity": 0.3529,
         "profile_path": null,
         "cast_id": 6,
         "character": "Rahul",
@@ -105,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sai Pokala",
         "original_name": "Varun Sai Pokala",
-        "popularity": 0,
+        "popularity": 0.4992,
         "profile_path": null,
         "cast_id": 7,
         "character": "RK",
@@ -119,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Neha Sathanapalli",
         "original_name": "Neha Sathanapalli",
-        "popularity": 0,
+        "popularity": 0.5474,
         "profile_path": null,
         "cast_id": 8,
         "character": "Pallavi",
@@ -133,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Souri Satya Saketh",
         "original_name": "Souri Satya Saketh",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 9,
         "character": "Raj",
@@ -144,25 +131,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 4022879,
-        "known_for_department": "Directing",
-        "name": "Amarthya Raj Chennamadhava",
-        "original_name": "Amarthya Raj",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6585420c5ca7045cfaf578d1",
-        "department": "Directing",
-        "job": "Assistant Director"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 4022877,
         "known_for_department": "Directing",
         "name": "Goutham Aitipamula",
         "original_name": "Goutham Aitipamula",
-        "popularity": 0.0389,
+        "popularity": 0.6662,
         "profile_path": null,
         "credit_id": "6585420028d7fe586539f3ea",
         "department": "Directing",
@@ -171,11 +145,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 4022879,
+        "known_for_department": "Directing",
+        "name": "Amarthya Raj Chennamadhava",
+        "original_name": "Amarthya Raj",
+        "popularity": 0.487,
+        "profile_path": null,
+        "credit_id": "6585420c5ca7045cfaf578d1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 3921323,
         "known_for_department": "Directing",
         "name": "Pranav Bellary",
         "original_name": "Pranav Bellary",
-        "popularity": 0,
+        "popularity": 0.4557,
         "profile_path": "/yh9ryYpUMUACDW77988p2uctszk.jpg",
         "credit_id": "6585484498f1f152b10a676b",
         "department": "Writing",
@@ -184,37 +171,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 3921323,
-        "known_for_department": "Directing",
-        "name": "Pranav Bellary",
-        "original_name": "Pranav Bellary",
-        "popularity": 0,
-        "profile_path": "/yh9ryYpUMUACDW77988p2uctszk.jpg",
-        "credit_id": "63ec6fc3699fb70096ada90a",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3921325,
-        "known_for_department": "Production",
-        "name": "Hemal Tummapudi",
-        "original_name": "Hemal Tummapudi",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "63ec6fe9813cb600794289d6",
-        "department": "Production",
-        "job": "Executive Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 3921324,
         "known_for_department": "Editing",
         "name": "Prabhath Reddy",
         "original_name": "Prabhath Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.3409,
         "profile_path": "/wTvXTEKZfmZyswMaguhSIpzzGTB.jpg",
         "credit_id": "63ec6fd6f9253200c3ffe7e5",
         "department": "Editing",
@@ -223,11 +184,37 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 3921325,
+        "known_for_department": "Production",
+        "name": "Hemal Tummapudi",
+        "original_name": "Hemal Tummapudi",
+        "popularity": 0.535,
+        "profile_path": null,
+        "credit_id": "63ec6fe9813cb600794289d6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921323,
+        "known_for_department": "Directing",
+        "name": "Pranav Bellary",
+        "original_name": "Pranav Bellary",
+        "popularity": 0.4557,
+        "profile_path": "/yh9ryYpUMUACDW77988p2uctszk.jpg",
+        "credit_id": "63ec6fc3699fb70096ada90a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 4020537,
         "known_for_department": "Crew",
         "name": "Dhruv Krishan",
         "original_name": "Dhruv Krishan",
-        "popularity": 0,
+        "popularity": 0.3537,
         "profile_path": null,
         "credit_id": "64415565fcec2e04bdd8f197",
         "department": "Crew",
@@ -240,7 +227,7 @@
         "known_for_department": "Acting",
         "name": "Varun Sai Pokala",
         "original_name": "Varun Sai Pokala",
-        "popularity": 0,
+        "popularity": 0.4992,
         "profile_path": null,
         "credit_id": "6441554efcec2e0491d8f3f2",
         "department": "Crew",
@@ -249,30 +236,36 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4020538,
+        "id": 4020539,
         "known_for_department": "Sound",
-        "name": "Rohan Reddy",
-        "original_name": "Rohan Reddy",
-        "popularity": 0.0732,
+        "name": "Ayman Saquib",
+        "original_name": "Ayman Saquib",
+        "popularity": 0.2652,
         "profile_path": null,
-        "credit_id": "644370f4b3f6f5049c9e5ad7",
+        "credit_id": "644370e4b3f6f5049c9e5acc",
         "department": "Sound",
         "job": "Music"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4020539,
+        "id": 4020538,
         "known_for_department": "Sound",
-        "name": "Ayman Saquib",
-        "original_name": "Ayman Saquib",
-        "popularity": 0.0143,
+        "name": "Rohan Reddy",
+        "original_name": "Rohan Reddy",
+        "popularity": 0.2593,
         "profile_path": null,
-        "credit_id": "644370e4b3f6f5049c9e5acc",
+        "credit_id": "644370f4b3f6f5049c9e5ad7",
         "department": "Sound",
         "job": "Music"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -291,8 +284,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
@@ -309,5 +306,8 @@
         "width": 1587
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

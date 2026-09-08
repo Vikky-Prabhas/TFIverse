@@ -34,7 +34,7 @@
   "original_language": "te",
   "original_title": "వాయుపుత్ర",
   "overview": "",
-  "popularity": 0.0478,
+  "popularity": 0.4597,
   "poster_path": "/8uCuTRuvN619sl00NTkLPOthN6T.jpg",
   "production_companies": [
     {
@@ -73,6 +73,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -83,7 +86,7 @@
         "known_for_department": "Writing",
         "name": "Chandoo Mondeti",
         "original_name": "Chandoo Mondeti",
-        "popularity": 0.2891,
+        "popularity": 0.8477,
         "profile_path": null,
         "credit_id": "68c1197574c5e036819c203e",
         "department": "Directing",
@@ -96,52 +99,13 @@
         "known_for_department": "Writing",
         "name": "Chandoo Mondeti",
         "original_name": "Chandoo Mondeti",
-        "popularity": 0.2891,
+        "popularity": 0.8477,
         "profile_path": null,
         "credit_id": "68c1199d79652a04e74e6c5c",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3355377,
-        "known_for_department": "Production",
-        "name": "Sai Soujanya",
-        "original_name": "Sai Soujanya",
-        "popularity": 0.1795,
-        "profile_path": null,
-        "credit_id": "68c119aacd29e6487206ac19",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1790294,
-        "known_for_department": "Production",
-        "name": "Suryadevara Naga Vamsi",
-        "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
-        "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
-        "credit_id": "68c119ca1db6f1cff898c9ba",
-        "department": "Production",
-        "job": "Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt38263122",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -160,6 +124,19 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt38263122",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -175,8 +152,5 @@
         "width": 1166
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

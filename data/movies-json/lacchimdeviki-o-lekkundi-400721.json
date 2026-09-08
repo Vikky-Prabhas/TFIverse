@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Lacchimdeviki O Lekkundi",
   "overview": "Devi works in a bank as cashier, and is very smart. Naveen works in the same bank at the help desk and likes her. Naveen wants to become rich in life and agrees to a gang’s plan to steal the data of unclaimed accounts. Apart from the Bank’s manager, only Devi has access to this data. He impresses her and gets close to her. One day he steals the data and hands it over to the gang headed by Mahesh. Using the details in the data, Mahesh wants to claim them. Rest of the story is how Naveen manages to escape from this trap and saves the money along with Devi.",
-  "popularity": 0.327,
+  "popularity": 2.0647,
   "poster_path": null,
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Chandra",
         "original_name": "Naveen Chandra",
-        "popularity": 0.8324,
+        "popularity": 1.6073,
         "profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Tripathi",
         "original_name": "Lavanya Tripathi",
-        "popularity": 0.326,
+        "popularity": 1.5245,
         "profile_path": "/fp31MLIjisF6MdWRBN3KQ9T8S3u.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Sampoornesh Babu",
         "original_name": "Sampoornesh Babu",
-        "popularity": 0.2087,
+        "popularity": 0.9853,
         "profile_path": "/8LUNhS7JGsv5YDIX3qBPJP3f1BI.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2912,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 6,
         "character": "",
@@ -150,24 +150,11 @@
         "known_for_department": "Writing",
         "name": "Jagadish Talasila",
         "original_name": "Jagadish Talasila",
-        "popularity": 0.0289,
+        "popularity": 0.3532,
         "profile_path": null,
         "credit_id": "580e187b925141712c01c608",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 225318,
-        "known_for_department": "Sound",
-        "name": "M.M. Keeravaani",
-        "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
-        "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
-        "credit_id": "59619abbc3a36825e80bc2b8",
-        "department": "Sound",
-        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -176,7 +163,7 @@
         "known_for_department": "Writing",
         "name": "Jagadish Talasila",
         "original_name": "Jagadish Talasila",
-        "popularity": 0.0289,
+        "popularity": 0.3532,
         "profile_path": null,
         "credit_id": "59619aa892514121f00ae2fb",
         "department": "Writing",
@@ -185,31 +172,28 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 225318,
+        "known_for_department": "Sound",
+        "name": "M.M. Keeravaani",
+        "original_name": "M.M. Keeravaani",
+        "popularity": 0.8047,
+        "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
+        "credit_id": "59619abbc3a36825e80bc2b8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1488793,
         "known_for_department": "Editing",
         "name": "Kotagiri Venkateswara Rao",
         "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2372,
+        "popularity": 0.4071,
         "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
         "credit_id": "59619adfc3a36828fc0b7c87",
         "department": "Editing",
         "job": "Editor"
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "LOL : Lacchimdeviki O Lekkundi Theatrical Trailer | Naveen Chandra | Lavanya Tripathi | Keeravani",
-        "key": "Dst69i_4zms",
-        "site": "YouTube",
-        "size": 1080,
-        "type": "Trailer",
-        "official": false,
-        "id": "59619d099251410b860ccae1",
-        "published_at": "2016-01-18T10:30:00.000Z"
       }
     ]
   },
@@ -219,12 +203,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -298,5 +276,27 @@
     ],
     "logos": [],
     "posters": []
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "LOL : Lacchimdeviki O Lekkundi Theatrical Trailer | Naveen Chandra | Lavanya Tripathi | Keeravani",
+        "key": "Dst69i_4zms",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "59619d099251410b860ccae1",
+        "published_at": "2016-01-18T10:30:00.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

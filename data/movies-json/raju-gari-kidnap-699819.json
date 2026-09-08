@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "రాజు గారి కిడ్నప్",
   "overview": "An aspiring director takes unusual path to get successful in his career as well as win over the love of his life.",
-  "popularity": 0.1041,
+  "popularity": 0.8896,
   "poster_path": "/4OMFb3aTvvkpssd9ROzaw3gb0PM.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Pavan Sidhu",
         "original_name": "Pavan Sidhu",
-        "popularity": 0.0143,
+        "popularity": 0.4992,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Anirudh Sameer",
         "original_name": "Anirudh Sameer",
-        "popularity": 0.0071,
+        "popularity": 0.3206,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Harika Varma Chekuri",
         "original_name": "Harika Varma Chekuri",
-        "popularity": 0.0917,
+        "popularity": 0.4014,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Amardeep Chowdary",
         "original_name": "Amardeep Chowdary",
-        "popularity": 0.0357,
+        "popularity": 0.3661,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -104,25 +104,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 1600,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/4OMFb3aTvvkpssd9ROzaw3gb0PM.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1200
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -143,5 +124,24 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4OMFb3aTvvkpssd9ROzaw3gb0PM.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

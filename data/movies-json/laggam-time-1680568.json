@@ -13,10 +13,15 @@
   "original_language": "te",
   "original_title": "Laggam Time",
   "overview": "Amid the chaos of a vibrant Telugu wedding, Surya races against Laggam Time to confess his love to the bride-to-be, only to trigger a groom's disappearance that sends the entire celebration into comic mayhem.",
-  "popularity": 0.1553,
+  "popularity": 0.4724,
   "poster_path": "/fnTm8GKULlaSCt7YKJv9mndVatc.jpg",
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2026-02-06",
   "revenue": 0,
   "runtime": 128,
@@ -43,13 +48,16 @@
   },
   "external_ids": {
     "imdb_id": "tt34464200",
-    "wikidata_id": null,
+    "wikidata_id": "Q138018478",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -102,8 +110,5 @@
         "width": 600
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

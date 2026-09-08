@@ -1,0 +1,274 @@
+{
+  "adult": false,
+  "backdrop_path": "/iOl3L2iRVPgmjIww55ZevC3VXBQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 480471,
+  "imdb_id": "tt6914498",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "​నేను కిడ్నాప్ అయ్యాను",
+  "overview": "A group of aspiring engineers struggling to get their ambitious project approved meet Dubey, an elite software legend who dismisses their project as being mediocre but employs them under bench period policy. Soon, the engineers discover that Dubey has deceived and betrayed them and to seek revenge they kidnap him but not literally.",
+  "popularity": 1.6343,
+  "poster_path": "/d6LQmB1C61xBAPe50MrgVaeTl3p.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2017-10-06",
+  "revenue": 0,
+  "runtime": 126,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nenu Kidnap Ayyaanu",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1643943,
+        "known_for_department": "Acting",
+        "name": "Aditi Singh",
+        "original_name": "Aditi Singh",
+        "popularity": 0.6388,
+        "profile_path": "/y2jWPlU670n1GCHLJtQ6y7ThHPn.jpg",
+        "cast_id": 1,
+        "character": "Miranda",
+        "credit_id": "6a880e474fb592f172883d6e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591153,
+        "known_for_department": "Acting",
+        "name": "Raghu Babu",
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
+        "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
+        "cast_id": 2,
+        "character": "Prabhavathi",
+        "credit_id": "6a88128888d32ed41b5cda72",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060290,
+        "known_for_department": "Acting",
+        "name": "Krishna Bhagavan",
+        "original_name": "Krishna Bhagavan",
+        "popularity": 1.5159,
+        "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a8812a08e6a4a33c0430b8d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 4,
+        "character": "Comedian",
+        "credit_id": "6a8812b37c2c8174d64b9375",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561321,
+        "known_for_department": "Sound",
+        "name": "Vishal Khurana",
+        "original_name": "Vishal Khurana",
+        "popularity": 0.2952,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Neo",
+        "credit_id": "6a8812f5d736fcefd984d249",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2049692,
+        "known_for_department": "Acting",
+        "name": "Harsha Krishna Murthy",
+        "original_name": "Harsha Krishna Murthy",
+        "popularity": 0.2942,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sumo",
+        "credit_id": "6a88130e1d6c0e8e65e65b5e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163230,
+        "known_for_department": "Acting",
+        "name": "Posani Krishna Murali",
+        "original_name": "Posani Krishna Murali",
+        "popularity": 1.5001,
+        "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
+        "cast_id": 7,
+        "character": "Hero",
+        "credit_id": "6a88131d0a4d24ce426e2c39",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429160,
+        "known_for_department": "Acting",
+        "name": "Prudhviraj",
+        "original_name": "Prudhviraj",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
+        "cast_id": 8,
+        "character": "Harischandra",
+        "credit_id": "6a881332f278e70f4ac39472",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6426600,
+        "known_for_department": "Directing",
+        "name": "Sreekarababu",
+        "original_name": "Sreekarababu",
+        "popularity": 0.636,
+        "profile_path": null,
+        "credit_id": "6a88138b8277effdf14b9192",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1632999,
+        "known_for_department": "Writing",
+        "name": "Diwakar Babu",
+        "original_name": "Diwakar Babu",
+        "popularity": 0.6247,
+        "profile_path": null,
+        "credit_id": "6a88148ff278e70f4ac39487",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Nenu Kidnap Ayyanu Movie Title Full Video Song - Srikanth, Mahima Kothari, Aditi Singh | Silly Monks",
+        "key": "a2FfLLg7L7E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "6a88151007eeff2aac44d4a1",
+        "published_at": "2017-10-06T06:37:51.000Z"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt6914498",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.78,
+        "height": 2157,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/iOl3L2iRVPgmjIww55ZevC3VXBQ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 1.364,
+        "height": 981,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ekwGM2X5CDkd0uq9oP3gX1F1GFs.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1338
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/d6LQmB1C61xBAPe50MrgVaeTl3p.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Crrush",
   "overview": "The plot revolves around the life of three youngsters. They dream to shift to America with a special desire.",
-  "popularity": 0.5625,
+  "popularity": 0.9031,
   "poster_path": "/clsrqgxP8KU6YBqB59BXmWg9kVm.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Burugula",
         "original_name": "Krishna Burugula",
-        "popularity": 0.13,
+        "popularity": 0.394,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Ankita Manoj",
         "original_name": "Ankita Manoj",
-        "popularity": 0.0327,
+        "popularity": 0.2902,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Parree Pande",
         "original_name": "Parree Pande",
-        "popularity": 0.0071,
+        "popularity": 0.3284,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Charan Sai",
         "original_name": "Charan Sai",
-        "popularity": 0.0071,
+        "popularity": 0.2782,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Abhay Simha Reddy",
         "original_name": "Abhay Simha Reddy",
-        "popularity": 0.0214,
+        "popularity": 0.5252,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Meesam Suresh",
         "original_name": "Meesam Suresh",
-        "popularity": 0.151,
+        "popularity": 0.4796,
         "profile_path": "/5sTaP4wTqf0uZ27fDttxvvQBjH6.jpg",
         "cast_id": 9,
         "character": "",
@@ -138,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Babu",
         "original_name": "Ravi Babu",
-        "popularity": 1.1606,
+        "popularity": 0.8019,
         "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
         "credit_id": "60edba450f0da5005fd2e04e",
         "department": "Directing",
@@ -147,40 +147,63 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 565889,
-        "known_for_department": "Acting",
-        "name": "Ravi Babu",
-        "original_name": "Ravi Babu",
-        "popularity": 1.1606,
-        "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
-        "credit_id": "60edba4cab1bc70074132715",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1450230,
         "known_for_department": "Writing",
         "name": "Satyanand Pydipalli",
         "original_name": "Satyanand Pydipalli",
-        "popularity": 0.251,
+        "popularity": 1.6152,
         "profile_path": null,
         "credit_id": "60edbb3e8c315900298a5aff",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565889,
+        "known_for_department": "Acting",
+        "name": "Ravi Babu",
+        "original_name": "Ravi Babu",
+        "popularity": 0.8019,
+        "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
+        "credit_id": "60edba4cab1bc70074132715",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2021-07-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt13979126",
-    "wikidata_id": null,
+    "wikidata_id": "Q131177769",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -238,28 +261,5 @@
         "width": 800
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2021-07-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

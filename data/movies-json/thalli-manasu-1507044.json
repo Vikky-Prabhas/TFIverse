@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Thalli Manasu",
   "overview": "Thalli Manasu is a heartfelt family drama that follows a middle-class mother`s emotional journey as she navigates the challenges of family life. Set in a relatable backdrop, the film captures her struggles, sacrifices, and unwavering resilience to keep her family united.",
-  "popularity": 0.1257,
+  "popularity": 1.4634,
   "poster_path": "/rDsV2EnRwyp5N91Zh9wWXlZWVQD.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,15 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "credits": {
     "cast": [
       {
@@ -48,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Rachitha Mahalakshmi",
         "original_name": "Rachitha Mahalakshmi",
-        "popularity": 0.0544,
+        "popularity": 0.5162,
         "profile_path": "/ymSkJUQzWzidrJvat3K45xvOh7s.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2519,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Aadarsh Balakrishna",
         "original_name": "Aadarsh Balakrishna",
-        "popularity": 0.2649,
+        "popularity": 0.9862,
         "profile_path": "/rOmqQfm3ArplVU37PXhlOeUo7aW.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Sathvik Varma",
         "original_name": "Sathvik Varma",
-        "popularity": 0.2376,
+        "popularity": 0.5434,
         "profile_path": "/61GWgnQ3qTeULLhMHbdHVlZ2xg.jpg",
         "cast_id": 4,
         "character": "",
@@ -104,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Jabardasth Phani",
         "original_name": "Jabardasth Phani",
-        "popularity": 0.053,
+        "popularity": 0.4582,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -118,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Prakash",
         "original_name": "Ravi Prakash",
-        "popularity": 0.4177,
+        "popularity": 1.2094,
         "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
         "cast_id": 6,
         "character": "",
@@ -134,7 +143,7 @@
         "known_for_department": "Directing",
         "name": "V Sreenivas",
         "original_name": "V Sreenivas",
-        "popularity": 0.0071,
+        "popularity": 0.31,
         "profile_path": null,
         "credit_id": "68649cda8c95d1c49a8c2458",
         "department": "Directing",
@@ -142,35 +151,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt34442437",
-    "wikidata_id": null,
+    "wikidata_id": "Q131937859",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-01-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -219,7 +205,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

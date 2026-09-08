@@ -154,7 +154,7 @@ Monthly Cost: ~₹650-1200
 **How it works:**
 1. **19 categories, 28 subcategories** — Heroes, Heroines, Directors, Music Directors, Villains, Comedians, Character Artists, Singers, Producers, Cinematographers, Editors, Lyricists, Choreographers, Stunt Directors, Art Directors, Costume Designers, Line Producers, VFX Supervisors, PROs.
 2. **Universal rendering engine** — One set of page components handles ALL categories. The `[category]` and `[slug]` dynamic routes fetch from the `people` table via Drizzle.
-3. **Data source** — Originally 28 JSON files in `src/data/`. All migrated to PostgreSQL `people` table. JSON files kept as backup.
+3. **Data source** — Scanned `src/data/heroes.json` and 28 profile JSON files in `public/data/` across 19 categories. Seeded into PostgreSQL `people` table using singular category keys (`hero`, `heroine`, `director`, `music-director`, `villain`, `comedian`, etc.) via `scripts/seed-icons-from-json.ts`.
 4. **Icons Hub page** (`/icons`) — Premium cinematic layout with: "The Pillars" bento grid (Heroes, Heroines, Directors, Music Directors), "The Cast" list view, "The Crew" pill buttons, "Contribute to the Archives" CTA.
 5. **Individual profiles** — TMDB integration for photos, filmography. Follow/unfollow functionality via `people_follows` table.
 

@@ -30,7 +30,7 @@
   "original_language": "te",
   "original_title": "Vegam Shakatam",
   "overview": "Murari, a normal car driver for a celebrity, gets caught by the police for over speeding in that celebrity’s car. To get that car back, he needs to help the police to catch a criminal and clear a case that is going on between two Telugu states.",
-  "popularity": 0.0482,
+  "popularity": 0.4118,
   "poster_path": "/dtgAwnoRNqaqkVBnOtrScsOksq1.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Nikhith",
         "original_name": "Nikhith",
-        "popularity": 0.0393,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 1,
         "character": "Murari",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Bandaru Venkata Chandu",
         "original_name": "Bandaru Venkata Chandu",
-        "popularity": 0.0614,
+        "popularity": 0.25,
         "profile_path": null,
         "cast_id": 2,
         "character": "Vijay",
@@ -95,7 +95,7 @@
         "known_for_department": "Directing",
         "name": "Balaji Veeraplendra",
         "original_name": "Balaji Veeraplendra",
-        "popularity": 0.0218,
+        "popularity": 0.2559,
         "profile_path": "/fWF5tp5FuLyxHIuF5BLnfEudMVf.jpg",
         "credit_id": "69ee291edbbc3b362ab4f157",
         "department": "Directing",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Balaji Veeraplendra",
         "original_name": "Balaji Veeraplendra",
-        "popularity": 0.0218,
+        "popularity": 0.2559,
         "profile_path": "/fWF5tp5FuLyxHIuF5BLnfEudMVf.jpg",
         "credit_id": "69ee2932dc5d09756328deeb",
         "department": "Writing",
@@ -121,7 +121,7 @@
         "known_for_department": "Crew",
         "name": "Akhil Kannepalli",
         "original_name": "Akhil Kannepalli",
-        "popularity": 0,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "69ee294a09d9b6a36bb4f1e1",
         "department": "Crew",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Shamanth Sarikonda",
         "original_name": "Shamanth Sarikonda",
-        "popularity": 0,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "69ee295e292b674dedb4f382",
         "department": "Sound",
@@ -147,7 +147,7 @@
         "known_for_department": "Directing",
         "name": "Jashwanth Challa",
         "original_name": "Jashwanth Challa",
-        "popularity": 0.0389,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69ee299260bbf09914029480",
         "department": "Directing",
@@ -160,7 +160,7 @@
         "known_for_department": "Sound",
         "name": "N. Krishna Vamshi",
         "original_name": "N. Krishna Vamshi",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": "/klCht1FzJ6MSBLrdrl9yNlPEXO5.jpg",
         "credit_id": "69ee29c6efc287ff9c936560",
         "department": "Sound",
@@ -173,7 +173,7 @@
         "known_for_department": "Visual Effects",
         "name": "Monish Verma",
         "original_name": "Monish Verma",
-        "popularity": 0.0614,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69ee29e230f9cd98d728da87",
         "department": "Visual Effects",
@@ -186,7 +186,7 @@
         "known_for_department": "Visual Effects",
         "name": "Anirudh Rapelly",
         "original_name": "Anirudh Rapelly",
-        "popularity": 0.0379,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "69ee29f31c80abe334dc875e",
         "department": "Visual Effects",
@@ -217,6 +217,9 @@
     "instagram_id": "thefilm.vs",
     "twitter_id": "TheBalajiV"
   },
+  "release_dates": {
+    "results": []
+  },
   "keywords": {
     "keywords": [
       {
@@ -229,8 +232,8 @@
       }
     ]
   },
-  "release_dates": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -258,8 +261,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

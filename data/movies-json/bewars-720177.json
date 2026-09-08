@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "బేవార్స్",
   "overview": "Lucky(Sanjosh), is nicknamed Bewars for his aimless attitude to life by his father with whom he has regular squabbles about following his passion in becoming a pilot. In a turn of events, Lucky finds out that his sister(Siri) has committed suicide, albeit suspiciously.",
-  "popularity": 0.2269,
+  "popularity": 0.4468,
   "poster_path": "/xKcctUpjUDz5wK5GoNHJXnxRD2k.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -32,35 +32,12 @@
     "cast": [],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt9089504",
-    "wikidata_id": null,
+    "wikidata_id": "Q77518311",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-10-12T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -86,6 +63,29 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-10-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

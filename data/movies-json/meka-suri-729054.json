@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మేక సూరి",
   "overview": "Meka Suri is a 2020 ZEE5 Original Telugu crime thriller movie, starring Abhinay and Sumaya in the lead. The story revolves around Meka Suri, a butcher, who gets married to his love, Rani. However, when Rani gets brutally murdered by a group of people, Meka Suri decides to avenge her death with the help of Naxalites.",
-  "popularity": 0.2582,
+  "popularity": 0.6965,
   "poster_path": "/kzGNlXPH6mx90k5UjX5yFsn7lK6.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Abhinay",
         "original_name": "Abhinay",
-        "popularity": 0.2582,
+        "popularity": 0.9408,
         "profile_path": "/zdSY2nEFyOSZGCMGpZ4dvh5I1zq.jpg",
         "cast_id": 2,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sumaya Syed",
         "original_name": "Sumaya Syed",
-        "popularity": 0.0368,
+        "popularity": 0.3642,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Naresh Byreddy",
         "original_name": "Naresh Byreddy",
-        "popularity": 0.0071,
+        "popularity": 0.3295,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Sharat Kumar",
         "original_name": "Sharat Kumar",
-        "popularity": 0.0071,
+        "popularity": 0.3434,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -115,7 +115,7 @@
         "known_for_department": "Directing",
         "name": "Trinadh Velisila",
         "original_name": "Trinadh Velisila",
-        "popularity": 0.0256,
+        "popularity": 0.2862,
         "profile_path": null,
         "credit_id": "5f240ff4d75bd60037f83401",
         "department": "Directing",
@@ -123,21 +123,15 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "external_ids": {
     "imdb_id": "tt12747588",
-    "wikidata_id": null,
+    "wikidata_id": "Q101245053",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -156,6 +150,9 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -171,5 +168,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

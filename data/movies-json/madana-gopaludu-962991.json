@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Madana Gopaludu",
   "overview": "Madana Gopaludu is a 1987 Indian Telugu film, directed by PS Krishna Mohan Reddy and produced by V. Ramakrishna and C. Surendranath Reddy. The film stars Rajendra Prasad, Ramya Krishna and Gollapudi and Maruthi Rao in lead roles. The music of the film was composed by Raj-Koti.",
-  "popularity": 0.0441,
+  "popularity": 0.4388,
   "poster_path": "/7xzHQY1nDSUZX0QrRLtYK6bzCqA.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt8752194",
+    "wikidata_id": "Q25999729",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -38,7 +45,7 @@
         "known_for_department": "Directing",
         "name": "P.S. Mohan Reddy",
         "original_name": "P.S. Mohan Reddy",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "62596fede0ec511959245a97",
         "department": "Directing",
@@ -49,12 +56,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt8752194",
-    "wikidata_id": "Q25999729",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -72,9 +75,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -103,7 +103,7 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   }
 }

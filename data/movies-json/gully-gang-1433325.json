@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Gully Gang",
   "overview": "A film about a boy who doesn't know how to love and the difficulties he faces when he begins to fall in love with the support of his friends. Based on real events, this is a story of innocent love in a small town.",
-  "popularity": 0.0214,
+  "popularity": 0.5139,
   "poster_path": "/faxF6tJc5NdRrLS1baO7Uzv83dh.jpg",
   "production_companies": [
     {
@@ -59,15 +59,24 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt13369990",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
-  "keywords": {
-    "keywords": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/faxF6tJc5NdRrLS1baO7Uzv83dh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -86,11 +95,18 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt13369990",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "credits": {
     "cast": [
@@ -101,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Sameerdatta",
         "original_name": "Sameerdatta",
-        "popularity": 0.0071,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 1,
         "character": "Sreenu",
@@ -115,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Shivanya Meharara",
         "original_name": "Shivanya Meharara",
-        "popularity": 0,
+        "popularity": 0.253,
         "profile_path": null,
         "cast_id": 2,
         "character": "Kumari",
@@ -129,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "Sudhiksha Jha",
         "original_name": "Sudhiksha Jha",
-        "popularity": 0.0261,
+        "popularity": 0.2902,
         "profile_path": null,
         "cast_id": 3,
         "character": "Sandhya",
@@ -143,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Mandala Vijaya Baskar",
         "original_name": "Mandala Vijaya Baskar",
-        "popularity": 0,
+        "popularity": 0.2905,
         "profile_path": null,
         "cast_id": 4,
         "character": "Malli",
@@ -157,7 +173,7 @@
         "known_for_department": "Acting",
         "name": "Daya Narsing",
         "original_name": "Daya Narsing",
-        "popularity": 0,
+        "popularity": 0.2538,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -171,7 +187,7 @@
         "known_for_department": "Acting",
         "name": "Muktevi Prakasarao",
         "original_name": "Muktevi Prakasarao",
-        "popularity": 0,
+        "popularity": 0.241,
         "profile_path": null,
         "cast_id": 6,
         "character": "Samba",
@@ -185,7 +201,7 @@
         "known_for_department": "Acting",
         "name": "Ammulu",
         "original_name": "Ammulu",
-        "popularity": 0,
+        "popularity": 0.2498,
         "profile_path": null,
         "cast_id": 7,
         "character": "Sampengi",
@@ -199,7 +215,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Sriramula",
         "original_name": "Mallikarjuna Sriramula",
-        "popularity": 0,
+        "popularity": 0.2865,
         "profile_path": null,
         "cast_id": 8,
         "character": "Yadav",
@@ -213,7 +229,7 @@
         "known_for_department": "Acting",
         "name": "Balu Bramha",
         "original_name": "Balu Bramha",
-        "popularity": 0,
+        "popularity": 0.3368,
         "profile_path": null,
         "cast_id": 9,
         "character": "Mubarak",
@@ -227,7 +243,7 @@
         "known_for_department": "Acting",
         "name": "M. VijayaBhaskar",
         "original_name": "M. VijayaBhaskar",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 10,
         "character": "Malli",
@@ -241,7 +257,7 @@
         "known_for_department": "Acting",
         "name": "Santhu Jakkula",
         "original_name": "Santhu Jakkula",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 11,
         "character": "Tirupathi G",
@@ -255,7 +271,7 @@
         "known_for_department": "Acting",
         "name": "Kuna Mallesh",
         "original_name": "Kuna Mallesh",
-        "popularity": 0,
+        "popularity": 0.2513,
         "profile_path": null,
         "cast_id": 12,
         "character": "Dhasu",
@@ -271,7 +287,7 @@
         "known_for_department": "Directing",
         "name": "Vinay Tambireddy",
         "original_name": "Vinay Tambireddy",
-        "popularity": 0,
+        "popularity": 0.2757,
         "profile_path": null,
         "credit_id": "67acf02f2375bfc5f6d0ab10",
         "department": "Directing",
@@ -284,7 +300,7 @@
         "known_for_department": "Writing",
         "name": "Mallarapu Kumar",
         "original_name": "Mallarapu Kumar",
-        "popularity": 0,
+        "popularity": 0.2367,
         "profile_path": null,
         "credit_id": "67acf0392375bfc5f6d0ab1e",
         "department": "Writing",
@@ -297,7 +313,7 @@
         "known_for_department": "Crew",
         "name": "Rajesh Avala",
         "original_name": "Rajesh Avala",
-        "popularity": 0.0071,
+        "popularity": 0.2551,
         "profile_path": null,
         "credit_id": "67acf0482375bfc5f6d0ab2e",
         "department": "Crew",
@@ -310,7 +326,7 @@
         "known_for_department": "Sound",
         "name": "Kandakatla Ramakrishna",
         "original_name": "Kandakatla Ramakrishna",
-        "popularity": 0,
+        "popularity": 0.2603,
         "profile_path": null,
         "credit_id": "67acf051a58cead38d9f3d78",
         "department": "Sound",
@@ -323,27 +339,11 @@
         "known_for_department": "Editing",
         "name": "Shiva Sarvani",
         "original_name": "Shiva Sarvani",
-        "popularity": 0.0579,
+        "popularity": 0.2777,
         "profile_path": null,
         "credit_id": "67acf05b3e4967e13e36d308",
         "department": "Editing",
         "job": "Editor"
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1500,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/faxF6tJc5NdRrLS1baO7Uzv83dh.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
       }
     ]
   }

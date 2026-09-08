@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గాడ్సే",
   "overview": "Vyshali, the assistant superintendent of police, is forcefully tasked to deal with unknown kidnapper Godse, who holds some high-profile personalities as hostages. Why did he kidnap them, what are his demands, and what does he want to achieve?",
-  "popularity": 0.4584,
+  "popularity": 0.8044,
   "poster_path": "/cR9NesoY99WGQtQPViwbbthAWnt.jpg",
   "production_companies": [
     {
@@ -54,7 +54,10 @@
   "title": "Godse",
   "video": false,
   "vote_average": 4.6,
-  "vote_count": 9,
+  "vote_count": 10,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +66,8 @@
         "id": 1546410,
         "known_for_department": "Acting",
         "name": "Satyadev Kancharana",
-        "original_name": "Satyadev Kancharana",
-        "popularity": 0.4233,
+        "original_name": "సత్యదేవ్ కంచరన",
+        "popularity": 1.1478,
         "profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
         "cast_id": 1,
         "character": "Godse",
@@ -78,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Aishwarya Lekshmi",
         "original_name": "Aishwarya Lekshmi",
-        "popularity": 3.4008,
-        "profile_path": "/nWBRXghGE5UAPf0EWxmlI3DxtcB.jpg",
+        "popularity": 2.6463,
+        "profile_path": "/b3yxjhc62X0JZghaRTYNMVrI78a.jpg",
         "cast_id": 2,
         "character": "Vyshali",
         "credit_id": "604847b11d78f20043e26634",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,8 +109,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 18,
         "character": "",
         "credit_id": "61c059dafcadb4001c2bea3b",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Mathew Varghese",
         "original_name": "Mathew Varghese",
-        "popularity": 0.4348,
+        "popularity": 1.3024,
         "profile_path": "/yfC4N6Hyj4bM6IVYeZvu4SftdwQ.jpg",
         "cast_id": 19,
         "character": "",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 20,
         "character": "",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5935,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 21,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.4209,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 22,
         "character": "",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Chaitanya Krishna",
         "original_name": "Chaitanya Krishna",
-        "popularity": 0.2136,
+        "popularity": 0.7995,
         "profile_path": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg",
         "cast_id": 23,
         "character": "",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Noel Sean",
         "original_name": "Noel Sean",
-        "popularity": 0.2314,
+        "popularity": 0.4203,
         "profile_path": null,
         "cast_id": 24,
         "character": "Raghav",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Guru Charan",
         "original_name": "Guru Charan",
-        "popularity": 0.0214,
+        "popularity": 0.3353,
         "profile_path": null,
         "cast_id": 25,
         "character": "",
@@ -218,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Manava Koteswara Rao",
         "original_name": "Manava Koteswara Rao",
-        "popularity": 0.1948,
+        "popularity": 0.4314,
         "profile_path": "/ecCtEZvA1gOqqFqE0olnoXNsp3N.jpg",
         "cast_id": 15,
         "character": "",
@@ -232,7 +235,7 @@
         "known_for_department": "Acting",
         "name": "Sijju Menon",
         "original_name": "Sijju Menon",
-        "popularity": 0.0327,
+        "popularity": 0.5649,
         "profile_path": null,
         "cast_id": 16,
         "character": "",
@@ -246,7 +249,7 @@
         "known_for_department": "Acting",
         "name": "Jia Sharma",
         "original_name": "Jia Sharma",
-        "popularity": 0.1665,
+        "popularity": 0.9028,
         "profile_path": "/zxg99jsVpywoCNzuDQiTwmcYd0z.jpg",
         "cast_id": 30,
         "character": "Shalini",
@@ -260,7 +263,7 @@
         "known_for_department": "Acting",
         "name": "Santosh Pavan",
         "original_name": "Santosh Pavan",
-        "popularity": 0,
+        "popularity": 0.4057,
         "profile_path": null,
         "cast_id": 31,
         "character": "",
@@ -272,15 +275,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1669179,
-        "known_for_department": "Production",
-        "name": "Kalyan C",
-        "original_name": "Kalyan C",
-        "popularity": 0.0722,
+        "id": 1785005,
+        "known_for_department": "Art",
+        "name": "Brahma Kadali",
+        "original_name": "Brahma Kadali",
+        "popularity": 0.3197,
         "profile_path": null,
-        "credit_id": "60484801439be100583b72be",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "604855109e4586005a72580c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2203941,
+        "known_for_department": "Directing",
+        "name": "Gopi Ganesh",
+        "original_name": "Gopi Ganesh",
+        "popularity": 0.4187,
+        "profile_path": null,
+        "credit_id": "6048481d84f249005a58598e",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -289,7 +305,7 @@
         "known_for_department": "Sound",
         "name": "Sunil Kashyap",
         "original_name": "Sunil Kashyap",
-        "popularity": 0.1148,
+        "popularity": 0.3023,
         "profile_path": null,
         "credit_id": "6048543b8741c4002b9d57f8",
         "department": "Sound",
@@ -298,50 +314,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2203941,
-        "known_for_department": "Directing",
-        "name": "Gopi Ganesh",
-        "original_name": "Gopi Ganesh",
-        "popularity": 0.1149,
-        "profile_path": null,
-        "credit_id": "6048481d84f249005a58598e",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2203941,
-        "known_for_department": "Directing",
-        "name": "Gopi Ganesh",
-        "original_name": "Gopi Ganesh",
-        "popularity": 0.1149,
-        "profile_path": null,
-        "credit_id": "6048482fcedac400454ccc8b",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2203941,
-        "known_for_department": "Directing",
-        "name": "Gopi Ganesh",
-        "original_name": "Gopi Ganesh",
-        "popularity": 0.1149,
-        "profile_path": null,
-        "credit_id": "604848276cf3d50070604b04",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 2099002,
         "known_for_department": "Crew",
         "name": "Naba",
         "original_name": "Naba",
-        "popularity": 0.1352,
+        "popularity": 0.2958,
         "profile_path": null,
         "credit_id": "604855001d78f20025abc1bb",
         "department": "Crew",
@@ -354,7 +331,7 @@
         "known_for_department": "Directing",
         "name": "Gopi Ganesh",
         "original_name": "Gopi Ganesh",
-        "popularity": 0.1149,
+        "popularity": 0.4187,
         "profile_path": null,
         "credit_id": "60485565cedac4002a12a90b",
         "department": "Writing",
@@ -362,16 +339,42 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1785005,
-        "known_for_department": "Art",
-        "name": "Brahma Kadali",
-        "original_name": "Brahma Kadali",
-        "popularity": 0.1882,
+        "gender": 2,
+        "id": 2203941,
+        "known_for_department": "Directing",
+        "name": "Gopi Ganesh",
+        "original_name": "Gopi Ganesh",
+        "popularity": 0.4187,
         "profile_path": null,
-        "credit_id": "604855109e4586005a72580c",
-        "department": "Art",
-        "job": "Production Design"
+        "credit_id": "604848276cf3d50070604b04",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669179,
+        "known_for_department": "Production",
+        "name": "Kalyan C",
+        "original_name": "Kalyan C",
+        "popularity": 0.2652,
+        "profile_path": null,
+        "credit_id": "60484801439be100583b72be",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2203941,
+        "known_for_department": "Directing",
+        "name": "Gopi Ganesh",
+        "original_name": "Gopi Ganesh",
+        "popularity": 0.4187,
+        "profile_path": null,
+        "credit_id": "6048482fcedac400454ccc8b",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -380,7 +383,7 @@
         "known_for_department": "Sound",
         "name": "Sandy Addanki",
         "original_name": "Sandy Addanki",
-        "popularity": 0.0071,
+        "popularity": 0.2819,
         "profile_path": null,
         "credit_id": "62a2159b53866e4f7f9e8c97",
         "department": "Sound",
@@ -393,7 +396,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.2919,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "62a21507528b2e0051c8e545",
         "department": "Crew",
@@ -406,7 +409,7 @@
         "known_for_department": "Editing",
         "name": "Sagar Udagandla",
         "original_name": "Sagar Udagandla",
-        "popularity": 0,
+        "popularity": 0.3063,
         "profile_path": null,
         "credit_id": "62a2157185005d0067632eea",
         "department": "Editing",
@@ -419,7 +422,7 @@
         "known_for_department": "Camera",
         "name": "Suresh Sarangam",
         "original_name": "Suresh Sarangam",
-        "popularity": 0.1121,
+        "popularity": 0.3123,
         "profile_path": null,
         "credit_id": "61924d68c4ad59008c7c9cb8",
         "department": "Camera",
@@ -427,8 +430,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt15509164",
@@ -436,9 +439,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -454,20 +454,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "God-se",
-        "type": "Alternate"
-      },
-      {
-        "iso_3166_1": "TH",
-        "title": "Godse: กระชากอยุติธรรม",
-        "type": ""
       }
     ]
   },
@@ -626,6 +612,20 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 676
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "God-se",
+        "type": "Alternate"
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "Godse: กระชากอยุติธรรม",
+        "type": ""
       }
     ]
   }

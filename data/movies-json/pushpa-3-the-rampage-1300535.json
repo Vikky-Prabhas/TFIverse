@@ -4,7 +4,7 @@
   "belongs_to_collection": {
     "id": 921781,
     "name": "Pushpa Collection",
-    "poster_path": "/qvQ2GNhsThV7NYvYxtyBAUSC7u4.jpg",
+    "poster_path": "/30xuqaxHYQpXIqBM361Gw04W1JR.jpg",
     "backdrop_path": "/ytv0N5a2UonbLubOf4jwRnXbRf.jpg"
   },
   "budget": 0,
@@ -28,15 +28,15 @@
   ],
   "homepage": "",
   "id": 1300535,
-  "imdb_id": null,
+  "imdb_id": "tt34915500",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "పుష్ప 3 - The Rampage",
   "overview": "",
-  "popularity": 0.8341,
-  "poster_path": "/nfzhWS8XvZJsebvF0S60duw9oQi.jpg",
+  "popularity": 1.3467,
+  "poster_path": null,
   "production_companies": [
     {
       "id": 69125,
@@ -68,6 +68,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -77,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Allu Arjun",
         "original_name": "అల్లు అర్జున్",
-        "popularity": 2.5039,
+        "popularity": 3.2405,
         "profile_path": "/wHr3bKhYpiDiYVMZLZqebeauEVw.jpg",
         "cast_id": 22,
         "character": "Pushpa Raj",
@@ -90,9 +93,9 @@
         "id": 1752056,
         "known_for_department": "Acting",
         "name": "Rashmika Mandanna",
-        "original_name": "Rashmika Mandanna",
-        "popularity": 4.0772,
-        "profile_path": "/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg",
+        "original_name": "రష్మిక మందన్న",
+        "popularity": 2.4585,
+        "profile_path": "/wr60ZDcMfYRPU6IM3PrsaOCw5ZV.jpg",
         "cast_id": 4,
         "character": "Srivalli",
         "credit_id": "67525d85ab6cc3a4c8fc7865",
@@ -105,7 +108,7 @@
         "known_for_department": "Acting",
         "name": "Fahadh Faasil",
         "original_name": "Fahadh Faasil",
-        "popularity": 1.868,
+        "popularity": 7.5279,
         "profile_path": "/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg",
         "cast_id": 20,
         "character": "Bhanwar Singh Shekhawat",
@@ -119,7 +122,7 @@
         "known_for_department": "Acting",
         "name": "Jagadeesh Bandari",
         "original_name": "Jagadeesh Bandari",
-        "popularity": 0.0615,
+        "popularity": 0.1559,
         "profile_path": "/cntovFhpWby0XJdMszCJCTrLk2g.jpg",
         "cast_id": 11,
         "character": "Kesava",
@@ -132,8 +135,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 5,
         "character": "Bhumireddy Siddappa Naidu",
@@ -147,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 6,
         "character": "Molleti Mohan Raj",
@@ -161,7 +164,7 @@
         "known_for_department": "Acting",
         "name": "Kalpalatha",
         "original_name": "Kalpalatha",
-        "popularity": 0.3378,
+        "popularity": 0.8977,
         "profile_path": "/j3sKWeC05kHdnpOmCgbv1XBaQt8.jpg",
         "cast_id": 10,
         "character": "Parvathamma",
@@ -175,7 +178,7 @@
         "known_for_department": "Acting",
         "name": "Pavani Karanam",
         "original_name": "Pavani Karanam",
-        "popularity": 0.2598,
+        "popularity": 1.0926,
         "profile_path": "/v6U8bCFGs6PmYnYoiB6XbEtBtDc.jpg",
         "cast_id": 8,
         "character": "Molleti Kaveri",
@@ -189,7 +192,7 @@
         "known_for_department": "Acting",
         "name": "Shri Tej",
         "original_name": "Shri Tej",
-        "popularity": 0.3759,
+        "popularity": 0.4411,
         "profile_path": "/y6dgQSfgby9axsePHsXnHRPHSH1.jpg",
         "cast_id": 9,
         "character": "Molleti Dharma Raj",
@@ -205,7 +208,7 @@
         "known_for_department": "Directing",
         "name": "Sukumar",
         "original_name": "Sukumar",
-        "popularity": 0.4445,
+        "popularity": 0.5782,
         "profile_path": "/jUnBwmEjf82UxUDQpJI0CwscfHC.jpg",
         "credit_id": "67525d0c516edeab29992ff7",
         "department": "Directing",
@@ -218,7 +221,7 @@
         "known_for_department": "Directing",
         "name": "Sukumar",
         "original_name": "Sukumar",
-        "popularity": 0.4445,
+        "popularity": 0.5782,
         "profile_path": "/jUnBwmEjf82UxUDQpJI0CwscfHC.jpg",
         "credit_id": "67525e2cfa107dc4ed4045bd",
         "department": "Writing",
@@ -231,7 +234,7 @@
         "known_for_department": "Editing",
         "name": "Naveen Nooli",
         "original_name": "Naveen Nooli",
-        "popularity": 0.3389,
+        "popularity": 0.5164,
         "profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
         "credit_id": "68a91531913bc2bd421e46fa",
         "department": "Editing",
@@ -244,7 +247,7 @@
         "known_for_department": "Production",
         "name": "Naveen Yerneni",
         "original_name": "Naveen Yerneni",
-        "popularity": 0.2054,
+        "popularity": 0.3721,
         "profile_path": "/iestiUKLGHblxeQtI0DF5ENCxLW.jpg",
         "credit_id": "68a9157667751769309da65f",
         "department": "Production",
@@ -257,7 +260,7 @@
         "known_for_department": "Production",
         "name": "Y. Ravi Shankar",
         "original_name": "Y. Ravi Shankar",
-        "popularity": 0.1606,
+        "popularity": 0.5174,
         "profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
         "credit_id": "68a91597e4116d49266cdcb2",
         "department": "Production",
@@ -270,7 +273,7 @@
         "known_for_department": "Writing",
         "name": "Chandrabose",
         "original_name": "Chandrabose",
-        "popularity": 0.14,
+        "popularity": 1.0259,
         "profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
         "credit_id": "68a916079639cb5f1066fb1e",
         "department": "Writing",
@@ -283,7 +286,7 @@
         "known_for_department": "Sound",
         "name": "Devi Sri Prasad",
         "original_name": "Devi Sri Prasad",
-        "popularity": 0.53,
+        "popularity": 0.7253,
         "profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
         "credit_id": "68ad37b76f28d8c39d8d2a1b",
         "department": "Sound",
@@ -296,7 +299,7 @@
         "known_for_department": "Camera",
         "name": "Mirosław Kuba Brożek",
         "original_name": "Mirosław Kuba Brożek",
-        "popularity": 0.2471,
+        "popularity": 0.3957,
         "profile_path": "/xmuF6RgOYLM0asNqmNElfeV3DJW.jpg",
         "credit_id": "694c0a8f7dd2d5a76115453a",
         "department": "Camera",
@@ -304,11 +307,11 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
-    "imdb_id": null,
+    "imdb_id": "tt34915500",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
@@ -317,44 +320,10 @@
   "release_dates": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1467,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/nfzhWS8XvZJsebvF0S60duw9oQi.jpg",
-        "vote_average": 3.334,
-        "vote_count": 2,
-        "width": 978
-      },
-      {
-        "aspect_ratio": 0.666,
-        "height": 1280,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/8qA9YwgNABjSFhZKXBzCW3YSJ8F.jpg",
-        "vote_average": 0.166,
-        "vote_count": 2,
-        "width": 853
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 1467,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/h1Hu7Cuc2zRua2q0jV6SpIH3tzR.jpg",
-        "vote_average": 0.166,
-        "vote_count": 2,
-        "width": 978
-      }
-    ]
+    "posters": []
   },
   "alternative_titles": {
     "titles": []

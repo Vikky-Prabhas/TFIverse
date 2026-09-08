@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఆవకాయ బిర్యాని",
   "overview": "A coming of age story of a man and a woman from diverse social backgrounds, faiths and aspirations.",
-  "popularity": 0.3725,
+  "popularity": 1.9576,
   "poster_path": "/3rOa4z880JuvE65YL6dkfh9MXgt.jpg",
   "production_companies": [
     {
@@ -55,6 +55,22 @@
   "video": false,
   "vote_average": 7.3,
   "vote_count": 3,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Avakai Biryani - Trailer 1",
+        "key": "CChq56sEu4M",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5cdd697c9251417660d0a0e8",
+        "published_at": "2008-10-04T15:57:30.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Kamaraju",
         "original_name": "Kamal Kamaraju",
-        "popularity": 0.2375,
+        "popularity": 1.0631,
         "profile_path": "/dzRe0pHRcBHTKJCGcMFjPJ0K8Fp.jpg",
         "cast_id": 2,
         "character": "Akbar Kalam",
@@ -78,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Bindu Madhavi",
         "original_name": "Bindu Madhavi",
-        "popularity": 0.3565,
+        "popularity": 1.2768,
         "profile_path": "/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg",
         "cast_id": 3,
         "character": "Lakshmi",
@@ -91,8 +107,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 5,
         "character": "Guruji",
@@ -108,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Anish Kuruvilla",
         "original_name": "Anish Kuruvilla",
-        "popularity": 0.329,
+        "popularity": 1.6501,
         "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
         "credit_id": "52fe4b60c3a36847f8200b55",
         "department": "Directing",
@@ -120,8 +136,8 @@
         "id": 2079067,
         "known_for_department": "Sound",
         "name": "Saindhavi",
-        "original_name": "Saindhavi Prakash",
-        "popularity": 0.0798,
+        "original_name": "சைந்தவி",
+        "popularity": 0.6286,
         "profile_path": "/t6rnSypeK4GMXxMqY6wDnVgWLmn.jpg",
         "credit_id": "5b3fcb9e0e0a2626e100a526",
         "department": "Sound",
@@ -130,67 +146,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 215917,
-        "known_for_department": "Directing",
-        "name": "Sekhar Kammula",
-        "original_name": "Sekhar Kammula",
-        "popularity": 0.3328,
-        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
-        "credit_id": "5cdd6aa40e0a263a8ccbfb7b",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1060294,
         "known_for_department": "Acting",
         "name": "Anish Kuruvilla",
         "original_name": "Anish Kuruvilla",
-        "popularity": 0.329,
+        "popularity": 1.6501,
         "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
         "credit_id": "5cdd6abbc3a36816a6c16485",
         "department": "Writing",
         "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1060294,
-        "known_for_department": "Acting",
-        "name": "Anish Kuruvilla",
-        "original_name": "Anish Kuruvilla",
-        "popularity": 0.329,
-        "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
-        "credit_id": "5cdd6acac3a3681c89c00e71",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1060294,
-        "known_for_department": "Acting",
-        "name": "Anish Kuruvilla",
-        "original_name": "Anish Kuruvilla",
-        "popularity": 0.329,
-        "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
-        "credit_id": "5cdd6adc0e0a262dcfce1f98",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2314245,
-        "known_for_department": "Editing",
-        "name": "Praveen Boyina",
-        "original_name": "Praveen Boyina",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5cdd6af80e0a265493cbf061",
-        "department": "Editing",
-        "job": "Editor"
       },
       {
         "adult": false,
@@ -199,9 +163,22 @@
         "known_for_department": "Production",
         "name": "Chandra Sekhar Kammula",
         "original_name": "Chandra Sekhar Kammula",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5cdd6b5c0e0a263a8ccbfcd3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215917,
+        "known_for_department": "Directing",
+        "name": "Sekhar Kammula",
+        "original_name": "Sekhar Kammula",
+        "popularity": 0.6492,
+        "profile_path": "/p5dF5h55ktmsJrCNxsv75LqALpa.jpg",
+        "credit_id": "5cdd6aa40e0a263a8ccbfb7b",
         "department": "Production",
         "job": "Producer"
       },
@@ -212,7 +189,7 @@
         "known_for_department": "Writing",
         "name": "Vanamali",
         "original_name": "Vanamali",
-        "popularity": 0.0874,
+        "popularity": 0.3196,
         "profile_path": null,
         "credit_id": "5cdd6b7b9251417660d0a4c4",
         "department": "Writing",
@@ -221,11 +198,50 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2314245,
+        "known_for_department": "Editing",
+        "name": "Praveen Boyina",
+        "original_name": "Praveen Boyina",
+        "popularity": 0.2817,
+        "profile_path": null,
+        "credit_id": "5cdd6af80e0a265493cbf061",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060294,
+        "known_for_department": "Acting",
+        "name": "Anish Kuruvilla",
+        "original_name": "Anish Kuruvilla",
+        "popularity": 1.6501,
+        "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
+        "credit_id": "5cdd6adc0e0a262dcfce1f98",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060294,
+        "known_for_department": "Acting",
+        "name": "Anish Kuruvilla",
+        "original_name": "Anish Kuruvilla",
+        "popularity": 1.6501,
+        "profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
+        "credit_id": "5cdd6acac3a3681c89c00e71",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1339509,
         "known_for_department": "Sound",
         "name": "Manikanth Kadri",
         "original_name": "Manikanth Kadri",
-        "popularity": 0.0617,
+        "popularity": 0.3687,
         "profile_path": null,
         "credit_id": "6042917a1108a8004360018f",
         "department": "Sound",
@@ -239,6 +255,25 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1319,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/3rOa4z880JuvE65YL6dkfh9MXgt.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 989
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "keywords": {
     "keywords": [
@@ -270,41 +305,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 1319,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/3rOa4z880JuvE65YL6dkfh9MXgt.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 989
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Avakai Biryani - Trailer 1",
-        "key": "CChq56sEu4M",
-        "site": "YouTube",
-        "size": 360,
-        "type": "Trailer",
-        "official": false,
-        "id": "5cdd697c9251417660d0a0e8",
-        "published_at": "2008-10-04T15:57:30.000Z"
       }
     ]
   }

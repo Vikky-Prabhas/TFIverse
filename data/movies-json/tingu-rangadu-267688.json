@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Tingu Rangadu",
   "overview": "Tingu Rangadu is action drama based movie in which, Chiranjeevi  is a carefree guy who lives with his grandmother (nirmalamma) and his cousin. One day he escapes from his house and landsup in a city. He gets into RamchandraRao (Jaggayya)’s house claiming to be his son, through his extra-marital relationship.",
-  "popularity": 0.267,
+  "popularity": 0.6576,
   "poster_path": "/8RddccdYbmtiegQhPUW9MPFRCLC.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 2,
         "character": "",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.8127,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 3,
         "character": "",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4098,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 4,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 5,
         "character": "",
@@ -97,8 +97,8 @@
         "id": 584415,
         "known_for_department": "Acting",
         "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.5178,
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
         "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
         "cast_id": 6,
         "character": "",
@@ -114,7 +114,7 @@
         "known_for_department": "Directing",
         "name": "Thatineni Prasad",
         "original_name": "Thatineni Prasad",
-        "popularity": 0.0362,
+        "popularity": 0.4558,
         "profile_path": null,
         "credit_id": "53b0d1590e0a26598c0074a8",
         "department": "Directing",
@@ -127,7 +127,7 @@
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1305,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "53b0d15bc3a3682edb005b11",
         "department": "Sound",
@@ -140,23 +140,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1982-10-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "external_ids": {
     "imdb_id": "tt0246279",
@@ -183,5 +166,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1982-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

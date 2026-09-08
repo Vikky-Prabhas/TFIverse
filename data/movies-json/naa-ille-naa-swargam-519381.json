@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "నా ఇల్లే నా స్వర్గం",
   "overview": "",
-  "popularity": 0.2828,
+  "popularity": 1.2913,
   "poster_path": "/zlUHW25Z7ChvJ3auH3LNO9BxuJD.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Ramesh Babu Ghattamaneni",
         "original_name": "Ramesh Babu Ghattamaneni",
-        "popularity": 0.0604,
+        "popularity": 0.5125,
         "profile_path": null,
         "cast_id": 0,
         "character": "Vijay",
@@ -62,8 +62,8 @@
         "known_for_department": "Acting",
         "name": "Divya Bharti",
         "original_name": "Divya Bharti",
-        "popularity": 1.3204,
-        "profile_path": "/lCUOgoUxjuoOyPDA3VuMojGqSKC.jpg",
+        "popularity": 1.3316,
+        "profile_path": "/gTbsHRxIBMNuJhJOtiWvYkPQJAR.jpg",
         "cast_id": 1,
         "character": "Pratusha",
         "credit_id": "5ad9987a0e0a2661fa007069",
@@ -75,8 +75,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 2,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Roopa Ganguly",
         "original_name": "Roopa Ganguly",
-        "popularity": 0.393,
+        "popularity": 0.8626,
         "profile_path": "/vP534taJlk85GH53ZQ8NOYCtKEW.jpg",
         "cast_id": 3,
         "character": "Krishna wife",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 4,
         "character": "",
@@ -114,6 +114,9 @@
     ],
     "crew": []
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt1579640",
     "wikidata_id": null,
@@ -121,8 +124,25 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1991-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -147,26 +167,6 @@
         "vote_average": 0.166,
         "vote_count": 1,
         "width": 950
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1991-12-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

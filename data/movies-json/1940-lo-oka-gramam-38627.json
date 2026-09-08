@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "1940 Lo Oka Gramam",
   "overview": "Dheekshitulu is a 65-70 year old brahmin widower with no children. He sees the beautiful 16 year old Susheela &amp; goes to her parents to ask her hand by offering kanyasulkam (brideprice which was prevalent in some areas of South India prior to the 1940s and is now banned all over) So our 70 year old grandpa marries 16 year old young girl. On the very first night she comes to know that her old husband is neither interested nor capable of making love. Also in the village is the hot headed intelligent Suri who belongs to a lower caste. Our young couple have an extramarital affair due to which Susheela becomes pregnant, Dheekshitulu sends her out of the house, village council shaves the heads of Suri &amp; Susheela as a punishment, Dheekshitulu has a change of heart &amp; conducts the marriage of the young couple, finally the village elders have a change of heart themselves when all the lower caste people refuse to do any work for them.",
-  "popularity": 0.2554,
+  "popularity": 0.8353,
   "poster_path": "/aGRKqtWBOx23LTfLAc6IHhmYZg8.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Baladitya",
         "original_name": "Baladitya",
-        "popularity": 0.154,
+        "popularity": 0.4297,
         "profile_path": null,
         "cast_id": 1,
         "character": "Suri",
@@ -63,30 +63,16 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1047636,
-        "known_for_department": "Acting",
-        "name": "Sri",
-        "original_name": "Sri",
-        "popularity": 0.1295,
-        "profile_path": "/58ZI81SSehDIigWPyYIFE1jIYoi.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "579b0255c3a3687e57006408",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 584672,
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1212,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
         "credit_id": "579b02609251414cca006211",
-        "order": 2
+        "order": 1
       },
       {
         "adult": false,
@@ -95,12 +81,12 @@
         "known_for_department": "Acting",
         "name": "Mukku Raju",
         "original_name": "Mukku Raju",
-        "popularity": 0.0409,
+        "popularity": 0.3132,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
         "credit_id": "579b0274925141543d0023cf",
-        "order": 3
+        "order": 2
       },
       {
         "adult": false,
@@ -109,12 +95,12 @@
         "known_for_department": "Acting",
         "name": "Ramakrishna",
         "original_name": "Ramakrishna",
-        "popularity": 0.1497,
+        "popularity": 2.0207,
         "profile_path": "/4NPxq8VFzu6qMU0JNQMA9nAETNR.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "579b04f1c3a3687e63005a20",
-        "order": 4
+        "order": 3
       },
       {
         "adult": false,
@@ -123,12 +109,12 @@
         "known_for_department": "Acting",
         "name": "Rajitha",
         "original_name": "Rajitha",
-        "popularity": 0.1654,
+        "popularity": 0.9232,
         "profile_path": "/hJboXrXGnLff4Prqut67stRJNml.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "579b050bc3a3687e66005ffe",
-        "order": 5
+        "order": 4
       },
       {
         "adult": false,
@@ -137,12 +123,12 @@
         "known_for_department": "Acting",
         "name": "Sri Latha",
         "original_name": "Sri Latha",
-        "popularity": 0.0214,
+        "popularity": 0.4967,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
         "credit_id": "579b0516c3a3687e5100605d",
-        "order": 6
+        "order": 5
       },
       {
         "adult": false,
@@ -151,11 +137,25 @@
         "known_for_department": "Acting",
         "name": "Sai Lakshmi",
         "original_name": "Sai Lakshmi",
-        "popularity": 0,
+        "popularity": 0.36,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
         "credit_id": "579b05269251414cc7006058",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1953437,
+        "known_for_department": "Acting",
+        "name": "Sri Ramya",
+        "original_name": "Sri Ramya",
+        "popularity": 0.4639,
+        "profile_path": "/sCuhu7ExjWvsv34q3xqyNHMc5rY.jpg",
+        "cast_id": 11,
+        "character": "Suseela",
+        "credit_id": "6a2060d20f91da9768b02428",
         "order": 7
       }
     ],
@@ -167,7 +167,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Nandi",
         "original_name": "Narasimha Nandi",
-        "popularity": 0.0143,
+        "popularity": 0.3588,
         "profile_path": null,
         "credit_id": "579b0553c3a36811610004bb",
         "department": "Directing",
@@ -180,7 +180,7 @@
         "known_for_department": "Production",
         "name": "N. C. Narasimham",
         "original_name": "N. C. Narasimham",
-        "popularity": 0,
+        "popularity": 0.4221,
         "profile_path": null,
         "credit_id": "579b056c9251414cd9005d3e",
         "department": "Production",
@@ -191,22 +191,8 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2010-04-16T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -234,11 +220,25 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2010-04-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "",

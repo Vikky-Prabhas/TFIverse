@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Ooriki Ichina Maata",
   "overview": "Ooriki Ichina Maata is a 1981 Telugu film directed by Balaiah M. The film stars Chiranjeevi, Madhavi, Kavitha and Sudhakar in lead roles.",
-  "popularity": 0.2367,
+  "popularity": 0.7343,
   "poster_path": "/b7RKtHPmXzHQcMTEWXOeOew0uGi.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,7 +42,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 2,
         "character": "",
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Madhavi",
         "original_name": "Madhavi",
-        "popularity": 0.3861,
+        "popularity": 1.4096,
         "profile_path": "/6ChxtchACMxgImDNB3KnGiymYqb.jpg",
         "cast_id": 3,
         "character": "",
@@ -69,9 +69,9 @@
         "id": 1335729,
         "known_for_department": "Acting",
         "name": "Kavitha",
-        "original_name": "Kavitha",
-        "popularity": 0.3373,
-        "profile_path": null,
+        "original_name": "கவிதா",
+        "popularity": 1.8224,
+        "profile_path": "/1aFgMnyAVvKDKXcpVzC5PNy6qy8.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "53b0d3b4c3a3682eea005ac1",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 5,
         "character": "",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Narayana Rao Uppalapati",
         "original_name": "Narayana Rao Uppalapati",
-        "popularity": 0.0985,
+        "popularity": 0.7083,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.1879,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 7,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 8,
         "character": "",
@@ -140,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 9,
         "character": "",
@@ -156,7 +156,7 @@
         "known_for_department": "Acting",
         "name": "M. Balayya",
         "original_name": "M. Balayya",
-        "popularity": 0.1489,
+        "popularity": 1.3523,
         "profile_path": null,
         "credit_id": "53b0d371c3a3682ed80058b1",
         "department": "Directing",
@@ -169,7 +169,7 @@
         "known_for_department": "Production",
         "name": "Alaparthi Suryanarayana Rao",
         "original_name": "Alaparthi Suryanarayana Rao",
-        "popularity": 0.0261,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0d376c3a3682eee0059ec",
         "department": "Production",
@@ -180,34 +180,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0246130",
-    "wikidata_id": "Q7095407",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.706,
-        "height": 850,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/b7RKtHPmXzHQcMTEWXOeOew0uGi.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 600
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -225,5 +199,31 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 850,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/b7RKtHPmXzHQcMTEWXOeOew0uGi.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 600
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0246130",
+    "wikidata_id": "Q7095407",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

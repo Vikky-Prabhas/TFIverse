@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "లాయర్ విశ్వనాథ్",
   "overview": "Lawyer Viswanath is a 1978 Indian Telugu-language action film produced by Y. V. Rao and directed by S. D. Lal. The film stars N. T. Rama Rao and Jayasudha, with music composed by Satyam. It is a remake of the Hindi film Vishwanath (1978).",
-  "popularity": 0.1985,
+  "popularity": 0.6065,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 1,
         "character": "",
@@ -72,13 +72,26 @@
         "known_for_department": "Directing",
         "name": "S D Lal",
         "original_name": "S D Lal",
-        "popularity": 0.0468,
+        "popularity": 0.3508,
         "profile_path": null,
         "credit_id": "660f8834de11e501632ab09d",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -104,18 +117,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

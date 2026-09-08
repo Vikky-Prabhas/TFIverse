@@ -7,6 +7,10 @@
     {
       "id": 28,
       "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ],
   "homepage": "",
@@ -17,8 +21,8 @@
   ],
   "original_language": "te",
   "original_title": "Shambo Shiva Shambo",
-  "overview": "Santosh, the son of a politicians, is in love with his family’s arch rival's daughter. Karunakar, Malli, and Chandu are his friends who sacrifice their dreams to help the two lovers unite. Ten days later, the married lovers give them a shock.",
-  "popularity": 0.6124,
+  "overview": "Three loyal friends face tragic consequences and personal sacrifices when they unite to help an eloped couple overcome family opposition.",
+  "popularity": 1.2534,
   "poster_path": "/o27bRY4iTz83gpr9Kkd3YAzZm2o.jpg",
   "production_companies": [
     {
@@ -49,8 +53,8 @@
   "tagline": "",
   "title": "Shambo Shiva Shambo",
   "video": false,
-  "vote_average": 7.1,
-  "vote_count": 9,
+  "vote_average": 7,
+  "vote_count": 10,
   "credits": {
     "cast": [
       {
@@ -59,8 +63,8 @@
         "id": 146935,
         "known_for_department": "Acting",
         "name": "Ravi Teja",
-        "original_name": "Ravi Teja",
-        "popularity": 0.9088,
+        "original_name": "రవితేజ",
+        "popularity": 3.081,
         "profile_path": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
         "cast_id": 1,
         "character": "Karunakar AKA Karna",
@@ -74,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Allari Naresh",
         "original_name": "Allari Naresh",
-        "popularity": 0.647,
+        "popularity": 1.9234,
         "profile_path": "/2k4n2sYl9OmzKdm1ItzP3nFwW6k.jpg",
         "cast_id": 2,
         "character": "Malli",
@@ -88,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Siva Balaji",
         "original_name": "Siva Balaji",
-        "popularity": 0.1605,
+        "popularity": 1.1353,
         "profile_path": "/3ODFwBuWQAz8IpxACNIlFgxw4hX.jpg",
         "cast_id": 3,
         "character": "Chandu",
@@ -101,9 +105,9 @@
         "id": 1107197,
         "known_for_department": "Acting",
         "name": "Priyamani",
-        "original_name": "Priyamani",
-        "popularity": 0.8018,
-        "profile_path": "/zB365nF9wec5KBczviUTAX9MwHj.jpg",
+        "original_name": "ప్రియమణి",
+        "popularity": 2.1143,
+        "profile_path": "/i1sZtQcphZWJij3LoR9M6QY9i4z.jpg",
         "cast_id": 4,
         "character": "Muniamma, Karunakar's cousin",
         "credit_id": "5683c82dc3a36860e9017395",
@@ -116,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Abhinaya",
         "original_name": "Abhinaya",
-        "popularity": 0.5251,
+        "popularity": 1.6468,
         "profile_path": "/jZSoiKuWYNWXJgPtTDro009rGiN.jpg",
         "cast_id": 7,
         "character": "Pavithra",
@@ -130,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Roja Selvamani",
         "original_name": "Roja Selvamani",
-        "popularity": 0.4168,
+        "popularity": 1.5373,
         "profile_path": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg",
         "cast_id": 8,
         "character": "Home Minister",
@@ -143,9 +147,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "5aadc6a1c3a36846b7020730",
@@ -157,9 +161,9 @@
         "id": 585397,
         "known_for_department": "Acting",
         "name": "Samuthirakani",
-        "original_name": "Samuthirakani",
-        "popularity": 1.0238,
-        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "5aadc6d992514116c301b984",
@@ -172,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 11,
         "character": "",
@@ -186,7 +190,7 @@
         "known_for_department": "Directing",
         "name": "Surya Teja",
         "original_name": "Surya Teja",
-        "popularity": 0.0453,
+        "popularity": 0.5417,
         "profile_path": null,
         "cast_id": 12,
         "character": "Santosh",
@@ -200,10 +204,10 @@
         "known_for_department": "Acting",
         "name": "Naina Das",
         "original_name": "Naina Das",
-        "popularity": 0.0071,
+        "popularity": 0.3926,
         "profile_path": null,
         "cast_id": 13,
-        "character": "santosh 's girlfriend",
+        "character": "Santosh's girlfriend",
         "credit_id": "5aadc74d0e0a2665f50082b8",
         "order": 10
       },
@@ -214,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 14,
         "character": "",
@@ -228,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "Praveen",
         "original_name": "Praveen",
-        "popularity": 0.1974,
+        "popularity": 1.3924,
         "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
         "cast_id": 15,
         "character": "",
@@ -240,9 +244,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 16,
         "character": "",
@@ -256,7 +260,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.393,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 17,
         "character": "",
@@ -270,7 +274,7 @@
         "known_for_department": "Acting",
         "name": "Sudha",
         "original_name": "Sudha",
-        "popularity": 0.4601,
+        "popularity": 1.5384,
         "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
         "cast_id": 18,
         "character": "",
@@ -284,7 +288,7 @@
         "known_for_department": "Acting",
         "name": "M. Sasikumar",
         "original_name": "M. Sasikumar",
-        "popularity": 1.2861,
+        "popularity": 1.4125,
         "profile_path": "/5MQxfBQIKhewDt5KHxtazBK8jPM.jpg",
         "cast_id": 19,
         "character": "Guest Appearance",
@@ -297,8 +301,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 20,
         "character": "",
@@ -312,7 +316,7 @@
         "known_for_department": "Acting",
         "name": "Anitha Nath",
         "original_name": "Anitha Nath",
-        "popularity": 0.0286,
+        "popularity": 0.301,
         "profile_path": null,
         "cast_id": 21,
         "character": "",
@@ -326,7 +330,7 @@
         "known_for_department": "Acting",
         "name": "Chitra lekha",
         "original_name": "Chitra lekha",
-        "popularity": 0.0071,
+        "popularity": 0.222,
         "profile_path": null,
         "cast_id": 22,
         "character": "",
@@ -340,7 +344,7 @@
         "known_for_department": "Acting",
         "name": "L. B. Sriram",
         "original_name": "L. B. Sriram",
-        "popularity": 0.3337,
+        "popularity": 1.3224,
         "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
         "cast_id": 23,
         "character": "",
@@ -354,7 +358,7 @@
         "known_for_department": "Acting",
         "name": "Varshini Sounderajan",
         "original_name": "Varshini Sounderajan",
-        "popularity": 2.1358,
+        "popularity": 0.9773,
         "profile_path": "/fCt6H3TQebfHy78CghJeI90YbQ5.jpg",
         "cast_id": 24,
         "character": "",
@@ -368,7 +372,7 @@
         "known_for_department": "Acting",
         "name": "Taslima Sheikh",
         "original_name": "Taslima Sheikh",
-        "popularity": 0.0297,
+        "popularity": 0.5513,
         "profile_path": null,
         "cast_id": 25,
         "character": "",
@@ -383,9 +387,9 @@
         "id": 585397,
         "known_for_department": "Acting",
         "name": "Samuthirakani",
-        "original_name": "Samuthirakani",
-        "popularity": 1.0238,
-        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
         "credit_id": "5683c7d5c3a368227b00d202",
         "department": "Directing",
         "job": "Director"
@@ -397,7 +401,7 @@
         "known_for_department": "Production",
         "name": "Bellamkonda Suresh",
         "original_name": "Bellamkonda Suresh",
-        "popularity": 0.0849,
+        "popularity": 0.3094,
         "profile_path": null,
         "credit_id": "5aadc97cc3a3682f34008687",
         "department": "Production",
@@ -409,9 +413,9 @@
         "id": 585397,
         "known_for_department": "Acting",
         "name": "Samuthirakani",
-        "original_name": "Samuthirakani",
-        "popularity": 1.0238,
-        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
         "credit_id": "5aadc9910e0a266588008ab3",
         "department": "Writing",
         "job": "Story"
@@ -422,9 +426,9 @@
         "id": 585397,
         "known_for_department": "Acting",
         "name": "Samuthirakani",
-        "original_name": "Samuthirakani",
-        "popularity": 1.0238,
-        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "original_name": "சமுத்திரக்கனி",
+        "popularity": 4.6234,
+        "profile_path": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg",
         "credit_id": "5aadc9bc92514116b101cde5",
         "department": "Writing",
         "job": "Screenplay"
@@ -436,7 +440,7 @@
         "known_for_department": "Sound",
         "name": "Sundar C. Babu",
         "original_name": "Sundar C. Babu",
-        "popularity": 0.148,
+        "popularity": 0.3244,
         "profile_path": "/4CHq7aCewjECuEWQlvu26gO6JG1.jpg",
         "credit_id": "5aadc9e30e0a265e1f008e71",
         "department": "Sound",
@@ -449,7 +453,7 @@
         "known_for_department": "Camera",
         "name": "S. R. Kathir",
         "original_name": "S. R. Kathir",
-        "popularity": 0.0725,
+        "popularity": 0.3316,
         "profile_path": "/vok5BfxV04byvZROBxyTX4ykHwU.jpg",
         "credit_id": "5aadc9f10e0a26783301e94c",
         "department": "Crew",
@@ -462,7 +466,7 @@
         "known_for_department": "Editing",
         "name": "A. L. Ramesh",
         "original_name": "A. L. Ramesh",
-        "popularity": 0.0621,
+        "popularity": 0.2708,
         "profile_path": null,
         "credit_id": "5aadca0092514175c3007d22",
         "department": "Editing",
@@ -472,6 +476,13 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1637995",
+    "wikidata_id": "Q7487480",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -501,12 +512,19 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1637995",
-    "wikidata_id": "Q7487480",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Shambho Shiva Shambho",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Mera Krodh",
+        "type": "Hindi Dubbed"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -580,20 +598,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Shambho Shiva Shambho",
-        "type": "alternative spelling"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Mera Krodh",
-        "type": "Hindi Dubbed"
       }
     ]
   }

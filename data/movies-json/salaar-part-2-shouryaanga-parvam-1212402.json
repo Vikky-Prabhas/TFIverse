@@ -22,9 +22,9 @@
   ],
   "original_language": "te",
   "original_title": "సలార్: పార్ట్ 2 - శౌర్యాంగ పర్వం",
-  "overview": "",
-  "popularity": 1.8721,
-  "poster_path": "/27zbexmMcMlVDihayMaD5c9XE5K.jpg",
+  "overview": "In dystopian Khansaar, two characters navigate a complex relationship amid power struggles and shifting alliances. Their journey unfolds in a tense, futuristic world filled with conflict and drama.",
+  "popularity": 2.9496,
+  "poster_path": null,
   "production_companies": [
     {
       "id": 111627,
@@ -59,24 +59,12 @@
   "videos": {
     "results": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 2048,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/27zbexmMcMlVDihayMaD5c9XE5K.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1366
-      }
-    ]
-  },
   "keywords": {
     "keywords": [
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
       {
         "id": 322496,
         "name": "action"
@@ -84,6 +72,23 @@
       {
         "id": 338231,
         "name": "salaar"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Salaar 2",
+        "type": ""
       }
     ]
   },
@@ -96,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas",
         "original_name": "Prabhas",
-        "popularity": 2.6943,
+        "popularity": 2.9801,
         "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
         "cast_id": 1,
         "character": "Salaar Devaratha \"Deva\" Raisaar",
@@ -109,9 +114,9 @@
         "id": 117690,
         "known_for_department": "Acting",
         "name": "Prithviraj Sukumaran",
-        "original_name": "Prithviraj Sukumaran",
-        "popularity": 1.9703,
-        "profile_path": "/oxLS80XtmMJVHbTfFCfXMJvE5i9.jpg",
+        "original_name": "പൃഥ്വിരാജ് സുകുമാരൻ",
+        "popularity": 12.8908,
+        "profile_path": "/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg",
         "cast_id": 3,
         "character": "Vardharaja Mannar",
         "credit_id": "6585caaa6dea3a2165f62af7",
@@ -124,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Shruti Haasan",
         "original_name": "Shruti Haasan",
-        "popularity": 1.5472,
+        "popularity": 1.8155,
         "profile_path": "/1zYJuSccSA45VVBdgozpRcL99Rd.jpg",
         "cast_id": 4,
         "character": "Aadya Krishnakanth",
@@ -138,7 +143,7 @@
         "known_for_department": "Acting",
         "name": "Easwari Rao",
         "original_name": "ఈశ్వరీ రావు",
-        "popularity": 0.5495,
+        "popularity": 1.5377,
         "profile_path": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
         "cast_id": 6,
         "character": "Deva's Mother",
@@ -152,7 +157,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.8209,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 7,
         "character": "Raja Mannar",
@@ -166,7 +171,7 @@
         "known_for_department": "Acting",
         "name": "Bobby Simha",
         "original_name": "Bobby Simha",
-        "popularity": 0.4516,
+        "popularity": 1.1263,
         "profile_path": "/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg",
         "cast_id": 8,
         "character": "Bhaarava",
@@ -180,7 +185,7 @@
         "known_for_department": "Acting",
         "name": "Sriya Reddy",
         "original_name": "Sriya Reddy",
-        "popularity": 1.2352,
+        "popularity": 1.4235,
         "profile_path": "/6AwGUf0uj7Dr6cwZkC53KNihPdj.jpg",
         "cast_id": 9,
         "character": "Radha Rama Mannar",
@@ -194,7 +199,7 @@
         "known_for_department": "Acting",
         "name": "Ramachandra Raju",
         "original_name": "Ramachandra Raju",
-        "popularity": 0.4981,
+        "popularity": 0.9289,
         "profile_path": "/kU1a4H8o1IQA25Lyq3cW70aufhT.jpg",
         "cast_id": 13,
         "character": "Rudra Mannar",
@@ -208,7 +213,7 @@
         "known_for_department": "Acting",
         "name": "Mime Gopi",
         "original_name": "மைம் கோபி",
-        "popularity": 0.493,
+        "popularity": 1.3686,
         "profile_path": "/gglNAjJMlCb0p7ig3OVpgsXMkMD.jpg",
         "cast_id": 5,
         "character": "Bilal",
@@ -222,7 +227,7 @@
         "known_for_department": "Acting",
         "name": "Tinnu Anand",
         "original_name": "Tinnu Anand",
-        "popularity": 0.8251,
+        "popularity": 2.0238,
         "profile_path": "/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
         "cast_id": 10,
         "character": "Gaikwad \"Baba\"",
@@ -236,7 +241,7 @@
         "known_for_department": "Acting",
         "name": "Pramod Panju",
         "original_name": "ಪಂಜು",
-        "popularity": 0.1068,
+        "popularity": 0.9467,
         "profile_path": "/2URHh4gn72VYlgrrZrNaEyXjpPh.jpg",
         "cast_id": 11,
         "character": "Baachi Raja Mannar",
@@ -250,7 +255,7 @@
         "known_for_department": "Acting",
         "name": "Ramana",
         "original_name": "Ramana",
-        "popularity": 0.3012,
+        "popularity": 1.2463,
         "profile_path": "/fQcMvPYyCr2FwAP4YwhElUsbgrZ.jpg",
         "cast_id": 12,
         "character": "Rinda",
@@ -264,7 +269,7 @@
         "known_for_department": "Acting",
         "name": "Devaraj",
         "original_name": "Devaraj",
-        "popularity": 0.3393,
+        "popularity": 0.9932,
         "profile_path": "/nUvDzDVZ5q0Hnze8iQwOJe3QiS9.jpg",
         "cast_id": 17,
         "character": "Om",
@@ -278,7 +283,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Shankar",
         "original_name": "Naveen Shankar",
-        "popularity": 0.1225,
+        "popularity": 0.551,
         "profile_path": "/6ITQ3nk9XdP6NQXnP8RE7VxoXpz.jpg",
         "cast_id": 16,
         "character": "Pandit",
@@ -292,7 +297,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5281,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 14,
         "character": "Baali",
@@ -306,7 +311,7 @@
         "known_for_department": "Acting",
         "name": "Shafi",
         "original_name": "Shafi",
-        "popularity": 0.1738,
+        "popularity": 0.8444,
         "profile_path": "/dQs2gnlMMmx6lJi0xZftaD3TXlV.jpg",
         "cast_id": 15,
         "character": "Dheru",
@@ -320,7 +325,7 @@
         "known_for_department": "Acting",
         "name": "Madhu Guruswamy",
         "original_name": "Madhu Guruswamy",
-        "popularity": 0.1196,
+        "popularity": 0.8909,
         "profile_path": "/r2oyJ7Ey3DhhvLCj1PJ0zThvMPZ.jpg",
         "cast_id": 18,
         "character": "Hazare",
@@ -334,7 +339,7 @@
         "known_for_department": "Acting",
         "name": "Saurav Lokesh",
         "original_name": "Saurav Lokesh",
-        "popularity": 0.1352,
+        "popularity": 0.4788,
         "profile_path": null,
         "cast_id": 22,
         "character": "Cheeka",
@@ -348,7 +353,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Bhat",
         "original_name": "Ravi Bhat",
-        "popularity": 0.044,
+        "popularity": 0.4292,
         "profile_path": null,
         "cast_id": 19,
         "character": "Krishnakanth",
@@ -362,7 +367,7 @@
         "known_for_department": "Acting",
         "name": "Jhansi",
         "original_name": "Jhansi",
-        "popularity": 0.1824,
+        "popularity": 0.7242,
         "profile_path": "/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg",
         "cast_id": 20,
         "character": "Obulamma",
@@ -376,7 +381,7 @@
         "known_for_department": "Acting",
         "name": "Sampath Ram",
         "original_name": "Sampath Ram",
-        "popularity": 0.2156,
+        "popularity": 1.0082,
         "profile_path": "/kuObekNREXMfOh9QidmOgGhkQbv.jpg",
         "cast_id": 21,
         "character": "Vedha",
@@ -392,7 +397,7 @@
         "known_for_department": "Directing",
         "name": "Prashanth Neel",
         "original_name": "ಪ್ರಶಾಂತ್ ನೀಲ್",
-        "popularity": 0.776,
+        "popularity": 1.423,
         "profile_path": "/oq6ydaurgC4NueXuo64R5QoFnfp.jpg",
         "credit_id": "656d6e0288055100aee9e115",
         "department": "Directing",
@@ -405,7 +410,7 @@
         "known_for_department": "Production",
         "name": "Vijay Kiragandur",
         "original_name": "Vijay Kiragandur",
-        "popularity": 0.1174,
+        "popularity": 0.3239,
         "profile_path": "/pg7DHf5WArf8YIIIOLd3qObOEDa.jpg",
         "credit_id": "659d7467eb64f100f24e124a",
         "department": "Production",
@@ -418,7 +423,7 @@
         "known_for_department": "Directing",
         "name": "Prashanth Neel",
         "original_name": "ಪ್ರಶಾಂತ್ ನೀಲ್",
-        "popularity": 0.776,
+        "popularity": 1.423,
         "profile_path": "/oq6ydaurgC4NueXuo64R5QoFnfp.jpg",
         "credit_id": "659d73ed8e8d3001a82ff397",
         "department": "Writing",
@@ -431,7 +436,7 @@
         "known_for_department": "Sound",
         "name": "Ravi Basrur",
         "original_name": "Ravi Basrur",
-        "popularity": 0.167,
+        "popularity": 0.5307,
         "profile_path": "/mlHRC8r4J3ZND7w80B59x3WeX1I.jpg",
         "credit_id": "68fc2f84aa6b5bbcf69fa7f6",
         "department": "Sound",
@@ -439,21 +444,9 @@
       }
     ]
   },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Salaar 2",
-        "type": ""
-      }
-    ]
-  },
   "external_ids": {
     "imdb_id": "tt28674121",
-    "wikidata_id": null,
+    "wikidata_id": "Q124608282",
     "facebook_id": "@SalaarTheSaga",
     "instagram_id": "@SalaarTheSaga",
     "twitter_id": "@SalaarTheSaga"

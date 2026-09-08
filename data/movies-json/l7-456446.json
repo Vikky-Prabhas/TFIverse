@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "L7",
   "overview": "A man must go to great lengths to save his wife.",
-  "popularity": 0.2485,
+  "popularity": 0.8261,
   "poster_path": "/Cyt4zhekAJmm2ckqceDpnYkp20.jpg",
   "production_companies": [],
   "production_countries": [
@@ -36,98 +36,14 @@
   "tagline": "",
   "title": "L7",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2148548,
-        "known_for_department": "Acting",
-        "name": "Ajay",
-        "original_name": "Ajay",
-        "popularity": 0.0991,
-        "profile_path": null,
-        "cast_id": 0,
-        "character": "",
-        "credit_id": "5bc0ef020e0a266e6b01f090",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1306317,
-        "known_for_department": "Acting",
-        "name": "Thrigun",
-        "original_name": "Thrigun",
-        "popularity": 0.3202,
-        "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5bc0ef110e0a266e5901ef34",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1559667,
-        "known_for_department": "Acting",
-        "name": "Pooja Jhaveri",
-        "original_name": "Pooja Jhaveri",
-        "popularity": 0.1216,
-        "profile_path": "/fyeeeDP4F4muVCY7P79pzaVatpR.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5bc0ef180e0a266e5b01ed03",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1698888,
-        "known_for_department": "Writing",
-        "name": "Jagadish Talasila",
-        "original_name": "Jagadish Talasila",
-        "popularity": 0.0289,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5bc0ef2192514179ae01d871",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2148550,
-        "known_for_department": "Directing",
-        "name": "Mukund Pandey",
-        "original_name": "Mukund Pandey",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5bc0ef4292514179ae01d8b0",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
+  "vote_average": 5,
+  "vote_count": 1,
   "external_ids": {
     "imdb_id": "tt6173444",
-    "wikidata_id": null,
+    "wikidata_id": "Q130554704",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "release_dates": {
     "results": [
@@ -143,6 +59,90 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2148548,
+        "known_for_department": "Acting",
+        "name": "Ajay",
+        "original_name": "Ajay",
+        "popularity": 0.385,
+        "profile_path": null,
+        "cast_id": 0,
+        "character": "",
+        "credit_id": "5bc0ef020e0a266e6b01f090",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1306317,
+        "known_for_department": "Acting",
+        "name": "Thrigun",
+        "original_name": "Thrigun",
+        "popularity": 2.6089,
+        "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5bc0ef110e0a266e5901ef34",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1559667,
+        "known_for_department": "Acting",
+        "name": "Pooja Jhaveri",
+        "original_name": "Pooja Jhaveri",
+        "popularity": 0.9711,
+        "profile_path": "/fyeeeDP4F4muVCY7P79pzaVatpR.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5bc0ef180e0a266e5b01ed03",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698888,
+        "known_for_department": "Writing",
+        "name": "Jagadish Talasila",
+        "original_name": "Jagadish Talasila",
+        "popularity": 0.3532,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5bc0ef2192514179ae01d871",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2148550,
+        "known_for_department": "Directing",
+        "name": "Mukund Pandey",
+        "original_name": "Mukund Pandey",
+        "popularity": 0.3715,
+        "profile_path": null,
+        "credit_id": "5bc0ef4292514179ae01d8b0",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
   },

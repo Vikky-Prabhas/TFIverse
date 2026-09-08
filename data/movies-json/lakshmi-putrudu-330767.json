@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Lakshmi Putrudu",
   "overview": "Lakshmi Putrudu is a 2008 Telugu drama film.",
-  "popularity": 0.322,
+  "popularity": 0.645,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Uday Kiran",
         "original_name": "Uday Kiran",
-        "popularity": 0.2784,
+        "popularity": 0.7827,
         "profile_path": "/v60KsNP0lhy5CfvPjvuUuCd4m9q.jpg",
         "cast_id": 0,
         "character": "",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Diya",
         "original_name": "Diya",
-        "popularity": 0.1334,
+        "popularity": 1.3986,
         "profile_path": "/2CXd7K4vfL36e0ntqW4kIHa6lrP.jpg",
         "cast_id": 1,
         "character": "",
@@ -70,8 +70,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Mumaith Khan",
         "original_name": "Mumaith Khan",
-        "popularity": 0.5166,
+        "popularity": 2.0223,
         "profile_path": "/nacJyCi8jJzlUlOSGAU1mUyQsHm.jpg",
         "cast_id": 3,
         "character": "",
@@ -98,8 +98,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 4,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 5,
         "character": "",
@@ -125,16 +125,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1575606",
-    "wikidata_id": "Q6479914",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -160,5 +150,15 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1575606",
+    "wikidata_id": "Q6479914",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   }
 }

@@ -31,7 +31,7 @@
   "original_language": "te",
   "original_title": "Rajasaab 2: Circus 1935",
   "overview": "Plot TBA. The sequel to The Rajasaab.",
-  "popularity": 0.1016,
+  "popularity": 0.6272,
   "poster_path": null,
   "production_companies": [
     {
@@ -70,6 +70,14 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9663,
+        "name": "sequel"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -79,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas",
         "original_name": "Prabhas",
-        "popularity": 2.6943,
+        "popularity": 2.9801,
         "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
         "cast_id": 1,
         "character": "Raju / Rajasaab",
@@ -95,7 +103,7 @@
         "known_for_department": "Directing",
         "name": "Maruthi Dasari",
         "original_name": "Maruthi Dasari",
-        "popularity": 2.1444,
+        "popularity": 0.6981,
         "profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
         "credit_id": "6960d128b4814dbc5d595b1e",
         "department": "Directing",
@@ -108,7 +116,7 @@
         "known_for_department": "Directing",
         "name": "Maruthi Dasari",
         "original_name": "Maruthi Dasari",
-        "popularity": 2.1444,
+        "popularity": 0.6981,
         "profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
         "credit_id": "69649e048dd24148fbdc491a",
         "department": "Writing",
@@ -123,21 +131,13 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 9663,
-        "name": "sequel"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "release_dates": {
+    "results": []
   },
   "alternative_titles": {
     "titles": [

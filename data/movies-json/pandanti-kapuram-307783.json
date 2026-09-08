@@ -3,7 +3,16 @@
   "backdrop_path": null,
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "homepage": "",
   "id": 307783,
   "imdb_id": "tt0316376",
@@ -12,11 +21,16 @@
   ],
   "original_language": "te",
   "original_title": "పండంటి కాపురం",
-  "overview": "Pandanti Kapuram is a 1972 Telugu, family drama film.",
-  "popularity": 0.4978,
+  "overview": "",
+  "popularity": 1.1306,
   "poster_path": "/zGLTfCClK8IbswEMfowLEl5AofZ.jpg",
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "1972-01-01",
   "revenue": 0,
   "runtime": 0,
@@ -34,6 +48,19 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0316376",
+    "wikidata_id": "Q15706073",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 2,
         "character": "Ravi",
@@ -57,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Jamuna",
         "original_name": "Jamuna",
-        "popularity": 0.1634,
+        "popularity": 0.913,
         "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
         "cast_id": 4,
         "character": "Rani Malini Devi/Savitha",
@@ -71,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "B. Saroja Devi",
         "original_name": "B. Saroja Devi",
-        "popularity": 0.3377,
+        "popularity": 2.132,
         "profile_path": "/qeMj8p2AsTuqLLx97bDUGOaLCaS.jpg",
         "cast_id": 5,
         "character": "Sobha",
@@ -85,8 +112,8 @@
         "known_for_department": "Acting",
         "name": "Vijaya Nirmala",
         "original_name": "Vijaya Nirmala",
-        "popularity": 0.0696,
-        "profile_path": "/btvKBQPfC4dt0o2FB33TWiYaz53.jpg",
+        "popularity": 1.1907,
+        "profile_path": "/co8yCpSAJV4Ycd6bLqdf2BPeO9b.jpg",
         "cast_id": 6,
         "character": "Suseela \"Susi\"",
         "credit_id": "69280673c699acb1d7248f22",
@@ -99,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "S. V. Ranga Rao",
         "original_name": "S. V. Ranga Rao",
-        "popularity": 0.2838,
+        "popularity": 1.0671,
         "profile_path": "/yzDKN7DqHOc7OKOrELatN56HMdr.jpg",
         "cast_id": 1,
         "character": "Narayana Rao",
@@ -113,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 3,
         "character": "Srinivasa Rao \"Vasu\"",
@@ -127,8 +154,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 7,
         "character": "Madhu",
         "credit_id": "69280690b104c22865eaa2a4",
@@ -141,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Mikkilineni",
         "original_name": "Mikkilineni",
-        "popularity": 0.2121,
+        "popularity": 1.1035,
         "profile_path": "/hixximPs8FRe2pHlBjqyi01ZwyY.jpg",
         "cast_id": 8,
         "character": "Koteswara Rao",
@@ -155,7 +182,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 9,
         "character": "Chengayya",
@@ -169,7 +196,7 @@
         "known_for_department": "Acting",
         "name": "Raja Babu",
         "original_name": "Raja Babu",
-        "popularity": 0.0873,
+        "popularity": 0.8339,
         "profile_path": "/hQBSR46T1qXie1VWGVKAuBNpiIb.jpg",
         "cast_id": 10,
         "character": "Sanjeevi",
@@ -178,13 +205,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 11,
         "character": "Rudrayya",
         "credit_id": "6928076f744371e84ba75c55",
@@ -196,8 +223,8 @@
         "id": 584346,
         "known_for_department": "Acting",
         "name": "Pandari Bai",
-        "original_name": "Pandari Bai",
-        "popularity": 0.4891,
+        "original_name": "பண்டரிபாய்",
+        "popularity": 2.0338,
         "profile_path": "/hQRkAIELIKQihKEeWMVW0j3GHsE.jpg",
         "cast_id": 12,
         "character": "Chinnamma",
@@ -211,7 +238,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 13,
         "character": "Santhi",
@@ -225,7 +252,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.4543,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 14,
         "character": "Ramu",
@@ -234,31 +261,17 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 4512058,
-        "known_for_department": "Acting",
-        "name": "Baby Dolly",
-        "original_name": "Baby Dolly",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "cast_id": 15,
-        "character": "Babu",
-        "credit_id": "692807eda63269fd1f30d22f",
-        "order": 14
-      },
-      {
-        "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 585379,
         "known_for_department": "Acting",
-        "name": "V Balakrishna",
+        "name": "Valluri Balakrishna",
         "original_name": "V Balakrishna",
-        "popularity": 0.0453,
-        "profile_path": null,
+        "popularity": 0.4925,
+        "profile_path": "/A1ShW7gAhBmcJBucn3PUkQy6tS8.jpg",
         "cast_id": 16,
         "character": "Botany Lecturer",
         "credit_id": "692808006a65040263c124b3",
-        "order": 15
+        "order": 14
       },
       {
         "adult": false,
@@ -267,11 +280,25 @@
         "known_for_department": "Acting",
         "name": "Potti Prasad",
         "original_name": "Potti Prasad",
-        "popularity": 0.0849,
+        "popularity": 0.7293,
         "profile_path": null,
         "cast_id": 17,
         "character": "Botany Lecturer's son",
         "credit_id": "6928080ae587e7c06a30d066",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584410,
+        "known_for_department": "Acting",
+        "name": "Sulakshana",
+        "original_name": "சுலோச்சனா",
+        "popularity": 1.5786,
+        "profile_path": "/ywCnoZp3sNVCX7Bxi0zJHdU6VqZ.jpg",
+        "cast_id": 18,
+        "character": "Babu",
+        "credit_id": "6a6b14760994c3207b27dcc2",
         "order": 16
       }
     ],
@@ -283,26 +310,13 @@
         "known_for_department": "Directing",
         "name": "Lakshmi Deepak P",
         "original_name": "Lakshmi Deepak P",
-        "popularity": 0.0621,
+        "popularity": 0.4835,
         "profile_path": null,
         "credit_id": "5720c757c3a368118100003c",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0316376",
-    "wikidata_id": "Q15706073",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [

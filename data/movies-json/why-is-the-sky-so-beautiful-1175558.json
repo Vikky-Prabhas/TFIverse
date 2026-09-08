@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఆకాశం ఎందుకు ఇంత అందంగా ఉంది?",
   "overview": "Inspired from Andrei Tarkovsky (Russian Film Director) and Don Palathara (Malayalam Film Director) filmmaking style.",
-  "popularity": 0.0143,
+  "popularity": 0.4115,
   "poster_path": "/nmW5zeu3ztFNCEcNCysf8bYZKVY.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -49,7 +49,7 @@
         "known_for_department": "Directing",
         "name": "Balaji Pothula",
         "original_name": "Balaji Pothula",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": "/qqIhC2eqbAMASSQrF5PqwWnGafq.jpg",
         "credit_id": "64fb2a04a284eb011d5f4416",
         "department": "Directing",
@@ -57,8 +57,28 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2658,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nmW5zeu3ztFNCEcNCysf8bYZKVY.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1772
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -77,21 +97,11 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 2658,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/nmW5zeu3ztFNCEcNCysf8bYZKVY.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1772
-      }
-    ]
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "alternative_titles": {
     "titles": [
@@ -101,15 +111,5 @@
         "type": ""
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   }
 }

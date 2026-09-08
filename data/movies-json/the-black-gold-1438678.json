@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ది బ్లాక్ గోల్డ్",
   "overview": "",
-  "popularity": 0.0898,
+  "popularity": 0.3758,
   "poster_path": "/ihWQt0dMvu5xYWTzfa6uc6F1D3s.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -46,12 +46,6 @@
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "credits": {
     "cast": [
       {
@@ -61,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Samyuktha",
         "original_name": "Samyuktha",
-        "popularity": 5.1054,
+        "popularity": 1.8153,
         "profile_path": "/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg",
         "cast_id": 1,
         "character": "",
@@ -77,7 +71,7 @@
         "known_for_department": "Production",
         "name": "Razesh Danda",
         "original_name": "Razesh Danda",
-        "popularity": 0.0838,
+        "popularity": 0.2798,
         "profile_path": null,
         "credit_id": "67bb052555e3994bbd467d20",
         "department": "Production",
@@ -90,7 +84,7 @@
         "known_for_department": "Directing",
         "name": "Yogesh KMC",
         "original_name": "Yogi",
-        "popularity": 0.0357,
+        "popularity": 0.381,
         "profile_path": null,
         "credit_id": "68f52235143a4629a49a602a",
         "department": "Writing",
@@ -103,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "Yogesh KMC",
         "original_name": "Yogi",
-        "popularity": 0.0357,
+        "popularity": 0.381,
         "profile_path": null,
         "credit_id": "68f522526538e066518e7286",
         "department": "Directing",
@@ -116,7 +110,7 @@
         "known_for_department": "Production",
         "name": "Sindhu Maganti",
         "original_name": "Sindhu Maganti",
-        "popularity": 0,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "68f5226c26fddd5efcf99f50",
         "department": "Production",
@@ -129,7 +123,7 @@
         "known_for_department": "Sound",
         "name": "Sam C S",
         "original_name": "Sam C S",
-        "popularity": 0.7424,
+        "popularity": 0.9357,
         "profile_path": "/8BPr4V5PmGz28swrkxDI2bOl1i9.jpg",
         "credit_id": "68f5227e1a9f32f9368e71b2",
         "department": "Sound",
@@ -142,7 +136,7 @@
         "known_for_department": "Camera",
         "name": "A. Vasanth",
         "original_name": "A. Vasanth",
-        "popularity": 0.1489,
+        "popularity": 0.334,
         "profile_path": null,
         "credit_id": "68f5228bf00423db219a6037",
         "department": "Camera",
@@ -155,7 +149,7 @@
         "known_for_department": "Art",
         "name": "Sahi Suresh",
         "original_name": "Sahi Suresh",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68f522a9f6a18e4781f99f65",
         "department": "Art",
@@ -168,7 +162,7 @@
         "known_for_department": "Writing",
         "name": "Prasad Naaidu",
         "original_name": "Prasad Naaidu",
-        "popularity": 0.0261,
+        "popularity": 0.2887,
         "profile_path": null,
         "credit_id": "68f522d1051dc0c0c59a5f7d",
         "department": "Writing",
@@ -181,7 +175,7 @@
         "known_for_department": "Writing",
         "name": "Prasad Naaidu",
         "original_name": "Prasad Naaidu",
-        "popularity": 0.0261,
+        "popularity": 0.2887,
         "profile_path": null,
         "credit_id": "68f522e98adf64960a8e7615",
         "department": "Writing",
@@ -194,7 +188,7 @@
         "known_for_department": "Editing",
         "name": "Chota K. Prasad",
         "original_name": "Chota K. Prasad",
-        "popularity": 0.1048,
+        "popularity": 0.3887,
         "profile_path": null,
         "credit_id": "68f52300eca4f70ac28e71f7",
         "department": "Editing",
@@ -207,7 +201,7 @@
         "known_for_department": "Crew",
         "name": "Ram Krishan",
         "original_name": "Ramakrishna Master",
-        "popularity": 0.0575,
+        "popularity": 0.3036,
         "profile_path": null,
         "credit_id": "68f52321cf4b1618187520eb",
         "department": "Directing",
@@ -220,7 +214,7 @@
         "known_for_department": "Writing",
         "name": "Ramajogayya Sastry",
         "original_name": "Ramajogayya Sastry",
-        "popularity": 0.1226,
+        "popularity": 0.4366,
         "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
         "credit_id": "68f52342d61d63f1d5baf945",
         "department": "Writing",
@@ -233,7 +227,7 @@
         "known_for_department": "Production",
         "name": "Kiran Popuri",
         "original_name": "Kiran Popuri",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "68f5235c06607a49954e734f",
         "department": "Production",
@@ -244,12 +238,11 @@
   "keywords": {
     "keywords": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -266,5 +259,12 @@
         "width": 1244
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

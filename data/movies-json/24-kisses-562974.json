@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "24 కిసెస్",
   "overview": "A heartfelt romantic comedy movie about modern age relationships and the transformation of the lead characters. This movie is also a celebration of 24 unique kisses varying from romantic to heart-warming.",
-  "popularity": 0.2904,
+  "popularity": 1.9553,
   "poster_path": "/nJ3UTIMQ846yDjeI83LMIXmIjtK.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Thrigun",
         "original_name": "Thrigun",
-        "popularity": 0.2571,
+        "popularity": 2.6089,
         "profile_path": "/jONRFFiUG3qEIaPOUaUoC3eDi6E.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Hebah Patel",
         "original_name": "Hebah Patel",
-        "popularity": 0.8878,
+        "popularity": 1.0031,
         "profile_path": "/hZM5aTM75NRQes6lRLkM2eT8Z9X.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,8 +80,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8394,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.5508,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 10,
         "character": "",
@@ -109,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Aditi Myakal",
         "original_name": "Aditi Myakal",
-        "popularity": 0.3291,
+        "popularity": 0.709,
         "profile_path": "/2G3y4zOZLd69Hj8DOskZRRvIqb9.jpg",
         "cast_id": 6,
         "character": "",
@@ -123,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Kapavarapu",
         "original_name": "Srinivasa Kapavarapu",
-        "popularity": 0.0379,
+        "popularity": 0.3641,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Kishore Gundala",
         "original_name": "Kishore Gundala",
-        "popularity": 0.0214,
+        "popularity": 0.3348,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -151,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Suhas",
         "original_name": "Suhas",
-        "popularity": 0.3723,
+        "popularity": 1.153,
         "profile_path": "/4TZK8EkWiWPiC7wvDu4yFIXP41D.jpg",
         "cast_id": 9,
         "character": "",
@@ -165,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Devi Mahesh",
         "original_name": "Devi Mahesh",
-        "popularity": 0.1175,
+        "popularity": 0.5667,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -181,7 +181,7 @@
         "known_for_department": "Directing",
         "name": "Ayodhyakumar Krishnamsetty",
         "original_name": "Ayodhyakumar Krishnamsetty",
-        "popularity": 0,
+        "popularity": 0.3221,
         "profile_path": null,
         "credit_id": "5bf8cc400e0a263abe006220",
         "department": "Directing",
@@ -212,8 +212,25 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2018-11-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -252,24 +269,7 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2018-11-23T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "keywords": {
+    "keywords": []
   }
 }

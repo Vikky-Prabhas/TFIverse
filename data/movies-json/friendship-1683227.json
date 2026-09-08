@@ -2,21 +2,38 @@
   "adult": false,
   "backdrop_path": null,
   "belongs_to_collection": null,
-  "budget": 0,
-  "genres": [],
+  "budget": 1500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "homepage": "",
   "id": 1683227,
-  "imdb_id": null,
+  "imdb_id": "tt40657853",
   "origin_country": [
     "IN"
   ],
   "original_language": "te",
   "original_title": "Friendship",
-  "overview": "Friendship is a 2017 Telugu short film written, directed by and starring Sairaj Gandhe. The film portrays the emotional journey and bond between friends, highlighting values of trust and sacrifice in modern relationships.",
-  "popularity": 0.0239,
+  "overview": "Friendship is a 2017 Telugu short film directed by and Produced Saikrishna Gandhe. Writing and Starring Sairaj Gandhe. The film portrays the emotional journey and bond between friends, highlighting values of trust and sacrifice in modern relationships.",
+  "popularity": 0.4328,
   "poster_path": null,
-  "production_companies": [],
-  "production_countries": [],
+  "production_companies": [
+    {
+      "id": 299821,
+      "logo_path": null,
+      "name": "SG Media Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2017-12-15",
   "revenue": 0,
   "runtime": 7,
@@ -34,15 +51,15 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "external_ids": {
-    "imdb_id": null,
+    "imdb_id": "tt40657853",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -64,10 +81,19 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Friendship",
+        "type": "Drama"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Friendship 2017",
+        "type": "Drama"
+      }
+    ]
   },
   "credits": {
     "cast": [
@@ -78,10 +104,10 @@
         "known_for_department": "Acting",
         "name": "Sairaj Gandhe",
         "original_name": "Sairaj Gandhe",
-        "popularity": 0.1212,
+        "popularity": 0.2955,
         "profile_path": "/jc26KBxn0Pxw8goJnK6arNv6Spt.jpg",
         "cast_id": 1,
-        "character": "Sairaj",
+        "character": "Sai",
         "credit_id": "69efad8ad95e58e727811503",
         "order": 0
       }
@@ -94,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Sairaj Gandhe",
         "original_name": "Sairaj Gandhe",
-        "popularity": 0.1212,
+        "popularity": 0.2955,
         "profile_path": "/jc26KBxn0Pxw8goJnK6arNv6Spt.jpg",
         "credit_id": "69efcc7bd3dd3570dcdaa81b",
         "department": "Writing",
@@ -107,7 +133,7 @@
         "known_for_department": "Directing",
         "name": "Gandhe Saikrishna",
         "original_name": "Gandhe Saikrishna",
-        "popularity": 0,
+        "popularity": 0.2744,
         "profile_path": "/9OmjwjMbcXgQMpPzBTTzViGy5qY.jpg",
         "credit_id": "69efcee4450cfba1e201875f",
         "department": "Directing",
@@ -120,7 +146,7 @@
         "known_for_department": "Directing",
         "name": "Gandhe Saikrishna",
         "original_name": "Gandhe Saikrishna",
-        "popularity": 0,
+        "popularity": 0.2744,
         "profile_path": "/9OmjwjMbcXgQMpPzBTTzViGy5qY.jpg",
         "credit_id": "69efd9abb72eb24483e69dd3",
         "department": "Production",
@@ -128,7 +154,9 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

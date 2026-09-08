@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "మిక్చర్ పొట్లం",
   "overview": "Comedy entertainer",
-  "popularity": 0.1917,
+  "popularity": 0.7123,
   "poster_path": "/AexS0khAnahRwXHiN8i0pZAmBaB.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Jayanth Bhanuchander",
         "original_name": "Jayanth Bhanuchander",
-        "popularity": 0.0071,
+        "popularity": 0.4006,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Bhanuchander",
         "original_name": "Bhanuchander",
-        "popularity": 0.3522,
+        "popularity": 0.6416,
         "profile_path": "/wOGSHy867uQB6xHbQ9A7yFEUO4g.jpg",
         "cast_id": 3,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.2699,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 4,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Geethanjali",
         "original_name": "Geethanjali",
-        "popularity": 0.0553,
+        "popularity": 0.2724,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.6569,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 6,
         "character": "",
@@ -128,9 +128,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 7,
         "character": "",
@@ -142,9 +142,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 8,
         "character": "",
@@ -158,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Basu Prasad",
         "original_name": "Shweta Basu Prasad",
-        "popularity": 0.7326,
+        "popularity": 0.8201,
         "profile_path": "/j1THxhGB0AZyNnhGnVmc81fL0Le.jpg",
         "cast_id": 10,
         "character": "",
@@ -174,7 +174,7 @@
         "known_for_department": "Directing",
         "name": "Satish Kumar M. V.",
         "original_name": "Satish Kumar M. V.",
-        "popularity": 0.0311,
+        "popularity": 0.3708,
         "profile_path": null,
         "credit_id": "5f549d17350398003480d3d8",
         "department": "Directing",
@@ -182,18 +182,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -228,7 +218,17 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   }
 }

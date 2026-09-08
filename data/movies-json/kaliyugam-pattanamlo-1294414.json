@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Kaliyugam Pattanamlo",
   "overview": "The story revolves around identical twins, Vijay and Sagar. While Vijay leads a normal life, Sagar exhibits troubling behavior, leading to his placement in a mental rehabilitation center. Years later, Sagar remains unchanged, while Vijay becomes an engineering student.",
-  "popularity": 0.1223,
+  "popularity": 0.5211,
   "poster_path": "/52HrWjk6auzcDjJ0uPR0yYYvxxY.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [],
     "crew": []
@@ -61,6 +58,9 @@
         "published_at": "2024-03-18T13:01:24.000Z"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -99,13 +99,6 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt31464940",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -130,6 +123,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt31464940",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

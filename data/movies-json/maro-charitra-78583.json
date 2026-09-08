@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మరో చరిత్ర",
   "overview": "A young man and a woman fall in love with each other. However, their parents decide to test their relationship by separating the couple for a year.",
-  "popularity": 0.4734,
+  "popularity": 0.8017,
   "poster_path": "/s3L4KmGRgiVtBPyC6DMCUAiyMce.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Kamal Haasan",
         "original_name": "Kamal Haasan",
-        "popularity": 1.9288,
+        "popularity": 2.5692,
         "profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
         "cast_id": 4,
         "character": "Balu",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Saritha",
         "original_name": "Saritha",
-        "popularity": 2.1049,
+        "popularity": 1.6565,
         "profile_path": "/eev5fjG5e5pj130CF5JjZTlJZqm.jpg",
         "cast_id": 5,
         "character": "Swapna",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Madhavi",
         "original_name": "Madhavi",
-        "popularity": 0.3395,
+        "popularity": 1.4096,
         "profile_path": "/6ChxtchACMxgImDNB3KnGiymYqb.jpg",
         "cast_id": 6,
         "character": "Sandhya",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "J.V. Ramana Murthi",
         "original_name": "J. V. Ramana Murthi",
-        "popularity": 0.3156,
+        "popularity": 0.8903,
         "profile_path": null,
         "cast_id": 12,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "P. L. Narayana",
         "original_name": "P. L. Narayana",
-        "popularity": 0.1127,
+        "popularity": 0.3703,
         "profile_path": null,
         "cast_id": 13,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "S. K. Misro",
         "original_name": "S. K. Misro",
-        "popularity": 0.0919,
+        "popularity": 0.4529,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 7,
         "character": "",
@@ -164,7 +164,7 @@
         "known_for_department": "Directing",
         "name": "K. Balachander",
         "original_name": "K. Balachander",
-        "popularity": 0.3546,
+        "popularity": 2.4239,
         "profile_path": "/hhFoaIYLGrTpla627xa3aZFoBOI.jpg",
         "credit_id": "52fe49a8c3a368484e136e1d",
         "department": "Directing",
@@ -177,7 +177,7 @@
         "known_for_department": "Editing",
         "name": "N. R. Kittu",
         "original_name": "N. R. Kittu",
-        "popularity": 0.0459,
+        "popularity": 0.3288,
         "profile_path": null,
         "credit_id": "54d604c6c3a3683b95001e4c",
         "department": "Editing",
@@ -190,7 +190,7 @@
         "known_for_department": "Production",
         "name": "Rama Arangannal",
         "original_name": "Rama. Arangakannal M. L. A.",
-        "popularity": 0.0214,
+        "popularity": 0.3278,
         "profile_path": null,
         "credit_id": "54d60497c3a3683b99001d37",
         "department": "Production",
@@ -199,11 +199,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 237706,
+        "known_for_department": "Directing",
+        "name": "K. Balachander",
+        "original_name": "K. Balachander",
+        "popularity": 2.4239,
+        "profile_path": "/hhFoaIYLGrTpla627xa3aZFoBOI.jpg",
+        "credit_id": "601d1062fb3f61003fcfd8bb",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 584222,
         "known_for_department": "Sound",
         "name": "M. S. Viswanathan",
         "original_name": "M. S. Viswanathan",
-        "popularity": 0.0982,
+        "popularity": 0.5993,
         "profile_path": "/nDktjZfiTBPqYhwhv7agAOCsPpq.jpg",
         "credit_id": "601d1046aafebd0040e7e5e4",
         "department": "Sound",
@@ -216,20 +229,7 @@
         "known_for_department": "Directing",
         "name": "K. Balachander",
         "original_name": "K. Balachander",
-        "popularity": 0.3546,
-        "profile_path": "/hhFoaIYLGrTpla627xa3aZFoBOI.jpg",
-        "credit_id": "601d1062fb3f61003fcfd8bb",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237706,
-        "known_for_department": "Directing",
-        "name": "K. Balachander",
-        "original_name": "K. Balachander",
-        "popularity": 0.3546,
+        "popularity": 2.4239,
         "profile_path": "/hhFoaIYLGrTpla627xa3aZFoBOI.jpg",
         "credit_id": "601d106fbc86570040bec5d9",
         "department": "Writing",
@@ -242,7 +242,7 @@
         "known_for_department": "Camera",
         "name": "B. S. Lokanath",
         "original_name": "B. S. Lokanath",
-        "popularity": 0.1217,
+        "popularity": 0.2887,
         "profile_path": null,
         "credit_id": "601cff259a3c49003fad575d",
         "department": "Camera",
@@ -259,6 +259,35 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Thirakal Ezhuthiya Kavitha",
+        "type": "Malayalam dubbed version"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -295,34 +324,5 @@
         "width": 1500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Thirakal Ezhuthiya Kavitha",
-        "type": "Malayalam dubbed version"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1978-05-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   }
 }

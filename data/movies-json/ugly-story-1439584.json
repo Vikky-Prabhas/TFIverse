@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": "/hzsoVwU7k9ebO2CoVSK7OGS0tJY.jpg",
+  "backdrop_path": "/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -24,10 +24,10 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Ugly Story",
-  "overview": "",
-  "popularity": 0.5675,
-  "poster_path": "/wwCQ0aZWbleGswX6hJAjk8CH19q.jpg",
+  "original_title": "అగ్లీ స్టోరీ",
+  "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
+  "popularity": 3.172,
+  "poster_path": "/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
   "production_companies": [
     {
       "id": 91666,
@@ -44,7 +44,7 @@
   ],
   "release_date": "2026-05-22",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 123,
   "softcore": false,
   "spoken_languages": [
     {
@@ -53,28 +53,14 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "Post Production",
+  "status": "Released",
   "tagline": "",
   "title": "Ugly Story",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 4,
+  "vote_count": 2,
   "credits": {
     "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1071558,
-        "known_for_department": "Acting",
-        "name": "Nandu Vijay Krishna",
-        "original_name": "Nandu Vijay Krishna",
-        "popularity": 0.2269,
-        "profile_path": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "67bd74fd11434cab4b5999be",
-        "order": 0
-      },
       {
         "adult": false,
         "gender": 1,
@@ -82,11 +68,25 @@
         "known_for_department": "Acting",
         "name": "Avika Gor",
         "original_name": "Avika Gor",
-        "popularity": 0.3913,
+        "popularity": 1.2945,
         "profile_path": "/2HJXqe3Y98nw2lDESNmwAM6cfQ8.jpg",
         "cast_id": 2,
-        "character": "",
+        "character": "Neha",
         "credit_id": "67bd750511434cab4b5999c3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071558,
+        "known_for_department": "Acting",
+        "name": "Nandu Vijay Krishna",
+        "original_name": "Nandu Vijay Krishna",
+        "popularity": 0.8709,
+        "profile_path": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg",
+        "cast_id": 1,
+        "character": "Karthik",
+        "credit_id": "67bd74fd11434cab4b5999be",
         "order": 1
       },
       {
@@ -96,10 +96,10 @@
         "known_for_department": "Acting",
         "name": "Ravi Teja Mahadasyam",
         "original_name": "Ravi Teja Mahadasyam",
-        "popularity": 0.0735,
+        "popularity": 0.467,
         "profile_path": "/7MwkZCDAxcYYbsHblZFSMbzvETe.jpg",
         "cast_id": 3,
-        "character": "",
+        "character": "Goutham",
         "credit_id": "67bd751d7617568fc65e9404",
         "order": 2
       },
@@ -110,10 +110,10 @@
         "known_for_department": "Acting",
         "name": "Pragya Nayan Sinha",
         "original_name": "Pragya Nayan Sinha",
-        "popularity": 0.3266,
+        "popularity": 1.0157,
         "profile_path": "/i6823ExArOclEoSuLhhCEYVShYJ.jpg",
         "cast_id": 4,
-        "character": "",
+        "character": "Police Officer",
         "credit_id": "67bd75347617568fc65e9418",
         "order": 3
       },
@@ -124,12 +124,40 @@
         "known_for_department": "Acting",
         "name": "Shivaji Raja",
         "original_name": "Shivaji Raja",
-        "popularity": 0.3786,
+        "popularity": 1.7055,
         "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
         "cast_id": 13,
-        "character": "",
+        "character": "Neha's Uncle",
         "credit_id": "69fbb717854000302259f806",
         "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6292007,
+        "known_for_department": "Acting",
+        "name": "Alka Rathod",
+        "original_name": "Alka Rathod",
+        "popularity": 0.4682,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Neha's Friend",
+        "credit_id": "6a32b73ba636d4963d707f9d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6409327,
+        "known_for_department": "Acting",
+        "name": "Sahasra Sri",
+        "original_name": "Sahasra Sri",
+        "popularity": 0.7986,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6a7df986a10a6f021f2d25b9",
+        "order": 6
       }
     ],
     "crew": [
@@ -140,7 +168,7 @@
         "known_for_department": "Production",
         "name": "L. Pranava Swaroop",
         "original_name": "L. Pranava Swaroop",
-        "popularity": 0,
+        "popularity": 0.5221,
         "profile_path": "/7VgnX8gn37op7ePMP8bQ2FzoUo5.jpg",
         "credit_id": "67bd75d2f402def7122db819",
         "department": "Directing",
@@ -153,7 +181,7 @@
         "known_for_department": "Production",
         "name": "L. Pranava Swaroop",
         "original_name": "L. Pranava Swaroop",
-        "popularity": 0,
+        "popularity": 0.5221,
         "profile_path": "/7VgnX8gn37op7ePMP8bQ2FzoUo5.jpg",
         "credit_id": "67bd75e9b41e95d32c599753",
         "department": "Writing",
@@ -166,7 +194,7 @@
         "known_for_department": "Production",
         "name": "Bekkem Venugopal",
         "original_name": "Bekkem Venugopal",
-        "popularity": 0.0453,
+        "popularity": 0.3193,
         "profile_path": null,
         "credit_id": "67bd7601f402def7122db827",
         "department": "Production",
@@ -179,7 +207,7 @@
         "known_for_department": "Directing",
         "name": "Aswwani Sri Krisshna",
         "original_name": "Aswwani Sri Krisshna",
-        "popularity": 0.0071,
+        "popularity": 0.2691,
         "profile_path": "/lZQrgdjVY76Ut4CAXwMiWo31uAK.jpg",
         "credit_id": "67bd766dec6a9392a72dae86",
         "department": "Production",
@@ -192,7 +220,7 @@
         "known_for_department": "Camera",
         "name": "Shrie Saikumar Daara",
         "original_name": "Shrie Saikumar Daara",
-        "popularity": 0,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "67bd76bdb41e95d32c5997bd",
         "department": "Camera",
@@ -205,7 +233,7 @@
         "known_for_department": "Editing",
         "name": "R. Srikanth Patnaik",
         "original_name": "R. Srikanth Patnaik",
-        "popularity": 0.068,
+        "popularity": 0.3088,
         "profile_path": null,
         "credit_id": "67bd772da0f42fcaf32dac9c",
         "department": "Editing",
@@ -218,7 +246,7 @@
         "known_for_department": "Art",
         "name": "Vithal Kosanam",
         "original_name": "Vithal Kosanam",
-        "popularity": 0.1087,
+        "popularity": 0.2866,
         "profile_path": null,
         "credit_id": "67bd774c7617568fc65e94b9",
         "department": "Art",
@@ -231,7 +259,7 @@
         "known_for_department": "Editing",
         "name": "Mithun Soma",
         "original_name": "Mithun Soma",
-        "popularity": 0,
+        "popularity": 0.5294,
         "profile_path": null,
         "credit_id": "69fbb74568d700bacf1b092c",
         "department": "Editing",
@@ -244,7 +272,7 @@
         "known_for_department": "Sound",
         "name": "Shravan Bharadwaj",
         "original_name": "Shravan Bharadwaj",
-        "popularity": 0.0871,
+        "popularity": 0.4759,
         "profile_path": null,
         "credit_id": "69fbb75c4aa5b0f52859f869",
         "department": "Sound",
@@ -257,7 +285,7 @@
         "known_for_department": "Crew",
         "name": "Eshwar Penti",
         "original_name": "Eshwar Penti",
-        "popularity": 0.0457,
+        "popularity": 0.4472,
         "profile_path": null,
         "credit_id": "69fbb771067b7df780d9a403",
         "department": "Crew",
@@ -270,7 +298,7 @@
         "known_for_department": "Sound",
         "name": "Chathurvedhi Thirunagari",
         "original_name": "Chathurvedhi Thirunagari",
-        "popularity": 0.0071,
+        "popularity": 0.4025,
         "profile_path": null,
         "credit_id": "69fbb785854000302259f810",
         "department": "Sound",
@@ -283,7 +311,7 @@
         "known_for_department": "Sound",
         "name": "uday appala",
         "original_name": "uday appala",
-        "popularity": 0,
+        "popularity": 0.356,
         "profile_path": null,
         "credit_id": "69fbb7989bc1a9da2fd9a418",
         "department": "Sound",
@@ -296,40 +324,42 @@
         "known_for_department": "Crew",
         "name": "V. R. Madhu",
         "original_name": "V. R. Madhu",
-        "popularity": 0.0239,
+        "popularity": 0.3194,
         "profile_path": null,
         "credit_id": "69fbb7b2e0be26ba8e59f7ff",
         "department": "Crew",
         "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2279500,
+        "known_for_department": "Writing",
+        "name": "Ravi Kumar Bhaskarabhatla",
+        "original_name": "Ravi Kumar Bhaskarabhatla",
+        "popularity": 0.3786,
+        "profile_path": "/6XBjczf3IIIp2GFNY1hZw6tak2i.jpg",
+        "credit_id": "6a7df9ba843043d058e70466",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3832894,
+        "known_for_department": "Sound",
+        "name": "Lalitha Kavya",
+        "original_name": "Lalitha Kavya",
+        "popularity": 0.395,
+        "profile_path": null,
+        "credit_id": "6a7df9d106167fa66fc7a8cc",
+        "department": "Sound",
+        "job": "Playback Singer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt35992024",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-05-22T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "videos": {
     "results": [
@@ -359,30 +389,106 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-05-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Prime Video",
+            "release_date": "2026-06-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35992024",
+    "wikidata_id": "Q140222792",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
         "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
         "height": 2160,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/hzsoVwU7k9ebO2CoVSK7OGS0tJY.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 3840
       }
     ],
-    "logos": [],
+    "logos": [
+      {
+        "aspect_ratio": 1.754,
+        "height": 668,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/y9KVTZwtj8OgWXE8q18ek3RmOx3.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1172
+      }
+    ],
     "posters": [
       {
         "aspect_ratio": 0.667,
         "height": 3000,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
-        "file_path": "/wwCQ0aZWbleGswX6hJAjk8CH19q.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
+        "file_path": "/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
         "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/wwCQ0aZWbleGswX6hJAjk8CH19q.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/hzg1qQmlFF0h4iY6Vw06IcIng9a.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1067
       },
       {
         "aspect_ratio": 0.667,
@@ -409,24 +515,11 @@
         "height": 3000,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
-        "file_path": "/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
-        "vote_average": 0.166,
-        "vote_count": 1,
-        "width": 2000
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
         "file_path": "/5M67sZ0ujqvIovNUqrIr90e749x.jpg",
         "vote_average": 0.166,
         "vote_count": 1,
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

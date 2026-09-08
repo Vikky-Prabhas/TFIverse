@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Thodu",
   "overview": "A man and woman bond over their common fate. Both in their fifties, have lost their spouses and are struggling to cope. Gangadharam remains miserable with the loss of his wife, Vijaylakshmi immerses herself in music lessons. With monumental effort he summons the courage and asks Vijaylakshmi to consider marriage. Though she laughs the idea off initially circumstances soon reveal to her how lonely she feels in his absence and the value of companionship.",
-  "popularity": 0.2334,
+  "popularity": 0.6004,
   "poster_path": "/jcoSAI58N9mBKFgGv8ZxTBmzbg2.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Geetha",
         "original_name": "Geetha",
-        "popularity": 0.839,
+        "popularity": 2.5737,
         "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
         "cast_id": 3,
         "character": "",
@@ -87,8 +87,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 5,
         "character": "",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Jhansi",
         "original_name": "Jhansi",
-        "popularity": 0.1824,
+        "popularity": 0.7242,
         "profile_path": "/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg",
         "cast_id": 6,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Directing",
         "name": "Akkineni Kutumba Rao",
         "original_name": "Akkineni Kutumba Rao",
-        "popularity": 0.0261,
+        "popularity": 0.3707,
         "profile_path": null,
         "credit_id": "5d86410be78e2d001074da28",
         "department": "Directing",
@@ -141,63 +141,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1997945,
-        "known_for_department": "Sound",
-        "name": "Mangalampalli Balamuralikrishna",
-        "original_name": "Mangalampalli Balamuralikrishna",
-        "popularity": 0.0563,
-        "profile_path": null,
-        "credit_id": "5f93cf0be8131d004f4f9988",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2275578,
-        "known_for_department": "Writing",
-        "name": "P. Lalitha Kumari",
-        "original_name": "P. Lalitha Kumari",
-        "popularity": 0.0193,
-        "profile_path": null,
-        "credit_id": "5f93ce537dfda600440444b7",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 2275578,
-        "known_for_department": "Writing",
-        "name": "P. Lalitha Kumari",
-        "original_name": "P. Lalitha Kumari",
-        "popularity": 0.0193,
-        "profile_path": null,
-        "credit_id": "5f93ce667dfda600440444c2",
-        "department": "Directing",
-        "job": "Co-Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 110702,
-        "known_for_department": "Editing",
-        "name": "B. Lenin",
-        "original_name": "B. Lenin",
-        "popularity": 0.1288,
-        "profile_path": "/1LZ1xQkE0KTwWc2u8lU6FeE3bjY.jpg",
-        "credit_id": "5f93cec9bdd568004421b390",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1612323,
         "known_for_department": "Directing",
         "name": "Akkineni Kutumba Rao",
         "original_name": "Akkineni Kutumba Rao",
-        "popularity": 0.0261,
+        "popularity": 0.3707,
         "profile_path": null,
         "credit_id": "5f93cd0bd11e0e00338e21f7",
         "department": "Writing",
@@ -210,11 +158,50 @@
         "known_for_department": "Writing",
         "name": "P. Lalitha Kumari",
         "original_name": "P. Lalitha Kumari",
-        "popularity": 0.0193,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "5f93ce3c1bf266003303e514",
         "department": "Writing",
         "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2275578,
+        "known_for_department": "Writing",
+        "name": "P. Lalitha Kumari",
+        "original_name": "P. Lalitha Kumari",
+        "popularity": 0.2559,
+        "profile_path": null,
+        "credit_id": "5f93ce537dfda600440444b7",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2275578,
+        "known_for_department": "Writing",
+        "name": "P. Lalitha Kumari",
+        "original_name": "P. Lalitha Kumari",
+        "popularity": 0.2559,
+        "profile_path": null,
+        "credit_id": "5f93ce667dfda600440444c2",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110702,
+        "known_for_department": "Editing",
+        "name": "B. Lenin",
+        "original_name": "B. Lenin",
+        "popularity": 0.5577,
+        "profile_path": "/1LZ1xQkE0KTwWc2u8lU6FeE3bjY.jpg",
+        "credit_id": "5f93cec9bdd568004421b390",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -223,11 +210,24 @@
         "known_for_department": "Editing",
         "name": "V. T. Vijayan",
         "original_name": "V. T. Vijayan",
-        "popularity": 1.0104,
-        "profile_path": null,
+        "popularity": 0.3932,
+        "profile_path": "/9n5fOafjQ6YMhEswVmvGVRa0KwE.jpg",
         "credit_id": "5f93cedd5a991500598f4950",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1997945,
+        "known_for_department": "Sound",
+        "name": "Mangalampalli Balamuralikrishna",
+        "original_name": "Mangalampalli Balamuralikrishna",
+        "popularity": 0.3126,
+        "profile_path": null,
+        "credit_id": "5f93cf0be8131d004f4f9988",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -236,13 +236,16 @@
         "known_for_department": "Camera",
         "name": "Madhu Ambat",
         "original_name": "Madhu Ambat",
-        "popularity": 0.0858,
+        "popularity": 0.3789,
         "profile_path": "/Aigs0ffIbHFjXtjSQKha5TMsecz.jpg",
         "credit_id": "5ff051965907de00403b5962",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
+  },
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt6543398",
@@ -251,8 +254,28 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1997-01-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -298,29 +321,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1997-01-14T00:00:00.000Z",
-            "type": 4
-          }
-        ]
       }
     ]
   }

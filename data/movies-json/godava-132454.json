@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గొడవ",
   "overview": "Vaibhav made his acting debut in 2007, starring in the Telugu film Godava under his father's direction opposite Shradha Arya, It didn't do well at the box office",
-  "popularity": 0.2721,
+  "popularity": 1.2368,
   "poster_path": "/hf0xRMSfUzrRDxqFB2ywcZujWxa.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,9 +43,6 @@
   "video": false,
   "vote_average": 7.5,
   "vote_count": 2,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -55,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Vaibhav",
         "original_name": "Vaibhav Reddy",
-        "popularity": 0.3146,
+        "popularity": 2.0307,
         "profile_path": "/pCgjirnEoMXJmGRAOXhj5UgLmS8.jpg",
         "cast_id": 2,
         "character": "Hero",
@@ -69,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Shraddha Arya",
         "original_name": "Shraddha Arya",
-        "popularity": 0.4258,
+        "popularity": 0.5143,
         "profile_path": "/98dJGprftDK5HY9fautt779gT3r.jpg",
         "cast_id": 3,
         "character": "Heroine",
@@ -83,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Aswini",
         "original_name": "Aswini",
-        "popularity": 0.0772,
+        "popularity": 0.3706,
         "profile_path": null,
         "cast_id": 4,
         "character": "Heroine Friend",
@@ -99,7 +96,7 @@
         "known_for_department": "Crew",
         "name": "Nixon Cruz Master",
         "original_name": "Nixon Cruz Master",
-        "popularity": 0.1809,
+        "popularity": 0.3617,
         "profile_path": null,
         "credit_id": "62d761ef1c635b0050895fe2",
         "department": "Crew",
@@ -112,7 +109,7 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.4415,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "598e7bc1c3a36874b4005a69",
         "department": "Directing",
@@ -120,8 +117,8 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "tt1116033",
@@ -129,6 +126,9 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -144,6 +144,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Rowdy Bodyguard The Powerful Man",
+        "type": "Hindi Dubbed"
       }
     ]
   },
@@ -171,15 +180,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Rowdy Bodyguard The Powerful Man",
-        "type": "Hindi Dubbed"
       }
     ]
   }

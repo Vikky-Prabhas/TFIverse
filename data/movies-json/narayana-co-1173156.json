@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Narayana & Co",
   "overview": "A middle-class family in financial distress agrees to an illegal deal and embarks on a hilarious journey to overcome their problems, discovering the true meaning of family in the process.",
-  "popularity": 0.1292,
+  "popularity": 0.4383,
   "poster_path": "/bDyn0wXdMQBAIEEr6Y4WCa9EZwp.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,37 +33,26 @@
   "title": "Narayana & Co",
   "video": false,
   "vote_average": 3,
-  "vote_count": 1,
+  "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt27350100",
-    "wikidata_id": null,
+    "wikidata_id": "Q120356671",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-06-30T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -81,10 +70,21 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

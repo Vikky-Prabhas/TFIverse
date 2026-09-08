@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Preminchu Pelladu",
   "overview": "Preminchu Pelladu",
-  "popularity": 0.0996,
+  "popularity": 0.7668,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -47,6 +47,27 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -56,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Kumara Swamy",
         "original_name": "Rahul Kumara Swamy",
-        "popularity": 0,
+        "popularity": 0.3123,
         "profile_path": null,
         "cast_id": 0,
         "character": "Actor",
@@ -70,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Anusha Nayak",
         "original_name": "Anusha Nayak",
-        "popularity": 0.0143,
+        "popularity": 0.2629,
         "profile_path": null,
         "cast_id": 1,
         "character": "Actress",
@@ -84,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Neha Priya",
         "original_name": "Neha Priya",
-        "popularity": 0,
+        "popularity": 0.3437,
         "profile_path": null,
         "cast_id": 2,
         "character": "Actress",
@@ -98,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "Gehana Vasisth",
         "original_name": "गहना वशिष्ठ",
-        "popularity": 2.0156,
+        "popularity": 0.7868,
         "profile_path": "/zHc4C8853XASKaQUSfBsGlikIS5.jpg",
         "cast_id": 4,
         "character": "",
@@ -107,19 +128,6 @@
       }
     ],
     "crew": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -137,13 +145,5 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Drushyam 3",
   "overview": "Plot is unknown",
-  "popularity": 0.0214,
+  "popularity": 0.9401,
   "poster_path": null,
   "production_companies": [
     {
@@ -59,19 +59,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": []
   },
@@ -84,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 1,
         "character": "Rambabu",
@@ -98,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Meena",
         "original_name": "Meena",
-        "popularity": 5.1352,
+        "popularity": 2.76,
         "profile_path": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
         "cast_id": 2,
         "character": "Jyothi",
@@ -114,7 +101,7 @@
         "known_for_department": "Production",
         "name": "Daggubati Suresh Babu",
         "original_name": "Daggubati Suresh Babu",
-        "popularity": 0.1157,
+        "popularity": 0.43,
         "profile_path": "/ugysor71gHswoftlEeftZJTffo9.jpg",
         "credit_id": "691ea64e78de0b8de8c2cc83",
         "department": "Production",
@@ -124,6 +111,19 @@
   },
   "release_dates": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],

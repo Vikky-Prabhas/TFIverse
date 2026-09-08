@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Brave Spirit",
   "overview": "This story is about a poor boy who's on verge of death, because of hunger and something happens to him, what is it?",
-  "popularity": 0.0496,
+  "popularity": 0.7693,
   "poster_path": "/5ANHxcSbtNnugyKJJHtUhfeDI8t.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -47,16 +47,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -77,8 +67,34 @@
   "alternative_titles": {
     "titles": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.664,
+        "height": 1280,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/5ANHxcSbtNnugyKJJHtUhfeDI8t.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 850
+      }
+    ]
   },
   "credits": {
     "cast": [
@@ -89,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Abdul Khadar Shaik",
         "original_name": "Abdul Khadar Shaik",
-        "popularity": 0,
+        "popularity": 0.2699,
         "profile_path": null,
         "cast_id": 1,
         "character": "Skytson",
@@ -103,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "G. Akhil",
         "original_name": "G. Akhil",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": null,
         "cast_id": 3,
         "character": "Mr. Silly (Voice)",
@@ -117,7 +133,7 @@
         "known_for_department": "Acting",
         "name": "Abubakar Siddiq",
         "original_name": "Abubakar Siddiq",
-        "popularity": 0,
+        "popularity": 0.3095,
         "profile_path": null,
         "cast_id": 2,
         "character": "Mr. Kavva (Voice)",
@@ -131,7 +147,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "cast_id": 4,
         "character": "Forest Guardian (Voice)",
@@ -145,7 +161,7 @@
         "known_for_department": "Sound",
         "name": "Adrian Von Ziegler",
         "original_name": "Adrian Von Ziegler",
-        "popularity": 0,
+        "popularity": 0.3351,
         "profile_path": null,
         "cast_id": 5,
         "character": "Manda (During Song) (Voice)",
@@ -161,7 +177,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2df5de28af41cfc760dca",
         "department": "Camera",
@@ -174,7 +190,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2df69e28af41cfc760dcd",
         "department": "Directing",
@@ -187,7 +203,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2df74e28af41cfc760dd5",
         "department": "Writing",
@@ -200,7 +216,7 @@
         "known_for_department": "Sound",
         "name": "Adrian Von Ziegler",
         "original_name": "Adrian Von Ziegler",
-        "popularity": 0,
+        "popularity": 0.3351,
         "profile_path": null,
         "credit_id": "67e2df88e28af41cfc760ddd",
         "department": "Sound",
@@ -213,7 +229,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2dfa116a3c5c224f071a8",
         "department": "Production",
@@ -226,7 +242,7 @@
         "known_for_department": "Acting",
         "name": "Shaheera Shaik",
         "original_name": "Shaheera Shaik",
-        "popularity": 0,
+        "popularity": 0.2638,
         "profile_path": null,
         "credit_id": "67e2dfb0e28af41cfc760de6",
         "department": "Production",
@@ -239,7 +255,7 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2dfbe16a3c5c224f071b3",
         "department": "Editing",
@@ -252,7 +268,7 @@
         "known_for_department": "Visual Effects",
         "name": "Maskman626",
         "original_name": "Maskman626",
-        "popularity": 0,
+        "popularity": 0.3138,
         "profile_path": null,
         "credit_id": "67e2dfd8d70c61590375ea42",
         "department": "Visual Effects",
@@ -265,7 +281,7 @@
         "known_for_department": "Visual Effects",
         "name": "Alexey Starodumov",
         "original_name": "Alexey Starodumov",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67e2dffee28af41cfc760e11",
         "department": "Visual Effects",
@@ -278,7 +294,7 @@
         "known_for_department": "Visual Effects",
         "name": "Lucasstanieeart",
         "original_name": "Lucasstanieeart",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67e2e020d70c61590375ea54",
         "department": "Visual Effects",
@@ -291,7 +307,7 @@
         "known_for_department": "Visual Effects",
         "name": "Rotten Alice",
         "original_name": "Rotten Alice",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "credit_id": "67e2e035d70c61590375ea62",
         "department": "Visual Effects",
@@ -304,27 +320,11 @@
         "known_for_department": "Directing",
         "name": "Jafar Ahammad Shaik",
         "original_name": "Jafar Ahammad Shaik",
-        "popularity": 0.0168,
+        "popularity": 0.3228,
         "profile_path": null,
         "credit_id": "67e2ec5716a3c5c224f07522",
         "department": "Visual Effects",
         "job": "VFX Artist"
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.664,
-        "height": 1280,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/5ANHxcSbtNnugyKJJHtUhfeDI8t.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 850
       }
     ]
   }

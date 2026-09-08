@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Shri Rama Raksha",
   "overview": "",
-  "popularity": 0.0969,
+  "popularity": 0.4365,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -39,24 +39,6 @@
   "video": false,
   "vote_average": 10,
   "vote_count": 1,
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0260368",
-    "wikidata_id": "Q27962977",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [],
     "crew": [
@@ -67,13 +49,34 @@
         "known_for_department": "Directing",
         "name": "Rama Rao Tatineni",
         "original_name": "Rama Rao Tatineni",
-        "popularity": 0.4626,
+        "popularity": 1.2219,
         "profile_path": "/1aeQQr5S2PRDHnIwcKrRocMO9xV.jpg",
         "credit_id": "60203105cc9683003cc1539c",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0260368",
+    "wikidata_id": "Q27962977",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -91,8 +94,5 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

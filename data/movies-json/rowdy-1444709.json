@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Rowdy",
   "overview": "Rowdy is a 1984 Indian Telugu film, directed by Mohan Gandhi and produced by Atluri Tulasidas. The film stars Krishnam Raju, Sharada and Bhanupriya in lead roles. The film had musical score by Chakravarthi.",
-  "popularity": 0.0972,
+  "popularity": 0.5292,
   "poster_path": "/rFEwlOf7Dd5YhYNOLpaF1QJiEdZ.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4938,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +65,7 @@
         "known_for_department": "Acting",
         "name": "Sharada",
         "original_name": "Sharada",
-        "popularity": 0.4022,
+        "popularity": 1.7033,
         "profile_path": "/qaC7niVbch3Tz912TuHHEUkBoVb.jpg",
         "cast_id": 3,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Directing",
         "name": "A. Mohan Gandhi",
         "original_name": "A. Mohan Gandhi",
-        "popularity": 0.1414,
+        "popularity": 0.4385,
         "profile_path": null,
         "credit_id": "67cb66689ef0acdb8b5b876d",
         "department": "Directing",
@@ -94,35 +94,13 @@
         "known_for_department": "Directing",
         "name": "A. Mohan Gandhi",
         "original_name": "A. Mohan Gandhi",
-        "popularity": 0.1414,
+        "popularity": 0.4385,
         "profile_path": null,
         "credit_id": "67cb668142c7521252f5868e",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/rFEwlOf7Dd5YhYNOLpaF1QJiEdZ.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -150,5 +128,27 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rFEwlOf7Dd5YhYNOLpaF1QJiEdZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

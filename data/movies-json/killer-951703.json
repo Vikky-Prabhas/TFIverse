@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Killer",
   "overview": "A bachelor experiences a weird dream, this is the aftermath.",
-  "popularity": 0.0985,
+  "popularity": 0.4088,
   "poster_path": "/ilJkKyzLyM0LfRnYb28mFviYG7s.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,72 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3472699,
+        "known_for_department": "Acting",
+        "name": "Vinay",
+        "original_name": "Vinay",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Protagonist",
+        "credit_id": "623725ba894ed60079514f37",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "623725c98ec4ab0044e72b34",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "623725d51da7a60077609930",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3472646,
+        "known_for_department": "Directing",
+        "name": "Y. Nithin",
+        "original_name": "Y. Nithin",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "623725e9df29450019deca9d",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt13249278",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": [
       {
@@ -50,15 +116,14 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt13249278",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -75,70 +140,5 @@
         "width": 1598
       }
     ]
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3472699,
-        "known_for_department": "Acting",
-        "name": "Vinay",
-        "original_name": "Vinay",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Protagonist",
-        "credit_id": "623725ba894ed60079514f37",
-        "order": 0
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "623725c98ec4ab0044e72b34",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "623725d51da7a60077609930",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3472646,
-        "known_for_department": "Directing",
-        "name": "Y. Nithin",
-        "original_name": "Y. Nithin",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "credit_id": "623725e9df29450019deca9d",
-        "department": "Editing",
-        "job": "Editor"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

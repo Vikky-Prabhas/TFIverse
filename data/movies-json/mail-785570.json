@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mail",
   "overview": "Part 1 of Kambalapalli Kathalu from Aha.  Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences.",
-  "popularity": 0.1905,
+  "popularity": 0.6721,
   "poster_path": "/vy6DFuBEOTc3tVYfs2obqrX8fo8.jpg",
   "production_companies": [
     {
@@ -53,8 +53,15 @@
   "tagline": "An innocent attempt of anthology film depicting the life of young men and women in a remote Indian village called Kambalapalli.",
   "title": "Mail",
   "video": false,
-  "vote_average": 5.6,
-  "vote_count": 5,
+  "vote_average": 6,
+  "vote_count": 6,
+  "external_ids": {
+    "imdb_id": "tt13847946",
+    "wikidata_id": "Q105274697",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.4209,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 6,
         "character": "Hybath",
@@ -78,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Harshith Malgireddy",
         "original_name": "Harshith Malgireddy",
-        "popularity": 0.2211,
+        "popularity": 0.5264,
         "profile_path": null,
         "cast_id": 4,
         "character": "Ravi",
@@ -92,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Sri Gouri Priya Reddy",
         "original_name": "Sri Gouri Priya Reddy",
-        "popularity": 0.7184,
+        "popularity": 2.3211,
         "profile_path": "/aLUBrLtig6XjNltUXRQyNXbTCiV.jpg",
         "cast_id": 7,
         "character": "Roja",
@@ -106,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Mani Aegurla",
         "original_name": "Mani Aegurla",
-        "popularity": 0.0071,
+        "popularity": 0.457,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -120,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Vannarn",
         "original_name": "Vannarn",
-        "popularity": 0.0387,
+        "popularity": 0.2745,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -134,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth Palle",
         "original_name": "Srikanth Palle",
-        "popularity": 0.0071,
+        "popularity": 0.2867,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -148,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Ravinder Bommakanti",
         "original_name": "Ravinder Bommakanti",
-        "popularity": 0.0362,
+        "popularity": 0.3998,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -162,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Anusha Netha",
         "original_name": "Anusha Netha",
-        "popularity": 0,
+        "popularity": 0.3933,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -178,7 +185,7 @@
         "known_for_department": "Camera",
         "name": "Shyam Dupati",
         "original_name": "Shyam Dupati",
-        "popularity": 0,
+        "popularity": 0.2651,
         "profile_path": null,
         "credit_id": "6470c01977070001192497c9",
         "department": "Camera",
@@ -191,7 +198,7 @@
         "known_for_department": "Directing",
         "name": "Uday Gurrala",
         "original_name": "Uday Gurrala",
-        "popularity": 0.0143,
+        "popularity": 0.3154,
         "profile_path": null,
         "credit_id": "6470c047336e0100aae0c5c5",
         "department": "Camera",
@@ -204,7 +211,7 @@
         "known_for_department": "Directing",
         "name": "Uday Gurrala",
         "original_name": "Uday Gurrala",
-        "popularity": 0.0143,
+        "popularity": 0.3154,
         "profile_path": null,
         "credit_id": "5ffe9a0ca4f03c003d389640",
         "department": "Directing",
@@ -217,7 +224,7 @@
         "known_for_department": "Editing",
         "name": "Hari Shankar TN",
         "original_name": "Hari Shankar TN",
-        "popularity": 0.0071,
+        "popularity": 0.2577,
         "profile_path": null,
         "credit_id": "5ffe9b5c223e20003faf87bf",
         "department": "Editing",
@@ -230,7 +237,7 @@
         "known_for_department": "Sound",
         "name": "Sweekar Agasthi",
         "original_name": "Sweekar Agasthi",
-        "popularity": 0.1011,
+        "popularity": 0.3278,
         "profile_path": null,
         "credit_id": "5ffe9b780ff15a003e5acc67",
         "department": "Sound",
@@ -243,20 +250,13 @@
         "known_for_department": "Directing",
         "name": "Uday Gurrala",
         "original_name": "Uday Gurrala",
-        "popularity": 0.0143,
+        "popularity": 0.3154,
         "profile_path": null,
         "credit_id": "68c3a184927ae7d07f3bdfea",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt13847946",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -275,6 +275,31 @@
             "type": 4
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Kambalapalli Kathalu",
+        "type": "Chapter 1"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mail Trailer | An aha Original | Priyadarshi | Uday Gurrala|Swapna Cinema| Premieres January 12 @6PM",
+        "key": "RMccu8LFAsE",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ffe9aa342d8a5003f3de4c1",
+        "published_at": "2021-01-08T13:40:51.000Z"
       }
     ]
   },
@@ -362,31 +387,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1067
-      }
-    ]
-  },
-  "videos": {
-    "results": [
-      {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Mail Trailer | An aha Original | Priyadarshi | Uday Gurrala|Swapna Cinema| Premieres January 12 @6PM",
-        "key": "RMccu8LFAsE",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Trailer",
-        "official": true,
-        "id": "5ffe9aa342d8a5003f3de4c1",
-        "published_at": "2021-01-08T13:40:51.000Z"
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Kambalapalli Kathalu",
-        "type": "Chapter 1"
       }
     ]
   }

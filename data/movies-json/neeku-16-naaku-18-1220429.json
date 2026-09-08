@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "నీకు 16 నాకు 18",
   "overview": "A drama film directed by Vamsy, starring Amulya, Brahmanandam Kanneganti and Sanjay in the lead roles.",
-  "popularity": 0.2961,
+  "popularity": 0.7671,
   "poster_path": "/qkREESU9GHsxD6IOBzEgae7jKnt.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,12 +34,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt1579819",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "videos": {
+    "results": []
   },
   "credits": {
     "cast": [
@@ -50,7 +46,7 @@
         "known_for_department": "Acting",
         "name": "Amulya",
         "original_name": "Amulya",
-        "popularity": 0.0379,
+        "popularity": 0.3524,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -63,8 +59,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -78,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Sanjay",
         "original_name": "Sanjay",
-        "popularity": 0,
+        "popularity": 0.2645,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -90,9 +86,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 5,
         "character": "",
@@ -106,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Kallu Chidambaram",
         "original_name": "Kallu Chidambaram",
-        "popularity": 0.2287,
+        "popularity": 1.0616,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -120,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Kalpana Rai",
         "original_name": "Kalpana Rai",
-        "popularity": 0.204,
+        "popularity": 0.6668,
         "profile_path": "/x3Nsq29SWSvQMCfbq8TlEgXvnNS.jpg",
         "cast_id": 7,
         "character": "",
@@ -134,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 8,
         "character": "",
@@ -143,13 +139,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "65829c11e8131d40a1a4ad89",
@@ -162,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Mallikarjuna Rao",
         "original_name": "Mallikarjuna Rao",
-        "popularity": 0.3268,
+        "popularity": 1.233,
         "profile_path": "/nRTgNcAdSLqRmk5mQXR3Lz3HXbY.jpg",
         "cast_id": 10,
         "character": "",
@@ -176,7 +172,7 @@
         "known_for_department": "Acting",
         "name": "Jayalalita",
         "original_name": "Jayalalita",
-        "popularity": 1.6078,
+        "popularity": 1.4762,
         "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
         "cast_id": 11,
         "character": "",
@@ -190,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 13,
         "character": "",
@@ -206,7 +202,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "65829948f1759c3f5110b5e9",
         "department": "Directing",
@@ -219,7 +215,7 @@
         "known_for_department": "Directing",
         "name": "Vamsy",
         "original_name": "Vamsy",
-        "popularity": 0.2328,
+        "popularity": 0.7228,
         "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
         "credit_id": "65829d15880551409d276dfe",
         "department": "Sound",
@@ -227,11 +223,35 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt1579819",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-08-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -258,25 +278,5 @@
         "width": 2000
       }
     ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1994-08-31T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

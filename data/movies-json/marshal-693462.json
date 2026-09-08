@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Marshal",
   "overview": "A actor and his fan clash when revelations come to light that the actor is a psychopath hellbent on making women \"fertile\" again,by any means necessary",
-  "popularity": 0.2332,
+  "popularity": 1.495,
   "poster_path": "/j1V916IS66UOX4X7eUgAPJyptYj.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Abhay Adaka",
         "original_name": "Abhay Adaka",
-        "popularity": 0.0071,
+        "popularity": 0.2801,
         "profile_path": null,
         "cast_id": 1,
         "character": "Abhay",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.7734,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 2,
         "character": "Shivaji",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Megha Chowdhury",
         "original_name": "Megha Chowdhury",
-        "popularity": 0.1837,
+        "popularity": 0.5918,
         "profile_path": "/hvn2Wj3rsM5gaKlvsrJ5KP83ATL.jpg",
         "cast_id": 3,
         "character": "Megha",
@@ -83,9 +83,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 4,
         "character": "MGR",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Muralidhar Goud",
         "original_name": "Muralidhar Goud",
-        "popularity": 0.3783,
+        "popularity": 0.818,
         "profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
         "cast_id": 8,
         "character": "",
@@ -111,11 +111,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2602063,
+        "known_for_department": "Acting",
+        "name": "Abhay Adaka",
+        "original_name": "Abhay Adaka",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "credit_id": "5e96998d140bad00149934b6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2602064,
         "known_for_department": "Directing",
         "name": "Jai Raaja Singh",
         "original_name": "Jai Raaja Singh",
-        "popularity": 0,
+        "popularity": 0.2719,
         "profile_path": null,
         "credit_id": "5e9699775c563400136da642",
         "department": "Directing",
@@ -128,56 +141,29 @@
         "known_for_department": "Sound",
         "name": "Varikuppala Yaadagiri",
         "original_name": "Varikuppala Yaadagiri",
-        "popularity": 0,
+        "popularity": 0.2525,
         "profile_path": null,
         "credit_id": "5e9699b1140bad001499350a",
         "department": "Sound",
         "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2602063,
-        "known_for_department": "Acting",
-        "name": "Abhay Adaka",
-        "original_name": "Abhay Adaka",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5e96998d140bad00149934b6",
-        "department": "Production",
-        "job": "Producer"
       }
     ]
   },
   "videos": {
     "results": []
   },
-  "keywords": {
-    "keywords": []
-  },
   "external_ids": {
     "imdb_id": "tt10763826",
-    "wikidata_id": null,
+    "wikidata_id": "Q96392119",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2019-09-06T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -206,7 +192,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2019-09-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

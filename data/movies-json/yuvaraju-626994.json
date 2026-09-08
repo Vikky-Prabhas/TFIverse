@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Yuvaraju",
   "overview": "",
-  "popularity": 0.1821,
+  "popularity": 0.6338,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -35,9 +35,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2993,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Jayasudha",
         "original_name": "Jayasudha",
-        "popularity": 0.5248,
+        "popularity": 1.5468,
         "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
         "cast_id": 2,
         "character": "",
@@ -67,11 +67,11 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "credit_id": "5d68109faaf8970012fb0400",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5d6810a6aaf897000ffaf5e9",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -80,26 +80,13 @@
         "known_for_department": "Directing",
         "name": "Dasari Narayana Rao",
         "original_name": "Dasari Narayana Rao",
-        "popularity": 0.5231,
+        "popularity": 2.2681,
         "profile_path": "/y45ZAkHZvsuRbHMoeBx9zIF4ohT.jpg",
-        "credit_id": "5d6810a6aaf897000ffaf5e9",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "5d68109faaf8970012fb0400",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0262931",
-    "wikidata_id": "Q27964309",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -118,12 +105,25 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0262931",
+    "wikidata_id": "Q27964309",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

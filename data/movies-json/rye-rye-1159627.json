@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Rye Rye",
   "overview": "Sinu, who is a village man, falls in love with a girl named Lakshmi, who is the daughter of a village goon. Sinu and Lakshmi's love faces trouble after her father opposes the relationship.",
-  "popularity": 0.0143,
+  "popularity": 0.4152,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -33,56 +33,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4194443,
-        "known_for_department": "Acting",
-        "name": "Aksha Pardasany",
-        "original_name": "Aksha Pardasany",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "64caccc9297338020a87f3a8",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4194444,
-        "known_for_department": "Acting",
-        "name": "Srinivas",
-        "original_name": "Srinivas",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "64caccd09ee0ef00c71ad6ba",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4194446,
-        "known_for_department": "Directing",
-        "name": "Sudhir Raju",
-        "original_name": "Sudhir Raju",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "64cacceae263bb00ad787762",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "release_dates": {
     "results": [
       {
@@ -117,5 +67,55 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4194443,
+        "known_for_department": "Acting",
+        "name": "Aksha Pardasany",
+        "original_name": "Aksha Pardasany",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "64caccc9297338020a87f3a8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4194444,
+        "known_for_department": "Acting",
+        "name": "Srinivas",
+        "original_name": "Srinivas",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "64caccd09ee0ef00c71ad6ba",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4194446,
+        "known_for_department": "Directing",
+        "name": "Sudhir Raju",
+        "original_name": "Sudhir Raju",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "64cacceae263bb00ad787762",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "హే భగవాన్!",
   "overview": "Expecting to inherit the family business, a young man instead finds himself running a very different enterprise while juggling love, lies, and an unexpected legacy.",
-  "popularity": 0.9161,
+  "popularity": 2.0473,
   "poster_path": "/3e3mWungTL3A4mnFtfqt3bdKxtx.jpg",
   "production_companies": [
     {
@@ -55,6 +55,16 @@
   "video": false,
   "vote_average": 5.3,
   "vote_count": 3,
+  "external_ids": {
+    "imdb_id": "tt37342587",
+    "wikidata_id": "Q138498540",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Suhas",
         "original_name": "Suhas",
-        "popularity": 0.4476,
+        "popularity": 1.153,
         "profile_path": "/4TZK8EkWiWPiC7wvDu4yFIXP41D.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,8 +88,8 @@
         "known_for_department": "Acting",
         "name": "Shivani Nagaram",
         "original_name": "Shivani Nagaram",
-        "popularity": 0.3403,
-        "profile_path": "/uqmvV0vn4KOwyNGTz3UjoaNTy2n.jpg",
+        "popularity": 1.3194,
+        "profile_path": "/3ir9AdajCXHDy07IiY0mlvpQDZ1.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "68a2c241a8d0923f1f02d706",
@@ -92,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.5508,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 3,
         "character": "Baghawan",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Sudharshan Reddy",
         "original_name": "Sudharshan Reddy",
-        "popularity": 0.0214,
+        "popularity": 0.3452,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -136,7 +146,7 @@
         "known_for_department": "Directing",
         "name": "Gopi Atchara",
         "original_name": "Gopi Atchara",
-        "popularity": 0,
+        "popularity": 0.276,
         "profile_path": null,
         "credit_id": "68a3728f7ef7e5c716430d98",
         "department": "Writing",
@@ -149,7 +159,7 @@
         "known_for_department": "Directing",
         "name": "Gopi Atchara",
         "original_name": "Gopi Atchara",
-        "popularity": 0,
+        "popularity": 0.276,
         "profile_path": null,
         "credit_id": "68a3729d4701224ee8ac8c04",
         "department": "Directing",
@@ -162,7 +172,7 @@
         "known_for_department": "Production",
         "name": "Battepati Narendra Reddy",
         "original_name": "Battepati Narendra Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "68a373050b46a4824fc7a711",
         "department": "Production",
@@ -175,7 +185,7 @@
         "known_for_department": "Sound",
         "name": "Vivek Sagar",
         "original_name": "Vivek Sagar",
-        "popularity": 0.214,
+        "popularity": 0.535,
         "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
         "credit_id": "68a3731bf43165becb83b640",
         "department": "Sound",
@@ -188,7 +198,7 @@
         "known_for_department": "Camera",
         "name": "Mahi Reddy Pandugula",
         "original_name": "Mahi Reddy Pandugula",
-        "popularity": 0,
+        "popularity": 0.2584,
         "profile_path": null,
         "credit_id": "68a373b6929f99420b6cb02f",
         "department": "Camera",
@@ -201,7 +211,7 @@
         "known_for_department": "Editing",
         "name": "Viplav Nyshadam",
         "original_name": "Viplav Nyshadam",
-        "popularity": 0.1622,
+        "popularity": 0.3457,
         "profile_path": null,
         "credit_id": "68a373cf7b5a668508a201d1",
         "department": "Editing",
@@ -214,7 +224,7 @@
         "known_for_department": "Art",
         "name": "Arasavilli Ram Kumaar",
         "original_name": "Arasavilli Ram Kumaar",
-        "popularity": 0.0071,
+        "popularity": 0.2649,
         "profile_path": null,
         "credit_id": "68a3740749e26324026cb050",
         "department": "Art",
@@ -227,7 +237,7 @@
         "known_for_department": "Production",
         "name": "S Ramana Reddy",
         "original_name": "S Ramana Reddy",
-        "popularity": 0,
+        "popularity": 0.2688,
         "profile_path": null,
         "credit_id": "68a3741c8477667affc7a6b9",
         "department": "Production",
@@ -240,7 +250,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Bharath Gandhi",
         "original_name": "Bharath Gandhi",
-        "popularity": 0.0071,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "68a37432de9601e7a583b629",
         "department": "Costume & Make-Up",
@@ -253,7 +263,7 @@
         "known_for_department": "Writing",
         "name": "Shanmukha Prashanth",
         "original_name": "Shanmukha Prashanth",
-        "popularity": 0.0193,
+        "popularity": 0.2778,
         "profile_path": null,
         "credit_id": "68a37446a22803514f430d9f",
         "department": "Writing",
@@ -266,23 +276,13 @@
         "known_for_department": "Writing",
         "name": "Midhun Shankar Reddy",
         "original_name": "Midhun Shankar Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2642,
         "profile_path": null,
         "credit_id": "68a3745cbc93b3a17b807d08",
         "department": "Writing",
         "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt37342587",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -325,6 +325,20 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Hey Bhagawan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Hey Balwanth",
+        "type": "Telugu"
+      }
+    ]
+  },
   "images": {
     "backdrops": [
       {
@@ -358,7 +372,18 @@
         "width": 1920
       }
     ],
-    "logos": [],
+    "logos": [
+      {
+        "aspect_ratio": 2.181,
+        "height": 287,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ccWUzQ6DPp0XeaqIOp4K9XeCLqj.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 626
+      }
+    ],
     "posters": [
       {
         "aspect_ratio": 0.666,
@@ -409,20 +434,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 720
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Hey Bhagawan",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Hey Balwanth",
-        "type": "Telugu"
       }
     ]
   }

@@ -9,6 +9,10 @@
       "name": "Comedy"
     },
     {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
       "id": 53,
       "name": "Thriller"
     }
@@ -22,7 +26,7 @@
   "original_language": "te",
   "original_title": "Little Soldiers",
   "overview": "When an army general's grand children are orphaned, he is forced to adopt them. The movie follows the story of the children as they learn the reason for their parents' death and warm up to their grand father.",
-  "popularity": 0.4965,
+  "popularity": 0.9152,
   "poster_path": "/oSdmyi5qagVwcdWPJXSZQvgbfCh.jpg",
   "production_companies": [
     {
@@ -64,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Kavya",
         "original_name": "Kavya",
-        "popularity": 0.0637,
+        "popularity": 0.2718,
         "profile_path": null,
         "cast_id": 0,
         "character": "Bunny",
@@ -78,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Baladitya",
         "original_name": "Baladitya",
-        "popularity": 0.154,
+        "popularity": 0.4297,
         "profile_path": null,
         "cast_id": 14,
         "character": "Sunny",
@@ -91,9 +95,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 10,
         "character": "Major Harischandra Prasad",
         "credit_id": "57b5d53f9251417c21002828",
@@ -105,8 +109,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "Gun",
@@ -120,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Ramesh Aravind",
         "original_name": "Ramesh Aravind",
-        "popularity": 0.3865,
+        "popularity": 1.5652,
         "profile_path": "/hXGIyDB974E4on7B7mCJYWpMfzn.jpg",
         "cast_id": 6,
         "character": "Aravind",
@@ -134,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Heera Rajgopal",
         "original_name": "Heera Rajgopal",
-        "popularity": 0.2546,
+        "popularity": 3.1163,
         "profile_path": "/8ej49i7PVGnSjsZytLXbMfamDek.jpg",
         "cast_id": 4,
         "character": "Aneeta",
@@ -148,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Rohini Hattangadi",
         "original_name": "रोहिणी हट्टंगड़ी",
-        "popularity": 1.0712,
+        "popularity": 1.25,
         "profile_path": "/ApgSi1vZg0b0tl9ir3fERHhZUIU.jpg",
         "cast_id": 3,
         "character": "Rajeshwari Devi",
@@ -162,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 2,
         "character": "Seshagiri",
@@ -176,7 +180,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8945,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 12,
         "character": "Seshagiri's son",
@@ -190,7 +194,7 @@
         "known_for_department": "Acting",
         "name": "Rallapalli Narasimha",
         "original_name": "Rallapalli Narasimha",
-        "popularity": 0.1212,
+        "popularity": 1.8427,
         "profile_path": null,
         "cast_id": 11,
         "character": "Gopal",
@@ -204,7 +208,7 @@
         "known_for_department": "Acting",
         "name": "Banerjee",
         "original_name": "Banerjee",
-        "popularity": 0.3077,
+        "popularity": 0.9465,
         "profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
         "cast_id": 15,
         "character": "",
@@ -220,7 +224,7 @@
         "known_for_department": "Camera",
         "name": "Rasool Ellore",
         "original_name": "Rasool Ellore",
-        "popularity": 0.0808,
+        "popularity": 0.3894,
         "profile_path": "/zV1TLdQ8sKCgMdGNTGi8rFfadVi.jpg",
         "credit_id": "623eb889223a8b004ad60996",
         "department": "Camera",
@@ -233,7 +237,7 @@
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.1461,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "57b5d45ec3a3687585003741",
         "department": "Directing",
@@ -246,31 +250,89 @@
         "known_for_department": "Writing",
         "name": "Gangaraju Gunnam",
         "original_name": "Gangaraju Gunnam",
-        "popularity": 0.1461,
+        "popularity": 0.5413,
         "profile_path": null,
         "credit_id": "57b5d46dc3a3687df8001c11",
         "department": "Writing",
         "job": "Writer"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
+      },
       {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1996-02-02T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "adult": false,
+        "gender": 2,
+        "id": 1191401,
+        "known_for_department": "Sound",
+        "name": "Sri Kommineni",
+        "original_name": "Sri Kommineni",
+        "popularity": 0.3524,
+        "profile_path": null,
+        "credit_id": "69fe421f0e9ebcd668f684f7",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5803620,
+        "known_for_department": "Art",
+        "name": "Sampath Ponugoti",
+        "original_name": "Sampath Ponugoti",
+        "popularity": 0.3101,
+        "profile_path": null,
+        "credit_id": "69fe423f12a8d6ce1f4c714e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225389,
+        "known_for_department": "Directing",
+        "name": "B. V. Nandini Reddy",
+        "original_name": "B. V. Nandini Reddy",
+        "popularity": 0.8892,
+        "profile_path": "/zZkpHZdC19aKXFWHhgxyyozWAfr.jpg",
+        "credit_id": "69fe426da3ceda5277f686bf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1522879,
+        "known_for_department": "Writing",
+        "name": "Gangaraju Gunnam",
+        "original_name": "Gangaraju Gunnam",
+        "popularity": 0.5413,
+        "profile_path": null,
+        "credit_id": "69fe4281044c52c2004c711d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035077,
+        "known_for_department": "Writing",
+        "name": "Sirivennela Seetharama Sastry",
+        "original_name": "Sirivennela Seetharama Sastry",
+        "popularity": 0.8118,
+        "profile_path": "/7AJ3NgUPWlrCX63Zha32i7sShd4.jpg",
+        "credit_id": "69fe42a03a5eadfe1050e6f5",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4945968,
+        "known_for_department": "Editing",
+        "name": "Mohan-Rama Rao",
+        "original_name": "Mohan-Rama Rao",
+        "popularity": 0.4253,
+        "profile_path": null,
+        "credit_id": "69fe42c2ba2febd4ca9bd8ed",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },
@@ -281,6 +343,16 @@
         "name": "army"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0266727",
+    "wikidata_id": "Q6651990",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -309,14 +381,24 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1996-02-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0266727",
-    "wikidata_id": "Q6651990",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

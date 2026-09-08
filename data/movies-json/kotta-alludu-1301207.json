@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Kotta Alludu",
   "overview": "Gumandi is killed by his own son in law Satyanarayana, who is greedy for Sanjeevni, a medicinal herb. Gumandi's eldest daughter Leela is married to Hari who teaches Satyanarayana a good lesson.",
-  "popularity": 0.214,
+  "popularity": 0.9661,
   "poster_path": "/dGOYKzL6jNcTrYiZHQb6QK05gpF.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,9 +34,6 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -46,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5311,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 1,
         "character": "",
@@ -60,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 2,
         "character": "",
@@ -74,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 3,
         "character": "",
@@ -88,8 +85,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7318,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "6662738140043f6ad87e0a6f",
@@ -99,34 +96,31 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 1660480,
-        "known_for_department": "Writing",
-        "name": "Mullapudi Venkata Ramana",
-        "original_name": "Venkata Ramana Mullapoodi",
-        "popularity": 0.1593,
-        "profile_path": null,
-        "credit_id": "666273a214e02d6393d5bd9d",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1673832,
         "known_for_department": "Directing",
         "name": "Parvataneni Sambasiva Rao",
         "original_name": "P. Sambasiva Rao",
-        "popularity": 0.2633,
+        "popularity": 0.3702,
         "profile_path": null,
         "credit_id": "666273928db38831ac133441",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660480,
+        "known_for_department": "Writing",
+        "name": "Mullapudi Venkata Ramana",
+        "original_name": "Venkata Ramana Mullapoodi",
+        "popularity": 1.0149,
+        "profile_path": null,
+        "credit_id": "666273a214e02d6393d5bd9d",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "external_ids": {
     "imdb_id": "tt0246011",
@@ -135,8 +129,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -154,6 +148,12 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],

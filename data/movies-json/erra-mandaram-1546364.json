@@ -2,7 +2,7 @@
   "adult": false,
   "backdrop_path": null,
   "belongs_to_collection": null,
-  "budget": 0,
+  "budget": 220,
   "genres": [
     {
       "id": 18,
@@ -16,12 +16,24 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Erra Mandaram",
+  "original_title": "ఎర్ర మందారం",
   "overview": "A new bride has to deal with her overly conservative husband's demands on that 'auspicious' day.",
-  "popularity": 0.0261,
+  "popularity": 0.4253,
   "poster_path": "/448Qc4ULAyTIaMgRqSomKmV7tnW.jpg",
-  "production_companies": [],
-  "production_countries": [],
+  "production_companies": [
+    {
+      "id": 300067,
+      "logo_path": null,
+      "name": "A Fiction Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2025-10-18",
   "revenue": 0,
   "runtime": 29,
@@ -39,133 +51,17 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
+  "alternative_titles": {
+    "titles": [
       {
-        "adult": false,
-        "gender": 0,
-        "id": 5447645,
-        "known_for_department": "Writing",
-        "name": "Bharat Duvvada",
-        "original_name": "Bharat Duvvada",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Husband",
-        "credit_id": "68c6f055d31d352a2eca6fc9",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5688889,
-        "known_for_department": "Acting",
-        "name": "Relangi Chandini",
-        "original_name": "Relangi Chandini",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Lakshmi",
-        "credit_id": "68c6f095c8d42f6d458683f4",
-        "order": 1
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4932577,
-        "known_for_department": "Directing",
-        "name": "Ganesh Yallapragada",
-        "original_name": "Ganesh Yallapragada",
-        "popularity": 0,
-        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
-        "credit_id": "68c6f0b8443932a1252206f3",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4932581,
-        "known_for_department": "Directing",
-        "name": "Karthik Yallapragada",
-        "original_name": "Karthik Yallapragada",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "68c6f0cc443932a1252206f7",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4932577,
-        "known_for_department": "Directing",
-        "name": "Ganesh Yallapragada",
-        "original_name": "Ganesh Yallapragada",
-        "popularity": 0,
-        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
-        "credit_id": "68c6f0da20e3ae8a47ca6f3b",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4932581,
-        "known_for_department": "Directing",
-        "name": "Karthik Yallapragada",
-        "original_name": "Karthik Yallapragada",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "68c6f0e7443932a1252206fa",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4932581,
-        "known_for_department": "Directing",
-        "name": "Karthik Yallapragada",
-        "original_name": "Karthik Yallapragada",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "68c6f10090eb78b4b02201df",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 4932577,
-        "known_for_department": "Directing",
-        "name": "Ganesh Yallapragada",
-        "original_name": "Ganesh Yallapragada",
-        "popularity": 0,
-        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
-        "credit_id": "68c6f11b8d084b2d13e2fe54",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4932581,
-        "known_for_department": "Directing",
-        "name": "Karthik Yallapragada",
-        "original_name": "Karthik Yallapragada",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "68c6f14e38cd456f9fa0f3bc",
-        "department": "Sound",
-        "job": "Sound"
+        "iso_3166_1": "IN",
+        "title": "ఎర్ర మందారం",
+        "type": ""
       }
     ]
   },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -174,8 +70,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -220,7 +116,129 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447645,
+        "known_for_department": "Writing",
+        "name": "Bharat Duvvada",
+        "original_name": "Bharat Duvvada",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Husband",
+        "credit_id": "68c6f055d31d352a2eca6fc9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688889,
+        "known_for_department": "Acting",
+        "name": "Relangi Chandini",
+        "original_name": "Relangi Chandini",
+        "popularity": 0.2625,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Lakshmi",
+        "credit_id": "68c6f095c8d42f6d458683f4",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4932577,
+        "known_for_department": "Directing",
+        "name": "Ganesh Yallapragada",
+        "original_name": "Ganesh Yallapragada",
+        "popularity": 0.2792,
+        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
+        "credit_id": "68c6f0b8443932a1252206f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932581,
+        "known_for_department": "Directing",
+        "name": "Karthik Yallapragada",
+        "original_name": "Karthik Yallapragada",
+        "popularity": 0.3636,
+        "profile_path": null,
+        "credit_id": "68c6f0cc443932a1252206f7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4932577,
+        "known_for_department": "Directing",
+        "name": "Ganesh Yallapragada",
+        "original_name": "Ganesh Yallapragada",
+        "popularity": 0.2792,
+        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
+        "credit_id": "68c6f0da20e3ae8a47ca6f3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932581,
+        "known_for_department": "Directing",
+        "name": "Karthik Yallapragada",
+        "original_name": "Karthik Yallapragada",
+        "popularity": 0.3636,
+        "profile_path": null,
+        "credit_id": "68c6f0e7443932a1252206fa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932581,
+        "known_for_department": "Directing",
+        "name": "Karthik Yallapragada",
+        "original_name": "Karthik Yallapragada",
+        "popularity": 0.3636,
+        "profile_path": null,
+        "credit_id": "68c6f10090eb78b4b02201df",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4932577,
+        "known_for_department": "Directing",
+        "name": "Ganesh Yallapragada",
+        "original_name": "Ganesh Yallapragada",
+        "popularity": 0.2792,
+        "profile_path": "/1TufcDMTZyUQXV6lumBljNObYaA.jpg",
+        "credit_id": "68c6f11b8d084b2d13e2fe54",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932581,
+        "known_for_department": "Directing",
+        "name": "Karthik Yallapragada",
+        "original_name": "Karthik Yallapragada",
+        "popularity": 0.3636,
+        "profile_path": null,
+        "credit_id": "68c6f14e38cd456f9fa0f3bc",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
   }
 }

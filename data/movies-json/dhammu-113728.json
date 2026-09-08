@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "దమ్ము",
   "overview": "Rama Chandra, an orphan, gets involved in a feud between two royal families while trying to woo Sathya, his lady love. He soon realises that the lives of his fellow villagers depend on his choices.",
-  "popularity": 0.8161,
+  "popularity": 4.0444,
   "poster_path": "/xO3epYityNOlkeLCdGOXVT2HwDw.jpg",
   "production_companies": [
     {
@@ -53,8 +53,11 @@
   "tagline": "",
   "title": "Dhammu",
   "video": false,
-  "vote_average": 4.2,
-  "vote_count": 17,
+  "vote_average": 4.119,
+  "vote_count": 21,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +66,8 @@
         "id": 148037,
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao Jr.",
-        "original_name": "N.T. Rama Rao Jr.",
-        "popularity": 3.1771,
+        "original_name": "జూనియర్ ఎన్టీఆర్",
+        "popularity": 3.0735,
         "profile_path": "/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg",
         "cast_id": 1,
         "character": "Sri Raja Vasi Reddy Vijaya Dhwaja Sri Simha/Rama Chandra",
@@ -77,9 +80,9 @@
         "id": 116925,
         "known_for_department": "Acting",
         "name": "Trisha Krishnan",
-        "original_name": "Trisha Krishnan",
-        "popularity": 5.5274,
-        "profile_path": "/jfeAV0VeAQhKONzIv1UEYbklJGn.jpg",
+        "original_name": "த்ரிஷா கிருஷ்ணன்",
+        "popularity": 3.0287,
+        "profile_path": "/8YkgaUlTshiDWHymBOEXZ948Yyn.jpg",
         "cast_id": 2,
         "character": "Satya",
         "credit_id": "52fe4b3cc3a36847f81f9677",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Karthika Nair",
         "original_name": "Karthika Nair",
-        "popularity": 0.2145,
+        "popularity": 0.7591,
         "profile_path": "/dnyRBr80bRsfTvQX1g00soXCcgj.jpg",
         "cast_id": 3,
         "character": "Neelaveni",
@@ -105,9 +108,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 4,
         "character": "Veera Durgam Rajavaaru",
         "credit_id": "52fe4b3cc3a36847f81f967f",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.4784,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 5,
         "character": "",
@@ -133,8 +136,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "",
@@ -146,9 +149,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Venu Thottempudi",
         "original_name": "Venu Thottempudi",
-        "popularity": 0.2179,
+        "popularity": 1.5611,
         "profile_path": "/aqyK4ftAxsDPAAYJrUHXMImsJWu.jpg",
         "cast_id": 8,
         "character": "",
@@ -174,9 +177,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.7094,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 9,
         "character": "Veerasimha",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4637,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 12,
         "character": "",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Abhinaya",
         "original_name": "Abhinaya",
-        "popularity": 0.5364,
+        "popularity": 1.6468,
         "profile_path": "/jZSoiKuWYNWXJgPtTDro009rGiN.jpg",
         "cast_id": 15,
         "character": "NTR Jr's sister",
@@ -218,7 +221,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4938,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 20,
         "character": "",
@@ -232,7 +235,7 @@
         "known_for_department": "Acting",
         "name": "Hari Teja",
         "original_name": "Hari Teja",
-        "popularity": 0.2849,
+        "popularity": 1.3505,
         "profile_path": "/1E3Lm7qECo78u18Wh2O82o6NOWF.jpg",
         "cast_id": 21,
         "character": "",
@@ -246,7 +249,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.4054,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 22,
         "character": "",
@@ -260,8 +263,8 @@
         "known_for_department": "Acting",
         "name": "Rahul Dev",
         "original_name": "Rahul Dev",
-        "popularity": 1.1072,
-        "profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+        "popularity": 1.1473,
+        "profile_path": "/e4v690w2cgoGzRTyIit7E23DrFA.jpg",
         "cast_id": 23,
         "character": "",
         "credit_id": "6260ff2bd1a893009caaf12e",
@@ -274,7 +277,7 @@
         "known_for_department": "Acting",
         "name": "Sampath Raj",
         "original_name": "Sampath Raj",
-        "popularity": 0.8398,
+        "popularity": 2.524,
         "profile_path": "/oQgoihP26Hyg6gMFVpACRAygZli.jpg",
         "cast_id": 24,
         "character": "",
@@ -288,8 +291,8 @@
         "known_for_department": "Acting",
         "name": "Kishore",
         "original_name": "Kishore",
-        "popularity": 0.5664,
-        "profile_path": "/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg",
+        "popularity": 1.3589,
+        "profile_path": "/qDKUEHZRsVgbXKJjuziUnZcOC1L.jpg",
         "cast_id": 25,
         "character": "",
         "credit_id": "6260ff3d63aad20051d241c8",
@@ -302,7 +305,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 26,
         "character": "",
@@ -316,7 +319,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.5566,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 28,
         "character": "",
@@ -330,7 +333,7 @@
         "known_for_department": "Acting",
         "name": "Chatrapathi Sekhar",
         "original_name": "Chatrapathi Sekhar",
-        "popularity": 0.2607,
+        "popularity": 1.1827,
         "profile_path": "/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg",
         "cast_id": 29,
         "character": "",
@@ -346,7 +349,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "609ea8f2e18e3f0040525f34",
         "department": "Sound",
@@ -359,7 +362,7 @@
         "known_for_department": "Directing",
         "name": "Boyapati Srinu",
         "original_name": "Boyapati Srinu",
-        "popularity": 1.0265,
+        "popularity": 0.6842,
         "profile_path": "/nIAEbCroBr0DTuTBbA45bgVZjHX.jpg",
         "credit_id": "52fe4b3cc3a36847f81f9699",
         "department": "Directing",
@@ -372,7 +375,7 @@
         "known_for_department": "Production",
         "name": "K. S. Rama Rao",
         "original_name": "K. S. Rama Rao",
-        "popularity": 0.1296,
+        "popularity": 0.3025,
         "profile_path": null,
         "credit_id": "5783c34fc3a368170600184b",
         "department": "Production",
@@ -385,7 +388,7 @@
         "known_for_department": "Sound",
         "name": "Sravana Bhargavi",
         "original_name": "Sravana Bhargavi",
-        "popularity": 0.0596,
+        "popularity": 0.3785,
         "profile_path": "/jcozbJhgXANWyPFNGO9xKtu46TI.jpg",
         "credit_id": "5c4d34b2925141544856490d",
         "department": "Sound",
@@ -398,7 +401,7 @@
         "known_for_department": "Editing",
         "name": "Anthony",
         "original_name": "Anthony",
-        "popularity": 0.1767,
+        "popularity": 0.3959,
         "profile_path": "/zNKpopeEnQUqmHBdqqAYRfkcBhZ.jpg",
         "credit_id": "5c7528f8925141688653ae11",
         "department": "Editing",
@@ -411,7 +414,7 @@
         "known_for_department": "Camera",
         "name": "Arthur Wilson",
         "original_name": "Arthur Wilson",
-        "popularity": 0.1034,
+        "popularity": 0.4107,
         "profile_path": null,
         "credit_id": "5fb6fe98e1ad79003e22964a",
         "department": "Camera",
@@ -425,29 +428,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2012-04-27T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -504,14 +484,49 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 722
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1600,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ehxj1l9MEwRo1ExsQEPHWeMPi3Q.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1200
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2012-04-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": [
       {
         "iso_3166_1": "IN",
         "title": "Dammu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Сын тигра",
         "type": ""
       }
     ]

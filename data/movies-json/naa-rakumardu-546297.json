@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Naa Rakumardu",
   "overview": "Bindu is a happy-go-lucky, chirpy girl,who falls for a rich brat, Vaishnav. Vaishnav loves her but when things go wrong his love turns to hate. Bindu cannot take his hate and decides to take her life instead.",
-  "popularity": 0.2247,
+  "popularity": 0.6922,
   "poster_path": "/2QR5lT0jsQV2bfyTr3V2e9dP64l.jpg",
   "production_companies": [
     {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Naveen Chandra",
         "original_name": "Naveen Chandra",
-        "popularity": 0.8324,
+        "popularity": 1.6073,
         "profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
         "cast_id": 0,
         "character": "Vaishnav",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Ritu Varma",
         "original_name": "Ritu Varma",
-        "popularity": 0.4552,
+        "popularity": 0.7323,
         "profile_path": "/vTRnUN7NjBRaBT40bOUMwz1fSXn.jpg",
         "cast_id": 1,
         "character": "Bindu",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Sithara",
         "original_name": "Sithara",
-        "popularity": 0.422,
+        "popularity": 0.837,
         "profile_path": "/9km7P6HyYOg0qMFMicgbg64Fkn5.jpg",
         "cast_id": 6,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6206,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 7,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Krishna Bhagavan",
         "original_name": "Krishna Bhagavan",
-        "popularity": 0.396,
+        "popularity": 1.5159,
         "profile_path": "/xR3Wy7HT98ZhbizA88pKfLx05Bf.jpg",
         "cast_id": 8,
         "character": "",
@@ -122,25 +122,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 2120938,
-        "known_for_department": "Production",
-        "name": "Vajrang P",
-        "original_name": "Vajrang P",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b8d58250e0a261d7a04b773",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1310289,
         "known_for_department": "Sound",
         "name": "Achu Rajamani",
         "original_name": "Achu Rajamani",
-        "popularity": 0.1378,
+        "popularity": 0.8665,
         "profile_path": null,
         "credit_id": "5b8d57b8925141518a04898f",
         "department": "Sound",
@@ -149,20 +136,30 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2120938,
+        "known_for_department": "Production",
+        "name": "Vajrang P",
+        "original_name": "Vajrang P",
+        "popularity": 0.2584,
+        "profile_path": null,
+        "credit_id": "5b8d58250e0a261d7a04b773",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1107489,
         "known_for_department": "Directing",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 0.0143,
+        "popularity": 0.3378,
         "profile_path": null,
         "credit_id": "603a20bda2e602004bf39442",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -171,8 +168,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -190,6 +187,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [

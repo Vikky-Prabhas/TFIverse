@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "ఈశ్వర్",
   "overview": "Eeshwar (Telugu: ఈశ్వర్) is a 2002 Telugu film directed by Jayanth C. Paranjee and starring Prabhas[1] and Sridevi Vijaykumar. Siva Krishna and Revathi played supporting roles.Eeswar (Prabhas) is a motherless child and brat living in Dhoolpet, a slum area in Old City. Eeswar's father (Siva Krishna) manufactures Gudumba (arrack) with the help of neighborhood people. Eeswar falls in love at first sight when he sees a college going beauty Indu (Sridevi). In the meantime, Eeswar's father marries Sujatha (Revathi), who has been waiting for him for the past 20 years so that she can be a good mother to Eeswar. Eeswar hates his stepmother thinking that his father married her to enjoy worldly pleasures. Meanwhile, Indu's father turns out to be a local MLA (Ashok Kumar) who hates poor. The local MLA sends goons to finish him off Eeswar. What follows next forms the second half of the film.",
-  "popularity": 0.6158,
+  "popularity": 2.2237,
   "poster_path": "/xy5WSj34dM4ZEHNhrm0RViLnLMS.jpg",
   "production_companies": [],
   "production_countries": [
@@ -46,8 +46,8 @@
   "tagline": "",
   "title": "Eeshwar",
   "video": false,
-  "vote_average": 5.7,
-  "vote_count": 7,
+  "vote_average": 5.125,
+  "vote_count": 8,
   "videos": {
     "results": [
       {
@@ -64,12 +64,83 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0924219",
-    "wikidata_id": "Q5347146",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237045,
+        "known_for_department": "Acting",
+        "name": "Prabhas",
+        "original_name": "Prabhas",
+        "popularity": 2.9801,
+        "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
+        "cast_id": 1,
+        "character": "Eeswar",
+        "credit_id": "52fe4ba9c3a36847f820e59b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 587738,
+        "known_for_department": "Acting",
+        "name": "Sridevi Vijayakumar",
+        "original_name": "Sridevi Vijayakumar",
+        "popularity": 1.6282,
+        "profile_path": "/wQkZdWgHAchEue6aNBwggqeYEaD.jpg",
+        "cast_id": 2,
+        "character": "Indu",
+        "credit_id": "52fe4ba9c3a36847f820e59f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113810,
+        "known_for_department": "Acting",
+        "name": "Brahmanandam",
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
+        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+        "cast_id": 3,
+        "character": "Comedy",
+        "credit_id": "52fe4ba9c3a36847f820e5a3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584324,
+        "known_for_department": "Acting",
+        "name": "Revathi",
+        "original_name": "Revathi",
+        "popularity": 2.2245,
+        "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6732c3caebc5a26e5e498ae6",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237047,
+        "known_for_department": "Directing",
+        "name": "Jayant Paranji",
+        "original_name": "Jayant Paranji",
+        "popularity": 0.853,
+        "profile_path": "/hosIXr3Ov5tHHreVj0mjbQV7ZGA.jpg",
+        "credit_id": "52fe4ba9c3a36847f820e5a9",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -88,86 +159,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt0924219",
+    "wikidata_id": "Q5347146",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237045,
-        "known_for_department": "Acting",
-        "name": "Prabhas",
-        "original_name": "Prabhas",
-        "popularity": 2.6943,
-        "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
-        "cast_id": 1,
-        "character": "Eeswar",
-        "credit_id": "52fe4ba9c3a36847f820e59b",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 587738,
-        "known_for_department": "Acting",
-        "name": "Sridevi Vijayakumar",
-        "original_name": "Sridevi Vijayakumar",
-        "popularity": 1.4972,
-        "profile_path": "/wQkZdWgHAchEue6aNBwggqeYEaD.jpg",
-        "cast_id": 2,
-        "character": "Indu",
-        "credit_id": "52fe4ba9c3a36847f820e59f",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 113810,
-        "known_for_department": "Acting",
-        "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
-        "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
-        "cast_id": 3,
-        "character": "Comedy",
-        "credit_id": "52fe4ba9c3a36847f820e5a3",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584324,
-        "known_for_department": "Acting",
-        "name": "Revathi",
-        "original_name": "Revathi",
-        "popularity": 1.1885,
-        "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "6732c3caebc5a26e5e498ae6",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237047,
-        "known_for_department": "Directing",
-        "name": "Jayant Paranji",
-        "original_name": "Jayant Paranji",
-        "popularity": 0.1593,
-        "profile_path": "/hosIXr3Ov5tHHreVj0mjbQV7ZGA.jpg",
-        "credit_id": "52fe4ba9c3a36847f820e5a9",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
   },
   "images": {
     "backdrops": [

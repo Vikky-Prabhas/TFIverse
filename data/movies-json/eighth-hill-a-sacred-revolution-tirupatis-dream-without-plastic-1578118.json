@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Eighth Hill - A Sacred Revolution: Tirupati's Dream without Plastic",
   "overview": "Deep in the sacred Tirumala Hills, where millions walk in devotion, one man walks with a different purpose.  This documentary introduces Shivaji Paleti - an unsung hero who has dedicated his life to protect the hills from plastic pollution. With bare hands and endless patience, he cleans, he preserves, and he teaches what true devotion towards Mother Earth means. His perseverance never faded away despite numerous hardships. A true modern-day warrior who led the \"Plastic Free Tirupati\" movement with an example, turning personal conviction into a collective awakening.  The \"Eighth Hill\" stands as a reflection of our own atrocities. An unsettling mirror showing how what we dismiss as a single piece of trash can grow into a mountain of consequence. Through Shivaji’s story, this film explores not just environmental preservation, but the deeper meaning of responsibility, faith, and humanity’s bond with nature.",
-  "popularity": 0.0143,
+  "popularity": 0.4773,
   "poster_path": "/qG3UBTVom30cDd4QffLy9ASSNDP.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,6 +53,25 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt38909748",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 222551,
+        "name": "environmental activist"
+      },
+      {
+        "id": 256260,
+        "name": "plastic pollution"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -62,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Shivaji Paleti",
         "original_name": "Shivaji Paleti",
-        "popularity": 0.0143,
+        "popularity": 0.2622,
         "profile_path": null,
         "cast_id": 10,
         "character": "Himself",
@@ -78,7 +97,7 @@
         "known_for_department": "Directing",
         "name": "Vamshi Krishna Pennakoduru",
         "original_name": "Vamshi Krishna Pennakoduru",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6911c2fedc7b73f47c31b4d5",
         "department": "Directing",
@@ -91,7 +110,7 @@
         "known_for_department": "Camera",
         "name": "Nithin Sindam",
         "original_name": "Nithin Sindam",
-        "popularity": 0,
+        "popularity": 0.2625,
         "profile_path": null,
         "credit_id": "6911c3141265c9afcad25b48",
         "department": "Camera",
@@ -104,7 +123,7 @@
         "known_for_department": "Directing",
         "name": "Vinay Kumar Sahu",
         "original_name": "Vinay Kumar Sahu",
-        "popularity": 0.0071,
+        "popularity": 0.2885,
         "profile_path": null,
         "credit_id": "6911c335579b325ab63a318e",
         "department": "Editing",
@@ -117,7 +136,7 @@
         "known_for_department": "Writing",
         "name": "Ayesha Shaikh",
         "original_name": "Ayesha Shaikh",
-        "popularity": 0,
+        "popularity": 0.2617,
         "profile_path": null,
         "credit_id": "6911c399540af423d04c85e8",
         "department": "Writing",
@@ -130,7 +149,7 @@
         "known_for_department": "Directing",
         "name": "Vamshi Krishna Pennakoduru",
         "original_name": "Vamshi Krishna Pennakoduru",
-        "popularity": 0.0071,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6911c3ae9e0edb599f875304",
         "department": "Writing",
@@ -143,7 +162,7 @@
         "known_for_department": "Sound",
         "name": "Lasya Vishnubhatla",
         "original_name": "Lasya Vishnubhatla",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6911c3f7dec48a90c1d25ace",
         "department": "Sound",
@@ -156,7 +175,7 @@
         "known_for_department": "Editing",
         "name": "Sai Chandu",
         "original_name": "Sai Chandu",
-        "popularity": 0,
+        "popularity": 0.2622,
         "profile_path": null,
         "credit_id": "6911c453f125b88b5631b39b",
         "department": "Editing",
@@ -169,20 +188,13 @@
         "known_for_department": "Directing",
         "name": "Vinay Kumar Sahu",
         "original_name": "Vinay Kumar Sahu",
-        "popularity": 0.0071,
+        "popularity": 0.2885,
         "profile_path": null,
         "credit_id": "6911c51fc91fc053addd224c",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt38909748",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -209,35 +221,6 @@
         "official": false,
         "id": "6911c13f91326c06e2dd21dd",
         "published_at": "2025-09-06T12:16:46.000Z"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 222551,
-        "name": "environmental activist"
-      },
-      {
-        "id": 256260,
-        "name": "plastic pollution"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2025-11-15T00:00:00.000Z",
-            "type": 1
-          }
-        ]
       }
     ]
   },
@@ -365,6 +348,23 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1131
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
       }
     ]
   },

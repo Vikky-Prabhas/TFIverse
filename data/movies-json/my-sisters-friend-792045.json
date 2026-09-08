@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "हिन्दी",
   "overview": "Avinash is a lonely boy who lives with his mother. Their parents are separated. Avinash's big sister, Ankita, lives in Mumbai, pursuing her career. One night Ankita calls Avinash to tell him she is returning to Kolkata with a hot girlfriend. And the story beings.",
-  "popularity": 0.0669,
+  "popularity": 0.44,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -34,42 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "credits": {
-    "cast": [],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2959351,
-        "known_for_department": "Directing",
-        "name": "Arambhik Ghosh",
-        "original_name": "Arambhik Ghosh",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6016c143873f00003ea6d812",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
   "release_dates": {
     "results": [
       {
@@ -87,7 +51,43 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2959351,
+        "known_for_department": "Directing",
+        "name": "Arambhik Ghosh",
+        "original_name": "Arambhik Ghosh",
+        "popularity": 0.2525,
+        "profile_path": null,
+        "credit_id": "6016c143873f00003ea6d812",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   }
 }

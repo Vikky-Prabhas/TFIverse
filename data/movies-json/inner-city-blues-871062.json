@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Inner City Blues",
   "overview": "This film is not another #SliceOfLife film, not another ensemble star cast, not another boring film that you are used to watching.",
-  "popularity": 0.1412,
+  "popularity": 0.8867,
   "poster_path": "/d55wmzM2LCurGmjzFjgPb6rDvgn.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,140 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2198086,
-        "known_for_department": "Acting",
-        "name": "Laxman Meesala",
-        "original_name": "Laxman Meesala",
-        "popularity": 0.2398,
-        "profile_path": "/yLEZn4c6ytyZT4kMjvWPuxQzQ4c.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6135a64ecede6900870aec51",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2471233,
-        "known_for_department": "Acting",
-        "name": "Sai Yogi",
-        "original_name": "Sai Yogi",
-        "popularity": 0.0214,
-        "profile_path": "/pfIHa9QhJXwlvh10ghMhvReCf3v.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6135a65864f7160020ecb12a",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3224217,
-        "known_for_department": "Acting",
-        "name": "Sherin Santosh",
-        "original_name": "Sherin Santosh",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6135a68207a808008bd9b674",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3224219,
-        "known_for_department": "Acting",
-        "name": "Rakhi Abhinaya Sri",
-        "original_name": "Rakhi Abhinaya Sri",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "6135a695d4d50900626a27f1",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3224222,
-        "known_for_department": "Acting",
-        "name": "Krishna Prasad",
-        "original_name": "Krishna Prasad",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "6135a6dfb84f940062c828bc",
-        "order": 4
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2198110,
-        "known_for_department": "Acting",
-        "name": "Divya Bandaru",
-        "original_name": "Divya Bandaru",
-        "popularity": 0.051,
-        "profile_path": null,
-        "credit_id": "6135a3acd4d509002c604a70",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2471232,
-        "known_for_department": "Camera",
-        "name": "S Vijay Kumar",
-        "original_name": "S Vijay Kumar",
-        "popularity": 0.0441,
-        "profile_path": null,
-        "credit_id": "6135a780b84f94004377cb02",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2288307,
-        "known_for_department": "Camera",
-        "name": "Shashank Raghavula",
-        "original_name": "Shashank Raghavula",
-        "popularity": 0.0256,
-        "profile_path": "/xaZ7XjyjpvTvfo6CmlaOnuCMbYg.jpg",
-        "credit_id": "6135a73d5e1200002de610b6",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2179235,
-        "known_for_department": "Directing",
-        "name": "Rohit Penumatsa",
-        "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
-        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
-        "credit_id": "6135a71bcede6900870aed82",
-        "department": "Editing",
-        "job": "Editor"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "videos": {
     "results": [
       {
@@ -189,12 +55,139 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198086,
+        "known_for_department": "Acting",
+        "name": "Laxman Meesala",
+        "original_name": "Laxman Meesala",
+        "popularity": 0.9015,
+        "profile_path": "/yLEZn4c6ytyZT4kMjvWPuxQzQ4c.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6135a64ecede6900870aec51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2471233,
+        "known_for_department": "Acting",
+        "name": "Sai Yogi",
+        "original_name": "Sai Yogi",
+        "popularity": 0.5321,
+        "profile_path": "/pfIHa9QhJXwlvh10ghMhvReCf3v.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6135a65864f7160020ecb12a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3224217,
+        "known_for_department": "Acting",
+        "name": "Sherin Santosh",
+        "original_name": "Sherin Santosh",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6135a68207a808008bd9b674",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3224219,
+        "known_for_department": "Acting",
+        "name": "Rakhi Abhinaya Sri",
+        "original_name": "Rakhi Abhinaya Sri",
+        "popularity": 0.5699,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6135a695d4d50900626a27f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3224222,
+        "known_for_department": "Acting",
+        "name": "Krishna Prasad",
+        "original_name": "Krishna Prasad",
+        "popularity": 0.4118,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6135a6dfb84f940062c828bc",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179235,
+        "known_for_department": "Directing",
+        "name": "Rohit Penumatsa",
+        "original_name": "Rohit Penumatsa",
+        "popularity": 0.4299,
+        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
+        "credit_id": "6135a71bcede6900870aed82",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198110,
+        "known_for_department": "Acting",
+        "name": "Divya Bandaru",
+        "original_name": "Divya Bandaru",
+        "popularity": 0.3506,
+        "profile_path": "/uhH98Fx5cuN8bVWk6VWmVq2ZSM9.jpg",
+        "credit_id": "6135a3acd4d509002c604a70",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2471232,
+        "known_for_department": "Camera",
+        "name": "S Vijay Kumar",
+        "original_name": "S Vijay Kumar",
+        "popularity": 0.3331,
+        "profile_path": null,
+        "credit_id": "6135a780b84f94004377cb02",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288307,
+        "known_for_department": "Camera",
+        "name": "Shashank Raghavula",
+        "original_name": "Shashank Raghavula",
+        "popularity": 0.5763,
+        "profile_path": "/xaZ7XjyjpvTvfo6CmlaOnuCMbYg.jpg",
+        "credit_id": "6135a73d5e1200002de610b6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -212,7 +205,14 @@
       }
     ]
   },
-  "release_dates": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

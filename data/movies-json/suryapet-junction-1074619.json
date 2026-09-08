@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "సూర్యాపేట జంక్షన్",
   "overview": "A political action drama behind government freebies.",
-  "popularity": 0.1982,
+  "popularity": 1.2008,
   "poster_path": "/mzpuWgjhHS0RRk75vyAHubDu0YV.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Eeswar",
         "original_name": "Eeswar",
-        "popularity": 0.0338,
+        "popularity": 0.2712,
         "profile_path": "/jro2e5cHSb4rPvVFsqvGLTAbbgp.jpg",
         "cast_id": 6,
         "character": "Arjun",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Naina Sarwar",
         "original_name": "Naina Sarwar",
-        "popularity": 0.1818,
+        "popularity": 0.5318,
         "profile_path": "/ve5tOjktkOP6i8wVUaSAzrSdK1k.jpg",
         "cast_id": 2,
         "character": "puja",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Abhimanyu Singh",
         "original_name": "Abhimanyu Singh",
-        "popularity": 0.7168,
+        "popularity": 1.7106,
         "profile_path": "/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
         "cast_id": 3,
         "character": "narasimha",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Rajesh Nadendla",
         "original_name": "Rajesh Nadendla",
-        "popularity": 0.0143,
+        "popularity": 0.4701,
         "profile_path": null,
         "credit_id": "63c50185a6725400b59df4a8",
         "department": "Directing",
@@ -121,7 +121,7 @@
         "known_for_department": "Writing",
         "name": "Rajendra Bharadwaj",
         "original_name": "Rajendra Bharadwaj",
-        "popularity": 0.0816,
+        "popularity": 0.6625,
         "profile_path": "/sLdAtH5ywg5TpyuM3OaZ7lzZUS0.jpg",
         "credit_id": "63c50161a6725400e92fa7d3",
         "department": "Writing",
@@ -129,11 +129,15 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt26095500",
+    "wikidata_id": "Q116468013",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -151,6 +155,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -248,15 +258,5 @@
         "width": 1365
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt26095500",
-    "wikidata_id": "Q116468013",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

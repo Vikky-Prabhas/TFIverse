@@ -5,8 +5,12 @@
   "budget": 0,
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
     }
   ],
   "homepage": "",
@@ -18,7 +22,7 @@
   "original_language": "te",
   "original_title": "నా ఇష్టం",
   "overview": "Krishnaveni runs away from home to elope with her lover, Kishore, who does not show up. Gani, a self-centred man, plans to take her to her father, hoping to make a quick buck.",
-  "popularity": 0.7296,
+  "popularity": 0.7095,
   "poster_path": "/ir9Ey6UbeYIOpP8XjyF8GXCytQF.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,9 +56,9 @@
         "id": 215910,
         "known_for_department": "Acting",
         "name": "Rana Daggubati",
-        "original_name": "Rana Daggubati",
-        "popularity": 0.9302,
-        "profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+        "original_name": "రానా దగ్గుబాటి",
+        "popularity": 2.5345,
+        "profile_path": "/q0Rw0e9RogMD0zJ0Heq0GotDYoy.jpg",
         "cast_id": 1,
         "character": "Ganesh",
         "credit_id": "52fe4b869251416c910dd5bd",
@@ -67,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Genelia D'Souza",
         "original_name": "Genelia D'Souza",
-        "popularity": 1.0316,
+        "popularity": 1.3405,
         "profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
         "cast_id": 2,
         "character": "Krishnaveni",
@@ -80,11 +84,11 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
-        "character": "",
+        "character": "Kadiyam Bujji",
         "credit_id": "52fe4b869251416c910dd5c5",
         "order": 2
       },
@@ -95,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Hamsa Nandini",
         "original_name": "Hamsa Nandini",
-        "popularity": 0.2949,
+        "popularity": 0.4988,
         "profile_path": "/oUIUJb8H5KVQk080zncuTFcznbT.jpg",
         "cast_id": 6,
         "character": "Special Appearance",
@@ -109,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Subbaraju",
         "original_name": "Subbaraju",
-        "popularity": 0.5604,
+        "popularity": 1.8362,
         "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
         "cast_id": 7,
         "character": "",
@@ -123,10 +127,10 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4019,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 8,
-        "character": "",
+        "character": "Naidu",
         "credit_id": "606a4ce0699fb70040f9b19c",
         "order": 5
       },
@@ -137,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Ahuti Prasad",
         "original_name": "Ahuti Prasad",
-        "popularity": 0.393,
+        "popularity": 2.2596,
         "profile_path": "/z0Al1VOH1O45uDQCXt6kadn9psR.jpg",
         "cast_id": 9,
         "character": "",
@@ -150,8 +154,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.8126,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 10,
         "character": "",
@@ -165,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Harshvardhan Rane",
         "original_name": "Harshvardhan Rane",
-        "popularity": 0.7039,
+        "popularity": 0.7715,
         "profile_path": "/pDDgE0YXp1eFJplDcjpN8Vh55Rg.jpg",
         "cast_id": 11,
         "character": "",
@@ -178,8 +182,8 @@
         "id": 1751749,
         "known_for_department": "Acting",
         "name": "Sree Vishnu",
-        "original_name": "Sree Vishnu",
-        "popularity": 0.2607,
+        "original_name": "శ్రీ విష్ణు",
+        "popularity": 1.02,
         "profile_path": "/fSbWn5uUjPMgEtIIrZiJoiU9v1C.jpg",
         "cast_id": 12,
         "character": "",
@@ -188,31 +192,17 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 1031508,
-        "known_for_department": "Acting",
-        "name": "Maryam Zakaria",
-        "original_name": "Maryam Zakaria",
-        "popularity": 0.203,
-        "profile_path": null,
-        "cast_id": 13,
-        "character": "",
-        "credit_id": "606a4d73699fb7005881c628",
-        "order": 10
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 930273,
         "known_for_department": "Acting",
         "name": "Bharath Reddy",
         "original_name": "Bharath Reddy",
-        "popularity": 0.2111,
+        "popularity": 0.8422,
         "profile_path": "/JR3nxp9Uwba2bAYvUO9vPf4Fo8.jpg",
         "cast_id": 14,
         "character": "",
         "credit_id": "606a4d7f35c30a00296f568a",
-        "order": 11
+        "order": 10
       },
       {
         "adult": false,
@@ -221,26 +211,26 @@
         "known_for_department": "Acting",
         "name": "Pragathi Mahavadi",
         "original_name": "Pragathi Mahavadi",
-        "popularity": 0.6249,
+        "popularity": 1.3133,
         "profile_path": "/9v63JB33LMkfR90raHu9O1iHZOQ.jpg",
         "cast_id": 15,
         "character": "",
         "credit_id": "606a4da835c30a00296f56e2",
-        "order": 12
+        "order": 11
       },
       {
         "adult": false,
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 16,
         "character": "",
         "credit_id": "606a4dc809c24c00782ba115",
-        "order": 13
+        "order": 12
       },
       {
         "adult": false,
@@ -249,140 +239,51 @@
         "known_for_department": "Acting",
         "name": "Uttej",
         "original_name": "Uttej",
-        "popularity": 0.2442,
+        "popularity": 1.2843,
         "profile_path": "/ntwumxdq3aYSi4fJln1kPa1JlD2.jpg",
         "cast_id": 17,
         "character": "",
         "credit_id": "606a4dce03bf840070282258",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1305782,
+        "known_for_department": "Acting",
+        "name": "Hamsa Nandini",
+        "original_name": "Hamsa Nandini",
+        "popularity": 0.4988,
+        "profile_path": "/oUIUJb8H5KVQk080zncuTFcznbT.jpg",
+        "cast_id": 30,
+        "character": "Special appearance",
+        "credit_id": "6a31029da7a0f305e30b58f6",
         "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1031508,
+        "known_for_department": "Acting",
+        "name": "Maryam Zakaria",
+        "original_name": "Maryam Zakaria",
+        "popularity": 0.4404,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Special appearance",
+        "credit_id": "606a4d73699fb7005881c628",
+        "order": 15
       }
     ],
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 1488793,
-        "known_for_department": "Editing",
-        "name": "Kotagiri Venkateswara Rao",
-        "original_name": "Kotagiri Venkateswara Rao",
-        "popularity": 0.2376,
-        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
-        "credit_id": "606a4f240c3ec80029e50ca1",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 146940,
-        "known_for_department": "Writing",
-        "name": "Kona Venkat",
-        "original_name": "Kona Venkat",
-        "popularity": 0.3756,
-        "profile_path": "/z3ZGmzpnx2zrJNJRonoWKG2FZNN.jpg",
-        "credit_id": "606a4e5eebb99d00598ff848",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1965140,
-        "known_for_department": "Crew",
-        "name": "Lakshman Chella",
-        "original_name": "Lakshman Chella",
-        "popularity": 0.1727,
-        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
-        "credit_id": "606a4f3d98f1f100785a4a8a",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 1279210,
         "known_for_department": "Directing",
         "name": "Prakash Tholeti",
         "original_name": "Prakash Tholeti",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "606a4e50cdf2e6002968e933",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1477873,
-        "known_for_department": "Production",
-        "name": "Paruchuri Kireeti",
-        "original_name": "Paruchuri Kireeti",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "606a4e8f124c8d003f37ccfe",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1756349,
-        "known_for_department": "Crew",
-        "name": "Ram Chella",
-        "original_name": "Ram Chella",
-        "popularity": 0.2442,
-        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
-        "credit_id": "606a4f2d98f1f100785a4a69",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1772838,
-        "known_for_department": "Camera",
-        "name": "Venkat Prasad",
-        "original_name": "Venkat Prasad",
-        "popularity": 0.07,
-        "profile_path": null,
-        "credit_id": "606a4ec9d48cee0078ad4ca7",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1704831,
-        "known_for_department": "Art",
-        "name": "A. S. Prakash",
-        "original_name": "A. S. Prakash",
-        "popularity": 0.1822,
-        "profile_path": null,
-        "credit_id": "606a4f19124c8d0078d3d9c2",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1684194,
-        "known_for_department": "Crew",
-        "name": "Prem Rakshith",
-        "original_name": "Prem Rakshith",
-        "popularity": 0.1871,
-        "profile_path": null,
-        "credit_id": "606a4f5298f1f100785a4aa6",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1279210,
-        "known_for_department": "Directing",
-        "name": "Prakash Tholeti",
-        "original_name": "Prakash Tholeti",
-        "popularity": 0.0143,
+        "popularity": 0.2877,
         "profile_path": null,
         "credit_id": "606a4e3dd3d3870070a09fd7",
         "department": "Writing",
@@ -395,7 +296,7 @@
         "known_for_department": "Directing",
         "name": "Prakash Tholeti",
         "original_name": "Prakash Tholeti",
-        "popularity": 0.0143,
+        "popularity": 0.2877,
         "profile_path": null,
         "credit_id": "606a4e451941860040530561",
         "department": "Writing",
@@ -408,11 +309,115 @@
         "known_for_department": "Directing",
         "name": "Prakash Tholeti",
         "original_name": "Prakash Tholeti",
-        "popularity": 0.0143,
+        "popularity": 0.2877,
         "profile_path": null,
-        "credit_id": "52fe4b869251416c910dd5d1",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "606a4e50cdf2e6002968e933",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146940,
+        "known_for_department": "Writing",
+        "name": "Kona Venkat",
+        "original_name": "Kona Venkat",
+        "popularity": 3.3281,
+        "profile_path": "/z3ZGmzpnx2zrJNJRonoWKG2FZNN.jpg",
+        "credit_id": "606a4e5eebb99d00598ff848",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477873,
+        "known_for_department": "Production",
+        "name": "Paruchuri Kireeti",
+        "original_name": "Paruchuri Kireeti",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "606a4e8f124c8d003f37ccfe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1772838,
+        "known_for_department": "Camera",
+        "name": "Venkat Prasad",
+        "original_name": "Venkat Prasad",
+        "popularity": 0.276,
+        "profile_path": null,
+        "credit_id": "606a4ec9d48cee0078ad4ca7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704831,
+        "known_for_department": "Art",
+        "name": "A. S. Prakash",
+        "original_name": "A. S. Prakash",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "606a4f19124c8d0078d3d9c2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "606a4f240c3ec80029e50ca1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756349,
+        "known_for_department": "Crew",
+        "name": "Ram Chella",
+        "original_name": "Ram Chella",
+        "popularity": 0.4342,
+        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+        "credit_id": "606a4f2d98f1f100785a4a69",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1965140,
+        "known_for_department": "Crew",
+        "name": "Lakshman Chella",
+        "original_name": "Lakshman Chella",
+        "popularity": 0.3323,
+        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+        "credit_id": "606a4f3d98f1f100785a4a8a",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684194,
+        "known_for_department": "Crew",
+        "name": "Prem Rakshith",
+        "original_name": "Prem Rakshith",
+        "popularity": 0.4079,
+        "profile_path": null,
+        "credit_id": "606a4f5298f1f100785a4aa6",
+        "department": "Crew",
+        "job": "Choreographer"
       },
       {
         "adult": false,
@@ -421,16 +426,26 @@
         "known_for_department": "Sound",
         "name": "Chakri",
         "original_name": "Chakri",
-        "popularity": 0.2011,
+        "popularity": 0.4244,
         "profile_path": "/3GwwP1DbitIrJiP60RECDf9TwQC.jpg",
         "credit_id": "52fe4b869251416c910dd5cb",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1279210,
+        "known_for_department": "Directing",
+        "name": "Prakash Tholeti",
+        "original_name": "Prakash Tholeti",
+        "popularity": 0.2877,
+        "profile_path": null,
+        "credit_id": "52fe4b869251416c910dd5d1",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [
@@ -480,8 +495,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1134,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/g9ZVhBvIYjRePsQrXUKtAIPKSUY.jpg",
         "vote_average": 0,
         "vote_count": 0,
@@ -490,38 +505,14 @@
       {
         "aspect_ratio": 0.667,
         "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "ta",
         "file_path": "/x0DefPSYyNA60ulvtd3BrAzVpzS.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Marzi The Power",
-        "type": "Hindi Dubbed"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Enaku Ishtam",
-        "type": "Tamil Dubbed"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt2156899",
-    "wikidata_id": "Q6956491",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -539,5 +530,32 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2156899",
+    "wikidata_id": "Q6956491",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Marzi The Power",
+        "type": "Hindi Dubbed"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Enaku Ishtam",
+        "type": "Tamil Dubbed"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mugguru Maratilu",
   "overview": "After King Siddhoji's wife instigates him against his three nephews named Somoji, Subandhi and Firoji, a series of unfortunate events occur.",
-  "popularity": 0.0517,
+  "popularity": 1.1832,
   "poster_path": "/vlnZLwIq2r2uFRJtJgnJY1noscD.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,6 +43,13 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt0154910",
+    "wikidata_id": "Q6932147",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -50,9 +57,9 @@
         "gender": 2,
         "id": 237254,
         "known_for_department": "Acting",
-        "name": "Nageshwara Rao Akkineni",
+        "name": "Akkineni Nageswara Rao",
         "original_name": "Nageshwara Rao Akkineni",
-        "popularity": 0.2918,
+        "popularity": 1.5333,
         "profile_path": "/esv4H8U0GFMzrekmsNu24PmPa2F.jpg",
         "cast_id": 1,
         "character": "",
@@ -66,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "C.H. Narayana Rao",
         "original_name": "C.H. Narayana Rao",
-        "popularity": 0.0558,
+        "popularity": 0.4382,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -80,7 +87,7 @@
         "known_for_department": "Acting",
         "name": "Govindarajula Subba Rao",
         "original_name": "Govindarajula Subba Rao",
-        "popularity": 0.137,
+        "popularity": 0.5232,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -94,7 +101,7 @@
         "known_for_department": "Acting",
         "name": "P. Kannamba",
         "original_name": "P. Kannamba",
-        "popularity": 0.1294,
+        "popularity": 0.666,
         "profile_path": "/3AR3UCv7zE7FNnfjTYVaReJ3cW7.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,7 +115,7 @@
         "known_for_department": "Acting",
         "name": "T. G. Kamala Devi",
         "original_name": "T. G. Kamala Devi",
-        "popularity": 0.2666,
+        "popularity": 0.5412,
         "profile_path": "/kpbmGDCDcdssnxWHOkcXSzVAtdz.jpg",
         "cast_id": 5,
         "character": "",
@@ -122,7 +129,7 @@
         "known_for_department": "Acting",
         "name": "Kasturi Sivarao",
         "original_name": "Kasturi Sivarao",
-        "popularity": 0.0214,
+        "popularity": 0.4732,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -138,7 +145,7 @@
         "known_for_department": "Directing",
         "name": "Ghantasala Balaramayya",
         "original_name": "Ghantasala Balaramayya",
-        "popularity": 0.0286,
+        "popularity": 0.4482,
         "profile_path": null,
         "credit_id": "64ad18c08a0e9b00c6cc88ff",
         "department": "Directing",
@@ -151,7 +158,7 @@
         "known_for_department": "Writing",
         "name": "Balijepalli Lakshmikantha Kavi",
         "original_name": "Balijepalli Lakshmikantha Kavi",
-        "popularity": 0.0261,
+        "popularity": 0.4533,
         "profile_path": null,
         "credit_id": "64ad18ddb686b900cc0b29d6",
         "department": "Writing",
@@ -162,12 +169,8 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0154910",
-    "wikidata_id": "Q6932147",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -186,12 +189,6 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -207,5 +204,8 @@
         "width": 500
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

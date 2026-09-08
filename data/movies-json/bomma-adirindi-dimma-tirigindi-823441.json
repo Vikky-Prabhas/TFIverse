@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bomma Adirindi Dimma Tirigindi",
   "overview": "After five years, a group of college girls plan for a reunion party at a farmhouse situated at the outskirts of the city. However, they get stuck in the farmhouse owing to the nationwide lockdown. During their stay, they experience paranormal events that leave them in a state of panic.",
-  "popularity": 0.0338,
+  "popularity": 0.7507,
   "poster_path": "/lA1WD2HvIsV7qA2KlSMC1Sp0EIo.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,13 +34,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt14773734",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -50,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1469,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 1,
         "character": "Goli",
@@ -64,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Arjun Kalyan",
         "original_name": "Arjun Kalyan",
-        "popularity": 0.0409,
+        "popularity": 0.4092,
         "profile_path": "/xVHRoGhgdeEQZCzYTwyB18Tsvbv.jpg",
         "cast_id": 2,
         "character": "Kalyan",
@@ -78,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Heena",
         "original_name": "Heena",
-        "popularity": 0,
+        "popularity": 0.342,
         "profile_path": null,
         "cast_id": 3,
         "character": "Sophie",
@@ -92,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Priya",
         "original_name": "Priya",
-        "popularity": 0,
+        "popularity": 0.2932,
         "profile_path": null,
         "cast_id": 4,
         "character": "Srimukhi",
@@ -106,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Avanthika Harinalwa",
         "original_name": "Avanthika Harinalwa",
-        "popularity": 0.0143,
+        "popularity": 0.3796,
         "profile_path": null,
         "cast_id": 5,
         "character": "Deepti",
@@ -120,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Sanjana Choudhary",
         "original_name": "Sanjana Choudhary",
-        "popularity": 0.0143,
+        "popularity": 0.2882,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -136,7 +129,7 @@
         "known_for_department": "Directing",
         "name": "Kumar Kota",
         "original_name": "Kumar Kota",
-        "popularity": 0.0071,
+        "popularity": 0.3489,
         "profile_path": null,
         "credit_id": "6089deae946318007a1091ec",
         "department": "Directing",
@@ -146,6 +139,16 @@
   },
   "videos": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt14773734",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -182,8 +185,5 @@
         "width": 1200
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

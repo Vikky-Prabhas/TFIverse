@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కాష్మోరా",
   "overview": "A sorcerer decides to kill a trio to fulfil his master's wish. But every time he makes efforts to kill them, someone else dies.",
-  "popularity": 0.1946,
+  "popularity": 1.0452,
   "poster_path": "/jTm0RHUs36YDmMfZuycxj1GGVIE.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,19 +44,6 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt3521170",
-    "wikidata_id": "Q15692481",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -65,8 +52,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 3,
         "character": "Darkha",
@@ -80,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Bhanupriya",
         "original_name": "Bhanupriya",
-        "popularity": 0.4522,
+        "popularity": 1.336,
         "profile_path": "/hINls6s66YNvYrJNV98qPFDrXil.jpg",
         "cast_id": 2,
         "character": "Thulasi",
@@ -94,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.4516,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 1,
         "character": "Sridhar",
@@ -108,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.271,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 4,
         "character": "Ram Babu",
@@ -122,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 5,
         "character": "Abraka Dabra",
@@ -136,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Subhalekha Sudhakar",
         "original_name": "Subhalekha Sudhakar",
-        "popularity": 0.3743,
+        "popularity": 1.5824,
         "profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
         "cast_id": 6,
         "character": "Shadow",
@@ -148,37 +135,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 584673,
-        "known_for_department": "Writing",
-        "name": "Yandamuri Veerendranath",
-        "original_name": "Yandamuri Veerendranath",
-        "popularity": 0.2238,
-        "profile_path": null,
-        "credit_id": "5e9ed7a62790bf002507bd40",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2609759,
-        "known_for_department": "Directing",
-        "name": "N. B. Chakravarthy",
-        "original_name": "N. B. Chakravarthy",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "5e9ed80024f2ce0022308a4b",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 933605,
         "known_for_department": "Sound",
         "name": "K. Chakravarthy",
         "original_name": "Chakravarthy",
-        "popularity": 0.1741,
+        "popularity": 0.4786,
         "profile_path": null,
         "credit_id": "5e9ed80eeec5b5001a419df5",
         "department": "Sound",
@@ -187,15 +148,71 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 2609759,
+        "known_for_department": "Directing",
+        "name": "N. B. Chakravarthy",
+        "original_name": "N. B. Chakravarthy",
+        "popularity": 1.1284,
+        "profile_path": null,
+        "credit_id": "5e9ed80024f2ce0022308a4b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584673,
+        "known_for_department": "Writing",
+        "name": "Yandamuri Veerendranath",
+        "original_name": "Yandamuri Veerendranath",
+        "popularity": 0.8362,
+        "profile_path": null,
+        "credit_id": "5e9ed7a62790bf002507bd40",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1660496,
         "known_for_department": "Camera",
         "name": "V.S.R. Swamy",
         "original_name": "V.S.R. Swamy",
-        "popularity": 0.0579,
+        "popularity": 0.3107,
         "profile_path": null,
         "credit_id": "5e9ed8251f331900244c4722",
         "department": "Crew",
         "job": "Cinematography"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt3521170",
+    "wikidata_id": "Q15692481",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "1986-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },
@@ -226,23 +243,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 668
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "1986-03-21T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

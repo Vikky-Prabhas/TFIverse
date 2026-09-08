@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "వీరి వీరి గుమ్మడి పండు",
   "overview": "",
-  "popularity": 0.0168,
+  "popularity": 1.3524,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -44,48 +44,18 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 589654,
-        "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
-        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "698391fc73a7539060912924",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1107240,
-        "known_for_department": "Acting",
-        "name": "Jayalalita",
-        "original_name": "Jayalalita",
-        "popularity": 1.5679,
-        "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "69839224da5552f83d6ee6ac",
-        "order": 1
-      }
-    ],
-    "crew": []
+  "external_ids": {
+    "imdb_id": "tt0484376",
+    "wikidata_id": "Q16346432",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt0484376",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -112,7 +82,37 @@
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589654,
+        "known_for_department": "Acting",
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
+        "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "698391fc73a7539060912924",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107240,
+        "known_for_department": "Acting",
+        "name": "Jayalalita",
+        "original_name": "Jayalalita",
+        "popularity": 1.4762,
+        "profile_path": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69839224da5552f83d6ee6ac",
+        "order": 1
+      }
+    ],
+    "crew": []
   }
 }

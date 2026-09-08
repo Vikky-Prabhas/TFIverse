@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "వద్దంటే డబ్బు",
   "overview": "Shyam, an artist, lives with Rama. They have a lavish lifestyle and run from the people they're indebted to until Shyam meets Saroja, an admirer of his work and they fall in love. Saroja's father gives Shyam a lot of money to spend. What does Shyam end up doing with all that money?",
-  "popularity": 0.3039,
+  "popularity": 0.7621,
   "poster_path": "/xGEY8BTykUBD9jrjdapwfHpJbVA.jpg",
   "production_companies": [],
   "production_countries": [
@@ -52,15 +52,187 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
-  "external_ids": {
-    "imdb_id": "tt0329724",
-    "wikidata_id": "Q13009165",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003933,
+        "known_for_department": "Acting",
+        "name": "N.T. Rama Rao",
+        "original_name": "N.T. Rama Rao",
+        "popularity": 1.799,
+        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
+        "cast_id": 8,
+        "character": "Syam",
+        "credit_id": "6341ca96e8d028007a002e04",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584415,
+        "known_for_department": "Acting",
+        "name": "Sowcar Janaki",
+        "original_name": "சௌகார் ஜானகி",
+        "popularity": 3.0943,
+        "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
+        "cast_id": 9,
+        "character": "Saroja",
+        "credit_id": "6341caa0e1ad790081fdd7c2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445604,
+        "known_for_department": "Acting",
+        "name": "Peketi Sivaram",
+        "original_name": "Peketi Sivaram",
+        "popularity": 0.704,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Rama Rao",
+        "credit_id": "6341caad7eb5f2007b130401",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034831,
+        "known_for_department": "Acting",
+        "name": "Jamuna",
+        "original_name": "Jamuna",
+        "popularity": 0.913,
+        "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
+        "cast_id": 11,
+        "character": "Rekha",
+        "credit_id": "6341cab9b18f32008165c1d1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584685,
+        "known_for_department": "Acting",
+        "name": "Allu Ramalingaiah",
+        "original_name": "Allu Ramalingaiah",
+        "popularity": 2.0609,
+        "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
+        "cast_id": 12,
+        "character": "Master Baddanki",
+        "credit_id": "6341cac47eb5f2007e3660a0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1614313,
+        "known_for_department": "Acting",
+        "name": "Hemalatha Devi",
+        "original_name": "Hemalatha",
+        "popularity": 1.0471,
+        "profile_path": "/fpITeYJSoN4anyHCH87bz4PsfcR.jpg",
+        "cast_id": 13,
+        "character": "Yashoda",
+        "credit_id": "6341cadee1ad79007e61da08",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611382,
+        "known_for_department": "Acting",
+        "name": "Rajanala Kaleswara Rao",
+        "original_name": "Rajanala Kaleswara Rao",
+        "popularity": 0.5475,
+        "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
+        "cast_id": 14,
+        "character": "Rao Sahed Hemachalapathi",
+        "credit_id": "660843a08a0e9b01624da516",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3468202,
+        "known_for_department": "Directing",
+        "name": "H.M. Reddy",
+        "original_name": "H.M. Reddy",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "6341c983e4b576009b90a6f8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1276406,
+        "known_for_department": "Writing",
+        "name": "G.D. Madgulkar",
+        "original_name": "G.D. Madgulkar",
+        "popularity": 0.3917,
+        "profile_path": null,
+        "credit_id": "6341c9b5e8d028007f68cc7e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113742,
+        "known_for_department": "Writing",
+        "name": "George Barr McCutcheon",
+        "original_name": "George Barr McCutcheon",
+        "popularity": 0.8669,
+        "profile_path": null,
+        "credit_id": "6341ca82706e56007ad29fb0",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3468202,
+        "known_for_department": "Directing",
+        "name": "H.M. Reddy",
+        "original_name": "H.M. Reddy",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "6341c9c725b955007a8ad188",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2008688,
+        "known_for_department": "Writing",
+        "name": "Vempati Sadasivabrahmam",
+        "original_name": "Vempati Sadasivabrahmam",
+        "popularity": 0.4719,
+        "profile_path": null,
+        "credit_id": "6341c9e82d3721007c1a661c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3109560,
+        "known_for_department": "Directing",
+        "name": "Y R Swamy",
+        "original_name": "Y R Swamy",
+        "popularity": 0.6274,
+        "profile_path": "/3NKbRipY0ml2lRGA6KaMJVvLG64.jpg",
+        "credit_id": "6895bc51af13eb521a922809",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -79,190 +251,18 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0329724",
+    "wikidata_id": "Q13009165",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "videos": {
     "results": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1003933,
-        "known_for_department": "Acting",
-        "name": "N.T. Rama Rao",
-        "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
-        "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
-        "cast_id": 8,
-        "character": "Syam",
-        "credit_id": "6341ca96e8d028007a002e04",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584415,
-        "known_for_department": "Acting",
-        "name": "Sowcar Janaki",
-        "original_name": "Sowcar Janaki",
-        "popularity": 0.4308,
-        "profile_path": "/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg",
-        "cast_id": 9,
-        "character": "Saroja",
-        "credit_id": "6341caa0e1ad790081fdd7c2",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1445604,
-        "known_for_department": "Acting",
-        "name": "Peketi Sivaram",
-        "original_name": "Peketi Sivaram",
-        "popularity": 0.1136,
-        "profile_path": null,
-        "cast_id": 10,
-        "character": "Rama Rao",
-        "credit_id": "6341caad7eb5f2007b130401",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1034831,
-        "known_for_department": "Acting",
-        "name": "Jamuna",
-        "original_name": "Jamuna",
-        "popularity": 0.1634,
-        "profile_path": "/vev05ehTlBa4YHb3ZhPdS4eon2q.jpg",
-        "cast_id": 11,
-        "character": "Rekha",
-        "credit_id": "6341cab9b18f32008165c1d1",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 584685,
-        "known_for_department": "Acting",
-        "name": "Allu Ramalingaiah",
-        "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
-        "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
-        "cast_id": 12,
-        "character": "Master Baddanki",
-        "credit_id": "6341cac47eb5f2007e3660a0",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1614313,
-        "known_for_department": "Acting",
-        "name": "Hemalatha Devi",
-        "original_name": "Hemalatha",
-        "popularity": 0.101,
-        "profile_path": "/fpITeYJSoN4anyHCH87bz4PsfcR.jpg",
-        "cast_id": 13,
-        "character": "Yashoda",
-        "credit_id": "6341cadee1ad79007e61da08",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1611382,
-        "known_for_department": "Acting",
-        "name": "Rajanala Kaleswara Rao",
-        "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1181,
-        "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
-        "cast_id": 14,
-        "character": "Rao Sahed Hemachalapathi",
-        "credit_id": "660843a08a0e9b01624da516",
-        "order": 6
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3468202,
-        "known_for_department": "Directing",
-        "name": "H.M. Reddy",
-        "original_name": "H.M. Reddy",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "credit_id": "6341c983e4b576009b90a6f8",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1276406,
-        "known_for_department": "Writing",
-        "name": "G.D. Madgulkar",
-        "original_name": "G.D. Madgulkar",
-        "popularity": 0.1111,
-        "profile_path": null,
-        "credit_id": "6341c9b5e8d028007f68cc7e",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1113742,
-        "known_for_department": "Writing",
-        "name": "George Barr McCutcheon",
-        "original_name": "George Barr McCutcheon",
-        "popularity": 0.2002,
-        "profile_path": null,
-        "credit_id": "6341ca82706e56007ad29fb0",
-        "department": "Writing",
-        "job": "Novel"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3468202,
-        "known_for_department": "Directing",
-        "name": "H.M. Reddy",
-        "original_name": "H.M. Reddy",
-        "popularity": 0.0453,
-        "profile_path": null,
-        "credit_id": "6341c9c725b955007a8ad188",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2008688,
-        "known_for_department": "Writing",
-        "name": "Vempati Sadasivabrahmam",
-        "original_name": "Vempati Sadasivabrahmam",
-        "popularity": 0.1191,
-        "profile_path": null,
-        "credit_id": "6341c9e82d3721007c1a661c",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3109560,
-        "known_for_department": "Directing",
-        "name": "Y R Swamy",
-        "original_name": "Y R Swamy",
-        "popularity": 0.1542,
-        "profile_path": "/3NKbRipY0ml2lRGA6KaMJVvLG64.jpg",
-        "credit_id": "6895bc51af13eb521a922809",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
   },
   "images": {
     "backdrops": [],

@@ -3,7 +3,16 @@
   "backdrop_path": "/mVpOqEmxrt040U00MgxCnVByMF6.jpg",
   "belongs_to_collection": null,
   "budget": 0,
-  "genres": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
   "homepage": "",
   "id": 263054,
   "imdb_id": "tt6536778",
@@ -11,38 +20,72 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Malligadu Marriage Bureau",
-  "overview": "If it's tough getting hitched, Malligadu is the man people come looking for. His marriage bureau specialises in finding partners for people who otherwise find it impossible to find a match. Not long after, Malligadu himself meets his match but it is not easy for him to handle the situation.",
-  "popularity": 0.237,
-  "poster_path": "/gZNA3Dq5KfALIcYEvFEH5M9Y8Jr.jpg",
+  "original_title": "మల్లిగాడు మ్యారేజ్ బ్యూరో",
+  "overview": "Malligadu runs a marriage bureau but he is only interested in making money. However, when a gangster gets involved in his business, his establishment lands in trouble.",
+  "popularity": 1.5016,
+  "poster_path": "/3cmtEtaBddKlrQKIBbg9Ul54LLz.jpg",
   "production_companies": [],
   "production_countries": [],
-  "release_date": "2014-04-04",
+  "release_date": "2014-02-07",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 150,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Malligadu Marriage Bureau",
   "video": false,
   "vote_average": 5,
-  "vote_count": 2,
+  "vote_count": 3,
   "credits": {
     "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003981,
+        "known_for_department": "Acting",
+        "name": "Srikanth",
+        "original_name": "శ్రీకాంత్",
+        "popularity": 3.4944,
+        "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5e3ad718ac8e6b0018c9891e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586638,
+        "known_for_department": "Acting",
+        "name": "Manochitra",
+        "original_name": "Manochitra",
+        "popularity": 0.3655,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "5e3ad6b043250f0013c69252",
+        "order": 1
+      },
       {
         "adult": false,
         "gender": 2,
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1,
         "character": "Chotu",
         "credit_id": "5e3ad67743250f0017c6158c",
-        "order": 0
+        "order": 2
       },
       {
         "adult": false,
@@ -51,12 +94,12 @@
         "known_for_department": "Acting",
         "name": "Sandhya Janak",
         "original_name": "Sandhya Janak",
-        "popularity": 0.2468,
+        "popularity": 0.5661,
         "profile_path": "/zJKewLyV1ONRl0y4nFoobrjpI25.jpg",
         "cast_id": 2,
         "character": "",
         "credit_id": "5e3ad6880c27100015761013",
-        "order": 1
+        "order": 3
       },
       {
         "adult": false,
@@ -65,12 +108,12 @@
         "known_for_department": "Acting",
         "name": "Raghu Karumanchi",
         "original_name": "Raghu Karumanchi",
-        "popularity": 0.1701,
+        "popularity": 0.4393,
         "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "5e3ad69743250f0017c615b0",
-        "order": 2
+        "order": 4
       },
       {
         "adult": false,
@@ -79,39 +122,11 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9585,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "5e3ad6a30c27100015761023",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 586638,
-        "known_for_department": "Acting",
-        "name": "Manochitra",
-        "original_name": "Manochitra",
-        "popularity": 0.1073,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "5e3ad6b043250f0013c69252",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2530143,
-        "known_for_department": "Acting",
-        "name": "Bhavana Menon",
-        "original_name": "Bhavana Menon",
-        "popularity": 0.0214,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "5e3ad6be0c27100015761059",
         "order": 5
       },
       {
@@ -121,7 +136,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 7,
         "character": "",
@@ -135,7 +150,7 @@
         "known_for_department": "Acting",
         "name": "Kalki Raja",
         "original_name": "Kalki Raja",
-        "popularity": 0.2032,
+        "popularity": 0.6653,
         "profile_path": "/ghejKia8Wufa38bjhJOvfHu9xcW.jpg",
         "cast_id": 8,
         "character": "",
@@ -149,7 +164,7 @@
         "known_for_department": "Acting",
         "name": "Nanduri Ramu",
         "original_name": "Nanduri Ramu",
-        "popularity": 0.0071,
+        "popularity": 0.3634,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -163,7 +178,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 10,
         "character": "",
@@ -177,7 +192,7 @@
         "known_for_department": "Acting",
         "name": "Telangana Shakuntala",
         "original_name": "Telangana Sakuntala",
-        "popularity": 0.402,
+        "popularity": 1.5871,
         "profile_path": "/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg",
         "cast_id": 11,
         "character": "",
@@ -191,7 +206,7 @@
         "known_for_department": "Acting",
         "name": "Prabhas Sreenu",
         "original_name": "Prabhas Sreenu",
-        "popularity": 0.2334,
+        "popularity": 1.3484,
         "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
         "cast_id": 12,
         "character": "",
@@ -200,31 +215,17 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 1003981,
-        "known_for_department": "Acting",
-        "name": "Srikanth",
-        "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
-        "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
-        "cast_id": 13,
-        "character": "",
-        "credit_id": "5e3ad718ac8e6b0018c9891e",
-        "order": 12
-      },
-      {
-        "adult": false,
         "gender": 1,
         "id": 544889,
         "known_for_department": "Acting",
         "name": "Sudha",
         "original_name": "Sudha",
-        "popularity": 0.4601,
+        "popularity": 1.5384,
         "profile_path": "/eod26HfPLe95cxTk2ieT1YzNaSl.jpg",
         "cast_id": 14,
         "character": "",
         "credit_id": "5e3ad72991745b00122e3e6c",
-        "order": 13
+        "order": 12
       },
       {
         "adult": false,
@@ -233,12 +234,12 @@
         "known_for_department": "Acting",
         "name": "Fish Venkat",
         "original_name": "Fish Venkat",
-        "popularity": 0.2351,
+        "popularity": 0.6894,
         "profile_path": "/rPP4bQ9fo3GMVkxNQvQVO0UbPTT.jpg",
         "cast_id": 15,
         "character": "",
         "credit_id": "5e3ad73591745b00172e16cb",
-        "order": 14
+        "order": 13
       }
     ],
     "crew": [
@@ -249,26 +250,65 @@
         "known_for_department": "Acting",
         "name": "Uday Rajkumar",
         "original_name": "Uday Rajkumar",
-        "popularity": 0.0286,
+        "popularity": 0.4202,
         "profile_path": null,
         "credit_id": "5e3ad7580c27100018761c33",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3280030,
+        "known_for_department": "Production",
+        "name": "Mallela Sitaramaraju",
+        "original_name": "Mallela Sitaramaraju",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "6a6ad8cf04e548cc75d2f1ea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1879280,
+        "known_for_department": "Camera",
+        "name": "Vasu",
+        "original_name": "Vasu",
+        "popularity": 0.2752,
+        "profile_path": null,
+        "credit_id": "6a6ad8e21b76f1382a4af6c4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378743,
+        "known_for_department": "Editing",
+        "name": "Aswani Kumar",
+        "original_name": "Aswani Kumar",
+        "popularity": 0.2618,
+        "profile_path": null,
+        "credit_id": "6a6ad90c17843146b64af6ef",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378748,
+        "known_for_department": "Sound",
+        "name": "Raghu Ram",
+        "original_name": "Raghu Ram",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "6a6ad96a7b9d77bba99a34a1",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6536778",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -280,7 +320,7 @@
             "descriptors": [],
             "iso_639_1": "",
             "note": "",
-            "release_date": "2014-04-04T00:00:00.000Z",
+            "release_date": "2014-02-07T00:00:00.000Z",
             "type": 3
           }
         ]
@@ -316,15 +356,38 @@
     "logos": [],
     "posters": [
       {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3cmtEtaBddKlrQKIBbg9Ul54LLz.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
         "aspect_ratio": 0.75,
         "height": 1333,
         "iso_3166_1": null,
         "iso_639_1": null,
         "file_path": "/gZNA3Dq5KfALIcYEvFEH5M9Y8Jr.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 1000
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt6536778",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   }
 }

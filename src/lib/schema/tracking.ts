@@ -1,6 +1,9 @@
 import { sql } from 'drizzle-orm';
-import { pgTable, varchar, integer, timestamp, jsonb, serial, index, real, unique } from 'drizzle-orm/pg-core';
+import { pgTable, varchar, integer, timestamp, jsonb, serial, index, real, unique, pgEnum } from 'drizzle-orm/pg-core';
 import { movies } from './content';
+import { territoryEnum } from './venues';
+
+export const dataStateEnum = pgEnum('data_state_enum', ['LIVE', 'RECENT', 'ESTIMATED', 'REPORTED', 'FINAL', 'UNKNOWN']);
 
 // ══════════════════════════════════════════════════════════
 // 1. DAILY AGGREGATES (Mega Header Stats)
@@ -16,6 +19,10 @@ export const dailyBoxOffice = pgTable('daily_box_office', {
     ticketsSold: integer('tickets_sold').notNull().default(0),
     shows: integer('shows').notNull().default(0),
     occupancy: real('occupancy').notNull().default(0),
+    
+    // Data Trust
+    dataState: dataStateEnum('data_state').default('UNKNOWN').notNull(),
+    dataSource: varchar('data_source', { length: 100 }), // e.g. 'TMDB', 'RENTRAK', 'BMS_SCRAPE'
     
     // Status metrics
     ffCount: integer('ff_count').notNull().default(0), // Fast Filling
@@ -60,6 +67,10 @@ export const regionalBoxOffice = pgTable('regional_box_office', {
     gross: real('gross').notNull().default(0),
     occupancy: real('occupancy').notNull().default(0),
     atp: real('atp').notNull().default(0),
+    
+    territory: territoryEnum('territory').default('UNKNOWN').notNull(),
+    dataState: dataStateEnum('data_state').default('UNKNOWN').notNull(),
+    dataSource: varchar('data_source', { length: 100 }),
 
     updatedAt: timestamp('updated_at').default(sql`CURRENT_TIMESTAMP`).notNull(),
 }, (table) => ({
@@ -84,6 +95,9 @@ export const chainBoxOffice = pgTable('chain_box_office', {
     gross: real('gross').notNull().default(0),
     occupancy: real('occupancy').notNull().default(0),
     atp: real('atp').notNull().default(0),
+    
+    dataState: dataStateEnum('data_state').default('UNKNOWN').notNull(),
+    dataSource: varchar('data_source', { length: 100 }),
 
     updatedAt: timestamp('updated_at').default(sql`CURRENT_TIMESTAMP`).notNull(),
 }, (table) => ({
@@ -101,6 +115,8 @@ export const realtimeSessions = pgTable('realtime_sessions', {
     venueName: varchar('venue_name', { length: 255 }).notNull(),
     chainName: varchar('chain_name', { length: 100 }),
     city: varchar('city', { length: 100 }).notNull(),
+    mandal: varchar('mandal', { length: 100 }),
+    district: varchar('district', { length: 100 }),
     state: varchar('state', { length: 100 }),
     showDate: timestamp('show_date', { mode: 'date' }).notNull(),
     showTime: varchar('show_time', { length: 50 }).notNull(),
@@ -134,4 +150,58 @@ export const hourlyTrendingLogs = pgTable('hourly_trending_logs', {
 }, (table) => ({
     movieHourUnique: unique('unique_movie_hour').on(table.movieId, table.timestamp),
     movieHourIdx: index('idx_hourly_trending_movie').on(table.movieId),
+}));
+
+// ══════════════════════════════════════════════════════════
+// 6. MOVIE FINANCIALS (Verdict Engine Inputs)
+// ══════════════════════════════════════════════════════════
+// Note: This table stores reliable financial INPUTS only.
+// The actual Hit/Flop verdict formula is applied at the business-logic layer.
+export const movieFinancials = pgTable('movie_financials', {
+    id: serial('id').primaryKey(),
+    movieId: integer('movie_id').notNull().references(() => movies.id, { onDelete: 'cascade' }),
+    
+    productionBudget: real('production_budget'),
+    preReleaseBusiness: real('pre_release_business'),
+    theatricalRights: real('theatrical_rights'),
+    theatricalBreakEven: real('theatrical_break_even'),
+    
+    worldwideGross: real('worldwide_gross'),
+    worldwideShare: real('worldwide_share'),
+    distributorShare: real('distributor_share'),
+    
+    financialState: dataStateEnum('financial_state').default('UNKNOWN').notNull(),
+    source: varchar('source', { length: 100 }),
+
+    createdAt: timestamp('created_at').default(sql`CURRENT_TIMESTAMP`).notNull(),
+    updatedAt: timestamp('updated_at').default(sql`CURRENT_TIMESTAMP`).notNull(),
+}, (table) => ({
+    movieUnique: unique('unique_movie_financial').on(table.movieId),
+}));
+
+// ══════════════════════════════════════════════════════════
+// 7. CITY BOOKING SNAPSHOTS (Advance Velocity Engine)
+// ══════════════════════════════════════════════════════════
+// Granularity: Aggregated at the City + ShowDate level at a specific minute.
+export const cityBookingSnapshots = pgTable('city_booking_snapshots', {
+    id: serial('id').primaryKey(),
+    movieId: integer('movie_id').notNull().references(() => movies.id, { onDelete: 'cascade' }),
+    
+    city: varchar('city', { length: 100 }).notNull(),
+    territory: territoryEnum('territory').default('UNKNOWN').notNull(),
+    
+    showDate: timestamp('show_date', { mode: 'date' }).notNull(), // The future date being booked
+    snapshotTimestamp: timestamp('snapshot_timestamp').notNull(), // Exact time the snapshot was taken
+    
+    ticketsSold: integer('tickets_sold').notNull(),
+    grossRevenue: real('gross_revenue').notNull(),
+    showsCount: integer('shows_count').notNull(),
+    capacity: integer('capacity').notNull(), 
+    
+    createdAt: timestamp('created_at').default(sql`CURRENT_TIMESTAMP`).notNull(),
+}, (table) => ({
+    // Querying "What was the booking for Hyderabad for Day 1 as of 6 hours ago?"
+    movieCityDateSnapshotIdx: index('idx_city_adv_booking_query').on(table.movieId, table.city, table.showDate, table.snapshotTimestamp),
+    // Ensuring no duplicate snapshots for the exact same city and minute
+    snapshotUnique: unique('unique_city_adv_snapshot').on(table.movieId, table.city, table.showDate, table.snapshotTimestamp),
 }));

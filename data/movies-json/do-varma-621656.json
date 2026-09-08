@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "D/o Varma",
   "overview": "",
-  "popularity": 0.0848,
+  "popularity": 0.5957,
   "poster_path": "/rUZR5Pj0uVU2Yl9vPcXxqmhOHr0.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,90 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381481,
+        "known_for_department": "Acting",
+        "name": "Kavitha Aaras",
+        "original_name": "Kavitha Aaras",
+        "popularity": 0.3006,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "5d4be142002134001527a778",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2381482,
+        "known_for_department": "Acting",
+        "name": "Chanti",
+        "original_name": "Chanti",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "5d4be14d002134001527a78a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1638471,
+        "known_for_department": "Acting",
+        "name": "Dhanraj Sukhram",
+        "original_name": "Dhanraj Sukhram",
+        "popularity": 0.6798,
+        "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "5d4be167c68b6900130ed738",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2037327,
+        "known_for_department": "Sound",
+        "name": "Kaja",
+        "original_name": "Kaja",
+        "popularity": 0.3381,
+        "profile_path": null,
+        "credit_id": "5d4be176002134001227a1e6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2037327,
+        "known_for_department": "Sound",
+        "name": "Kaja",
+        "original_name": "Kaja",
+        "popularity": 0.3381,
+        "profile_path": null,
+        "credit_id": "5d4be1834dc34a001462ef47",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt10441496",
+    "wikidata_id": "Q16247732",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "release_dates": {
     "results": [
       {
@@ -66,94 +150,10 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt10441496",
-    "wikidata_id": "Q16247732",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
   "alternative_titles": {
     "titles": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2381481,
-        "known_for_department": "Acting",
-        "name": "Kavitha Aaras",
-        "original_name": "Kavitha Aaras",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "5d4be142002134001527a778",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2381482,
-        "known_for_department": "Acting",
-        "name": "Chanti",
-        "original_name": "Chanti",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "5d4be14d002134001527a78a",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1638471,
-        "known_for_department": "Acting",
-        "name": "Dhanraj Sukhram",
-        "original_name": "Dhanraj Sukhram",
-        "popularity": 0.1543,
-        "profile_path": "/dPfCC00P3YT9VX6nfi9mlifEYaX.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "5d4be167c68b6900130ed738",
-        "order": 2
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2037327,
-        "known_for_department": "Sound",
-        "name": "Kaja",
-        "original_name": "Kaja",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5d4be176002134001227a1e6",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2037327,
-        "known_for_department": "Sound",
-        "name": "Kaja",
-        "original_name": "Kaja",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5d4be1834dc34a001462ef47",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
   }
 }

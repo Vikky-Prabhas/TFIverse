@@ -7,6 +7,10 @@
     {
       "id": 10749,
       "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
     }
   ],
   "homepage": "",
@@ -16,10 +20,10 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Aradhana",
+  "original_title": "ఆరాధన",
   "overview": "Puliraju is a small time rowdy. When Jennifer arrives in his town as a school teacher, he becomes her student and she transforms his into a different person. Soon, they fall in love. But will they be able to unite?",
-  "popularity": 0.5185,
-  "poster_path": "/gpRKXWXK65SevV9UXzmrwSmIvVE.jpg",
+  "popularity": 1.2736,
+  "poster_path": "/eRaoUy1GL20akruLx626xbFvJw6.jpg",
   "production_companies": [
     {
       "id": 38582,
@@ -60,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -74,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.7094,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "",
@@ -88,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.2812,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 5,
         "character": "",
@@ -102,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Kongara Jaggayya",
         "original_name": "Kongara Jaggayya",
-        "popularity": 0.2214,
+        "popularity": 1.183,
         "profile_path": "/aYYoYtHnjOiNPunr62OPocokdAH.jpg",
         "cast_id": 6,
         "character": "",
@@ -114,9 +118,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 7,
         "character": "",
@@ -128,11 +132,37 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 238027,
+        "known_for_department": "Directing",
+        "name": "Bharathiraja",
+        "original_name": "Bharathiraja",
+        "popularity": 3.1889,
+        "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
+        "credit_id": "53b0b9350e0a265979006ede",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "53b0b936c3a3682eee005786",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 592813,
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3304,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "53b0b939c3a3682edb0058c3",
         "department": "Production",
@@ -145,33 +175,7 @@
         "known_for_department": "Directing",
         "name": "Bharathiraja",
         "original_name": "Bharathiraja",
-        "popularity": 0.5361,
-        "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
-        "credit_id": "53b0b9350e0a265979006ede",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 76888,
-        "known_for_department": "Sound",
-        "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.6521,
-        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "53b0b936c3a3682eee005786",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 238027,
-        "known_for_department": "Directing",
-        "name": "Bharathiraja",
-        "original_name": "Bharathiraja",
-        "popularity": 0.5361,
+        "popularity": 3.1889,
         "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
         "credit_id": "5fa8e96d700bf7003d5c26e0",
         "department": "Writing",
@@ -180,30 +184,36 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1339589,
-        "known_for_department": "Camera",
-        "name": "B. Kannan",
-        "original_name": "B. Kannan",
-        "popularity": 0.1187,
-        "profile_path": null,
-        "credit_id": "5fa8e9b6abf8e200404318d4",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 238027,
         "known_for_department": "Directing",
         "name": "Bharathiraja",
         "original_name": "Bharathiraja",
-        "popularity": 0.5361,
+        "popularity": 3.1889,
         "profile_path": "/wc7mKLI2b9mIAbh7OclVokARO9w.jpg",
         "credit_id": "5fa8e99a534661003feafcac",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339589,
+        "known_for_department": "Camera",
+        "name": "B. Kannan",
+        "original_name": "B. Kannan",
+        "popularity": 0.3694,
+        "profile_path": "/uZyF2ZvnRCRI47ZEqW4qYjDzL6P.jpg",
+        "credit_id": "5fa8e9b6abf8e200404318d4",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt0092578",
@@ -229,6 +239,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [
@@ -247,8 +260,8 @@
       {
         "aspect_ratio": 0.667,
         "height": 1044,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/eRaoUy1GL20akruLx626xbFvJw6.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
@@ -267,22 +280,13 @@
       {
         "aspect_ratio": 0.667,
         "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/gpRKXWXK65SevV9UXzmrwSmIvVE.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

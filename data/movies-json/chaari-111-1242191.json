@@ -22,8 +22,8 @@
   "original_language": "te",
   "original_title": "చారి 111",
   "overview": "In this zany Bond sendup, a hapless secret agent must track down a terrorist bomber.",
-  "popularity": 0.4153,
-  "poster_path": "/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg",
+  "popularity": 1.103,
+  "poster_path": "/zC2aun0lrNl11rKLDCCaHCYpB1Q.jpg",
   "production_companies": [
     {
       "id": 220341,
@@ -53,8 +53,8 @@
   "tagline": "",
   "title": "Chaari 111",
   "video": false,
-  "vote_average": 5.6,
-  "vote_count": 5,
+  "vote_average": 5.167,
+  "vote_count": 6,
   "credits": {
     "cast": [
       {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Vennela Kishore",
         "original_name": "Vennela Kishore",
-        "popularity": 0.9934,
+        "popularity": 2.9644,
         "profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
         "cast_id": 1,
         "character": "Brahmachaari",
@@ -77,8 +77,8 @@
         "id": 85588,
         "known_for_department": "Acting",
         "name": "Murali Sharma",
-        "original_name": "Murli Sharma",
-        "popularity": 0.8674,
+        "original_name": "మురళీ శర్మ",
+        "popularity": 2.5363,
         "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
         "cast_id": 2,
         "character": "Prasad Rao",
@@ -90,9 +90,9 @@
         "gender": 1,
         "id": 3279864,
         "known_for_department": "Acting",
-        "name": "Samyuktha Viola Viswanathan",
+        "name": "Samyuktha Viswanathan",
         "original_name": "Samyuktha Viola Viswanathan",
-        "popularity": 0.2126,
+        "popularity": 0.903,
         "profile_path": "/poEXJ3oa8w41GDPahOX39gJR92U.jpg",
         "cast_id": 3,
         "character": "Esha",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Rahul Ravindran",
         "original_name": "Rahul Ravindran",
-        "popularity": 0.2938,
+        "popularity": 1.0167,
         "profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3638,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 7,
         "character": "Bunty",
@@ -164,7 +164,7 @@
         "known_for_department": "Production",
         "name": "Aditi Soni",
         "original_name": "Aditi Soni",
-        "popularity": 0,
+        "popularity": 0.2708,
         "profile_path": null,
         "credit_id": "65c49cf99451e70184bd302a",
         "department": "Production",
@@ -177,7 +177,7 @@
         "known_for_department": "Sound",
         "name": "Simon K. King",
         "original_name": "Simon K. King",
-        "popularity": 0.1681,
+        "popularity": 0.339,
         "profile_path": "/f967LVQgQWjBSEoK7eZ8wDA8FfK.jpg",
         "credit_id": "65c49d026dc5070184fc9fe0",
         "department": "Sound",
@@ -190,7 +190,7 @@
         "known_for_department": "Directing",
         "name": "TG Keerthi Kumar",
         "original_name": "TG Keerthi Kumar",
-        "popularity": 0.0311,
+        "popularity": 0.2843,
         "profile_path": null,
         "credit_id": "65c49cd1021cee0183c3172c",
         "department": "Directing",
@@ -203,7 +203,7 @@
         "known_for_department": "Directing",
         "name": "TG Keerthi Kumar",
         "original_name": "TG Keerthi Kumar",
-        "popularity": 0.0311,
+        "popularity": 0.2843,
         "profile_path": null,
         "credit_id": "65c49cd90c2710017e77cce0",
         "department": "Writing",
@@ -239,23 +239,6 @@
       {
         "id": 15267,
         "name": "james bond spoof"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-03-01T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -316,23 +299,40 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
-        "height": 825,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
-        "width": 550
-      },
-      {
-        "aspect_ratio": 0.667,
         "height": 2048,
         "iso_3166_1": null,
         "iso_639_1": null,
         "file_path": "/zC2aun0lrNl11rKLDCCaHCYpB1Q.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 3.334,
+        "vote_count": 1,
         "width": 1365
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 825,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 550
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-03-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

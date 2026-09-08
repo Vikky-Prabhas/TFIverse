@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Pellam Oorelithe",
   "overview": "When Vivek is caught with a prostitute, he introduces her to his wife as Subbu's girlfriend. Subbu accepts his superior's plan at the cost of upsetting his girlfriend, which leads to many other lies.",
-  "popularity": 0.5083,
+  "popularity": 0.9003,
   "poster_path": "/8ekgB2kwE1UQ4eHwmNNdWgK9AW6.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 0,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Venu Thottempudi",
         "original_name": "Venu Thottempudi",
-        "popularity": 0.2588,
+        "popularity": 1.5611,
         "profile_path": "/aqyK4ftAxsDPAAYJrUHXMImsJWu.jpg",
         "cast_id": 1,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Sangeetha Krish",
         "original_name": "Sangeetha Krish",
-        "popularity": 1.0861,
+        "popularity": 1.4597,
         "profile_path": "/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg",
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Rakshita",
         "original_name": "Rakshita",
-        "popularity": 0.4458,
+        "popularity": 0.7646,
         "profile_path": "/9XsjPZU3ln9jbFGcY1j4iQPkTIV.jpg",
         "cast_id": 4,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "62bc945617b5ef04e6b3a3d2",
         "department": "Directing",
@@ -135,7 +135,7 @@
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3621,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "68c60574c2fcc170bbef65ef",
         "department": "Production",
@@ -148,7 +148,7 @@
         "known_for_department": "Production",
         "name": "C. Ashwini Dutt",
         "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1645,
+        "popularity": 0.3164,
         "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
         "credit_id": "68c6059d10104388c0a2d247",
         "department": "Production",
@@ -161,7 +161,7 @@
         "known_for_department": "Sound",
         "name": "Mani Sharma",
         "original_name": "Mani Sharma",
-        "popularity": 0.2979,
+        "popularity": 0.4997,
         "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
         "credit_id": "68c605bccbbf4afb69a2d21f",
         "department": "Sound",
@@ -174,7 +174,7 @@
         "known_for_department": "Camera",
         "name": "C. Ramprasad",
         "original_name": "C. Ramprasad",
-        "popularity": 0.1318,
+        "popularity": 0.3732,
         "profile_path": null,
         "credit_id": "68c605dbe5f4b492450d8abe",
         "department": "Camera",
@@ -189,14 +189,25 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -224,21 +235,10 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2003-01-15T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

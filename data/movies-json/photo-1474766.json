@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Photo",
   "overview": "The story begins with a group of friends who come across an old photograph. This photograph seems to have supernatural elements associated with it, causing eerie and unexplained events in their lives. As the friends try to uncover the mystery behind the photograph, they encounter various challenges and frightening occurrences.",
-  "popularity": 0.0842,
+  "popularity": 0.7348,
   "poster_path": "/9rt8twQUB2eNelEHjokUILKNKFr.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,8 +33,85 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071558,
+        "known_for_department": "Acting",
+        "name": "Nandu Vijay Krishna",
+        "original_name": "Nandu Vijay Krishna",
+        "popularity": 0.8709,
+        "profile_path": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6815f5f836e319d00d089c9c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123068,
+        "known_for_department": "Acting",
+        "name": "Anjali",
+        "original_name": "Anjali",
+        "popularity": 1.2595,
+        "profile_path": "/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6815f607e62eaff8658b5ff2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584418,
+        "known_for_department": "Acting",
+        "name": "Jayasudha",
+        "original_name": "Jayasudha",
+        "popularity": 1.5468,
+        "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68162c387c7c78d67bf47fe8",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1095513,
+        "known_for_department": "Directing",
+        "name": "Siva Nageshwara Rao",
+        "original_name": "Siva Nageshwara Rao",
+        "popularity": 0.8078,
+        "profile_path": null,
+        "credit_id": "6815f5d8c69aecedd9912fd3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1095513,
+        "known_for_department": "Directing",
+        "name": "Siva Nageshwara Rao",
+        "original_name": "Siva Nageshwara Rao",
+        "popularity": 0.8078,
+        "profile_path": null,
+        "credit_id": "68162c7b200060f4d19130d9",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
   "videos": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "external_ids": {
     "imdb_id": "tt3388088",
@@ -42,9 +119,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -63,6 +137,9 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -76,83 +153,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1071558,
-        "known_for_department": "Acting",
-        "name": "Nandu Vijay Krishna",
-        "original_name": "Nandu Vijay Krishna",
-        "popularity": 0.2269,
-        "profile_path": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6815f5f836e319d00d089c9c",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 123068,
-        "known_for_department": "Acting",
-        "name": "Anjali",
-        "original_name": "Anjali",
-        "popularity": 2.4148,
-        "profile_path": "/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
-        "cast_id": 3,
-        "character": "",
-        "credit_id": "6815f607e62eaff8658b5ff2",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 584418,
-        "known_for_department": "Acting",
-        "name": "Jayasudha",
-        "original_name": "Jayasudha",
-        "popularity": 0.5248,
-        "profile_path": "/xOP3pYlrqyBw5x9CDEMkYXPzpNu.jpg",
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "68162c387c7c78d67bf47fe8",
-        "order": 2
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1095513,
-        "known_for_department": "Directing",
-        "name": "Siva Nageshwara Rao",
-        "original_name": "Siva Nageshwara Rao",
-        "popularity": 0.1893,
-        "profile_path": null,
-        "credit_id": "6815f5d8c69aecedd9912fd3",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1095513,
-        "known_for_department": "Directing",
-        "name": "Siva Nageshwara Rao",
-        "original_name": "Siva Nageshwara Rao",
-        "popularity": 0.1893,
-        "profile_path": null,
-        "credit_id": "68162c7b200060f4d19130d9",
-        "department": "Writing",
-        "job": "Screenplay"
       }
     ]
   }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Lovedale",
   "overview": "Isha, an air hostess and model, joins photographer Ruben for a shoot at his iconic spot, Lovedale. A night in a remote forest bungalow takes a terrifying turn as unexpected dangers arise. Will they survive the horrors that await?",
-  "popularity": 0.1941,
+  "popularity": 0.5429,
   "poster_path": "/qI9SP3Ao1LoKSmFEoppBCfcNSuv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,13 @@
   "video": false,
   "vote_average": 3,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": "tt35257690",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -42,7 +49,7 @@
         "known_for_department": "Acting",
         "name": "Bagio George",
         "original_name": "Bagio George",
-        "popularity": 0,
+        "popularity": 0.2634,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -56,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Rama Shukla",
         "original_name": "Rama Shukla",
-        "popularity": 0,
+        "popularity": 0.2552,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -70,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Reshma V Renjith",
         "original_name": "Reshma V Renjith",
-        "popularity": 0,
+        "popularity": 0.2669,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -84,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Jaspreet Kaur",
         "original_name": "Jaspreet Kaur",
-        "popularity": 0,
+        "popularity": 0.2669,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -98,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Johan M.Shaji",
         "original_name": "Johan M.Shaji",
-        "popularity": 0,
+        "popularity": 0.2593,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -112,7 +119,7 @@
         "known_for_department": "Acting",
         "name": "Vishnu Sajiv",
         "original_name": "Vishnu Sajiv",
-        "popularity": 0,
+        "popularity": 0.2702,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -128,7 +135,7 @@
         "known_for_department": "Directing",
         "name": "Vinu Sridhar",
         "original_name": "Vinu Sridhar",
-        "popularity": 0,
+        "popularity": 0.2734,
         "profile_path": null,
         "credit_id": "68275a9d371aad4c3f2d3089",
         "department": "Directing",
@@ -141,30 +148,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt35257690",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-05-16T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -235,5 +218,22 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-05-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   }
 }

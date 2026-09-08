@@ -1,0 +1,363 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1235103,
+  "imdb_id": "tt4718750",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "దాగుడుమూత దండాకోర్",
+  "overview": "Raju lives with his granddaughter and son in a village. They have a cock as their pet in the house. When a mishap occurs around them, the priest asks them to kill the cock as an offering to God.",
+  "popularity": 0.9535,
+  "poster_path": "/alSvcSyXxR3Y5I3V2s8opE6vDvY.jpg",
+  "production_companies": [
+    {
+      "id": 63848,
+      "logo_path": null,
+      "name": "Usha Kiran Movies",
+      "origin_country": "IN"
+    },
+    {
+      "id": 11881,
+      "logo_path": null,
+      "name": "First Frame Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-05-09",
+  "revenue": 0,
+  "runtime": 109,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dagudumootha Dandakor",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545595,
+        "known_for_department": "Acting",
+        "name": "Rajendra Prasad",
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
+        "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
+        "cast_id": 1,
+        "character": "Rajugaru",
+        "credit_id": "6a30cf763d4abf76f90b5895",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 579817,
+        "known_for_department": "Acting",
+        "name": "Sara Arjun",
+        "original_name": "Sara Arjun",
+        "popularity": 2.302,
+        "profile_path": "/uyZIlCL6xwWlor6JYSmIYUiPE7M.jpg",
+        "cast_id": 2,
+        "character": "Bangaram",
+        "credit_id": "6a30cf8c3d4abf76f90b589d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6288853,
+        "known_for_department": "Acting",
+        "name": "Master Vinay Pavan",
+        "original_name": "Master Vinay Pavan",
+        "popularity": 0.5759,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Sunny",
+        "credit_id": "6a30cf9bc46c81fb96bbfbd4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3216671,
+        "known_for_department": "Acting",
+        "name": "Siddharth Varma",
+        "original_name": "Siddharth Varma",
+        "popularity": 0.368,
+        "profile_path": "/9ctZFFU4B2jDZbTCqpTqTxxjnsu.jpg",
+        "cast_id": 4,
+        "character": "Siddu",
+        "credit_id": "6a30cfb27ec55f5a47ff8603",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270054,
+        "known_for_department": "Acting",
+        "name": "Nitya Shetty",
+        "original_name": "Nitya Shetty",
+        "popularity": 0.5605,
+        "profile_path": "/plAwdO4t6imELDBWca2NM1idLKF.jpg",
+        "cast_id": 5,
+        "character": "Madhu",
+        "credit_id": "6a30cfc2588fa695c5743de5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124389,
+        "known_for_department": "Acting",
+        "name": "Ravi Prakash",
+        "original_name": "Ravi Prakash",
+        "popularity": 1.2094,
+        "profile_path": "/1F6m5xHOnjhS3RryLPdWYjpshZ0.jpg",
+        "cast_id": 13,
+        "character": "Hari",
+        "credit_id": "6a30fc3e0d00b12b3aec08b4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640551,
+        "known_for_department": "Acting",
+        "name": "Ravi Varma",
+        "original_name": "Ravi Varma",
+        "popularity": 0.9523,
+        "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
+        "cast_id": 14,
+        "character": "Prakash",
+        "credit_id": "6a30fc4a5354b8a60eec090d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2120686,
+        "known_for_department": "Acting",
+        "name": "Getup Srinu",
+        "original_name": "Getup Srinu",
+        "popularity": 1.535,
+        "profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
+        "cast_id": 15,
+        "character": "Bhatraju",
+        "credit_id": "6a30fc5d35a2e83c68530461",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330029,
+        "known_for_department": "Acting",
+        "name": "Satyam Rajesh",
+        "original_name": "Satyam Rajesh",
+        "popularity": 1.1168,
+        "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6a30fce3dc91d67c260b58d7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648895,
+        "known_for_department": "Acting",
+        "name": "Raghu Karumanchi",
+        "original_name": "Raghu Karumanchi",
+        "popularity": 0.4393,
+        "profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6a30fcee5354b8a60eec0919",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3322556,
+        "known_for_department": "Directing",
+        "name": "R. K. Malineni",
+        "original_name": "R. K. Malineni",
+        "popularity": 0.3948,
+        "profile_path": null,
+        "credit_id": "6a30fb6337bdf13078cefff6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3322556,
+        "known_for_department": "Directing",
+        "name": "R. K. Malineni",
+        "original_name": "R. K. Malineni",
+        "popularity": 0.3948,
+        "profile_path": null,
+        "credit_id": "6a30fb6f1953344c363c74dc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238340,
+        "known_for_department": "Writing",
+        "name": "A. L. Vijay",
+        "original_name": "A. L. Vijay",
+        "popularity": 0.7842,
+        "profile_path": "/hfklgzrQdqlszxiJyDFLapVGFM.jpg",
+        "credit_id": "6a30fb8d781cc70398ec0900",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 577809,
+        "known_for_department": "Production",
+        "name": "Ramoji Rao",
+        "original_name": "Ramoji Rao",
+        "popularity": 0.5488,
+        "profile_path": "/67GLVYQW4pUZO4Zp7w93IOoGpc7.jpg",
+        "credit_id": "6a30fb9bfa78521b1a3c76f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013089,
+        "known_for_department": "Directing",
+        "name": "Radha Krishna Jagarlamudi",
+        "original_name": "Radha Krishna Jagarlamudi",
+        "popularity": 0.9122,
+        "profile_path": "/z6TskMu6oKRronDpPfYWluBNmxX.jpg",
+        "credit_id": "6a30fbd0c28c52edb5bbfb84",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2049732,
+        "known_for_department": "Camera",
+        "name": "Gnana Shekar V. S.",
+        "original_name": "Gnana Shekar V. S.",
+        "popularity": 0.2769,
+        "profile_path": null,
+        "credit_id": "6a30fbddf29c426850743fe6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105605,
+        "known_for_department": "Editing",
+        "name": "Dharmendra Kakarala",
+        "original_name": "Dharmendra Kakarala",
+        "popularity": 0.4085,
+        "profile_path": null,
+        "credit_id": "6a30fbe7781cc70398ec0932",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648217,
+        "known_for_department": "Sound",
+        "name": "E.S. Murthy",
+        "original_name": "E.S. Murthy",
+        "popularity": 0.2694,
+        "profile_path": null,
+        "credit_id": "6a30fd2cc46c81fb96bbfd7f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt4718750",
+    "wikidata_id": "Q19263576",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2015-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/alSvcSyXxR3Y5I3V2s8opE6vDvY.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

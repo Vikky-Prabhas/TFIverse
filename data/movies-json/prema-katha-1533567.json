@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Prema Katha",
   "overview": "Prem, a middle class boy falls in love with his friend's fiance's female friend will his love get's succeed or ends up as tragic? is the remaining story. The story set back in a metaphoric representation of the intellect world to the real world gives us Prema Katha.",
-  "popularity": 0.0544,
+  "popularity": 1.7063,
   "poster_path": "/b6wtkayVEpAtVq7quOtMU9UshrS.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Sri Simha",
         "original_name": "Sri Simha Koduri",
-        "popularity": 0.2535,
+        "popularity": 0.7191,
         "profile_path": "/muzsjXflMjLQUAVhoZxvlepgeKZ.jpg",
         "cast_id": 1,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Neha Solanki",
         "original_name": "Neha Solanki",
-        "popularity": 0.2616,
+        "popularity": 1.2307,
         "profile_path": "/gTjDVEOlwSBetjmAzTfMxvil1Zp.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "John Vijay",
         "original_name": "John Vijay",
-        "popularity": 0.4455,
+        "popularity": 1.4104,
         "profile_path": "/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg",
         "cast_id": 3,
         "character": "",
@@ -88,9 +88,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.7641,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,6 +99,26 @@
       }
     ],
     "crew": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-12-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "videos": {
     "results": [
@@ -152,25 +172,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-12-15T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
   }
 }

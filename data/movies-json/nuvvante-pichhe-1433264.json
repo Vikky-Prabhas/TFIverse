@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Nuvvante Pichhe",
   "overview": "A bank employee named Ajay, who has a friendly and humble personality, falls in love with his friend's sister, Medha, who is already engaged.",
-  "popularity": 0.0496,
+  "popularity": 0.7768,
   "poster_path": "/fQEBS5UrdCkSS3hnzBRMdE8aVhw.jpg",
   "production_companies": [
     {
@@ -51,6 +51,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -60,7 +63,7 @@
         "known_for_department": "Acting",
         "name": "Aman Pandy",
         "original_name": "Aman Pandy",
-        "popularity": 0,
+        "popularity": 0.2596,
         "profile_path": null,
         "cast_id": 1,
         "character": "Hero",
@@ -74,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Sonali Panigrahy",
         "original_name": "Sonali Panigrahy",
-        "popularity": 0,
+        "popularity": 0.3673,
         "profile_path": null,
         "cast_id": 2,
         "character": "Heroine",
@@ -88,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Sony Reddy",
         "original_name": "Sony Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.2892,
         "profile_path": null,
         "cast_id": 3,
         "character": "Heroine",
@@ -104,7 +107,7 @@
         "known_for_department": "Directing",
         "name": "Santosh",
         "original_name": "Santosh",
-        "popularity": 0.0071,
+        "popularity": 0.2752,
         "profile_path": null,
         "credit_id": "67acd548a58cead38d9f36e7",
         "department": "Directing",
@@ -117,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "Santosh",
         "original_name": "Santosh",
-        "popularity": 0.0071,
+        "popularity": 0.2752,
         "profile_path": null,
         "credit_id": "67acd554645669137e9f321b",
         "department": "Writing",
@@ -132,14 +135,24 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
   "keywords": {
     "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1333,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fQEBS5UrdCkSS3hnzBRMdE8aVhw.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -158,20 +171,7 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 1333,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/fQEBS5UrdCkSS3hnzBRMdE8aVhw.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1000
-      }
-    ]
+  "alternative_titles": {
+    "titles": []
   }
 }

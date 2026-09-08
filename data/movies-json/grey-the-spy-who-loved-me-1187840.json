@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Grey: The Spy Who Loved Me",
   "overview": "Officer Nayak investigates the death of Professor Sudarshan Reddy and meets Arushi Reddy, the professor's wife. Nayak discovers that Dr. Raghu, the professor's psychiatrist, is also involved in the murder. The drama opens up the gray shadows of intelligence agencies, their procedures, betrays, scandals, and cover-ups.",
-  "popularity": 0.0482,
+  "popularity": 0.547,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -33,16 +33,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt16219768",
-    "wikidata_id": "Q118760596",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [],
     "crew": [
@@ -53,7 +43,7 @@
         "known_for_department": "Directing",
         "name": "Raj Madiraju",
         "original_name": "Raj Madiraju",
-        "popularity": 0.0744,
+        "popularity": 0.446,
         "profile_path": "/lPMmGsW3JefvMRne65v81I6jCpk.jpg",
         "credit_id": "651f12be5c071b00ad91349c",
         "department": "Directing",
@@ -61,8 +51,8 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -81,12 +71,22 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt16219768",
+    "wikidata_id": "Q118760596",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

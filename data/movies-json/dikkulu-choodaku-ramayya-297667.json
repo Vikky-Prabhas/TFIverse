@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "దిక్కులు చూడకు రామయ్య",
   "overview": "Gopala Krishna (Ajay) is a 40 year old man who has got married at an early age. He falls in love with an young aerobic instructor Samhitha (Sana Maqbool). He helps her out and wins her trust. He gets close to her heart. His son Madhu (Naga Shourya) is a college student and he likes Samhitha (an elder by 2 years) without knowing that his father is in love with her. Rest of the story is all about what happens when he comes to know that his father is in love with Samhita and consider marrying her.",
-  "popularity": 0.3274,
+  "popularity": 1.9797,
   "poster_path": "/h2XoZH0a5gTeSd1qtAZBWOUKJX6.jpg",
   "production_companies": [
     {
@@ -44,8 +44,8 @@
   "tagline": "",
   "title": "Dikkulu Choodaku Ramayya",
   "video": false,
-  "vote_average": 4,
-  "vote_count": 2,
+  "vote_average": 4.333,
+  "vote_count": 3,
   "credits": {
     "cast": [
       {
@@ -55,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Naga Shaurya",
         "original_name": "Naga Shaurya",
-        "popularity": 1.5407,
+        "popularity": 1.0624,
         "profile_path": "/2QEe3xPEYcQcyl1xzUytQbTA9x3.jpg",
         "cast_id": 0,
         "character": "Madhu",
@@ -69,7 +69,7 @@
         "known_for_department": "Acting",
         "name": "Sana Makbul",
         "original_name": "Sana Makbul",
-        "popularity": 0.4565,
+        "popularity": 1.0443,
         "profile_path": "/rlwG5XW5ZvEthq2WGVgetf36BCa.jpg",
         "cast_id": 1,
         "character": "Sameeta",
@@ -83,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 2,
         "character": "",
@@ -97,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Brahmaji",
         "original_name": "Brahmaji",
-        "popularity": 0.5886,
+        "popularity": 2.8764,
         "profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
         "cast_id": 3,
         "character": "",
@@ -111,7 +111,7 @@
         "known_for_department": "Acting",
         "name": "Indraja",
         "original_name": "Indraja",
-        "popularity": 0.4271,
+        "popularity": 1.4897,
         "profile_path": "/p9MJgtbY0N32nI2ugjBPDpIsqRi.jpg",
         "cast_id": 4,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.4964,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "566ade1a9251417411009114",
         "department": "Sound",
@@ -135,12 +135,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1547723,
-        "known_for_department": "Writing",
-        "name": "Trikoti",
+        "known_for_department": "Directing",
+        "name": "Trikoti Peta",
         "original_name": "Trikoti",
-        "popularity": 0.0793,
+        "popularity": 0.3148,
         "profile_path": null,
         "credit_id": "566ade0d92514169e2004cd7",
         "department": "Writing",
@@ -148,12 +148,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1547723,
-        "known_for_department": "Writing",
-        "name": "Trikoti",
+        "known_for_department": "Directing",
+        "name": "Trikoti Peta",
         "original_name": "Trikoti",
-        "popularity": 0.0793,
+        "popularity": 0.3148,
         "profile_path": null,
         "credit_id": "566ade06c3a36833b6004ecb",
         "department": "Directing",
@@ -184,9 +184,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -203,6 +200,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -230,8 +233,5 @@
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

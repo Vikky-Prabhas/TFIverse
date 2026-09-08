@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "యుద్ధం శరణం",
   "overview": "When his family is torn apart, Arjun sets out to on a journey to solve the mystery and seek revenge.",
-  "popularity": 0.3785,
+  "popularity": 1.7369,
   "poster_path": "/xI9XuMDxvbXdpruEr8qHkVu8Ip8.jpg",
   "production_companies": [
     {
@@ -59,6 +59,16 @@
   "video": false,
   "vote_average": 5.9,
   "vote_count": 7,
+  "external_ids": {
+    "imdb_id": "tt6644636",
+    "wikidata_id": "Q39047297",
+    "facebook_id": "YuddhamSharanam",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -68,8 +78,8 @@
         "known_for_department": "Acting",
         "name": "Naga Chaitanya Akkineni",
         "original_name": "Naga Chaitanya Akkineni",
-        "popularity": 0.6445,
-        "profile_path": "/pcGTJvzIC3JzcfNVzdA6IHo3e8k.jpg",
+        "popularity": 1.1066,
+        "profile_path": "/tV82v41Mj5rkIKWR5ryNFonAQKw.jpg",
         "cast_id": 1,
         "character": "Arjun",
         "credit_id": "5a36ad69c3a36814b9051e1e",
@@ -82,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Tripathi",
         "original_name": "Lavanya Tripathi",
-        "popularity": 0.2973,
+        "popularity": 1.5245,
         "profile_path": "/fp31MLIjisF6MdWRBN3KQ9T8S3u.jpg",
         "cast_id": 2,
         "character": "Anjali",
@@ -96,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 3,
         "character": "Nayak",
@@ -109,8 +119,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 4,
         "character": "Murali Krishna",
@@ -124,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Revathi",
         "original_name": "Revathi",
-        "popularity": 1.1885,
+        "popularity": 2.2245,
         "profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
         "cast_id": 5,
         "character": "Seetha Lakshmi",
@@ -138,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Priyadarshi Pullikonda",
         "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.4209,
+        "popularity": 0.8819,
         "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
         "cast_id": 6,
         "character": "Alex",
@@ -151,8 +161,8 @@
         "id": 85588,
         "known_for_department": "Acting",
         "name": "Murali Sharma",
-        "original_name": "Murli Sharma",
-        "popularity": 1.1142,
+        "original_name": "మురళీ శర్మ",
+        "popularity": 2.5363,
         "profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
         "cast_id": 7,
         "character": "Jaidev \"JD\" Shastri",
@@ -166,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Rathna Shekar Reddy",
         "original_name": "Rathna Shekar Reddy",
-        "popularity": 0.0546,
+        "popularity": 0.3647,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -180,7 +190,7 @@
         "known_for_department": "Acting",
         "name": "Raja Ravindra",
         "original_name": "Raja Ravindra",
-        "popularity": 0.4141,
+        "popularity": 2.2007,
         "profile_path": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg",
         "cast_id": 12,
         "character": "Tharun",
@@ -194,7 +204,7 @@
         "known_for_department": "Acting",
         "name": "Charandeep",
         "original_name": "Charandeep",
-        "popularity": 0.1776,
+        "popularity": 0.5793,
         "profile_path": "/aV18GfEmzYp278Al3WARDRxNYje.jpg",
         "cast_id": 16,
         "character": "",
@@ -208,7 +218,7 @@
         "known_for_department": "Acting",
         "name": "Pawan",
         "original_name": "Pawan",
-        "popularity": 0.1282,
+        "popularity": 1.6463,
         "profile_path": "/a0DxXtiewiWFnLw5FbJNXwtbAtj.jpg",
         "cast_id": 17,
         "character": "",
@@ -222,7 +232,7 @@
         "known_for_department": "Acting",
         "name": "Seema Chowdary",
         "original_name": "Seema Chowdary",
-        "popularity": 0.0143,
+        "popularity": 0.4168,
         "profile_path": null,
         "cast_id": 29,
         "character": "Dhanu",
@@ -238,7 +248,7 @@
         "known_for_department": "Sound",
         "name": "Pradeep Kumar",
         "original_name": "Pradeep Kumar",
-        "popularity": 0.2889,
+        "popularity": 0.4664,
         "profile_path": "/yBVwrel9rodFEdmeI8TNzbids5K.jpg",
         "credit_id": "605f08a9a39d0b006a3e75dc",
         "department": "Sound",
@@ -251,7 +261,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.2919,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "59f1d9bac3a36806c402eb17",
         "department": "Crew",
@@ -264,7 +274,7 @@
         "known_for_department": "Directing",
         "name": "Krishna Marimuthu",
         "original_name": "Krishna Marimuthu",
-        "popularity": 0.0933,
+        "popularity": 0.3319,
         "profile_path": null,
         "credit_id": "5a36af44c3a3680b9d1c320e",
         "department": "Directing",
@@ -277,7 +287,7 @@
         "known_for_department": "Art",
         "name": "Rama Krishna Sabbani",
         "original_name": "Rama Krishna Sabbani",
-        "popularity": 0.1707,
+        "popularity": 0.2794,
         "profile_path": null,
         "credit_id": "5b4d4d2f9251417d24045ca2",
         "department": "Art",
@@ -290,7 +300,7 @@
         "known_for_department": "Camera",
         "name": "Niketh Bommi",
         "original_name": "Niketh Bommi",
-        "popularity": 0.1147,
+        "popularity": 0.3668,
         "profile_path": "/xsCrPnSnTV6FK71nTSeRHxEa9p3.jpg",
         "credit_id": "5b4d4d5f0e0a26453404820c",
         "department": "Camera",
@@ -303,11 +313,24 @@
         "known_for_department": "Sound",
         "name": "Vivek Sagar",
         "original_name": "Vivek Sagar",
-        "popularity": 0.1866,
+        "popularity": 0.535,
         "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
         "credit_id": "5b4d4dbf9251417d24045d51",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2162371,
+        "known_for_department": "Production",
+        "name": "S. S. Karthikeya",
+        "original_name": "S S Karthikeya",
+        "popularity": 0.5918,
+        "profile_path": "/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg",
+        "credit_id": "5bd46e9c9251410389015c10",
+        "department": "Production",
+        "job": "Line Producer"
       },
       {
         "adult": false,
@@ -316,7 +339,7 @@
         "known_for_department": "Production",
         "name": "Rajani Korrapati",
         "original_name": "Rajani Korrapati",
-        "popularity": 0.0793,
+        "popularity": 0.2986,
         "profile_path": null,
         "credit_id": "5bd46e820e0a2622bf0170e5",
         "department": "Production",
@@ -329,63 +352,11 @@
         "known_for_department": "Production",
         "name": "Sai Korrapati",
         "original_name": "Sai Korrapati",
-        "popularity": 0.1041,
+        "popularity": 0.3567,
         "profile_path": null,
         "credit_id": "5bd46e8cc3a36820f501626c",
         "department": "Production",
         "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2162371,
-        "known_for_department": "Production",
-        "name": "S. S. Karthikeya",
-        "original_name": "S S Karthikeya",
-        "popularity": 0.2215,
-        "profile_path": "/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg",
-        "credit_id": "5bd46e9c9251410389015c10",
-        "department": "Production",
-        "job": "Line Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2162372,
-        "known_for_department": "Writing",
-        "name": "David Nathan",
-        "original_name": "David Nathan",
-        "popularity": 0.0264,
-        "profile_path": null,
-        "credit_id": "5bd46ebbc3a36820f5016295",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1913672,
-        "known_for_department": "Directing",
-        "name": "Krishna Marimuthu",
-        "original_name": "Krishna Marimuthu",
-        "popularity": 0.0933,
-        "profile_path": null,
-        "credit_id": "5bd46ec20e0a2622d1018769",
-        "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 237971,
-        "known_for_department": "Writing",
-        "name": "Abburi Ravi",
-        "original_name": "Abburi Ravi",
-        "popularity": 0.2231,
-        "profile_path": null,
-        "credit_id": "5bd46ecb0e0a2622dd01953b",
-        "department": "Writing",
-        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -394,7 +365,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Pallavi Singh",
         "original_name": "Pallavi Singh",
-        "popularity": 0.313,
+        "popularity": 0.4632,
         "profile_path": null,
         "credit_id": "5bd46ef79251410389015c8a",
         "department": "Costume & Make-Up",
@@ -403,28 +374,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2162373,
-        "known_for_department": "Editing",
-        "name": "Kripakaran Purushothaman",
-        "original_name": "Kripakaran Purushothaman",
-        "popularity": 0.0579,
+        "id": 2162372,
+        "known_for_department": "Writing",
+        "name": "David Nathan",
+        "original_name": "David Nathan",
+        "popularity": 0.4899,
         "profile_path": null,
-        "credit_id": "5bd46f09c3a36820e901abeb",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "5bd46ebbc3a36820f5016295",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 2162375,
-        "known_for_department": "Crew",
-        "name": "King Solomon",
-        "original_name": "King Solomon",
-        "popularity": 0.1244,
+        "gender": 2,
+        "id": 237971,
+        "known_for_department": "Writing",
+        "name": "Abburi Ravi",
+        "original_name": "Abburi Ravi",
+        "popularity": 0.4603,
         "profile_path": null,
-        "credit_id": "5bd46f17c3a368210001abbd",
-        "department": "Crew",
-        "job": "Stunt Coordinator"
+        "credit_id": "5bd46ecb0e0a2622dd01953b",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -433,23 +404,52 @@
         "known_for_department": "Crew",
         "name": "Stunt Silva",
         "original_name": "Stunt Silva",
-        "popularity": 0.2239,
+        "popularity": 1.2473,
         "profile_path": "/p6vwbFjAOIAfy6uYKsasZWTItDk.jpg",
         "credit_id": "5bd46f209251410387015928",
         "department": "Crew",
         "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1913672,
+        "known_for_department": "Directing",
+        "name": "Krishna Marimuthu",
+        "original_name": "Krishna Marimuthu",
+        "popularity": 0.3319,
+        "profile_path": null,
+        "credit_id": "5bd46ec20e0a2622d1018769",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162373,
+        "known_for_department": "Editing",
+        "name": "Kripakaran Purushothaman",
+        "original_name": "Kripakaran Purushothaman",
+        "popularity": 0.2996,
+        "profile_path": null,
+        "credit_id": "5bd46f09c3a36820e901abeb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2162375,
+        "known_for_department": "Crew",
+        "name": "King Solomon",
+        "original_name": "King Solomon",
+        "popularity": 0.3576,
+        "profile_path": null,
+        "credit_id": "5bd46f17c3a368210001abbd",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt6644636",
-    "wikidata_id": "Q39047297",
-    "facebook_id": "YuddhamSharanam",
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -458,6 +458,26 @@
         "name": "revenge"
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-09-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -564,26 +584,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 800
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-09-08T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

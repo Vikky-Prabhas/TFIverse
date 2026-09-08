@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1730274,
+  "imdb_id": "tt0279308",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "పంచభూతాలు",
+  "overview": "",
+  "popularity": 1.1672,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 304200,
+      "logo_path": null,
+      "name": "Vijayakala Arts",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1979-02-19",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pancha Bhoothalu",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586627,
+        "known_for_department": "Acting",
+        "name": "Chandra Mohan",
+        "original_name": "Chandramohan",
+        "popularity": 2.1343,
+        "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6a534112961e004a853bb672",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585098,
+        "known_for_department": "Acting",
+        "name": "Latha Sethupathi",
+        "original_name": "லதா",
+        "popularity": 2.2338,
+        "profile_path": "/zc7zkHEjwaMgFPFw0BKq9ESt06n.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6a534126615102ae62a09711",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584684,
+        "known_for_department": "Acting",
+        "name": "Rao Gopal Rao",
+        "original_name": "Rao Gopal Rao",
+        "popularity": 1.3539,
+        "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a53426d419d168d527e1d78",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237629,
+        "known_for_department": "Acting",
+        "name": "Sarath Babu",
+        "original_name": "Sarath Babu",
+        "popularity": 1.4215,
+        "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6a53427629ce94bd103657be",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2061472,
+        "known_for_department": "Directing",
+        "name": "P. Chandrasekhara Reddy",
+        "original_name": "P. Chandrasekhara Reddy",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "6a5342857b307fd430859949",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a53429f7b307fd430859950",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0279308",
+    "wikidata_id": "Q19573569",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1979-02-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

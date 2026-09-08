@@ -26,14 +26,14 @@
   "original_language": "te",
   "original_title": "కార్తవరాయని కథ",
   "overview": "Karthavarayuni Katha (transl. Story of Karthavaraya) is a 1958 Indian Telugu-language Hindu mythological film, produced and directed by T. R. Ramanna under the R. R. Pictures banner. It stars N. T. Rama Rao and Savitri, with music composed by G. Ramanadhan and Ashwathama. The film was simultaneously made as the Tamil movie Kathavarayan (1958) by the same banner and director.",
-  "popularity": 0.2075,
+  "popularity": 0.8076,
   "poster_path": "/pAqq6N25MPxhoJ2Q9f5Oea9XHva.jpg",
   "production_companies": [
     {
       "id": 178504,
       "logo_path": null,
       "name": "R. R. Pictures",
-      "origin_country": ""
+      "origin_country": "IN"
     }
   ],
   "production_countries": [
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "N.T. Rama Rao",
         "original_name": "N.T. Rama Rao",
-        "popularity": 0.5729,
+        "popularity": 1.799,
         "profile_path": "/eAtPt0FJxUarWgt9XoFLX0t6BaB.jpg",
         "cast_id": 9,
         "character": "Karthavaraya",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Savitri",
         "original_name": "Savitri",
-        "popularity": 0.3791,
+        "popularity": 1.2492,
         "profile_path": "/ouEi3MJ5E1hdEnrcuC61veeG8GX.jpg",
         "cast_id": 10,
         "character": "Aryamala",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Kaleswara Rao",
         "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1181,
+        "popularity": 0.5475,
         "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
         "cast_id": 11,
         "character": "Tribal King",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Ramana Reddy",
         "original_name": "Ramana Reddy",
-        "popularity": 0.7115,
+        "popularity": 0.7405,
         "profile_path": "/nYN6YoA9pbjQE0J8b9jS496YjP6.jpg",
         "cast_id": 12,
         "character": "Chinnappa",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Mukkamala",
         "original_name": "Mukkamala",
-        "popularity": 0.2216,
+        "popularity": 0.9731,
         "profile_path": "/o8NNoUw06cv0KIGfujrsg73aUJg.jpg",
         "cast_id": 13,
         "character": "King of Arya",
@@ -138,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Padmanabham",
         "original_name": "Padmanabham",
-        "popularity": 0.1895,
+        "popularity": 1.0843,
         "profile_path": "/yKwLIP9RP3o8GWm3Q5CLJLFkeX1.jpg",
         "cast_id": 14,
         "character": "Chief Commander",
@@ -152,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "K. V. S. Sharma",
         "original_name": "K. V. S. Sharma",
-        "popularity": 0.0214,
+        "popularity": 0.2976,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -161,13 +161,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 585379,
         "known_for_department": "Acting",
-        "name": "V Balakrishna",
+        "name": "Valluri Balakrishna",
         "original_name": "V Balakrishna",
-        "popularity": 0.0453,
-        "profile_path": null,
+        "popularity": 0.4925,
+        "profile_path": "/A1ShW7gAhBmcJBucn3PUkQy6tS8.jpg",
         "cast_id": 16,
         "character": "",
         "credit_id": "62c98e6f05f9cf006785d7e5",
@@ -180,7 +180,7 @@
         "known_for_department": "Acting",
         "name": "P. Kannamba",
         "original_name": "P. Kannamba",
-        "popularity": 0.1491,
+        "popularity": 0.666,
         "profile_path": "/3AR3UCv7zE7FNnfjTYVaReJ3cW7.jpg",
         "cast_id": 17,
         "character": "Kamakshi",
@@ -194,7 +194,7 @@
         "known_for_department": "Acting",
         "name": "Surabhi Balasaraswati",
         "original_name": "Surabhi Balasaraswati",
-        "popularity": 0.0297,
+        "popularity": 0.4363,
         "profile_path": null,
         "cast_id": 18,
         "character": "Aaravalli",
@@ -208,8 +208,8 @@
         "known_for_department": "Acting",
         "name": "E. V. Saroja",
         "original_name": "E. V. Saroja",
-        "popularity": 0.2172,
-        "profile_path": null,
+        "popularity": 0.511,
+        "profile_path": "/tRvSTAaSRgETZ9SzegcpSRdYMWL.jpg",
         "cast_id": 19,
         "character": "Mohini",
         "credit_id": "62c98ea4e8131d068a9bb571",
@@ -222,7 +222,7 @@
         "known_for_department": "Acting",
         "name": "Girija",
         "original_name": "Girija",
-        "popularity": 0.0338,
+        "popularity": 0.4974,
         "profile_path": "/dfMgJMU0KaUtryMCgyyKLP3o3Dq.jpg",
         "cast_id": 20,
         "character": "",
@@ -234,28 +234,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1703037,
-        "known_for_department": "Editing",
-        "name": "M. S. Mani",
-        "original_name": "M. S. Mani",
-        "popularity": 0.0932,
-        "profile_path": null,
-        "credit_id": "62c98dd8eea34d004d73a12e",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3617569,
-        "known_for_department": "Crew",
-        "name": "T. K. Raja Badar",
-        "original_name": "T. K. Raja Badar",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "62c98dc74b9bae004d1d618a",
-        "department": "Crew",
-        "job": "Cinematography"
+        "id": 585308,
+        "known_for_department": "Directing",
+        "name": "T. R. Ramanna",
+        "original_name": "T. R. Ramanna",
+        "popularity": 0.586,
+        "profile_path": "/rQOFsyA24hOSVQH5KD7Dr7inCGr.jpg",
+        "credit_id": "62c98d9e076ce8004e0880bb",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -264,7 +251,7 @@
         "known_for_department": "Writing",
         "name": "Maddipatla Suri",
         "original_name": "Maddipatla Suri",
-        "popularity": 0.0214,
+        "popularity": 0.2417,
         "profile_path": null,
         "credit_id": "62c98dab076ce8005662d618",
         "department": "Writing",
@@ -273,13 +260,65 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 585308,
+        "known_for_department": "Directing",
+        "name": "T. R. Ramanna",
+        "original_name": "T. R. Ramanna",
+        "popularity": 0.586,
+        "profile_path": "/rQOFsyA24hOSVQH5KD7Dr7inCGr.jpg",
+        "credit_id": "62c98db895665800fd278e24",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617569,
+        "known_for_department": "Crew",
+        "name": "T. K. Raja Badar",
+        "original_name": "T. K. Raja Badar",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "62c98dc74b9bae004d1d618a",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2764746,
         "known_for_department": "Editing",
         "name": "D. Durairaj",
         "original_name": "D. Durairaj",
-        "popularity": 0,
+        "popularity": 0.255,
         "profile_path": null,
         "credit_id": "62c98de53d4d96004fa7a0c7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 987573,
+        "known_for_department": "Sound",
+        "name": "G. Ramanathan",
+        "original_name": "G. Ramanathan",
+        "popularity": 0.2853,
+        "profile_path": null,
+        "credit_id": "62c98df14b9bae0065eb7a96",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1703037,
+        "known_for_department": "Editing",
+        "name": "M. S. Mani",
+        "original_name": "M. S. Mani",
+        "popularity": 0.3626,
+        "profile_path": "/m4pGiUlYPujBMt7MsJfhhA76hbf.jpg",
+        "credit_id": "62c98dd8eea34d004d73a12e",
         "department": "Editing",
         "job": "Editor"
       },
@@ -290,52 +329,20 @@
         "known_for_department": "Sound",
         "name": "Ashwatthama",
         "original_name": "Ashwatthama",
-        "popularity": 0.0143,
+        "popularity": 0.2607,
         "profile_path": null,
         "credit_id": "62c98dfb3d4d96004c9f8418",
         "department": "Sound",
         "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585308,
-        "known_for_department": "Directing",
-        "name": "T. R. Ramanna",
-        "original_name": "T. R. Ramanna",
-        "popularity": 0.19,
-        "profile_path": null,
-        "credit_id": "62c98d9e076ce8004e0880bb",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585308,
-        "known_for_department": "Directing",
-        "name": "T. R. Ramanna",
-        "original_name": "T. R. Ramanna",
-        "popularity": 0.19,
-        "profile_path": null,
-        "credit_id": "62c98db895665800fd278e24",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 987573,
-        "known_for_department": "Sound",
-        "name": "G. Ramanathan",
-        "original_name": "G. Ramanathan",
-        "popularity": 0.0847,
-        "profile_path": null,
-        "credit_id": "62c98df14b9bae0065eb7a96",
-        "department": "Sound",
-        "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -350,18 +357,6 @@
         "official": false,
         "id": "62c98d4f4b9bae00502d127f",
         "published_at": "2018-03-31T02:30:00.000Z"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 299754,
-        "name": "karthavaraya"
-      },
-      {
-        "id": 299755,
-        "name": "hindu mythological"
       }
     ]
   },
@@ -381,6 +376,21 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 299754,
+        "name": "karthavaraya"
+      },
+      {
+        "id": 299755,
+        "name": "hindu mythological"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -418,15 +428,5 @@
         "width": 501
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

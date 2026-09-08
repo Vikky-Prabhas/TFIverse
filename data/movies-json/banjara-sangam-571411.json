@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "బంజారా సంగం",
   "overview": "A documentary following four youngsters during the Telangana bifurcation era.",
-  "popularity": 0.1164,
+  "popularity": 1.4497,
   "poster_path": "/5q3CRRxojy1tGfM14akr8X07The.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,76 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1608580,
+        "known_for_department": "Sound",
+        "name": "Vivek Sagar",
+        "original_name": "Vivek Sagar",
+        "popularity": 0.535,
+        "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
+        "credit_id": "614b75b6326ec1008fcae740",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2179236,
+        "known_for_department": "Directing",
+        "name": "Camp Sasi",
+        "original_name": "Camp Sasi",
+        "popularity": 0.475,
+        "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
+        "credit_id": "5c272d1292514138e1be4ca4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179235,
+        "known_for_department": "Directing",
+        "name": "Rohit Penumatsa",
+        "original_name": "Rohit Penumatsa",
+        "popularity": 0.4299,
+        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
+        "credit_id": "5c272d24c3a36808dfd0ebbf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179235,
+        "known_for_department": "Directing",
+        "name": "Rohit Penumatsa",
+        "original_name": "Rohit Penumatsa",
+        "popularity": 0.4299,
+        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
+        "credit_id": "5eadaca5cdbaff001ab0718c",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
   "release_dates": {
     "results": [
       {
@@ -56,78 +126,8 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "alternative_titles": {
     "titles": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "credits": {
-    "cast": [],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1608580,
-        "known_for_department": "Sound",
-        "name": "Vivek Sagar",
-        "original_name": "Vivek Sagar",
-        "popularity": 0.1866,
-        "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
-        "credit_id": "614b75b6326ec1008fcae740",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2179236,
-        "known_for_department": "Directing",
-        "name": "Camp Sasi",
-        "original_name": "Camp Sasi",
-        "popularity": 0.0935,
-        "profile_path": "/mNbFzDccjIF1UI7RjTE9uAF1tdC.jpg",
-        "credit_id": "5c272d1292514138e1be4ca4",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2179235,
-        "known_for_department": "Directing",
-        "name": "Rohit Penumatsa",
-        "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
-        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
-        "credit_id": "5c272d24c3a36808dfd0ebbf",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2179235,
-        "known_for_department": "Directing",
-        "name": "Rohit Penumatsa",
-        "original_name": "Rohit Penumatsa",
-        "popularity": 0.081,
-        "profile_path": "/60n9PXbPMD0zzOWgXNNo9tZhNLx.jpg",
-        "credit_id": "5eadaca5cdbaff001ab0718c",
-        "department": "Editing",
-        "job": "Editor"
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],

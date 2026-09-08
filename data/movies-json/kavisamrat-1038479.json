@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కవిసమ్రాట్",
   "overview": "Biography of Viswandha Satyanarayna. A Telugu Poet who ruled telugu literary world for five decades from 1920 to 1970",
-  "popularity": 0.0669,
+  "popularity": 1.2582,
   "poster_path": "/kkfEgGLtgTW1wxGNT2eEr3l0TG2.jpg",
   "production_companies": [
     {
@@ -50,94 +50,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1332692,
-        "known_for_department": "Acting",
-        "name": "L. B. Sriram",
-        "original_name": "L. B. Sriram",
-        "popularity": 0.4627,
-        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
-        "cast_id": 8,
-        "character": "విశ్వనాధ",
-        "credit_id": "63575680945d360082387057",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1341485,
-        "known_for_department": "Acting",
-        "name": "Ananth Babu",
-        "original_name": "Ananth Babu",
-        "popularity": 0.316,
-        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
-        "cast_id": 9,
-        "character": "",
-        "credit_id": "6357577fd6c300007ddc1a25",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2875215,
-        "known_for_department": "Acting",
-        "name": "Thummala Narasimha Reddy",
-        "original_name": "Thummala Narasimha Reddy",
-        "popularity": 0.226,
-        "profile_path": "/7BIYz7yfjQcDDJOKyFElJHheC40.jpg",
-        "cast_id": 10,
-        "character": "ప్రసన్న",
-        "credit_id": "635757edd399e60082314dbf",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2035076,
-        "known_for_department": "Writing",
-        "name": "Ramajogayya Sastry",
-        "original_name": "Ramajogayya Sastry",
-        "popularity": 0.1451,
-        "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
-        "cast_id": 11,
-        "character": "శోభనాద్రి",
-        "credit_id": "6357582a5f4b73008d57fe85",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3752224,
-        "known_for_department": "Directing",
-        "name": "Savithcchandra",
-        "original_name": "Savithcchandra",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "63538c904ca67600825ca1ba",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3752224,
-        "known_for_department": "Directing",
-        "name": "Savithcchandra",
-        "original_name": "Savithcchandra",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "63538c99c9dbf90082374f8f",
-        "department": "Writing",
-        "job": "Writer"
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -154,12 +66,93 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt16975682",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332692,
+        "known_for_department": "Acting",
+        "name": "L. B. Sriram",
+        "original_name": "L. B. Sriram",
+        "popularity": 1.3224,
+        "profile_path": "/yGEj6G8NIaLeFnDJdQxJy0mhbbg.jpg",
+        "cast_id": 8,
+        "character": "విశ్వనాధ",
+        "credit_id": "63575680945d360082387057",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341485,
+        "known_for_department": "Acting",
+        "name": "Ananth Babu",
+        "original_name": "Ananth Babu",
+        "popularity": 0.8884,
+        "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6357577fd6c300007ddc1a25",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2875215,
+        "known_for_department": "Acting",
+        "name": "Thummala Narasimha Reddy",
+        "original_name": "Thummala Narasimha Reddy",
+        "popularity": 0.588,
+        "profile_path": "/7BIYz7yfjQcDDJOKyFElJHheC40.jpg",
+        "cast_id": 10,
+        "character": "ప్రసన్న",
+        "credit_id": "635757edd399e60082314dbf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035076,
+        "known_for_department": "Writing",
+        "name": "Ramajogayya Sastry",
+        "original_name": "Ramajogayya Sastry",
+        "popularity": 0.4366,
+        "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+        "cast_id": 11,
+        "character": "శోభనాద్రి",
+        "credit_id": "6357582a5f4b73008d57fe85",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3752224,
+        "known_for_department": "Directing",
+        "name": "Savithcchandra",
+        "original_name": "Savithcchandra",
+        "popularity": 0.2618,
+        "profile_path": null,
+        "credit_id": "63538c904ca67600825ca1ba",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3752224,
+        "known_for_department": "Directing",
+        "name": "Savithcchandra",
+        "original_name": "Savithcchandra",
+        "popularity": 0.2618,
+        "profile_path": null,
+        "credit_id": "63538c99c9dbf90082374f8f",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
   },
   "keywords": {
     "keywords": [
@@ -198,6 +191,16 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt16975682",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -213,8 +216,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

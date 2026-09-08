@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "పెళ్ళానికి ప్రేమలేఖ ప్రియురాలికి శుభలేఖ",
   "overview": "A woman finds out that her husband is having an affair with an old college friend of hers. Soon, they hatch a plan to teach him a lesson.",
-  "popularity": 0.377,
+  "popularity": 0.6657,
   "poster_path": "/9B7r0Hf7i5PbXVSTWaBn7njJDTV.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -42,8 +42,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 5,
         "character": "Raja",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Shruti",
         "original_name": "Shruti",
-        "popularity": 0.2124,
+        "popularity": 0.7738,
         "profile_path": "/uySKBCaAiypFNlfcPmu44fCnucc.jpg",
         "cast_id": 6,
         "character": "Keerthi",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Nandini",
         "original_name": "Nandini",
-        "popularity": 0.0286,
+        "popularity": 0.26,
         "profile_path": null,
         "cast_id": 7,
         "character": "Swathi",
@@ -84,8 +84,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "Lakshman Rao",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.3566,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 9,
         "character": "Dusyanthudu",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Hanumantha Rao",
         "original_name": "Gundu Hanumantha Rao",
-        "popularity": 0.4317,
+        "popularity": 0.6514,
         "profile_path": "/hrZUe9HrDFoVNByNQGAfw5TnEt8.jpg",
         "cast_id": 10,
         "character": "Sannassi",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Srilakshmi",
         "original_name": "Srilakshmi",
-        "popularity": 0.1215,
+        "popularity": 0.6371,
         "profile_path": "/czQXxJ6c149HPmY0JSHPxEL5wXW.jpg",
         "cast_id": 11,
         "character": "Lakshman Rao's wife",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Roja Selvamani",
         "original_name": "Roja Selvamani",
-        "popularity": 0.3732,
+        "popularity": 1.5373,
         "profile_path": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg",
         "cast_id": 12,
         "character": "Cameo",
@@ -153,24 +153,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1335719,
-        "known_for_department": "Sound",
-        "name": "J V Raghavulu",
-        "original_name": "J V Raghavulu",
-        "popularity": 0.0357,
-        "profile_path": null,
-        "credit_id": "650bc3412c6b7b00fe45cef3",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2049688,
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "650bc29f3d7454011b758f89",
         "department": "Directing",
@@ -179,11 +166,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1107024,
+        "known_for_department": "Acting",
+        "name": "Vadde Naveen",
+        "original_name": "Vadde Naveen",
+        "popularity": 0.9117,
+        "profile_path": "/tvmu4D10f8zbQHFVDmCFa7nnX2h.jpg",
+        "credit_id": "650bc3142c6b7b00fe45ced9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2231935,
         "known_for_department": "Editing",
         "name": "G. G. Krishna Rao",
         "original_name": "G. G. Krishna Rao",
-        "popularity": 0.1125,
+        "popularity": 0.297,
         "profile_path": null,
         "credit_id": "650bc32cf92532010baf6b3d",
         "department": "Editing",
@@ -192,40 +192,30 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1107024,
-        "known_for_department": "Acting",
-        "name": "Vadde Naveen",
-        "original_name": "Vadde Naveen",
-        "popularity": 0.1916,
-        "profile_path": "/tvmu4D10f8zbQHFVDmCFa7nnX2h.jpg",
-        "credit_id": "650bc3142c6b7b00fe45ced9",
-        "department": "Production",
-        "job": "Producer"
+        "id": 1335719,
+        "known_for_department": "Sound",
+        "name": "J V Raghavulu",
+        "original_name": "J V Raghavulu",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "650bc3412c6b7b00fe45cef3",
+        "department": "Sound",
+        "job": "Music Director"
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt1579856",
+    "wikidata_id": "Q24905584",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1992-06-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -243,12 +233,22 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1579856",
-    "wikidata_id": "Q24905584",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1992-06-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

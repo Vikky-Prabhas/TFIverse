@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/zH2e4s4pZRNQ4haitipUdW7Ff9O.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గుమ్మడి నర్సయ్య",
   "overview": "",
-  "popularity": 0.1646,
+  "popularity": 0.8232,
   "poster_path": "/7qW15mrTOdGU5UtUeNwLQYk3Kll.jpg",
   "production_companies": [
     {
@@ -61,6 +61,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -70,7 +73,7 @@
         "known_for_department": "Acting",
         "name": "Shiva Rajkumar",
         "original_name": "Shivaraj Kumar",
-        "popularity": 0.5772,
+        "popularity": 1.4408,
         "profile_path": "/aOQ6tjRLjMReW8Pig9PjJaudl5b.jpg",
         "cast_id": 11,
         "character": "Gummadi Narsaiah",
@@ -86,7 +89,7 @@
         "known_for_department": "Directing",
         "name": "Parameshwar Hivrale",
         "original_name": "Parameshwar Hivrale",
-        "popularity": 0.0143,
+        "popularity": 0.5025,
         "profile_path": null,
         "credit_id": "68f8db116fe772a71bd3ba51",
         "department": "Directing",
@@ -99,7 +102,7 @@
         "known_for_department": "Directing",
         "name": "Parameshwar Hivrale",
         "original_name": "Parameshwar Hivrale",
-        "popularity": 0.0143,
+        "popularity": 0.5025,
         "profile_path": null,
         "credit_id": "68f8db1ff96a43a349dbc592",
         "department": "Writing",
@@ -112,7 +115,7 @@
         "known_for_department": "Production",
         "name": "N. Suresh Reddy",
         "original_name": "N. Suresh Reddy",
-        "popularity": 0,
+        "popularity": 0.2622,
         "profile_path": null,
         "credit_id": "68f8db3daaa7647b39d3ba0e",
         "department": "Production",
@@ -125,7 +128,7 @@
         "known_for_department": "Camera",
         "name": "Satish Muthyala",
         "original_name": "Satish Muthyala",
-        "popularity": 0.0327,
+        "popularity": 0.3036,
         "profile_path": null,
         "credit_id": "68f8db57f65ab45b53609279",
         "department": "Camera",
@@ -138,7 +141,7 @@
         "known_for_department": "Sound",
         "name": "Suresh Bobbili",
         "original_name": "Suresh Bobbili",
-        "popularity": 0.1506,
+        "popularity": 0.2767,
         "profile_path": null,
         "credit_id": "68f8db69fa57a24031dbc4f3",
         "department": "Sound",
@@ -151,7 +154,7 @@
         "known_for_department": "Sound",
         "name": "Suresh Bobbili",
         "original_name": "Suresh Bobbili",
-        "popularity": 0.1506,
+        "popularity": 0.2767,
         "profile_path": null,
         "credit_id": "68f8db7f479549c7858057b8",
         "department": "Editing",
@@ -164,7 +167,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Kiran Siddhagani",
         "original_name": "Kiran Siddhagani",
-        "popularity": 0.0071,
+        "popularity": 0.2632,
         "profile_path": null,
         "credit_id": "68f8dbb12915e554e4ea1c88",
         "department": "Costume & Make-Up",
@@ -177,7 +180,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Chinthakindi Roopa",
         "original_name": "Chinthakindi Roopa",
-        "popularity": 0.0071,
+        "popularity": 0.2625,
         "profile_path": null,
         "credit_id": "68f8dbd6b519adfb608057f3",
         "department": "Costume & Make-Up",
@@ -188,9 +191,9 @@
         "gender": 2,
         "id": 3311360,
         "known_for_department": "Crew",
-        "name": "Sai Sathish Parvathaneni",
+        "name": "Sai Satish",
         "original_name": "Sai Sathish Parvathaneni",
-        "popularity": 0.1534,
+        "popularity": 0.4145,
         "profile_path": null,
         "credit_id": "68f8dbe999e504f0d9483016",
         "department": "Crew",
@@ -203,7 +206,7 @@
         "known_for_department": "Production",
         "name": "P. Syam",
         "original_name": "P. Syam",
-        "popularity": 0.0866,
+        "popularity": 0.2889,
         "profile_path": null,
         "credit_id": "68f8dbfb60764faa0380571e",
         "department": "Production",
@@ -216,16 +219,13 @@
         "known_for_department": "Sound",
         "name": "Venkatsrikanth Giditur",
         "original_name": "Venkatsrikanth Giditur",
-        "popularity": 0,
+        "popularity": 0.2753,
         "profile_path": null,
         "credit_id": "68f8dc2cf61813aec0483123",
         "department": "Sound",
         "job": "Sound Effects"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt16908636",
@@ -279,9 +279,44 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
-    "backdrops": [],
-    "logos": [],
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 941,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zH2e4s4pZRNQ4haitipUdW7Ff9O.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1672
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 3.033,
+        "height": 602,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uEY3Uvy0pPiCNRTimH980ERpvKJ.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1826
+      },
+      {
+        "aspect_ratio": 2.938,
+        "height": 615,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aJS5j5KiIunu4QI5j9MSAIIHK3x.png",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 1807
+      }
+    ],
     "posters": [
       {
         "aspect_ratio": 0.666,
@@ -294,8 +329,5 @@
         "width": 1225
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

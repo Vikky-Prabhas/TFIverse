@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "అభిషేకం",
   "overview": "A curse follows Vijay's family leading to early deaths in their household. Vijay wants a caretaker for his mother before he dies, so he hires a look- alike of him to stay with his mother.",
-  "popularity": 0.3488,
+  "popularity": 0.9207,
   "poster_path": "/6NDQihwESnHwDzmhwf1F4nTbn2F.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt8396460",
+    "wikidata_id": "Q12990504",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +53,7 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "cast_id": 6,
         "character": "Vijay / Sambaiah (Dual role)",
@@ -57,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Rachana Banerjee",
         "original_name": "Rachana Banerjee",
-        "popularity": 0.5466,
+        "popularity": 1.0521,
         "profile_path": "/zM3R91tHNIEMeQGI1WDQ6Vl6pmi.jpg",
         "cast_id": 7,
         "character": "Surabhi",
@@ -69,9 +79,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.2841,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 8,
         "character": "Vijay's mother",
@@ -85,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Srihari",
         "original_name": "Srihari",
-        "popularity": 0.4917,
+        "popularity": 1.4073,
         "profile_path": "/j0sMxR2Hq69iLCJKMcVHe4XuA17.jpg",
         "cast_id": 9,
         "character": "Sambaiah's elder brother",
@@ -99,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 10,
         "character": "G. K. Naidu",
@@ -113,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8945,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 11,
         "character": "Sudhakar",
@@ -127,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Shivaji Raja",
         "original_name": "Shivaji Raja",
-        "popularity": 0.3786,
+        "popularity": 1.7055,
         "profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
         "cast_id": 12,
         "character": "Sivaji",
@@ -141,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Uttej",
         "original_name": "Uttej",
-        "popularity": 0.2442,
+        "popularity": 1.2843,
         "profile_path": "/ntwumxdq3aYSi4fJln1kPa1JlD2.jpg",
         "cast_id": 13,
         "character": "Uttej",
@@ -153,9 +163,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 14,
         "character": "Ali",
@@ -169,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.4439,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 15,
         "character": "Venu",
@@ -183,8 +193,8 @@
         "known_for_department": "Acting",
         "name": "Janaki",
         "original_name": "Janaki",
-        "popularity": 0.2196,
-        "profile_path": null,
+        "popularity": 1.3116,
+        "profile_path": "/8xGefQ0sVOQuOgp64FTojoReQJx.jpg",
         "cast_id": 16,
         "character": "Sambaiah's mother",
         "credit_id": "652818e11f3e6000ff8484c3",
@@ -199,7 +209,7 @@
         "known_for_department": "Production",
         "name": "K. Atchi Reddy",
         "original_name": "K. Atchi Reddy",
-        "popularity": 0.1769,
+        "popularity": 0.3563,
         "profile_path": null,
         "credit_id": "6528180237806200ffca95ad",
         "department": "Production",
@@ -212,20 +222,7 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
-        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
-        "credit_id": "652817bf37806200e2968f54",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1029010,
-        "known_for_department": "Directing",
-        "name": "S.V. Krishna Reddy",
-        "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "652817eb37806200e2968f6d",
         "department": "Sound",
@@ -238,7 +235,20 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
+        "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
+        "credit_id": "652817bf37806200e2968f54",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029010,
+        "known_for_department": "Directing",
+        "name": "S.V. Krishna Reddy",
+        "original_name": "S.V. Krishna Reddy",
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "652817db1f3e60011c490bf0",
         "department": "Writing",
@@ -251,20 +261,13 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.3641,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "652817d0ea84c7012d6eafe3",
         "department": "Writing",
         "job": "Screenplay"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8396460",
-    "wikidata_id": "Q12990504",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -286,6 +289,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -301,11 +307,5 @@
         "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

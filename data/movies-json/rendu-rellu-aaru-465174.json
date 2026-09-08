@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Rendu Rellu Aaru",
   "overview": "Raising each other’s child as their own was a decision that Raju and Rao made when they swapped their newborns at the hospital. But what happens when they grow up is beyond the control of their respective fathers.",
-  "popularity": 0.2464,
+  "popularity": 1.4813,
   "poster_path": "/vfXDzDwkOcXnkwLvfKovZGaTGw3.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Anil Mallela",
         "original_name": "Anil Mallela",
-        "popularity": 0.0256,
+        "popularity": 0.3362,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Mahima",
         "original_name": "Mahima",
-        "popularity": 0.0487,
+        "popularity": 0.3711,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -96,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Kale",
         "original_name": "Ravi Kale",
-        "popularity": 0.2527,
+        "popularity": 1.9253,
         "profile_path": "/7QWF6ine4pE2RdCHJpXa2shQVCK.jpg",
         "cast_id": 6,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Naresh",
         "original_name": "Naresh",
-        "popularity": 0.4543,
+        "popularity": 2.4645,
         "profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
         "cast_id": 7,
         "character": "",
@@ -124,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Thagubothu Ramesh",
         "original_name": "Thagubothu Ramesh",
-        "popularity": 0.3639,
+        "popularity": 1.225,
         "profile_path": "/1D510DdV5c4CnWkzl13zIwAshZQ.jpg",
         "cast_id": 8,
         "character": "",
@@ -140,24 +140,11 @@
         "known_for_department": "Writing",
         "name": "Nandu Mallela",
         "original_name": "Nandu Mallela",
-        "popularity": 0,
+        "popularity": 0.3866,
         "profile_path": null,
-        "credit_id": "5960e8eec3a368293b0c4019",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1847330,
-        "known_for_department": "Camera",
-        "name": "Amarnath Reddy",
-        "original_name": "Amarnath Reddy",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "5960e9b4c3a3680d59093205",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "credit_id": "5960e8e69251410c560b5868",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -166,11 +153,11 @@
         "known_for_department": "Writing",
         "name": "Nandu Mallela",
         "original_name": "Nandu Mallela",
-        "popularity": 0,
+        "popularity": 0.3866,
         "profile_path": null,
-        "credit_id": "5960e8e69251410c560b5868",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5960e8eec3a368293b0c4019",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -179,17 +166,30 @@
         "known_for_department": "Sound",
         "name": "Vijai Bulganin",
         "original_name": "Vijai Bulganin",
-        "popularity": 0.0835,
+        "popularity": 0.4591,
         "profile_path": "/jeikiKr6DwQXDHQIzETSm9AVsm3.jpg",
         "credit_id": "5960e9349251410b860bebeb",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847330,
+        "known_for_department": "Camera",
+        "name": "Amarnath Reddy",
+        "original_name": "Amarnath Reddy",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "5960e9b4c3a3680d59093205",
+        "department": "Camera",
+        "job": "Director of Photography"
       }
     ]
   },
   "external_ids": {
     "imdb_id": "tt7782364",
-    "wikidata_id": null,
+    "wikidata_id": "Q130404640",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -210,25 +210,8 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2017-07-07T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -277,7 +260,24 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2017-07-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "యోగివేమన",
   "overview": "It chronicles the legend of the progressive Telugu poet-saint Vemana from his being a rebellious and hedonistic youth from a landed elite to a renunciate.",
-  "popularity": 0.2405,
+  "popularity": 1.1325,
   "poster_path": "/pRxEjZJUWPahOLR11zOpWIboLB6.jpg",
   "production_companies": [
     {
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "cast_id": 1,
         "character": "Vemana/ Vema Reddy",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Mudigonda Lingamurthy",
         "original_name": "Mudigonda Lingamurthy",
-        "popularity": 0.1209,
+        "popularity": 0.5266,
         "profile_path": null,
         "cast_id": 2,
         "character": "Abhirama",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "M. V. Rajamma",
         "original_name": "M. V. Rajamma",
-        "popularity": 0.1804,
+        "popularity": 1.2176,
         "profile_path": "/zrscrh4WQgmj9TyBVfuSHKk2NjE.jpg",
         "cast_id": 13,
         "character": "",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Padmanabham",
         "original_name": "Padmanabham",
-        "popularity": 0.1895,
+        "popularity": 1.0843,
         "profile_path": "/yKwLIP9RP3o8GWm3Q5CLJLFkeX1.jpg",
         "cast_id": 14,
         "character": "",
@@ -118,37 +121,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1208889,
-        "known_for_department": "Writing",
-        "name": "Samudrala Raghavacharya",
-        "original_name": "Samudrala Raghavacharya",
-        "popularity": 0.0578,
-        "profile_path": null,
-        "credit_id": "5d0623cec3a3684adb2af602",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1139300,
-        "known_for_department": "Camera",
-        "name": "Marcus Bartley",
-        "original_name": "Marcus Bartley",
-        "popularity": 0.0879,
-        "profile_path": "/3w2sH4idbXzoWTZInUY9QCdWxfv.jpg",
-        "credit_id": "5d06241a9251410c6ab92ba6",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1180574,
         "known_for_department": "Directing",
         "name": "Kamalakara Kameshwara Rao",
         "original_name": "Kamalakara Kameshwara Rao",
-        "popularity": 0.2333,
+        "popularity": 0.5273,
         "profile_path": null,
         "credit_id": "5d06244f0e0a266424cadc9e",
         "department": "Writing",
@@ -161,7 +138,7 @@
         "known_for_department": "Directing",
         "name": "Vedantam Raghavaiah",
         "original_name": "Vedantam Raghavaiah",
-        "popularity": 0.1003,
+        "popularity": 0.5843,
         "profile_path": null,
         "credit_id": "5d0624ac0e0a261357d066c4",
         "department": "Crew",
@@ -170,15 +147,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1139297,
-        "known_for_department": "Directing",
-        "name": "Kadri Venkata Reddy",
-        "original_name": "Kadri Venkata Reddy",
-        "popularity": 0.1565,
-        "profile_path": "/e9wnCJ6amZltagnWuYqTc6F7hfj.jpg",
-        "credit_id": "5fbecc3d323eba003efd600e",
+        "id": 1139300,
+        "known_for_department": "Camera",
+        "name": "Marcus Bartley",
+        "original_name": "Marcus Bartley",
+        "popularity": 0.2944,
+        "profile_path": "/3w2sH4idbXzoWTZInUY9QCdWxfv.jpg",
+        "credit_id": "5d06241a9251410c6ab92ba6",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208889,
+        "known_for_department": "Writing",
+        "name": "Samudrala Raghavacharya",
+        "original_name": "Samudrala Raghavacharya",
+        "popularity": 0.4441,
+        "profile_path": null,
+        "credit_id": "5d0623cec3a3684adb2af602",
         "department": "Writing",
-        "job": "Screenplay"
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -187,7 +177,7 @@
         "known_for_department": "Directing",
         "name": "Kadri Venkata Reddy",
         "original_name": "Kadri Venkata Reddy",
-        "popularity": 0.1565,
+        "popularity": 0.5879,
         "profile_path": "/e9wnCJ6amZltagnWuYqTc6F7hfj.jpg",
         "credit_id": "5fbecc500c271000402ee785",
         "department": "Writing",
@@ -200,11 +190,24 @@
         "known_for_department": "Directing",
         "name": "Kadri Venkata Reddy",
         "original_name": "Kadri Venkata Reddy",
-        "popularity": 0.1565,
+        "popularity": 0.5879,
         "profile_path": "/e9wnCJ6amZltagnWuYqTc6F7hfj.jpg",
         "credit_id": "5fbecc5f9c97bd003ea0e895",
         "department": "Directing",
         "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139297,
+        "known_for_department": "Directing",
+        "name": "Kadri Venkata Reddy",
+        "original_name": "Kadri Venkata Reddy",
+        "popularity": 0.5879,
+        "profile_path": "/e9wnCJ6amZltagnWuYqTc6F7hfj.jpg",
+        "credit_id": "5fbecc3d323eba003efd600e",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
@@ -213,7 +216,7 @@
         "known_for_department": "Sound",
         "name": "Ogirala Ramachandra Rao",
         "original_name": "Ogirala Ramachandra Rao",
-        "popularity": 0,
+        "popularity": 0.3168,
         "profile_path": null,
         "credit_id": "698cbf0a9e06a483e47495f5",
         "department": "Sound",
@@ -226,7 +229,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "credit_id": "698cbf1df0cd5fb0ee1c841a",
         "department": "Sound",
@@ -239,7 +242,7 @@
         "known_for_department": "Acting",
         "name": "Chittoor V. Nagayya",
         "original_name": "Chittoor V. Nagayya",
-        "popularity": 0.2054,
+        "popularity": 1.3122,
         "profile_path": "/iPLEIndzk3sGvYlXBhzkTxm4tsa.jpg",
         "credit_id": "698cbf2744b0e4acad1c83fb",
         "department": "Sound",
@@ -252,7 +255,7 @@
         "known_for_department": "Acting",
         "name": "M. V. Rajamma",
         "original_name": "M. V. Rajamma",
-        "popularity": 0.1804,
+        "popularity": 1.2176,
         "profile_path": "/zrscrh4WQgmj9TyBVfuSHKk2NjE.jpg",
         "credit_id": "698cbf3291739dde49749633",
         "department": "Sound",
@@ -265,7 +268,7 @@
         "known_for_department": "Sound",
         "name": "Ghantasala",
         "original_name": "Ghantasala",
-        "popularity": 0.0838,
+        "popularity": 0.3387,
         "profile_path": null,
         "credit_id": "698cbf3fd84736ad09320663",
         "department": "Sound",
@@ -273,31 +276,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt0266077",
     "wikidata_id": "Q8054406",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 2132,
-        "name": "literature"
-      },
-      {
-        "id": 4096,
-        "name": "hindu"
-      },
-      {
-        "id": 232977,
-        "name": "devotional"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -316,8 +300,21 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2132,
+        "name": "literature"
+      },
+      {
+        "id": 4096,
+        "name": "hindu"
+      },
+      {
+        "id": 232977,
+        "name": "devotional"
+      }
+    ]
   },
   "images": {
     "backdrops": [],
@@ -354,5 +351,8 @@
         "width": 1000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

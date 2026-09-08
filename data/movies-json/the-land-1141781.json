@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Sthalam",
   "overview": "Sthalam is a journey of compassion, humanity and sacrifice and the bitter truths of life. A journey that shows the complexity of human emotions through a poetically visual narration.",
-  "popularity": 0.1048,
+  "popularity": 1.2433,
   "poster_path": null,
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Praneeta Patnaik",
         "original_name": "Praneeta Patnaik",
-        "popularity": 0.2862,
+        "popularity": 0.5713,
         "profile_path": "/nr2YSpHV62s4LCcbj4fiKB9Nb6d.jpg",
         "cast_id": 3,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Acting",
         "name": "Rakesh Varre",
         "original_name": "Rakesh Varre",
-        "popularity": 0.1283,
+        "popularity": 0.5683,
         "profile_path": "/erutHeuAaIMBJ2ILrnjQhInjgjp.jpg",
         "cast_id": 4,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Directing",
         "name": "Bijukumar Damodaran",
         "original_name": "Bijukumar Damodaran",
-        "popularity": 0.0963,
+        "popularity": 1.2272,
         "profile_path": "/nYnMDkP09IdOTZxZSX5x6gdiebX.jpg",
         "credit_id": "648e9d16263462014e5831bb",
         "department": "Directing",
@@ -103,7 +103,7 @@
         "known_for_department": "Directing",
         "name": "Bijukumar Damodaran",
         "original_name": "Bijukumar Damodaran",
-        "popularity": 0.0963,
+        "popularity": 1.2272,
         "profile_path": "/nYnMDkP09IdOTZxZSX5x6gdiebX.jpg",
         "credit_id": "648e9d27559d220139bdf7cc",
         "department": "Writing",
@@ -113,6 +113,13 @@
   },
   "videos": {
     "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt15802862",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -131,16 +138,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": "tt15802862",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
@@ -148,5 +145,8 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

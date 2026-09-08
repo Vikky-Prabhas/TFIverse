@@ -26,9 +26,16 @@
   "original_language": "te",
   "original_title": "చిరుత",
   "overview": "A young man with a tragic past meets the daughter of a rich man and falls in love, while trying to avenge the death of his father.",
-  "popularity": 0.5548,
-  "poster_path": "/mYvcYwkpZR5HBoNuLIgj6GCNXzV.jpg",
-  "production_companies": [],
+  "popularity": 1.7874,
+  "poster_path": "/d5ga2t4SAwrJilEARDpeXbmjosY.jpg",
+  "production_companies": [
+    {
+      "id": 80065,
+      "logo_path": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+      "name": "Vyjayanthi Movies",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
@@ -50,8 +57,11 @@
   "tagline": "",
   "title": "Chirutha",
   "video": false,
-  "vote_average": 4.7,
-  "vote_count": 20,
+  "vote_average": 5.04,
+  "vote_count": 25,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -60,8 +70,8 @@
         "id": 147023,
         "known_for_department": "Acting",
         "name": "Ram Charan",
-        "original_name": "Ram Charan",
-        "popularity": 1.5533,
+        "original_name": "రామ్ చరణ్",
+        "popularity": 3.8247,
         "profile_path": "/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg",
         "cast_id": 3,
         "character": "Charan",
@@ -75,8 +85,8 @@
         "known_for_department": "Acting",
         "name": "Neha Sharma",
         "original_name": "Neha Sharma",
-        "popularity": 1.1624,
-        "profile_path": "/4avmG7UYavmTxPi8VnuefwMUdj1.jpg",
+        "popularity": 0.7359,
+        "profile_path": "/b6Zdva6mDqDLjQxA2uAZH8OlWL5.jpg",
         "cast_id": 4,
         "character": "Sanjana",
         "credit_id": "52fe48f89251416c9109e555",
@@ -88,8 +98,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -102,8 +112,8 @@
         "id": 89153,
         "known_for_department": "Acting",
         "name": "Prakash Raj",
-        "original_name": "Prakash Raj",
-        "popularity": 2.6506,
+        "original_name": "ప్రకాష్ రాజ్",
+        "popularity": 2.5421,
         "profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
         "cast_id": 8,
         "character": "",
@@ -115,9 +125,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 9,
         "character": "",
@@ -131,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 10,
         "character": "",
@@ -145,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Ashish Vidhyarthi",
         "original_name": "Ashish Vidhyarthi",
-        "popularity": 0.9075,
+        "popularity": 2.1499,
         "profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
         "cast_id": 11,
         "character": "",
@@ -159,7 +169,7 @@
         "known_for_department": "Acting",
         "name": "Sayaji Shinde",
         "original_name": "Sayaji Shinde",
-        "popularity": 0.6919,
+        "popularity": 1.9772,
         "profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
         "cast_id": 12,
         "character": "",
@@ -173,7 +183,7 @@
         "known_for_department": "Acting",
         "name": "Dharmavarupu Subramanyam",
         "original_name": "Dharmavarupu Subramanyam",
-        "popularity": 0.5024,
+        "popularity": 0.9816,
         "profile_path": "/hIFs97t4snTwfnXqxZ61F3sC7I5.jpg",
         "cast_id": 13,
         "character": "",
@@ -187,7 +197,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 14,
         "character": "",
@@ -201,7 +211,7 @@
         "known_for_department": "Acting",
         "name": "Surya Bhagawan Das",
         "original_name": "Surya Bhagawan Das",
-        "popularity": 0.4916,
+        "popularity": 2.0323,
         "profile_path": "/fflRAfFuyvM4QIGkS3EVcqIjVm1.jpg",
         "cast_id": 15,
         "character": "Charan's father",
@@ -215,7 +225,7 @@
         "known_for_department": "Acting",
         "name": "Venu Madhav",
         "original_name": "Venu Madhav",
-        "popularity": 0.4439,
+        "popularity": 2.0469,
         "profile_path": "/oHuaEIJV4KVkyqjBTOxQ1ECoxgP.jpg",
         "cast_id": 19,
         "character": "",
@@ -229,7 +239,7 @@
         "known_for_department": "Acting",
         "name": "Pragathi Mahavadi",
         "original_name": "Pragathi Mahavadi",
-        "popularity": 0.6249,
+        "popularity": 1.3133,
         "profile_path": "/9v63JB33LMkfR90raHu9O1iHZOQ.jpg",
         "cast_id": 20,
         "character": "Charan's mother",
@@ -243,7 +253,7 @@
         "known_for_department": "Acting",
         "name": "Srinivasa Reddy",
         "original_name": "Srinivasa Reddy",
-        "popularity": 0.4494,
+        "popularity": 1.3572,
         "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
         "cast_id": 21,
         "character": "",
@@ -257,7 +267,7 @@
         "known_for_department": "Acting",
         "name": "Daniel Balaji",
         "original_name": "Daniel Balaji",
-        "popularity": 0.4237,
+        "popularity": 1.4431,
         "profile_path": "/a34WYs625aV90XeNaUzPvOBfRw1.jpg",
         "cast_id": 22,
         "character": "",
@@ -272,21 +282,8 @@
         "id": 119891,
         "known_for_department": "Directing",
         "name": "Puri Jagannadh",
-        "original_name": "Puri Jagannadh",
-        "popularity": 0.788,
-        "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
-        "credit_id": "52fe48f89251416c9109e561",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 119891,
-        "known_for_department": "Directing",
-        "name": "Puri Jagannadh",
-        "original_name": "Puri Jagannadh",
-        "popularity": 0.788,
+        "original_name": "పూరీ జగన్నాథ్",
+        "popularity": 2.7213,
         "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
         "credit_id": "52fe48f89251416c9109e55b",
         "department": "Directing",
@@ -295,24 +292,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 225317,
-        "known_for_department": "Sound",
-        "name": "Mani Sharma",
-        "original_name": "Mani Sharma",
-        "popularity": 0.2979,
-        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
-        "credit_id": "565e86159251416f0e000bc5",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 585264,
         "known_for_department": "Production",
         "name": "C. Ashwini Dutt",
         "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1645,
+        "popularity": 0.3164,
         "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
         "credit_id": "565e862fc3a3687509000bbe",
         "department": "Production",
@@ -321,20 +305,56 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 225317,
+        "known_for_department": "Sound",
+        "name": "Mani Sharma",
+        "original_name": "Mani Sharma",
+        "popularity": 0.4997,
+        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+        "credit_id": "6a17dcfeb8ebd5cc82f24995",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339512,
+        "known_for_department": "Editing",
+        "name": "M. R. Varmaa",
+        "original_name": "M. R. Varmaa",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "6a17dd0f94028d18acf24a05",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1543279,
         "known_for_department": "Camera",
         "name": "Shyam K. Naidu",
         "original_name": "Shyam K. Naidu",
-        "popularity": 0.1839,
+        "popularity": 0.3322,
         "profile_path": null,
-        "credit_id": "565e8603c3a36874f7000c15",
-        "department": "Crew",
-        "job": "Cinematography"
+        "credit_id": "6a17dd39433a60cf4af24893",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119891,
+        "known_for_department": "Directing",
+        "name": "Puri Jagannadh",
+        "original_name": "పూరీ జగన్నాథ్",
+        "popularity": 2.7213,
+        "profile_path": "/xPOjxS9r0rdLPbP14lHi27qwlTU.jpg",
+        "credit_id": "6a17dd76a2b0f055821dc430",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt1105721",
@@ -342,18 +362,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Cheetah",
-        "type": "Malayalam Dubbed"
-      }
-    ]
   },
   "release_dates": {
     "results": [
@@ -385,6 +393,9 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
   "images": {
     "backdrops": [
       {
@@ -412,13 +423,23 @@
     ],
     "posters": [
       {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/d5ga2t4SAwrJilEARDpeXbmjosY.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
         "aspect_ratio": 0.75,
         "height": 960,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/qEQ9dhcTNI8yIKcANF5jiyNSs2L.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 720
       },
       {
@@ -427,19 +448,28 @@
         "iso_3166_1": "IN",
         "iso_639_1": "te",
         "file_path": "/mYvcYwkpZR5HBoNuLIgj6GCNXzV.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
+        "vote_average": 0.166,
+        "vote_count": 1,
         "width": 2000
       },
       {
         "aspect_ratio": 0.682,
         "height": 1600,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "hi",
         "file_path": "/nZ4EDw27q6adKHiHJdXzCyxxdy6.jpg",
         "vote_average": 0,
         "vote_count": 0,
         "width": 1092
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Cheetah",
+        "type": "Malayalam Dubbed"
       }
     ]
   }

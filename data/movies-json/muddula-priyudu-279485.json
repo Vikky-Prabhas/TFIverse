@@ -16,9 +16,9 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Muddula Priyudu",
-  "overview": "Muddula Priyudu is a 1994 Telugu film directed by K. Raghavendra Rao. The film stars Venkatesh, Ramya Krishnan and Brahmanandam in lead roles.",
-  "popularity": 0.1418,
+  "original_title": "ముద్దుల ప్రియుడు",
+  "overview": "",
+  "popularity": 2.1354,
   "poster_path": "/ktBzUke6S41HUlGvN2TPWtTsA9A.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -26,13 +26,32 @@
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
-  "spoken_languages": [],
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
   "status": "Released",
   "tagline": "",
   "title": "Muddula Priyudu",
   "video": false,
   "vote_average": 4,
   "vote_count": 1,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
+  },
   "credits": {
     "cast": [
       {
@@ -42,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Venkatesh",
         "original_name": "Venkatesh",
-        "popularity": 2.0386,
+        "popularity": 1.8618,
         "profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
         "cast_id": 3,
         "character": "",
@@ -56,8 +75,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.2012,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "53b17cf9c3a3682ed8006375",
@@ -69,8 +88,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -82,15 +101,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1335295,
-        "known_for_department": "Production",
-        "name": "K. Krishnamohana Rao",
-        "original_name": "K. Krishnamohana Rao",
-        "popularity": 0.0522,
-        "profile_path": null,
-        "credit_id": "53b17cf70e0a2659800082af",
-        "department": "Production",
-        "job": "Producer"
+        "id": 237252,
+        "known_for_department": "Directing",
+        "name": "K Raghavendra Rao",
+        "original_name": "K Raghavendra Rao",
+        "popularity": 1.5861,
+        "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
+        "credit_id": "53b17cedc3a3682edf0062c8",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -99,7 +118,7 @@
         "known_for_department": "Sound",
         "name": "M.M. Keeravaani",
         "original_name": "M.M. Keeravaani",
-        "popularity": 0.3741,
+        "popularity": 0.8047,
         "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
         "credit_id": "53b17cee0e0a26598c0085a6",
         "department": "Sound",
@@ -108,27 +127,17 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 237252,
-        "known_for_department": "Directing",
-        "name": "K Raghavendra Rao",
-        "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
-        "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
-        "credit_id": "53b17cedc3a3682edf0062c8",
-        "department": "Directing",
-        "job": "Director"
+        "id": 1335295,
+        "known_for_department": "Production",
+        "name": "K. Krishnamohana Rao",
+        "original_name": "K. Krishnamohana Rao",
+        "popularity": 0.3057,
+        "profile_path": null,
+        "credit_id": "53b17cf70e0a2659800082af",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -147,8 +156,8 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -156,27 +165,24 @@
     "posters": [
       {
         "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ktBzUke6S41HUlGvN2TPWtTsA9A.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
         "height": 1890,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
         "file_path": "/rI0g7clDmjSa6h8mZNH2dlfWUAu.jpg",
-        "vote_average": 3.334,
-        "vote_count": 1,
+        "vote_average": 1.75,
+        "vote_count": 2,
         "width": 1260
-      },
-      {
-        "aspect_ratio": 0.667,
-        "height": 3000,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/ktBzUke6S41HUlGvN2TPWtTsA9A.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

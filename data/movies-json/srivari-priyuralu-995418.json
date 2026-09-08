@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "శ్రీవారి ప్రియురాలు",
   "overview": "Venu, a doctor, gets married to Vasantha, an innocent village girl. However, he begins an illicit affair with his ex-lover, Priya, but his parents decide to teach him a lesson.",
-  "popularity": 0.1646,
+  "popularity": 0.6145,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -56,8 +56,8 @@
         "known_for_department": "Acting",
         "name": "Aamani",
         "original_name": "Aamani",
-        "popularity": 0.3229,
-        "profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+        "popularity": 1.1218,
+        "profile_path": "/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "62c1e9cf924ce6129a17d0d0",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Vinod Kumar",
         "original_name": "Vinod Kumar",
-        "popularity": 0.1193,
+        "popularity": 0.6566,
         "profile_path": "/72Sz1EH0Me4MIG7qbvQFsxU6oDA.jpg",
         "cast_id": 2,
         "character": "",
@@ -83,8 +83,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "",
@@ -100,23 +100,13 @@
         "known_for_department": "Directing",
         "name": "Muthyala Subbaiah",
         "original_name": "Muthyala Subbaiah",
-        "popularity": 0.1855,
+        "popularity": 0.5706,
         "profile_path": null,
         "credit_id": "62c1e9fa2a09bc005900c36d",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1579704",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -135,12 +125,22 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt1579704",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
   },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   }
 }

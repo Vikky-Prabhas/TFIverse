@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "టెనెంట్",
   "overview": "Revolving around six characters resembling six faces of a dice chosen by Life in the game of snakes and ladders, this intriguingly designed drive reflects the current urban lifestyle, telling how women should be in our current society.",
-  "popularity": 0.1688,
+  "popularity": 1.3464,
   "poster_path": "/nZxCHxjQJEZi30F69YJwTPEgzoX.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.2585,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Megha Chowdhury",
         "original_name": "Megha Chowdhury",
-        "popularity": 0.1398,
+        "popularity": 0.5918,
         "profile_path": "/hvn2Wj3rsM5gaKlvsrJ5KP83ATL.jpg",
         "cast_id": 2,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Chandana Payyavula",
         "original_name": "Chandana Payyavula",
-        "popularity": 0.0239,
+        "popularity": 0.3415,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Bharathkanth",
         "original_name": "Bharathkanth",
-        "popularity": 0.0143,
+        "popularity": 0.3024,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -120,7 +120,7 @@
         "known_for_department": "Acting",
         "name": "Aadukalam Naren",
         "original_name": "Adukalam Naren",
-        "popularity": 0.5238,
+        "popularity": 1.056,
         "profile_path": "/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg",
         "cast_id": 5,
         "character": "",
@@ -134,7 +134,7 @@
         "known_for_department": "Acting",
         "name": "Ester Noronha",
         "original_name": "Ester Noronha",
-        "popularity": 0.3686,
+        "popularity": 1.5415,
         "profile_path": "/2x2dH5s4sk4td7NS7EXOoK30bRx.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +148,7 @@
         "known_for_department": "Acting",
         "name": "Tej Dileep",
         "original_name": "Tej Dileep",
-        "popularity": 0,
+        "popularity": 0.3358,
         "profile_path": null,
         "cast_id": 21,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Acting",
         "name": "Ramya Kolthuri",
         "original_name": "Ramya Kolthuri",
-        "popularity": 0.0071,
+        "popularity": 0.3905,
         "profile_path": null,
         "cast_id": 22,
         "character": "",
@@ -176,7 +176,7 @@
         "known_for_department": "Acting",
         "name": "Chandu",
         "original_name": "Chandu",
-        "popularity": 0.0214,
+        "popularity": 0.3951,
         "profile_path": "/fvtSbnVzMjU1RpgwFjbiWMlW1XN.jpg",
         "cast_id": 23,
         "character": "",
@@ -192,7 +192,7 @@
         "known_for_department": "Crew",
         "name": "Rabin Subbu",
         "original_name": "Rabin Subbu",
-        "popularity": 0.1147,
+        "popularity": 0.3103,
         "profile_path": null,
         "credit_id": "662133ec0443c90187763d65",
         "department": "Crew",
@@ -201,11 +201,37 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4660120,
+        "known_for_department": "Production",
+        "name": "Mogulla Chandrashekhar Reddy",
+        "original_name": "Mogulla Chandrashekhar Reddy",
+        "popularity": 0.2765,
+        "profile_path": null,
+        "credit_id": "662133bfe4c9eb00c7f4cbfd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3324277,
+        "known_for_department": "Directing",
+        "name": "Y. Yugandhar",
+        "original_name": "Y. Yugandhar",
+        "popularity": 0.3613,
+        "profile_path": null,
+        "credit_id": "66213363e4b5760131bba767",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3318455,
         "known_for_department": "Production",
         "name": "Shakthi Graphiste",
         "original_name": "Shakthi Graphiste",
-        "popularity": 0.0453,
+        "popularity": 0.3413,
         "profile_path": null,
         "credit_id": "662133cc0d11f2014a0116b2",
         "department": "Production",
@@ -214,37 +240,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4660127,
-        "known_for_department": "Art",
-        "name": "8 PM Sai Kumar",
-        "original_name": "8 PM Sai Kumar",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "6621341d3f48330186741ef4",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4660125,
-        "known_for_department": "Art",
-        "name": "Karakarala Chandra Mouli",
-        "original_name": "Karakarala Chandra Mouli",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6621340a87ae7b014cd7c5f4",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3463738,
         "known_for_department": "Crew",
         "name": "Madhu Maduri",
         "original_name": "Madhu Maduri",
-        "popularity": 0.0788,
+        "popularity": 0.2886,
         "profile_path": null,
         "credit_id": "662133e08a88b20162c9d98a",
         "department": "Crew",
@@ -252,29 +252,29 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 3324277,
+        "gender": 0,
+        "id": 4660123,
         "known_for_department": "Directing",
-        "name": "Y. Yugandhar",
-        "original_name": "Y. Yugandhar",
-        "popularity": 0.0214,
+        "name": "Anil Kadiveti",
+        "original_name": "Anil Kadiveti",
+        "popularity": 0.2708,
         "profile_path": null,
-        "credit_id": "662133747a3c52017d4c901e",
-        "department": "Writing",
-        "job": "Dialogue"
+        "credit_id": "662133f88a88b20162c9d999",
+        "department": "Directing",
+        "job": "Co-Director"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 3324277,
-        "known_for_department": "Directing",
-        "name": "Y. Yugandhar",
-        "original_name": "Y. Yugandhar",
-        "popularity": 0.0214,
+        "id": 3324282,
+        "known_for_department": "Sound",
+        "name": "Sahityya Sagar",
+        "original_name": "Sahityya Sagar",
+        "popularity": 0.2541,
         "profile_path": null,
-        "credit_id": "662133690231f2017c11e0cc",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "662133b2e4c9eb00e6f4f54b",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -283,7 +283,7 @@
         "known_for_department": "Writing",
         "name": "Y. S. Srinivasa Varma",
         "original_name": "Y. S. Srinivasa Varma",
-        "popularity": 0.0193,
+        "popularity": 0.4367,
         "profile_path": null,
         "credit_id": "6621338d9661fc0189003852",
         "department": "Writing",
@@ -296,37 +296,37 @@
         "known_for_department": "Directing",
         "name": "Y. Yugandhar",
         "original_name": "Y. Yugandhar",
-        "popularity": 0.0214,
+        "popularity": 0.3613,
         "profile_path": null,
-        "credit_id": "66213363e4b5760131bba767",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "662133690231f2017c11e0cc",
+        "department": "Writing",
+        "job": "Screenplay"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4660120,
-        "known_for_department": "Production",
-        "name": "Mogulla Chandrashekhar Reddy",
-        "original_name": "Mogulla Chandrashekhar Reddy",
-        "popularity": 0.0071,
+        "id": 4660125,
+        "known_for_department": "Art",
+        "name": "Karakarala Chandra Mouli",
+        "original_name": "Karakarala Chandra Mouli",
+        "popularity": 0.2652,
         "profile_path": null,
-        "credit_id": "662133bfe4c9eb00c7f4cbfd",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "6621340a87ae7b014cd7c5f4",
+        "department": "Art",
+        "job": "Production Design"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 3324282,
-        "known_for_department": "Sound",
-        "name": "Sahityya Sagar",
-        "original_name": "Sahityya Sagar",
-        "popularity": 0.0071,
+        "id": 3324277,
+        "known_for_department": "Directing",
+        "name": "Y. Yugandhar",
+        "original_name": "Y. Yugandhar",
+        "popularity": 0.3613,
         "profile_path": null,
-        "credit_id": "662133b2e4c9eb00e6f4f54b",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "credit_id": "662133747a3c52017d4c901e",
+        "department": "Writing",
+        "job": "Dialogue"
       },
       {
         "adult": false,
@@ -335,7 +335,7 @@
         "known_for_department": "Camera",
         "name": "Jemin Jom Ayyaneth",
         "original_name": "Jemin Jom Ayyaneth",
-        "popularity": 0.0793,
+        "popularity": 0.3162,
         "profile_path": null,
         "credit_id": "6621339d0443c901307585f3",
         "department": "Camera",
@@ -344,40 +344,40 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3735537,
-        "known_for_department": "Editing",
-        "name": "Vijay Mukthavarapu",
-        "original_name": "Vijay Mukthavarapu",
-        "popularity": 0.0286,
+        "id": 4660127,
+        "known_for_department": "Art",
+        "name": "8 PM Sai Kumar",
+        "original_name": "8 PM Sai Kumar",
+        "popularity": 0.2586,
         "profile_path": null,
-        "credit_id": "662133a70231f2017c11e0fe",
-        "department": "Editing",
-        "job": "Editor"
+        "credit_id": "6621341d3f48330186741ef4",
+        "department": "Art",
+        "job": "Production Design"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4660123,
-        "known_for_department": "Directing",
-        "name": "Anil Kadiveti",
-        "original_name": "Anil Kadiveti",
-        "popularity": 0.0071,
+        "id": 3735537,
+        "known_for_department": "Editing",
+        "name": "Vijay Mukthavarapu",
+        "original_name": "Vijay Mukthavarapu",
+        "popularity": 0.2879,
         "profile_path": null,
-        "credit_id": "662133f88a88b20162c9d999",
-        "department": "Directing",
-        "job": "Co-Director"
+        "credit_id": "662133a70231f2017c11e0fe",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
   },
   "external_ids": {
     "imdb_id": "tt29866163",
-    "wikidata_id": null,
+    "wikidata_id": "Q127416566",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -395,6 +395,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -463,11 +469,5 @@
         "width": 1067
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

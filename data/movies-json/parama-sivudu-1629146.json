@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Parama Sivudu",
   "overview": "An orphaned young man, popular in his village, seeks vengeance on an evil landlord.",
-  "popularity": 0.0071,
+  "popularity": 0.4,
   "poster_path": "/80ZMYyk5bzKYw6YDMmqvC0sOrWg.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,10 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
   "videos": {
     "results": []
   },
@@ -44,9 +48,21 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "credits": {
-    "cast": [],
-    "crew": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.677,
+        "height": 768,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/80ZMYyk5bzKYw6YDMmqvC0sOrWg.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 520
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -70,21 +86,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.677,
-        "height": 768,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/80ZMYyk5bzKYw6YDMmqvC0sOrWg.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 520
-      }
-    ]
   }
 }

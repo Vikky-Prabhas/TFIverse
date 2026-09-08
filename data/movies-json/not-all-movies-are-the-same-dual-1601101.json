@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Not All Movies Are the Same: Dual",
   "overview": "After losing everything to a personal mistake, a young man stumbles into a parallel world where a family is trapped by zombies. Driven to save them, he must navigate this deadly reality and fight for survival-and redemption",
-  "popularity": 0.7076,
+  "popularity": 1.2455,
   "poster_path": "/wvHzhN4dSZC9gw66w09GTaf0egx.jpg",
   "production_companies": [
     {
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Akshaj Sagiraju",
         "original_name": "Akshaj Sagiraju",
-        "popularity": 0,
+        "popularity": 0.2685,
         "profile_path": null,
         "cast_id": 2,
         "character": "Akshaj",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Kushi Pillala",
         "original_name": "Kushi Pillala",
-        "popularity": 0,
+        "popularity": 0.2563,
         "profile_path": null,
         "cast_id": 3,
         "character": "Kushi",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Vallab Tej",
         "original_name": "Vallab Tej",
-        "popularity": 0,
+        "popularity": 0.2694,
         "profile_path": null,
         "cast_id": 5,
         "character": "Tej",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Rexon Raj",
         "original_name": "Rexon Raj",
-        "popularity": 0,
+        "popularity": 0.2625,
         "profile_path": null,
         "cast_id": 6,
         "character": "Rex",
@@ -118,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Roshini",
         "original_name": "Roshini",
-        "popularity": 0.0143,
+        "popularity": 0.2541,
         "profile_path": null,
         "cast_id": 7,
         "character": "Roshini",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.0168,
+        "popularity": 0.2559,
         "profile_path": null,
         "cast_id": 8,
         "character": "Soundarya",
@@ -146,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "Raghu Vardhan Reddy",
         "original_name": "Raghu Vardhan Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2525,
         "profile_path": null,
         "cast_id": 9,
         "character": "Raghu",
@@ -162,7 +162,7 @@
         "known_for_department": "Directing",
         "name": "Suresh Sagiraju",
         "original_name": "Suresh Sagiraju",
-        "popularity": 0.0143,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "6945e341739bae2a6d154996",
         "department": "Directing",
@@ -175,7 +175,7 @@
         "known_for_department": "Directing",
         "name": "Suresh Sagiraju",
         "original_name": "Suresh Sagiraju",
-        "popularity": 0.0143,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "6945e91cbf7d0585638cda07",
         "department": "Writing",
@@ -183,9 +183,42 @@
       }
     ]
   },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-11-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 12377,
+        "name": "zombie"
+      },
+      {
+        "id": 281358,
+        "name": "science fiction"
+      },
+      {
+        "id": 323910,
+        "name": "sci-fi horror"
+      }
+    ]
+  },
   "external_ids": {
     "imdb_id": "tt37671707",
-    "wikidata_id": null,
+    "wikidata_id": "Q137325027",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
@@ -215,23 +248,6 @@
         "official": false,
         "id": "6945e2ab86c6d003b67ab80b",
         "published_at": "2025-02-11T11:27:56.000Z"
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2025-11-28T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },
@@ -284,21 +300,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 12377,
-        "name": "zombie"
-      },
-      {
-        "id": 281358,
-        "name": "science fiction"
-      },
-      {
-        "id": 323910,
-        "name": "sci-fi horror"
-      }
-    ]
   }
 }

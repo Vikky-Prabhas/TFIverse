@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "కృష్ణాష్టమి",
   "overview": "Krishnashtami tells the story of an NRI who returns to India with a definite purpose. This romantic entertainer is told with large doses of comedy, romance and family values.",
-  "popularity": 0.3362,
+  "popularity": 1.6294,
   "poster_path": "/gkPeKhzXP1DixmkcVV8kMZRTE96.jpg",
   "production_companies": [
     {
@@ -51,8 +51,8 @@
   "tagline": "",
   "title": "Krishnashtami",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 5,
+  "vote_count": 1,
   "videos": {
     "results": []
   },
@@ -65,8 +65,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 0,
         "character": "",
         "credit_id": "57c729359251417366005fb2",
@@ -79,7 +79,7 @@
         "known_for_department": "Acting",
         "name": "Nikki Galrani",
         "original_name": "Nikki Galrani",
-        "popularity": 0.528,
+        "popularity": 2.0402,
         "profile_path": "/y2cyO4E71hk71RDxMLwDhpIrpAe.jpg",
         "cast_id": 1,
         "character": "",
@@ -93,7 +93,7 @@
         "known_for_department": "Acting",
         "name": "Dimple Chopade",
         "original_name": "Dimple Chopade",
-        "popularity": 0.211,
+        "popularity": 0.6401,
         "profile_path": "/yWuKRA1qH7JgRP3bGGNhX2ffhs6.jpg",
         "cast_id": 7,
         "character": "",
@@ -106,8 +106,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 2,
         "character": "",
@@ -120,8 +120,8 @@
         "id": 86508,
         "known_for_department": "Acting",
         "name": "Ashutosh Rana",
-        "original_name": "Ashutosh Rana",
-        "popularity": 1.0375,
+        "original_name": "आशुतोष राना",
+        "popularity": 3.1976,
         "profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
         "cast_id": 3,
         "character": "",
@@ -135,7 +135,7 @@
         "known_for_department": "Acting",
         "name": "Kabir Duhan Singh",
         "original_name": "Kabir Duhan Singh",
-        "popularity": 0.4091,
+        "popularity": 1.2201,
         "profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
         "cast_id": 4,
         "character": "",
@@ -149,7 +149,7 @@
         "known_for_department": "Acting",
         "name": "Posani Krishna Murali",
         "original_name": "Posani Krishna Murali",
-        "popularity": 0.7494,
+        "popularity": 1.5001,
         "profile_path": "/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
         "cast_id": 5,
         "character": "",
@@ -163,7 +163,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 6,
         "character": "",
@@ -174,25 +174,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 146940,
-        "known_for_department": "Writing",
-        "name": "Kona Venkat",
-        "original_name": "Kona Venkat",
-        "popularity": 0.3756,
-        "profile_path": "/z3ZGmzpnx2zrJNJRonoWKG2FZNN.jpg",
-        "credit_id": "57c72a2092514138d2009fe9",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 558301,
         "known_for_department": "Directing",
         "name": "Vasu Varma",
         "original_name": "Vasu Varma",
-        "popularity": 0.1351,
+        "popularity": 0.3772,
         "profile_path": null,
         "credit_id": "57c72a0cc3a3683e3e00a9b0",
         "department": "Directing",
@@ -201,11 +188,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 146940,
+        "known_for_department": "Writing",
+        "name": "Kona Venkat",
+        "original_name": "Kona Venkat",
+        "popularity": 3.3281,
+        "profile_path": "/z3ZGmzpnx2zrJNJRonoWKG2FZNN.jpg",
+        "credit_id": "57c72a2092514138d2009fe9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1765046,
         "known_for_department": "Crew",
         "name": "Vamsi Kaka",
         "original_name": "Vamsi Kaka",
-        "popularity": 0.2919,
+        "popularity": 0.4537,
         "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
         "credit_id": "59f1da56c3a36806c402ebf5",
         "department": "Crew",
@@ -237,6 +237,12 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [
       {
@@ -263,11 +269,5 @@
         "width": 1000
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Dr Prasad c/o sitara",
   "overview": "",
-  "popularity": 0.2015,
+  "popularity": 0.7552,
   "poster_path": "/uttAR3oWRtfj9QOk37Sdb3bNQ1n.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -50,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.6108,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 1,
         "character": "",
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Krishnudu",
         "original_name": "Krishnudu",
-        "popularity": 0.2076,
+        "popularity": 0.9206,
         "profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
         "cast_id": 2,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Saptagiri",
         "original_name": "Saptagiri",
-        "popularity": 0.377,
+        "popularity": 1.7707,
         "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
         "cast_id": 3,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Suman Shetty",
         "original_name": "Suman Shetty",
-        "popularity": 0.5188,
+        "popularity": 1.1422,
         "profile_path": "/jtTdS29Deevg9O0g11YkkMfHQct.jpg",
         "cast_id": 4,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Chaithanya",
         "original_name": "Chaithanya",
-        "popularity": 0.0261,
+        "popularity": 0.2865,
         "profile_path": null,
         "credit_id": "5d7d3a68713ed4001380c1f8",
         "department": "Directing",
@@ -116,15 +116,15 @@
       }
     ]
   },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt10066396",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -146,6 +146,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -161,8 +164,5 @@
         "width": 562
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "ఒక్క క్షణం",
   "overview": "Jeeva  is an engineering graduate with loving parents who seem to have an obsession with the retro era. The girl he falls in love with, Jo, lives with her sister's family. But what happens when their lives start mirroring with another couple's?",
-  "popularity": 0.3633,
+  "popularity": 0.9523,
   "poster_path": "/4zDmrGOzHjCMttmjopIMnrCoshz.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -45,8 +45,8 @@
   "tagline": "",
   "title": "Okka Kshanam",
   "video": false,
-  "vote_average": 6.6,
-  "vote_count": 9,
+  "vote_average": 6.4,
+  "vote_count": 10,
   "credits": {
     "cast": [
       {
@@ -56,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Allu Sirish",
         "original_name": "Allu Sirish",
-        "popularity": 0.2385,
+        "popularity": 1.6607,
         "profile_path": "/1AVhdx7Itm7dOgpnaRWRTXR5v46.jpg",
         "cast_id": 0,
         "character": "Jeeva",
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Surbhi",
         "original_name": "Surbhi",
-        "popularity": 0.4779,
+        "popularity": 2.3144,
         "profile_path": "/oVdvoiFu6JFkSnmCgTSPM3KsUXj.jpg",
         "cast_id": 1,
         "character": "Jyotsna \"Jo\"",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Avasarala",
         "original_name": "Srinivas Avasarala",
-        "popularity": 0.5232,
+        "popularity": 1.2066,
         "profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
         "cast_id": 2,
         "character": "Srinivas",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Seerat Kapoor",
         "original_name": "Seerat Kapoor",
-        "popularity": 0.1939,
+        "popularity": 0.9988,
         "profile_path": "/unU0edQFnyAfKiFBDFTProMOA8c.jpg",
         "cast_id": 3,
         "character": "Swathi",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Shakalaka Shankar",
         "original_name": "Shakalaka Shankar",
-        "popularity": 0.1469,
+        "popularity": 0.8855,
         "profile_path": "/8GC12tVgzCWQOwVAoqQbQmCkTLE.jpg",
         "cast_id": 11,
         "character": "",
@@ -126,7 +126,7 @@
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 12,
         "character": "",
@@ -140,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Praveen",
         "original_name": "Praveen",
-        "popularity": 0.2637,
+        "popularity": 1.3924,
         "profile_path": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg",
         "cast_id": 13,
         "character": "",
@@ -154,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Dasari Arun Kumar",
         "original_name": "Dasari Arun Kumar",
-        "popularity": 0.1554,
+        "popularity": 0.6333,
         "profile_path": "/yxUGS08Jn4KC1IOHdLbTAbdToKd.jpg",
         "cast_id": 14,
         "character": "",
@@ -170,7 +170,7 @@
         "known_for_department": "Visual Effects",
         "name": "Yugandhar Tammareddy",
         "original_name": "Yugandhar Tammareddy",
-        "popularity": 0.1872,
+        "popularity": 0.3968,
         "profile_path": null,
         "credit_id": "641fe9f78d22fc007cff4b62",
         "department": "Visual Effects",
@@ -179,28 +179,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1391960,
-        "known_for_department": "Writing",
-        "name": "Vi Anand",
-        "original_name": "Vi Anand",
-        "popularity": 0.2062,
-        "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
-        "credit_id": "5a4ed2959251417a69003930",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1391960,
-        "known_for_department": "Writing",
-        "name": "Vi Anand",
-        "original_name": "Vi Anand",
-        "popularity": 0.2062,
-        "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
-        "credit_id": "5a4ed51d0e0a26576e003c21",
-        "department": "Writing",
-        "job": "Screenplay"
+        "id": 225317,
+        "known_for_department": "Sound",
+        "name": "Mani Sharma",
+        "original_name": "Mani Sharma",
+        "popularity": 0.4997,
+        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+        "credit_id": "5a4ed5670e0a26576b003b16",
+        "department": "Sound",
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
@@ -209,7 +196,7 @@
         "known_for_department": "Camera",
         "name": "Shyam K. Naidu",
         "original_name": "Shyam K. Naidu",
-        "popularity": 0.2257,
+        "popularity": 0.3322,
         "profile_path": null,
         "credit_id": "5a4ed59e9251417a69003cad",
         "department": "Camera",
@@ -222,24 +209,11 @@
         "known_for_department": "Writing",
         "name": "Vi Anand",
         "original_name": "Vi Anand",
-        "popularity": 0.2062,
+        "popularity": 0.3616,
         "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
-        "credit_id": "5a4ed28c0e0a265765003915",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 225317,
-        "known_for_department": "Sound",
-        "name": "Mani Sharma",
-        "original_name": "Mani Sharma",
-        "popularity": 0.3339,
-        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
-        "credit_id": "5a4ed5670e0a26576b003b16",
-        "department": "Sound",
-        "job": "Original Music Composer"
+        "credit_id": "5a4ed2959251417a69003930",
+        "department": "Writing",
+        "job": "Story"
       },
       {
         "adult": false,
@@ -248,7 +222,20 @@
         "known_for_department": "Writing",
         "name": "Vi Anand",
         "original_name": "Vi Anand",
-        "popularity": 0.2062,
+        "popularity": 0.3616,
+        "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
+        "credit_id": "5a4ed28c0e0a265765003915",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391960,
+        "known_for_department": "Writing",
+        "name": "Vi Anand",
+        "original_name": "Vi Anand",
+        "popularity": 0.3616,
         "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
         "credit_id": "5a4ed52b0e0a26577a003c26",
         "department": "Writing",
@@ -261,11 +248,24 @@
         "known_for_department": "Editing",
         "name": "Chota K. Prasad",
         "original_name": "Chota K. Prasad",
-        "popularity": 0.1206,
+        "popularity": 0.3887,
         "profile_path": null,
         "credit_id": "5a4ed5ca0e0a265777003ca8",
         "department": "Editing",
         "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391960,
+        "known_for_department": "Writing",
+        "name": "Vi Anand",
+        "original_name": "Vi Anand",
+        "popularity": 0.3616,
+        "profile_path": "/AnY6sIOCYMwuYU5NTeVvgOTZadn.jpg",
+        "credit_id": "5a4ed51d0e0a26576e003c21",
+        "department": "Writing",
+        "job": "Screenplay"
       }
     ]
   },
@@ -281,6 +281,20 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Oka Kshanam",
+        "type": "Telugu"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Andha Oru Nimisham",
+        "type": "Hindi"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -373,20 +387,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 962
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Oka Kshanam",
-        "type": "Telugu"
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Andha Oru Nimisham",
-        "type": "Hindi"
       }
     ]
   }

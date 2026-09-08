@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "G-Zombie",
   "overview": "Sara is a research student who wants to make an immunity booster to save humanity. Her experiment however turns people into zombies and in comes Dhruva to save the day.",
-  "popularity": 0.1835,
+  "popularity": 0.9003,
   "poster_path": "/wkugO5QrnKB3sJsl41Gg913BCsD.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Aryan Gowra",
         "original_name": "Aryan Gowra",
-        "popularity": 0.0286,
+        "popularity": 0.4111,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Dhivya",
         "original_name": "Dhivya",
-        "popularity": 0.0143,
+        "popularity": 0.4016,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Rajsekhar Aningi",
         "original_name": "Rajsekhar Aningi",
-        "popularity": 0.2779,
+        "popularity": 0.7403,
         "profile_path": "/94HucKw853cUKaZOEpTheZCq54M.jpg",
         "cast_id": 3,
         "character": "",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Gowtham Avula",
         "original_name": "Gowtham Avula",
-        "popularity": 0.0071,
+        "popularity": 0.2754,
         "profile_path": null,
         "cast_id": 9,
         "character": "Banty",
@@ -119,20 +119,7 @@
         "known_for_department": "Acting",
         "name": "Aryan Gowra",
         "original_name": "Aryan Gowra",
-        "popularity": 0.0286,
-        "profile_path": null,
-        "credit_id": "601fab0ec2b9df003f9bb30d",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2677421,
-        "known_for_department": "Acting",
-        "name": "Aryan Gowra",
-        "original_name": "Aryan Gowra",
-        "popularity": 0.0286,
+        "popularity": 0.4111,
         "profile_path": null,
         "credit_id": "601fab156dc5070040bc91ce",
         "department": "Writing",
@@ -145,24 +132,11 @@
         "known_for_department": "Directing",
         "name": "Deepu",
         "original_name": "Deepu",
-        "popularity": 0.1404,
+        "popularity": 0.3218,
         "profile_path": null,
         "credit_id": "601fab2b263462003bf628cd",
         "department": "Directing",
         "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2629716,
-        "known_for_department": "Directing",
-        "name": "Deepu",
-        "original_name": "Deepu",
-        "popularity": 0.1404,
-        "profile_path": null,
-        "credit_id": "601fab3b6dc507003dbc9448",
-        "department": "Writing",
-        "job": "Writer"
       },
       {
         "adult": false,
@@ -171,16 +145,39 @@
         "known_for_department": "Camera",
         "name": "B. Rajashekar",
         "original_name": "B. Rajashekar",
-        "popularity": 0.1165,
+        "popularity": 0.3021,
         "profile_path": null,
         "credit_id": "601fab8be27260003d72c530",
         "department": "Camera",
         "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2629716,
+        "known_for_department": "Directing",
+        "name": "Deepu",
+        "original_name": "Deepu",
+        "popularity": 0.3218,
+        "profile_path": null,
+        "credit_id": "601fab3b6dc507003dbc9448",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2677421,
+        "known_for_department": "Acting",
+        "name": "Aryan Gowra",
+        "original_name": "Aryan Gowra",
+        "popularity": 0.4111,
+        "profile_path": null,
+        "credit_id": "601fab0ec2b9df003f9bb30d",
+        "department": "Directing",
+        "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": [
@@ -196,6 +193,32 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "UA",
+            "descriptors": [],
+            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
+            "note": "",
+            "release_date": "2021-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "G Zombie",
+        "type": "Alternate"
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -244,30 +267,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "UA",
-            "descriptors": [],
-            "iso_639_1": "{\"folded_name\"=>\"Telugu\", \"english_name\"=>\"Telugu\", \"iso_639_1\"=>\"te\", \"native_name\"=>\"Telugu\"}",
-            "note": "",
-            "release_date": "2021-02-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "G Zombie",
-        "type": "Alternate"
-      }
-    ]
+  "videos": {
+    "results": []
   }
 }

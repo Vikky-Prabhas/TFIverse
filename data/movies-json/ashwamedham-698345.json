@@ -25,8 +25,8 @@
   ],
   "original_language": "te",
   "original_title": "అశ్వమేధం",
-  "overview": "Abhimanyu (Shobhan Babu) is an honest IPS officer who arrests an international mafia don smuggler Vyaghra (Amrish Puri), but Vyaghra somehow escapes from the prison. Kiriti (Nandamuri Balakrishna) is a pilot younger brother of Abhimanyu. With his brother's help; Abhimanyu kills Vyaghra. Then it is revealed that the person who has died is Anil Vyaghra who has a twin brother Sunil Vyaghra (also Amrish Puri) who owes to take revenge on the 2 brothers who are responsible for his brother's death. Anil Vyaghra proves that Abhimanyu is a corrupt officer, and has killed an honest man. Abhimanyu is arrested and he not able withstand the injustice, so he commits suicide. After that they inject poison in Kireeti's body and plan bomb blasts across India. Kireeti somehow stops the blasts from happening and kills all the baddie.",
-  "popularity": 0.5253,
+  "overview": "Abhimanyu, an honest IPS officer, enlists the help of his brother, Kireeti, and kills a notorious smuggler, Vyaghra. However, things take a dangerous turn when Vyaghra's twin swears revenge.",
+  "popularity": 1.5602,
   "poster_path": "/kV8WI9zvXr5oGf7vFnCQ2saQ3qK.jpg",
   "production_companies": [
     {
@@ -57,7 +57,7 @@
   "tagline": "",
   "title": "Ashwamedham",
   "video": false,
-  "vote_average": 8.833,
+  "vote_average": 8.8,
   "vote_count": 3,
   "credits": {
     "cast": [
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 1,
         "character": "Keeriti",
@@ -82,10 +82,10 @@
         "known_for_department": "Acting",
         "name": "Sobhan Babu",
         "original_name": "Sobhan Babu",
-        "popularity": 0.4878,
+        "popularity": 1.0959,
         "profile_path": "/t7AZwl1hs56SnayALuAlOM4gesj.jpg",
         "cast_id": 2,
-        "character": "Abhimanyu",
+        "character": "Abhimanyu IPS",
         "credit_id": "5ea92da8cc96830023afb725",
         "order": 1
       },
@@ -96,10 +96,10 @@
         "known_for_department": "Acting",
         "name": "Meena",
         "original_name": "Meena",
-        "popularity": 5.1352,
+        "popularity": 2.76,
         "profile_path": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
         "cast_id": 3,
-        "character": "Bharathi",
+        "character": "Dr. Bharathi",
         "credit_id": "5ea92dba07291c0025ebc991",
         "order": 2
       },
@@ -110,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Nagma",
         "original_name": "Nagma",
-        "popularity": 1.1265,
+        "popularity": 2.0693,
         "profile_path": "/osQbepU8ejfIaeONvAlqsGVCOeC.jpg",
         "cast_id": 4,
         "character": "Sowjanya",
@@ -124,10 +124,10 @@
         "known_for_department": "Acting",
         "name": "Amrish Puri",
         "original_name": "Amrish Puri",
-        "popularity": 3.1375,
+        "popularity": 2.7218,
         "profile_path": "/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg",
         "cast_id": 5,
-        "character": "Anil Vyaghra & Sunil Vyaghra",
+        "character": "Anil Vyaghra / Sunil Vyaghra",
         "credit_id": "5ea92de3cc96830023afb77c",
         "order": 4
       },
@@ -137,9 +137,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "Rayudu",
         "credit_id": "5ea92df7426ae8002649e5c7",
@@ -151,13 +151,83 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "Sivanandam",
         "credit_id": "5ea92e0ccc96830023afb78f",
         "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584685,
+        "known_for_department": "Acting",
+        "name": "Allu Ramalingaiah",
+        "original_name": "Allu Ramalingaiah",
+        "popularity": 2.0609,
+        "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
+        "cast_id": 13,
+        "character": "Tataji",
+        "credit_id": "6a24b5e8d6e67974a72a1d3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584675,
+        "known_for_department": "Acting",
+        "name": "Babu Mohan",
+        "original_name": "Babu Mohan",
+        "popularity": 1.6288,
+        "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
+        "cast_id": 14,
+        "character": "Kannayah",
+        "credit_id": "6a24b5f7a887d4bdf4ec5eb1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237627,
+        "known_for_department": "Acting",
+        "name": "Radha Ravi",
+        "original_name": "ராதாரவி",
+        "popularity": 2.582,
+        "profile_path": "/tyL3XTRkbJVqyVDIE6dHFmv7R4d.jpg",
+        "cast_id": 15,
+        "character": "Avinash",
+        "credit_id": "6a24b608caaaceb597248ba1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430848,
+        "known_for_department": "Acting",
+        "name": "Prasad Babu",
+        "original_name": "Prasad Babu",
+        "popularity": 1.0868,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Inspector Giri",
+        "credit_id": "6a24b619df39dc2d3228604a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237970,
+        "known_for_department": "Acting",
+        "name": "Geetha",
+        "original_name": "Geetha",
+        "popularity": 2.5737,
+        "profile_path": "/lSLF837hWXPWAvMAmO157113r4j.jpg",
+        "cast_id": 17,
+        "character": "Lakshmi",
+        "credit_id": "6a24b6273e99553cbf78cefe",
+        "order": 11
       }
     ],
     "crew": [
@@ -168,7 +238,7 @@
         "known_for_department": "Directing",
         "name": "K Raghavendra Rao",
         "original_name": "K Raghavendra Rao",
-        "popularity": 0.3599,
+        "popularity": 1.5861,
         "profile_path": "/aXUNYnHOFs7GTJPKkscsFjtbUgo.jpg",
         "credit_id": "5ea92e3c2d1e40001d84797f",
         "department": "Directing",
@@ -181,7 +251,7 @@
         "known_for_department": "Production",
         "name": "C. Ashwini Dutt",
         "original_name": "C. Ashwini Dutt",
-        "popularity": 0.1645,
+        "popularity": 0.3164,
         "profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
         "credit_id": "5ea92e48cc9683001cafc8ba",
         "department": "Production",
@@ -190,15 +260,67 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 584223,
+        "known_for_department": "Camera",
+        "name": "A. Vincent",
+        "original_name": "A. Vincent",
+        "popularity": 2.0374,
+        "profile_path": "/vcauu4M5Bd7GJBMYlrWQEhYYV40.jpg",
+        "credit_id": "5fe25e73eb79c2003e4375f3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6068292,
+        "known_for_department": "Writing",
+        "name": "Satyanand",
+        "original_name": "Satyanand",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "6a24b64a30e7adfe3978cea5",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6068292,
+        "known_for_department": "Writing",
+        "name": "Satyanand",
+        "original_name": "Satyanand",
+        "popularity": 0.384,
+        "profile_path": null,
+        "credit_id": "6a24b65014e0cdc3c1285fc8",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 584673,
         "known_for_department": "Writing",
         "name": "Yandamuri Veerendranath",
         "original_name": "Yandamuri Veerendranath",
-        "popularity": 0.2238,
+        "popularity": 0.8362,
         "profile_path": null,
-        "credit_id": "5ea92e5911c0660027b78e71",
+        "credit_id": "6a24b65cdf4cadbdf3286186",
         "department": "Writing",
-        "job": "Writer"
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.4071,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "6a24b6ba78410b04c3ec5d8a",
+        "department": "Editing",
+        "job": "Editor"
       },
       {
         "adult": false,
@@ -206,25 +328,77 @@
         "id": 76888,
         "known_for_department": "Sound",
         "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
         "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "5ea92e762d1e40001d8479a0",
+        "credit_id": "6a24b6c53d79168201780b27",
         "department": "Sound",
-        "job": "Music"
+        "job": "Original Music Composer"
       },
       {
         "adult": false,
         "gender": 2,
-        "id": 584223,
-        "known_for_department": "Camera",
-        "name": "A. Vincent",
-        "original_name": "A. Vincent",
-        "popularity": 0.2209,
-        "profile_path": "/vcauu4M5Bd7GJBMYlrWQEhYYV40.jpg",
-        "credit_id": "5fe25e73eb79c2003e4375f3",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "id": 1660553,
+        "known_for_department": "Writing",
+        "name": "Veturi Sundararama Murthy",
+        "original_name": "Veturi Sundararama Murthy",
+        "popularity": 0.3327,
+        "profile_path": "/nPWQSVKm9gk0lc63z1sQLCTEIHb.jpg",
+        "credit_id": "6a24b6e1d782bf3f3a5d117b",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584585,
+        "known_for_department": "Sound",
+        "name": "S. P. Balasubramaniam",
+        "original_name": "எஸ். பி. பாலசுப்பிரமணியம்",
+        "popularity": 1.1276,
+        "profile_path": "/vKcUYibvLFRPADiNwQtl27e1STy.jpg",
+        "credit_id": "6a24b6f1dd58d3938c78d0c9",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108938,
+        "known_for_department": "Sound",
+        "name": "Asha Bhosle",
+        "original_name": "Asha Bhosle",
+        "popularity": 0.9841,
+        "profile_path": "/vOIKyZIMNHYkeOeGNxEqq2vKc5A.jpg",
+        "credit_id": "6a24b6ff188a593294630cf8",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1872424,
+        "known_for_department": "Sound",
+        "name": "S. Janaki",
+        "original_name": "S. Janaki",
+        "popularity": 0.3872,
+        "profile_path": "/idhDokv4l7UCC34Zf8IdLg8e40W.jpg",
+        "credit_id": "6a24b70bfe71c7a3f8ec5e76",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1738680,
+        "known_for_department": "Sound",
+        "name": "K. S. Chithra",
+        "original_name": "K. S. Chithra",
+        "popularity": 0.413,
+        "profile_path": "/qutkAK4SPBY07n0cBSlS0PuVVNd.jpg",
+        "credit_id": "6a24b71a3e99553cbf78cf08",
+        "department": "Sound",
+        "job": "Playback Singer"
       }
     ]
   },
@@ -233,13 +407,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0257416",
-    "wikidata_id": "Q15689310",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -257,9 +424,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -287,5 +451,15 @@
         "width": 500
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0257416",
+    "wikidata_id": "Q15689310",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

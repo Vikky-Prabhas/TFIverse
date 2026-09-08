@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Kottapeta Rowdy",
   "overview": "Kottapeta Rowdy is a 1980 Indian Telugu-language action drama film, produced by Suryanarayana, Satyanarayana under Satya Chitra banner and directed by P. Sambasiva Rao. It stars Krishna, Jaya Prada in lead roles while Chiranjeevi in special appearance and music composed by K. V. Mahadevan.[1][2]",
-  "popularity": 0.3433,
+  "popularity": 0.576,
   "poster_path": "/xzNOiuQ1zLbJaDdeNJXkJ6JNJH0.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.5847,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +54,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2139,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 2,
         "character": "",
@@ -65,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 3,
         "character": "",
@@ -79,8 +82,8 @@
         "known_for_department": "Acting",
         "name": "Jaya Prada",
         "original_name": "Jaya Prada",
-        "popularity": 0.7694,
-        "profile_path": "/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg",
+        "popularity": 2.1445,
+        "profile_path": "/zuPoQYLBKYZXInHxvqwJ1ADrdEY.jpg",
         "cast_id": 4,
         "character": "",
         "credit_id": "666279633c7b5f6c52528727",
@@ -93,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4507,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 5,
         "character": "",
@@ -109,16 +112,13 @@
         "known_for_department": "Directing",
         "name": "Parvataneni Sambasiva Rao",
         "original_name": "P. Sambasiva Rao",
-        "popularity": 0.2009,
+        "popularity": 0.3702,
         "profile_path": null,
         "credit_id": "666279802aea84512f14f1d8",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -127,21 +127,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/xzNOiuQ1zLbJaDdeNJXkJ6JNJH0.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -160,8 +147,21 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/xzNOiuQ1zLbJaDdeNJXkJ6JNJH0.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
   },
   "alternative_titles": {
     "titles": []

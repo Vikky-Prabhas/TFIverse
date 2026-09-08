@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "I SHOOT YOU SHOOT",
   "overview": "Two egoistic artists(an Actor and a Director) team up to make a short film. The Chaos erupt when the Director is not satisfied with the Actor's work which leads to Violent Consequences.",
-  "popularity": 0,
+  "popularity": 0.4397,
   "poster_path": "/2PqxIVFDnxJxebHkbA39pdfjNxv.jpg",
   "production_companies": [],
   "production_countries": [
@@ -44,18 +44,8 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "credits": {
     "cast": [
@@ -66,7 +56,7 @@
         "known_for_department": "Acting",
         "name": "Siddartha Rao",
         "original_name": "Siddartha Rao",
-        "popularity": 0,
+        "popularity": 0.3173,
         "profile_path": null,
         "cast_id": 1,
         "character": "Arun Karthik",
@@ -80,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Sai Teja Turaga",
         "original_name": "Sai Teja Turaga",
-        "popularity": 0,
+        "popularity": 0.2857,
         "profile_path": null,
         "cast_id": 2,
         "character": "Brahma",
@@ -96,7 +86,7 @@
         "known_for_department": "Directing",
         "name": "K. Venkat Ruthvik Reddy",
         "original_name": "K. Venkat Ruthvik Reddy",
-        "popularity": 0.0453,
+        "popularity": 0.2593,
         "profile_path": null,
         "credit_id": "6923e619661e25a7f5dcfe46",
         "department": "Directing",
@@ -109,7 +99,7 @@
         "known_for_department": "Production",
         "name": "Aravind Kariveda",
         "original_name": "Aravind Kariveda",
-        "popularity": 0,
+        "popularity": 0.3138,
         "profile_path": null,
         "credit_id": "6923e635bb30f70ae076907e",
         "department": "Production",
@@ -122,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Manasa Puliventla",
         "original_name": "Manasa Puliventla",
-        "popularity": 0.0071,
+        "popularity": 0.2752,
         "profile_path": null,
         "credit_id": "6923e64277b0c8e69a768db3",
         "department": "Production",
@@ -135,7 +125,7 @@
         "known_for_department": "Directing",
         "name": "K. Venkat Ruthvik Reddy",
         "original_name": "K. Venkat Ruthvik Reddy",
-        "popularity": 0.0453,
+        "popularity": 0.2593,
         "profile_path": null,
         "credit_id": "6923e658d99209a76f32a8ec",
         "department": "Writing",
@@ -148,7 +138,7 @@
         "known_for_department": "Camera",
         "name": "Shankar Reddy",
         "original_name": "Shankar Reddy",
-        "popularity": 0,
+        "popularity": 0.2978,
         "profile_path": null,
         "credit_id": "6923e69049f0ca2869187510",
         "department": "Camera",
@@ -161,7 +151,7 @@
         "known_for_department": "Editing",
         "name": "Kruthik Chowdary",
         "original_name": "Kruthik Chowdary",
-        "popularity": 0,
+        "popularity": 0.2876,
         "profile_path": null,
         "credit_id": "6923e6a66a6a203ec7dcff22",
         "department": "Editing",
@@ -174,7 +164,7 @@
         "known_for_department": "Editing",
         "name": "Ashok Kakarla",
         "original_name": "Ashok Kakarla",
-        "popularity": 0,
+        "popularity": 0.2715,
         "profile_path": null,
         "credit_id": "6923e6b96eec4b27dc32aba5",
         "department": "Editing",
@@ -187,7 +177,7 @@
         "known_for_department": "Sound",
         "name": "Chidvilas",
         "original_name": "Chidvilas",
-        "popularity": 0,
+        "popularity": 0.2832,
         "profile_path": null,
         "credit_id": "6923e6c8fc252bbe40dd4e48",
         "department": "Sound",
@@ -198,8 +188,15 @@
   "release_dates": {
     "results": []
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -216,5 +213,8 @@
         "width": 887
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

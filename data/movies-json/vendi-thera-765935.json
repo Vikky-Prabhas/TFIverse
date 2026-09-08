@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Vendi Thera",
   "overview": "",
-  "popularity": 0.1542,
+  "popularity": 1.2809,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Sai Kiran",
         "original_name": "Sai Kiran",
-        "popularity": 0.2952,
+        "popularity": 0.389,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.271,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 2,
         "character": "",
@@ -81,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Vasantha",
         "original_name": "Vasantha",
-        "popularity": 0.0505,
+        "popularity": 0.3054,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Priya",
         "original_name": "Priya",
-        "popularity": 1.0258,
+        "popularity": 1.0717,
         "profile_path": "/qlUUHYtD6Ccp9mIiJb03mgMp3ai.jpg",
         "cast_id": 4,
         "character": "",
@@ -111,15 +111,6 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Vendithera",
-        "type": ""
-      }
-    ]
   },
   "videos": {
     "results": []
@@ -148,5 +139,14 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Vendithera",
+        "type": ""
+      }
+    ]
   }
 }

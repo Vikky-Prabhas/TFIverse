@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Currency Nagar",
   "overview": "A thrill-seeking robber stumbles upon a fortune in a deceased magician’s abode. But the cash has a voice of its own, and it spins stories of greed, lust, and doom that expose the dark side of avarice.",
-  "popularity": 0.1223,
+  "popularity": 1.4343,
   "poster_path": "/654BEHtpMt5GNCgh1SZDY1qfYJ1.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "Nellore Sudharshan",
         "original_name": "Nellore Sudharshan",
-        "popularity": 0.3654,
+        "popularity": 1.1599,
         "profile_path": "/8kpem5ZHfy90DYyYE9QamqrE6eb.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +54,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Yadlapalli",
         "original_name": "Mahesh Yadlapalli",
-        "popularity": 0.0071,
+        "popularity": 0.4379,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -67,7 +70,7 @@
         "known_for_department": "Sound",
         "name": "R. Pavan",
         "original_name": "R. Pavan",
-        "popularity": 0.0457,
+        "popularity": 0.2971,
         "profile_path": null,
         "credit_id": "65c75372a93d2501844bac83",
         "department": "Sound",
@@ -80,7 +83,7 @@
         "known_for_department": "Sound",
         "name": "Sidharth Sadasivuni",
         "original_name": "Sidharth Sadasivuni",
-        "popularity": 0.0281,
+        "popularity": 0.3082,
         "profile_path": null,
         "credit_id": "65c75355a3144001658d1ad7",
         "department": "Sound",
@@ -93,7 +96,7 @@
         "known_for_department": "Directing",
         "name": "Vennela Kumar Pothepalli",
         "original_name": "Vennela Kumar Pothepalli",
-        "popularity": 0.0143,
+        "popularity": 0.3939,
         "profile_path": null,
         "credit_id": "65c7530d2667780163576007",
         "department": "Writing",
@@ -106,7 +109,7 @@
         "known_for_department": "Directing",
         "name": "Vennela Kumar Pothepalli",
         "original_name": "Vennela Kumar Pothepalli",
-        "popularity": 0.0143,
+        "popularity": 0.3939,
         "profile_path": null,
         "credit_id": "65c752feb6cff10164a4c7a2",
         "department": "Directing",
@@ -119,7 +122,7 @@
         "known_for_department": "Camera",
         "name": "Sathish Rajaboina",
         "original_name": "Sathish Rajaboina",
-        "popularity": 0.0071,
+        "popularity": 0.3496,
         "profile_path": null,
         "credit_id": "65c75328a3144001658d1a9b",
         "department": "Camera",
@@ -129,13 +132,27 @@
   },
   "external_ids": {
     "imdb_id": "tt30460694",
-    "wikidata_id": null,
+    "wikidata_id": "Q124373290",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-12-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
@@ -158,22 +175,5 @@
   },
   "alternative_titles": {
     "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-12-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   }
 }

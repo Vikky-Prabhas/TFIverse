@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Mad Juniors",
   "overview": "Third Part of the MAD franchise",
-  "popularity": 0.1824,
+  "popularity": 0.6715,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "In Production",
+  "status": "Rumored",
   "tagline": "",
   "title": "Mad Juniors",
   "video": false,
@@ -53,7 +53,7 @@
         "known_for_department": "Production",
         "name": "Suryadevara Naga Vamsi",
         "original_name": "Suryadevara Naga Vamsi",
-        "popularity": 0.1702,
+        "popularity": 0.7553,
         "profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
         "credit_id": "67e9771361cac2b3a3f6d357",
         "department": "Production",
@@ -66,7 +66,7 @@
         "known_for_department": "Production",
         "name": "Haarika Suryadevara",
         "original_name": "Haarika Suryadevara",
-        "popularity": 0.0071,
+        "popularity": 0.2888,
         "profile_path": null,
         "credit_id": "67e977273fca90d2dff6e559",
         "department": "Production",
@@ -79,29 +79,13 @@
         "known_for_department": "Writing",
         "name": "Kalyan Shankar",
         "original_name": "Kalyan Shankar",
-        "popularity": 0.1363,
+        "popularity": 0.5286,
         "profile_path": null,
         "credit_id": "696a34d11387bcc37b7f1fc0",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "videos": {
     "results": []
@@ -110,5 +94,21 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   }
 }

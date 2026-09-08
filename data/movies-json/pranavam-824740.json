@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ప్రణవం",
   "overview": "Pranavam is a gripping murder mystery that revolves around Karthik, a fashion photographer arrested for killing his wife. During the interrogation, Karthik tries to prove his innocence but fails. Will the truth come out?",
-  "popularity": 0.1464,
+  "popularity": 0.9802,
   "poster_path": "/jdOzHJjH62QBOlrN0kmmIM8zvDF.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,6 +34,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt13959362",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -43,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Sree Mangam",
         "original_name": "Sree Mangam",
-        "popularity": 0.0071,
+        "popularity": 0.3846,
         "profile_path": null,
         "cast_id": 1,
         "character": "Karthik",
@@ -57,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Gayatri Rema",
         "original_name": "Gayatri Rema",
-        "popularity": 0.1215,
+        "popularity": 0.8923,
         "profile_path": "/dtd5MC4TkGzCUhhIEL30noLFlLK.jpg",
         "cast_id": 2,
         "character": "",
@@ -71,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Gemini Suresh",
         "original_name": "Gemini Suresh",
-        "popularity": 0.1674,
+        "popularity": 0.4622,
         "profile_path": "/dIrotzgWlftCKrqteFq8n4OVY1h.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Avanthika Harinalwa",
         "original_name": "Avanthika Harinalwa",
-        "popularity": 0.0143,
+        "popularity": 0.3796,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -99,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Shashank",
         "original_name": "Shashank",
-        "popularity": 0.1804,
+        "popularity": 0.6079,
         "profile_path": "/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg",
         "cast_id": 6,
         "character": "",
@@ -115,7 +125,7 @@
         "known_for_department": "Directing",
         "name": "G. Kumar",
         "original_name": "G. Kumar",
-        "popularity": 0,
+        "popularity": 0.2849,
         "profile_path": null,
         "credit_id": "608d4cf7221ba6007c69c570",
         "department": "Directing",
@@ -128,7 +138,7 @@
         "known_for_department": "Camera",
         "name": "Margal David",
         "original_name": "Margal David",
-        "popularity": 0,
+        "popularity": 0.2845,
         "profile_path": null,
         "credit_id": "6093e06d528b2e006f5a3f0f",
         "department": "Camera",
@@ -141,33 +151,7 @@
         "known_for_department": "Directing",
         "name": "G. Kumar",
         "original_name": "G. Kumar",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "6093e01d3f8ede004002e7cb",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3080957,
-        "known_for_department": "Sound",
-        "name": "Padmanav Bharadwaj",
-        "original_name": "Padmanav Bharadwaj",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6093e0528d77c40029a4ad44",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1534470,
-        "known_for_department": "Directing",
-        "name": "G. Kumar",
-        "original_name": "G. Kumar",
-        "popularity": 0,
+        "popularity": 0.2849,
         "profile_path": null,
         "credit_id": "6093e00e168ea3002bd1f193",
         "department": "Writing",
@@ -180,23 +164,39 @@
         "known_for_department": "Directing",
         "name": "G. Kumar",
         "original_name": "G. Kumar",
-        "popularity": 0,
+        "popularity": 0.2849,
         "profile_path": null,
         "credit_id": "6093e02b5f4b730058e84096",
         "department": "Writing",
         "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1534470,
+        "known_for_department": "Directing",
+        "name": "G. Kumar",
+        "original_name": "G. Kumar",
+        "popularity": 0.2849,
+        "profile_path": null,
+        "credit_id": "6093e01d3f8ede004002e7cb",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3080957,
+        "known_for_department": "Sound",
+        "name": "Padmanav Bharadwaj",
+        "original_name": "Padmanav Bharadwaj",
+        "popularity": 0.3052,
+        "profile_path": null,
+        "credit_id": "6093e0528d77c40029a4ad44",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt13959362",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -214,6 +214,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -281,9 +284,6 @@
         "width": 630
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "alternative_titles": {
     "titles": []

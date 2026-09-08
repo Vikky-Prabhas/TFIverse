@@ -20,7 +20,7 @@
   "original_language": "te",
   "original_title": "Untitled Rakesh Varre film",
   "overview": "",
-  "popularity": 0.0956,
+  "popularity": 0.4646,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -47,13 +47,6 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
@@ -64,6 +57,13 @@
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "alternative_titles": {
     "titles": []

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "డిగ్రీ కాలేజీ",
   "overview": "A romantic thriller film directed by Narasimha Nandi, starring Varun and Divya Rao in the lead roles.",
-  "popularity": 0.206,
+  "popularity": 0.8631,
   "poster_path": "/q7ld3W0rb5SaR3f91PcPDDrS5VD.jpg",
   "production_companies": [],
   "production_countries": [
@@ -62,26 +62,6 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2020-02-07T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
   "credits": {
     "cast": [
       {
@@ -91,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Divya Rao",
         "original_name": "Divya Rao",
-        "popularity": 0.0357,
+        "popularity": 0.3798,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -105,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Varun Kamal",
         "original_name": "Varun Kamal",
-        "popularity": 0.1287,
+        "popularity": 1.1912,
         "profile_path": "/wKnWH7mLwcyTM0CPZB9m5WmX0TS.jpg",
         "cast_id": 2,
         "character": "",
@@ -119,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Duvvasi Mohan",
         "original_name": "Duvvasi Mohan",
-        "popularity": 0.2355,
+        "popularity": 0.9488,
         "profile_path": "/oN2XhpPwZWXP544QhMrkrekTP2X.jpg",
         "cast_id": 3,
         "character": "",
@@ -133,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi Jaya Vani",
         "original_name": "Gummadi Jaya Vani",
-        "popularity": 0.0662,
+        "popularity": 0.4293,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -142,13 +122,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1199567,
         "known_for_department": "Acting",
-        "name": "R.K. (Mama)",
+        "name": "R. K.",
         "original_name": "R.K. (Mama)",
-        "popularity": 0.2002,
-        "profile_path": null,
+        "popularity": 0.3499,
+        "profile_path": "/4h8jJn9oXoMh3sHZliKlFbgqBZ2.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "5e553ca7a93d25001a4f0625",
@@ -161,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Srinivas Madan",
         "original_name": "Srinivas Madan",
-        "popularity": 0.0143,
+        "popularity": 0.4241,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -177,7 +157,7 @@
         "known_for_department": "Directing",
         "name": "Nandi Narasimha Reddy",
         "original_name": "Nandi Narasimha Reddy",
-        "popularity": 0.0071,
+        "popularity": 0.3003,
         "profile_path": null,
         "credit_id": "5e553cbb35811d00135b2330",
         "department": "Directing",
@@ -198,6 +178,26 @@
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1000
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2020-02-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   },

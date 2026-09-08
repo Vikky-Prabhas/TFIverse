@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "అది ఒక ఇదిలా",
   "overview": "Adi Oka Idile is about a group of friends who grew up together in the same colony and their respective life journeys.",
-  "popularity": 0.1929,
+  "popularity": 0.6133,
   "poster_path": "/z7RnCc7wuI8UNmKh9RqiW8zuNxw.jpg",
   "production_companies": [
     {
@@ -68,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Sabyasachi Mishra",
         "original_name": "Sabyasachi Mishra",
-        "popularity": 0.0777,
+        "popularity": 0.43,
         "profile_path": "/lhxJdnm3WR1xwa5zLFfHxXhUmgM.jpg",
         "cast_id": 1,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Radhika Preeti",
         "original_name": "Radhika Preeti",
-        "popularity": 0.0461,
+        "popularity": 0.5388,
         "profile_path": "/ejlWwl0jxxqQlP4WDt6MIHoTHZm.jpg",
         "cast_id": 2,
         "character": "",
@@ -98,20 +98,7 @@
         "known_for_department": "Crew",
         "name": "Swarna Babu",
         "original_name": "Swarna Babu",
-        "popularity": 0.067,
-        "profile_path": null,
-        "credit_id": "65eb091772c13e0185c79f9b",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1653926,
-        "known_for_department": "Crew",
-        "name": "Swarna Babu",
-        "original_name": "Swarna Babu",
-        "popularity": 0.067,
+        "popularity": 0.4251,
         "profile_path": null,
         "credit_id": "65eb08dc66751d0163acfaed",
         "department": "Directing",
@@ -124,46 +111,7 @@
         "known_for_department": "Crew",
         "name": "Swarna Babu",
         "original_name": "Swarna Babu",
-        "popularity": 0.067,
-        "profile_path": null,
-        "credit_id": "65eb0a0294d8a801618f3229",
-        "department": "Crew",
-        "job": "Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4579831,
-        "known_for_department": "Camera",
-        "name": "Sreedhar Narla",
-        "original_name": "Sreedhar Narla",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "65eb09f0d100b601854eedab",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4579833,
-        "known_for_department": "Sound",
-        "name": "Muralidhar Ragi",
-        "original_name": "Muralidhar Ragi",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "65eb0a4494d8a8017b8fc2b9",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1653926,
-        "known_for_department": "Crew",
-        "name": "Swarna Babu",
-        "original_name": "Swarna Babu",
-        "popularity": 0.067,
+        "popularity": 0.4251,
         "profile_path": null,
         "credit_id": "65eb08f05aba32018673432b",
         "department": "Production",
@@ -176,24 +124,11 @@
         "known_for_department": "Crew",
         "name": "Swarna Babu",
         "original_name": "Swarna Babu",
-        "popularity": 0.067,
+        "popularity": 0.4251,
         "profile_path": null,
-        "credit_id": "65eb092072c13e00c9c33433",
+        "credit_id": "65eb091772c13e0185c79f9b",
         "department": "Writing",
-        "job": "Screenplay"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1653868,
-        "known_for_department": "Editing",
-        "name": "Basava Peddireddy",
-        "original_name": "Basava Peddireddy",
-        "popularity": 0.0815,
-        "profile_path": null,
-        "credit_id": "65eb095b7f4f210162dbbd29",
-        "department": "Editing",
-        "job": "Editor"
+        "job": "Story"
       },
       {
         "adult": false,
@@ -202,22 +137,94 @@
         "known_for_department": "Crew",
         "name": "Swarna Babu",
         "original_name": "Swarna Babu",
-        "popularity": 0.067,
+        "popularity": 0.4251,
+        "profile_path": null,
+        "credit_id": "65eb092072c13e00c9c33433",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1653926,
+        "known_for_department": "Crew",
+        "name": "Swarna Babu",
+        "original_name": "Swarna Babu",
+        "popularity": 0.4251,
         "profile_path": null,
         "credit_id": "65eb0929d100b601854eeca6",
         "department": "Writing",
         "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653868,
+        "known_for_department": "Editing",
+        "name": "Basava Peddireddy",
+        "original_name": "Basava Peddireddy",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "65eb095b7f4f210162dbbd29",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4579831,
+        "known_for_department": "Camera",
+        "name": "Sreedhar Narla",
+        "original_name": "Sreedhar Narla",
+        "popularity": 0.2627,
+        "profile_path": null,
+        "credit_id": "65eb09f0d100b601854eedab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1653926,
+        "known_for_department": "Crew",
+        "name": "Swarna Babu",
+        "original_name": "Swarna Babu",
+        "popularity": 0.4251,
+        "profile_path": null,
+        "credit_id": "65eb0a0294d8a801618f3229",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4579833,
+        "known_for_department": "Sound",
+        "name": "Muralidhar Ragi",
+        "original_name": "Muralidhar Ragi",
+        "popularity": 0.2638,
+        "profile_path": null,
+        "credit_id": "65eb0a4494d8a8017b8fc2b9",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
   },
   "videos": {
     "results": []
   },
+  "release_dates": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt10275964",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [
@@ -264,12 +271,5 @@
         "type": "Tamilish"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt10275964",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

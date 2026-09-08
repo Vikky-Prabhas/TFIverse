@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Pellamto Panenti",
   "overview": "Madhu rejects the advances of a few women because he does not believe in love. However, his life takes a turn when he discovers that Kalyani, a girl who loves him, is suffering from a fatal illness.",
-  "popularity": 0.3102,
+  "popularity": 2.4025,
   "poster_path": "/avBYwq1JZ9s5AdZAuzAOTv0wHv4.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,9 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +40,7 @@
         "known_for_department": "Acting",
         "name": "Venu Thottempudi",
         "original_name": "Venu Thottempudi",
-        "popularity": 0.2179,
+        "popularity": 1.5611,
         "profile_path": "/aqyK4ftAxsDPAAYJrUHXMImsJWu.jpg",
         "cast_id": 1,
         "character": "",
@@ -51,7 +54,7 @@
         "known_for_department": "Acting",
         "name": "Laya",
         "original_name": "Laya",
-        "popularity": 0.5604,
+        "popularity": 1.6177,
         "profile_path": "/uRj5rqDmmKHtNQLneMzEpaX2dcD.jpg",
         "cast_id": 2,
         "character": "",
@@ -64,9 +67,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 3,
         "character": "",
         "credit_id": "631a2516426ae8007ad7d84e",
@@ -78,8 +81,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 4,
         "character": "",
@@ -93,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 5,
         "character": "",
@@ -105,9 +108,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 6,
         "character": "",
@@ -123,23 +126,13 @@
         "known_for_department": "Directing",
         "name": "S.V. Krishna Reddy",
         "original_name": "S.V. Krishna Reddy",
-        "popularity": 0.4144,
+        "popularity": 1.6282,
         "profile_path": "/pL4vAq0RsXipGfAZ0bI07rcmxZS.jpg",
         "credit_id": "631a255dcaef2d00794afcbb",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0381484",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -160,6 +153,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0381484",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],

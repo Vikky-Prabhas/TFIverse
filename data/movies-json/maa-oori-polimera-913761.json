@@ -27,7 +27,7 @@
   "original_language": "te",
   "original_title": "మా ఊరి పొలిమేర‌",
   "overview": "In a village plagued by black magic, a policeman sets off to seek justice for his brother's meaningless murder but discovers something unexpected.",
-  "popularity": 0.3141,
+  "popularity": 0.9459,
   "poster_path": "/zwavTmcoZ8wim3uUz5hZvH9hCH6.jpg",
   "production_companies": [
     {
@@ -60,6 +60,9 @@
   "video": false,
   "vote_average": 6.2,
   "vote_count": 7,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -69,7 +72,7 @@
         "known_for_department": "Acting",
         "name": "Satyam Rajesh",
         "original_name": "Satyam Rajesh",
-        "popularity": 0.379,
+        "popularity": 1.1168,
         "profile_path": "/jpOrcCfCCTcsZLnsPQi7OjN9eWJ.jpg",
         "cast_id": 1,
         "character": "Komaraiah",
@@ -83,7 +86,7 @@
         "known_for_department": "Acting",
         "name": "Baladitya",
         "original_name": "Baladitya",
-        "popularity": 0.1528,
+        "popularity": 0.4297,
         "profile_path": null,
         "cast_id": 6,
         "character": "Jangaiyah",
@@ -97,7 +100,7 @@
         "known_for_department": "Acting",
         "name": "Kamakshi Bhaskarla",
         "original_name": "Kamakshi Bhaskarla",
-        "popularity": 0.4011,
+        "popularity": 0.6851,
         "profile_path": "/rS6eRKX0ZldriYdZjx6zf8faoHH.jpg",
         "cast_id": 5,
         "character": "Lakshmi",
@@ -111,7 +114,7 @@
         "known_for_department": "Acting",
         "name": "Getup Srinu",
         "original_name": "Getup Srinu",
-        "popularity": 0.3831,
+        "popularity": 1.535,
         "profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
         "cast_id": 2,
         "character": "Balija",
@@ -125,7 +128,7 @@
         "known_for_department": "Acting",
         "name": "Sahiti Dasari",
         "original_name": "Sahiti Dasari",
-        "popularity": 0.0286,
+        "popularity": 0.4259,
         "profile_path": "/vxjFVoSfEXv0TGIK0bllHEgKcMJ.jpg",
         "cast_id": 7,
         "character": "Ramula",
@@ -139,7 +142,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Varma",
         "original_name": "Ravi Varma",
-        "popularity": 0.2472,
+        "popularity": 0.9523,
         "profile_path": "/5aBHgnBcIdAkWp9TNAg2DQf4KhJ.jpg",
         "cast_id": 3,
         "character": "Sarpanch",
@@ -153,7 +156,7 @@
         "known_for_department": "Acting",
         "name": "Chitram Seenu",
         "original_name": "Chitram Seenu",
-        "popularity": 0.3623,
+        "popularity": 1.0353,
         "profile_path": "/eCS28XnylQPrweJ9h5xzsa7F6EW.jpg",
         "cast_id": 4,
         "character": "Kavitha's Brother",
@@ -167,7 +170,7 @@
         "known_for_department": "Acting",
         "name": "Ramya Ponduri",
         "original_name": "Ramya Ponduri",
-        "popularity": 0.1533,
+        "popularity": 0.3641,
         "profile_path": null,
         "cast_id": 8,
         "character": "Kavitha",
@@ -181,7 +184,7 @@
         "known_for_department": "Acting",
         "name": "Yogi Khatri",
         "original_name": "Yogi Khatri",
-        "popularity": 0.0453,
+        "popularity": 0.4452,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -195,7 +198,7 @@
         "known_for_department": "Acting",
         "name": "Palasa Janardhan",
         "original_name": "Palasa Janardhan",
-        "popularity": 0.0286,
+        "popularity": 0.3368,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -209,7 +212,7 @@
         "known_for_department": "Writing",
         "name": "Vikrant",
         "original_name": "Vikrant",
-        "popularity": 0.0362,
+        "popularity": 0.2632,
         "profile_path": null,
         "cast_id": 17,
         "character": "",
@@ -225,7 +228,7 @@
         "known_for_department": "Camera",
         "name": "Jagan Chavali",
         "original_name": "Jagan Chavali",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "61b29053c175b20087e60c67",
         "department": "Camera",
@@ -233,129 +236,12 @@
       },
       {
         "adult": false,
-        "gender": 0,
-        "id": 3342152,
-        "known_for_department": "Writing",
-        "name": "Vikrant",
-        "original_name": "Vikrant",
-        "popularity": 0.0362,
-        "profile_path": null,
-        "credit_id": "61b290aac175b2001f813640",
-        "department": "Writing",
-        "job": "Dialogue"
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 3237637,
-        "known_for_department": "Acting",
-        "name": "Kamakshi Bhaskarla",
-        "original_name": "Kamakshi Bhaskarla",
-        "popularity": 0.4011,
-        "profile_path": "/rS6eRKX0ZldriYdZjx6zf8faoHH.jpg",
-        "credit_id": "61b290e812970c00973d51a7",
-        "department": "Directing",
-        "job": "Assistant Director"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 2258062,
         "known_for_department": "Directing",
         "name": "Anil Viswanath",
         "original_name": "Anil Viswanath",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "61b291f6992fe60089dd2d11",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2258062,
-        "known_for_department": "Directing",
-        "name": "Anil Viswanath",
-        "original_name": "Anil Viswanath",
-        "popularity": 0.0338,
-        "profile_path": null,
-        "credit_id": "61b291e8eea34d004201214e",
-        "department": "Writing",
-        "job": "Story"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1967839,
-        "known_for_department": "Production",
-        "name": "Bhogendra Gupta",
-        "original_name": "Bhogendra Gupta",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "61b291c323a314001c0ae568",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 2499482,
-        "known_for_department": "Directing",
-        "name": "Babji",
-        "original_name": "Babji",
-        "popularity": 0.0757,
-        "profile_path": null,
-        "credit_id": "61b28fdca2d2e9001c35c63c",
-        "department": "Art",
-        "job": "Production Design"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2988735,
-        "known_for_department": "Costume & Make-Up",
-        "name": "Mudasar Mohammad",
-        "original_name": "Mudasar Mohammad",
-        "popularity": 0.0473,
-        "profile_path": null,
-        "credit_id": "61b28fe80d2f530042367174",
-        "department": "Costume & Make-Up",
-        "job": "Costume Design"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3342146,
-        "known_for_department": "Sound",
-        "name": "Gyaani",
-        "original_name": "Gyaani",
-        "popularity": 0.0789,
-        "profile_path": null,
-        "credit_id": "61b29030b6c2640042bc23f6",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 3342143,
-        "known_for_department": "Crew",
-        "name": "Action Ahmed",
-        "original_name": "Action Ahmed",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "61b290072d531a001c990401",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2258062,
-        "known_for_department": "Directing",
-        "name": "Anil Viswanath",
-        "original_name": "Anil Viswanath",
-        "popularity": 0.0338,
+        "popularity": 0.3861,
         "profile_path": null,
         "credit_id": "61b291efeea34d0042012153",
         "department": "Writing",
@@ -364,17 +250,141 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2499482,
+        "known_for_department": "Directing",
+        "name": "Babji",
+        "original_name": "Babji",
+        "popularity": 0.3221,
+        "profile_path": null,
+        "credit_id": "61b28fdca2d2e9001c35c63c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342146,
+        "known_for_department": "Sound",
+        "name": "Gyaani",
+        "original_name": "Gyaani",
+        "popularity": 0.3241,
+        "profile_path": null,
+        "credit_id": "61b29030b6c2640042bc23f6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2988735,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mudasar Mohammad",
+        "original_name": "Mudasar Mohammad",
+        "popularity": 0.3531,
+        "profile_path": null,
+        "credit_id": "61b28fe80d2f530042367174",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342152,
+        "known_for_department": "Writing",
+        "name": "Vikrant",
+        "original_name": "Vikrant",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "61b290aac175b2001f813640",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1967839,
+        "known_for_department": "Production",
+        "name": "Bhogendra Gupta",
+        "original_name": "Bhogendra Gupta",
+        "popularity": 0.2625,
+        "profile_path": null,
+        "credit_id": "61b291c323a314001c0ae568",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258062,
+        "known_for_department": "Directing",
+        "name": "Anil Viswanath",
+        "original_name": "Anil Viswanath",
+        "popularity": 0.3861,
+        "profile_path": null,
+        "credit_id": "61b291e8eea34d004201214e",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258062,
+        "known_for_department": "Directing",
+        "name": "Anil Viswanath",
+        "original_name": "Anil Viswanath",
+        "popularity": 0.3861,
+        "profile_path": null,
+        "credit_id": "61b291f6992fe60089dd2d11",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3237637,
+        "known_for_department": "Acting",
+        "name": "Kamakshi Bhaskarla",
+        "original_name": "Kamakshi Bhaskarla",
+        "popularity": 0.6851,
+        "profile_path": "/rS6eRKX0ZldriYdZjx6zf8faoHH.jpg",
+        "credit_id": "61b290e812970c00973d51a7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342143,
+        "known_for_department": "Crew",
+        "name": "Action Ahmed",
+        "original_name": "Action Ahmed",
+        "popularity": 0.2625,
+        "profile_path": null,
+        "credit_id": "61b290072d531a001c990401",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 2160296,
         "known_for_department": "Editing",
         "name": "Karthika Srinivas",
         "original_name": "Karthika Srinivas",
-        "popularity": 0.1935,
+        "popularity": 0.3469,
         "profile_path": "/sIG1GLTq0CizSQP15qjHg7GzVw6.jpg",
         "credit_id": "63fd9a0a7a4ee700aaac35fb",
         "department": "Editing",
         "job": "Editor"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt16404416",
+    "wikidata_id": "Q118218689",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -383,16 +393,6 @@
         "name": "black magic"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt16404416",
-    "wikidata_id": "Q118218689",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -410,9 +410,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -471,5 +468,8 @@
         "width": 1334
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Laxmi Kataksham",
   "overview": "Arjun is a sincere cop and was kept under suspension for 6 months. After 6 months, when Dharma is going to contest as MLA in General elections, Arjun uses his full force along with a high plan of action and will be posted in the same Constituency for election protocol where he puts Dharma out of the MLA race. The conflict is How Dharma will uses his political support and money in his constituency for winning the race and how Arjun puts Dharma out of the MLA Race.",
-  "popularity": 0.0429,
+  "popularity": 0.4235,
   "poster_path": "/o4jkPUqqfckLJtKdISl190SJriv.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,17 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "external_ids": {
-    "imdb_id": "tt32316503",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
@@ -74,8 +63,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "external_ids": {
+    "imdb_id": "tt32316503",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": []
@@ -106,5 +99,12 @@
         "width": 900
       }
     ]
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

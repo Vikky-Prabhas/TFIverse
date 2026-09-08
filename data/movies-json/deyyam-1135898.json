@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Deyyam",
   "overview": "This film explores the competing strengths of a father's love and an evil spirit's will to possess.",
-  "popularity": 0.1838,
+  "popularity": 0.5488,
   "poster_path": "/o4SJf6KM2Ze5wwvnU7GRjLR4E04.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,6 +28,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -37,7 +47,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.2812,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 2,
         "character": "",
@@ -53,16 +63,13 @@
         "known_for_department": "Directing",
         "name": "Ram Gopal Varma",
         "original_name": "Ram Gopal Varma",
-        "popularity": 0.7367,
+        "popularity": 2.0455,
         "profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
         "credit_id": "647c712393828e00a764f1ec",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "release_dates": {
     "results": [
@@ -80,16 +87,6 @@
         ]
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -109,5 +106,8 @@
         "width": 853
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

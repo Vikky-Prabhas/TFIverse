@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "జ్వాలాద్వీప రహస్యం",
   "overview": "A young man sets out on a quest to free his parents who were imprisoned on a remote and secret island by a rogue immortal king guided by an evil wizard.",
-  "popularity": 0.1264,
+  "popularity": 1.0915,
   "poster_path": "/5BwVOgOcUa4fLevlVBUJTYJjMXH.jpg",
   "production_companies": [
     {
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.2123,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 1,
         "character": "Ananda Kumara Varma",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Rajanala Kaleswara Rao",
         "original_name": "Rajanala Kaleswara Rao",
-        "popularity": 0.1181,
+        "popularity": 0.5475,
         "profile_path": "/fYnCbXV0Fh9eUrPgQI2YOwXdsw3.jpg",
         "cast_id": 2,
         "character": "Bhalnataka Varma",
@@ -106,11 +106,11 @@
         "known_for_department": "Directing",
         "name": "B. Vittalacharya",
         "original_name": "B. Vittalacharya",
-        "popularity": 0.1769,
+        "popularity": 1.2261,
         "profile_path": "/5VVol9nOqcUhjUyspmjA27daqVC.jpg",
-        "credit_id": "630a32da3dd126007b2e7dbb",
-        "department": "Writing",
-        "job": "Screenplay"
+        "credit_id": "630a32a7dcb6a3007bb3bccc",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -119,32 +119,11 @@
         "known_for_department": "Directing",
         "name": "B. Vittalacharya",
         "original_name": "B. Vittalacharya",
-        "popularity": 0.1769,
+        "popularity": 1.2261,
         "profile_path": "/5VVol9nOqcUhjUyspmjA27daqVC.jpg",
-        "credit_id": "630a32a7dcb6a3007bb3bccc",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "external_ids": {
-    "imdb_id": "tt1510775",
-    "wikidata_id": "Q12998174",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Jwala Dweepa Rahasyam",
-        "type": ""
-      },
-      {
-        "iso_3166_1": "IN",
-        "title": "Jwaladweepa Rahasyam",
-        "type": ""
+        "credit_id": "630a32da3dd126007b2e7dbb",
+        "department": "Writing",
+        "job": "Screenplay"
       }
     ]
   },
@@ -164,6 +143,20 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Jwala Dweepa Rahasyam",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Jwaladweepa Rahasyam",
+        "type": ""
+      }
+    ]
+  },
   "release_dates": {
     "results": [
       {
@@ -180,6 +173,13 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1510775",
+    "wikidata_id": "Q12998174",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "images": {
     "backdrops": [],

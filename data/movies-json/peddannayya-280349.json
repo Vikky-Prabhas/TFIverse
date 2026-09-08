@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పెద్దన్నయ్య",
   "overview": "Pedda Annayya is a 1997 Telugu film directed by Sharath. The film stars Balakrishna, Roja Selvamani, Indraja and Kota Srinivasan Rao in lead roles.",
-  "popularity": 0.2921,
+  "popularity": 1.8149,
   "poster_path": "/hmyELtWPvOoxJm8aDSpOniMpaHG.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.5728,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 3,
         "character": "",
@@ -62,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Roja Selvamani",
         "original_name": "Roja Selvamani",
-        "popularity": 0.3732,
+        "popularity": 1.5373,
         "profile_path": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg",
         "cast_id": 4,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Indraja",
         "original_name": "Indraja",
-        "popularity": 0.4271,
+        "popularity": 1.4897,
         "profile_path": "/p9MJgtbY0N32nI2ugjBPDpIsqRi.jpg",
         "cast_id": 5,
         "character": "",
@@ -89,9 +89,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.681,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "53b6d0f10e0a2676bb0057da",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Charan Raj",
         "original_name": "Charan Raj",
-        "popularity": 0.5279,
+        "popularity": 1.0584,
         "profile_path": "/mmEb8jPvyhg6BisENTxM3LQpaCr.jpg",
         "cast_id": 7,
         "character": "",
@@ -117,8 +117,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 8,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Annapoorna",
         "original_name": "Annapoorna",
-        "popularity": 0.5291,
+        "popularity": 1.6302,
         "profile_path": "/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg",
         "cast_id": 9,
         "character": "",
@@ -146,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "Madhurima Narla",
         "original_name": "Madhurima Narla",
-        "popularity": 0.3053,
+        "popularity": 1.0105,
         "profile_path": "/1mMmMsOQGFP6GKFEJ7MR4qfgje2.jpg",
         "cast_id": 11,
         "character": "",
@@ -162,7 +162,7 @@
         "known_for_department": "Directing",
         "name": "Sarath",
         "original_name": "Sarath",
-        "popularity": 0.1617,
+        "popularity": 0.6515,
         "profile_path": null,
         "credit_id": "620e87641d0191001b4fd807",
         "department": "Directing",
@@ -175,7 +175,7 @@
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "53b6d0e00e0a2676b8005630",
         "department": "Sound",
@@ -188,7 +188,7 @@
         "known_for_department": "Production",
         "name": "Nandamuri Ramakrishna",
         "original_name": "Nandamuri Ramakrishna",
-        "popularity": 0.0071,
+        "popularity": 0.2929,
         "profile_path": null,
         "credit_id": "53b6d0ed0e0a2676bf005748",
         "department": "Production",
@@ -199,6 +199,9 @@
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt1579854",
     "wikidata_id": "Q13002759",
@@ -206,8 +209,21 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hmyELtWPvOoxJm8aDSpOniMpaHG.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 900
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -223,22 +239,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1350,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/hmyELtWPvOoxJm8aDSpOniMpaHG.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 900
       }
     ]
   },

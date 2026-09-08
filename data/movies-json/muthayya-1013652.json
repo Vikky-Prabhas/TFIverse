@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Muthayya",
   "overview": "In a remote village, a 70-year-old man dreams of becoming an actor before he dies. While sharing these dreams with his best friend, he tries to showcase his acting skills in every way possible.",
-  "popularity": 0.0297,
+  "popularity": 0.5522,
   "poster_path": "/zLSRAqCLUJY8hB1UmYdBLvfK0Me.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,132 +48,18 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 2701136,
-        "known_for_department": "Acting",
-        "name": "Sudhakar Reddy",
-        "original_name": "Sudhakar Reddy",
-        "popularity": 0.0589,
-        "profile_path": null,
-        "cast_id": 6,
-        "character": "Muthayya",
-        "credit_id": "681498bba6e14b7ab89129a4",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5410552,
-        "known_for_department": "Acting",
-        "name": "Mounika Bomma",
-        "original_name": "Mounika Bomma",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 2,
-        "character": "Shailu",
-        "credit_id": "68148e17ce0d2f3d6e141968",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5410553,
-        "known_for_department": "Acting",
-        "name": "Purna Chandra",
-        "original_name": "Purna Chandra",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 3,
-        "character": "Narasimha",
-        "credit_id": "68148e3c46c5e0c804907a78",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5410575,
-        "known_for_department": "Acting",
-        "name": "Kiran Kumar",
-        "original_name": "Kiran Kumar",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6814911c2dc731ed490896cb",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5410615,
-        "known_for_department": "Acting",
-        "name": "Sai Leela Pooja",
-        "original_name": "Sai Leela Pooja",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "681497cc638b0bd3f01419b9",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4545383,
-        "known_for_department": "Directing",
-        "name": "Arun Raj",
-        "original_name": "Arun Raj",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 7,
-        "character": "Malli",
-        "credit_id": "681498d9c34d18caec9129ac",
-        "order": 5
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5410626,
-        "known_for_department": "Acting",
-        "name": "Jayavardhan Sagar",
-        "original_name": "Jayavardhan Sagar",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 8,
-        "character": "",
-        "credit_id": "681498f0200060f4d1912a3e",
-        "order": 6
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 4404627,
-        "known_for_department": "Directing",
-        "name": "Bhaskhar Maurya",
-        "original_name": "Bhaskhar Maurya",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "656856ff680be800c6e0d54b",
-        "department": "Directing",
-        "job": "Director"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt23643788",
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [
@@ -202,8 +88,8 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -230,7 +116,121 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2701136,
+        "known_for_department": "Acting",
+        "name": "Sudhakar Reddy",
+        "original_name": "Sudhakar Reddy",
+        "popularity": 0.6545,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Muthayya",
+        "credit_id": "681498bba6e14b7ab89129a4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410552,
+        "known_for_department": "Acting",
+        "name": "Mounika Bomma",
+        "original_name": "Mounika Bomma",
+        "popularity": 0.2997,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Shailu",
+        "credit_id": "68148e17ce0d2f3d6e141968",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410553,
+        "known_for_department": "Acting",
+        "name": "Purna Chandra",
+        "original_name": "Purna Chandra",
+        "popularity": 0.3015,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Narasimha",
+        "credit_id": "68148e3c46c5e0c804907a78",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410575,
+        "known_for_department": "Acting",
+        "name": "Kiran Kumar",
+        "original_name": "Kiran Kumar",
+        "popularity": 0.3105,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6814911c2dc731ed490896cb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410615,
+        "known_for_department": "Acting",
+        "name": "Sai Leela Pooja",
+        "original_name": "Sai Leela Pooja",
+        "popularity": 0.3341,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "681497cc638b0bd3f01419b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4545383,
+        "known_for_department": "Directing",
+        "name": "Arun Raj",
+        "original_name": "Arun Raj",
+        "popularity": 0.3288,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Malli",
+        "credit_id": "681498d9c34d18caec9129ac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410626,
+        "known_for_department": "Acting",
+        "name": "Jayavardhan Sagar",
+        "original_name": "Jayavardhan Sagar",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "681498f0200060f4d1912a3e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4404627,
+        "known_for_department": "Directing",
+        "name": "Bhaskhar Maurya",
+        "original_name": "Bhaskhar Maurya",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "credit_id": "656856ff680be800c6e0d54b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
   }
 }

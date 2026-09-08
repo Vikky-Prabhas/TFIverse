@@ -12,14 +12,14 @@
   ],
   "original_language": "te",
   "original_title": "Untitled Vijay Deverakonda - Vikram Kumar Movie",
-  "overview": "Plot is unknown.",
-  "popularity": 0.0214,
+  "overview": "",
+  "popularity": 0.8614,
   "poster_path": null,
   "production_companies": [
     {
-      "id": 38582,
-      "logo_path": "/raGURQPCh7EvoBe9XHkOuw6v2o1.png",
-      "name": "Geetha Arts",
+      "id": 86699,
+      "logo_path": "/tFikZRdCEuse5WRG2N7Z4YSNCxr.png",
+      "name": "Maddock Films",
       "origin_country": "IN"
     }
   ],
@@ -33,27 +33,19 @@
   "revenue": 0,
   "runtime": 0,
   "softcore": false,
-  "spoken_languages": [],
-  "status": "Rumored",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "In Production",
   "tagline": "",
   "title": "Untitled Vijay Deverakonda - Vikram Kumar Movie",
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "release_dates": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -63,7 +55,7 @@
         "known_for_department": "Acting",
         "name": "Vijay Deverakonda",
         "original_name": "Vijay Deverakonda",
-        "popularity": 2.3396,
+        "popularity": 1.2732,
         "profile_path": "/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg",
         "cast_id": 1,
         "character": "",
@@ -79,7 +71,7 @@
         "known_for_department": "Directing",
         "name": "Vikram Kumar",
         "original_name": "Vikram Kumar",
-        "popularity": 0.2731,
+        "popularity": 0.8667,
         "profile_path": "/sechyllCPAq9Xtr1EDh7mdKQVI3.jpg",
         "credit_id": "68f0b00f73cecba9c61e2064",
         "department": "Directing",
@@ -88,30 +80,34 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1543647,
+        "id": 102246,
         "known_for_department": "Production",
-        "name": "Vamsi Krishna Reddy",
-        "original_name": "Vamsi Krishna Reddy",
-        "popularity": 0.0486,
-        "profile_path": null,
-        "credit_id": "68f0b08a8cf09150401e2015",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1543646,
-        "known_for_department": "Production",
-        "name": "Pramod Uppalapati",
-        "original_name": "Pramod Uppalapati",
-        "popularity": 0.0541,
-        "profile_path": null,
-        "credit_id": "68f0b094c51d9b431bc23eb6",
+        "name": "Dinesh Vijan",
+        "original_name": "Dinesh Vijan",
+        "popularity": 0.7578,
+        "profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+        "credit_id": "6a1d1fd60395bffb1aefeedc",
         "department": "Production",
         "job": "Producer"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -119,8 +115,5 @@
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

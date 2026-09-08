@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Moodu Mulla Bandham",
   "overview": "Moodu Mulla Bandham (English: Three Knot Relation - Marriage) is a 1980 Telugu, drama film, produced by Rangana Aswartha Narayana, Poonathota Raghuram on Gomatha Art Creations banner and directed by Muthyala Subbaiah. Starring Sarath Babu, Rajendra Prasad, Madhavi in the lead roles and music composed by Satyam.",
-  "popularity": 0.0338,
+  "popularity": 0.4343,
   "poster_path": "/kVfn3acqbMmDODjRlBTKVxuCqg3.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -28,9 +28,22 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": []
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt8768862",
+    "wikidata_id": "Q27590408",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -49,6 +62,9 @@
       }
     ]
   },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -64,21 +80,5 @@
         "width": 500
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt8768862",
-    "wikidata_id": "Q27590408",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Varanasi Part 2",
   "overview": "Second installment of Varanasi.",
-  "popularity": 0,
+  "popularity": 0.4066,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -52,6 +52,16 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "release_dates": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
@@ -59,25 +69,15 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "keywords": {
     "keywords": []
   },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

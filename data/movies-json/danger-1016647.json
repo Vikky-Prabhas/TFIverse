@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Pramadam",
   "overview": "A gang of friends is on a trip, three guys and three girls. Highly enthusiastic and overflowing energy. They lose their way and end up in a forest. The driver loses control and hits a tree. They have to spend the night in a cabin in that forest. They decide to allow the night to pass and see if they can survive the hidden, unknown perils around them. But do they survive the ordeal? Do they return unscathed? How many of them remain alive?",
-  "popularity": 0.085,
+  "popularity": 0.4159,
   "poster_path": "/dSfCNMJtmNeHl6sanJhu4B3XWVs.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -43,16 +43,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -62,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Sambit",
         "original_name": "Sambit",
-        "popularity": 0,
+        "popularity": 0.2629,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -78,7 +68,7 @@
         "known_for_department": "Production",
         "name": "Pradeep Dash",
         "original_name": "Pradeep Dash",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "630725ddb0040a0082285051",
         "department": "Production",
@@ -91,7 +81,7 @@
         "known_for_department": "Sound",
         "name": "Pradeep Kumar Vijayakumar",
         "original_name": "Pradeep Kumar Vijayakumar",
-        "popularity": 0,
+        "popularity": 0.2582,
         "profile_path": null,
         "credit_id": "630725f03dd126007b2d88de",
         "department": "Sound",
@@ -104,7 +94,7 @@
         "known_for_department": "Directing",
         "name": "Tapas Jena",
         "original_name": "Tapas Jena",
-        "popularity": 0,
+        "popularity": 0.2735,
         "profile_path": null,
         "credit_id": "63072614a27502007eedfa33",
         "department": "Directing",
@@ -115,21 +105,8 @@
   "keywords": {
     "keywords": []
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.75,
-        "height": 2304,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/dSfCNMJtmNeHl6sanJhu4B3XWVs.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 1728
-      }
-    ]
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -148,7 +125,30 @@
       }
     ]
   },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dSfCNMJtmNeHl6sanJhu4B3XWVs.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1728
+      }
+    ]
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

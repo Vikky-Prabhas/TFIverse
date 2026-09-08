@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "గోరంత దీపం",
   "overview": "A newly married couple's life turns to shambles, due to the machinations of the husband's supposedly best friend, whose intentions toward the wife are suspicious.",
-  "popularity": 0.1915,
+  "popularity": 0.6578,
   "poster_path": "/iFbbEJeyxuqYhOYdzzwjTCRrzBd.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Vanisri",
         "original_name": "Vanisri",
-        "popularity": 0.543,
+        "popularity": 1.5292,
         "profile_path": "/a3orZ1KKPndvk2DV0sIuXCCVK1f.jpg",
         "cast_id": 1,
         "character": "Padmavati",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 2,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.5446,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 3,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.2205,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 4,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Kanta Rao",
         "original_name": "Kanta Rao",
-        "popularity": 0.2123,
+        "popularity": 0.9033,
         "profile_path": "/75sR0b4eTPI1VLoHOeuRO5pPCDj.jpg",
         "cast_id": 5,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Suryakantham",
         "original_name": "Suryakantham",
-        "popularity": 0.2949,
+        "popularity": 0.9089,
         "profile_path": "/AuZe7FwhUlJtPc6FZHnmpo1OeC5.jpg",
         "cast_id": 6,
         "character": "",
@@ -141,8 +141,8 @@
         "known_for_department": "Acting",
         "name": "G. Varalakshmi",
         "original_name": "G. Varalakshmi",
-        "popularity": 0.2222,
-        "profile_path": null,
+        "popularity": 0.7762,
+        "profile_path": "/syEEQlyE78ywNvxpL7ajc1OKqWp.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "62c330d52da84600817c11a7",
@@ -150,13 +150,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 2,
         "id": 1150027,
         "known_for_department": "Acting",
-        "name": "Saakshi Ranga Rao",
-        "original_name": "Saakshi Ranga Rao",
-        "popularity": 0.0819,
-        "profile_path": null,
+        "name": "Sakshi Ranga Rao",
+        "original_name": "Sakshi Ranga Rao",
+        "popularity": 2.335,
+        "profile_path": "/uqolLMfArFuJzk0PEVPiDWXA2gb.jpg",
         "cast_id": 8,
         "character": "",
         "credit_id": "62c330e3f1b5711fe60e3a9b",
@@ -166,38 +166,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 2692067,
-        "known_for_department": "Sound",
-        "name": "Sajjad Hussain",
-        "original_name": "Sajjad Hussain",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "62c331d0c525c40058c2d66b",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1116397,
-        "known_for_department": "Camera",
-        "name": "Ishan Arya",
-        "original_name": "Ishan Arya",
-        "popularity": 0.0806,
-        "profile_path": null,
-        "credit_id": "62c33136773941004dac6aba",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1025757,
         "known_for_department": "Directing",
         "name": "Bapu",
         "original_name": "Bapu",
-        "popularity": 0.3507,
+        "popularity": 1.3469,
         "profile_path": null,
         "credit_id": "62c33109544c41007c7984dc",
         "department": "Directing",
@@ -206,11 +180,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1116397,
+        "known_for_department": "Camera",
+        "name": "Ishan Arya",
+        "original_name": "Ishan Arya",
+        "popularity": 0.2781,
+        "profile_path": null,
+        "credit_id": "62c33136773941004dac6aba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2675285,
         "known_for_department": "Editing",
         "name": "Mandapati Ramachandraiyah",
         "original_name": "Mandapati Ramachandraiyah",
-        "popularity": 0,
+        "popularity": 0.2566,
         "profile_path": null,
         "credit_id": "62c331982da84600516978fc",
         "department": "Editing",
@@ -223,13 +210,29 @@
         "known_for_department": "Sound",
         "name": "K. V. Mahadevan",
         "original_name": "K. V. Mahadevan",
-        "popularity": 0.1263,
+        "popularity": 0.3367,
         "profile_path": "/sItCos5KpE9SM0Cpf6j9xiCOVlG.jpg",
         "credit_id": "62c331c24a4bfc004df39a9a",
         "department": "Sound",
         "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2692067,
+        "known_for_department": "Sound",
+        "name": "Sajjad Hussain",
+        "original_name": "Sajjad Hussain",
+        "popularity": 0.2575,
+        "profile_path": null,
+        "credit_id": "62c331d0c525c40058c2d66b",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt0155725",
@@ -238,11 +241,27 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
   "videos": {
     "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 850,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/iFbbEJeyxuqYhOYdzzwjTCRrzBd.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 600
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "release_dates": {
     "results": [
@@ -258,25 +277,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.706,
-        "height": 850,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/iFbbEJeyxuqYhOYdzzwjTCRrzBd.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 600
       }
     ]
   }

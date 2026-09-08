@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Vidhi",
   "overview": "Surya, an innocent young man is burdened by financial struggles and injustice, discovers a mysterious pen with a secret. He must acrefully navigate through the blurred lines between revenge and righteousness.",
-  "popularity": 0.2267,
+  "popularity": 0.8978,
   "poster_path": "/oJip8QY786CIHLGkqFI6UtoYCAd.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Rohit Nanda",
         "original_name": "Rohit Nanda",
-        "popularity": 0.0143,
+        "popularity": 0.4061,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Anandhi",
         "original_name": "Anandhi",
-        "popularity": 0.6705,
+        "popularity": 1.0609,
         "profile_path": "/2pGgJ8TowhQfFG6So3pdbN6QCXT.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Achanta",
         "original_name": "Mahesh Achanta",
-        "popularity": 0.3635,
+        "popularity": 0.8305,
         "profile_path": "/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg",
         "cast_id": 3,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Acting",
         "name": "Meesam Suresh",
         "original_name": "Meesam Suresh",
-        "popularity": 0.151,
+        "popularity": 0.4796,
         "profile_path": "/5sTaP4wTqf0uZ27fDttxvvQBjH6.jpg",
         "cast_id": 4,
         "character": "",
@@ -110,7 +110,7 @@
         "known_for_department": "Writing",
         "name": "Srikanth Ranganathan",
         "original_name": "Srikanth Ranganathan",
-        "popularity": 0.0071,
+        "popularity": 0.4333,
         "profile_path": null,
         "credit_id": "6543e17de1ad7900c96584df",
         "department": "Directing",
@@ -119,24 +119,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4353607,
-        "known_for_department": "Writing",
-        "name": "Srikanth Ranganathan",
-        "original_name": "Srikanth Ranganathan",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "credit_id": "6543e1902866fa0138a56d25",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 4353609,
         "known_for_department": "Production",
         "name": "Ranjit Sirigiri",
         "original_name": "Ranjit Sirigiri",
-        "popularity": 0.0071,
+        "popularity": 0.2292,
         "profile_path": null,
         "credit_id": "6543e1a51ac292013b615e05",
         "department": "Production",
@@ -149,11 +136,24 @@
         "known_for_department": "Sound",
         "name": "Sricharan Pakala",
         "original_name": "Sricharan Pakala",
-        "popularity": 0.1149,
+        "popularity": 0.3297,
         "profile_path": null,
         "credit_id": "6543e1b5e1ad7900c96584f4",
         "department": "Sound",
         "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4353607,
+        "known_for_department": "Writing",
+        "name": "Srikanth Ranganathan",
+        "original_name": "Srikanth Ranganathan",
+        "popularity": 0.4333,
+        "profile_path": null,
+        "credit_id": "6543e1902866fa0138a56d25",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
   },
@@ -182,26 +182,6 @@
   },
   "keywords": {
     "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-11-03T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
   },
   "images": {
     "backdrops": [
@@ -240,5 +220,25 @@
         "width": 800
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

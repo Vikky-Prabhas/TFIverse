@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Palnati Brahmanayudu",
   "overview": "S.S.S. Bhavani Prasad appears to be a common man, but has a very powerful past.",
-  "popularity": 0.3605,
+  "popularity": 0.8878,
   "poster_path": "/ywxo9CV1x8fDnJOsL43BaQeIu5u.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -48,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.1705,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 3,
         "character": "Bhavani Prasad",
@@ -61,8 +61,8 @@
         "id": 35754,
         "known_for_department": "Acting",
         "name": "Sonali Bendre",
-        "original_name": "Sonali Bendre",
-        "popularity": 1.2508,
+        "original_name": "सोनाली बेंद्रे",
+        "popularity": 2.1644,
         "profile_path": "/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg",
         "cast_id": 4,
         "character": "Siva Nageswari",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Aarthi Agarwal",
         "original_name": "Aarthi Agarwal",
-        "popularity": 0.6258,
+        "popularity": 1.3565,
         "profile_path": "/1CfRQgbE4uSG6vNKGGYTCIylgDj.jpg",
         "cast_id": 5,
         "character": "Sruthi",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Mukesh Rishi",
         "original_name": "Mukesh Rishi",
-        "popularity": 1.0145,
+        "popularity": 1.5899,
         "profile_path": "/iNLleMqHTHrbAlVRCFyye4NZxxb.jpg",
         "cast_id": 6,
         "character": "",
@@ -104,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 8,
         "character": "",
@@ -117,8 +117,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 9,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Chalapathi Rao",
         "original_name": "Chalapathi Rao",
-        "popularity": 0.3619,
+        "popularity": 2.1919,
         "profile_path": "/51zzAobEchxSwHI1b4tUxrVpQaz.jpg",
         "cast_id": 10,
         "character": "",
@@ -144,9 +144,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 11,
         "character": "",
@@ -160,7 +160,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 12,
         "character": "",
@@ -176,7 +176,7 @@
         "known_for_department": "Directing",
         "name": "B. Gopal",
         "original_name": "B. Gopal",
-        "popularity": 0.2596,
+        "popularity": 1.1269,
         "profile_path": "/c0lIwqgWn5pIfU4tz86HYnL0cb9.jpg",
         "credit_id": "53b6cd9ec3a3685eb1002813",
         "department": "Directing",
@@ -185,48 +185,47 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 225317,
-        "known_for_department": "Sound",
-        "name": "Mani Sharma",
-        "original_name": "Mani Sharma",
-        "popularity": 0.2979,
-        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
-        "credit_id": "53b6cd9f0e0a2676d30056f3",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1070381,
         "known_for_department": "Production",
         "name": "Medikonda Murali Krishna",
         "original_name": "Medikonda Murali Krishna",
-        "popularity": 0.104,
+        "popularity": 0.4164,
         "profile_path": "/8wli45JEk3Cti6wOZ9BVw3hVVbN.jpg",
         "credit_id": "53b6cdb60e0a2676cb0056f9",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225317,
+        "known_for_department": "Sound",
+        "name": "Mani Sharma",
+        "original_name": "Mani Sharma",
+        "popularity": 0.4997,
+        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+        "credit_id": "53b6cd9f0e0a2676d30056f3",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0373219",
+    "wikidata_id": "Q7128481",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": []
   },
-  "release_dates": {
-    "results": [
+  "alternative_titles": {
+    "titles": [
       {
         "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2003-06-05T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "title": "Bhavani The Tiger",
+        "type": "Hindi Dubbed"
       }
     ]
   },
@@ -246,22 +245,23 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt0373219",
-    "wikidata_id": "Q7128481",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "keywords": {
     "keywords": []
   },
-  "alternative_titles": {
-    "titles": [
+  "release_dates": {
+    "results": [
       {
         "iso_3166_1": "IN",
-        "title": "Bhavani The Tiger",
-        "type": "Hindi Dubbed"
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
       }
     ]
   }

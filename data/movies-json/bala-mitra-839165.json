@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Bala Mitra",
   "overview": "Two young medicos, Arjun and Deeksha, are in love but their happiness is shattered when someone kidnaps Deeksha and blackmails Arjun, telling him to kill three people. Arjun follows through on the first two, but things get complicated when he meets a village girl named Vyshali. Will they all get out of this alive?",
-  "popularity": 0.0293,
+  "popularity": 0.4644,
   "poster_path": "/uxHAIj7PpVmsC5ws8GSAbN3iCpn.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -38,7 +38,7 @@
         "known_for_department": "Directing",
         "name": "Shailesh Tiwari",
         "original_name": "Shailesh Tiwari",
-        "popularity": 0,
+        "popularity": 0.2588,
         "profile_path": null,
         "credit_id": "60c51e3e5a46900029fcc6d2",
         "department": "Directing",
@@ -51,7 +51,7 @@
         "known_for_department": "Directing",
         "name": "Shailesh Tiwari",
         "original_name": "Shailesh Tiwari",
-        "popularity": 0,
+        "popularity": 0.2588,
         "profile_path": null,
         "credit_id": "60c51e545b4fed00791f480e",
         "department": "Writing",
@@ -59,15 +59,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt13613338",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -85,6 +78,19 @@
         ]
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt13613338",
+    "wikidata_id": "Q130317708",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -122,11 +128,5 @@
         "width": 500
       }
     ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

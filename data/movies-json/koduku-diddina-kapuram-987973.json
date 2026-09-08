@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "కొడుకు దిద్దిన కాపురం",
   "overview": "Chakravarthy and Sasirekha gets married. But false allegations on Chakravarthy regarding a murder creates misunderstandings between them. Their sons who are identical twins, decides to reunite their parents.",
-  "popularity": 0.2841,
+  "popularity": 2.0238,
   "poster_path": "/wTVZyG5QTjzcm3CUgfstvAHep0i.jpg",
   "production_companies": [
     {
@@ -51,13 +51,6 @@
   "video": false,
   "vote_average": 6.667,
   "vote_count": 3,
-  "external_ids": {
-    "imdb_id": "tt0234046",
-    "wikidata_id": "Q30612884",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "images": {
     "backdrops": [
       {
@@ -85,20 +78,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 5153,
-        "name": "son"
-      },
-      {
-        "id": 5905,
-        "name": "father"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": "tt0234046",
+    "wikidata_id": "Q30612884",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "videos": {
     "results": [
@@ -125,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "cast_id": 1,
         "character": "Chakravarthy",
@@ -139,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Vijayashanti",
         "original_name": "Vijayashanti",
-        "popularity": 0.4156,
+        "popularity": 1.4045,
         "profile_path": "/tUzNRk8vqyEXgi1gE6JCTZcEOHD.jpg",
         "cast_id": 2,
         "character": "Sasirekha",
@@ -153,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Mahesh Babu",
         "original_name": "Mahesh Babu",
-        "popularity": 3.8257,
+        "popularity": 2.406,
         "profile_path": "/fcxgYi1h6vywacUg8asM6S0IIhf.jpg",
         "cast_id": 3,
         "character": "Vinod / Pramod",
@@ -167,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Mohan Babu",
         "original_name": "Mohan Babu",
-        "popularity": 0.5568,
+        "popularity": 2.7182,
         "profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
         "cast_id": 4,
         "character": "Chakradhar",
@@ -181,7 +166,7 @@
         "known_for_department": "Acting",
         "name": "Gummadi",
         "original_name": "Gummadi",
-        "popularity": 0.4149,
+        "popularity": 1.3866,
         "profile_path": "/qKXVkv7RmDKveWWZael013w7h1B.jpg",
         "cast_id": 5,
         "character": "Pattabhi Rama Rao",
@@ -195,8 +180,8 @@
         "known_for_department": "Acting",
         "name": "Prabhakar Reddy",
         "original_name": "Prabhakar Reddy",
-        "popularity": 0.207,
-        "profile_path": null,
+        "popularity": 1.3203,
+        "profile_path": "/j0TqtcxwJOsqLbhovmcSWZs2Tqb.jpg",
         "cast_id": 6,
         "character": "Gopala Krishnaiah Master",
         "credit_id": "62a9f1fd22af3e5212f3c970",
@@ -209,7 +194,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.4574,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 7,
         "character": "Kondaiah",
@@ -223,8 +208,8 @@
         "known_for_department": "Acting",
         "name": "Pradeep Shakti",
         "original_name": "Pradeep Shakti",
-        "popularity": 0.1831,
-        "profile_path": null,
+        "popularity": 0.9482,
+        "profile_path": "/pIRMIvAtpmrdodlzR3HVxctpFog.jpg",
         "cast_id": 8,
         "character": "David",
         "credit_id": "62a9f217eb14fa09de0eb243",
@@ -239,7 +224,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "credit_id": "62a9f2345a5ed0326a9bfc6f",
         "department": "Directing",
@@ -252,7 +237,7 @@
         "known_for_department": "Acting",
         "name": "Venkateswara Rao Paruchuri",
         "original_name": "Venkateswara Rao Paruchuri",
-        "popularity": 0.4845,
+        "popularity": 1.8353,
         "profile_path": "/beZ0WB3lN4KUANKmfZkmgP2wgp8.jpg",
         "credit_id": "62a9f247907f2614f5c3ce67",
         "department": "Writing",
@@ -265,7 +250,7 @@
         "known_for_department": "Writing",
         "name": "Gopalakrishna Paruchuri",
         "original_name": "Gopalakrishna Paruchuri",
-        "popularity": 0.4135,
+        "popularity": 1.8647,
         "profile_path": null,
         "credit_id": "62a9f2513d4d96341d5c8e52",
         "department": "Writing",
@@ -278,7 +263,7 @@
         "known_for_department": "Art",
         "name": "Bhaskara Raju",
         "original_name": "Bhaskara Raju",
-        "popularity": 0.0388,
+        "popularity": 0.3014,
         "profile_path": null,
         "credit_id": "62a9f268875d1a52774c9b1d",
         "department": "Art",
@@ -291,7 +276,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "credit_id": "6943e7ad0d42ba9a1c38bd8c",
         "department": "Writing",
@@ -304,7 +289,7 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "credit_id": "6943e7b83ccf6a85cfdec424",
         "department": "Production",
@@ -317,11 +302,23 @@
         "known_for_department": "Acting",
         "name": "Krishna",
         "original_name": "Krishna",
-        "popularity": 0.2447,
+        "popularity": 1.4125,
         "profile_path": "/85O0Icv3d2DL9EfK44ZXZO8aqIU.jpg",
         "credit_id": "6943e7c250cdeaf72be6e880",
         "department": "Editing",
         "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5153,
+        "name": "son"
+      },
+      {
+        "id": 5905,
+        "name": "father"
       }
     ]
   },
@@ -341,5 +338,8 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

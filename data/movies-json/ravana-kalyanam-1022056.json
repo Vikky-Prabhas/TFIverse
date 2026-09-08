@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "రావణ కళ్యాణం",
   "overview": "",
-  "popularity": 0.1737,
+  "popularity": 1.8937,
   "poster_path": null,
   "production_companies": [
     {
@@ -70,7 +70,7 @@
         "known_for_department": "Acting",
         "name": "Bobby Simha",
         "original_name": "Bobby Simha",
-        "popularity": 0.4516,
+        "popularity": 1.1263,
         "profile_path": "/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg",
         "cast_id": 1,
         "character": "",
@@ -84,7 +84,7 @@
         "known_for_department": "Acting",
         "name": "Sandeep Madhav",
         "original_name": "Sandeep Madhav",
-        "popularity": 0.0457,
+        "popularity": 0.438,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -98,7 +98,7 @@
         "known_for_department": "Acting",
         "name": "Deepshika Umapathy",
         "original_name": "Deepshika Umapathy",
-        "popularity": 0.2747,
+        "popularity": 0.3765,
         "profile_path": "/f20SM61Foa1U7eO4KZRA0suam3j.jpg",
         "cast_id": 19,
         "character": "",
@@ -112,7 +112,7 @@
         "known_for_department": "Acting",
         "name": "Reethu Gaayathri",
         "original_name": "Reethu Gaayathri",
-        "popularity": 0.0214,
+        "popularity": 0.3803,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -125,8 +125,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.6529,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 5,
         "character": "",
@@ -140,7 +140,7 @@
         "known_for_department": "Acting",
         "name": "Shatru",
         "original_name": "Shatru",
-        "popularity": 0.4616,
+        "popularity": 1.5386,
         "profile_path": "/9VJhUHAh66pPsMUAgZ3Ik49lcRW.jpg",
         "cast_id": 6,
         "character": "",
@@ -154,7 +154,7 @@
         "known_for_department": "Acting",
         "name": "Rajkumar Kasireddy",
         "original_name": "Rajkumar Kasireddy",
-        "popularity": 0.2317,
+        "popularity": 1.229,
         "profile_path": "/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg",
         "cast_id": 7,
         "character": "",
@@ -168,7 +168,7 @@
         "known_for_department": "Acting",
         "name": "Madhunandan",
         "original_name": "Madhunandan",
-        "popularity": 0.1418,
+        "popularity": 0.9019,
         "profile_path": "/mgdaJCVzD5XczMcYQj9xpFbKiiJ.jpg",
         "cast_id": 8,
         "character": "",
@@ -182,7 +182,7 @@
         "known_for_department": "Acting",
         "name": "Sharath Ravi",
         "original_name": "Sharath Ravi",
-        "popularity": 0.3219,
+        "popularity": 1.7314,
         "profile_path": "/5hgdkBe06e6xRRTPvQEPcoanC2u.jpg",
         "cast_id": 9,
         "character": "",
@@ -196,7 +196,7 @@
         "known_for_department": "Acting",
         "name": "Ananth Babu",
         "original_name": "Ananth Babu",
-        "popularity": 0.2663,
+        "popularity": 0.8884,
         "profile_path": "/6gtD5IYIbEG8KzaSDMDrDWGvTnR.jpg",
         "cast_id": 10,
         "character": "",
@@ -210,7 +210,7 @@
         "known_for_department": "Acting",
         "name": "Gundu Sudarshan",
         "original_name": "Gundu Sudarshan",
-        "popularity": 0.2765,
+        "popularity": 0.7857,
         "profile_path": "/cuOnqGLUlO3A3bkhilC8B2xTqkC.jpg",
         "cast_id": 11,
         "character": "",
@@ -221,12 +221,38 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 1363449,
+        "known_for_department": "Acting",
+        "name": "Reshmi Menon",
+        "original_name": "Reshmi Menon",
+        "popularity": 0.8182,
+        "profile_path": "/5PYg5svleQeigYRZf91lziYBWc.jpg",
+        "credit_id": "6319940dcaef2d009758a2af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 3692736,
         "known_for_department": "Directing",
         "name": "JV Maddhu Kiran",
         "original_name": "JV Maddhu Kiran",
-        "popularity": 0.0143,
+        "popularity": 0.2819,
+        "profile_path": null,
+        "credit_id": "631994b5002134007f8e00b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3692736,
+        "known_for_department": "Directing",
+        "name": "JV Maddhu Kiran",
+        "original_name": "JV Maddhu Kiran",
+        "popularity": 0.2819,
         "profile_path": null,
         "credit_id": "631994bbd9554b0098069021",
         "department": "Writing",
@@ -239,7 +265,7 @@
         "known_for_department": "Camera",
         "name": "Siddam Manohar",
         "original_name": "Siddam Manohar",
-        "popularity": 0.0722,
+        "popularity": 0.3291,
         "profile_path": null,
         "credit_id": "6319942f46e75f00a5759cb4",
         "department": "Camera",
@@ -252,7 +278,7 @@
         "known_for_department": "Sound",
         "name": "Radhan",
         "original_name": "Radhan",
-        "popularity": 0.1057,
+        "popularity": 0.4321,
         "profile_path": "/8fJbIfph53BOACVz59IIMRoPr4Y.jpg",
         "credit_id": "63199438d9554b0098068fd6",
         "department": "Sound",
@@ -261,37 +287,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 3692736,
-        "known_for_department": "Directing",
-        "name": "JV Maddhu Kiran",
-        "original_name": "JV Maddhu Kiran",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "631994b5002134007f8e00b0",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 3324291,
-        "known_for_department": "Editing",
-        "name": "R. Srikanth Patnaik",
-        "original_name": "R. Srikanth Patnaik",
-        "popularity": 0.068,
-        "profile_path": null,
-        "credit_id": "6319944acaef2d007e72ab3d",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3692734,
         "known_for_department": "Production",
         "name": "Surapaneni Arun Kumar",
         "original_name": "Surapaneni Arun Kumar",
-        "popularity": 0,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "6319948262fcd3008141ee81",
         "department": "Production",
@@ -300,28 +300,17 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1363449,
-        "known_for_department": "Acting",
-        "name": "Reshmi Menon",
-        "original_name": "Reshmi Menon",
-        "popularity": 0.1629,
-        "profile_path": "/5PYg5svleQeigYRZf91lziYBWc.jpg",
-        "credit_id": "6319940dcaef2d009758a2af",
-        "department": "Production",
-        "job": "Producer"
+        "id": 3324291,
+        "known_for_department": "Editing",
+        "name": "R. Srikanth Patnaik",
+        "original_name": "R. Srikanth Patnaik",
+        "popularity": 0.3088,
+        "profile_path": null,
+        "credit_id": "6319944acaef2d007e72ab3d",
+        "department": "Editing",
+        "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   },
   "external_ids": {
     "imdb_id": null,
@@ -330,10 +319,21 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": []
+  },
   "keywords": {
     "keywords": []
   },
+  "release_dates": {
+    "results": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   }
 }

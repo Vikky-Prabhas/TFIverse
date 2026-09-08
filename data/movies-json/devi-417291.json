@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Devi",
   "overview": "Devi, a snake goddess, stays on earth to protect the girl whose father saved her life from greedy relatives and from the snake demon, Dantra.",
-  "popularity": 0.2588,
+  "popularity": 1.2067,
   "poster_path": "/j8fytkjNFmBz9Ip1fb8XvbaLlBD.jpg",
   "production_companies": [
     {
@@ -55,8 +55,129 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 2,
-  "videos": {
-    "results": []
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586683,
+        "known_for_department": "Acting",
+        "name": "Prema",
+        "original_name": "Prema",
+        "popularity": 1.2555,
+        "profile_path": "/96TTnxdUQToLziNr7Qw1caByRGD.jpg",
+        "cast_id": 3,
+        "character": "Devi",
+        "credit_id": "57e33716925141123700119b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 580644,
+        "known_for_department": "Acting",
+        "name": "Abu Salim",
+        "original_name": "Abu Salim",
+        "popularity": 5.221,
+        "profile_path": "/rSCrEKr80UeUWqDCkBWhwhNXRv8.jpg",
+        "cast_id": 4,
+        "character": "Dantra (Snake Demon)",
+        "credit_id": "57e3372a92514112460011b3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585109,
+        "known_for_department": "Acting",
+        "name": "Mahendran",
+        "original_name": "Mahendran",
+        "popularity": 1.5328,
+        "profile_path": "/eqv9gaikHJkzrTA78VdWxVcnbyo.jpg",
+        "cast_id": 6,
+        "character": "Young Tantra",
+        "credit_id": "602e64b5223e20004099d68c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332986,
+        "known_for_department": "Acting",
+        "name": "Shiju",
+        "original_name": "Shiju",
+        "popularity": 1.6122,
+        "profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "64245c376905fb012607f240",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552982,
+        "known_for_department": "Directing",
+        "name": "Kodi Ramakrishna",
+        "original_name": "Kodi Ramakrishna",
+        "popularity": 1.5666,
+        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
+        "credit_id": "57e336ccc3a36875a1001373",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552982,
+        "known_for_department": "Directing",
+        "name": "Kodi Ramakrishna",
+        "original_name": "Kodi Ramakrishna",
+        "popularity": 1.5666,
+        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
+        "credit_id": "57e336aa9251411246001159",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1683195,
+        "known_for_department": "Writing",
+        "name": "Mohan Nair",
+        "original_name": "Mohan Nair",
+        "popularity": 0.2713,
+        "profile_path": null,
+        "credit_id": "57e336f19251411246001190",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 237984,
+        "known_for_department": "Production",
+        "name": "M. S. Raju",
+        "original_name": "M. S. Raju",
+        "popularity": 0.5932,
+        "profile_path": null,
+        "credit_id": "5c22654292514167efc3ab8e",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0313965",
+    "wikidata_id": "Q9206626",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -75,132 +196,11 @@
       }
     ]
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 586683,
-        "known_for_department": "Acting",
-        "name": "Prema",
-        "original_name": "Prema",
-        "popularity": 0.2052,
-        "profile_path": "/96TTnxdUQToLziNr7Qw1caByRGD.jpg",
-        "cast_id": 3,
-        "character": "Devi",
-        "credit_id": "57e33716925141123700119b",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 580644,
-        "known_for_department": "Acting",
-        "name": "Abu Salim",
-        "original_name": "Abu Salim",
-        "popularity": 0.4757,
-        "profile_path": "/rSCrEKr80UeUWqDCkBWhwhNXRv8.jpg",
-        "cast_id": 4,
-        "character": "Dantra (Snake Demon)",
-        "credit_id": "57e3372a92514112460011b3",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 585109,
-        "known_for_department": "Acting",
-        "name": "Mahendran",
-        "original_name": "Mahendran",
-        "popularity": 0.3232,
-        "profile_path": "/eqv9gaikHJkzrTA78VdWxVcnbyo.jpg",
-        "cast_id": 6,
-        "character": "Young Tantra",
-        "credit_id": "602e64b5223e20004099d68c",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1332986,
-        "known_for_department": "Acting",
-        "name": "Shiju",
-        "original_name": "Shiju",
-        "popularity": 0.1075,
-        "profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
-        "cast_id": 7,
-        "character": "",
-        "credit_id": "64245c376905fb012607f240",
-        "order": 3
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 552982,
-        "known_for_department": "Directing",
-        "name": "Kodi Ramakrishna",
-        "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
-        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
-        "credit_id": "57e336ccc3a36875a1001373",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 552982,
-        "known_for_department": "Directing",
-        "name": "Kodi Ramakrishna",
-        "original_name": "Kodi Ramakrishna",
-        "popularity": 0.3076,
-        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
-        "credit_id": "57e336aa9251411246001159",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1683195,
-        "known_for_department": "Writing",
-        "name": "Mohan Nair",
-        "original_name": "Mohan Nair",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "57e336f19251411246001190",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 237984,
-        "known_for_department": "Production",
-        "name": "M. S. Raju",
-        "original_name": "M. S. Raju",
-        "popularity": 0.3215,
-        "profile_path": null,
-        "credit_id": "5c22654292514167efc3ab8e",
-        "department": "Production",
-        "job": "Producer"
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
   },
-  "external_ids": {
-    "imdb_id": "tt0313965",
-    "wikidata_id": "Q9206626",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],

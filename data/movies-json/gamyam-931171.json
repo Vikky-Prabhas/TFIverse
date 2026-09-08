@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Gamyam",
   "overview": "Gamyam is a 1998 Indian Telugu film released on 1998. The film is directed by G. Anil, produced by Smt. Aruna Babji.",
-  "popularity": 0.0776,
+  "popularity": 0.4,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -32,16 +32,6 @@
     "cast": [],
     "crew": []
   },
-  "external_ids": {
-    "imdb_id": "tt1576393",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
@@ -51,9 +41,19 @@
   "alternative_titles": {
     "titles": []
   },
+  "release_dates": {
+    "results": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1576393",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

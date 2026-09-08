@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "The Blind Beater",
   "overview": "About an Investigator taking the case of a blind man who gets attacked by an unknown person.",
-  "popularity": 0.0379,
+  "popularity": 0.5539,
   "poster_path": "/1M9Y5tGoVUPrbaZeNdSM3RLw6kc.jpg",
   "production_companies": [
     {
@@ -46,176 +46,15 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "videos": {
-    "results": []
+  "keywords": {
+    "keywords": []
   },
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405787,
-        "known_for_department": "Acting",
-        "name": "Devendra",
-        "original_name": "Devendra",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 7,
-        "character": "Devendra",
-        "credit_id": "68119cd57416980159616d01",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405789,
-        "known_for_department": "Acting",
-        "name": "Jai Sai kiran",
-        "original_name": "Jai Sai kiran",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 8,
-        "character": "Jai Sai kiran",
-        "credit_id": "68119cec090403d837616cfd",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405790,
-        "known_for_department": "Acting",
-        "name": "Navya",
-        "original_name": "Navya",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 9,
-        "character": "Navya",
-        "credit_id": "68119d0079b159bf6414545a",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405792,
-        "known_for_department": "Acting",
-        "name": "Mohith",
-        "original_name": "Mohith",
-        "popularity": 0.0071,
-        "profile_path": null,
-        "cast_id": 10,
-        "character": "Mohith",
-        "credit_id": "68119d2d42fd04c8bd815b1a",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405793,
-        "known_for_department": "Acting",
-        "name": "Chandu",
-        "original_name": "Chandu",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 11,
-        "character": "Chandu",
-        "credit_id": "68119d489693fbd1d2ddb43e",
-        "order": 4
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405794,
-        "known_for_department": "Acting",
-        "name": "Srikanth",
-        "original_name": "Srikanth",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 12,
-        "character": "Srikanth",
-        "credit_id": "68119d4fa2a18ade17eeba4b",
-        "order": 5
-      }
-    ],
-    "crew": [
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405777,
-        "known_for_department": "Writing",
-        "name": "Nikhil Punyala",
-        "original_name": "Nikhil Punyala",
-        "popularity": 0,
-        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
-        "credit_id": "68119b79fe2280501a1453c9",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405777,
-        "known_for_department": "Writing",
-        "name": "Nikhil Punyala",
-        "original_name": "Nikhil Punyala",
-        "popularity": 0,
-        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
-        "credit_id": "68119b8bf960f94f5e14541f",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405777,
-        "known_for_department": "Writing",
-        "name": "Nikhil Punyala",
-        "original_name": "Nikhil Punyala",
-        "popularity": 0,
-        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
-        "credit_id": "68119bf7463040548727eb67",
-        "department": "Crew",
-        "job": "Cinematography"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405777,
-        "known_for_department": "Writing",
-        "name": "Nikhil Punyala",
-        "original_name": "Nikhil Punyala",
-        "popularity": 0,
-        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
-        "credit_id": "68119c6b115904cb56969425",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405777,
-        "known_for_department": "Writing",
-        "name": "Nikhil Punyala",
-        "original_name": "Nikhil Punyala",
-        "popularity": 0,
-        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
-        "credit_id": "68119c7efe2280501a1453e4",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5405784,
-        "known_for_department": "Production",
-        "name": "Krish",
-        "original_name": "Krish",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "68119c9d247ed9731c14554a",
-        "department": "Production",
-        "job": "Producer"
-      }
-    ]
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -234,18 +73,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": null,
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -260,6 +89,177 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405787,
+        "known_for_department": "Acting",
+        "name": "Devendra",
+        "original_name": "Devendra",
+        "popularity": 0.251,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Devendra",
+        "credit_id": "68119cd57416980159616d01",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405789,
+        "known_for_department": "Acting",
+        "name": "Jai Sai kiran",
+        "original_name": "Jai Sai kiran",
+        "popularity": 0.4977,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Jai Sai kiran",
+        "credit_id": "68119cec090403d837616cfd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405790,
+        "known_for_department": "Acting",
+        "name": "Navya",
+        "original_name": "Navya",
+        "popularity": 0.3256,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Navya",
+        "credit_id": "68119d0079b159bf6414545a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405792,
+        "known_for_department": "Acting",
+        "name": "Mohith",
+        "original_name": "Mohith",
+        "popularity": 0.4907,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Mohith",
+        "credit_id": "68119d2d42fd04c8bd815b1a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405793,
+        "known_for_department": "Acting",
+        "name": "Chandu",
+        "original_name": "Chandu",
+        "popularity": 0.3334,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Chandu",
+        "credit_id": "68119d489693fbd1d2ddb43e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405794,
+        "known_for_department": "Acting",
+        "name": "Srikanth",
+        "original_name": "Srikanth",
+        "popularity": 0.3829,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Srikanth",
+        "credit_id": "68119d4fa2a18ade17eeba4b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405777,
+        "known_for_department": "Writing",
+        "name": "Nikhil Punyala",
+        "original_name": "Nikhil Punyala",
+        "popularity": 0.3371,
+        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
+        "credit_id": "68119b79fe2280501a1453c9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405777,
+        "known_for_department": "Writing",
+        "name": "Nikhil Punyala",
+        "original_name": "Nikhil Punyala",
+        "popularity": 0.3371,
+        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
+        "credit_id": "68119b8bf960f94f5e14541f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405777,
+        "known_for_department": "Writing",
+        "name": "Nikhil Punyala",
+        "original_name": "Nikhil Punyala",
+        "popularity": 0.3371,
+        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
+        "credit_id": "68119bf7463040548727eb67",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405777,
+        "known_for_department": "Writing",
+        "name": "Nikhil Punyala",
+        "original_name": "Nikhil Punyala",
+        "popularity": 0.3371,
+        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
+        "credit_id": "68119c6b115904cb56969425",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405777,
+        "known_for_department": "Writing",
+        "name": "Nikhil Punyala",
+        "original_name": "Nikhil Punyala",
+        "popularity": 0.3371,
+        "profile_path": "/e390ctqSkmGQ6dF9AR9T066Y1mp.jpg",
+        "credit_id": "68119c7efe2280501a1453e4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5405784,
+        "known_for_department": "Production",
+        "name": "Krish",
+        "original_name": "Krish",
+        "popularity": 0.3085,
+        "profile_path": null,
+        "credit_id": "68119c9d247ed9731c14554a",
+        "department": "Production",
+        "job": "Producer"
       }
     ]
   }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "President Gari Pellam",
   "overview": "Swapna pretends to be Raja's lover to humiliate him in front of the villagers. In retaliation, Raja challenges her father and stands opposite him to become the next village chief.",
-  "popularity": 0.4044,
+  "popularity": 0.7062,
   "poster_path": "/Ryq1koV7Na1mkkJq9UNVEnz0Cw.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,6 +33,12 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "images": {
     "backdrops": [],
     "logos": [
@@ -60,13 +66,6 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1579866",
-    "wikidata_id": "Q7241222",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "release_dates": {
     "results": [
       {
@@ -84,12 +83,6 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "alternative_titles": {
     "titles": []
   },
@@ -102,8 +95,8 @@
         "known_for_department": "Acting",
         "name": "Nagarjuna Akkineni",
         "original_name": "Nagarjuna Akkineni",
-        "popularity": 1.0828,
-        "profile_path": "/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg",
+        "popularity": 1.781,
+        "profile_path": "/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg",
         "cast_id": 1,
         "character": "",
         "credit_id": "631b811c4b0c630085275545",
@@ -116,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Meena",
         "original_name": "Meena",
-        "popularity": 5.1352,
+        "popularity": 2.76,
         "profile_path": "/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
         "cast_id": 2,
         "character": "",
@@ -130,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4606,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 3,
         "character": "",
@@ -144,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Srikanth",
         "original_name": "శ్రీకాంత్",
-        "popularity": 0.6502,
+        "popularity": 3.4944,
         "profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
         "cast_id": 4,
         "character": "",
@@ -156,9 +149,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 5,
         "character": "",
@@ -171,9 +164,9 @@
         "id": 141695,
         "known_for_department": "Acting",
         "name": "Kota Srinivasa Rao",
-        "original_name": "Kota Srinivasa Rao",
-        "popularity": 0.6862,
-        "profile_path": "/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg",
+        "original_name": "కోట శ్రీనివాస రావు",
+        "popularity": 1.7515,
+        "profile_path": "/qLaoB9jAfyTrJh7neJ9ajhpSuev.jpg",
         "cast_id": 6,
         "character": "",
         "credit_id": "631b814fa199a600872b4358",
@@ -185,8 +178,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 7,
         "character": "",
@@ -198,9 +191,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.8312,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 8,
         "character": "",
@@ -216,12 +209,19 @@
         "known_for_department": "Directing",
         "name": "A. Kodandarami Reddy",
         "original_name": "A. Kodandarami Reddy",
-        "popularity": 0.3713,
+        "popularity": 1.4088,
         "profile_path": "/fiCud1dJJNu1ZIPmwWjqj8fJekP.jpg",
         "credit_id": "631b817454508d00819ff162",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1579866",
+    "wikidata_id": "Q7241222",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "మేక సూరి 2",
   "overview": "Meka Suri succeeds in taking revenge. But later he gets pulled deeper in the crime world and he becomes one of the most wanted criminals. The raw, rustic feel of the film is the USP.",
-  "popularity": 0.1578,
+  "popularity": 0.6205,
   "poster_path": "/gXAVuWQ7BDyKcPCtbu3iiStDDhR.jpg",
   "production_companies": [],
   "production_countries": [
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Sumaya Syed",
         "original_name": "Sumaya Syed",
-        "popularity": 0.0368,
+        "popularity": 0.3642,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Abhinay",
         "original_name": "Abhinay",
-        "popularity": 0.2582,
+        "popularity": 0.9408,
         "profile_path": "/zdSY2nEFyOSZGCMGpZ4dvh5I1zq.jpg",
         "cast_id": 3,
         "character": "",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Lirisha Kunapareddy",
         "original_name": "Lirisha Kunapareddy",
-        "popularity": 0.2259,
+        "popularity": 0.4828,
         "profile_path": "/gmOIH2RpfZ8CVGXdS48jiK7GYV0.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Naresh Byreddy",
         "original_name": "Naresh Byreddy",
-        "popularity": 0,
+        "popularity": 0.3295,
         "profile_path": null,
         "cast_id": 5,
         "character": "",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Pramod",
         "original_name": "Pramod",
-        "popularity": 0.0286,
+        "popularity": 0.2819,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -129,26 +129,13 @@
         "known_for_department": "Directing",
         "name": "Trinadh Velisila",
         "original_name": "Trinadh Velisila",
-        "popularity": 0.0362,
+        "popularity": 0.2862,
         "profile_path": null,
         "credit_id": "5fc01ad0dd926a004077ae85",
         "department": "Directing",
         "job": "Director"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt12845062",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -167,6 +154,22 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt12845062",
+    "wikidata_id": "Q106610080",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "alternative_titles": {
+    "titles": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -182,8 +185,5 @@
         "width": 500
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

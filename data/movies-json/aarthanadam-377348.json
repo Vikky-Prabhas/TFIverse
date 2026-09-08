@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Aarthanadam",
   "overview": "When an actress is murdered, it is up to her brother to find her killer and bring him/her to justice",
-  "popularity": 0.312,
+  "popularity": 1.6055,
   "poster_path": null,
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Seetha",
         "original_name": "Seetha",
-        "popularity": 0.6028,
+        "popularity": 5.0529,
         "profile_path": "/gMIqg8c4gnP9mO40rCW7Sc0ei8D.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Dr. Rajasekhar",
         "original_name": "Dr. Rajasekhar",
-        "popularity": 0.271,
+        "popularity": 1.4374,
         "profile_path": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg",
         "cast_id": 4,
         "character": "",
@@ -91,8 +91,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 5,
         "character": "",
@@ -104,9 +104,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.6123,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 6,
         "character": "",
@@ -122,7 +122,7 @@
         "known_for_department": "Camera",
         "name": "M. V. Raghu",
         "original_name": "M. V. Raghu",
-        "popularity": 0.1353,
+        "popularity": 0.3114,
         "profile_path": null,
         "credit_id": "57673ac6925141129900039d",
         "department": "Directing",
@@ -130,13 +130,8 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "external_ids": {
     "imdb_id": "",
@@ -145,11 +140,8 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "videos": {
-    "results": []
-  },
-  "alternative_titles": {
-    "titles": []
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -167,5 +159,13 @@
         ]
       }
     ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

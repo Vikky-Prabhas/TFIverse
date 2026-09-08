@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -25,33 +25,67 @@
   ],
   "original_language": "te",
   "original_title": "కొరియన్ కనకరాజు",
-  "overview": "",
-  "popularity": 0.21,
-  "poster_path": "/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
-  "production_companies": [],
+  "overview": "Follows a Rayalaseema youth named Kanakaraju whose life upends when a vessel from Korea brings a spirit that possesses him, transforming him into Korean Kanakaraju.",
+  "popularity": 8.5566,
+  "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+  "production_companies": [
+    {
+      "id": 15228,
+      "logo_path": "/wd4BquqZZiiOq9iAkGL3ViANT1x.png",
+      "name": "UV Creations",
+      "origin_country": "IN"
+    },
+    {
+      "id": 11881,
+      "logo_path": null,
+      "name": "First Frame Entertainment",
+      "origin_country": "IN"
+    }
+  ],
   "production_countries": [
     {
       "iso_3166_1": "IN",
       "name": "India"
     }
   ],
-  "release_date": "",
+  "release_date": "2026-08-06",
   "revenue": 0,
-  "runtime": 0,
+  "runtime": 165,
   "softcore": false,
   "spoken_languages": [
     {
       "english_name": "Telugu",
       "iso_639_1": "te",
       "name": "తెలుగు"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
     }
   ],
-  "status": "In Production",
+  "status": "Released",
   "tagline": "",
   "title": "Korean Kanakaraju",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
+  "vote_average": 7,
+  "vote_count": 4,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "kq0X2owCVKw",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a9a455593e4570c2b2a717d",
+        "published_at": "2026-09-03T10:30:00.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -61,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Varun Tej",
         "original_name": "Varun Tej",
-        "popularity": 0.4554,
+        "popularity": 1.5223,
         "profile_path": "/2N9LTqRxLpeCCyNTYUpnVBhZiZU.jpg",
         "cast_id": 1,
         "character": "Kanakaraju",
@@ -75,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Ritika Nayak",
         "original_name": "Ritika Nayak",
-        "popularity": 0.1923,
+        "popularity": 1.0319,
         "profile_path": "/6KyRbryxk9Od1goIDGlK3GodKlp.jpg",
         "cast_id": 6,
         "character": "",
@@ -85,16 +119,58 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 213428,
+        "known_for_department": "Acting",
+        "name": "Sunil Varma",
+        "original_name": "Sunil Varma",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "6a6eb4e1fa7c98530ffbf47a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1638503,
         "known_for_department": "Acting",
         "name": "Satya",
         "original_name": "Satya",
-        "popularity": 1.1012,
+        "popularity": 1.4781,
         "profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
         "cast_id": 7,
         "character": "",
         "credit_id": "68c8525aa0653a5ec8a0f993",
-        "order": 2
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565865,
+        "known_for_department": "Acting",
+        "name": "VTV Ganesh",
+        "original_name": "VTV Ganesh",
+        "popularity": 1.5594,
+        "profile_path": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "6a6eb2cc18339d0b6a53bc3c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035060,
+        "known_for_department": "Acting",
+        "name": "Mahesh Achanta",
+        "original_name": "Mahesh Achanta",
+        "popularity": 0.8305,
+        "profile_path": "/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "6a6eb49902ace639a90c15ac",
+        "order": 5
       },
       {
         "adult": false,
@@ -103,12 +179,26 @@
         "known_for_department": "Acting",
         "name": "Daksha Nagarkar",
         "original_name": "Daksha Nagarkar",
-        "popularity": 0.2499,
+        "popularity": 1.0622,
         "profile_path": "/vnYsR2Vynqx21pMwRBCxm0CsUmh.jpg",
         "cast_id": 24,
         "character": "Special Appearance",
         "credit_id": "696ddf15d500ef9bfc68a4b1",
-        "order": 3
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5266501,
+        "known_for_department": "Acting",
+        "name": "Bheemala Revanth Pavan Sai Subhash",
+        "original_name": "Bheemala Revanth Pavan Sai Subhash",
+        "popularity": 0.3816,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "6a6eb48144bd034b4d0c15cd",
+        "order": 7
       }
     ],
     "crew": [
@@ -119,7 +209,7 @@
         "known_for_department": "Directing",
         "name": "Merlapaka Gandhi",
         "original_name": "Merlapaka Gandhi",
-        "popularity": 0.2038,
+        "popularity": 0.7229,
         "profile_path": "/vAaGU9Q7Ca6Fp8fWgJ3IRb4ErsK.jpg",
         "credit_id": "6794644b57975f1b0b187d48",
         "department": "Directing",
@@ -132,7 +222,7 @@
         "known_for_department": "Directing",
         "name": "Merlapaka Gandhi",
         "original_name": "Merlapaka Gandhi",
-        "popularity": 0.2038,
+        "popularity": 0.7229,
         "profile_path": "/vAaGU9Q7Ca6Fp8fWgJ3IRb4ErsK.jpg",
         "credit_id": "696b2ced0e3b8c398cf940cb",
         "department": "Writing",
@@ -145,7 +235,7 @@
         "known_for_department": "Camera",
         "name": "Manojh Reddy Katasani",
         "original_name": "Manojh Reddy Katasani",
-        "popularity": 0.0071,
+        "popularity": 0.2618,
         "profile_path": null,
         "credit_id": "696b2d3b37f97d955df94093",
         "department": "Camera",
@@ -158,7 +248,7 @@
         "known_for_department": "Crew",
         "name": "Vamsi Shekar",
         "original_name": "Vamsi Shekar",
-        "popularity": 0.332,
+        "popularity": 0.4059,
         "profile_path": null,
         "credit_id": "696dd83ed76a580fcef1249a",
         "department": "Crew",
@@ -171,7 +261,7 @@
         "known_for_department": "Production",
         "name": "Sasank Muppalla",
         "original_name": "Sasank Muppalla",
-        "popularity": 0,
+        "popularity": 0.2963,
         "profile_path": null,
         "credit_id": "696dda814646647aad8fd34e",
         "department": "Production",
@@ -184,7 +274,7 @@
         "known_for_department": "Production",
         "name": "Sasank Muppalla",
         "original_name": "Sasank Muppalla",
-        "popularity": 0,
+        "popularity": 0.2963,
         "profile_path": null,
         "credit_id": "696dda8becb9dba2fbf95009",
         "department": "Art",
@@ -197,7 +287,7 @@
         "known_for_department": "Editing",
         "name": "Satya Giduturi",
         "original_name": "Satya Giduturi",
-        "popularity": 0.1005,
+        "popularity": 0.3051,
         "profile_path": null,
         "credit_id": "696ddb5bbb1123e50e20d120",
         "department": "Editing",
@@ -210,7 +300,7 @@
         "known_for_department": "Art",
         "name": "A. Panner Selvam",
         "original_name": "A. Panner Selvam",
-        "popularity": 0.0071,
+        "popularity": 0.2981,
         "profile_path": null,
         "credit_id": "696ddbd681eab01bebf12712",
         "department": "Art",
@@ -223,7 +313,7 @@
         "known_for_department": "Writing",
         "name": "Sheik Dawood G.",
         "original_name": "Sheik Dawood G.",
-        "popularity": 0.176,
+        "popularity": 0.4934,
         "profile_path": null,
         "credit_id": "696ddc42a9884506dc36b266",
         "department": "Writing",
@@ -236,7 +326,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "Aishwarya Rajeev",
         "original_name": "Aishwarya Rajeev Y",
-        "popularity": 0.1014,
+        "popularity": 0.3231,
         "profile_path": null,
         "credit_id": "696ddc64465299eacbf950a3",
         "department": "Costume & Make-Up",
@@ -249,7 +339,7 @@
         "known_for_department": "Visual Effects",
         "name": "Rajashekharan Rajeev",
         "original_name": "Rajashekharan Rajeev",
-        "popularity": 0.1675,
+        "popularity": 0.4402,
         "profile_path": null,
         "credit_id": "696ddc81e9f89d6fd3aaaf95",
         "department": "Visual Effects",
@@ -262,7 +352,7 @@
         "known_for_department": "Directing",
         "name": "Anil Kumar Upadyaula",
         "original_name": "Anil Kumar Upadyaula",
-        "popularity": 0.0311,
+        "popularity": 0.5439,
         "profile_path": null,
         "credit_id": "696ddcc3ecb9dba2fbf9501d",
         "department": "Directing",
@@ -275,7 +365,7 @@
         "known_for_department": "Production",
         "name": "Y. Rajeev Reddy",
         "original_name": "Y. Rajeev Reddy",
-        "popularity": 0.0143,
+        "popularity": 0.2891,
         "profile_path": null,
         "credit_id": "696ddd7202dfc384f18fd4ff",
         "department": "Production",
@@ -288,7 +378,7 @@
         "known_for_department": "Production",
         "name": "Sai Babu Jagarlamudi",
         "original_name": "Sai Babu Jagarlamudi",
-        "popularity": 0,
+        "popularity": 0.2846,
         "profile_path": null,
         "credit_id": "696ddd9c21a87fbe81dcb80f",
         "department": "Production",
@@ -301,7 +391,7 @@
         "known_for_department": "Directing",
         "name": "Radha Krishna Jagarlamudi",
         "original_name": "Radha Krishna Jagarlamudi",
-        "popularity": 0.281,
+        "popularity": 0.9122,
         "profile_path": "/z6TskMu6oKRronDpPfYWluBNmxX.jpg",
         "credit_id": "696dddbe3ebcc624947fa85a",
         "department": "Crew",
@@ -314,7 +404,7 @@
         "known_for_department": "Sound",
         "name": "S. Thaman",
         "original_name": "S. Thaman",
-        "popularity": 0.4203,
+        "popularity": 0.8929,
         "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
         "credit_id": "696ddec5ecb9dba2fbf95033",
         "department": "Sound",
@@ -327,7 +417,7 @@
         "known_for_department": "Sound",
         "name": "Sid Sriram",
         "original_name": "Sid Sriram",
-        "popularity": 0.1991,
+        "popularity": 0.5451,
         "profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
         "credit_id": "69dbd7e889fadc1d2a3737fc",
         "department": "Sound",
@@ -340,7 +430,7 @@
         "known_for_department": "Writing",
         "name": "Kasarla Shyam",
         "original_name": "Kasarla Shyam",
-        "popularity": 0.1601,
+        "popularity": 0.4009,
         "profile_path": null,
         "credit_id": "69dbd7f61328427595373108",
         "department": "Writing",
@@ -348,40 +438,102 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "release_dates": {
-    "results": []
-  },
   "keywords": {
     "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt32474264",
-    "wikidata_id": null,
+    "wikidata_id": "Q140577306",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
-    "backdrops": [],
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.775,
+        "height": 721,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/qIO6hafCDWWGiDtNYXkG8Fw0q5Y.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/9t3RxSneAg1d5YlrdrV3hR9Zvzh.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4kbgVaP6O7p1eIPhJIqPb3A1omM.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
     "logos": [
       {
         "aspect_ratio": 2.328,
         "height": 481,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/yO71de76HuzpYpDjdLR0mFzx8Eo.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1120
+      },
+      {
+        "aspect_ratio": 2.08,
+        "height": 311,
         "iso_3166_1": "IN",
         "iso_639_1": "te",
-        "file_path": "/yO71de76HuzpYpDjdLR0mFzx8Eo.png",
+        "file_path": "/5bo77JGnPtHjsOS2a6cIu3URSYM.png",
         "vote_average": 0,
         "vote_count": 0,
-        "width": 1120
+        "width": 647
+      },
+      {
+        "aspect_ratio": 2.5,
+        "height": 250,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/w2T1k3fywGnU6nt3OkJlr651OZB.png",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 625
       }
     ],
     "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
       {
         "aspect_ratio": 0.667,
         "height": 3000,
@@ -391,7 +543,551 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1440,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/w0fWIkOgVSetJHHmg8NoZHMeGcR.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1080
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/8BHX1dzhaH3P14n3Wl1037ExcKv.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/su2pCp3z9tNfufl8ovUVzwqewbJ.jpg",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/4sKTTPtNkexqpZxP7byrZu3v6zN.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 600
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-08-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-08-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-08-07T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

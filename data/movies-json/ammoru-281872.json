@@ -1,6 +1,6 @@
 {
   "adult": false,
-  "backdrop_path": null,
+  "backdrop_path": "/1nei3dDJxhEBev6stOvdjzFIOIq.jpg",
   "belongs_to_collection": null,
   "budget": 0,
   "genres": [
@@ -22,8 +22,8 @@
   "original_language": "te",
   "original_title": "అమ్మోరు",
   "overview": "Bhavani, a devotee of Goddess Amman, gets an evil godman arrested. However, when he returns with the intention of exacting revenge on her, she turns to the goddess for guidance.",
-  "popularity": 0.5293,
-  "poster_path": "/zRuEdyxwovFb3lwPsXjLGTksThU.jpg",
+  "popularity": 1.7971,
+  "poster_path": "/2ltdksEzv3mlzT0m1aqXKVNQGGd.jpg",
   "production_companies": [],
   "production_countries": [
     {
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Soundarya",
         "original_name": "Soundarya",
-        "popularity": 0.5099,
+        "popularity": 1.3785,
         "profile_path": "/pqACucRtWoz3mwhPeSLa9OATilN.jpg",
         "cast_id": 1,
         "character": "Bhavani",
@@ -71,8 +71,8 @@
         "known_for_department": "Acting",
         "name": "Ramya Krishnan",
         "original_name": "Ramya Krishnan",
-        "popularity": 2.13,
-        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "popularity": 2.1673,
+        "profile_path": "/7C1bj7z3XhqxjDIGoCs6MFJdSVa.jpg",
         "cast_id": 2,
         "character": "Goddess Ammoru",
         "credit_id": "53c3abaac3a3684cf4009058",
@@ -84,8 +84,8 @@
         "id": 584479,
         "known_for_department": "Acting",
         "name": "Suresh",
-        "original_name": "Suresh",
-        "popularity": 0.4799,
+        "original_name": "சுரேஷ்",
+        "popularity": 3.5809,
         "profile_path": "/jT78sxmRMh37YEFvZiz2Qfyri1N.jpg",
         "cast_id": 3,
         "character": "Surya",
@@ -99,7 +99,7 @@
         "known_for_department": "Acting",
         "name": "Rami Reddy",
         "original_name": "Rami Reddy",
-        "popularity": 0.3131,
+        "popularity": 1.3792,
         "profile_path": "/nZsxImJ2EBtLzmvCuymoXyuvevh.jpg",
         "cast_id": 4,
         "character": "Gopalakrishna \"Gorakh\"",
@@ -113,7 +113,7 @@
         "known_for_department": "Acting",
         "name": "Vadivukarasi",
         "original_name": "Vadivukarasi",
-        "popularity": 0.5693,
+        "popularity": 1.3721,
         "profile_path": "/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg",
         "cast_id": 5,
         "character": "Leelamma",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Babu Mohan",
         "original_name": "Babu Mohan",
-        "popularity": 0.3566,
+        "popularity": 1.6288,
         "profile_path": "/v6p1UjzbjGmkTf0yI2hz44GZbxc.jpg",
         "cast_id": 6,
         "character": "Leelamma's Husband",
@@ -141,7 +141,7 @@
         "known_for_department": "Acting",
         "name": "Kallu Chidambaram",
         "original_name": "Kallu Chidambaram",
-        "popularity": 0.2838,
+        "popularity": 1.0616,
         "profile_path": null,
         "cast_id": 7,
         "character": "Servant",
@@ -155,7 +155,7 @@
         "known_for_department": "Acting",
         "name": "Sunaina Badam",
         "original_name": "Sunaina Badam",
-        "popularity": 0.3087,
+        "popularity": 0.9976,
         "profile_path": "/mXYC9Aue1uE09Wgs9AWxGq7aHvj.jpg",
         "cast_id": 12,
         "character": "Child Servant / Ammoru",
@@ -171,7 +171,7 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.2546,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "53c3aa03c3a3684cdf009a3c",
         "department": "Directing",
@@ -180,28 +180,15 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1191401,
-        "known_for_department": "Sound",
-        "name": "Sri Kommineni",
-        "original_name": "Sri Kommineni",
-        "popularity": 0.1213,
-        "profile_path": null,
-        "credit_id": "6152d2cadd731b0029b1b0aa",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1307748,
-        "known_for_department": "Camera",
-        "name": "Vijay C. Kumar",
-        "original_name": "Vijay C. Kumar",
-        "popularity": 0.0264,
-        "profile_path": null,
-        "credit_id": "6152d2bc1c635b002a12c635",
-        "department": "Camera",
-        "job": "Director of Photography"
+        "id": 552982,
+        "known_for_department": "Directing",
+        "name": "Kodi Ramakrishna",
+        "original_name": "Kodi Ramakrishna",
+        "popularity": 1.5666,
+        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
+        "credit_id": "6152d261f04d010091cb78a9",
+        "department": "Writing",
+        "job": "Writer"
       },
       {
         "adult": false,
@@ -210,7 +197,7 @@
         "known_for_department": "Writing",
         "name": "Satyanand Pydipalli",
         "original_name": "Satyanand Pydipalli",
-        "popularity": 0.251,
+        "popularity": 1.6152,
         "profile_path": null,
         "credit_id": "6152d295e8a3e100621db83e",
         "department": "Writing",
@@ -219,15 +206,28 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 552982,
-        "known_for_department": "Directing",
-        "name": "Kodi Ramakrishna",
-        "original_name": "Kodi Ramakrishna",
-        "popularity": 0.2546,
-        "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
-        "credit_id": "6152d261f04d010091cb78a9",
-        "department": "Writing",
-        "job": "Writer"
+        "id": 1307748,
+        "known_for_department": "Camera",
+        "name": "Vijay C. Kumar",
+        "original_name": "Vijay C. Kumar",
+        "popularity": 0.328,
+        "profile_path": null,
+        "credit_id": "6152d2bc1c635b002a12c635",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191401,
+        "known_for_department": "Sound",
+        "name": "Sri Kommineni",
+        "original_name": "Sri Kommineni",
+        "popularity": 0.3524,
+        "profile_path": null,
+        "credit_id": "6152d2cadd731b0029b1b0aa",
+        "department": "Sound",
+        "job": "Original Music Composer"
       }
     ]
   },
@@ -238,37 +238,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/2ltdksEzv3mlzT0m1aqXKVNQGGd.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      },
-      {
-        "aspect_ratio": 0.675,
-        "height": 2963,
-        "iso_3166_1": "US",
-        "iso_639_1": "en",
-        "file_path": "/zRuEdyxwovFb3lwPsXjLGTksThU.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 2000
-      }
-    ]
-  },
   "videos": {
     "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -298,6 +272,43 @@
         "iso_3166_1": "IN",
         "title": "Maa Ki Shakti",
         "type": "Hindi dubbed"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1nei3dDJxhEBev6stOvdjzFIOIq.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/2ltdksEzv3mlzT0m1aqXKVNQGGd.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/zRuEdyxwovFb3lwPsXjLGTksThU.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000
       }
     ]
   }

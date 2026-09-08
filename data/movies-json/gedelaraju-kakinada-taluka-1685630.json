@@ -24,12 +24,17 @@
     "IN"
   ],
   "original_language": "te",
-  "original_title": "Gedelaraju Kakinada Taluka",
+  "original_title": "గేదెల రాజు",
   "overview": "A feared rowdy-turned-politician, Gedela Raju, is murdered on the night of his political rise in Kakinada. As the investigation unfolds, seven interconnected lives-driven by secrets, ambition, and betrayal-lead back to one shocking truth behind his death.",
-  "popularity": 0.1179,
+  "popularity": 1.0088,
   "poster_path": "/rXg6RAJzkhE3gQql14G3oiIXcRS.jpg",
   "production_companies": [],
-  "production_countries": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
   "release_date": "2026-04-24",
   "revenue": 0,
   "runtime": 121,
@@ -56,7 +61,7 @@
         "known_for_department": "Sound",
         "name": "Raghu Kunche",
         "original_name": "Raghu Kunche",
-        "popularity": 0.1297,
+        "popularity": 0.4288,
         "profile_path": "/pTZPnDqhe9NSDaPZgIoStucSVd3.jpg",
         "cast_id": 1,
         "character": "",
@@ -70,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Vikas Muppala",
         "original_name": "Vikas Muppala",
-        "popularity": 0.0168,
+        "popularity": 0.7065,
         "profile_path": null,
         "cast_id": 2,
         "character": "",
@@ -84,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Kalapala Mounika",
         "original_name": "Kalapala Mounika",
-        "popularity": 0,
+        "popularity": 0.3263,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -98,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Mahaboob Basha",
         "original_name": "Mahaboob Basha",
-        "popularity": 0.0643,
+        "popularity": 0.3973,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -109,17 +114,52 @@
     "crew": []
   },
   "videos": {
-    "results": []
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gedela Raju Kakinada Taluka Official Trailer | Raghu Kunche | Chaitanya Moturi | Mythri Release",
+        "key": "SBX2RFgxzYg",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a5abee059c19785e8fefff9",
+        "published_at": "2026-04-17T04:46:36.000Z"
+      }
+    ]
   },
   "external_ids": {
     "imdb_id": "tt35182033",
-    "wikidata_id": null,
+    "wikidata_id": "Q139665852",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-04-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Prime Video",
+            "release_date": "2026-07-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -139,12 +179,22 @@
       {
         "aspect_ratio": 0.667,
         "height": 1506,
-        "iso_3166_1": null,
-        "iso_639_1": null,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
         "file_path": "/rXg6RAJzkhE3gQql14G3oiIXcRS.jpg",
         "vote_average": 3.334,
         "vote_count": 1,
         "width": 1004
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1000,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/yVKqHnKVrr8GPoxx7lSbzPLF3i1.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 667
       }
     ]
   },
@@ -157,21 +207,7 @@
       }
     ]
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "A",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2026-04-24T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "keywords": {
+    "keywords": []
   }
 }

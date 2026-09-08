@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "నిన్ను చేరే తరుణం",
   "overview": "Radha, a blind guy meets Krishna when things are not fine in their lives. Radha hides his disability to Krishna and faces a lot of problems. When things work well, Radha out of guilt, confesses to Krishna that he is blind. Krishna feels betrayed. How things unfurl after this incident forms the rest of the story.",
-  "popularity": 0.0979,
+  "popularity": 0.5083,
   "poster_path": "/5fvuPqZr1ZVRNkp4gM7FSreOJDd.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Manika Chikkala",
         "original_name": "Manika Chikkala",
-        "popularity": 0.0193,
+        "popularity": 0.2448,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Manoj Krishna Tanneru",
         "original_name": "Manoj Krishna Tanneru",
-        "popularity": 0.0071,
+        "popularity": 0.2757,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -82,7 +82,7 @@
         "known_for_department": "Costume & Make-Up",
         "name": "sushmitha bommidi",
         "original_name": "sushmitha bommidi",
-        "popularity": 0.0143,
+        "popularity": 0.2704,
         "profile_path": "/l2LUBSMA4IFOFQI69MIbhtJoFj8.jpg",
         "credit_id": "65f8ad2088c6590163514c65",
         "department": "Costume & Make-Up",
@@ -95,7 +95,7 @@
         "known_for_department": "Directing",
         "name": "Effi Rogers",
         "original_name": "Effi Rogers",
-        "popularity": 0.0071,
+        "popularity": 0.2541,
         "profile_path": null,
         "credit_id": "649e8c6b091e62014e8c829d",
         "department": "Directing",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Ruchita Rao",
         "original_name": "Ruchita Rao",
-        "popularity": 0,
+        "popularity": 0.2604,
         "profile_path": null,
         "credit_id": "649e8c815aba32011c214c5c",
         "department": "Directing",
@@ -129,6 +129,33 @@
         "official": true,
         "id": "649e8cdf8289a0011cc1de21",
         "published_at": "2023-06-28T12:33:01.000Z"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt28252165",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 13+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2023-06-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
       }
     ]
   },
@@ -166,33 +193,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 501
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "external_ids": {
-    "imdb_id": "tt28252165",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U/A 13+",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2023-06-30T00:00:00.000Z",
-            "type": 1
-          }
-        ]
       }
     ]
   },

@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "అనుమానాస్పదం",
   "overview": "Bhasu, a reporter, discovers a video that shows a secret treasure hidden in the forest. He sets out with his team to recover the treasure but they are soon targeted by a mysterious killer.",
-  "popularity": 0.259,
+  "popularity": 1.4161,
   "poster_path": "/98kw4y5x8cFtxnf3CvDaJBnCfK9.jpg",
   "production_companies": [],
   "production_countries": [
@@ -61,7 +61,7 @@
         "known_for_department": "Acting",
         "name": "Aryan Rajesh",
         "original_name": "Aryan Rajesh",
-        "popularity": 0.1518,
+        "popularity": 0.8946,
         "profile_path": "/7jwRuixoraCtLF2itiRBSBCFE61.jpg",
         "cast_id": 7,
         "character": "Bhasu",
@@ -75,7 +75,7 @@
         "known_for_department": "Acting",
         "name": "Hamsa Nandini",
         "original_name": "Hamsa Nandini",
-        "popularity": 0.2949,
+        "popularity": 0.4988,
         "profile_path": "/oUIUJb8H5KVQk080zncuTFcznbT.jpg",
         "cast_id": 8,
         "character": "Devika",
@@ -89,7 +89,7 @@
         "known_for_department": "Acting",
         "name": "Jayaprakash Reddy",
         "original_name": "Jayaprakash Reddy",
-        "popularity": 0.2783,
+        "popularity": 1.5039,
         "profile_path": "/m0djrw7flYPrE77uV5ufOmywTnb.jpg",
         "cast_id": 9,
         "character": "Thangavelu",
@@ -103,7 +103,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 10,
         "character": "Forest officer",
@@ -117,7 +117,7 @@
         "known_for_department": "Acting",
         "name": "Vanitha Reddy",
         "original_name": "Vanitha Reddy",
-        "popularity": 0,
+        "popularity": 0.2959,
         "profile_path": null,
         "cast_id": 11,
         "character": "Kamini",
@@ -131,7 +131,7 @@
         "known_for_department": "Acting",
         "name": "Jeeva",
         "original_name": "Jeeva",
-        "popularity": 0.4653,
+        "popularity": 1.6793,
         "profile_path": "/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg",
         "cast_id": 12,
         "character": "",
@@ -145,7 +145,7 @@
         "known_for_department": "Acting",
         "name": "M. S. Narayana",
         "original_name": "M. S. Narayana",
-        "popularity": 0.6471,
+        "popularity": 2.238,
         "profile_path": "/1XRTmhRSOtHBVmoPfz45WxbLfFQ.jpg",
         "cast_id": 13,
         "character": "",
@@ -159,7 +159,7 @@
         "known_for_department": "Acting",
         "name": "Devi Charan",
         "original_name": "Devi Charan",
-        "popularity": 0.0071,
+        "popularity": 0.4776,
         "profile_path": null,
         "cast_id": 14,
         "character": "",
@@ -171,76 +171,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 76888,
-        "known_for_department": "Sound",
-        "name": "Ilaiyaraaja",
-        "original_name": "Ilaiyaraaja",
-        "popularity": 0.5333,
-        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
-        "credit_id": "62e8b52a091e62005d2b6078",
-        "department": "Sound",
-        "job": "Music Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 37242,
-        "known_for_department": "Editing",
-        "name": "Sreekar Prasad",
-        "original_name": "Sreekar Prasad",
-        "popularity": 0.3076,
-        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
-        "credit_id": "62e8b69e764b99006141d0ac",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "62e8baa93081310058a82d5b",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1181067,
-        "known_for_department": "Directing",
-        "name": "Vamsy",
-        "original_name": "Vamsy",
-        "popularity": 0.2328,
-        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
-        "credit_id": "62e8b502fc5f060059c413b1",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1007281,
-        "known_for_department": "Art",
-        "name": "Thotta Tharani",
-        "original_name": "Thotta Tharani",
-        "popularity": 0.1674,
-        "profile_path": null,
-        "credit_id": "62e8b70c357c000058d54b2f",
-        "department": "Art",
-        "job": "Art Department Coordinator"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1546397,
         "known_for_department": "Camera",
         "name": "P. G. Vinda",
         "original_name": "P. G. Vinda",
-        "popularity": 0.0899,
+        "popularity": 0.3657,
         "profile_path": null,
         "credit_id": "62e8ba442938350058cac3df",
         "department": "Camera",
@@ -249,42 +184,106 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1181067,
+        "known_for_department": "Directing",
+        "name": "Vamsy",
+        "original_name": "Vamsy",
+        "popularity": 0.7228,
+        "profile_path": "/6taWTyuOhlkTSeT31VyQpXBL6O6.jpg",
+        "credit_id": "62e8b502fc5f060059c413b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37242,
+        "known_for_department": "Editing",
+        "name": "Sreekar Prasad",
+        "original_name": "Sreekar Prasad",
+        "popularity": 0.508,
+        "profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+        "credit_id": "62e8b69e764b99006141d0ac",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6214057,
+        "known_for_department": "Production",
+        "name": "Satish Thati",
+        "original_name": "Satish Thati",
+        "popularity": 0.2577,
+        "profile_path": null,
+        "credit_id": "6a0637f824c2f2f2f48262ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2321736,
+        "known_for_department": "Directing",
+        "name": "Vamsi Krishna Akella",
+        "original_name": "Vamsi Krishna Akella",
+        "popularity": 0.548,
+        "profile_path": null,
+        "credit_id": "6a063814e8e1ff59d47344fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6214064,
+        "known_for_department": "Production",
+        "name": "Jai Arnala",
+        "original_name": "Jai Arnala",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "6a0638a31ba299d46403e0b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76888,
+        "known_for_department": "Sound",
+        "name": "Ilaiyaraaja",
+        "original_name": "இளையராஜா",
+        "popularity": 2.4001,
+        "profile_path": "/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+        "credit_id": "6a0638b6bea548cbbcb8eb8b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007281,
+        "known_for_department": "Art",
+        "name": "Thotta Tharani",
+        "original_name": "Thotta Tharani",
+        "popularity": 0.5036,
+        "profile_path": "/YFMRhWq7qpJpCm4Ls5AYc0tphA.jpg",
+        "credit_id": "6a0638d0b3667008c92dd6f0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 2261645,
         "known_for_department": "Art",
         "name": "D Y Satyanarayana",
         "original_name": "D Y Satyanarayana",
-        "popularity": 0.0582,
+        "popularity": 0.2647,
         "profile_path": null,
-        "credit_id": "62e8b6ec764b9900593b3a53",
+        "credit_id": "6a0638e32a0c16b6553d99a8",
         "department": "Art",
-        "job": "Art Department Coordinator"
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt0832296",
-    "wikidata_id": "Q4777787",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2007-02-10T00:00:00.000Z",
-            "type": 3
-          }
-        ]
+        "job": "Art Direction"
       }
     ]
   },
@@ -345,10 +344,37 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2007-02-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0832296",
+    "wikidata_id": "Q4777787",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": []
   }
 }

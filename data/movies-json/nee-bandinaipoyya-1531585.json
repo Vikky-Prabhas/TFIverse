@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Nee Bandinaipoyya",
   "overview": "The story is all about Janaki, an independent girl who wants to move away from her friends and start a new life. But Vishnu, a suspended police officer, formed an alliance with Janaki and learns the truth about her leaving for Australia",
-  "popularity": 0.0357,
+  "popularity": 0.603,
   "poster_path": "/2gHbYM26ba8pjFQwaogHUFv3yND.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,6 +39,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [],
     "crew": [
@@ -49,7 +52,7 @@
         "known_for_department": "Directing",
         "name": "Dharma",
         "original_name": "Dharma",
-        "popularity": 0,
+        "popularity": 0.3159,
         "profile_path": null,
         "credit_id": "68a22948187b6b992718cd0b",
         "department": "Directing",
@@ -57,8 +60,12 @@
       }
     ]
   },
-  "videos": {
-    "results": []
+  "external_ids": {
+    "imdb_id": "tt37597786",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -79,6 +86,9 @@
         ]
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -116,15 +126,5 @@
         "width": 600
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt37597786",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

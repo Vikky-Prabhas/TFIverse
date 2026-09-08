@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Thappinchuku Thiruguvadu Dhanyudu Sumathi",
   "overview": "It is a story of 4 different characters and their lives gets entangled in a Bank robbery by one of them and what happens with the loot.",
-  "popularity": 0.1472,
+  "popularity": 0.9789,
   "poster_path": "/oA6FBBxFErZ2H9CRtuAFXyICDij.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,109 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1751708,
-        "known_for_department": "Acting",
-        "name": "Priyadarshi Pullikonda",
-        "original_name": "Priyadarshi Pullikonda",
-        "popularity": 0.4209,
-        "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
-        "cast_id": 6,
-        "character": "",
-        "credit_id": "67837f501431e0591abb7e86",
-        "order": 0
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1717374,
-        "known_for_department": "Acting",
-        "name": "Manikandan Achari",
-        "original_name": "Manikanda Rajan",
-        "popularity": 0.6329,
-        "profile_path": "/5yLbdEwBpSAUajsvLM9eY1fsymp.jpg",
-        "cast_id": 1,
-        "character": "",
-        "credit_id": "6745bf106eef5b43a5fca0b9",
-        "order": 1
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1787650,
-        "known_for_department": "Acting",
-        "name": "Niranjana Anoop",
-        "original_name": "Niranjana Anoop",
-        "popularity": 0.3892,
-        "profile_path": "/9L8UWUaFIX06GzaIuP8L6za3YZu.jpg",
-        "cast_id": 2,
-        "character": "",
-        "credit_id": "6745bf186eef5b43a5fca0c0",
-        "order": 2
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 5083261,
-        "known_for_department": "Acting",
-        "name": "Gopal Sham",
-        "original_name": "Gopal Sham",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "cast_id": 4,
-        "character": "",
-        "credit_id": "6745bf2adcbb15c89a8b596b",
-        "order": 3
-      },
-      {
-        "adult": false,
-        "gender": 1,
-        "id": 1293125,
-        "known_for_department": "Acting",
-        "name": "Srindaa",
-        "original_name": "Srindaa",
-        "popularity": 0.3252,
-        "profile_path": "/u0Sf0RpkyW3PFqBnPJb516BCEBg.jpg",
-        "cast_id": 5,
-        "character": "",
-        "credit_id": "6745bf2fcfd24c3a7aabb88e",
-        "order": 4
-      }
-    ],
-    "crew": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-01-23T00:00:00.000Z",
-            "type": 3
-          },
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "2024-11-27T00:00:00.000Z",
-            "type": 4
-          }
-        ]
-      }
-    ]
-  },
   "videos": {
     "results": [
       {
@@ -158,15 +55,87 @@
       }
     ]
   },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1751708,
+        "known_for_department": "Acting",
+        "name": "Priyadarshi Pullikonda",
+        "original_name": "Priyadarshi Pullikonda",
+        "popularity": 0.8819,
+        "profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "67837f501431e0591abb7e86",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717374,
+        "known_for_department": "Acting",
+        "name": "Manikandan Achari",
+        "original_name": "Manikanda Rajan",
+        "popularity": 0.7166,
+        "profile_path": "/5yLbdEwBpSAUajsvLM9eY1fsymp.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6745bf106eef5b43a5fca0b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1787650,
+        "known_for_department": "Acting",
+        "name": "Niranjana Anoop",
+        "original_name": "Niranjana Anoop",
+        "popularity": 1.3329,
+        "profile_path": "/9L8UWUaFIX06GzaIuP8L6za3YZu.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6745bf186eef5b43a5fca0c0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5083261,
+        "known_for_department": "Acting",
+        "name": "Gopal Sham",
+        "original_name": "Gopal Sham",
+        "popularity": 0.2611,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6745bf2adcbb15c89a8b596b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1293125,
+        "known_for_department": "Acting",
+        "name": "Srindaa",
+        "original_name": "Srindaa",
+        "popularity": 2.2059,
+        "profile_path": "/5kdOuFtZ6T3LPwtu5mQfXSXPYUP.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6745bf2fcfd24c3a7aabb88e",
+        "order": 4
+      }
+    ],
+    "crew": []
+  },
   "external_ids": {
     "imdb_id": "tt31579674",
-    "wikidata_id": null,
+    "wikidata_id": "Q131385088",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "alternative_titles": {
-    "titles": []
   },
   "images": {
     "backdrops": [
@@ -225,5 +194,36 @@
         "width": 1360
       }
     ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-01-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2024-11-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

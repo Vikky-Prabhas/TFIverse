@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పెద కాపు-1",
   "overview": "Villagers revolt against their rich political leaders.",
-  "popularity": 0.4685,
+  "popularity": 0.9651,
   "poster_path": "/ktAzHRoehu3YC2g9MrfBLbrpT8j.jpg",
   "production_companies": [
     {
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 7.2,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Virat Karrna",
         "original_name": "Virat Karrna",
-        "popularity": 0.0588,
+        "popularity": 0.8273,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Pragati Srivastava",
         "original_name": "Pragati Srivastava",
-        "popularity": 0.0967,
+        "popularity": 0.5566,
         "profile_path": "/l2rB4eKAP8MWDpegRvAu0ubUeH1.jpg",
         "cast_id": 5,
         "character": "",
@@ -91,8 +94,8 @@
         "id": 586629,
         "known_for_department": "Acting",
         "name": "Rao Ramesh",
-        "original_name": "Rao Ramesh",
-        "popularity": 0.8884,
+        "original_name": "రావు రమేష్",
+        "popularity": 2.6818,
         "profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
         "cast_id": 2,
         "character": "",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Aadukalam Naren",
         "original_name": "Adukalam Naren",
-        "popularity": 0.5238,
+        "popularity": 1.056,
         "profile_path": "/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg",
         "cast_id": 3,
         "character": "",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Brigida Saga",
         "original_name": "Brigida Saga",
-        "popularity": 0.1282,
+        "popularity": 0.7285,
         "profile_path": "/cxK7preZ5upoDL1aRB2TQ6OtJ4U.jpg",
         "cast_id": 4,
         "character": "",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.742,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 6,
         "character": "",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5433,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 7,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Easwari Rao",
         "original_name": "ఈశ్వరీ రావు",
-        "popularity": 0.5495,
+        "popularity": 1.5377,
         "profile_path": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
         "cast_id": 8,
         "character": "",
@@ -174,9 +177,9 @@
         "gender": 2,
         "id": 559738,
         "known_for_department": "Acting",
-        "name": "Rajiv Kanakala",
-        "original_name": "Rajiv Kanakala",
-        "popularity": 0.6126,
+        "name": "Rajeev Kanakala",
+        "original_name": "రాజీవ్ కనకాల",
+        "popularity": 2.5065,
         "profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
         "cast_id": 9,
         "character": "",
@@ -190,8 +193,8 @@
         "known_for_department": "Acting",
         "name": "Anasuya Bharadwaj",
         "original_name": "Anasuya Bharadwaj",
-        "popularity": 0.9772,
-        "profile_path": "/adfyR0yHuTdj3sMiJQNDtBBXz9Q.jpg",
+        "popularity": 1.9986,
+        "profile_path": "/cZMxb2I5XZHVrRG9RrpbffFxTuZ.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "64f67f618e20c50cd629707c",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Vadlamani Srinivas",
         "original_name": "Vadlamani Srinivas",
-        "popularity": 0.2204,
+        "popularity": 1.007,
         "profile_path": "/AxSe41CKf4JdcN7DzaAFc8ymhV.jpg",
         "cast_id": 24,
         "character": "",
@@ -216,11 +219,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1309358,
+        "known_for_department": "Sound",
+        "name": "Mickey J Meyer",
+        "original_name": "Mickey J Meyer",
+        "popularity": 0.3447,
+        "profile_path": "/ogeUjNtob45rVaKJ9TKxwys46s2.jpg",
+        "credit_id": "64f68003b234b9010096310b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 237968,
         "known_for_department": "Crew",
         "name": "Raju Sundaram",
         "original_name": "Raju Sundaram",
-        "popularity": 0.5542,
+        "popularity": 1.8892,
         "profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
         "credit_id": "64f68030e0ca7f00ec891e6f",
         "department": "Crew",
@@ -229,24 +245,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1173569,
-        "known_for_department": "Writing",
-        "name": "Srikanth Addala",
-        "original_name": "Srikanth Addala",
-        "popularity": 0.2046,
-        "profile_path": null,
-        "credit_id": "64f67fd0b234b9013a4a801f",
-        "department": "Directing",
-        "job": "Director"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 1705884,
         "known_for_department": "Production",
         "name": "Miryala Ravinder Reddy",
         "original_name": "Miryala Ravinder Reddy",
-        "popularity": 0.0256,
+        "popularity": 0.2878,
         "profile_path": null,
         "credit_id": "64f67fb012197e011bac0291",
         "department": "Production",
@@ -255,76 +258,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 2200190,
-        "known_for_department": "Crew",
-        "name": "Vamsi Shekar",
-        "original_name": "Vamsi Shekar",
-        "popularity": 0.2716,
-        "profile_path": null,
-        "credit_id": "64f681205f2b8d00e12cfd9a",
-        "department": "Crew",
-        "job": "Public Relations"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1173569,
-        "known_for_department": "Writing",
-        "name": "Srikanth Addala",
-        "original_name": "Srikanth Addala",
-        "popularity": 0.2046,
-        "profile_path": null,
-        "credit_id": "64f67fd612197e00e1b547db",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 544993,
-        "known_for_department": "Editing",
-        "name": "Marthand K Venkatesh",
-        "original_name": "Marthand K Venkatesh",
-        "popularity": 0.1541,
-        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
-        "credit_id": "64f6801012197e011bac02e7",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
-        "gender": 0,
-        "id": 1139362,
-        "known_for_department": "Camera",
-        "name": "Chota K. Naidu",
-        "original_name": "Chota K. Naidu",
-        "popularity": 0.0796,
-        "profile_path": null,
-        "credit_id": "64f67fe48e20c50cd7f33270",
-        "department": "Camera",
-        "job": "Director of Photography"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 587735,
-        "known_for_department": "Crew",
-        "name": "Peter Hein",
-        "original_name": "Peter Hein",
-        "popularity": 0.4478,
-        "profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
-        "credit_id": "64f68042ac416101037577b9",
-        "department": "Crew",
-        "job": "Fight Choreographer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 3427452,
         "known_for_department": "Art",
         "name": "G.M. Sekhar",
         "original_name": "G.M. Sekhar",
-        "popularity": 0.1049,
+        "popularity": 0.3009,
         "profile_path": "/wm8N7InKmPUNut6qdMJPrQpVpb3.jpg",
         "credit_id": "64f68021e0ca7f00cbe6cd3d",
         "department": "Art",
@@ -333,37 +271,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1770025,
-        "known_for_department": "Sound",
-        "name": "Anurag Kulkarni",
-        "original_name": "Anurag Kulkarni",
-        "popularity": 0.1933,
-        "profile_path": null,
-        "credit_id": "64f688385f2b8d0139cf74ff",
-        "department": "Sound",
-        "job": "Playback Singer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 1309358,
-        "known_for_department": "Sound",
-        "name": "Mickey J Meyer",
-        "original_name": "Mickey J Meyer",
-        "popularity": 0.1163,
-        "profile_path": "/ogeUjNtob45rVaKJ9TKxwys46s2.jpg",
-        "credit_id": "64f68003b234b9010096310b",
-        "department": "Sound",
-        "job": "Original Music Composer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3325255,
         "known_for_department": "Sound",
         "name": "Chaitra Ambadipudi",
         "original_name": "Chaitra Ambadipudi",
-        "popularity": 0.0327,
+        "popularity": 0.2652,
         "profile_path": null,
         "credit_id": "64f688475f2b8d00abcbb30f",
         "department": "Sound",
@@ -372,27 +284,115 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 544993,
+        "known_for_department": "Editing",
+        "name": "Marthand K Venkatesh",
+        "original_name": "Marthand K Venkatesh",
+        "popularity": 0.4927,
+        "profile_path": "/5t3F2VGVmTLXMLumejZ8SqPCskW.jpg",
+        "credit_id": "64f6801012197e011bac02e7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587735,
+        "known_for_department": "Crew",
+        "name": "Peter Hein",
+        "original_name": "Peter Hein",
+        "popularity": 0.9145,
+        "profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+        "credit_id": "64f68042ac416101037577b9",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1173569,
+        "known_for_department": "Writing",
+        "name": "Srikanth Addala",
+        "original_name": "Srikanth Addala",
+        "popularity": 0.6809,
+        "profile_path": null,
+        "credit_id": "64f67fd612197e00e1b547db",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139362,
+        "known_for_department": "Camera",
+        "name": "Chota K. Naidu",
+        "original_name": "Chota K. Naidu",
+        "popularity": 0.3377,
+        "profile_path": null,
+        "credit_id": "64f67fe48e20c50cd7f33270",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1173569,
+        "known_for_department": "Writing",
+        "name": "Srikanth Addala",
+        "original_name": "Srikanth Addala",
+        "popularity": 0.6809,
+        "profile_path": null,
+        "credit_id": "64f67fd0b234b9013a4a801f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2200190,
+        "known_for_department": "Crew",
+        "name": "Vamsi Shekar",
+        "original_name": "Vamsi Shekar",
+        "popularity": 0.4059,
+        "profile_path": null,
+        "credit_id": "64f681205f2b8d00e12cfd9a",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1181164,
         "known_for_department": "Writing",
         "name": "Kalyan Chakravarthy",
         "original_name": "Kalyan Chakravarthy",
-        "popularity": 0.1625,
+        "popularity": 0.3181,
         "profile_path": null,
         "credit_id": "64f6882ff29d6635621dfbeb",
         "department": "Writing",
         "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770025,
+        "known_for_department": "Sound",
+        "name": "Anurag Kulkarni",
+        "original_name": "Anurag Kulkarni",
+        "popularity": 0.3319,
+        "profile_path": null,
+        "credit_id": "64f688385f2b8d0139cf74ff",
+        "department": "Sound",
+        "job": "Playback Singer"
       }
     ]
   },
   "external_ids": {
     "imdb_id": "tt27901967",
-    "wikidata_id": null,
+    "wikidata_id": "Q122921079",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -436,6 +436,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -577,8 +580,5 @@
         "type": "short title"
       }
     ]
-  },
-  "videos": {
-    "results": []
   }
 }

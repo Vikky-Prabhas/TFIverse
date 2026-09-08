@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Vetapalem",
   "overview": "",
-  "popularity": 0.085,
+  "popularity": 0.4041,
   "poster_path": "/4O0FpnOEeBRxsG6lHi5yyz5X5mM.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -49,11 +49,11 @@
         "known_for_department": "Directing",
         "name": "Ganesh Muthyala",
         "original_name": "Ganesh Muthyala",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "5ce505f7925141479bbad79f",
-        "department": "Writing",
-        "job": "Writer"
+        "credit_id": "5ce505ee0e0a26522acc78a4",
+        "department": "Directing",
+        "job": "Director"
       },
       {
         "adult": false,
@@ -62,23 +62,13 @@
         "known_for_department": "Directing",
         "name": "Ganesh Muthyala",
         "original_name": "Ganesh Muthyala",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
-        "credit_id": "5ce505ee0e0a26522acc78a4",
-        "department": "Directing",
-        "job": "Director"
+        "credit_id": "5ce505f7925141479bbad79f",
+        "department": "Writing",
+        "job": "Writer"
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt7897474",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "keywords": {
     "keywords": []
@@ -100,6 +90,19 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt7897474",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "videos": {
+    "results": []
+  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -115,8 +118,5 @@
         "width": 1200
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "పరుగో పరుగు",
   "overview": "The film stars Rajendra Prasad and Sruthi in lead roles. Based on Malik's novel of the same name.",
-  "popularity": 0.0286,
+  "popularity": 1.8614,
   "poster_path": "/ccus754IMqQ7SMzpnxtBEaXJsuG.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,9 +39,6 @@
   "video": false,
   "vote_average": 9,
   "vote_count": 1,
-  "videos": {
-    "results": []
-  },
   "credits": {
     "cast": [
       {
@@ -50,8 +47,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "Rambabu",
@@ -64,8 +61,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 2,
         "character": "Simha Swapnam",
@@ -79,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 3,
         "character": "Parandhamayya",
@@ -93,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Gollapudi Maruti Rao",
         "original_name": "Gollapudi Maruti Rao",
-        "popularity": 0.3054,
+        "popularity": 0.6855,
         "profile_path": "/n2Dg7xVS8OqTB7Pfc09JtodZUfa.jpg",
         "cast_id": 4,
         "character": "Saroja's father",
@@ -106,8 +103,8 @@
         "id": 584398,
         "known_for_department": "Acting",
         "name": "Disco Shanti",
-        "original_name": "Disco Shanti",
-        "popularity": 0.4806,
+        "original_name": "டிஸ்கோ சாந்தி",
+        "popularity": 2.0628,
         "profile_path": "/qma0bZivm3ce61LbI0U32AeCKv5.jpg",
         "cast_id": 5,
         "character": "Veeramma",
@@ -121,7 +118,7 @@
         "known_for_department": "Acting",
         "name": "Giri Babu",
         "original_name": "Giri Babu",
-        "popularity": 0.5728,
+        "popularity": 2.671,
         "profile_path": "/rOwTKoZGqAnh1jPCpPnn7ccAT0i.jpg",
         "cast_id": 6,
         "character": "Veeru",
@@ -135,7 +132,7 @@
         "known_for_department": "Acting",
         "name": "Shruti",
         "original_name": "Shruti",
-        "popularity": 0.2124,
+        "popularity": 0.7738,
         "profile_path": "/uySKBCaAiypFNlfcPmu44fCnucc.jpg",
         "cast_id": 7,
         "character": "Saroja",
@@ -149,7 +146,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 10,
         "character": "",
@@ -165,7 +162,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "69e28ad49d1c2b18af0d0fec",
         "department": "Directing",
@@ -178,7 +175,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "credit_id": "69e28aebd2327ce0c5bedeb5",
         "department": "Production",
@@ -191,7 +188,7 @@
         "known_for_department": "Directing",
         "name": "Narasimha Rao Relangi",
         "original_name": "Narasimha Rao Relangi",
-        "popularity": 0.1251,
+        "popularity": 1.1206,
         "profile_path": null,
         "credit_id": "69e28bc215a1f2f6f926e494",
         "department": "Writing",
@@ -204,7 +201,7 @@
         "known_for_department": "Acting",
         "name": "Y. Kasi Viswanath",
         "original_name": "Y. Kasi Viswanath",
-        "popularity": 0.3635,
+        "popularity": 1.206,
         "profile_path": "/sXLyWwvlfNSFfpp4PA1N5K9EuUE.jpg",
         "credit_id": "69e28bcf07bf6b439b3956b1",
         "department": "Writing",
@@ -212,31 +209,18 @@
       }
     ]
   },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
   "external_ids": {
     "imdb_id": "tt0281039",
     "wikidata_id": "Q24905712",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 1440,
-        "iso_3166_1": "IN",
-        "iso_639_1": "te",
-        "file_path": "/ccus754IMqQ7SMzpnxtBEaXJsuG.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 960
-      }
-    ]
   },
   "alternative_titles": {
     "titles": []
@@ -255,6 +239,22 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1440,
+        "iso_3166_1": "IN",
+        "iso_639_1": "te",
+        "file_path": "/ccus754IMqQ7SMzpnxtBEaXJsuG.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 960
       }
     ]
   }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Ee Cinema Superhit Guarantee",
   "overview": "Mahadev is a carefree guy who dreams of becoming a filmmaker. He is smitten by three women in life and all the three affairs prove to be a disaster. The interesting point is that all the three girls are named Sirisha.What is it in Mahadev that causes failures in his love relationships?",
-  "popularity": 0.1056,
+  "popularity": 0.5813,
   "poster_path": "/fuXkBofwxhKmngGWhd0aqOiTbM3.jpg",
   "production_companies": [
     {
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Punarnavi Bhupalam",
         "original_name": "Punarnavi Bhupalam",
-        "popularity": 0.1755,
+        "popularity": 0.5677,
         "profile_path": "/olzz3vaTk6MNF4sQFayHHaZuwL.jpg",
         "cast_id": 0,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Aishwarya Addala",
         "original_name": "Aishwarya Addala",
-        "popularity": 0.0071,
+        "popularity": 0.2923,
         "profile_path": "/uuZztlsntUv14ozmMc2ghB6uqUI.jpg",
         "cast_id": 1,
         "character": "",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "Y. Kasi Viswanath",
         "original_name": "Y. Kasi Viswanath",
-        "popularity": 0.3635,
+        "popularity": 1.206,
         "profile_path": "/sXLyWwvlfNSFfpp4PA1N5K9EuUE.jpg",
         "cast_id": 4,
         "character": "",
@@ -106,7 +106,7 @@
         "known_for_department": "Acting",
         "name": "Siri Sri",
         "original_name": "Siri Sri",
-        "popularity": 0,
+        "popularity": 0.3223,
         "profile_path": "/er0FZ2v05Zjd1UpWGsXREYq83ZS.jpg",
         "cast_id": 6,
         "character": "",
@@ -117,12 +117,25 @@
     "crew": [
       {
         "adult": false,
+        "gender": 2,
+        "id": 586679,
+        "known_for_department": "Sound",
+        "name": "Maruti",
+        "original_name": "Maruti",
+        "popularity": 0.2882,
+        "profile_path": null,
+        "credit_id": "5a7fe9100e0a262aa9019c7c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
         "gender": 0,
         "id": 1061959,
         "known_for_department": "Directing",
         "name": "Chandu",
         "original_name": "Chandu",
-        "popularity": 0.192,
+        "popularity": 0.3224,
         "profile_path": null,
         "credit_id": "5a7fe7ff0e0a262aac01a25a",
         "department": "Directing",
@@ -135,32 +148,16 @@
         "known_for_department": "Directing",
         "name": "Chandu",
         "original_name": "Chandu",
-        "popularity": 0.192,
+        "popularity": 0.3224,
         "profile_path": null,
         "credit_id": "5a7fe80ac3a36818950188f2",
         "department": "Writing",
         "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 586679,
-        "known_for_department": "Sound",
-        "name": "Maruti",
-        "original_name": "Maruti",
-        "popularity": 0.0168,
-        "profile_path": null,
-        "credit_id": "5a7fe9100e0a262aa9019c7c",
-        "department": "Sound",
-        "job": "Original Music Composer"
       }
     ]
   },
   "videos": {
     "results": []
-  },
-  "keywords": {
-    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt6092630",
@@ -185,6 +182,9 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [

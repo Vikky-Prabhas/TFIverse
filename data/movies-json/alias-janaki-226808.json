@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Alias Janaki",
   "overview": "Janaki Ram alias Janaki is an honest government official, who imbibes good ethical and moral values from his father (Naga Babu). He ends up having a confrontation with a goon Mysa when the later tries to forcefully grab the lands of poor people. Naturally, he ends up facing trouble from various quarters. Even his lady love Chaitra (Anisha) fails to understand his motives. The rest of the film shows how Janaki wins the situation and eventually wins over his girl by staying true to his ideals.",
-  "popularity": 0.2545,
+  "popularity": 1.2517,
   "poster_path": "/oUAf5ztbAOviQ24ZVXoDvMcENh2.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -39,13 +39,6 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "external_ids": {
-    "imdb_id": "tt2806926",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -55,7 +48,7 @@
         "known_for_department": "Acting",
         "name": "Venkat Rahul",
         "original_name": "Venkat Rahul",
-        "popularity": 0.0453,
+        "popularity": 0.4509,
         "profile_path": "/zUokVDAhGwAKfqvw9TcdQDgXDBB.jpg",
         "cast_id": 1,
         "character": "Janaki Ram",
@@ -69,7 +62,7 @@
         "known_for_department": "Acting",
         "name": "Anisha Ambrose",
         "original_name": "Anisha Ambrose",
-        "popularity": 0.2297,
+        "popularity": 1.0309,
         "profile_path": "/fDgSKRLoMMMB1YVPl8TDR6imovI.jpg",
         "cast_id": 2,
         "character": "Chaitra",
@@ -83,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Nagendra Babu",
         "original_name": "Nagendra Babu",
-        "popularity": 0.5935,
+        "popularity": 0.9864,
         "profile_path": "/9aW1BPFyiSZuIPpes2ISUhFZnfl.jpg",
         "cast_id": 4,
         "character": "",
@@ -97,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Tanikella Bharani",
         "original_name": "Tanikella Bharani",
-        "popularity": 0.8451,
+        "popularity": 2.5196,
         "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
         "cast_id": 5,
         "character": "",
@@ -111,7 +104,7 @@
         "known_for_department": "Acting",
         "name": "Shatru",
         "original_name": "Shatru",
-        "popularity": 0.5658,
+        "popularity": 1.5386,
         "profile_path": "/9VJhUHAh66pPsMUAgZ3Ik49lcRW.jpg",
         "cast_id": 8,
         "character": "",
@@ -125,12 +118,26 @@
         "known_for_department": "Acting",
         "name": "Temper Vamsi",
         "original_name": "Temper Vamsi",
-        "popularity": 0.2952,
+        "popularity": 10.5605,
         "profile_path": "/7QmDysL95O4LFocakRIZeE2Np9Q.jpg",
         "cast_id": 9,
         "character": "",
         "credit_id": "594ee521c3a36832bd03da3b",
         "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1953437,
+        "known_for_department": "Acting",
+        "name": "Sri Ramya",
+        "original_name": "Sri Ramya",
+        "popularity": 0.4639,
+        "profile_path": "/sCuhu7ExjWvsv34q3xqyNHMc5rY.jpg",
+        "cast_id": 10,
+        "character": "Priya",
+        "credit_id": "6a20619d8ca04cf2e6986dd4",
+        "order": 6
       }
     ],
     "crew": [
@@ -141,7 +148,7 @@
         "known_for_department": "Editing",
         "name": "Sreejith Sarang",
         "original_name": "Sreejith Sarang",
-        "popularity": 0.1664,
+        "popularity": 0.4738,
         "profile_path": "/xmUVJItTS8LAnYlY7rf4zfNorBr.jpg",
         "credit_id": "594ee032c3a36832ca03d6e9",
         "department": "Editing",
@@ -154,7 +161,7 @@
         "known_for_department": "Camera",
         "name": "Sujith Sarang",
         "original_name": "Sujith Sarang",
-        "popularity": 0.1593,
+        "popularity": 0.3604,
         "profile_path": "/c5rIWDm4xkzsjwsCyRlhTxFtXEF.jpg",
         "credit_id": "594ee011925141315503ff78",
         "department": "Crew",
@@ -167,7 +174,7 @@
         "known_for_department": "Directing",
         "name": "Kodavatiganti Dayaa",
         "original_name": "Kodavatiganti Dayaa",
-        "popularity": 0,
+        "popularity": 0.4548,
         "profile_path": null,
         "credit_id": "594edfa0c3a368329b043fe1",
         "department": "Directing",
@@ -175,8 +182,15 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt2806926",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -194,6 +208,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -221,11 +241,5 @@
         "width": 700
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
   }
 }

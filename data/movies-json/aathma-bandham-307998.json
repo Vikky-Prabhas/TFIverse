@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "ఆత్మబంధం",
   "overview": "",
-  "popularity": 0.1832,
+  "popularity": 1.9341,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [
@@ -51,9 +51,9 @@
         "gender": 2,
         "id": 91557,
         "known_for_department": "Acting",
-        "name": "Suman Talwar",
+        "name": "Suman",
         "original_name": "Suman Talwar",
-        "popularity": 0.691,
+        "popularity": 1.7241,
         "profile_path": "/p8hY2ZtAuZRx7LMpimQa5wCYG60.jpg",
         "cast_id": 1,
         "character": "",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Lissy",
         "original_name": "Lissy",
-        "popularity": 0.6012,
+        "popularity": 0.9776,
         "profile_path": "/A9JG159tSdET6SdpFoY8Z26Bs2N.jpg",
         "cast_id": 2,
         "character": "Shailaja",
@@ -80,8 +80,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 3,
         "character": "",
@@ -93,6 +93,13 @@
   },
   "keywords": {
     "keywords": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1579528",
+    "wikidata_id": "Q12991095",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -116,6 +123,9 @@
     "logos": [],
     "posters": []
   },
+  "videos": {
+    "results": []
+  },
   "alternative_titles": {
     "titles": [
       {
@@ -134,15 +144,5 @@
         "type": ""
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt1579528",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   }
 }

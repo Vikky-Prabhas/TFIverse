@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "శ్వాగ్",
   "overview": "The eternal battle of the sexes is played out across several generations of a family who seek to obtain a fortune.",
-  "popularity": 0.4271,
+  "popularity": 1.24,
   "poster_path": "/59j909O4PVE7vZxFU0JzuDzLuo7.jpg",
   "production_companies": [
     {
@@ -54,7 +54,17 @@
   "title": "Swag",
   "video": false,
   "vote_average": 6,
-  "vote_count": 3,
+  "vote_count": 5,
+  "videos": {
+    "results": []
+  },
+  "external_ids": {
+    "imdb_id": "tt28351127",
+    "wikidata_id": "Q130418878",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -63,8 +73,8 @@
         "id": 1751749,
         "known_for_department": "Acting",
         "name": "Sree Vishnu",
-        "original_name": "Sree Vishnu",
-        "popularity": 0.2607,
+        "original_name": "శ్రీ విష్ణు",
+        "popularity": 1.02,
         "profile_path": "/fSbWn5uUjPMgEtIIrZiJoiU9v1C.jpg",
         "cast_id": 1,
         "character": "King Bhavabuthi / SI Bhavabuthi / Yayathi / Singareni / \"Dhanabuthi\" Vibuthi",
@@ -78,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Ritu Varma",
         "original_name": "Ritu Varma",
-        "popularity": 0.3535,
+        "popularity": 0.7323,
         "profile_path": "/vTRnUN7NjBRaBT40bOUMwz1fSXn.jpg",
         "cast_id": 7,
         "character": "Rukminidevi / Sagunooka Anubhuti",
@@ -92,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Meera Jasmine",
         "original_name": "Meera Jasmine",
-        "popularity": 1.7672,
+        "popularity": 1.3493,
         "profile_path": "/df5WMEEpEIsCIebDCfnLcP1UHuL.jpg",
         "cast_id": 6,
         "character": "Utpaladevi / Revathi",
@@ -106,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Saranya Pradeep",
         "original_name": "Saranya Pradeep",
-        "popularity": 0.218,
+        "popularity": 0.8865,
         "profile_path": "/zGdjxXehk4Bashdfq4DpOqnVzc6.jpg",
         "cast_id": 8,
         "character": "Dakshayani / Kausalya",
@@ -120,7 +130,7 @@
         "known_for_department": "Acting",
         "name": "Daksha Nagarkar",
         "original_name": "Daksha Nagarkar",
-        "popularity": 0.1758,
+        "popularity": 1.0622,
         "profile_path": "/vnYsR2Vynqx21pMwRBCxm0CsUmh.jpg",
         "cast_id": 9,
         "character": "Vasundhara Devi / Kaluva \"Kallu\"",
@@ -134,7 +144,7 @@
         "known_for_department": "Acting",
         "name": "Goparaju Ramana",
         "original_name": "Goparaju Ramana",
-        "popularity": 0.18,
+        "popularity": 0.5645,
         "profile_path": "/vRQKXftT1PXokqcfOKL9JjoiBht.jpg",
         "cast_id": 13,
         "character": "Maharshi",
@@ -148,7 +158,7 @@
         "known_for_department": "Acting",
         "name": "Vadivukarasi",
         "original_name": "Vadivukarasi",
-        "popularity": 0.5914,
+        "popularity": 1.3721,
         "profile_path": "/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg",
         "cast_id": 14,
         "character": "Vijjamma",
@@ -162,8 +172,8 @@
         "known_for_department": "Acting",
         "name": "Sunil Varma",
         "original_name": "Sunil Varma",
-        "popularity": 0.6676,
-        "profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+        "popularity": 1.4685,
+        "profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
         "cast_id": 10,
         "character": "Vasudev \"Vasa\"",
         "credit_id": "666a66b810e2dc07a21c8346",
@@ -176,7 +186,7 @@
         "known_for_department": "Acting",
         "name": "Ravi Babu",
         "original_name": "Ravi Babu",
-        "popularity": 1.0616,
+        "popularity": 0.8019,
         "profile_path": "/qAz3Rp4t5REIPDPcbrE7Q6x1Nk0.jpg",
         "cast_id": 11,
         "character": "Chinnayana",
@@ -190,7 +200,7 @@
         "known_for_department": "Acting",
         "name": "Kadambari Kiran",
         "original_name": "Kadambari Kiran",
-        "popularity": 0.2213,
+        "popularity": 0.8561,
         "profile_path": "/j6oQNoZw0pT40e0RdtyKB84VuIE.jpg",
         "cast_id": 31,
         "character": "Vamsa Vruksha Nilayam Main Employee",
@@ -204,7 +214,7 @@
         "known_for_department": "Acting",
         "name": "Rajyalakshmi",
         "original_name": "Rajyalakshmi",
-        "popularity": 0.3307,
+        "popularity": 1.2319,
         "profile_path": "/iVQrWhfnqd45IOU1pQNmgPW8t7w.jpg",
         "cast_id": 28,
         "character": "Yayathi's Aunt",
@@ -218,7 +228,7 @@
         "known_for_department": "Acting",
         "name": "Harsh Roshan",
         "original_name": "Harsh Roshan",
-        "popularity": 0.5313,
+        "popularity": 1.3017,
         "profile_path": "/ekQc8WeD6Pj7pHxeetZCkMDN2G5.jpg",
         "cast_id": 26,
         "character": "Young Dhanabuthi / Young Bhavabuthi",
@@ -232,7 +242,7 @@
         "known_for_department": "Acting",
         "name": "Inturi Vasu",
         "original_name": "Inturi Vasu",
-        "popularity": 0.3976,
+        "popularity": 0.6001,
         "profile_path": "/8CHxyVCgrciY7Nxxd8g37rZQ5iA.jpg",
         "cast_id": 22,
         "character": "Daveed",
@@ -246,7 +256,7 @@
         "known_for_department": "Acting",
         "name": "Getup Srinu",
         "original_name": "Getup Srinu",
-        "popularity": 0.261,
+        "popularity": 1.535,
         "profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
         "cast_id": 12,
         "character": "Michael",
@@ -260,8 +270,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5665,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 23,
         "character": "Ekambaram",
         "credit_id": "672f42091770b0351de37b21",
@@ -274,7 +284,7 @@
         "known_for_department": "Acting",
         "name": "Anand",
         "original_name": "Anand",
-        "popularity": 0.4233,
+        "popularity": 2.4352,
         "profile_path": "/nITOqirdTcd3hDCZvp8QWknV6WU.jpg",
         "cast_id": 29,
         "character": "Kalavar",
@@ -288,7 +298,7 @@
         "known_for_department": "Acting",
         "name": "Sripathi",
         "original_name": "Sripathi",
-        "popularity": 0.0214,
+        "popularity": 0.3006,
         "profile_path": null,
         "cast_id": 27,
         "character": "Aahok Kumar",
@@ -302,7 +312,7 @@
         "known_for_department": "Acting",
         "name": "Kireeti Damaraju",
         "original_name": "Kireeti Damaraju",
-        "popularity": 0.2084,
+        "popularity": 0.7068,
         "profile_path": "/3IfiFJ9M5s3XEQPK0oDpfQkSH50.jpg",
         "cast_id": 24,
         "character": "Nishkalmasha",
@@ -316,7 +326,7 @@
         "known_for_department": "Acting",
         "name": "Gangavva",
         "original_name": "Gangavva",
-        "popularity": 0.1961,
+        "popularity": 0.4262,
         "profile_path": "/fpHfFGjdoGvvS3rXHLCH67uURGn.jpg",
         "cast_id": 25,
         "character": "Rudramma",
@@ -332,7 +342,7 @@
         "known_for_department": "Directing",
         "name": "Hasith Goli",
         "original_name": "Hasith Goli",
-        "popularity": 0.4339,
+        "popularity": 1.8071,
         "profile_path": "/disJrWRNwoWeNkLXQtVwn8eioQZ.jpg",
         "credit_id": "65e82369344a8e01643e7cc2",
         "department": "Directing",
@@ -345,7 +355,7 @@
         "known_for_department": "Directing",
         "name": "Hasith Goli",
         "original_name": "Hasith Goli",
-        "popularity": 0.4339,
+        "popularity": 1.8071,
         "profile_path": "/disJrWRNwoWeNkLXQtVwn8eioQZ.jpg",
         "credit_id": "65e823c7a6c1040187e984ff",
         "department": "Writing",
@@ -356,9 +366,9 @@
         "gender": 2,
         "id": 2459948,
         "known_for_department": "Production",
-        "name": "T G Vishwa Prasad",
+        "name": "T.G. Vishwa Prasad",
         "original_name": "T G Vishwa Prasad",
-        "popularity": 0.1729,
+        "popularity": 0.5749,
         "profile_path": null,
         "credit_id": "65e8242e344a8e01643e7e1d",
         "department": "Production",
@@ -371,7 +381,7 @@
         "known_for_department": "Editing",
         "name": "Viplav Nyshadam",
         "original_name": "Viplav Nyshadam",
-        "popularity": 0.0948,
+        "popularity": 0.3457,
         "profile_path": null,
         "credit_id": "65e824afa1a9ba0185bed84e",
         "department": "Editing",
@@ -384,7 +394,7 @@
         "known_for_department": "Sound",
         "name": "Vivek Sagar",
         "original_name": "Vivek Sagar",
-        "popularity": 0.1866,
+        "popularity": 0.535,
         "profile_path": "/eV1nojyD0glmD9aY5EKnga7IY4N.jpg",
         "credit_id": "66d3af414321ae97bb0e30a1",
         "department": "Sound",
@@ -397,7 +407,7 @@
         "known_for_department": "Directing",
         "name": "Hasith Goli",
         "original_name": "Hasith Goli",
-        "popularity": 0.4339,
+        "popularity": 1.8071,
         "profile_path": "/disJrWRNwoWeNkLXQtVwn8eioQZ.jpg",
         "credit_id": "66face8bc59a2db32dd01cba",
         "department": "Writing",
@@ -410,7 +420,7 @@
         "known_for_department": "Camera",
         "name": "Vedaraman Sankaran",
         "original_name": "Vedaraman Sankaran",
-        "popularity": 0.0521,
+        "popularity": 0.3122,
         "profile_path": null,
         "credit_id": "66faceb39c686a4602133ec3",
         "department": "Camera",
@@ -423,7 +433,7 @@
         "known_for_department": "Production",
         "name": "Vivek Kuchibhotla",
         "original_name": "Vivek Kuchibhotla",
-        "popularity": 0.2748,
+        "popularity": 0.3834,
         "profile_path": "/vN4Rx7Rs1azGKJRXE9izBJzr3aS.jpg",
         "credit_id": "66facf581c5df25f10d015bd",
         "department": "Production",
@@ -436,7 +446,7 @@
         "known_for_department": "Writing",
         "name": "Krithi Prasad",
         "original_name": "Krithi Prasad",
-        "popularity": 0.0143,
+        "popularity": 0.2792,
         "profile_path": null,
         "credit_id": "66facfd0920e942003133f60",
         "department": "Writing",
@@ -449,7 +459,7 @@
         "known_for_department": "Directing",
         "name": "K. Viswanath",
         "original_name": "K. Viswanath",
-        "popularity": 0.4961,
+        "popularity": 1.345,
         "profile_path": "/xV2uf0Vrl8vODySAAwRjp58nbpY.jpg",
         "credit_id": "672f3785a71aea7caff9ba8c",
         "department": "Crew",
@@ -462,7 +472,7 @@
         "known_for_department": "Directing",
         "name": "Singeetam Srinivasa Rao",
         "original_name": "Singeetam Srinivasa Rao",
-        "popularity": 0.6751,
+        "popularity": 1.5739,
         "profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
         "credit_id": "672f37973d1b19bf3dbc1df4",
         "department": "Crew",
@@ -470,15 +480,13 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt28351127",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": [
+      {
+        "id": 163096,
+        "name": "battle of the sexes"
+      }
+    ]
   },
   "release_dates": {
     "results": [
@@ -531,11 +539,12 @@
       }
     ]
   },
-  "keywords": {
-    "keywords": [
+  "alternative_titles": {
+    "titles": [
       {
-        "id": 163096,
-        "name": "battle of the sexes"
+        "iso_3166_1": "IR",
+        "title": "شکوه",
+        "type": ""
       }
     ]
   },
@@ -634,15 +643,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 2000
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IR",
-        "title": "شکوه",
-        "type": ""
       }
     ]
   }

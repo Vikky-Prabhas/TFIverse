@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "పెళ్లి పందిరి",
   "overview": "Govind (Jagapati Babu) and Prakash (Prithuvi Raj) became best friends since Prakash's father (Raghunath Reddy) killed Govind's mother in a car accident. Despite his father refusal, Prakash took Murthy into his house.  A few years later, when Prakash goes to America to study, Govind leaves the house after hearing Prakash's parents who decide to give off him. An old man accommodates Govind and the man begin to call him by that name. Govind falls in love with Kasturi (Raasi) a blind flower seller. Kasturi's father (Costume Krishna) renounced to drink alcohol and he decided to go to work after Govind's preach, but he died the next day in a car accident. Being Kasturi's last relation, he admitted her into a hospital for an eye operation. In order to pay it, he takes come money from a drunk man's house. In a misunderstanding, he was arrested by the police and he was sent to jail.",
-  "popularity": 0.2674,
+  "popularity": 0.7501,
   "poster_path": "/gEgqVEmCS5NgGDO7fkp4fNU85I0.jpg",
   "production_companies": [
     {
@@ -55,6 +55,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Jagapati Babu",
         "original_name": "Jagapati Babu",
-        "popularity": 0.7855,
+        "popularity": 1.6974,
         "profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
         "cast_id": 0,
         "character": "Govind",
@@ -78,8 +81,8 @@
         "known_for_department": "Acting",
         "name": "Raasi",
         "original_name": "Raasi",
-        "popularity": 0.7164,
-        "profile_path": "/te4b8v3SbrPYX81qAY4SeJBccVP.jpg",
+        "popularity": 1.3424,
+        "profile_path": "/e3K8Oq0qjzAthJr67ptKUVnaP02.jpg",
         "cast_id": 1,
         "character": "Kasthuri",
         "credit_id": "5b1a9bb70e0a261f9f013d46",
@@ -92,8 +95,8 @@
         "known_for_department": "Acting",
         "name": "Prudhviraj",
         "original_name": "Prudhviraj",
-        "popularity": 0.5455,
-        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "popularity": 2.3976,
+        "profile_path": "/lNyBQMo0rEnLQsRV8IQsU2j5m8f.jpg",
         "cast_id": 2,
         "character": "Prakash",
         "credit_id": "5b1a9bc8c3a368490401395d",
@@ -106,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Sarath Babu",
         "original_name": "Sarath Babu",
-        "popularity": 0.5311,
+        "popularity": 1.4215,
         "profile_path": "/giugWi2EV6GYxmrkn4XKgyvjRGp.jpg",
         "cast_id": 3,
         "character": "Inspector Rama Rao",
@@ -120,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Suhasini Maniratnam",
         "original_name": "Suhasini Maniratnam",
-        "popularity": 0.7094,
+        "popularity": 2.1358,
         "profile_path": "/24vsI41UVT3aU4mFwQUfLVGUl6o.jpg",
         "cast_id": 4,
         "character": "Dr. Prabhavathi",
@@ -131,25 +134,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 0,
-        "id": 2060041,
-        "known_for_department": "Production",
-        "name": "G. Aswartha Narayana Babu",
-        "original_name": "G. Aswartha Narayana Babu",
-        "popularity": 0,
-        "profile_path": null,
-        "credit_id": "5b1a9c3dc3a368490b0112f9",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
         "gender": 2,
         "id": 1966296,
         "known_for_department": "Writing",
         "name": "Thotapalli Madhu",
         "original_name": "Thotapalli Madhu",
-        "popularity": 0.1218,
+        "popularity": 0.83,
         "profile_path": "/po8ndHRiw5Ts6OjVex354pmnEHw.jpg",
         "credit_id": "5b1a9c75c3a3684913013ac8",
         "department": "Writing",
@@ -158,11 +148,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 2060041,
+        "known_for_department": "Production",
+        "name": "G. Aswartha Narayana Babu",
+        "original_name": "G. Aswartha Narayana Babu",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "credit_id": "5b1a9c3dc3a368490b0112f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 1312090,
         "known_for_department": "Writing",
         "name": "Umakanth Thumrugoti",
         "original_name": "Umakanth Thumrugoti",
-        "popularity": 0.1849,
+        "popularity": 0.2838,
         "profile_path": null,
         "credit_id": "5b1a9cb70e0a261f9001368d",
         "department": "Writing",
@@ -171,28 +174,28 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 1343070,
-        "known_for_department": "Sound",
-        "name": "Vandemataram Srinivas",
-        "original_name": "Vandemataram Srinivas",
-        "popularity": 0.0596,
-        "profile_path": null,
-        "credit_id": "5b1a9cd3c3a3684907016c44",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 2060042,
         "known_for_department": "Crew",
         "name": "M. Mohan Chand",
         "original_name": "M. Mohan Chand",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "5b1a9d030e0a261f97013d6c",
         "department": "Crew",
         "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1343070,
+        "known_for_department": "Sound",
+        "name": "Vandemataram Srinivas",
+        "original_name": "Vandemataram Srinivas",
+        "popularity": 0.3568,
+        "profile_path": null,
+        "credit_id": "5b1a9cd3c3a3684907016c44",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
@@ -201,7 +204,7 @@
         "known_for_department": "Editing",
         "name": "Tata Suresh",
         "original_name": "Tata Suresh",
-        "popularity": 0.0071,
+        "popularity": 0.2607,
         "profile_path": null,
         "credit_id": "5b1a9d1fc3a36848f6017b61",
         "department": "Editing",
@@ -214,7 +217,7 @@
         "known_for_department": "Directing",
         "name": "Kodi Ramakrishna",
         "original_name": "Kodi Ramakrishna",
-        "popularity": 0.2546,
+        "popularity": 1.5666,
         "profile_path": "/A3VWjOpmJ9q9ChAlHOF5dNspuAX.jpg",
         "credit_id": "5ed9e79c4d6791001da715a4",
         "department": "Directing",
@@ -222,15 +225,32 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt1579859",
     "wikidata_id": "Q19573647",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "1998-01-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "keywords": {
     "keywords": []
@@ -248,26 +268,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 500
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "te",
-            "note": "",
-            "release_date": "1998-01-09T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   }

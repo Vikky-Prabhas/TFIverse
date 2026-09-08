@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Che",
   "overview": "A cinematic exploration of the indomitable spirit of Che Guevara, capturing his remarkable journey as a fighter and a symbol of revolution.",
-  "popularity": 0.1982,
+  "popularity": 0.7201,
   "poster_path": "/idW7lvOdDzbaIBkoCBACMKkcVEG.jpg",
   "production_companies": [
     {
@@ -60,7 +60,7 @@
         "known_for_department": "Acting",
         "name": "Pasala Uma Maheshwar",
         "original_name": "Pasala Uma Maheshwar",
-        "popularity": 0.0143,
+        "popularity": 0.3293,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -74,7 +74,7 @@
         "known_for_department": "Writing",
         "name": "B.R. Sabhavath Nayak",
         "original_name": "B.R. Sabhavath Nayak",
-        "popularity": 0.0143,
+        "popularity": 0.2756,
         "profile_path": null,
         "cast_id": 7,
         "character": "",
@@ -88,7 +88,7 @@
         "known_for_department": "Acting",
         "name": "Kartheek Nune",
         "original_name": "Kartheek Nune",
-        "popularity": 0.0143,
+        "popularity": 0.2964,
         "profile_path": null,
         "cast_id": 8,
         "character": "",
@@ -102,7 +102,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Sameera",
         "original_name": "Lavanya Sameera",
-        "popularity": 0.0214,
+        "popularity": 0.3103,
         "profile_path": null,
         "cast_id": 9,
         "character": "",
@@ -116,7 +116,7 @@
         "known_for_department": "Acting",
         "name": "Pula Siddeshwar",
         "original_name": "Pula Siddeshwar",
-        "popularity": 0.0143,
+        "popularity": 0.2725,
         "profile_path": null,
         "cast_id": 10,
         "character": "",
@@ -132,7 +132,7 @@
         "known_for_department": "Writing",
         "name": "B.R. Sabhavath Nayak",
         "original_name": "B.R. Sabhavath Nayak",
-        "popularity": 0.0143,
+        "popularity": 0.2756,
         "profile_path": null,
         "credit_id": "650d31a54da3d400eae2d1b1",
         "department": "Directing",
@@ -141,24 +141,11 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4284444,
-        "known_for_department": "Writing",
-        "name": "B.R. Sabhavath Nayak",
-        "original_name": "B.R. Sabhavath Nayak",
-        "popularity": 0.0143,
-        "profile_path": null,
-        "credit_id": "650d31adf92532012cc9803e",
-        "department": "Writing",
-        "job": "Writer"
-      },
-      {
-        "adult": false,
-        "gender": 0,
         "id": 3343455,
         "known_for_department": "Camera",
         "name": "Kalyan Sami",
         "original_name": "Kalyan Sami",
-        "popularity": 0,
+        "popularity": 0.2666,
         "profile_path": null,
         "credit_id": "650d31cd51a64e013d9b875e",
         "department": "Crew",
@@ -167,11 +154,24 @@
       {
         "adult": false,
         "gender": 0,
+        "id": 4284444,
+        "known_for_department": "Writing",
+        "name": "B.R. Sabhavath Nayak",
+        "original_name": "B.R. Sabhavath Nayak",
+        "popularity": 0.2756,
+        "profile_path": null,
+        "credit_id": "650d31adf92532012cc9803e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
         "id": 3325573,
         "known_for_department": "Editing",
         "name": "Shiva Sarvani",
         "original_name": "Shiva Sarvani",
-        "popularity": 0.0669,
+        "popularity": 0.2777,
         "profile_path": null,
         "credit_id": "650d31de51a64e013d9b8774",
         "department": "Editing",
@@ -184,7 +184,7 @@
         "known_for_department": "Sound",
         "name": "Ravi Shankar",
         "original_name": "Ravi Shankar",
-        "popularity": 0.1126,
+        "popularity": 0.2915,
         "profile_path": null,
         "credit_id": "663ed6eb84ffe472adc12ca7",
         "department": "Sound",
@@ -194,13 +194,6 @@
   },
   "videos": {
     "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt28710161",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": [
@@ -213,6 +206,13 @@
         "name": "che guevara"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt28710161",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   },
   "release_dates": {
     "results": [
@@ -231,9 +231,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -249,5 +246,8 @@
         "width": 1129
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

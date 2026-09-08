@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "#SVCC39",
   "overview": "Plot details under wraps.",
-  "popularity": 0.1135,
+  "popularity": 1.1803,
   "poster_path": null,
   "production_companies": [
     {
@@ -49,7 +49,7 @@
       "name": "తెలుగు"
     }
   ],
-  "status": "In Production",
+  "status": "Rumored",
   "tagline": "",
   "title": "#SVCC39",
   "video": false,
@@ -62,9 +62,9 @@
         "gender": 2,
         "id": 237325,
         "known_for_department": "Acting",
-        "name": "Gopichand",
-        "original_name": "Gopichand",
-        "popularity": 1.1431,
+        "name": "T. Gopichand",
+        "original_name": "టి. గోపీచంద్",
+        "popularity": 1.6621,
         "profile_path": "/faFnhPCmtdL6qKhroiyHjgS8lqN.jpg",
         "cast_id": 1,
         "character": "",
@@ -78,7 +78,7 @@
         "known_for_department": "Acting",
         "name": "Meenakshi Dinesh",
         "original_name": "Meenakshi Dinesh",
-        "popularity": 5.3079,
+        "popularity": 2.6587,
         "profile_path": "/o0YtfGpdX0wozp2ASeW4pmveEuO.jpg",
         "cast_id": 2,
         "character": "",
@@ -94,7 +94,7 @@
         "known_for_department": "Production",
         "name": "BVSN Prasad",
         "original_name": "BVSN Prasad",
-        "popularity": 0.0929,
+        "popularity": 0.3188,
         "profile_path": "/vS385izkenW8jKvVFZvQQPIFR5o.jpg",
         "credit_id": "69675d113566b8c4d9703632",
         "department": "Production",
@@ -107,16 +107,13 @@
         "known_for_department": "Camera",
         "name": "Shamdat Sainudeen",
         "original_name": "Shamdat Sainudeen",
-        "popularity": 0.2201,
+        "popularity": 0.4793,
         "profile_path": null,
         "credit_id": "69675d9fa614b2121d686da7",
         "department": "Camera",
         "job": "Director of Photography"
       }
     ]
-  },
-  "videos": {
-    "results": []
   },
   "external_ids": {
     "imdb_id": "tt36669780",
@@ -128,9 +125,6 @@
   "keywords": {
     "keywords": []
   },
-  "release_dates": {
-    "results": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
@@ -138,5 +132,11 @@
   },
   "alternative_titles": {
     "titles": []
+  },
+  "videos": {
+    "results": []
+  },
+  "release_dates": {
+    "results": []
   }
 }

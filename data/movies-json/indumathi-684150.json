@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "ఇందుమతి",
   "overview": "A telugu horror film.",
-  "popularity": 0.0486,
+  "popularity": 0.4132,
   "poster_path": "/nNV1px6qiQXHCmltHtITBRUjhnk.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -26,15 +26,8 @@
   "tagline": "",
   "title": "Indumathi",
   "video": false,
-  "vote_average": 0,
-  "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
-  "videos": {
-    "results": []
-  },
+  "vote_average": 4,
+  "vote_count": 1,
   "external_ids": {
     "imdb_id": "tt8736910",
     "wikidata_id": null,
@@ -45,8 +38,15 @@
   "keywords": {
     "keywords": []
   },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
   "release_dates": {
     "results": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [],
@@ -64,7 +64,7 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
+  "videos": {
+    "results": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Krishna Madhura",
   "overview": "",
-  "popularity": 0.0256,
+  "popularity": 0.4,
   "poster_path": "/x6ORKovZbBImqfAzj8QyIXTn04Z.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -33,40 +33,18 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [
-      {
-        "adult": false,
-        "gender": 2,
-        "id": 5066837,
-        "known_for_department": "Acting",
-        "name": "Sriteja jeedigunta",
-        "original_name": "Sriteja jeedigunta",
-        "popularity": 0,
-        "profile_path": null,
-        "cast_id": 1,
-        "character": "Krishna",
-        "credit_id": "673b5863c6412b3669654330",
-        "order": 0
-      }
-    ],
-    "crew": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": null,
     "wikidata_id": null,
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": []
@@ -86,5 +64,27 @@
         "width": 1280
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5066837,
+        "known_for_department": "Acting",
+        "name": "Sriteja jeedigunta",
+        "original_name": "Sriteja jeedigunta",
+        "popularity": 0.2845,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Krishna",
+        "credit_id": "673b5863c6412b3669654330",
+        "order": 0
+      }
+    ],
+    "crew": []
   }
 }

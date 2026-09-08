@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "దగ్గరగా దూరంగా",
   "overview": "Daggaraga Dooramga movie is romantic thriller based movie in which, Sumanth playing a role of Gautham who is working as creative director in Advertising agency, Vedhika playing a role of Meenakshi.",
-  "popularity": 0.2925,
+  "popularity": 1.7407,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -43,7 +43,7 @@
         "known_for_department": "Acting",
         "name": "Sumanth",
         "original_name": "Sumanth",
-        "popularity": 0.4526,
+        "popularity": 0.9161,
         "profile_path": "/1KbLdhw6S9A3EBM1dUyGfSOpzXO.jpg",
         "cast_id": 1,
         "character": "Gautham",
@@ -57,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Vedhika",
         "original_name": "Vedhika",
-        "popularity": 1.3271,
+        "popularity": 1.0993,
         "profile_path": "/aVCfGUDKsycQErKwqenRWpHbbdd.jpg",
         "cast_id": 3,
         "character": "Meenakshi (as Vedika C. Kumar)",
@@ -71,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Sindhu Tolani",
         "original_name": "Sindhu Tolani",
-        "popularity": 0.2805,
+        "popularity": 0.6753,
         "profile_path": null,
         "cast_id": 4,
         "character": "Zarina",
@@ -85,7 +85,7 @@
         "known_for_department": "Acting",
         "name": "Pragathi Mahavadi",
         "original_name": "Pragathi Mahavadi",
-        "popularity": 0.6511,
+        "popularity": 1.3133,
         "profile_path": "/9v63JB33LMkfR90raHu9O1iHZOQ.jpg",
         "cast_id": 5,
         "character": "",
@@ -98,8 +98,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.5485,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 6,
         "character": "",
@@ -112,8 +112,8 @@
         "id": 591153,
         "known_for_department": "Acting",
         "name": "Raghu Babu",
-        "original_name": "Raghu Babu",
-        "popularity": 0.7605,
+        "original_name": "రఘుబాబు",
+        "popularity": 2.3104,
         "profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
         "cast_id": 7,
         "character": "",
@@ -127,7 +127,7 @@
         "known_for_department": "Acting",
         "name": "Ajay",
         "original_name": "Ajay",
-        "popularity": 0.8393,
+        "popularity": 0.9815,
         "profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
         "cast_id": 8,
         "character": "",
@@ -143,7 +143,7 @@
         "known_for_department": "Directing",
         "name": "Ravi C. Kumar",
         "original_name": "Ravi C. Kumar",
-        "popularity": 0.0801,
+        "popularity": 0.4784,
         "profile_path": null,
         "credit_id": "52fe497cc3a368484e12ddf5",
         "department": "Directing",
@@ -151,15 +151,8 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt2063633",
-    "wikidata_id": "Q5208516",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -177,6 +170,21 @@
         ]
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2063633",
+    "wikidata_id": "Q5208516",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
   },
   "alternative_titles": {
     "titles": [
@@ -201,13 +209,5 @@
         "type": "Malayalam title"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": []
   }
 }

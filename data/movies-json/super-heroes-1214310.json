@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Super Heroes",
   "overview": "two brothers journey in their life",
-  "popularity": 0.2591,
+  "popularity": 0.5275,
   "poster_path": "/oIghz8IYisshHPkfOGnmS9yomsf.jpg",
   "production_companies": [
     {
@@ -51,6 +51,13 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt1579884",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
   "credits": {
     "cast": [
       {
@@ -59,8 +66,8 @@
         "id": 113810,
         "known_for_department": "Acting",
         "name": "Brahmanandam",
-        "original_name": "Brahmanandam",
-        "popularity": 2.0993,
+        "original_name": "బ్రహ్మానందం",
+        "popularity": 3.4338,
         "profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
         "cast_id": 1,
         "character": "",
@@ -74,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "cast_id": 2,
         "character": "",
@@ -87,8 +94,8 @@
         "id": 86015,
         "known_for_department": "Acting",
         "name": "Lakshmi",
-        "original_name": "Lakshmi",
-        "popularity": 0.6305,
+        "original_name": "லட்சுமி",
+        "popularity": 2.4721,
         "profile_path": "/ddJU483vxl0kqPL9O30LDWDBj1J.jpg",
         "cast_id": 3,
         "character": "",
@@ -102,7 +109,7 @@
         "known_for_department": "Acting",
         "name": "Narra Venkateswara Rao",
         "original_name": "Narra Venkateswara Rao",
-        "popularity": 0.2077,
+        "popularity": 1.6152,
         "profile_path": "/dhpd7PAY06hhHDDOEsLIUFFTMQZ.jpg",
         "cast_id": 4,
         "character": "",
@@ -116,7 +123,7 @@
         "known_for_department": "Acting",
         "name": "Rajitha",
         "original_name": "Rajitha",
-        "popularity": 0.1654,
+        "popularity": 0.9232,
         "profile_path": "/hJboXrXGnLff4Prqut67stRJNml.jpg",
         "cast_id": 5,
         "character": "",
@@ -128,24 +135,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 225317,
-        "known_for_department": "Sound",
-        "name": "Mani Sharma",
-        "original_name": "Mani Sharma",
-        "popularity": 0.3339,
-        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
-        "credit_id": "657056fe79a1c30138e0bc29",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1334885,
         "known_for_department": "Acting",
         "name": "Amanchi Venkata Subrahmanyam",
         "original_name": "Amanchi Venkata Subrahmanyam",
-        "popularity": 0.1743,
+        "popularity": 1.7342,
         "profile_path": "/flibtZ5M6FIFhA6OFvm2IP7NDLX.jpg",
         "credit_id": "657056d579a1c30138e0bc0f",
         "department": "Directing",
@@ -154,11 +148,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 225317,
+        "known_for_department": "Sound",
+        "name": "Mani Sharma",
+        "original_name": "Mani Sharma",
+        "popularity": 0.4997,
+        "profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+        "credit_id": "657056fe79a1c30138e0bc29",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 1136563,
         "known_for_department": "Production",
         "name": "D. Rama Naidu",
         "original_name": "D. Rama Naidu",
-        "popularity": 0.1886,
+        "popularity": 0.4203,
         "profile_path": "/gGZgHVJmWIIu1RzjlxFmoKDDdW0.jpg",
         "credit_id": "6570573f383df2010cedd6d1",
         "department": "Production",
@@ -166,12 +173,11 @@
       }
     ]
   },
-  "external_ids": {
-    "imdb_id": "tt1579884",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "images": {
     "backdrops": [],
@@ -189,21 +195,6 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "super heros",
-        "type": ""
-      }
-    ]
-  },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
   "release_dates": {
     "results": [
       {
@@ -218,6 +209,15 @@
             "type": 3
           }
         ]
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "super heros",
+        "type": ""
       }
     ]
   }

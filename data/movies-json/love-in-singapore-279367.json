@@ -26,7 +26,7 @@
   "original_language": "te",
   "original_title": "Love In Singapore",
   "overview": "Love in Singapore is action romance based movie in which, Chiranjeevi (suresh) acted as the brother of Ranganath who is the main hero of the film. chiru’s father (P J Sharma) is a police officer and one day he catches a criminal ( om prakash) and sends him to jail. chiru and ranganath were small boys at that time. One night chiru quarrles with his brother over a silly issue and when his father beats him ,he runs away from house in anger. Same night the villain cames to chiru’s house and kills his father in revenge.",
-  "popularity": 0.1767,
+  "popularity": 0.9831,
   "poster_path": "/S3UDtHPrUqmioeqZRvDbLPGKRn.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -50,7 +50,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -64,7 +64,7 @@
         "known_for_department": "Acting",
         "name": "Ranganath",
         "original_name": "Ranganath",
-        "popularity": 0.3078,
+        "popularity": 1.5237,
         "profile_path": null,
         "cast_id": 4,
         "character": "",
@@ -77,9 +77,9 @@
         "id": 585098,
         "known_for_department": "Acting",
         "name": "Latha Sethupathi",
-        "original_name": "Latha Sethupathi",
-        "popularity": 0.3975,
-        "profile_path": null,
+        "original_name": "லதா",
+        "popularity": 2.2338,
+        "profile_path": "/zc7zkHEjwaMgFPFw0BKq9ESt06n.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "53b0d92f0e0a2659890072f9",
@@ -92,7 +92,7 @@
         "known_for_department": "Acting",
         "name": "PJ Sarma",
         "original_name": "PJ Sarma",
-        "popularity": 0.0071,
+        "popularity": 0.2566,
         "profile_path": null,
         "cast_id": 6,
         "character": "",
@@ -108,7 +108,7 @@
         "known_for_department": "Directing",
         "name": "Anjaneyulu",
         "original_name": "Anjaneyulu",
-        "popularity": 0.0143,
+        "popularity": 0.2679,
         "profile_path": null,
         "credit_id": "53b0d80fc3a3682edb005bb2",
         "department": "Directing",
@@ -120,8 +120,8 @@
         "id": 584319,
         "known_for_department": "Sound",
         "name": "Ganesh",
-        "original_name": "Ganesh",
-        "popularity": 0.0857,
+        "original_name": "கணேஷ்",
+        "popularity": 0.4575,
         "profile_path": "/1T0T1LscSuZp8k0EGPzvTWu7tl2.jpg",
         "credit_id": "53b0d8120e0a2659890072d6",
         "department": "Sound",
@@ -134,13 +134,19 @@
         "known_for_department": "Production",
         "name": "M Chanra Kumar",
         "original_name": "M Chanra Kumar",
-        "popularity": 0,
+        "popularity": 0.25,
         "profile_path": null,
         "credit_id": "53b0d817c3a3682edb005bb8",
         "department": "Production",
         "job": "Producer"
       }
     ]
+  },
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "external_ids": {
     "imdb_id": "tt7855902",
@@ -149,11 +155,22 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "keywords": {
-    "keywords": []
-  },
-  "videos": {
-    "results": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-09-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   },
   "images": {
     "backdrops": [
@@ -179,23 +196,6 @@
         "vote_average": 0,
         "vote_count": 0,
         "width": 1000
-      }
-    ]
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "U",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "1980-09-29T00:00:00.000Z",
-            "type": 3
-          }
-        ]
       }
     ]
   },

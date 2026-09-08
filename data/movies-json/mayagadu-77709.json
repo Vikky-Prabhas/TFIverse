@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Mayagadu",
   "overview": "Leela Krishna is an orphan and he believes that it is the money, which rules the life, becomes a lawyer and marries Vandana and finally makes his married life successful after a small dispute.",
-  "popularity": 0,
+  "popularity": 0.4361,
   "poster_path": "/kTE17WP2ZCqZXOlfz2MJ2bEU3Eo.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -34,39 +34,18 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
-  "credits": {
-    "cast": [],
-    "crew": []
-  },
   "videos": {
     "results": []
   },
+  "keywords": {
+    "keywords": []
+  },
   "external_ids": {
     "imdb_id": "tt2079539",
-    "wikidata_id": null,
+    "wikidata_id": "Q16316183",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2011-07-16T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
-  },
-  "keywords": {
-    "keywords": []
   },
   "images": {
     "backdrops": [],
@@ -84,7 +63,28 @@
       }
     ]
   },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
   "alternative_titles": {
     "titles": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-07-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

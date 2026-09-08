@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "కృష్ణ ఘట్టం",
   "overview": "\"Krishna Ghattam\" is a tale of morality and reform. Amidst turmoil, Prasad decides to stand tall. A casanova's pursuits meet his nemesis. A self-righteous boy is tested. Will there be reform? See the battle between wisdom and intelligence.",
-  "popularity": 0.2176,
+  "popularity": 0.5227,
   "poster_path": "/cgMZKCVMi3h7RGfXl5pvILRwfmY.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -52,7 +52,7 @@
         "known_for_department": "Acting",
         "name": "Chaitanya Krishna",
         "original_name": "Chaitanya Krishna",
-        "popularity": 0.2136,
+        "popularity": 0.7995,
         "profile_path": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg",
         "cast_id": 1,
         "character": "",
@@ -66,7 +66,7 @@
         "known_for_department": "Acting",
         "name": "Duvvasi Mohan",
         "original_name": "Duvvasi Mohan",
-        "popularity": 0.3439,
+        "popularity": 0.9488,
         "profile_path": "/oN2XhpPwZWXP544QhMrkrekTP2X.jpg",
         "cast_id": 2,
         "character": "",
@@ -80,7 +80,7 @@
         "known_for_department": "Acting",
         "name": "Maya Nelluri",
         "original_name": "Maya Nelluri",
-        "popularity": 0.0143,
+        "popularity": 0.2927,
         "profile_path": null,
         "cast_id": 3,
         "character": "",
@@ -90,9 +90,6 @@
     ],
     "crew": []
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt29058970",
     "wikidata_id": null,
@@ -100,22 +97,11 @@
     "instagram_id": null,
     "twitter_id": null
   },
-  "release_dates": {
-    "results": [
-      {
-        "iso_3166_1": "IN",
-        "release_dates": [
-          {
-            "certification": "",
-            "descriptors": [],
-            "iso_639_1": "",
-            "note": "",
-            "release_date": "2023-11-03T00:00:00.000Z",
-            "type": 3
-          }
-        ]
-      }
-    ]
+  "videos": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "images": {
     "backdrops": [
@@ -147,7 +133,21 @@
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
   }
 }

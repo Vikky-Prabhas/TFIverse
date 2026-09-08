@@ -75,6 +75,7 @@ export default async function CategoryHubPage({ params }: { params: Promise<{ ca
     slug: people.slug,
     subcategory: people.subcategory,
     images: sql`${people.metadata}->'images'`,
+    profilePath: sql`${people.metadata}->>'profile_path'`,
     title: sql`${people.metadata}->>'title'`,
   }).from(people).where(eq(people.category, dbCategory));
 

@@ -19,7 +19,7 @@
   "original_language": "te",
   "original_title": "Nadhi",
   "overview": "1970s, Andhra Pradesh. Deep in the forest, the last of an ancient tribe tenuously holds onto its way of life amid disturbing omens and a brutal drought.",
-  "popularity": 0.1358,
+  "popularity": 1.5226,
   "poster_path": null,
   "production_companies": [
     {
@@ -56,6 +56,9 @@
   "video": false,
   "vote_average": 0,
   "vote_count": 0,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -65,7 +68,7 @@
         "known_for_department": "Acting",
         "name": "Nandita Das",
         "original_name": "Nandita Das",
-        "popularity": 0.4337,
+        "popularity": 1.5599,
         "profile_path": "/8MiMH0am4MwJS0OZNXcGNB6sMRt.jpg",
         "cast_id": 7,
         "character": "Devi",
@@ -79,7 +82,7 @@
         "known_for_department": "Acting",
         "name": "Nassar",
         "original_name": "Nassar",
-        "popularity": 1.4019,
+        "popularity": 1.8165,
         "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
         "cast_id": 8,
         "character": "Sathya Mohan",
@@ -93,7 +96,7 @@
         "known_for_department": "Acting",
         "name": "Maharshi Vudhya",
         "original_name": "Maharshi Vudhya",
-        "popularity": 0.0071,
+        "popularity": 0.5985,
         "profile_path": null,
         "cast_id": 9,
         "character": "Shankar",
@@ -107,7 +110,7 @@
         "known_for_department": "Acting",
         "name": "Anusha Nuthula",
         "original_name": "Anusha Nuthula",
-        "popularity": 0.1062,
+        "popularity": 0.7174,
         "profile_path": "/rdDUSE4HLlgzGWvLYgEtdK6vNlq.jpg",
         "cast_id": 10,
         "character": "Karuna",
@@ -121,7 +124,7 @@
         "known_for_department": "Acting",
         "name": "Jagan Yogiraj",
         "original_name": "Jagan Yogiraj",
-        "popularity": 0.0071,
+        "popularity": 0.4265,
         "profile_path": null,
         "cast_id": 11,
         "character": "Pradyumna",
@@ -135,7 +138,7 @@
         "known_for_department": "Acting",
         "name": "Mia Maelzer",
         "original_name": "Mia Maelzer",
-        "popularity": 0.2584,
+        "popularity": 0.6323,
         "profile_path": "/sASTXPvyC4JD1UeR1TExiuWYx6c.jpg",
         "cast_id": 12,
         "character": "Ratnam",
@@ -149,7 +152,7 @@
         "known_for_department": "Acting",
         "name": "Saileela",
         "original_name": "Saileela",
-        "popularity": 0,
+        "popularity": 0.3956,
         "profile_path": null,
         "cast_id": 13,
         "character": "Sita",
@@ -165,7 +168,7 @@
         "known_for_department": "Production",
         "name": "Aditya Vempaty",
         "original_name": "Aditya Vempaty",
-        "popularity": 0,
+        "popularity": 0.4669,
         "profile_path": null,
         "credit_id": "6915dd51177ad7dd279c50fd",
         "department": "Directing",
@@ -178,7 +181,7 @@
         "known_for_department": "Production",
         "name": "Aditya Vempaty",
         "original_name": "Aditya Vempaty",
-        "popularity": 0,
+        "popularity": 0.4669,
         "profile_path": null,
         "credit_id": "6915dd58540af423d04c9704",
         "department": "Writing",
@@ -191,7 +194,7 @@
         "known_for_department": "Production",
         "name": "Aditya Vempaty",
         "original_name": "Aditya Vempaty",
-        "popularity": 0,
+        "popularity": 0.4669,
         "profile_path": null,
         "credit_id": "6915dd69540af423d04c9707",
         "department": "Production",
@@ -204,7 +207,7 @@
         "known_for_department": "Production",
         "name": "Krishna Mamidibathula",
         "original_name": "Krishna Mamidibathula",
-        "popularity": 0.0071,
+        "popularity": 0.26,
         "profile_path": null,
         "credit_id": "6915dd75a33449c0669c5130",
         "department": "Production",
@@ -217,7 +220,7 @@
         "known_for_department": "Production",
         "name": "Brendan Bennett",
         "original_name": "Brendan Bennett",
-        "popularity": 0.0143,
+        "popularity": 0.4786,
         "profile_path": "/5ksztP8ABtIDMKG6qfapAydOQDC.jpg",
         "credit_id": "6915dd885ffda4900c4c93bc",
         "department": "Production",
@@ -230,7 +233,7 @@
         "known_for_department": "Production",
         "name": "Radha Krishna Nambu",
         "original_name": "Radha Krishna Nambu",
-        "popularity": 0,
+        "popularity": 0.2559,
         "profile_path": null,
         "credit_id": "6915dd996907a239e64c9642",
         "department": "Production",
@@ -238,19 +241,16 @@
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
-  "keywords": {
-    "keywords": []
-  },
-  "release_dates": {
-    "results": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "release_dates": {
+    "results": []
+  },
+  "keywords": {
+    "keywords": []
   },
   "alternative_titles": {
     "titles": []

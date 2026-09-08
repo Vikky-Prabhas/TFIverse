@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Naku Pellam Kavali",
   "overview": "A movie theater owner fixes a marriage for his eldest son, not realizing he is already in love with another woman.",
-  "popularity": 0.3122,
+  "popularity": 1.2075,
   "poster_path": null,
   "production_companies": [],
   "production_countries": [],
@@ -47,8 +47,8 @@
         "id": 545595,
         "known_for_department": "Acting",
         "name": "Rajendra Prasad",
-        "original_name": "Rajendra Prasad",
-        "popularity": 0.7246,
+        "original_name": "గద్దె రాజేంద్ర ప్రసాద్",
+        "popularity": 2.4506,
         "profile_path": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
         "cast_id": 1,
         "character": "",
@@ -60,9 +60,9 @@
         "gender": 2,
         "id": 586627,
         "known_for_department": "Acting",
-        "name": "Chandramohan",
+        "name": "Chandra Mohan",
         "original_name": "Chandramohan",
-        "popularity": 0.7185,
+        "popularity": 2.1343,
         "profile_path": "/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
         "cast_id": 2,
         "character": "",
@@ -76,7 +76,7 @@
         "known_for_department": "Acting",
         "name": "Nutan Prasad",
         "original_name": "Nutan Prasad",
-        "popularity": 0.4098,
+        "popularity": 1.8659,
         "profile_path": "/2f0TgaX78PSQP6IV2couwChSbPr.jpg",
         "cast_id": 3,
         "character": "",
@@ -90,7 +90,7 @@
         "known_for_department": "Acting",
         "name": "Shanti Priya",
         "original_name": "Shanti Priya",
-        "popularity": 0.4325,
+        "popularity": 1.0265,
         "profile_path": "/q2VA10KH3syj4Bw1LZMMrpFP6Se.jpg",
         "cast_id": 4,
         "character": "",
@@ -99,13 +99,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 584512,
         "known_for_department": "Acting",
         "name": "Nirmalamma",
         "original_name": "Nirmalamma",
-        "popularity": 0.2303,
-        "profile_path": null,
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
         "cast_id": 5,
         "character": "",
         "credit_id": "66862204f21127a0da4a7566",
@@ -120,7 +120,7 @@
         "known_for_department": "Directing",
         "name": "Vijaya Bapineedu",
         "original_name": "Vijaya Bapineedu",
-        "popularity": 0.1414,
+        "popularity": 0.4757,
         "profile_path": null,
         "credit_id": "668622dea1784ec9b1334354",
         "department": "Directing",
@@ -158,12 +158,12 @@
       }
     ]
   },
-  "alternative_titles": {
-    "titles": []
-  },
   "images": {
     "backdrops": [],
     "logos": [],
     "posters": []
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

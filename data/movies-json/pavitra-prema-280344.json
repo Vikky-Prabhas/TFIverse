@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Pavitra Prema",
   "overview": "Manikyam (Balakrishna) is seen as a god by the people he protects, but a terrible mistake from his past threatens to destroy his reputation.",
-  "popularity": 0.2995,
+  "popularity": 0.9204,
   "poster_path": "/1DnOzK3HFNjVXueR6cjyDMzmlp1.jpg",
   "production_companies": [],
   "production_countries": [
@@ -53,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Nandamuri Balakrishna",
         "original_name": "Nandamuri Balakrishna",
-        "popularity": 1.5728,
+        "popularity": 1.6369,
         "profile_path": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg",
         "cast_id": 3,
         "character": "Manikyam",
@@ -67,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Laila",
         "original_name": "Laila",
-        "popularity": 0.4886,
+        "popularity": 1.5897,
         "profile_path": "/yYflGhx9UiJ5aHA3k45BeTb5M12.jpg",
         "cast_id": 4,
         "character": "Dr. Shakuntala Devi",
@@ -76,13 +76,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 1337524,
         "known_for_department": "Acting",
         "name": "Roshini",
         "original_name": "Roshini",
-        "popularity": 0.0759,
-        "profile_path": null,
+        "popularity": 0.4239,
+        "profile_path": "/uvgTadjlYKjmjzoeS9zybAWKMDI.jpg",
         "cast_id": 9,
         "character": "Rani",
         "credit_id": "5f846b0225b955003529c6d4",
@@ -95,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Ponnambalam",
         "original_name": "Ponnambalam",
-        "popularity": 0.6952,
+        "popularity": 1.9124,
         "profile_path": "/x4Y8MqXrxcxxEXME4CgifzbwiW6.jpg",
         "cast_id": 7,
         "character": "Rayudu",
@@ -107,9 +107,9 @@
         "gender": 2,
         "id": 589654,
         "known_for_department": "Acting",
-        "name": "Ali Basha",
-        "original_name": "Ali Basha",
-        "popularity": 0.6916,
+        "name": "Ali",
+        "original_name": "ఆలీ",
+        "popularity": 2.4343,
         "profile_path": "/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
         "cast_id": 8,
         "character": "Simhadri",
@@ -122,8 +122,8 @@
         "id": 1510675,
         "known_for_department": "Acting",
         "name": "Suma Kanakala",
-        "original_name": "Suma Kanakala",
-        "popularity": 0.4259,
+        "original_name": "సుమ కనకాల",
+        "popularity": 1.1415,
         "profile_path": "/74fkLfyqnhyTwUiek8HI4xM8Y9g.jpg",
         "cast_id": 10,
         "character": "Swapna",
@@ -137,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Sudhakar",
         "original_name": "Sudhakar",
-        "popularity": 0.8908,
+        "popularity": 2.3287,
         "profile_path": "/5KLwpe33RflDnJDE1mtychosmLl.jpg",
         "cast_id": 11,
         "character": "Katari",
@@ -149,24 +149,11 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 1064957,
-        "known_for_department": "Acting",
-        "name": "Srinivasa Reddy",
-        "original_name": "Srinivasa Reddy",
-        "popularity": 0.5379,
-        "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
-        "credit_id": "53b6d04c0e0a2676cf00573a",
-        "department": "Production",
-        "job": "Producer"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 1092790,
         "known_for_department": "Directing",
         "name": "Muthyala Subbaiah",
         "original_name": "Muthyala Subbaiah",
-        "popularity": 0.173,
+        "popularity": 0.5706,
         "profile_path": null,
         "credit_id": "53b6d0400e0a2676c40057d3",
         "department": "Directing",
@@ -175,11 +162,24 @@
       {
         "adult": false,
         "gender": 2,
+        "id": 1064957,
+        "known_for_department": "Acting",
+        "name": "Srinivasa Reddy",
+        "original_name": "Srinivasa Reddy",
+        "popularity": 1.3572,
+        "profile_path": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg",
+        "credit_id": "53b6d04c0e0a2676cf00573a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
         "id": 552984,
         "known_for_department": "Sound",
         "name": "Saluri Koteswara Rao",
         "original_name": "Saluri Koteswara Rao",
-        "popularity": 0.2525,
+        "popularity": 0.5667,
         "profile_path": "/mihUu99EOf6qLCM3jlMtlwgLqbJ.jpg",
         "credit_id": "53b6d0450e0a2676b8005612",
         "department": "Sound",
@@ -190,12 +190,24 @@
   "videos": {
     "results": []
   },
-  "external_ids": {
-    "imdb_id": "tt8858024",
-    "wikidata_id": "Q7155903",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1DnOzK3HFNjVXueR6cjyDMzmlp1.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -214,26 +226,14 @@
       }
     ]
   },
-  "images": {
-    "backdrops": [],
-    "logos": [],
-    "posters": [
-      {
-        "aspect_ratio": 0.667,
-        "height": 750,
-        "iso_3166_1": null,
-        "iso_639_1": null,
-        "file_path": "/1DnOzK3HFNjVXueR6cjyDMzmlp1.jpg",
-        "vote_average": 0,
-        "vote_count": 0,
-        "width": 500
-      }
-    ]
-  },
   "alternative_titles": {
     "titles": []
   },
-  "keywords": {
-    "keywords": []
+  "external_ids": {
+    "imdb_id": "tt8858024",
+    "wikidata_id": "Q7155903",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
   }
 }

@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Masthu Shades Unnai Ra",
   "overview": "Manu, an artist, is on a mission to get noticed again after advanced printing technology shows up and steals his spotlight. He's trying out modern tricks to be more efficient. Will he make it?",
-  "popularity": 0.1698,
+  "popularity": 0.6324,
   "poster_path": "/mIXwi1j5m8tWrMPJxZNDcbXa31Z.jpg",
   "production_companies": [
     {
@@ -41,6 +41,9 @@
   "video": false,
   "vote_average": 7,
   "vote_count": 2,
+  "videos": {
+    "results": []
+  },
   "credits": {
     "cast": [
       {
@@ -50,7 +53,7 @@
         "known_for_department": "Acting",
         "name": "Abhinav Gomatam",
         "original_name": "Abhinav Gomatam",
-        "popularity": 0.3441,
+        "popularity": 0.816,
         "profile_path": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg",
         "cast_id": 5,
         "character": "",
@@ -64,7 +67,7 @@
         "known_for_department": "Acting",
         "name": "Vaishali Raj",
         "original_name": "Vaishali Raj",
-        "popularity": 0.1033,
+        "popularity": 0.4936,
         "profile_path": "/xGpxeqPGI8TYyQlHTDda8S4FmPV.jpg",
         "cast_id": 6,
         "character": "",
@@ -78,7 +81,7 @@
         "known_for_department": "Acting",
         "name": "Moin",
         "original_name": "Moin",
-        "popularity": 0.0807,
+        "popularity": 0.4419,
         "profile_path": "/aRVRJVCVNJAy2mhsxD2ez0UFnID.jpg",
         "cast_id": 7,
         "character": "Shiva",
@@ -92,7 +95,7 @@
         "known_for_department": "Acting",
         "name": "Ali Reza",
         "original_name": "Ali Reza",
-        "popularity": 0.1984,
+        "popularity": 0.7141,
         "profile_path": "/uM0SWmf5KV8hpwVOLALZezgOLK6.jpg",
         "cast_id": 8,
         "character": "",
@@ -105,8 +108,8 @@
         "id": 131262,
         "known_for_department": "Acting",
         "name": "Nizhalgal Ravi",
-        "original_name": "Nizhalgal Ravi",
-        "popularity": 0.4612,
+        "original_name": "நிழல்கள் ரவி",
+        "popularity": 2.5137,
         "profile_path": "/g62k2PPCRcet0PhagJxS3rFTpdK.jpg",
         "cast_id": 9,
         "character": "",
@@ -120,7 +123,7 @@
         "known_for_department": "Directing",
         "name": "Tharun Bhascker",
         "original_name": "Tharun Bhascker",
-        "popularity": 1.0896,
+        "popularity": 1.1133,
         "profile_path": "/fNG54JOFz3gZfgu1E6tCI0cg3jE.jpg",
         "cast_id": 10,
         "character": "",
@@ -134,7 +137,7 @@
         "known_for_department": "Acting",
         "name": "Lavanya Reddy",
         "original_name": "Lavanya Reddy",
-        "popularity": 0.0429,
+        "popularity": 0.4422,
         "profile_path": null,
         "cast_id": 11,
         "character": "",
@@ -148,7 +151,7 @@
         "known_for_department": "Acting",
         "name": "Shweta Avasthi",
         "original_name": "Shweta Avasthi",
-        "popularity": 0.1544,
+        "popularity": 0.3866,
         "profile_path": "/pxtkoimE0qsJCpxEg5Nx9kDmskd.jpg",
         "cast_id": 12,
         "character": "",
@@ -162,7 +165,7 @@
         "known_for_department": "Acting",
         "name": "Rocket Raghava",
         "original_name": "Rocket Raghava",
-        "popularity": 0.2257,
+        "popularity": 0.598,
         "profile_path": "/bMaXnip45ftfWITveT1aeNr1OjE.jpg",
         "cast_id": 13,
         "character": "",
@@ -176,7 +179,7 @@
         "known_for_department": "Acting",
         "name": "Chakrapani Ananda",
         "original_name": "Chakrapani Ananda",
-        "popularity": 0.1027,
+        "popularity": 0.7389,
         "profile_path": "/2jvujC0gUTWWIgsjR6YSjDbhzDw.jpg",
         "cast_id": 14,
         "character": "",
@@ -190,7 +193,7 @@
         "known_for_department": "Acting",
         "name": "Jyothi Reddy",
         "original_name": "Jyothi Reddy",
-        "popularity": 0,
+        "popularity": 0.2586,
         "profile_path": null,
         "cast_id": 15,
         "character": "",
@@ -204,7 +207,7 @@
         "known_for_department": "Acting",
         "name": "Phani Chandrasekhar",
         "original_name": "Phani Chandrasekhar",
-        "popularity": 0,
+        "popularity": 0.2663,
         "profile_path": null,
         "cast_id": 16,
         "character": "",
@@ -215,25 +218,12 @@
     "crew": [
       {
         "adult": false,
-        "gender": 2,
-        "id": 2271717,
-        "known_for_department": "Editing",
-        "name": "Raviteja Girijala",
-        "original_name": "Raviteja Girijala",
-        "popularity": 0.1517,
-        "profile_path": "/whmwrXt2rIGbE3PTSWmcHX9VfaO.jpg",
-        "credit_id": "65da8cd2ae2811017c4bfcf1",
-        "department": "Editing",
-        "job": "Editor"
-      },
-      {
-        "adult": false,
         "gender": 0,
         "id": 4555759,
         "known_for_department": "Directing",
         "name": "Thirupathi Rao Indla",
         "original_name": "Thirupathi Rao Indla",
-        "popularity": 0,
+        "popularity": 0.2586,
         "profile_path": null,
         "credit_id": "65da8b86a24c5001860f7cae",
         "department": "Directing",
@@ -241,29 +231,16 @@
       },
       {
         "adult": false,
-        "gender": 2,
-        "id": 1848153,
-        "known_for_department": "Sound",
-        "name": "Sanjeev Thomas",
-        "original_name": "Sanjeev Thomas",
-        "popularity": 0.0416,
-        "profile_path": null,
-        "credit_id": "65da8cbcedeb43018ae42e8d",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
         "gender": 0,
-        "id": 4555763,
-        "known_for_department": "Writing",
-        "name": "Anwar Sadiq",
-        "original_name": "Anwar Sadiq",
-        "popularity": 0.0071,
+        "id": 4555778,
+        "known_for_department": "Production",
+        "name": "Aarem Reddy",
+        "original_name": "Aarem Reddy",
+        "popularity": 0.2586,
         "profile_path": null,
-        "credit_id": "65da8ba5ae281101634bd912",
-        "department": "Writing",
-        "job": "Story"
+        "credit_id": "65da8ca600fb6b01864c1c3e",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -272,7 +249,7 @@
         "known_for_department": "Production",
         "name": "Prashanth .V",
         "original_name": "Prashanth .V",
-        "popularity": 0.0379,
+        "popularity": 0.2627,
         "profile_path": null,
         "credit_id": "65da8c92edeb43018ae42e00",
         "department": "Production",
@@ -281,15 +258,15 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 2949982,
-        "known_for_department": "Camera",
-        "name": "Siddhartha Swayambhoo",
-        "original_name": "Siddhartha Swayambhoo",
-        "popularity": 0.0071,
+        "id": 4555777,
+        "known_for_department": "Production",
+        "name": "Bhavani Kasula",
+        "original_name": "Bhavani Kasula",
+        "popularity": 0.2586,
         "profile_path": null,
-        "credit_id": "65da8cc7cabfe40163d02ce0",
-        "department": "Crew",
-        "job": "Cinematography"
+        "credit_id": "65da8c9d05b549017b168df4",
+        "department": "Production",
+        "job": "Producer"
       },
       {
         "adult": false,
@@ -298,7 +275,7 @@
         "known_for_department": "Art",
         "name": "Saravanan Vasanth",
         "original_name": "Saravanan Vasanth",
-        "popularity": 0.0604,
+        "popularity": 0.2882,
         "profile_path": null,
         "credit_id": "65da8cfc45765d0185d14981",
         "department": "Art",
@@ -311,7 +288,7 @@
         "known_for_department": "Writing",
         "name": "Radha Mohan Gunti",
         "original_name": "Radha Mohan Gunti",
-        "popularity": 0.0143,
+        "popularity": 0.2711,
         "profile_path": null,
         "credit_id": "65da8b98a24c5001860f7ce5",
         "department": "Writing",
@@ -320,56 +297,76 @@
       {
         "adult": false,
         "gender": 0,
-        "id": 4555759,
-        "known_for_department": "Directing",
-        "name": "Thirupathi Rao Indla",
-        "original_name": "Thirupathi Rao Indla",
-        "popularity": 0,
+        "id": 4555763,
+        "known_for_department": "Writing",
+        "name": "Anwar Sadiq",
+        "original_name": "Anwar Sadiq",
+        "popularity": 0.3433,
         "profile_path": null,
-        "credit_id": "65da8bb04c1d9a01636ee971",
+        "credit_id": "65da8ba5ae281101634bd912",
         "department": "Writing",
         "job": "Story"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4555778,
-        "known_for_department": "Production",
-        "name": "Aarem Reddy",
-        "original_name": "Aarem Reddy",
-        "popularity": 0,
+        "id": 2949982,
+        "known_for_department": "Camera",
+        "name": "Siddhartha Swayambhoo",
+        "original_name": "Siddhartha Swayambhoo",
+        "popularity": 0.2577,
         "profile_path": null,
-        "credit_id": "65da8ca600fb6b01864c1c3e",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "65da8cc7cabfe40163d02ce0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2271717,
+        "known_for_department": "Editing",
+        "name": "Raviteja Girijala",
+        "original_name": "Raviteja Girijala",
+        "popularity": 0.373,
+        "profile_path": "/whmwrXt2rIGbE3PTSWmcHX9VfaO.jpg",
+        "credit_id": "65da8cd2ae2811017c4bfcf1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1848153,
+        "known_for_department": "Sound",
+        "name": "Sanjeev Thomas",
+        "original_name": "Sanjeev Thomas",
+        "popularity": 0.2649,
+        "profile_path": null,
+        "credit_id": "65da8cbcedeb43018ae42e8d",
+        "department": "Sound",
+        "job": "Music"
       },
       {
         "adult": false,
         "gender": 0,
-        "id": 4555777,
-        "known_for_department": "Production",
-        "name": "Bhavani Kasula",
-        "original_name": "Bhavani Kasula",
-        "popularity": 0,
+        "id": 4555759,
+        "known_for_department": "Directing",
+        "name": "Thirupathi Rao Indla",
+        "original_name": "Thirupathi Rao Indla",
+        "popularity": 0.2586,
         "profile_path": null,
-        "credit_id": "65da8c9d05b549017b168df4",
-        "department": "Production",
-        "job": "Producer"
+        "credit_id": "65da8bb04c1d9a01636ee971",
+        "department": "Writing",
+        "job": "Story"
       }
     ]
   },
-  "videos": {
-    "results": []
-  },
   "external_ids": {
     "imdb_id": "tt31032531",
-    "wikidata_id": null,
+    "wikidata_id": "Q125570522",
     "facebook_id": null,
     "instagram_id": null,
     "twitter_id": null
-  },
-  "keywords": {
-    "keywords": []
   },
   "release_dates": {
     "results": [
@@ -387,6 +384,12 @@
         ]
       }
     ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "alternative_titles": {
+    "titles": []
   },
   "images": {
     "backdrops": [
@@ -414,8 +417,5 @@
         "width": 1280
       }
     ]
-  },
-  "alternative_titles": {
-    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Aarit",
   "overview": "A filmmaker recreates the tragic accident that shattered his family, hoping his art can revive his catatonic son.",
-  "popularity": 0.0214,
+  "popularity": 0.4319,
   "poster_path": "/v8AD7WzurHXCAfGESCsT3FQeGQm.jpg",
   "production_companies": [
     {
@@ -58,6 +58,22 @@
     "instagram_id": null,
     "twitter_id": null
   },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aarit | Single Shot - Short Film | Sudarshan Rao MS",
+        "key": "Vep88qy94VY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": false,
+        "id": "67d271e4a97c646cb5811397",
+        "published_at": "2025-03-01T11:30:06.000Z"
+      }
+    ]
+  },
   "credits": {
     "cast": [
       {
@@ -67,7 +83,7 @@
         "known_for_department": "Acting",
         "name": "Sreevishnu Achanta",
         "original_name": "Sreevishnu Achanta",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "cast_id": 1,
         "character": "Aavish",
@@ -81,7 +97,7 @@
         "known_for_department": "Acting",
         "name": "Shubham Raj",
         "original_name": "Shubham Raj",
-        "popularity": 0,
+        "popularity": 0.274,
         "profile_path": null,
         "cast_id": 2,
         "character": "Aarit",
@@ -97,7 +113,7 @@
         "known_for_department": "Production",
         "name": "Sudarshan Rao MS",
         "original_name": "Sudarshan Rao MS",
-        "popularity": 0.0214,
+        "popularity": 0.3028,
         "profile_path": "/qNQuojL6fwOfQYFloiTPdznEBKa.jpg",
         "credit_id": "67d27086325e62b3d1608fd2",
         "department": "Directing",
@@ -110,7 +126,7 @@
         "known_for_department": "Production",
         "name": "Sudarshan Rao MS",
         "original_name": "Sudarshan Rao MS",
-        "popularity": 0.0214,
+        "popularity": 0.3028,
         "profile_path": "/qNQuojL6fwOfQYFloiTPdznEBKa.jpg",
         "credit_id": "67d270a364443984b11e2654",
         "department": "Writing",
@@ -123,7 +139,7 @@
         "known_for_department": "Production",
         "name": "Sudarshan Rao MS",
         "original_name": "Sudarshan Rao MS",
-        "popularity": 0.0214,
+        "popularity": 0.3028,
         "profile_path": "/qNQuojL6fwOfQYFloiTPdznEBKa.jpg",
         "credit_id": "67d270b6a97c646cb581134a",
         "department": "Editing",
@@ -136,7 +152,7 @@
         "known_for_department": "Production",
         "name": "Sudarshan Rao MS",
         "original_name": "Sudarshan Rao MS",
-        "popularity": 0.0214,
+        "popularity": 0.3028,
         "profile_path": "/qNQuojL6fwOfQYFloiTPdznEBKa.jpg",
         "credit_id": "67d270c8a97c646cb5811354",
         "department": "Production",
@@ -149,7 +165,7 @@
         "known_for_department": "Crew",
         "name": "Rupal Sarawagi",
         "original_name": "Rupal Sarawagi",
-        "popularity": 0,
+        "popularity": 0.3138,
         "profile_path": null,
         "credit_id": "67d270ddeedb53e52c1de314",
         "department": "Crew",
@@ -162,7 +178,7 @@
         "known_for_department": "Art",
         "name": "Arsh Herekar",
         "original_name": "Arsh Herekar",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "credit_id": "67d270f52ea1389f9f608273",
         "department": "Art",
@@ -175,7 +191,7 @@
         "known_for_department": "Art",
         "name": "Muskan Kaur",
         "original_name": "Muskan Kaur",
-        "popularity": 0,
+        "popularity": 0.2488,
         "profile_path": null,
         "credit_id": "67d2711666892bad62819e65",
         "department": "Art",
@@ -188,7 +204,7 @@
         "known_for_department": "Crew",
         "name": "Shannen Jomy",
         "original_name": "Shannen Jomy",
-        "popularity": 0,
+        "popularity": 0.2886,
         "profile_path": null,
         "credit_id": "67d2712bd4f741373260ccb6",
         "department": "Sound",
@@ -196,19 +212,11 @@
       }
     ]
   },
-  "videos": {
-    "results": [
+  "keywords": {
+    "keywords": [
       {
-        "iso_639_1": "en",
-        "iso_3166_1": "US",
-        "name": "Aarit | Single Shot - Short Film | Sudarshan Rao MS",
-        "key": "Vep88qy94VY",
-        "site": "YouTube",
-        "size": 2160,
-        "type": "Featurette",
-        "official": false,
-        "id": "67d271e4a97c646cb5811397",
-        "published_at": "2025-03-01T11:30:06.000Z"
+        "id": 349815,
+        "name": "aarit"
       }
     ]
   },
@@ -226,17 +234,6 @@
             "type": 4
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": []
-  },
-  "keywords": {
-    "keywords": [
-      {
-        "id": 349815,
-        "name": "aarit"
       }
     ]
   },
@@ -266,5 +263,8 @@
         "width": 2000
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

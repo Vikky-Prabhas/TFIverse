@@ -13,7 +13,7 @@
   "original_language": "te",
   "original_title": "Annapurna Photo Studio",
   "overview": "Chanti leads a simple yet comfortable life. He runs a photo studio and falls in love with a girl. However, things take a dark turn when Chandu attempts suicide, leading the police to investigate the case based on his suicide note.",
-  "popularity": 0.0533,
+  "popularity": 0.651,
   "poster_path": "/soJfroW9lTIoH93TlJVk4BK7iMw.jpg",
   "production_companies": [],
   "production_countries": [],
@@ -37,7 +37,7 @@
         "known_for_department": "Acting",
         "name": "Lavannya Sahukara",
         "original_name": "Lavannya Sahukara",
-        "popularity": 0.0143,
+        "popularity": 0.549,
         "profile_path": "/Vep8fwvEQ6nNCKg0AL5M1mj33G.jpg",
         "cast_id": 7,
         "character": "Gauthami",
@@ -51,7 +51,7 @@
         "known_for_department": "Acting",
         "name": "Chaitanya Rao",
         "original_name": "Chaitanya Rao",
-        "popularity": 0.3078,
+        "popularity": 0.4914,
         "profile_path": "/sYpgQuCCLhRo3Ix96Umo2XqG2av.jpg",
         "cast_id": 8,
         "character": "Chanti",
@@ -67,7 +67,7 @@
         "known_for_department": "Directing",
         "name": "Chendu Muddu",
         "original_name": "Chendu Muddu",
-        "popularity": 0,
+        "popularity": 0.4617,
         "profile_path": null,
         "credit_id": "64bc0ce0af85de00c662847c",
         "department": "Directing",
@@ -80,7 +80,7 @@
         "known_for_department": "Crew",
         "name": "Pankaj Tottada",
         "original_name": "Pankaj Tottada",
-        "popularity": 0,
+        "popularity": 0.3416,
         "profile_path": null,
         "credit_id": "64bc0d26c3aa3f00aeecfd0b",
         "department": "Crew",
@@ -93,7 +93,7 @@
         "known_for_department": "Directing",
         "name": "Chendu Muddu",
         "original_name": "Chendu Muddu",
-        "popularity": 0,
+        "popularity": 0.4617,
         "profile_path": null,
         "credit_id": "64bc0cf5eb79c200e28d0d08",
         "department": "Writing",
@@ -106,7 +106,7 @@
         "known_for_department": "Production",
         "name": "Yash Rangineni",
         "original_name": "Yash Rangineni",
-        "popularity": 0.116,
+        "popularity": 0.2938,
         "profile_path": null,
         "credit_id": "64bc0d0f0ed2ab011ca79171",
         "department": "Production",
@@ -119,23 +119,13 @@
         "known_for_department": "Editing",
         "name": "D. Venkata Prabhu",
         "original_name": "D. Venkata Prabhu",
-        "popularity": 0,
+        "popularity": 0.2932,
         "profile_path": null,
         "credit_id": "64bc0d3c58efd300ace1860f",
         "department": "Editing",
         "job": "Editor"
       }
     ]
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt27730573",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
   },
   "keywords": {
     "keywords": []
@@ -156,6 +146,25 @@
       }
     ]
   },
+  "external_ids": {
+    "imdb_id": "tt27730573",
+    "wikidata_id": "Q119625118",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IN",
+        "title": "Annapoorna Photo Studio",
+        "type": "Alternate"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
   "release_dates": {
     "results": [
       {
@@ -170,15 +179,6 @@
             "type": 3
           }
         ]
-      }
-    ]
-  },
-  "alternative_titles": {
-    "titles": [
-      {
-        "iso_3166_1": "IN",
-        "title": "Annapoorna Photo Studio",
-        "type": "Alternate"
       }
     ]
   }

@@ -22,7 +22,7 @@
   "original_language": "te",
   "original_title": "Anaganaga O Premakatha",
   "overview": "Anaganaga O Premakatha is an upcoming Telugu movie scheduled to be released on 14 Dec, 2018. The movie is directed by Pratap Tatamsetti and will feature Riddhi Kumar and Ashwin J Viraj as lead characters.",
-  "popularity": 0.1397,
+  "popularity": 0.5924,
   "poster_path": "/rncalz67UfzTNMuEoMNmtzXri9y.jpg",
   "production_companies": [],
   "production_countries": [
@@ -48,19 +48,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 1,
-  "alternative_titles": {
-    "titles": []
-  },
-  "videos": {
-    "results": []
-  },
-  "external_ids": {
-    "imdb_id": "tt9461496",
-    "wikidata_id": null,
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
   "credits": {
     "cast": [
       {
@@ -70,7 +57,7 @@
         "known_for_department": "Acting",
         "name": "Riddhi Kumar",
         "original_name": "Riddhi Kumar",
-        "popularity": 0.3884,
+        "popularity": 0.9562,
         "profile_path": "/kHFRGsX0HS3Viblm7Htns4lyJYn.jpg",
         "cast_id": 0,
         "character": "",
@@ -84,7 +71,7 @@
         "known_for_department": "Acting",
         "name": "Ashwin J Viraj",
         "original_name": "Ashwin J Viraj",
-        "popularity": 0.0071,
+        "popularity": 0.2873,
         "profile_path": null,
         "cast_id": 1,
         "character": "",
@@ -100,13 +87,23 @@
         "known_for_department": "Directing",
         "name": "Pratap Tatamsetti",
         "original_name": "Pratap Tatamsetti",
-        "popularity": 0.0071,
+        "popularity": 0.3084,
         "profile_path": null,
         "credit_id": "5c11d0580e0a2638b81119ef",
         "department": "Directing",
         "job": "Director"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt9461496",
+    "wikidata_id": "Q127688183",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "videos": {
+    "results": []
   },
   "keywords": {
     "keywords": []
@@ -153,5 +150,8 @@
         "width": 624
       }
     ]
+  },
+  "alternative_titles": {
+    "titles": []
   }
 }

@@ -18,7 +18,7 @@
   "original_language": "te",
   "original_title": "Hero",
   "overview": "Hero is action oriented movie in which Chiranjeevi played a role of archeologist in thish movie, who comes to a village in search of a plan for the hidden treasure. His friend vikram was killed in the same village trying for that plan.One day during his work, he saves kanakaraju (rao gopal rao), his wives (jayamalini, jyoti lakshmi) and Allu from dying. They become his friend and also treat him as their philosopher and guide.Meanwhile radhika, a village belle who cheats people with her mother nirmalamma meets Chiranjeevi and falls for him. She forces him to marry her.When krishna refuses, she successfully enerts the role of a rape victim in front of the villagers. Krishna later learns that Kanakraju was in fact Kondababu, who killed vikram, who was seacring a plan for the hidden treasure. How krishna plans and exposes kanakaraju’s reality forms the rest of the story.",
-  "popularity": 0.2826,
+  "popularity": 0.6193,
   "poster_path": "/yaUON3PMyt98clgnO2O5YXjGqWW.jpg",
   "production_companies": [
     {
@@ -40,9 +40,6 @@
   "video": false,
   "vote_average": 8,
   "vote_count": 3,
-  "keywords": {
-    "keywords": []
-  },
   "credits": {
     "cast": [
       {
@@ -52,7 +49,7 @@
         "known_for_department": "Acting",
         "name": "Chiranjeevi",
         "original_name": "Chiranjeevi",
-        "popularity": 0.7305,
+        "popularity": 1.9398,
         "profile_path": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg",
         "cast_id": 3,
         "character": "",
@@ -64,9 +61,9 @@
         "gender": 1,
         "id": 562177,
         "known_for_department": "Acting",
-        "name": "Radikaa Sarathkumar",
-        "original_name": "Radhika Sarathkumar",
-        "popularity": 5.5182,
+        "name": "Radhika Sarathkumar",
+        "original_name": "ராதிகா",
+        "popularity": 2.1873,
         "profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
         "cast_id": 4,
         "character": "",
@@ -80,7 +77,7 @@
         "known_for_department": "Acting",
         "name": "Rao Gopal Rao",
         "original_name": "Rao Gopal Rao",
-        "popularity": 0.496,
+        "popularity": 1.3539,
         "profile_path": "/5s1FqtrDKSc35NUCH42cPPbtSSs.jpg",
         "cast_id": 5,
         "character": "",
@@ -94,7 +91,7 @@
         "known_for_department": "Acting",
         "name": "Kaikala Satyanarayana",
         "original_name": "Kaikala Satyanarayana",
-        "popularity": 0.4741,
+        "popularity": 2.8385,
         "profile_path": "/wEw5EQRIi7KLAQWIMlOyHxZxeuy.jpg",
         "cast_id": 6,
         "character": "",
@@ -108,7 +105,7 @@
         "known_for_department": "Acting",
         "name": "Allu Ramalingaiah",
         "original_name": "Allu Ramalingaiah",
-        "popularity": 0.3037,
+        "popularity": 2.0609,
         "profile_path": "/tYVXmeZSgbYCuIsResUfrm2kjnz.jpg",
         "cast_id": 7,
         "character": "",
@@ -117,13 +114,13 @@
       },
       {
         "adult": false,
-        "gender": 0,
+        "gender": 1,
         "id": 584512,
         "known_for_department": "Acting",
         "name": "Nirmalamma",
         "original_name": "Nirmalamma",
-        "popularity": 0.2303,
-        "profile_path": null,
+        "popularity": 0.7658,
+        "profile_path": "/wPCRNFEEF6x2LioDJcBu0csyzid.jpg",
         "cast_id": 8,
         "character": "",
         "credit_id": "53b0c91b0e0a265989007110",
@@ -136,7 +133,7 @@
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3304,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "cast_id": 9,
         "character": "",
@@ -150,8 +147,8 @@
         "known_for_department": "Acting",
         "name": "Jayamalini",
         "original_name": "Jayamalini",
-        "popularity": 0.2755,
-        "profile_path": "/pnjsF2Uc5xzJzrXhUoVjxOKQcIk.jpg",
+        "popularity": 1.6119,
+        "profile_path": "/jUbgCuJJAHAWQfddrznIZ4XUmmc.jpg",
         "cast_id": 10,
         "character": "",
         "credit_id": "53b0c9210e0a26597d0071bf",
@@ -164,8 +161,8 @@
         "known_for_department": "Acting",
         "name": "Jyothi Lakshmi",
         "original_name": "Jyothi Lakshmi",
-        "popularity": 0.3759,
-        "profile_path": null,
+        "popularity": 1.2725,
+        "profile_path": "/adiJL8TvTsNw3bD0IB9tLSRQpXZ.jpg",
         "cast_id": 11,
         "character": "",
         "credit_id": "53b0c923c3a3682ee2005c32",
@@ -180,7 +177,7 @@
         "known_for_department": "Directing",
         "name": "Vijaya Bapineedu",
         "original_name": "Vijaya Bapineedu",
-        "popularity": 0.1414,
+        "popularity": 0.4757,
         "profile_path": null,
         "credit_id": "53b0c9070e0a265986006f36",
         "department": "Directing",
@@ -189,30 +186,43 @@
       {
         "adult": false,
         "gender": 2,
-        "id": 933605,
-        "known_for_department": "Sound",
-        "name": "K. Chakravarthy",
-        "original_name": "Chakravarthy",
-        "popularity": 0.1305,
-        "profile_path": null,
-        "credit_id": "53b0c9090e0a2659790070b8",
-        "department": "Sound",
-        "job": "Music"
-      },
-      {
-        "adult": false,
-        "gender": 2,
         "id": 592813,
         "known_for_department": "Production",
         "name": "Allu Aravind",
         "original_name": "Allu Aravind",
-        "popularity": 0.3304,
+        "popularity": 0.5792,
         "profile_path": "/A8kwUqjUPOht79Eqi3rD4zPA0fY.jpg",
         "credit_id": "53b0c90bc3a3682ee2005c2e",
         "department": "Production",
         "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933605,
+        "known_for_department": "Sound",
+        "name": "K. Chakravarthy",
+        "original_name": "Chakravarthy",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "credit_id": "53b0c9090e0a2659790070b8",
+        "department": "Sound",
+        "job": "Music"
       }
     ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0245942",
+    "wikidata_id": "Q5742559",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
   },
   "release_dates": {
     "results": [
@@ -230,16 +240,6 @@
         ]
       }
     ]
-  },
-  "external_ids": {
-    "imdb_id": "tt0245942",
-    "wikidata_id": "Q5742559",
-    "facebook_id": null,
-    "instagram_id": null,
-    "twitter_id": null
-  },
-  "videos": {
-    "results": []
   },
   "images": {
     "backdrops": [],
