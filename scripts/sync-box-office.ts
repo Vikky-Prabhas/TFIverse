@@ -14,6 +14,8 @@ const BMS_DATA_URL = `${B2_PUBLIC_URL}/LATEST_bms_live.json`;
 const PAYTM_DATA_URL = `${B2_PUBLIC_URL}/LATEST_paytm_live.json`;
 const BMS_ADVANCE_URL = `${B2_PUBLIC_URL}/LATEST_bms_advance.json`;
 const PAYTM_ADVANCE_URL = `${B2_PUBLIC_URL}/LATEST_paytm_advance.json`;
+const BMS_DEEP_ADVANCE_URL = `${B2_PUBLIC_URL}/LATEST_bms_deep_advance.json`;
+const PAYTM_DEEP_ADVANCE_URL = `${B2_PUBLIC_URL}/LATEST_paytm_deep_advance.json`;
 const SACNILK_DATA_URL = 'https://raw.githubusercontent.com/tfiverse/tfiverse-data-engine/main/data/sacnilk_data.json';
 const BMS_VENUES_URL = 'https://raw.githubusercontent.com/tfiverse/tfiverse-data-engine/main/data/bms_venues_master.json';
 
@@ -182,10 +184,17 @@ async function syncBoxOfficeData() {
     const paytmSessions = await fetchJSON(PAYTM_DATA_URL);
     const bmsAdvance = await fetchJSON(BMS_ADVANCE_URL);
     const paytmAdvance = await fetchJSON(PAYTM_ADVANCE_URL);
+    
+    // Fetch deep advance and merge them into the advance arrays
+    const bmsDeepAdvance = await fetchJSON(BMS_DEEP_ADVANCE_URL);
+    const paytmDeepAdvance = await fetchJSON(PAYTM_DEEP_ADVANCE_URL);
+    bmsAdvance.push(...bmsDeepAdvance);
+    paytmAdvance.push(...paytmDeepAdvance);
+    
     const sacnilkData = await fetchJSON(SACNILK_DATA_URL);
 
     console.log(`✅ Fetched ${bmsSessions.length} BMS sessions and ${paytmSessions.length} Paytm sessions.`);
-    console.log(`✅ Fetched ${bmsAdvance.length} BMS advance and ${paytmAdvance.length} Paytm advance.`);
+    console.log(`✅ Fetched ${bmsAdvance.length} BMS advance and ${paytmAdvance.length} Paytm advance (including Deep Advance).`);
     console.log(`✅ Fetched ${sacnilkData.length} SACNilk industry estimates.`);
 
     if (bmsSessions.length === 0 && paytmSessions.length === 0 && bmsAdvance.length === 0 && paytmAdvance.length === 0 && sacnilkData.length === 0) {
